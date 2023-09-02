@@ -1,0 +1,30 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and be shown the distributional label of how all annotators have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: what do you call a bunch of cripples in a hot tub ? vegetable stew
+ANSWER: 2
+
+2.
+EXAMPLE: Dude my thesis class is on transhumanism and I'm so fucking stoked.
+ANSWER: 2
+
+3.
+EXAMPLE: "@947 @TheZweli @MantsoePout a girl who always says ""like like"" when she speaks and also who would tell me about chicken ribs.."
+ANSWER: 1
+
+4.
+EXAMPLE: What’s blue and black and hates sex? A 9 year old girl in my trunk
+ANSWER: 2
+
+Here's how the distributional label of how all annotators have annotated the target example:
+0.00% of people responded with 0
+50.00% of people responded with 1
+50.00% of people responded with 2
+
+How would the particular annotator annotate the target example?
+EXAMPLE: "Mike Pence's fucking life philosophy is, ""Boys will be boys."" That is absolutely insane for a VP in 2017."
+ANSWER:

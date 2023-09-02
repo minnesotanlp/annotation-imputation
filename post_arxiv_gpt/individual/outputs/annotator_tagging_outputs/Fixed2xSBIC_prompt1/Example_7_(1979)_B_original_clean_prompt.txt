@@ -1,0 +1,74 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Lol im out here curving bitches like im taken
+Annotation from annotator: 0
+
+Example 2:
+Text: How to I gain the bravery to end my life
+I can't take this shit anymore 
+
+Suicide is my only salvation but I am too scared to do it 
+
+Please help
+
+Women: please be my gf and give me a chance 
+
+Men: if you ever see me, don't hesitate to murder me in cold blood
+Annotation from annotator: 0
+
+Example 3:
+Text: Man tricks women into aborting a baby she wants but he doesn't, discussion on /r/NotTheOnion
+Annotation from annotator: 0
+
+Example 4:
+Text: Hit or miss I guess she took the kids huh.
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: What actionable things would you recommend to do to further men's rights?
+Annotation from annotator: 0
+
+Example 2:
+Text: RT @YunGMiGo: &#128557;&#128557;&#128557;&#128514;&#128514;RT @Shane_A1: Can you imagine Tryn yo hardest to stop a bitch frm slutin and still comin up unsuccessful
+Annotation from annotator: 2
+
+Example 3:
+Text: #FollowFriday ✨
+
+@OccamsEpilady
+@FrozenFrog
+@Leamorabito
+@Mbarris01
+@CGMCPO
+@AquaRuby
+@Hippiemamagypsylove
+Annotation from annotator: 0
+
+Example 4:
+Text: I can not believe you think it’s ok for a woman to put her husband and family in financial strain you are not making any sense. Lol you are unbelievable. [...] That makes her a terrible person
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: what do a used car lot and a cambodian whore house have in common ? nobody wants to buy anything over <number> years old .
+Annotation from annotator: 2
+
+Example 2:
+Text: nc recently took a substantial amount of money . <repeat> nc recently took a substantial amount of money out of its disaster relief funds in order to defend house bill <number> hurricane matthew is such a sjw <allcaps> that it killed <number> haitians to let nc know what the fuck is up .
+Annotation from annotator: 2
+
+Example 3:
+Text: is the glass half full or half empty ? i really do n't know , because there 's different ways to look at it : - optimism : the glass is half full . - pessimism : the glass is half empty . - feminism : the glass is raping me .
+Annotation from annotator: 2
+
+Example 4:
+Text: the us government plans to settle syrian refugees in alabama . <repeat> what kkkould possibly go wrong ?
+Annotation from annotator: 2
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: i like my pizza the same way i like my jews . <repeat> thin and crispy .
+Annotation from annotator:

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVmoIE301w58JvD9RR0fCmUkf9w0",
+    "object": "chat.completion",
+    "created": 1686314742,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 553,
+        "completion_tokens": 130,
+        "total_tokens": 683
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n1.00% of responsive annotators labeled the text with 1\n15.00% of responsive annotators labeled the text with 2\n60.00% of responsive annotators labeled the text with 3\n24.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels provided, it seems that the statement \"You should always give your kids financial advice\" is not a universal belief, but is still a relatively common and accepted rule of thumb. Therefore, I would predict a soft label of 3 for this text."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

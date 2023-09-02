@@ -1,0 +1,122 @@
+Example 1:
+Text: It's immoral to actively fight against social justice.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's understandable to feel nervous when entering a new relationship.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's bad to hurt yourself when you're angry.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's okay to send a picture of yourself to friends.
+Annotation from annotator: 4
+
+Example 5:
+Text: Don't be afraid to ignore people who are deliberately trying to annoy you.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should be grateful when someone does nice things for you.
+Annotation from annotator: 4
+
+Example 7:
+Text: You're expected to spend time with your children.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's okay if you feel sad that your child won't teach your grandchildren your language when you speak something different.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's good to get help from officials.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's okay to feel offended when people don't appreciate a gift.
+Annotation from annotator: 4
+
+Example 11:
+Text: One is expected to keep appointments that they make.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's rude to trade your partner like an object with your friends.
+Annotation from annotator: 4
+
+Example 13:
+Text: You shouldn't quit your job without notifying your boss first.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should do your best on assignments so that you can good grades
+Annotation from annotator: 3
+
+Example 15:
+Text: It's normal to be shocked when you get a result you didn't expect.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's good to watch out for a child's safety, even if it ruins their fun.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's okay to have dreams about past loved ones.
+Annotation from annotator: 4
+
+Example 18:
+Text: It’s good to be in love.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's understandable to want a partner to wear clothing that appeals to you.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's okay to be old fashioned in your beliefs about manners.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's understandable that sometimes we have personal conflicts, even with relatives.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's okay to be confused when your friend leaves you.
+Annotation from annotator: 1
+
+Example 23:
+Text: It's expected that families will not get along well with their in-laws.
+Annotation from annotator: 1
+
+Example 24:
+Text: You shouldn't talk down on yourself.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is ok to ask someone to leave if they are being rude on their phone.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's good to see a doctor if you are depressed.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should educate your friends when they make homophobic remarks.
+Annotation from annotator: 2
+
+Example 28:
+Text: It's not okay for parents to be emotionally attached to their kids personal lives.
+Annotation from annotator: 2
+
+Example 29:
+Text: You shouldn't give a speech just to offend someone else.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's okay to get aggravated with people and not want them around you.
+Annotation from annotator: 4
+
+Text: It's not okay to not have people in real life to talk to.
+Annotation from annotator:

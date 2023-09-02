@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVls4YisQeeO7d1gcX3ILMav4ON8",
+    "object": "chat.completion",
+    "created": 1686314684,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 554,
+        "completion_tokens": 160,
+        "total_tokens": 714
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n0.00% of responsive annotators labeled the text with 1\n10.00% of responsive annotators labeled the text with 2\n60.00% of responsive annotators labeled the text with 3\n30.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels provided by the raters, it seems that the statement \"It's okay to hurt somebody who's stealing from you\" is not widely accepted. The majority of the raters (60%) labeled it as controversial (2) and only a small percentage (10%) labeled it as occasional (1). Therefore, my prediction for the soft label of this text would be 2 (controversial)."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

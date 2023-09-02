@@ -1,0 +1,202 @@
+{
+    "SChem": {
+        "low_disagreement": {
+            "original": {
+                "n_examples": 133,
+                "weighted_f1_mean": 0.6084976216797735,
+                "weighted_f1_std": 0.043410163698517384,
+                "accuracy_mean": 0.6505060865060864,
+                "accuracy_std": 0.039469794666893945
+            },
+            "imputed": {
+                "n_examples": 133,
+                "weighted_f1_mean": 0.6037034034380906,
+                "weighted_f1_std": 0.05012200395980268,
+                "accuracy_mean": 0.6494909756909758,
+                "accuracy_std": 0.04142014603524211
+            }
+        },
+        "medium_disagreement": {
+            "original": {
+                "n_examples": 137,
+                "weighted_f1_mean": 0.5901583919361277,
+                "weighted_f1_std": 0.03252190854395957,
+                "accuracy_mean": 0.6367892136471447,
+                "accuracy_std": 0.02451134658650459
+            },
+            "imputed": {
+                "n_examples": 137,
+                "weighted_f1_mean": 0.5812138525086236,
+                "weighted_f1_std": 0.03044031167806808,
+                "accuracy_mean": 0.6316682868089765,
+                "accuracy_std": 0.024792748885312736
+            }
+        },
+        "high_disagreement": {
+            "original": {
+                "n_examples": 130,
+                "weighted_f1_mean": 0.4044845845342131,
+                "weighted_f1_std": 0.05010641611921157,
+                "accuracy_mean": 0.4847957487922706,
+                "accuracy_std": 0.034609467045406454
+            },
+            "imputed": {
+                "n_examples": 130,
+                "weighted_f1_mean": 0.393889581562481,
+                "weighted_f1_std": 0.04470503297591498,
+                "accuracy_mean": 0.48112798711755234,
+                "accuracy_std": 0.03399751856210534
+            }
+        }
+    },
+    "ghc": {
+        "low_disagreement": {
+            "original": {
+                "n_examples": 20344,
+                "weighted_f1_mean": 0.9650646135487666,
+                "weighted_f1_std": 0.0035919823640125363,
+                "accuracy_mean": 0.9613120046521659,
+                "accuracy_std": 0.004874293421842634
+            },
+            "imputed": {
+                "n_examples": 20344,
+                "weighted_f1_mean": 0.967578631982339,
+                "weighted_f1_std": 0.003400871658778724,
+                "accuracy_mean": 0.9672912066745593,
+                "accuracy_std": 0.005315081513211217
+            }
+        },
+        "medium_disagreement": {
+            "original": {
+                "n_examples": 814,
+                "weighted_f1_mean": 0.721367610502975,
+                "weighted_f1_std": 0.011809953619935214,
+                "accuracy_mean": 0.7478589440411819,
+                "accuracy_std": 0.011353835910677564
+            },
+            "imputed": {
+                "n_examples": 814,
+                "weighted_f1_mean": 0.653992849688788,
+                "weighted_f1_std": 0.027418609433141197,
+                "accuracy_mean": 0.7158814905103238,
+                "accuracy_std": 0.01188281412305092
+            }
+        },
+        "high_disagreement": {
+            "original": {
+                "n_examples": 6392,
+                "weighted_f1_mean": 0.7172613471486338,
+                "weighted_f1_std": 0.006491825745550895,
+                "accuracy_mean": 0.7326226433717584,
+                "accuracy_std": 0.004993310015229622
+            },
+            "imputed": {
+                "n_examples": 6392,
+                "weighted_f1_mean": 0.6536981333944473,
+                "weighted_f1_std": 0.02116818160277551,
+                "accuracy_mean": 0.689706438267875,
+                "accuracy_std": 0.012779110270319829
+            }
+        }
+    },
+    "politeness": {
+        "low_disagreement": {
+            "original": {
+                "n_examples": 1306,
+                "weighted_f1_mean": 0.48120380638552174,
+                "weighted_f1_std": 0.015003693040307527,
+                "accuracy_mean": 0.49219563692529833,
+                "accuracy_std": 0.012867498492488002
+            },
+            "imputed": {
+                "n_examples": 1306,
+                "weighted_f1_mean": 0.3515000843109074,
+                "weighted_f1_std": 0.024423042985846778,
+                "accuracy_mean": 0.3094969935476556,
+                "accuracy_std": 0.02880091244278173
+            }
+        },
+        "medium_disagreement": {
+            "original": {
+                "n_examples": 2267,
+                "weighted_f1_mean": 0.29339640191228217,
+                "weighted_f1_std": 0.013027281571229126,
+                "accuracy_mean": 0.32702924633202246,
+                "accuracy_std": 0.008338600762043144
+            },
+            "imputed": {
+                "n_examples": 2267,
+                "weighted_f1_mean": 0.20343959118811164,
+                "weighted_f1_std": 0.00810099252797379,
+                "accuracy_mean": 0.20399349985034596,
+                "accuracy_std": 0.012551168356197103
+            }
+        },
+        "high_disagreement": {
+            "original": {
+                "n_examples": 762,
+                "weighted_f1_mean": 0.1928247201657683,
+                "weighted_f1_std": 0.013195361605434393,
+                "accuracy_mean": 0.22916382287733886,
+                "accuracy_std": 0.01526503062362149
+            },
+            "imputed": {
+                "n_examples": 762,
+                "weighted_f1_mean": 0.12072181934821016,
+                "weighted_f1_std": 0.00463670206966583,
+                "accuracy_mean": 0.13652631505497842,
+                "accuracy_std": 0.00672868368961576
+            }
+        }
+    },
+    "Sentiment": {
+        "low_disagreement": {
+            "original": {
+                "n_examples": 5211,
+                "weighted_f1_mean": 0.5324571569942578,
+                "weighted_f1_std": 0.05111699850508762,
+                "accuracy_mean": 0.5321725432786157,
+                "accuracy_std": 0.037182802697413704
+            },
+            "imputed": {
+                "n_examples": 5211,
+                "weighted_f1_mean": 0.5449051683041495,
+                "weighted_f1_std": 0.061241482013298314,
+                "accuracy_mean": 0.5632725162096079,
+                "accuracy_std": 0.040532881147859606
+            }
+        },
+        "medium_disagreement": {
+            "original": {
+                "n_examples": 6268,
+                "weighted_f1_mean": 0.46808139616445665,
+                "weighted_f1_std": 0.02891542362350093,
+                "accuracy_mean": 0.48183750365719646,
+                "accuracy_std": 0.02343177492620051
+            },
+            "imputed": {
+                "n_examples": 6268,
+                "weighted_f1_mean": 0.44191238107508113,
+                "weighted_f1_std": 0.05400200687608919,
+                "accuracy_mean": 0.47397393768825047,
+                "accuracy_std": 0.04193083891732353
+            }
+        },
+        "high_disagreement": {
+            "original": {
+                "n_examples": 2591,
+                "weighted_f1_mean": 0.46204992863167993,
+                "weighted_f1_std": 0.01678048028712076,
+                "accuracy_mean": 0.4780797237989164,
+                "accuracy_std": 0.015631587693782693
+            },
+            "imputed": {
+                "n_examples": 2591,
+                "weighted_f1_mean": 0.36385691607325327,
+                "weighted_f1_std": 0.035993446785933615,
+                "accuracy_mean": 0.40560149983244054,
+                "accuracy_std": 0.028556435702519995
+            }
+        }
+    }
+}

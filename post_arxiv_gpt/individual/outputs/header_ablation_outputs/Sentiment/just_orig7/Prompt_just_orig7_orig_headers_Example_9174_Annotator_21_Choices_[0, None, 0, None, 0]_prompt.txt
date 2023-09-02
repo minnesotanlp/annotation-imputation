@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Estimated Examples:
+Example 1:
+Text: <--eating fresh homemade strawberry muffins with a 4 year old.  We successfully baked them with little mess
+Annotation from annotator: 3
+
+Example 2:
+Text: @tokyodiamonds My poor girl Rhianna.  I just wish she would wise up a bit about men. She's still so young.
+Annotation from annotator: 1
+
+Example 3:
+Text: Used to play my old flute with/to the horses when nobody was around! LOL, Forgot about that.Was a big goof named PenDragon.   He <3 music?
+Annotation from annotator: 2
+
+Example 4:
+Text: Sims 3 is too intense for my poor old laptop.
+Annotation from annotator: 1
+
+Example 5:
+Text: i love how disney channel plays their old movies at night  their a lottt better than the shiiit they have now.
+Annotation from annotator: 3
+
+Example 6:
+Text: @philcampbell  yeah, it's been a revelation to me tbh! finding this kind of social space far healthier than old school forums!
+Annotation from annotator: 3
+
+Example 7:
+Text: my 30 gig iPod, aka my old iPod, officially died today, it completeley stopped working   Andie: 2006-2009
+Annotation from annotator: 1
+
+Example 8:
+Text: @thomasjo I tweeted it. It's only a week old, so don't fret too much.
+Annotation from annotator: 2
+
+Example 9:
+Text: ear ache.....random! & it hurts like a bitch   SOSOSOSO bored seriously im fifteen years old and it summer; thats fucked up!
+Annotation from annotator: 1
+
+Example 10:
+Text: It's raining it's pouring the old man is snoring......I do not want to go to school in this weather
+Annotation from annotator: 1
+
+Example 11:
+Text: had a very nice time at @LIVE yesterday...hoping to catch up with some old friends today
+Annotation from annotator: 3
+
+Example 12:
+Text: I just talked on the phone with my 3 and 1 year old cousins..theyre so friggin cute. I miss them
+Annotation from annotator: 3
+
+Example 13:
+Text: @kellyerin1 they are fat and old and nasty and flirt with me...GAHHHH
+Annotation from annotator: 1
+
+Example 14:
+Text: cleanin!! yipee, i found a whole bunch of old cds. old songs are awesome!!!
+Annotation from annotator: 2
+
+Example 15:
+Text: @refaktor Now that you paid for the domain. Awful name  Seriously, it reminds me of old union savings thing, but I like it.
+Annotation from annotator: 2
+
+Example 16:
+Text: One day does blend into the next, and yes it is a privilege to grow old.
+Annotation from annotator: 3
+
+Example 17:
+Text: @ArteDeb that's a big old stump!   Love it!!  How are ya' Debbbb?
+Annotation from annotator: 2
+
+Example 18:
+Text: @hoopyfrood  I was disturbed that all the Apple Developers teaching the program are 12 year olds  ...  frightening.
+Annotation from annotator: 3
+
+Example 19:
+Text: @dizzyfeet I just saw an old clip of you on Idol and it made me miss having you there.
+Annotation from annotator: 3
+
+Example 20:
+Text: Gaggin I smell like a 50 Year old man oh no I must shower immediately once I get home but now as Asher Roth said "I'm blunt cruisin"
+Annotation from annotator: 1
+
+Example 21:
+Text: @Adrienne604 yeah very expensive! And I bought all ScubaPro which was top-of-the-line then,but it was very old
+Annotation from annotator: 3
+
+Example 22:
+Text: @BBIZZYYY sounds like we both need some snuggles  sorry hun, but ur young & beautiful & Im sure theres something amazing awaiting you!
+Annotation from annotator: 3
+
+Example 23:
+Text: #followfriday  @oxofamilydad the funniest old sod on the planet
+Annotation from annotator: 3
+
+Example 24:
+Text: Only has one more day at his old job!   I'm really going to miss it here!
+Annotation from annotator: 3
+
+Example 25:
+Text: @tommcfly why dont you log into good old myspace and write a blog telling us how was the Amesterdam gig? that would be nice
+Annotation from annotator: 2
+
+Example 26:
+Text: My baby just went to a pool party. Isn't she a little young.  DH is going to re carpet the porch when he gets back from dropping her.
+Annotation from annotator: 3
+
+Example 27:
+Text: @RegularRon are you gearing up for the concert by listening to old favorites?
+Annotation from annotator: 3
+
+Example 28:
+Text: Wedding last nightt was crazy fun! I think my little brother has a hangover :-0 (yes, he's 13) NO bueno! Good seeing old friends & fam
+Annotation from annotator: 3
+
+Example 29:
+Text: @sunshinebliss A skit about Archie and his dad? Is that old? I bet it wasn't funny! Boo on Kimmel for that
+Annotation from annotator: 2
+
+Example 30:
+Text: I miss the old healthy me and I am loosing faith that I ever will be again
+Annotation from annotator: 1
+
+Target Example:
+Text: My lower back was aching all through the night  I have to fix my posture! This also reminded me of how old I'm getting *sigh*
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

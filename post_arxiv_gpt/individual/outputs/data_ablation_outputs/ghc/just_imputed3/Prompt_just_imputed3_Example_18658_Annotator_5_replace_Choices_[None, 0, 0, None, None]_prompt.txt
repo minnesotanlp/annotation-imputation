@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: So MUCH power! #musichttps://www.youtube.com/watch?v=Cb6OWJATt3s
+Annotation from annotator: 0
+
+Example 2:
+Text: @support @Millwood16  Perhaps they can help you find some answers to your problem
+Annotation from annotator: 0
+
+Example 3:
+Text: Cute. Looks like a playhouse for kids. source: '@ ioliloi' #architecture
+Annotation from annotator: 0
+
+Example 4:
+Text: Entertainment   Social   Political   Network  #ESPN the #CNN of sports networks!
+Annotation from annotator: 0
+
+Example 5:
+Text: It appears that #China #propaganda machine is working very hard to promote the greatness of their #military to their general public & the world. #China is right now very afraid of #USA trained #ISIS agents infiltrating their Large #Muslim population in Northwestern China. https://tinyurl.com/ycmtr2uh
+Annotation from annotator: 0
+
+Example 6:
+Text: Upon reaching the moon, Neil Armstrong proclaimed 'the eagle has landed.' Upon McCain's arrival at Andrews Air Force Base, will they proclaim 'the buzzard has landed?' Asking for a friend. | #RedNationRising
+Annotation from annotator: 0
+
+Example 7:
+Text: There's a backlash brewing against the 'cashless society' - and this time, even central banks are getting involved.  They see the risks of relying on electronic payments when the electronics aren't working. https://bayourenaissanceman.blogspot.com/2018/08/t...  #Cash #Cashless #Banks #Money
+Annotation from annotator: 0
+
+Example 8:
+Text: Hi @Wgbradbury post something...you'll get more followers!
+Annotation from annotator: 0
+
+Example 9:
+Text: Here's Why Ditching Facebook Is Becoming a Thing Among Conservatives | PoliZette http://bit.ly/2LH5Cej #Socialmedia #Conservatives
+Annotation from annotator: 0
+
+Example 10:
+Text: 'Night Slid Down' by Emma Florence Harrison 🎨   #ArtNouveau #illustration #MotherhoodInArt #NightSky
+Annotation from annotator: 0
+
+Example 11:
+Text: Artemis from 'Red Hood And The Outlaws'.
+Annotation from annotator: 0
+
+Example 12:
+Text: Rapid onset gender confusion in teenagers is encouraged by watching youtube dysphoria videos and having social media incessantly support borderline mental illnesses.  Kids need strong families and a lifestyle of healthy activities outdoors. Get off the internet. https://www.transgendertrend.com/new-study-on-rapi...
+Annotation from annotator: 0
+
+Example 13:
+Text: WATCH: Crowder Asks Trump Critics To Explain Why They Think Trump's A 'Fascist' https://www.dailywire.com/news/35230/watch-crowder...?
+Annotation from annotator: 0
+
+Example 14:
+Text: Shadowbanned on twitter. How nice.
+Annotation from annotator: 0
+
+Example 15:
+Text: If I was in Commiefornia, I'd be eating at least 2 meals a day there.
+Annotation from annotator: 1
+
+Example 16:
+Text: President Trump signed an executive order on Friday that will affect how you save for retirement. https://www.foxbusiness.com/personal-finance/trump...
+Annotation from annotator: 0
+
+Example 17:
+Text: 1820 — 94% of the world lived in extreme poverty.1990 — 35% of the world lived in extreme poverty.2015 — 10% of the world lived in extreme poverty. Capitalism is amazing. https://humanprogress.org/article.php?p=770
+Annotation from annotator: 0
+
+Example 18:
+Text: Reject nanny state busybodies and reject killjoy cobbers https://compesh.com/article/28
+Annotation from annotator: 0
+
+Example 19:
+Text: France win, France 4 - 2 Croatia. #AllezlesBleus. Deschamps has now won World Cup as player and as manager. https://img.fifa.com/LiveBlogging/UploadedMedia/MM...
+Annotation from annotator: 0
+
+Example 20:
+Text: https://www.breitbart.com/london/2018/08/18/german...  Same shit different day  #SpeakFreely
+Annotation from annotator: 0
+
+Example 21:
+Text: How to argue with a #Left wing ideologue.  1) that which can be asserted without evidence can be rejected without evidence.  2) question opinions passed off as facts. 3) diversity of thought is the only diversity the Left won’t accept. Highlight ‘group think’ 4) Laugh. The Left can’t stand ridicule.  5) never ‘check your privilege’ 6) facts #TRUMP feelings.
+Annotation from annotator: 1
+
+Example 22:
+Text: Raid Langley.
+Annotation from annotator: 1
+
+Example 23:
+Text: 'The Street'. Decay across generations. Immigrants with no love for the land and sinister individuals bent on destroying that which others built. #Lovecraft saw it soon, yet here we are. #Fiction #History #Spirituality #Culture https://www.counter-currents.com/2010/09/the-stree...
+Annotation from annotator: 0
+
+Example 24:
+Text: Interesting question(s) raised by you know w(Q)ho: #BigPharma #BluePorts
+Annotation from annotator: 0
+
+Example 25:
+Text: This is a good read!
+Annotation from annotator: 0
+
+Example 26:
+Text: The only snake I have liked at first sight https://www.youtube.com/watch?v=eMop3wyGC_Y
+Annotation from annotator: 0
+
+Example 27:
+Text: #RareGabby
+Annotation from annotator: 0
+
+Example 28:
+Text: Lots of Gab love from Sargon https://youtu.be/14dOSQSWlxY
+Annotation from annotator: 0
+
+Example 29:
+Text: #China #CIA #HillaryClinton #Hillary #HillarysEmails
+Annotation from annotator: 0
+
+Example 30:
+Text: Another terror attack on my capital city Londonistan. Usual story of the suspect was known to our police and we did nothing. Also he traveled from Birmingham somewhere where this is a high number of a certain religion.
+Annotation from annotator: 0
+
+Target Example:
+Text: #brainwashing of the sheep!!!  https://twitchy.com/samj-3930/2018/08/28/whoopsie-...
+Annotation from annotator:

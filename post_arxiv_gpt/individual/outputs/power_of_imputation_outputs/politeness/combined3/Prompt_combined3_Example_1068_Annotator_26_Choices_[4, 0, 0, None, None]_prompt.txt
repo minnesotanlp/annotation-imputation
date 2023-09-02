@@ -1,0 +1,173 @@
+Estimated Examples:
+Example 1:
+Text: I noticed you added the Jean Chretien link to the homepage, which is nice, but you didn't put any comment for the changelog and you also didn't bump of the last article, you bumped off the 2nd last article.  Why?
+Annotation from annotator: 7
+
+Example 2:
+Text: Hello, I've written a page about the <url>, shamelessly copying the style from your CCT/FoFC lists. In the process, have I missed anything out?
+Annotation from annotator: 14
+
+Example 3:
+Text: you need a copy, you say... by that you mean a translation, or one which has been reconstructed to meet en. wiki coding?
+Annotation from annotator: 8
+
+Example 4:
+Text: Actually it was a compliment. Does that count as an 'issue'?
+Annotation from annotator: 8
+
+Example 5:
+Text: Could you please explain <url> to me? I don't see how deleting a person's userpage is correct?
+Annotation from annotator: 10
+
+Example 6:
+Text: And  what did I do wrong???????????????????????
+Annotation from annotator: 4
+
+Example 7:
+Text: The policy is tricky - I guess it comes down to whether or not you think the account is going to be disruptive, and whether it is appropriate to guess that ahead of time.  On the other hand, looks like another overreaction to Kurt, in my opinion - what do you think?
+Annotation from annotator: 9
+
+Example 8:
+Text: Hmm...I was not aware that a year had to pass for ''anyone'' to request an appeal for Everyking. Prior to today, when did they ever say this?
+Annotation from annotator: 9
+
+Example 9:
+Text: I understand your point about MJ being very close and having competent editors, but do you not think those of us who understand the source problems, etc. that the Reagan page is having should try and explain them to those editors (that is, try to educate them)?
+Annotation from annotator: 7
+
+Example 10:
+Text: You deleted this, but somehow it still shows up on the parent category's page <url>.  Is this normal and/or can you fix this?
+Annotation from annotator: 11
+
+Example 11:
+Text: Technically, Taku is within his rights to change things to conform to an existing standard, but it's not very politic of him to do so; if we decide to change, then it's still more meaningless work to change everything once again. Unfortunately, it's all too common for editors to edit first and talk second, eh?
+Annotation from annotator: 7
+
+Example 12:
+Text: Hello Jeffq, I noticed you revert vandalism occasionally. Would you like me to grant your account <url> to help you revert vandalism more easily?
+Annotation from annotator: 19
+
+Example 13:
+Text: Don't stop editing. Maybe a request at <url> would be of use?
+Annotation from annotator: 10
+
+Example 14:
+Text: After ''New Jersey'' leaves the mainpage it will be nessicary for us to check all the article linked to USS ''New Jersey'' and ensure that no subtle vandalism crept into them by means of the USS ''New Jersey'' article. Are you willing to help?
+Annotation from annotator: 12
+
+Example 15:
+Text: I found an autoblock and cleared it.  Can you edit now?
+Annotation from annotator: 10
+
+Example 16:
+Text: The file above does not meet the <url> so as to be copyrighted or eligible for fair use, as I had stated so on <url> when I first moved it there. What issues should be resolved?
+Annotation from annotator: 9
+
+Example 17:
+Text: It turns out that the Zelda Collection you referred to in <url> didn't include aLttP, reportedly because the GBA remake was still being sold at that time, so that disc included NES and N64 emulation but left out SNES. Do you have another example?
+Annotation from annotator: 10
+
+Example 18:
+Text: Do your sources have the dates of birth and death for <url>, which I just created? And, while I'm on the topic, any information regarding his playing career (if applicable)?
+Annotation from annotator: 10
+
+Example 19:
+Text: The <url> has a request (header "<url>") left a few hours ago by someone who has pictures of signs in China but can't read them.  Would you please be willing to help?
+Annotation from annotator: 13
+
+Example 20:
+Text: The Olbermann thing is being discussed on the <url> talk page.  Do you have anything to add?
+Annotation from annotator: 11
+
+Example 21:
+Text: Thank you. Do you have any tips on the Kathy Dunderdale article to improve it?
+Annotation from annotator: 17
+
+Example 22:
+Text: Unfortunately, I'm still worried this may not be enough to avoid arguments.  <url> says "A separate rationale must be provided each time the image is used in an article."  Should we just copy the tag for every article using the logo?
+Annotation from annotator: 11
+
+Example 23:
+Text: Hello. Since you have contributed to <url> in the past, could you spare a minute to discuss the fate of <url>?
+Annotation from annotator: 15
+
+Example 24:
+Text: Just now I created this stub. Could you have a look at it, and try to improve it?
+Annotation from annotator: 14
+
+Example 25:
+Text: LOL, I can't believe you reverted Kizzle's deletion of my summary at S & aQ. Did you actually like my summary?
+Annotation from annotator: 7
+
+Example 26:
+Text: So you're interested in both Amiga computers and BDSM! Are you an atheist too?
+Annotation from annotator: 6
+
+Example 27:
+Text: What does the People People magazine say? Does it give Susan's birthday or just say she is 48?
+Annotation from annotator: 10
+
+Example 28:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 12
+
+Example 29:
+Text: The review has been up there for something like six weeks, I notice. Think you'll be able to take care of those last couple of things?
+Annotation from annotator: 6
+
+Example 30:
+Text: Checkuser shows the three users share an ip from time to time. How serious is the problem?
+Annotation from annotator: 9
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Hi Asbestos! This is kind of weird for me but I see that you are a participant in the photo project and list yourself as a photographer in Edinburgh and I was wondering if there was any possibility that you would be willing to respond to my recent request <url>?
+Annotation from annotator: 20
+
+Example 2:
+Text: Additionally I would like to ask the proponents of a unified citation style to answer this: Which wikipedia policy is this proposal based in? Which of the five pillars does it work to bolster?
+Annotation from annotator: 12
+
+Example 3:
+Text: I would like to first thank you for coding the afd helper app. Secondly, is it possible it could be changed to work with other XfDs?
+Annotation from annotator: 16
+
+Example 4:
+Text: I am trying to retag all the Soviet-PD images. Can you identify there the image came from?
+Annotation from annotator: 12
+
+Example 5:
+Text: Lemme just remember, who's going to be mentioned first? Snyder, or the failed projects?
+Annotation from annotator: 12
+
+Example 6:
+Text: In fact, what I'd like to propose here is that we take a bit more control, establish some stricter edit warring restrictions, unprotect the page, slap up an edit notice, and enforce them with blocks so that people can get back to writing the article. Do you think that would have a positive effect?
+Annotation from annotator: 12
+
+Example 7:
+Text: Incidentally, your username seems familiar. Do you contribute to SPGB-related forums by any chance?
+Annotation from annotator: 16
+
+Example 8:
+Text: I apologise, I didn't actually see the message on my talk page, I assumed you meant the article talk page. If you are concerned that the "free" image has been uploaded under a false license, then perhaps you could nominate it for deletion?
+Annotation from annotator: 16
+
+Example 9:
+Text: Yes, I know what a score ''card'' is, but you wrote "score '''car'''" in the article. Was that a typo, or is there really such a thing as a score "car"?
+Annotation from annotator: 9
+
+Example 10:
+Text: Oops.  Hmm...yeah...that sounds like a good idea...why not go ahead?
+Annotation from annotator: 11
+
+Example 11:
+Text: Maybe you can clarify what you meant by "legal action" then? Perhaps you just meant as opposed to illegal actions?
+Annotation from annotator: 12
+
+Example 12:
+Text: I think that if you use an example paragraph, and show the options in a nowiki tag, it will make it easier for people to "vote" for the method they like. Make sense?
+Annotation from annotator: 8
+
+Target Example:
+Text: Depends; do you care deeply about image policy? Or are you an incurable masochist?
+Annotation from annotator:

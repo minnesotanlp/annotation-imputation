@@ -1,0 +1,122 @@
+Example 1:
+Text: It's not okay to refuse the food someone cooks for you.
+Annotation from annotator: 2
+
+Example 2:
+Text: Partners are expected to support each other.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's understandable to want friends and family around when getting a medical operation.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is bad to let addiction control your life.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's wrong for a parent to do things to make their children loose respect of them.
+Annotation from annotator: 3
+
+Example 6:
+Text: It is good to fill out your own paperwork.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's irresponsible to have a lot of dust in your home.
+Annotation from annotator: 3
+
+Example 8:
+Text: You should always try to mediate your parent's arguments.
+Annotation from annotator: 1
+
+Example 9:
+Text: You should treat employees well
+Annotation from annotator: 3
+
+Example 10:
+Text: It's okay to be upset if someone you report to at work lets you take the blame for something you didn't do.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's wrong to talk to your friends about sensitive topics.
+Annotation from annotator: 1
+
+Example 12:
+Text: It's hurtful for parents to get their children involved in crimes.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's wrong to be gluttonous.
+Annotation from annotator: 3
+
+Example 14:
+Text: You shouldn't expect your ex to not have sex after the relationship is over.
+Annotation from annotator: 4
+
+Example 15:
+Text: You should never do anything that may cause your children to despise you.
+Annotation from annotator: 3
+
+Example 16:
+Text: Employers are expected to let employees go when business is down.
+Annotation from annotator: 2
+
+Example 17:
+Text: Being lazy about keeping the house clean is bad behavior.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is normal to quit a job that is too difficult.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's normal for people to want their loved ones to be happy.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's good to be in control of your sexuality.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should be happy when someone wants to invest in your company.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to want someone to do their best.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good to be happy for your friends.
+Annotation from annotator: 4
+
+Example 24:
+Text: You shouldn't get upset at your partner.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's bad to make big purchases behind your significant other's back.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's important to respect the culture of other people.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should tell your partner you don't want to be with them anymore.
+Annotation from annotator: 3
+
+Example 28:
+Text: You're discouraged from hating others.
+Annotation from annotator: 3
+
+Example 29:
+Text: People should follow the rules.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's good to give advice to your friends.
+Annotation from annotator: 3
+
+Text: It's good to look forward to things you can do when you grow older.
+Annotation from annotator:

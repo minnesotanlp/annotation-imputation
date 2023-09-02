@@ -1,0 +1,84 @@
+Estimated Examples:
+Example 1:
+Text: Cleaning out my closet and amazed at how much crap ive accumulated over the years...SHOCKING!... Trying to part with old clothes
+Annotation from annotator: 2
+
+Example 2:
+Text: How can you tell a 3 year old no after he says 'Can you play catch with me?' b/c his baby sister has to be fed...
+Annotation from annotator: 2
+
+Example 3:
+Text: I watched a video yesterday a 16 year old girl in Iran was killed. I will never forget that image. Hope her death wont be in vein.  sad
+Annotation from annotator: 2
+
+Example 4:
+Text: I'm 18 years old !!! So what's next  not happy and drunk. Need sun love  like family love
+Annotation from annotator: 3
+
+Example 5:
+Text: Jack Kemp died... just reminds me of '96 election & how I threw a tantrum when Dole/Kemp won our school's mock election. I was 6 yrs old
+Annotation from annotator: 2
+
+Example 6:
+Text: Just got the email that they're planning our 10 year HS reunion and feeling a little old.
+Annotation from annotator: 1
+
+Example 7:
+Text: People hated me ever since I was younger.
+Annotation from annotator: 2
+
+Example 8:
+Text: The older worker loses their health and dental benefits, they lose out on contributing to their pension fund and social security (so their social security paycheck will be less at retirement).
+Annotation from annotator: 2
+
+Example 9:
+Text: Today in germany: elections of the eurpean parlament and some local politicans. --But Im too young!!
+Annotation from annotator: 1
+
+Example 10:
+Text: Using webapps on the Palm Pre...like the old ghetto iPhone days. Have to do until more apps come out
+Annotation from annotator: 2
+
+Example 11:
+Text: Yeah princesses are prettier and younger. Queens are old and fat.  have fun!  :b
+Annotation from annotator: 2
+
+Example 12:
+Text: cant sleep  so is going old school retro gaming and playing streets of rage and sonic on the sega mega drive!! __
+Annotation from annotator: 1
+
+Example 13:
+Text: got woken up by an energetic four year old :/ now has to stay awake so I can babysit.. yay  *I miss youu*
+Annotation from annotator: 1
+
+Example 14:
+Text: hoping that one day i will be able to go on dates with my 26 year old boyfriend without his parents...
+Annotation from annotator: 3
+
+Example 15:
+Text: is taking my fragile old body to bed for rest. Old fart needs his sleep. Just kiddying  night my twitters loveeeeeeee youuuuuuuu
+Annotation from annotator: 3
+
+Example 16:
+Text: is wishing his mom a very Happy Mother's Day & his older sister an awesome 29th birthday & Mother's Day! . Gym, pack & goodbye Stilly
+Annotation from annotator: 3
+
+Example 17:
+Text: still in awe that my three year old niece got a better bowling score than me last night...must not have had enough to drink
+Annotation from annotator: 3
+
+Example 18:
+Text: umm haha. just stumbled upon a 20 yr old male's myspace. profile song: jonas brothers - fly with me.  haha
+Annotation from annotator: 3
+
+Example 19:
+Text: when happen this ? i waant the old ash BAACK !
+Annotation from annotator: 2
+
+Example 20:
+Text: why the celebration you ask?My town's turning 350 yrs old! Lots of music, food and beer! And I'm gonna work a 12  hour shift Saturday
+Annotation from annotator: 3
+
+Target Example:
+Text: I think my 5 week old is already spoiled. She won't sleep more then 15mins unless I'm holding her
+Annotation from annotator:

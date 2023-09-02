@@ -1,0 +1,254 @@
+Estimated Examples:
+Example 1:
+Text: What do Gay guys and Santa have in common? They both got a lot of red on them,
+Annotation from annotator: 1
+
+Example 2:
+Text: And before you ask : Yes I bite my lips .
+Annotation from annotator: 0
+
+Example 3:
+Text: If you buy a watermelon, If you buy a watermelon,
+Remember to hit the gas when the fences are black.
+Annotation from annotator: 2
+
+Example 4:
+Text: do you know why snape never taught herbology ? because he could n't keep his lilly alive .
+Annotation from annotator: 0
+
+Example 5:
+Text: What did the cannibal do after dumping his girlfriend? Wipe his ass
+Annotation from annotator: 2
+
+Example 6:
+Text: What's the worst thing to tell a Saudi Arabian interrogator? We need to speed this up, chop-chop.
+Annotation from annotator: 2
+
+Example 7:
+Text: What do you think it would take for society to start taking the issue of inceldom seriously and finding solutions?
+Annotation from annotator: 0
+
+Example 8:
+Text: Greasy food is suppose to be drank with a cold ass soda
+Annotation from annotator: 0
+
+Example 9:
+Text: why did n't the chef want to eat the chicken at his own restaurant ? he did n't want to know what his cum tastes like
+Annotation from annotator: 1
+
+Example 10:
+Text: Maybe We Should Do LSD
+If we force our brains into that state of "enlightenment" we'll stop caring about women and society and find a reason to enjoy life.
+Annotation from annotator: 0
+
+Example 11:
+Text: My mom stormed in my room and said, "I'm sick and tired of washing these stains out of your bedsheets!" So we fucked in her room instead.
+Annotation from annotator: 2
+
+Example 12:
+Text: """Wya"" ""I'm not tellin you"" ""Well Wyd?"" ""Giving a homeless man a dollar"" ""Oh yeah you're on college""&#128514;&#128514;&#128514;"
+Annotation from annotator: 0
+
+Example 13:
+Text: It's not government money , it 's taxpayer money and they should spend it as they see fit .
+Annotation from annotator: 0
+
+Example 14:
+Text: Because femininity is so horrible! @JonnyG313 I'm not sexist but if a dude cries because of a girl in a wedding dress then he has a vagina
+Annotation from annotator: 1
+
+Example 15:
+Text: Have you ever heard about death mask of Franco ?
+Annotation from annotator: 0
+
+Example 16:
+Text: >agree or disagree that overall some people value external validation or internal validation more? and if so, where do you fall? [...] And how does one get those rewards in the first place with no outside input?
+Annotation from annotator: 0
+
+Example 17:
+Text: RT @KyleKallgren: You can't please everyone. And you shouldn't. Nothing good comes from having people who say "faggot" as an insult on your&#8230;
+Annotation from annotator: 1
+
+Example 18:
+Text: did you guys see the ending of super mario odyssey?
+Annotation from annotator: 0
+
+Example 19:
+Text: When they refuse to convert to Islam they will learn at the end .
+Annotation from annotator: 1
+
+Example 20:
+Text: Two jews lock themselves inside a gas chamber by accident, how do the Nazis get their attention? Pssssssst...
+Annotation from annotator: 2
+
+Example 21:
+Text: &#8220;@_BeautifulKeezy: these hoes be playing w/ me like I won't send baby Cain at they niggah !!&#8221;yesss messy.
+Annotation from annotator: 1
+
+Example 22:
+Text: How do you stop a rape? I only have experience doing snuff films.
+Annotation from annotator: 2
+
+Example 23:
+Text: Ok @EfuaIsEnuf: I'm not perfect... Yes I do wrong.. I'm trying my best oo.. But it ain't good enough!!
+Annotation from annotator: 0
+
+Example 24:
+Text: i SEE UTV DID NOT POST MY COMMENTS TYPICAL SPREAD THE WORD THROUGHOUT IRELAND RUN THESE INVADERS OUT GO HOME AFGANIES WOULD YOU SEE US DOING THIS IN YOUR COUNTRY ??????????????????????????????????????????? ??
+Annotation from annotator: 2
+
+Example 25:
+Text: RT @PlainBlack_D: Get these trash ass niggas outta my stadium!!! &#128514;&#128514;&#128514;
+Annotation from annotator: 2
+
+Example 26:
+Text: I cant judge because i dont know them all , plus i think they are all good in their own way , that 's why they are moderators
+Annotation from annotator: 0
+
+Example 27:
+Text: My cousin and her friends are fucking around with a ouija board so it's time for me to move out since my house is about to be haunted
+Annotation from annotator: 0
+
+Example 28:
+Text: What does raping and farting have in common? Let her rip
+Annotation from annotator: 2
+
+Example 29:
+Text: Just saw this fly by on my stats display a few times:
+
+tweetstats.hashtag.gamergate.mention.freebsdgirl.oc
+
+LOL NOPE
+Annotation from annotator: 0
+
+Example 30:
+Text: Writing in David Duke 's name is fine because such a vote will still send the message that white America will not be taken for granted .
+Annotation from annotator: 2
+
+Human-Rated Examples:
+Example 1:
+Text: Watching Black Pro Sports = Masturbating in public while thousands of white women and children are raped daily and Western Civ burns to the ground.
+Annotation from annotator: 2
+
+Example 2:
+Text: Fucking get in Jansson! Sick of Hernandez though! Prove me wrong lad
+Annotation from annotator: 0
+
+Example 3:
+Text: I'm at that point in my weight cut where the waist of all of my pants are loose..... kinda cool, kinda annoying. &#128580; #mission132
+Annotation from annotator: 0
+
+Example 4:
+Text: /u/FromPainToGlory inadvertently shines a light on an overlooked and joked about problem young boys face while going through school.
+Annotation from annotator: 0
+
+Example 5:
+Text: White people cant be racist because racism is a crime and crime is for black people
+Annotation from annotator: 2
+
+Example 6:
+Text: Only a few days since /u/avazii left and we have a wave of normans amongst us
+Not saying the other mods aren't doing their job (props to ryu, he has at the very least), but we need more action, this place is FILLED with norman scum.
+Annotation from annotator: 1
+
+Example 7:
+Text: the idiots at 25 were shouting 'we're just going to say she doesn't want dinner'; that's after shouting we're just going to say (2
+Annotation from annotator: 0
+
+Example 8:
+Text: I'm not even going to lie. This makes me giggle a little bit on the inside.
+Annotation from annotator: 0
+
+Example 9:
+Text: The problem is there 's so many white liberal self hating traitors on the same side as the Jews and nonwhites .
+Annotation from annotator: 2
+
+Example 10:
+Text: "Wouldn't let Michael in because he was ""starring"" you got me so fucked up..."
+Annotation from annotator: 0
+
+Example 11:
+Text: How do you call someone with Down that likes other men A Chromosexual
+Annotation from annotator: 2
+
+Example 12:
+Text: Her door AND SEE A FUCKING GUY SITTING ON HER FUCKING BED
+Annotation from annotator: 1
+
+Example 13:
+Text: Ever since I became a cop I have to deal with rape victims on a daily basis. 
+ 
+Apparently women trust you much more when you wear a police uniform.
+Annotation from annotator: 2
+
+Example 14:
+Text: If I had my choice I would kill every reporter in the world but I am sure we would be getting reports from hell before breakfast. William…
+Annotation from annotator: 2
+
+Example 15:
+Text: Alright, that's it. The next person (DRIFT) to bring swords into my office is getting kicked off th-wait rodimus i didn't mean it!
+Annotation from annotator: 0
+
+Example 16:
+Text: you can't attack the ones you hate, you can however conjure a rhino to flatten them as they spat their bullshit at you #guideddelusion
+Annotation from annotator: 1
+
+Example 17:
+Text: Did you see the concert in Vegas yesterday? It had a big surprise, people were dying to see it.
+Annotation from annotator: 2
+
+Example 18:
+Text: FUCK I just remembered i have a morning class tomorrow and a mock exam I am going to drop out of college is2fg
+Annotation from annotator: 0
+
+Example 19:
+Text: Ok I will try my best not to say that "F" word anymore tonight.
+Annotation from annotator: 0
+
+Example 20:
+Text: Oh wait you're Black; they practically guarantees you'd get into that college.
+Annotation from annotator: 2
+
+Example 21:
+Text: Be safe, kids, NYE is another prime night for rapists. Watch out for each other, don't get separated. Have a plan.
+Annotation from annotator: 0
+
+Example 22:
+Text: It's okay to not want to become a shithole country.
+Annotation from annotator: 2
+
+Example 23:
+Text: This isn't rare. This isn't even GamerGate related. This happens all. the. time.
+Annotation from annotator: 0
+
+Example 24:
+Text: You know, you talk about being a lesbian a lot, and your father and I aren't the only adults who find that off-putting.
+Annotation from annotator: 2
+
+Example 25:
+Text: 29 Dec 1940 London suffered its worse night of the blitz
+Annotation from annotator: 0
+
+Example 26:
+Text: Don't let nobody make you feel like the guilty one after they've fucked up &#128173;
+Annotation from annotator: 0
+
+Example 27:
+Text: You're either on my side, by my side, or in my fucking way
+Annotation from annotator: 0
+
+Example 28:
+Text: What is the national bird of Pakistan? An American drone...
+Annotation from annotator: 2
+
+Example 29:
+Text: Dear SE. Please stop it with the fucking crashing.
+Annotation from annotator: 1
+
+Example 30:
+Text: what 's the difference between boy scouts and jews ! <repeat> boy scouts always come back from camp !
+Annotation from annotator: 2
+
+Target Example:
+Text: finally listening to bae @KodakBlack1k 's album, its FIRE #nosurprise @IamJess_CA you should take a listen :p
+Annotation from annotator:

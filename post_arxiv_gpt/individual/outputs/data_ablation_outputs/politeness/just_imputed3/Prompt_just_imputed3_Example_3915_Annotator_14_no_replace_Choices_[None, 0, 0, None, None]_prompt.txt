@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: Yes, but not for long. How are you?
+Annotation from annotator: 16
+
+Example 2:
+Text: FYI, I found a unit representative, I think, see <url>. I directed him to your draft for the military reps, would you mind supporting him if you need, I am kindof wrapped up in several different things off wiki and on?
+Annotation from annotator: 18
+
+Example 3:
+Text: I do understand the bot was approved and is doing useful job, but. Is it possible to modify it to not save the changes if it is only one-two whitespace(s)?
+Annotation from annotator: 16
+
+Example 4:
+Text: thanks for the welcome! I have a question... how come you can't edit the article about Whales?
+Annotation from annotator: 20
+
+Example 5:
+Text: If the llamas of Peru spoke Spanish, and one asked the other, ''xbfCxf3mo se llama?'', would he get confused?
+Annotation from annotator: 12
+
+Example 6:
+Text: That's a couple levels of automation beyond my experience. But if you just got the idea today, then how can you know the false positive level is low enough for WP:AWB/Typos?
+Annotation from annotator: 11
+
+Example 7:
+Text: Nice work, that explains it quite clearly! Any idea who came up with the scheme?
+Annotation from annotator: 19
+
+Example 8:
+Text: Yes I can. Is it an alternate account?
+Annotation from annotator: 17
+
+Example 9:
+Text: What would that do? Is that good?
+Annotation from annotator: 14
+
+Example 10:
+Text: I'm not sure if you've changed your opinion of the article's FAC status, but I think you have guided us in a ton of good ideas.  Have you changed your opinion?
+Annotation from annotator: 13
+
+Example 11:
+Text: If it works consistently, a printonly abbreviation would make sense. But how many editors would actually see that form to catch problems should they arise?
+Annotation from annotator: 13
+
+Example 12:
+Text: I'm really seeing no evidence that this image is free. Are you able to shed any light on the issue?
+Annotation from annotator: 14
+
+Example 13:
+Text: Hey poetic decay, I was planing on merging <url>, <url>, <url>, <url> and <url> together. You think you could help me with it?
+Annotation from annotator: 18
+
+Example 14:
+Text: no problem. ic an hit it up through preferences seciton, right?
+Annotation from annotator: 16
+
+Example 15:
+Text: Rxe9nyi leaves out the other gruesome details and adds the context of the fortress.  Do you know which details are in the most widespread and/or original version of this tale?
+Annotation from annotator: 14
+
+Example 16:
+Text: Hi, <url>. Do you have a suggestion as to how these article make Wikipedia better?
+Annotation from annotator: 17
+
+Example 17:
+Text: Here's the FFD page: <url>. How do you know that the photograph was made pursuant to a law or ordinance or in connection with the transaction of official business?
+Annotation from annotator: 15
+
+Example 18:
+Text: If there was another film that had the same title and wasn't disambiguated on the 1961 film's page or the short story's page, then I cannot be held responsible. How was I to know that there was another film?
+Annotation from annotator: 12
+
+Example 19:
+Text: Any idea what happened here <url>? Buffer overflow because my comment was too long?
+Annotation from annotator: 13
+
+Example 20:
+Text: Can you look at this page <url> and tell me what you think. It has the vandal picture but wasn't edited today?
+Annotation from annotator: 15
+
+Example 21:
+Text: Sorry??? Which comment are you referring to?
+Annotation from annotator: 11
+
+Example 22:
+Text: Hello. Can you please pass the pilot whale article?
+Annotation from annotator: 20
+
+Example 23:
+Text: You may not remember doing this but, you erased a page entitled, Earl Newton.  Why did you do it?
+Annotation from annotator: 13
+
+Example 24:
+Text: Here's my question, just to be clear, is it possible for the owner to release the picture under a lower resolution for Wikipedia and at the same time retaining the ownership of the higher resolution version? If it is, can you help me process this image?
+Annotation from annotator: 16
+
+Example 25:
+Text: Good day, sorry to bother you. Is the 2:00 am news brief called eyewitness news everynite, and if it is do they play move closer to your world?
+Annotation from annotator: 15
+
+Example 26:
+Text: I'm a little surprised you haven't responded to my suggestions regarding the GAN yet. Is there some sort of a problem there, or have you just not managed to get around to it yet?
+Annotation from annotator: 11
+
+Example 27:
+Text: I noticed that you have a lot of empty or blanked sandboxes that you used before moving articles to mainspace. Do you want these deleted or are you saving them for something?
+Annotation from annotator: 14
+
+Example 28:
+Text: Sorry, but which talk page? I came across the graphic at <url> - is there another?
+Annotation from annotator: 13
+
+Example 29:
+Text: I'd love to help, but I'm not sure what you're asking me to look at, specifically. Is there a discussion ongoing that you can point to?
+Annotation from annotator: 16
+
+Example 30:
+Text: # And what evidence do you have that I am committing revenge?  Revenge for what?
+Annotation from annotator: 9
+
+Target Example:
+Text: I tried <url> and it worked for me. What articles did you try using it on?
+Annotation from annotator:

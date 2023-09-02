@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: It's wrong not to give yourself a rest when you need it.
+Annotation from annotator: 4
+
+Example 2:
+Text: It is not good to do things only for something in return.
+Annotation from annotator: 4
+
+Example 3:
+Text: Keeping others late when they should have left already is rude.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's good to want someone to eat healthy.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's disingenuous to pretend to be someone you're not online.
+Annotation from annotator: 4
+
+Example 6:
+Text: You shouldn't have sex so soon after ending a relatinoship.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't play your music really loudly because it's rude and annoying.
+Annotation from annotator: 4
+
+Example 8:
+Text: It is expected that you will forgive someone if they apologize.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is unpatriotic to avoid enlisting in the army.
+Annotation from annotator: 1
+
+Example 10:
+Text: It's wrong to withhold important information from one's partner.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's bad to steal from your employer.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's allowed to admit to people when you need their help.
+Annotation from annotator: 4
+
+Example 13:
+Text: You should respect the privacy of others.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's racist to classify people based on the color of their skin.
+Annotation from annotator: 3
+
+Example 15:
+Text: You should respect your cultural heritage.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's okay to feel uncomfortable with writing something personal that will be read in front of others.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's understandable if you knock on someone's door instead of entering.
+Annotation from annotator: 4
+
+Example 18:
+Text: You should try to keep your kitchen clean.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's good to play games with friends
+Annotation from annotator: 4
+
+Example 20:
+Text: It's good to get help if you're so depressed you can't do anything.
+Annotation from annotator: 4
+
+Example 21:
+Text: It is healthy to move on an not be upset by what your ex does.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's fine if you don't want someone watching you practice.
+Annotation from annotator: 4
+
+Example 23:
+Text: You shouldn't pry into your child's personal business.
+Annotation from annotator: 4
+
+Example 24:
+Text: You shouldn't force people to do things
+Annotation from annotator: 4
+
+Example 25:
+Text: It's good to be independent.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's potentially deviant to play games that result in outcomes involving physical interaction.
+Annotation from annotator: 1
+
+Example 27:
+Text: It's bad to kidnap a child.
+Annotation from annotator: 4
+
+Example 28:
+Text: You should always expect people to want proof when requiring something important.
+Annotation from annotator: 3
+
+Example 29:
+Text: It is rude to act with anger and aggression toward others
+Annotation from annotator: 4
+
+Example 30:
+Text: It is expected for children to remain in contact with their parents.
+Annotation from annotator: 4
+
+Target Example:
+Text: You shouldn't reject your family's gift.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

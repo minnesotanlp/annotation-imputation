@@ -1,0 +1,7 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Target Example:
+Text: Do you think we're good to go with the proposal, maybe later tonight, or tomorrow? Any other problems with the proposal as it stands?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

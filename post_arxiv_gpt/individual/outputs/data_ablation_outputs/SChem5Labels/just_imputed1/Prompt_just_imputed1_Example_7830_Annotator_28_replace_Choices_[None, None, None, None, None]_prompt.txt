@@ -1,0 +1,122 @@
+Example 1:
+Text: It's rude to throw things.
+Annotation from annotator: 3
+
+Example 2:
+Text: You shouldn't hide things from people.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's good to go to rehab when you have become an addict.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is expected that you date people reasonably close to your own age group
+Annotation from annotator: 2
+
+Example 5:
+Text: You shouldn't worry your family.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's bad to be lazy.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should help out your friends.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's wrong to expect roommates to do everything for you.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's ok to fire an employee when they aren't fulfilling their job duties.
+Annotation from annotator: 3
+
+Example 10:
+Text: You should apologize if you crash into people.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's wrong to torture living creatures.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's wrong to ignore people because you want to appear more popular
+Annotation from annotator: 3
+
+Example 13:
+Text: It's wrong to joke about suicide.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's bad to disregard the achievements of others.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's wrong to be deceitful towards another person.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's pleasant to spend time with someone on a beach.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to be honest with people who are taking advantage of you
+Annotation from annotator: 3
+
+Example 18:
+Text: You shouldn't rely on someone's word.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's okay to indulge your sexual fantasies with other consenting adults.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's not okay to create a situation where nothing gets done.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should always help out your family.
+Annotation from annotator: 3
+
+Example 22:
+Text: You should be respectful to strangers.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's wrong to be rude and insulting to someone even if we don't particularly like them.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good to get gifts for people.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's bad to expect someone else to clean up a mess you can clean up yourself.
+Annotation from annotator: 3
+
+Example 26:
+Text: You should let your kids go out and have fun once in a while.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should tip people when you take out food.
+Annotation from annotator: 2
+
+Example 28:
+Text: It is expected most people would be upset if their best friend was dating their ex.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's good to give money to people if you want them to be on your sports team.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's wrong to make someone uncomfortable or push them to their limits
+Annotation from annotator: 3
+
+Text: You should keep trying new things until you find what you want to do.
+Annotation from annotator:

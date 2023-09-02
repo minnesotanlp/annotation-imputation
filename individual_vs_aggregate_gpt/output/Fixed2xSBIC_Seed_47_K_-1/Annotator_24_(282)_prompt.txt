@@ -1,0 +1,35 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and be shown what the plurality of annotators gave as a label, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: What’s the difference between a gay club and a school Nothing really both get shot up as easy as the other
+ANSWER: 2
+
+2.
+EXAMPLE: I smoked so much once my lungs decided to imitate the twin towers on 9/11 Except only one collapsed and people actually cared
+ANSWER: 2
+
+3.
+EXAMPLE: What does North Korea and Pussy have in common? One slip of the tongue and your in deep shit.
+ANSWER: 2
+
+4.
+EXAMPLE: Hitler was a normie, Stalin was a normie, Mao was a normie
+Total number of murders commited by normies : 100million
+
+Total number of murders commited by incels : 33 (ER and Adam lanza)
+
+And normshits say incels are dangerous
+ANSWER: 2
+
+Here's how the plurality of annotators labeled the target example:
+1.
+EXAMPLE: JUST IN: Waste Management says it will distribute a $2,000 bonus to every North American employee not on a bonus or sales incentive plan, including hourly and other employees, due to tax reform - CNBC
+ANSWER: 0
+
+How would the particular annotator annotate the target example?
+EXAMPLE: JUST IN: Waste Management says it will distribute a $2,000 bonus to every North American employee not on a bonus or sales incentive plan, including hourly and other employees, due to tax reform - CNBC
+ANSWER:

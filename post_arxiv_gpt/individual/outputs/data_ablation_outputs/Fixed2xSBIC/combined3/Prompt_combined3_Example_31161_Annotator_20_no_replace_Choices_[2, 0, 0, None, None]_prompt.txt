@@ -1,0 +1,252 @@
+Estimated Examples:
+Example 1:
+Text: RT @SAMMI_boyden: @savanigga oh....I know dude. I just went OFF ON HIS ASS I'm done with that faggot
+Annotation from annotator: 2
+
+Example 2:
+Text: I just noticed the atomic blackpill post got gilded twice lol
+Annotation from annotator: 0
+
+Example 3:
+Text: some fuckface dropped fucking atole in the god damn frijoles
+Annotation from annotator: 1
+
+Example 4:
+Text: tmw trump said both we pray &amp; god bless and I'm a lil shook. Really thought I wouldn't hear that in the White House ever again&#128513;&#128591;&#127997;&#128588;&#127997;
+Annotation from annotator: 0
+
+Example 5:
+Text: A fucking Hyundai just beat me in a race wtf is this a
+Annotation from annotator: 0
+
+Example 6:
+Text: Just a reminder that it is our Annual General Meeting tomorrow at the Townley hall (behind the URC) from 2pm-4pm, hope you can all make it!
+Annotation from annotator: 0
+
+Example 7:
+Text: Why can't dinosaurs clap? Because they're all fucking dead
+Annotation from annotator: 0
+
+Example 8:
+Text: Don't forget, you need to put your clocks back one hour this weekend... But if you are a Muslim then you need to put them forward about 1400 years.
+Annotation from annotator: 2
+
+Example 9:
+Text: Fuck North Carolina!!! DUKE Forever bitches!! #NationalChampionship
+Annotation from annotator: 1
+
+Example 10:
+Text: Liverpool XI vs. Everton: Mignolet; Clyne, Matip, Lovren, Milner; Lucas, Can, Wijnaldum; Mane, Firmino, Coutinho
+Annotation from annotator: 0
+
+Example 11:
+Text: In Search of the First Civilizations by Michael Wood .
+Annotation from annotator: 0
+
+Example 12:
+Text: "RT @SuppIication: Lack of sex will have u mad at stupid shit like, ""Why is this floor on the floor!?"""
+Annotation from annotator: 1
+
+Example 13:
+Text: kiwifarms is capping your discord
+I am monitoring their site as part of an investigation and I feel it is appropriate to let you know that kiwifarms is screencapping your discord.
+Annotation from annotator: 0
+
+Example 14:
+Text: I held a bingo game in Iraq. When I said,"B-52!". everyone left.
+Annotation from annotator: 0
+
+Example 15:
+Text: Whats the difference between 18yo chick and a dead baby? I dont get a boner when i see a 18yo chick
+Annotation from annotator: 2
+
+Example 16:
+Text: I like my women like I like my toasters  turned on and in the bath with me
+Annotation from annotator: 2
+
+Example 17:
+Text: In 1962, the U.S. Supreme Court handed down a decision interpreted as barring prayer in public schools.
+Annotation from annotator: 0
+
+Example 18:
+Text: What do you call a woman that can drive and has rights Imaginary
+Annotation from annotator: 2
+
+Example 19:
+Text: More SWAT zebra-20 chatter:
+
+"We have multiple firearms up here, from where they were shooting out of, but we just have one suspect down at this time."
+Annotation from annotator: 0
+
+Example 20:
+Text: omg. if @bsdtrhodes goes to #bsdcan, there's going to be trouble.... &lt;3
+Annotation from annotator: 0
+
+Example 21:
+Text: Most niggas send hate thru the bitches
+Annotation from annotator: 2
+
+Example 22:
+Text: What the fuck is this bitch nasally insufflating!!
+Annotation from annotator: 2
+
+Example 23:
+Text: "@ARIZZLEINDACUT: Females think dating a pussy is cute now? http://t.co/VxBJg26Gsz" how does doing this stuff make him a pussy?
+Annotation from annotator: 1
+
+Example 24:
+Text: Why did the radicalised Muslim go to the airport and blow himself up? He wanted to go everywhere.
+Annotation from annotator: 2
+
+Example 25:
+Text: Being pro free speech means Antifa want to kill you now.
+Annotation from annotator: 2
+
+Example 26:
+Text: What’s the difference between my penis and a kite? My penis is easy to get up in public areas full of children
+Annotation from annotator: 2
+
+Example 27:
+Text: I wish i could cope with drugs
+But i have no friends or anything who cam get me these high quality drugs
+Annotation from annotator: 0
+
+Example 28:
+Text: sounds like their government is doing a great job if they have been able to maintain this in the current situation
+Annotation from annotator: 0
+
+Example 29:
+Text: How do Muslim terrorist make bomb? Through their bomb manual, The Quran.
+Annotation from annotator: 2
+
+Example 30:
+Text: I will be attending the ass hair hall of fame dinner this August as I do every year
+Annotation from annotator: 1
+
+Human-Rated Examples:
+Example 1:
+Text: lisa: plays message on machine lisa, halfway through the message: leaves the fucking house
+Annotation from annotator: 0
+
+Example 2:
+Text: So I assume you won't be having children, because that is a 24/7 job. @AlexDramaAklilu call me sexist but my wife will not have a 9-5 job.
+Annotation from annotator: 2
+
+Example 3:
+Text: So this week I'm bringing back a series to my channel. I'm excited to see what people think. Long time viewers might be able to guess it.
+Annotation from annotator: 0
+
+Example 4:
+Text: Yo I could walk BACKWARDS and the snow in Erie will still hit me in the fucking face
+Annotation from annotator: 0
+
+Example 5:
+Text: Its like a quiet room and your just happy you no longer see the issues but it will be the leftist hypotheses that regardless of seeing it or being there it now just something they have to accept is making moves and still exist in american and the world.😂😂 that the price of attacking freedom
+Annotation from annotator: 0
+
+Example 6:
+Text: What a coincidence that these accusers only come out of the woodwork during the election cycle.
+Annotation from annotator: 2
+
+Example 7:
+Text: How do you know your cookies are don baking in the car? When the child stops screaming
+Annotation from annotator: 2
+
+Example 8:
+Text: I have never felt more supported and safe than I do around the FreeBSD developer community. They are amazing, and I love them.
+Annotation from annotator: 0
+
+Example 9:
+Text: Black and what?
+Annotation from annotator: 0
+
+Example 10:
+Text: Have you seen Black Panther yet? It’s the worst thing since the abolition of slavery.
+Annotation from annotator: 2
+
+Example 11:
+Text: Women judge the hell out of adult male virgins so why is it wrong for us to judge sluts?
+Annotation from annotator: 2
+
+Example 12:
+Text: I was a little disappointed by Bridesmaids. I was expecting the ensemble cast to have more or less equal chances to be funny, but it seemed like it was limited to Kristen Wiig, Maya Rudolph, and Melissa McCarthy getting all the good bits and the rest of the cast is just acting as their foils. [...] What I got had a lot more jealousy and backbiting.
+Annotation from annotator: 0
+
+Example 13:
+Text: don't care if it's real or fake just know that ass fat.
+Annotation from annotator: 0
+
+Example 14:
+Text: Sometimes you have to forgive &amp; forget. Forgive them for hurting and forget they even exist. #ALDUBKSGoesToUS
+Annotation from annotator: 0
+
+Example 15:
+Text: hey @EricHeel looking at your timeline you would probably enjoy the anime "burst angel" give it a try bro.
+Annotation from annotator: 0
+
+Example 16:
+Text: Did you see that homeless guy in the newspaper? Yeah it gets really cold sleeping outside.
+Annotation from annotator: 2
+
+Example 17:
+Text: Optimism is the opium of mankind
+A healthy spirit stinks of stupidity
+Annotation from annotator: 0
+
+Example 18:
+Text: Shoutout to back when GamerGate thought forking #ggautoblocker's repo  excessively would make me renounce open source.
+Annotation from annotator: 0
+
+Example 19:
+Text: I don't get what's so hot about British accent chicks
+Rena is best girl.
+Annotation from annotator: 0
+
+Example 20:
+Text: This string of comments on an AskReddit thread about double standards really speaks volumes about how men are treated in schools/around children really speaks volumes
+Annotation from annotator: 0
+
+Example 21:
+Text: Do the White thing, turn nigger ball off.
+Annotation from annotator: 2
+
+Example 22:
+Text: Did you play the rest of the Space Quest series? That was probably my favorite.
+Annotation from annotator: 0
+
+Example 23:
+Text: Illiteracy and malnutrition, directed at kids is child abuse.
+Annotation from annotator: 0
+
+Example 24:
+Text: White'nt I think I may have solved the problem here guys
+Annotation from annotator: 0
+
+Example 25:
+Text: Has gambler ascended to the normal plane of existence
+There isn't trace of him
+Annotation from annotator: 0
+
+Example 26:
+Text: How many old people does it take to play a game of Jenga? One, because their bones are so frail.
+Annotation from annotator: 2
+
+Example 27:
+Text: Nope, not one whit. @HarryMAllen I'm not sexist at all but women's sport is awful
+Annotation from annotator: 2
+
+Example 28:
+Text: Looking for #blinds #shutters or #curtains Check out World of Blinds at 60 Seafield Road, #Inverness The North's most trusted name in windo…
+Annotation from annotator: 0
+
+Example 29:
+Text: Zelda bitches lol @joeylattime https://t.co/Cp88AA7pms
+Annotation from annotator: 0
+
+Example 30:
+Text: How did the kids know that Santa Claus didn't exist? Cause the Jews tried to follow him looking for some presents and never came back. They just got lost after getting roasted really hard.
+Annotation from annotator: 2
+
+Target Example:
+Text: "RT @NotKamara: I would be mad if a ""friend"" put my business on the internet. Bitch I don't even put my business on the internet."
+Annotation from annotator:

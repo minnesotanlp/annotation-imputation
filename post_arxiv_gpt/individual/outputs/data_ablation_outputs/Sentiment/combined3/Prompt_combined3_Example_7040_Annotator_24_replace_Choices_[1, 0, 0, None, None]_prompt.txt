@@ -1,0 +1,161 @@
+Estimated Examples:
+Example 1:
+Text: Drinks and dancing with old friends, including @mmac! I'm excited
+Annotation from annotator: 4
+
+Example 2:
+Text: Facebook is feeling like old dial-up internet...going to bed now to get rested for Monday  ugh!
+Annotation from annotator: 1
+
+Example 3:
+Text: Just went to 8 my old high school miss hearing those annoying bells
+Annotation from annotator: 2
+
+Example 4:
+Text: Learning some old step stuff. Never taught it before, but I've got this!
+Annotation from annotator: 4
+
+Example 5:
+Text: My hamster's getting old :'( he's skinny and dazed. don't think he's gonna be around much longer.
+Annotation from annotator: 0
+
+Example 6:
+Text: Need to get to bed. As soon as my three year old does  She just woke up from a nap. WTF. That wasn't suppose to happen.
+Annotation from annotator: 0
+
+Example 7:
+Text: Not a good day for our old dog - refuses to eat anything - never been through this before - so tough to watch
+Annotation from annotator: 0
+
+Example 8:
+Text: Oh and @meghankathleen...she most def. is no fool...in fact most people aren't all that bad...I'm just getting cynical in my old age.
+Annotation from annotator: 2
+
+Example 9:
+Text: Oh my word in a month ill be old
+Annotation from annotator: 0
+
+Example 10:
+Text: RIP Matt <3 You'll never be forgotten... Only the good die young
+Annotation from annotator: 1
+
+Example 11:
+Text: The younger adults' brain scans showed activity in the same area.
+Annotation from annotator: 2
+
+Example 12:
+Text: Today is D-Day...as in Driver's License. Is my oldest boy really going to be legally allowed to drive without me riding shotgun?  Waaa!!
+Annotation from annotator: 3
+
+Example 13:
+Text: Took the pup for a nice morning hike,down the old RR bed - haven't been there in AGES!! Saw some really cool birds and wildflowers
+Annotation from annotator: 4
+
+Example 14:
+Text: Twidroid let me down  back to good old twitteride..
+Annotation from annotator: 2
+
+Example 15:
+Text: itunes let me import my old (real) library this morning, woo-hoo!  brilliant.
+Annotation from annotator: 4
+
+Example 16:
+Text: just got in touch with my old friend zac! and he's taking me to a car meet friday! wooo!!
+Annotation from annotator: 4
+
+Example 17:
+Text: my younger sister partied at embassy superclub last night. now i feel like a loser
+Annotation from annotator: 0
+
+Example 18:
+Text: needs Jake to fully recover.  His old is really getting to him.
+Annotation from annotator: 0
+
+Example 19:
+Text: sunglasses are too big  I want my old ones back, they were prefect, but nooo someone had to lose them :@ on the plus side its nice outside
+Annotation from annotator: 2
+
+Example 20:
+Text: thinking of getting a fake owl to for the balcony. there is a young bird who wakes me up at 5am every morning and then squawks all night.
+Annotation from annotator: 2
+
+Human-rated Examples:
+Example 1:
+Text: @APBsayin See because we were so young we never got to go out and party
+Annotation from annotator: 2
+
+Example 2:
+Text: @AnnaDeStefano My oldest drove back to school today. Won't see her for 2 1/2 months!   But I can store stuff in her room again.
+Annotation from annotator: 3
+
+Example 3:
+Text: @ClarkSanders yes, we may have to enlist it for recreation - don't know how much more hopping and running these old bones can do!
+Annotation from annotator: 1
+
+Example 4:
+Text: @Danacea That does change as we get older.
+Annotation from annotator: 1
+
+Example 5:
+Text: @DataGoddess I'm sorry about the cysts... My 16 year old gets them too. She's already had one burst.
+Annotation from annotator: 2
+
+Example 6:
+Text: @GabyHustleHard: aww that sucks  But yea I'm going 2 mimir im with my grandparents 2day so hay k apaga la luz and all them old traditions
+Annotation from annotator: 2
+
+Example 7:
+Text: @MillyBDemented i feel you, being single is getting old.
+Annotation from annotator: 2
+
+Example 8:
+Text: @OpusDei24 HOLD ON is the blonde chick they use actually young? She doesn't look it...she's cute..smh I sound like a future contestant
+Annotation from annotator: 1
+
+Example 9:
+Text: @artonfire SERIOUSLY??? oh my god i remember when spongebob premiered on snick. we are so old
+Annotation from annotator: 1
+
+Example 10:
+Text: @elinafuturist Good luck to new challenges after Nokia or are they old one for you as I guess you've been a consultant before?
+Annotation from annotator: 0
+
+Example 11:
+Text: @jordanknight I think that's cute my 6yr old neice sings summertime n dirty dancing hah dances along too
+Annotation from annotator: 4
+
+Example 12:
+Text: @jordanknight my  2 year old prefers the right stuff and summertime
+Annotation from annotator: 2
+
+Example 13:
+Text: @karynromeis Norwegian - now I have to go to the next one live due to an old bet
+Annotation from annotator: 2
+
+Example 14:
+Text: @loris_sl That monkey is almost as old as you are.  You should show him some respect.
+Annotation from annotator: 1
+
+Example 15:
+Text: @majorlyposh we need 4 though! my other 3 are from the list she gave us but even from older stuff I can't find a good 4th to use
+Annotation from annotator: 1
+
+Example 16:
+Text: @oliviamunn don't forget your old fans when you go big after iron man. 2.
+Annotation from annotator: 3
+
+Example 17:
+Text: @stavsxx difficulty is just a challenge, and being a young musician is a blessing. Never let anything difficult stand in your way
+Annotation from annotator: 3
+
+Example 18:
+Text: @winstonszen when at Glasto check out DJ Dollyrocker on Saturday night 1am-3am. He is really wonderful and an old friend of mine.
+Annotation from annotator: 4
+
+Example 19:
+Text: But almost every other number from the bureau makes it clear that while the economy may be improving, a substantial number of younger workers who lost jobs are still suffering.
+Annotation from annotator: 1
+
+Target Example:
+Text: Had a nice weekend with my gorgeous wonderful boy.  Now it's back to attempting to design a scientific investigation for 4 to 5 year olds!
+Annotation from annotator:

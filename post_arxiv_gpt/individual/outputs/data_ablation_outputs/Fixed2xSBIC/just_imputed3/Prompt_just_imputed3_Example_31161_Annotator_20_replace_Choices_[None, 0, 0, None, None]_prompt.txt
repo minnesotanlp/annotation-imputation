@@ -1,0 +1,127 @@
+Estimated Examples:
+Example 1:
+Text: It is always nice to meet people who have the same views as yourself .
+Annotation from annotator: 0
+
+Example 2:
+Text: i told the teacher she was breaking the law by taking my phone bc its private property and i didnt give her permission
+Annotation from annotator: 0
+
+Example 3:
+Text: im out of 1 ingredient for dinner and im wishing right now I had a 16 year old child who just passed their driving test to go get it &#128105;&#127996;‍&#127859;&#128118;&#127996;&#128663;
+Annotation from annotator: 0
+
+Example 4:
+Text: I gave a kid a hit of my vape... and I got arrested for child vape.
+Annotation from annotator: 0
+
+Example 5:
+Text: Remember, Incels: Women are our enemy
+And whiteknights.
+Annotation from annotator: 2
+
+Example 6:
+Text: How does A WOMAN get the idea to study computer science?
+Annotation from annotator: 2
+
+Example 7:
+Text: What sits in the corner of the room slowly getting smaller? A baby trying to comb it's hair with a potato peeler
+Annotation from annotator: 0
+
+Example 8:
+Text: YOU BET YOUR FUCKING ASS IMMA GO TO NXT TAKEOVER CHICAGO
+Annotation from annotator: 0
+
+Example 9:
+Text: For those of you who are concerned about being mass-tagged...
+Annotation from annotator: 0
+
+Example 10:
+Text: Hey guys, Just wanted to let you know, inceldom doesnt have to be about self hate and bitterness
+Am planning on trying to be a better person even though I am an incel.
+Annotation from annotator: 0
+
+Example 11:
+Text: RINO trash like @SpeakerBoehner, @KarlRove, @FrankLuntz see conservatives as the Democrat Party see blacks. As their slave property. #tcot
+Annotation from annotator: 2
+
+Example 12:
+Text: Headline: Disgraced Russian #WorldCup Team Die In "Tragic" "Accident", Putin Totally Not Involved, Says Kremlin.
+Annotation from annotator: 0
+
+Example 13:
+Text: Would this brainless retard that claims to be my father just hurry up and die?¿?¿??¿???
+Annotation from annotator: 2
+
+Example 14:
+Text: *Although specific listed apartments do not currently have reduced, early-sign rates, they occasionally offer them throughout the year and at off-campus housing fairs.
+Annotation from annotator: 0
+
+Example 15:
+Text: RT @JazzRiley: Wat type of bitch ass nigga rape a innocent female
+Annotation from annotator: 2
+
+Example 16:
+Text: [NSFW] [X-Post KotakuInAction]I wish I was a female celeb in gaming sometimes...(nude pictures incorporated onto CSS of subreddit, hosted on reddit servers, admins didn't really seem to care)
+Annotation from annotator: 0
+
+Example 17:
+Text: DONALD TRUMP THE BRAVE DONALD TRUMP THE MIGHTY CRUSH THE MUSLIM INVADERS IN YOUR WAY ELY YOUR 🔨 LET NONE BE SAVED I'M YOUR 🔨 AND I HAVE BEEN SAVED LIVE TO DIE ON THAT FINAL DAY
+Annotation from annotator: 2
+
+Example 18:
+Text: the Nina is my bitch &amp; I might have to rape a nigga , the heater on my waist and I might have to bake a nigga!
+Annotation from annotator: 2
+
+Example 19:
+Text: What's the worst part about having brown children? You can never decide whether to rape them or sell them.
+Annotation from annotator: 2
+
+Example 20:
+Text: RT @_laddieD: These hoes sad man
+Annotation from annotator: 2
+
+Example 21:
+Text: Happy 9/11! There’s no joke, I’m just wishing everyone a happy holiday.
+Annotation from annotator: 2
+
+Example 22:
+Text: #CommieCunts
+#California’s Democrat-controlled state government wants to re-classify state taxes as charitable contributions to avoid the new $10,000 cap on state and local tax (#SALT) deductions in President Donald Trump’s new tax reform.
+Annotation from annotator: 2
+
+Example 23:
+Text: I see @legobutts!!! #gameloading
+Annotation from annotator: 0
+
+Example 24:
+Text: By invoking the #NuclearOption, Senate Republicans just ensured that every 5-4 SCOTUS ruling will be tainted w/illegitimacy for yrs to come.
+Annotation from annotator: 0
+
+Example 25:
+Text: I planned once the build a new kind of camp to help kids with ADHD. It would be called Concentration Camp.
+Annotation from annotator: 2
+
+Example 26:
+Text: Like a donut, the face needs to be tastefully powdered so that it catches the eye of hungry construction workers. Don a deliciously dapper mug with today's Groupon to Oasis Day Spa.
+Annotation from annotator: 0
+
+Example 27:
+Text: RT @RnadJorell: &#8220;@_KudaBrazyy: "You Disrespected My Hoeing" Pimp Slaps Hoe In The Telly For Talking Back! - http://t.co/XfBbm7cJTY&#8221;aha bitch
+Annotation from annotator: 2
+
+Example 28:
+Text: I think you can say black now (=(EDIT WE CAN NOW)
+Annotation from annotator: 0
+
+Example 29:
+Text: Wow! You're a good drummer... for a girl!
+Annotation from annotator: 2
+
+Example 30:
+Text: Huge difference between filling a image and actually living that life and really putting on that image
+Annotation from annotator: 0
+
+Target Example:
+Text: "RT @NotKamara: I would be mad if a ""friend"" put my business on the internet. Bitch I don't even put my business on the internet."
+Annotation from annotator:

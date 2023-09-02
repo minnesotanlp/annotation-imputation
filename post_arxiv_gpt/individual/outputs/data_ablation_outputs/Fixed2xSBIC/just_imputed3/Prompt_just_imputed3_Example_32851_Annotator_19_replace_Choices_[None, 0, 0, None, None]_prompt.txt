@@ -1,0 +1,131 @@
+Estimated Examples:
+Example 1:
+Text: my life is problematic for no reason at all I swear all I do is lie in bed all day in a depressive coma drowning in existential dread
+Annotation from annotator: 0
+
+Example 2:
+Text: how long does it take for a black woman to take a shit ? <number> months .
+Annotation from annotator: 2
+
+Example 3:
+Text: Whats a muslims favourite theory? the Big Bang
+Annotation from annotator: 2
+
+Example 4:
+Text: Nothing like a 10K walk to clear the cobwebs &amp; get my thoughts in order. Today is another day. I'm still moving forwards not backwards &#128170;&#128170;&#129304;&#129304;
+Annotation from annotator: 0
+
+Example 5:
+Text: Now that my brother gave away his dog I can't fucking stand his presence again
+Annotation from annotator: 2
+
+Example 6:
+Text: haha well they require a certain physical ed. requirement at my school to be given a bachelor 's degree .
+Annotation from annotator: 0
+
+Example 7:
+Text: I can't think about Rikers w/out thinking about Kalief Browder, and it crushes me every time.… https://t.co/5G0BX9qmFE
+Annotation from annotator: 0
+
+Example 8:
+Text: When The #Democrats shut down Gov't last time, they blamed REPUBLICANS
+
+And, Obama shut down agencies that would hurt #WeThePeople
+
+#PresidentTrump will force #Democrats to own THIS shutdown
+
+And he will shut down agencies THEY hold near and dear so THEY feel the pain this time
+Annotation from annotator: 0
+
+Example 9:
+Text: What’s the difference between peanut butter and jam? I can’t peanut butter my dick in your ass.
+Annotation from annotator: 2
+
+Example 10:
+Text: Why are you getting the pink one?
+Annotation from annotator: 0
+
+Example 11:
+Text: Oh no I don't go tanning because my mom says dark skin is really ugly!
+Annotation from annotator: 2
+
+Example 12:
+Text: So all that I'm asking Is that you handle me with caution 'Cause I don't give myself often But I guess I'll try today
+Annotation from annotator: 0
+
+Example 13:
+Text: There is 4 people in my house, 3 of them are sat in the smallest room in the house. What the fuck is wrong with this place
+Annotation from annotator: 0
+
+Example 14:
+Text: In Household and Business Appliances category: JWT India wins gold for @Goldilocks' Disclaimer 1, 2 3, &amp; 4! #ABBYs2017
+Annotation from annotator: 0
+
+Example 15:
+Text: Square: demo an MMO Square: you can't party with other people in the demo Me: the fuck is the point of playing an MMO then??
+Annotation from annotator: 0
+
+Example 16:
+Text: Speaking Of Professional Wrestling When You've Been Following The Big Leagues Like WWE For 30 Years Strongly It Has Become Stale And Bland
+Annotation from annotator: 0
+
+Example 17:
+Text: Only 1 in 700 people will get this... An extra 21st chromosome.
+Annotation from annotator: 2
+
+Example 18:
+Text: I really would love it if the cat would stop using our box spring as her scratching post 😭😓😡😾
+Annotation from annotator: 0
+
+Example 19:
+Text: You have so many black friends.
+Annotation from annotator: 0
+
+Example 20:
+Text: Don't play both sides of the fence. Either you fucking with me or you not.
+Annotation from annotator: 0
+
+Example 21:
+Text: “ “ “ “ “ “ Liked on YouTube: How To Get Rich | 5 Rich Principles That Change Your Life: Liked on YouTube: How To Get Rich | 5 Rich …
+Annotation from annotator: 0
+
+Example 22:
+Text: Torturing myself with @GordonRamsay videos, all the food looks so fucking good.&#129316;
+Annotation from annotator: 0
+
+Example 23:
+Text: we were watching a ww2 documentary &amp; my allergies started acting up &amp; making my eyes water so people thought I was crying&#128580;
+Annotation from annotator: 0
+
+Example 24:
+Text: The hardest part of a vegetable What is the hardest part to eat on a vegetable? 
+The wheelchair.
+Annotation from annotator: 2
+
+Example 25:
+Text: What's the difference between a toilet and a codependent? A toilet doesn't follow me around after I shit all over it
+Annotation from annotator: 2
+
+Example 26:
+Text: my GF to called me a 'perverted pig' Which is really inconsiderate since i repeatedly showed her my Fursona is actually a wild boar with a horsecock
+Annotation from annotator: 2
+
+Example 27:
+Text: Where's your Kalashnikov?
+Annotation from annotator: 0
+
+Example 28:
+Text: You need to smile more and project more warmth in your voice. Also, you need to suggestive sell more often. I know you can smile more and be nicer. I've seen you do it. I don't ask other people to do it, but you are so good at it, so, I expect more out of you.
+Annotation from annotator: 0
+
+Example 29:
+Text: Friends forever @sritianne @arjitaneja @ItsMadhurima19 @leena_real @charumehra2 &#128525;&#128525;&#128525;&#128525;&#128525;&#128525; https://t.co/tYubI4uky3
+Annotation from annotator: 0
+
+Example 30:
+Text: What the difference between my meat And my son? I only beat my meat once a day
+Annotation from annotator: 2
+
+Target Example:
+Text: What’s the problem with an Asian pet store? There’s always a kitchen in the back
+Annotation from annotator:

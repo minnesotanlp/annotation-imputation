@@ -1,0 +1,138 @@
+Estimated Examples:
+Example 1:
+Text: black is a word, the bot is a turd
+Annotation from annotator: 0
+
+Example 2:
+Text: What’s the difference between a black guy and a pizza? A pizza can feed a family
+Annotation from annotator: 1
+
+Example 3:
+Text: ITS OVER FOR NON-WHITES PROOF OF BLACK PILL RIGHT HERE COMME IN COMME IN
+Annotation from annotator: 0
+
+Example 4:
+Text: who fell first, a black man or a jewish? a black man because shit falls faster than the ashes
+Annotation from annotator: 1
+
+Example 5:
+Text: q. what do you call mexican firefighters josa and josb
+Annotation from annotator: 1
+
+Example 6:
+Text: In an effort to tie the thread back together ....
+Annotation from annotator: 0
+
+Example 7:
+Text: Regardless of the luxurious things you have, stay humble because that makes you more respectable by others.
+Annotation from annotator: 0
+
+Example 8:
+Text: I do n't know ... if afrocant 's do n't slather their skin several times a day with cocoa butter lotion it takes on a definite crocodilian appearance .
+Annotation from annotator: 1
+
+Example 9:
+Text: Why are there so many trees in Compton? Public transport.
+Annotation from annotator: 1
+
+Example 10:
+Text: What do you call a asian with a broken back? a Chinkie
+Annotation from annotator: 1
+
+Example 11:
+Text: Why do Mexicans never have Sex Ed and Driver's Ed on the same day? They have to give the donkey a break at some point.
+Annotation from annotator: 1
+
+Example 12:
+Text: I just looked up "blindfire" and realized I had no idea what it meant. Apparently it means shooting without revealing your position, which is not what I actually meant. [...] ).
+Annotation from annotator: 0
+
+Example 13:
+Text: You know, technically you can say that about every single videogame.
+Annotation from annotator: 0
+
+Example 14:
+Text: i always loved scouts what is the difference between a boy scout and a jew ? :d the boy scout returns from his camps .
+Annotation from annotator: 1
+
+Example 15:
+Text: Timmy spots his teachers hairless right armpit. He stands up and asks her: "Mrs. Teacher, why is your right armpit shaved?"
+
+The teacher says: "Timmy, that's not something you can point out in public. You go home for the rest of the day and think about what you've said."
+
+Next Day:
+It's a hot summer and Mrs. Teacher only wears a Spaghetti Top. While she is cleaning the chalkboard, Timmy stands up and asks: "Mrs. Teacher, why is your second armpit shaved?"
+
+The teacher, obviously angered, says: "Timmy, that's not something you can point out in public. You go home for the rest of the *week* and think about what you've said."
+
+Monday, the next week:
+Timmy back in school, Mrs. Teacher wearing a Turtleneck pullover and a skirt. Halfway through the lesson the chalk breaks and she bends down to pick up the pieces.
+
+Timmy stands up, waves his friends close and proclaims:
+
+"Boys, I'll see you next year!!"
+Annotation from annotator: 0
+
+Example 16:
+Text: For some strange reason the phrase Banana Republic comes to mind?
+Annotation from annotator: 0
+
+Example 17:
+Text: They say they dont want to take our guns .
+Annotation from annotator: 0
+
+Example 18:
+Text: always remind myself nothing product about instinctive guilt or anger nothing productive abt rash emotion tht doesnt result in anything
+Annotation from annotator: 0
+
+Example 19:
+Text: a priest asks the convicted murderer at the electric chair , " do you have any last requests ? ” " yes , " replies the murderer . " can you please hold my hand ? "
+Annotation from annotator: 0
+
+Example 20:
+Text: I love 311 without irony, unapologetically. It has become very cool to mock them. Try to play drums like #chadsexton, I dare ya. #longcareer
+Annotation from annotator: 0
+
+Example 21:
+Text: 13 Reasons Why has got to be some of the dumbest shit I've ever seen if u like it u probably like j Cole
+Annotation from annotator: 0
+
+Example 22:
+Text: Feminist sucks out poor man's life-force - [0:27] • /r/videos
+Annotation from annotator: 1
+
+Example 23:
+Text: I appreciate every donation received. But ppl that threaten to pull funding if I don't say the things they want to hear can fuck themselves.
+Annotation from annotator: 0
+
+Example 24:
+Text: Disagree, queers ought to be allowed to teach.
+Annotation from annotator: 1
+
+Example 25:
+Text: This reminds me of barrens chat.
+Annotation from annotator: 0
+
+Example 26:
+Text: @djona222 YASS!!! I want that asshat to be exposed as evil!! #GH
+Annotation from annotator: 1
+
+Example 27:
+Text: They get some of the same white guilt trip from the private schools .
+Annotation from annotator: 0
+
+Example 28:
+Text: Whoever Router name is ASUS ya fucking up the Wifi in my room &#128530;
+Annotation from annotator: 0
+
+Example 29:
+Text: How about when Hitler says that the Jewish question will not be dealt with until after the war ..
+Annotation from annotator: 0
+
+Example 30:
+Text: Trump: American heroes to the White House this morning- The Wounded War... https://t.co/fAGdmQjO1D via @YouTube
+Annotation from annotator: 0
+
+Target Example:
+Text: #FollowAttack @MemorialRifleRange @Catspajamas @Aphasia @daph @littlebackstory @Laughing_Ginger @Cowboyshepherd @Bikers4Liberty @slabside45 @404 @LionsOmega @dandylionsummer
+Annotation from annotator:

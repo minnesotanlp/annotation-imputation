@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: If someone requests a limit on gifts you are expected to respect their request.
+Annotation from annotator: 3
+
+Example 2:
+Text: You shouldn't call people things that make them uncomfortable
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't burn yourself when you make mistakes.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's bad to not give people their personal space.
+Annotation from annotator: 3
+
+Example 5:
+Text: You should keep trying new things until you find what you want to do.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't discriminate against groups of people.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's understandable if you can't keep your political leanings out of your religion lectures.
+Annotation from annotator: 2
+
+Example 8:
+Text: It is wrong to betray your family
+Annotation from annotator: 3
+
+Example 9:
+Text: It's understandable if you are annoyed when your spouse wakes you up.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's rude to make judgments about people you don't know well.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's wrong to be cheap.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's smart to know what you've ordered before it arrives.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's important not to disrupt a wedding
+Annotation from annotator: 3
+
+Example 14:
+Text: It's normal to feel guilty for not feeling the way you think you should.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is good to embrace love and friendship in a marriage.
+Annotation from annotator: 3
+
+Example 16:
+Text: You shouldn't call people really early in the morning.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's wrong to kill things.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's expected that you report a child who has gone missing.
+Annotation from annotator: 3
+
+Example 19:
+Text: You should be focused on learning while at school.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's good to make homemade food and beverages.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's normal for people to practice a skill to improve their ability.
+Annotation from annotator: 3
+
+Example 22:
+Text: You should always try your best to win at a race.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's not okay to bother others who don't need or want it.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's irresponsible to furnish cigarettes to underage children.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's wrong to throw chemicals in people's eyes.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's okay to be upset when you lose all the money you put into a wedding you canceled.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to get away from a dangerous situation.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's acceptable to date younger women.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's good to be a police officer and protect the public.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's bad to take rides from others when you're underage.
+Annotation from annotator: 2
+
+Target Example:
+Text: You should see a doctor if you have bad burns.
+Annotation from annotator:

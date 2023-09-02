@@ -1,0 +1,245 @@
+Human-rated Examples:
+Example 1:
+Text: It's wrong to be incredibly envious of people.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to be patient for things.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's okay if you don't want to be around someone that you are not in a relationship with.
+Annotation from annotator: 3
+
+Example 4:
+Text: You shouldn't try to dictate someone else's finances.
+Annotation from annotator: 3
+
+Example 5:
+Text: You shouldn't buy a lot of candy since it's unhealthy.
+Annotation from annotator: 2
+
+Example 6:
+Text: It's okay to have sex on camera.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's rude to yell at your family and friends.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's expected that parents should love their children.
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't lie to people.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is okay to have standards for how tasks are completed.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's not okay to stay quiet and not stand up for yourself
+Annotation from annotator: 2
+
+Example 12:
+Text: It's fine to like a show.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is unacceptable to pretend to have cancer.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's good to have something in your life that you love with every fiber of your being.
+Annotation from annotator: 3
+
+Example 15:
+Text: You shouldn't sleep around with random people.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's impolite to make premature assumptions about people.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's understandable to be moved when someone expresses their love for you.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to maintain a job despite it being boring.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's understandable if you're confused when you get a new appliance.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's okay to need motivation to finish your goals
+Annotation from annotator: 2
+
+Example 21:
+Text: It is wrong to kill a pet.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's expected you finish your goals when you set out to achieve them
+Annotation from annotator: 3
+
+Example 23:
+Text: It's not okay to set yourself up for disaster.
+Annotation from annotator: 3
+
+Example 24:
+Text: Parents should be aware of potential dangers to their children.
+Annotation from annotator: 3
+
+Example 25:
+Text: You should speak with your roommates if you are having issues with them or people they are bringing into the house.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's wrong to disrespect other races.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's ok to say whatever you want when you are alone.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to be able to be honest about who you are.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's unhealthy to cause young, undeveloped brains to have contact with marijuana.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's important to be true to yourself.
+Annotation from annotator: 3
+
+Estimated Examples:
+Example 1:
+Text: You should practice your handwriting if it's poor.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's wrong to take advantage of your children
+Annotation from annotator: 3
+
+Example 3:
+Text: It's rude to ask people intrusive questions.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is wrong to wish for a disaster.
+Annotation from annotator: 3
+
+Example 5:
+Text: He shouldn't hurt another person
+Annotation from annotator: 4
+
+Example 6:
+Text: You shouldn't let your friend talk down on themselves.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's allowed to hook-up with someone when you're bored, and not talk to them again.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's understandable if you're upset when your parents are strict.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's fine to have controversial opinions.
+Annotation from annotator: 2
+
+Example 10:
+Text: It is good to move on in life.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's rude to stop flirting with someone.
+Annotation from annotator: 2
+
+Example 12:
+Text: It is good to show affection towards your partner.
+Annotation from annotator: 4
+
+Example 13:
+Text: It is bad to be negative.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's normal for your preferences in a romantic partner to change over time.
+Annotation from annotator: 3
+
+Example 15:
+Text: You should not cheat on your partner.
+Annotation from annotator: 3
+
+Example 16:
+Text: It is bad to judge others.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's rude not to thank someone when they give you a free copy of their book.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is okay to feel alone.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's wrong to eat someone elses food
+Annotation from annotator: 3
+
+Example 20:
+Text: You should not mislead your partner about your romantic feelings.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's bad to coerce your coworkers into taking an unwanted dog.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's wrong to hide from new experiences.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's wrong to sell fake goods representing them as real.
+Annotation from annotator: 3
+
+Example 24:
+Text: People shouldn't want others to debase them, as it mars their souls.
+Annotation from annotator: 3
+
+Example 25:
+Text: You should tell your friends if they're behaving inappropriately
+Annotation from annotator: 2
+
+Example 26:
+Text: It's understandable to have trouble repairing a relationship.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's not okay to bring someone who has no idea what you are doing into your acts.
+Annotation from annotator: 1
+
+Example 28:
+Text: It's okay if you don't enjoy cooking with your partner.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's good to help people out.
+Annotation from annotator: 4
+
+Example 30:
+Text: It goes against office etiquette to take food that belongs to co-workers.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's okay to fall in love with an old flame.
+Annotation from annotator:

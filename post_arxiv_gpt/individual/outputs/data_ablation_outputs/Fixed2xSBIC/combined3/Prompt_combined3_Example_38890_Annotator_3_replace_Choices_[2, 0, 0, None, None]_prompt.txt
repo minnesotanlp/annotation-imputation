@@ -1,0 +1,252 @@
+Estimated Examples:
+Example 1:
+Text: Why aren't there any Muslims in star trek It's the future
+Annotation from annotator: 2
+
+Example 2:
+Text: Please @netflix @NetflixNL help us to keep the dream alive and give #BatB Beauty and the Beast a new home! #NetflixSaveBatB
+Annotation from annotator: 0
+
+Example 3:
+Text: How do you call it when you set a kid in a wheelchair on fire? Hotwheels.
+Annotation from annotator: 2
+
+Example 4:
+Text: i've played like 9-10 games of battlegrounds and i have yet to even remotely come close to killing anyone i'm so bad at shooters jesus
+Annotation from annotator: 0
+
+Example 5:
+Text: Why was the Jew black They left him in the oven too long
+Annotation from annotator: 2
+
+Example 6:
+Text: Okay but when Harry goes on The Late Late Show can he and James please do a riff-off?? I need that in my life omg
+Annotation from annotator: 0
+
+Example 7:
+Text: #AntiZumaMarches We are tired! Zuma must go. Imfuyo yakhe imlindile KZN. We need a leader not a puppet
+Annotation from annotator: 0
+
+Example 8:
+Text: NBA ALLSTAR weekend is an unofficial negro holiday
+Annotation from annotator: 2
+
+Example 9:
+Text: "@OneHopePerFrame ""R-right. Um… do you have a good group of friends to talk to?"" *he sips his coffee*"
+Annotation from annotator: 0
+
+Example 10:
+Text: When you make a cute ass video snap but you look lowkey ugly so you don't know if you should post it or not &#129300;&#129335;&#127997;‍♀️ #Currently
+Annotation from annotator: 0
+
+Example 11:
+Text: "I hate all these ""safe spaces"" that people think they need. How about just live life? Oh, someone offended you! Do you know what you can -"
+Annotation from annotator: 0
+
+Example 12:
+Text: I have purchased a few DLC's for Black Ops 2 but I don't know how to play the maps in public matches? Always end up on standard maps.
+Annotation from annotator: 0
+
+Example 13:
+Text: I went to therapists' office He raped me.
+Annotation from annotator: 0
+
+Example 14:
+Text: Roses are red, Violets are blue.
+
+
+Don't scream during anal,
+
+
+Or I will kill you.
+Annotation from annotator: 0
+
+Example 15:
+Text: GOT A ROLLER? GOT A #PAINT BRUSH? AUCTION HOUSE AT 6.30 FOR OUR FIRST #PAINTPARTY!!! WE ARE #EXCITED! EXCITED CAPS LOCK! COME ALONG!
+Annotation from annotator: 0
+
+Example 16:
+Text: That nigga talkin like a hoe Tell that bitch nigga speak up
+Annotation from annotator: 2
+
+Example 17:
+Text: i like my pizza the same way i like my jews . <repeat> thin and crispy .
+Annotation from annotator: 2
+
+Example 18:
+Text: Lyft all-nighter complete. Nobody vomited. I did not die. It was a good night. The sunrise was awesome also. It's bedtime. Buenos nachos.
+Annotation from annotator: 0
+
+Example 19:
+Text: What's the difference between a nigger and a pizza? A pizza can feed a family of 4
+Annotation from annotator: 2
+
+Example 20:
+Text: Where do the kids with Cancer sleep most tenderly? In a coffin.
+Annotation from annotator: 2
+
+Example 21:
+Text: Fitz is fucking garbage. He came there to cape for Abby. He didn't even wait five minutes to start burdening Liv was some forgive me crap.
+Annotation from annotator: 0
+
+Example 22:
+Text: Why a woman has more chromosones than a cow So she wouldn't shit herself while doing the dishes
+Annotation from annotator: 2
+
+Example 23:
+Text: Genders are like the Twin Towers At first there were two of them, now it’s a sensitive subject.
+Annotation from annotator: 0
+
+Example 24:
+Text: Don't be that bitch that's mad FOREVER cause the nigga has a place for me in his heart!
+Annotation from annotator: 0
+
+Example 25:
+Text: Jihadis taunting America &amp; spreading paranoia: tents that appeared in a video of a Daesh training camp near Mosul. http://t.co/GH3EbBfB3t
+Annotation from annotator: 0
+
+Example 26:
+Text: Besides, I like the cold. Thirty years later, I get a postcard. I have a son and he's the chief of police.
+Annotation from annotator: 0
+
+Example 27:
+Text: Black people are Functioning members of society and deserve equal treatment
+Annotation from annotator: 0
+
+Example 28:
+Text: What holiday do black people don’t celebrate? Father’s day
+Annotation from annotator: 2
+
+Example 29:
+Text: What you call a fatty tumor on a middle eastern guy? Hibernoma
+Annotation from annotator: 2
+
+Example 30:
+Text: We're also playing with Swim Team (great) and Fly Ball (also great), and I heard a preview of the new Shrouded Amps tape, and it's killer.
+Annotation from annotator: 0
+
+Human-Rated Examples:
+Example 1:
+Text: What supporter was the only thing that couldn't save Stephen Hawking? Life Support.
+Annotation from annotator: 0
+
+Example 2:
+Text: .@MyKeyMoonShine @Grummz i don't think you understand what gaslighting means. but that's adorable.
+Annotation from annotator: 0
+
+Example 3:
+Text: Are there any anticircumcision/restoration organizations in CA, or online that accept volunteers?
+Annotation from annotator: 0
+
+Example 4:
+Text: Yeah my trust all fucked up! Y'all lie for no reason &#129318;&#127997;‍♀️
+Annotation from annotator: 0
+
+Example 5:
+Text: Watching Strong Woman Do Boog Soon during public speaking because I've decided that's a better use of my time
+Annotation from annotator: 0
+
+Example 6:
+Text: Funny how The Weeknd sings about being emotionless but has had a couple of open relationships. Hmmm
+Annotation from annotator: 0
+
+Example 7:
+Text: So yall hoes still surfboard'n in the tub or nah?
+Annotation from annotator: 0
+
+Example 8:
+Text: Why is Mexico so bad at the Olympics? Because every mexican that can run, jump and climb is allready on the U.S.A
+Annotation from annotator: 2
+
+Example 9:
+Text: It's impossible to get excited about anything when you have no friends
+Things that are fun an exciting for normies, holidays and special events, are just suicidal fuel for subhumans.
+Annotation from annotator: 0
+
+Example 10:
+Text: &#8220;@Ashley_J12: Shout out to my momma cuz she didn't raise no hoe! &#128076;&#128079;&#128588;&#8221;
+Annotation from annotator: 0
+
+Example 11:
+Text: Black people are contributors to the society. If someones locks this then they have the BIG GAY
+Annotation from annotator: 0
+
+Example 12:
+Text: What's the difference between a jew and a pizza? The pizza doesn't screems when it gets into the oven
+Annotation from annotator: 2
+
+Example 13:
+Text: When you at a open bar and get 10% beers tryna strategize but end up getting drunk sooner than expected &lt;&lt;
+Annotation from annotator: 0
+
+Example 14:
+Text: """i've got these fucking barney rubbles in my mentions"""
+Annotation from annotator: 0
+
+Example 15:
+Text: Top gilded comment states, in an evasive, manipulative manner, that all men are objectifying her.
+Annotation from annotator: 0
+
+Example 16:
+Text: Condoms don't guarantee full protection I was having sex with this girl and got shot by her boyfriend
+Annotation from annotator: 0
+
+Example 17:
+Text: Ashley: why does Connor match your couch Connor: BECAUSE IM FUCKING COORDINATED YOU UNTALENTED HOOKER
+Annotation from annotator: 0
+
+Example 18:
+Text: Ball is life? No bitch bench is life &#128075;
+Annotation from annotator: 0
+
+Example 19:
+Text: What do you call an expensive Jewish prostitute? A holla cost
+Annotation from annotator: 2
+
+Example 20:
+Text: My grandma keeps telling me to eat my vegetables fresh. But it's kind of hard when they're all praising him for his theories.
+Annotation from annotator: 0
+
+Example 21:
+Text: It's sad to see a bad bitch with a wack ass guy /:
+Annotation from annotator: 0
+
+Example 22:
+Text: Man I hate the sun Hope the guy who created it has to see his son crucified.
+Annotation from annotator: 0
+
+Example 23:
+Text: Hoping to find a sexy guy to have some fun with
+Annotation from annotator: 0
+
+Example 24:
+Text: What do I love the most about my Jewish girlfriend? Dat ash
+Annotation from annotator: 2
+
+Example 25:
+Text: There's so much plastic in this culture that vinyl leopard skin is becoming an endangered synthetic. ― Lily Tomlin
+Annotation from annotator: 0
+
+Example 26:
+Text: RT @KILLSheredon: you the nigga in high school who got shoved into lockers and thrown into trash cans @TvvitterRoasts
+Annotation from annotator: 2
+
+Example 27:
+Text: Chingle changle goes the jew Because of the pennies in his pocket that he stole from you
+Annotation from annotator: 2
+
+Example 28:
+Text: HUGE congrats goes out to @1erinrichardson for winning the @UofT National Scholarship! Couldn't have gone to anyone more deserving!&#128079;&#127881;
+Annotation from annotator: 0
+
+Example 29:
+Text: I got to get the trash out and make breakfast for the Frau and start laundry so y'all be good till I get back. Cracker Out!
+Annotation from annotator: 0
+
+Example 30:
+Text: Slavery shouldn't exist
+Annotation from annotator: 0
+
+Target Example:
+Text: Man tricks women into aborting a baby she wants but he doesn't, discussion on /r/NotTheOnion
+Annotation from annotator:

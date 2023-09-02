@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PY1mDCUxhknriq1qojj147yDextM",
+    "object": "chat.completion",
+    "created": 1686323358,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 582,
+        "completion_tokens": 116,
+        "total_tokens": 698
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n25.00% of responsive annotators labeled the text with 1\n50.00% of responsive annotators labeled the text with 2\n25.00% of responsive annotators labeled the text with 3\n0.00% of responsive annotators labeled the text with 4\n\nBased on the given soft labels, the majority of annotators rated the sentiment of the text as somewhat positive (2). Therefore, my prediction for the soft label of the target text would be 2."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

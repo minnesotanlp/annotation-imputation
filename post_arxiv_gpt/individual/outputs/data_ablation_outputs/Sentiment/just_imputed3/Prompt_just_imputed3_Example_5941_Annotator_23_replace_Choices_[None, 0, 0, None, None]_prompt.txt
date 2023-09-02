@@ -1,0 +1,84 @@
+Estimated Examples:
+Example 1:
+Text: @troika90 do that! remember.. oldies! haha
+Annotation from annotator: 3
+
+Example 2:
+Text: @zaharh that sucks!  how old are you actually?
+Annotation from annotator: 1
+
+Example 3:
+Text: Fun times last night...creepy 21 year old...so glad I am no longer in college
+Annotation from annotator: 1
+
+Example 4:
+Text: I'm finding it quite hard to believe that my baby sister is fifteen today..I feel so old.
+Annotation from annotator: 1
+
+Example 5:
+Text: I'm twittering from my bed; nobody understands...what ppl repeatedly say when your young never goes away; always in the back of my mind
+Annotation from annotator: 2
+
+Example 6:
+Text: Lunch was pork cutlet with young green asparagus and boiled potatoes, hollandaise sauce, gf sure can cook , yummy, away for 4 days again
+Annotation from annotator: 3
+
+Example 7:
+Text: My oldest is going to be 5 years old in less than a week!!  They grow up so fast!!
+Annotation from annotator: 2
+
+Example 8:
+Text: My sister just kidnap my "estrellita", my old white lion since I was a little girl.  She's so mean.
+Annotation from annotator: 1
+
+Example 9:
+Text: Not at prom. Ha! Chinese, iced chai, and some old school pokemon. Good night
+Annotation from annotator: 3
+
+Example 10:
+Text: Waking up refreshed - dispite 2 busy parties yesterday - they were great fun - 6 year olds and then 13 yr olds - all children were lovely
+Annotation from annotator: 3
+
+Example 11:
+Text: Why does a 66-year old need to give birth to a baby? http://tinyurl.com/nxqfj9 There are so many foster children in need of good homes.
+Annotation from annotator: 2
+
+Example 12:
+Text: Wildwood for the weekenddd!!!  **only the good die young** <3 love you and miss you forever JP <3
+Annotation from annotator: 4
+
+Example 13:
+Text: Young age can prove to be a curse in lot many cases when with falling memory and declining health one is unable to take care of everyday situations.
+Annotation from annotator: 2
+
+Example 14:
+Text: hehe yes indeed  @Flo____ jap i love the view...theres also a very old tree which got split by a bolt. and u can marry in the tower ;)
+Annotation from annotator: 3
+
+Example 15:
+Text: http://twitpic.com/6fraa - i found my old Star Wars movies on vhs
+Annotation from annotator: 2
+
+Example 16:
+Text: played beach volleyball with our Teens today  - only felt a little old
+Annotation from annotator: 2
+
+Example 17:
+Text: the same old school...we have mcas the next 3 days, eww.
+Annotation from annotator: 1
+
+Example 18:
+Text: those old memories. And ahh...  dang FIRST TIME again. I'm about to throw my stupid ipod. This song messes me up....  i want to cry ev ...
+Annotation from annotator: 1
+
+Example 19:
+Text: with the repair bill for my old dryer, i could buy a new one?? it broke right after the warranty!
+Annotation from annotator: 1
+
+Example 20:
+Text: wonders if it is sad that her two year old and her five year old already have a "usual" at Starbucks & favorite favorite iPhone apps...
+Annotation from annotator: 2
+
+Target Example:
+Text: Also still wondering who is going to coach poor old Ajax... with van Basten gone now we need a new good coach...
+Annotation from annotator:

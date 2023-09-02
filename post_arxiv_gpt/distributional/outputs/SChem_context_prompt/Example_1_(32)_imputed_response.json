@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVlXjdZNkvXDiFOH43oEtP07MP97",
+    "object": "chat.completion",
+    "created": 1686314663,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 563,
+        "completion_tokens": 141,
+        "total_tokens": 704
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "5.00% of responsive annotators labeled the text with 0\n12.00% of responsive annotators labeled the text with 1\n50.00% of responsive annotators labeled the text with 2\n30.00% of responsive annotators labeled the text with 3\n3.00% of responsive annotators labeled the text with 4\n\nPrediction: Based on the soft labels provided, it seems that the statement \"It is understandable for parents to want to take care of their child when they are in need\" is somewhat controversial, with 50% of the raters labeling it as such. Therefore, I would predict a soft label of 2 for this text."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

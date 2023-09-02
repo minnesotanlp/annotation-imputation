@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+How annotator A has labeled some examples:
+Example 1:
+Text: It's selfish to expect your husband to give you his entire estate.
+Annotation from annotator: 4.0
+
+Example 2:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 2.0
+
+Example 3:
+Text: People will think you're a coward if you refuse to help others.
+Annotation from annotator: 3.0
+
+Example 4:
+Text: It is understandable for parents to want to take care of their child when they are in need.
+Annotation from annotator: 4.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: You should not engage in romance with a patient you treat.
+Annotation from annotator: 3.0
+
+Example 2:
+Text: It's not okay to be to happy with a material object.
+Annotation from annotator: 0.0
+
+Example 3:
+Text: It's not okay to stray from a relationship.
+Annotation from annotator: 3.0
+
+Example 4:
+Text: It's bad to leave school without letting someone know where you're going.
+Annotation from annotator: 3.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: You should be focused on learning while at school.
+Annotation from annotator: 3.0
+
+Example 2:
+Text: It's good to work at home.
+Annotation from annotator: 3.0
+
+Example 3:
+Text: It's good to play games of chance where you can win money.
+Annotation from annotator: 2.0
+
+Example 4:
+Text: It's not okay to be in a romantic relationship with a teacher.
+Annotation from annotator: 3.0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: It's discouraged to be in love with your own image.
+Annotation from annotator:

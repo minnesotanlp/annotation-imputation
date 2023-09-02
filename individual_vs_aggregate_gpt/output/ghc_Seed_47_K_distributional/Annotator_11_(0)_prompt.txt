@@ -1,0 +1,29 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and be shown the distributional label of how all annotators have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: #QAnon - How the Media Controls What We Think https://youtu.be/BgKK8KzNHJs via @YouTube
+ANSWER: 1
+
+2.
+EXAMPLE: "This Was Your Life!" 
+ANSWER: 0
+
+3.
+EXAMPLE: I agree I will support gay marriage when a man can give birth to a child without intervention or manipulation by humans... In the meanwhile any form of gay relationship is disgusting and sickening
+ANSWER: 1
+
+4.
+EXAMPLE: That is fine. LOL! You should get to "know'em" before hand. :)
+ANSWER: 0
+
+Here's how the distributional label of how all annotators have annotated the target example:
+33.33% of people responded with 0
+66.67% of people responded with 1
+
+How would the particular annotator annotate the target example?
+EXAMPLE: Jews are afraid that America associating with them will reveal how peaceful it is to be without immigrants from shithole countries.
+ANSWER:

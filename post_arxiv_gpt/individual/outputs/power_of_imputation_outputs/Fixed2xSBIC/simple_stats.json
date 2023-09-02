@@ -1,0 +1,26 @@
+{
+    "just_orig7": {
+        "best accuracy": 0.8666666666666667,
+        "best weighted avg f1-score": 0.8795918367346939
+    },
+    "just_orig6": {
+        "best accuracy": 0.8,
+        "best weighted avg f1-score": 0.8434650455927052
+    },
+    "just_orig5": {
+        "best accuracy": 0.9333333333333333,
+        "best weighted avg f1-score": 0.9263333333333335
+    },
+    "combined3": {
+        "best accuracy": 0.9666666666666667,
+        "best weighted avg f1-score": 0.9515151515151515
+    },
+    "just_imputed1": {
+        "best accuracy": 0.9666666666666667,
+        "best weighted avg f1-score": 0.9515151515151515
+    },
+    "just_imputed3": {
+        "best accuracy": 0.9666666666666667,
+        "best weighted avg f1-score": 0.9515151515151515
+    }
+}

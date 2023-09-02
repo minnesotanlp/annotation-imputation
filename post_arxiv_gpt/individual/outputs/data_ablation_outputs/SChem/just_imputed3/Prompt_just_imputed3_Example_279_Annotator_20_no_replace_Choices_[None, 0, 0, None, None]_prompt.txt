@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's normal for people to want their loved ones to be happy.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's good to like your job.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's okay if you are tired at work if you want to ask to go home.
+Annotation from annotator: 2
+
+Example 5:
+Text: People are expected to want to be close to their family.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't call out your family over petty things.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should love your parents.
+Annotation from annotator: 3
+
+Example 8:
+Text: You shouldn't expect people to do all their chores.
+Annotation from annotator: 1
+
+Example 9:
+Text: Families should be able to talk out their problems with each other.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's okay to be upset with a friend.
+Annotation from annotator: 3
+
+Example 11:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 2
+
+Example 12:
+Text: People should follow the rules.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't let others lead you on.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's okay to start your life over again if you have to.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is good to fill out your own paperwork.
+Annotation from annotator: 3
+
+Example 16:
+Text: You can't expect people to do the dishes all the time.
+Annotation from annotator: 3
+
+Example 17:
+Text: You shouldn't expect others to pick up the tab for your mistakes.
+Annotation from annotator: 4
+
+Example 18:
+Text: You don't owe a partner an explanation of past relationships.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is responsible to look out for the children of the community.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's understandable that you don't want to be burden by other people's moments in their lives.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's understandable to want a partner to wear clothing that appeals to you.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's okay to be offended when your partner doesn't want you cooking for their kids.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's fine to establish rules for how long your rommates can have company stay.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't be hypocritical.
+Annotation from annotator: 4
+
+Example 25:
+Text: Your boyfriend has the right to wear whatever underwear he chooses.
+Annotation from annotator: 4
+
+Example 26:
+Text: You shouldn't think ill of your family.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should always help out your family with money.
+Annotation from annotator: 2
+
+Example 28:
+Text: You shouldn't have to stay at a place you don't like.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't accept money from someone you don't want to date.
+Annotation from annotator: 2
+
+Example 30:
+Text: You should always trust your nanny.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's wrong to have weird sexual fantasies.
+Annotation from annotator:

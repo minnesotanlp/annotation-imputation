@@ -1,0 +1,1 @@
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".

@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Yes, it is a matter of civility.  Do you think a year would be better?
+Annotation from annotator: 15
+
+Example 2:
+Text: I'm leaving <url> to Karanacs because I'm too close to the topic in bad ways.  I'm uncertain whether images are clear, so please drop a note on the FAC before Karanacs goes through on Tuesday?
+Annotation from annotator: 11
+
+Example 3:
+Text: What exactly are the rules on this page? Can stuff be added without discussion and "consensus"?
+Annotation from annotator: 13
+
+Example 4:
+Text: Thanks for your input. Would you mind voicing your opinion in the GMC's talk page?
+Annotation from annotator: 15
+
+Example 5:
+Text: Since working on the article you wrote, I have become fascinated with this band.  Is any of their music availabe online?
+Annotation from annotator: 16
+
+Example 6:
+Text: Thanks for pointing that out. Do you suppose we should move or copy these image requests to the MilHist task forces too?
+Annotation from annotator: 15
+
+Example 7:
+Text: Do you have ECE volume 4 (queen endings)?  If so, how many diagrammed positions does it have?
+Annotation from annotator: 12
+
+Example 8:
+Text: Dan, can you take a look at the last exchange regarding the 1952 election?  Looking at the citations, is there doubt in your mind that there was a deal, or at least that it has been widely suggested by reliable sources that there was a deal?
+Annotation from annotator: 14
+
+Example 9:
+Text: The file above does not meet the <url> so as to be copyrighted or eligible for fair use, as I had stated so on <url> when I first moved it there. What issues should be resolved?
+Annotation from annotator: 10
+
+Example 10:
+Text: I have it ready now. Would there be any policy violations if I upload the image over the protected one?
+Annotation from annotator: 14
+
+Example 11:
+Text: How about the images? The copyright seems ambiguous?
+Annotation from annotator: 13
+
+Example 12:
+Text: Sure. A redirect how though?
+Annotation from annotator: 14
+
+Example 13:
+Text: I would like to do the same for <url>, a Houston neighborhood. How do I do this?
+Annotation from annotator: 12
+
+Example 14:
+Text: It's not Bowdlerism to delete nonsensical trivia about which movies an actress appears nude in.  Should we indicate what color her hair is in those movies?
+Annotation from annotator: 8
+
+Example 15:
+Text: ---- Though I thought I would note that you have now exceeded <big>'''500'''</big> edits while on "wikibreak" and that is over less than 10 days, May I ask what kind of break is that???
+Annotation from annotator: 10
+
+Example 16:
+Text: I notice that to the <url> and <url> pages edited '''''Gorka''''' '''Josxe9 Unda Velasco''' and changed it to simply ''Gorka''. Why?
+Annotation from annotator: 9
+
+Example 17:
+Text: It's just, what becomes of <url>? Is the mention really there or not?
+Annotation from annotator: 10
+
+Example 18:
+Text: So what was the point of that? Are you looking to get blocked?
+Annotation from annotator: 6
+
+Example 19:
+Text: Hi, not sure exactly what you are asking, the three web refs you list (IUCN, Birdlife, Audubon) all work fine for me, possible a server might have been down temporally, since these rarely give trouble otherwise? Or have I misunderstood your question?
+Annotation from annotator: 13
+
+Example 20:
+Text: If you took them and don't mind if anyone can use them for free then you should probably upload them on <url>. However, it depends what the pictures are of, what is in the picture?
+Annotation from annotator: 12
+
+Example 21:
+Text: WHADDAFUCK YA GONNA DO TO ME, HUH BITCH!?????????
+Annotation from annotator: 3
+
+Example 22:
+Text: Yes, my feeling is to err on the safe side here. Thanks for your comment, is it okay if I quote you on the commons thread?
+Annotation from annotator: 18
+
+Example 23:
+Text: Have made some comments on your list, looks pretty good overall, my points are just picky ones!  Any chance you could return the favour and have a look over <url> for me?
+Annotation from annotator: 15
+
+Example 24:
+Text: I just sat through last Sunday's horror show... The less said about that the better. Any idea who Maurice LaMarche voiced so I can update the guest star list?
+Annotation from annotator: 9
+
+Example 25:
+Text: Unfortunately for those who like railroads, it's been closed again! DOn't you people have better things to do?
+Annotation from annotator: 6
+
+Example 26:
+Text: You may need to enable your own setting to allow E-mail too; I'm not sure. If so, maybe you can turn it on temporarily, so that you can send me one e-mail?
+Annotation from annotator: 15
+
+Example 27:
+Text: Shouldn't <url> have 2010 as his final year? It's pretty late into 2011 to be getting fired, but as I understand it, his navbox should read 2010, and then whatever coach takes the lead for this season will be the interim, no?
+Annotation from annotator: 11
+
+Example 28:
+Text: I have not seen quotation sections on any other Australian politician page. Also, who chose these "quotations?" What qualifies as a quotation?
+Annotation from annotator: 8
+
+Example 29:
+Text: Sorry, I dont quite remember what we were talking about.  Can you tell me what you were/are confused about?
+Annotation from annotator: 16
+
+Example 30:
+Text: Hmm it looks like it can't be done manually. Is something wrong in my program?
+Annotation from annotator: 12
+
+Human-rated Examples:
+Example 1:
+Text: Sorry about that. I guess instructions are there for a reason, right?
+Annotation from annotator: 15
+
+Example 2:
+Text: Also, someone suggested merging it with another hoax page. Why wasn't that option considered?
+Annotation from annotator: 15
+
+Example 3:
+Text: I see your point, but my real issue was wanting to add the 'too much trivia' tag as all these 'minor aspects' need to be integrated into the relevant sections (I'll have a go myself if I get time). Isn't it possible to create a 'pop culture references' section and then siphon it off into a separate page when it gets too big?
+Annotation from annotator: 15
+
+Example 4:
+Text: In my calculation if I got blocked that would only be good for me as it would clear my mind from the obsession to try and change that which seems wrong and mutable, but carries no private benefits for the reformer. Is that line of thinking truly alien to you?
+Annotation from annotator: 8
+
+Example 5:
+Text: My post above was a helpful hint about following DYK as a whole, not about the nomination process. Would you mind posting your post under a new heading, as it seems to have little to do with what I was saying and seems to be changing the subject?
+Annotation from annotator: 16
+
+Example 6:
+Text: How about Guant who plays Pansy? Or Richard Fish who played Bill Weasley, and the actor who played Charlie Weasley in POA?
+Annotation from annotator: 6
+
+Example 7:
+Text: But, before you accuse me of shying away from your second to last question, my PhD is in inorganic chemistry, homogeneous catalysis to be specific, but my latest scientific paper was submitted (still with the reviewers) to ''<url>'': it touches on the metrological consequences of the microscopic quantization of ''Q'', as it happens, although that is not its main thrust. So, do you want to thrash this out among scientists, or would you prefer to waste your time with ArbCom?
+Annotation from annotator: 16
+
+Example 8:
+Text: I'm in Japan timezone - and at work now - and most IRC is totally blocked through work proxies.  Can we do a weekend?
+Annotation from annotator: 15
+
+Example 9:
+Text: Thanks, but why specifically? Because I know the difference between ''hale'' and ''hail''?
+Annotation from annotator: 11
+
+Example 10:
+Text: You are just saying that <math>frac{f(x+h)-f(x)}{h}</math> is continuous at <math>h=0</math>, but that is not the same as saying <math>f'(x)</math> is continuous. Do you have any references?
+Annotation from annotator: 20
+
+Example 11:
+Text: I actually posted my comments a couple minutes ago.  Do you think that explanation works, or do you think it's a good idea I elaborate further?
+Annotation from annotator: 17
+
+Example 12:
+Text: If it can wait until tomorrow, I'll look then. Could you provide diffs to the two threads?
+Annotation from annotator: 10
+
+Example 13:
+Text: In what way do the GMTV images, such as <url>, conform with the guidelines at <url>? Where is the statement on the website saying that it is a press kit, and the images can be reproduced?
+Annotation from annotator: 15
+
+Example 14:
+Text: Interesting illustration on the PrIze law page of a Zeppelin taking a Norwegian vessel as a prize in 1917.  I wonder whether you could point me to a source for more information on this incident?
+Annotation from annotator: 16
+
+Example 15:
+Text: Don't worry about it. Take it easy, keep the ranting to a minimum and the productive editing to a maximum :) And you're still not convinced you should get an account?
+Annotation from annotator: 11
+
+Example 16:
+Text: There is current discussion pertaining to this at the Women's History project page <url>. Would you mind not templating BLPs until a consensus has been reached?
+Annotation from annotator: 7
+
+Example 17:
+Text: Please do not make false accusations.  Where did he add a cn tag to a comment by a non-believer?
+Annotation from annotator: 16
+
+Example 18:
+Text: What's with all the crap behind him? Was this at a signature desk?
+Annotation from annotator: 16
+
+Example 19:
+Text: It should be deleted. Do you want to nominate it or should I?
+Annotation from annotator: 18
+
+Example 20:
+Text: I have to protest that I find it rather meaningless to present arguments on the talk page for edits which are then blankly reverted by the likes of User:Historicar without explanation or discussion. Any suggestions for a more formal process or other remedies?
+Annotation from annotator: 8
+
+Example 21:
+Text: Good luck with the remaining time for your nomination. BTW: under what section on <url> do you think it should appear?
+Annotation from annotator: 17
+
+Example 22:
+Text: Do you feel that you've had success in forming consensus here within your knowledgebase?  What do you feel are the underlying reasons behind your current ban from Wikipedia?
+Annotation from annotator: 15
+
+Example 23:
+Text: Eh, thanks, Sometimes impressing is too easy. Do you want to review the windmill article above?
+Annotation from annotator: 16
+
+Example 24:
+Text: There's nothing in your history besides editing my page, so I'm not sure to what you are referring. What page are you talking about?
+Annotation from annotator: 7
+
+Example 25:
+Text: Actually, the page I am looking for is more like the equivalent of '''<url>''' here at en:wiki.  Do you know of such a page at nn:wiki?
+Annotation from annotator: 16
+
+Example 26:
+Text: Cool, so you understand what "subst:" does now? Btw, eh, where are the section edit links on this talk page?
+Annotation from annotator: 19
+
+Example 27:
+Text: Hmm, there was a 7th <url> - but someone deleted him from <url> after removing the Prod. Is that kocher?
+Annotation from annotator: 9
+
+Example 28:
+Text: <url>, whom you indefblocked almost a year ago, is requesting another chance and seems penitent. Have you any comments?
+Annotation from annotator: 16
+
+Example 29:
+Text: I don't understand. So then you decide by yourself, and the people who stated their support for the original are ignored?
+Annotation from annotator: 15
+
+Example 30:
+Text: Making edits vanish without a trace would be ''extremely'' difficult to do u2013 only full <url> could do that, and I can assure you the oversighters wouldn't do such a thing just to allow somebody to cover their tracks. Maybe you are mis-remembering something, about edits that were in fact on some other page?
+Annotation from annotator: 7
+
+Target Example:
+Text: I'd love to help, but I'm not sure what you're asking me to look at, specifically. Is there a discussion ongoing that you can point to?
+Annotation from annotator:

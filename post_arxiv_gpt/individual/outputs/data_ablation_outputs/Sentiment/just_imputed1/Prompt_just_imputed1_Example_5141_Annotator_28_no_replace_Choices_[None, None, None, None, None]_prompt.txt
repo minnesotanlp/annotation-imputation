@@ -1,0 +1,122 @@
+Example 1:
+Text: I think im getting old... I used to be able to stay up all night but now i cant
+Annotation from annotator: 2
+
+Example 2:
+Text: @emoprinxexa Oh so new trend, new life there.  Here? Oh y'know same old junk. lol Evryone so excited for Pacquaio's fight later.
+Annotation from annotator: 2
+
+Example 3:
+Text: duuuude!!! i cant wait for the 90210 finale! jim walsh is dying!! i miss the old 90210
+Annotation from annotator: 2
+
+Example 4:
+Text: off to spend my morning with 5 year olds...my favorite is the tiny one with the big brown eyes
+Annotation from annotator: 2
+
+Example 5:
+Text: @CourtneySit haha oh well get used to that sweets..not sure that ever changes no matter how old you get  Night Night
+Annotation from annotator: 2
+
+Example 6:
+Text: @Jaaycooxo i first ate adobo frog legs when i was about 6 yrs. old. i thought it was chicken wings, my lola prepared the dish.
+Annotation from annotator: 2
+
+Example 7:
+Text: @therealpickler How old is Eric, anyway? Gotta be old enough, in order to pick out that puppy, right?
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6oilr - old bolts in the front... new bolts in the back.  I sure hope this works
+Annotation from annotator: 2
+
+Example 9:
+Text: don't ask my why i have a new account...it's cuz twitter is LAME and my old one got deleted somehow.  wah wah wah
+Annotation from annotator: 2
+
+Example 10:
+Text: Great show by the @petshopboys tonight saw them 20yrs ago more or less exactly for 1st time which makes me feel quite old
+Annotation from annotator: 2
+
+Example 11:
+Text: No ultimate frisbee.  not enough responses. Let's do Friday evening. Any takers?  Come feel young again and enjoy.
+Annotation from annotator: 2
+
+Example 12:
+Text: @elgecko how old are the babies? feral or tame? yay kittens!
+Annotation from annotator: 2
+
+Example 13:
+Text: gah!!! i am so confused i sent my class schedule to the wrong lady  oops but the new lady sent it to the old one and the old one wants to
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished playing CS Source on a LAN (network cafe) with 5 friends. Ahh..  the good old days
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/66516 - i got flowers from my neighbor, a 60 yr old lady. she's so friendly
+Annotation from annotator: 3
+
+Example 16:
+Text: acsvxdcbgfn soccer now. shall see young phoebe after D: I don't want her dressed up though
+Annotation from annotator: 2
+
+Example 17:
+Text: @MATTHARDYBRAND good luck with the trip! Have a good one! It will at least be better than being stuck in rainy old England today....
+Annotation from annotator: 2
+
+Example 18:
+Text: @rfargnoli (This reminds me of an old TV ad) I'd swear she's your sister
+Annotation from annotator: 2
+
+Example 19:
+Text: Recently retouched. http://tinyurl.com/ljoboh  Finally got it to work, I think.  An old dog can learn new tricks, see?
+Annotation from annotator: 2
+
+Example 20:
+Text: miss my old days when i'm in 2nd grade
+Annotation from annotator: 2
+
+Example 21:
+Text: Wedding last nightt was crazy fun! I think my little brother has a hangover :-0 (yes, he's 13) NO bueno! Good seeing old friends & fam
+Annotation from annotator: 2
+
+Example 22:
+Text: dont miss the new tom hanks one "Angels and demons" guys! what a great movie... he looks much more older, but still 1 of my fav. actors
+Annotation from annotator: 2
+
+Example 23:
+Text: @BecThomasPhoto I'm older and on the web, I taught my kids (22 and 24) how to tweet
+Annotation from annotator: 2
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of an 75 year old!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to having a good old spree in meadowhall with @AniNicholas
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to remember the lyrics of a song with the world cinderella... i know is a old song, light rock, but arghh can't remember
+Annotation from annotator: 2
+
+Example 27:
+Text: so excited to catch up with some old friends tonight!  haven't seen them in a while
+Annotation from annotator: 3
+
+Example 28:
+Text: im hun-ger-eee  ramen gets old after a few dozen packs consumed in a matter of months...;
+Annotation from annotator: 2
+
+Example 29:
+Text: @thakkar dude hope you understand and dont take it personally, just that my bike is about 2 months old and very possessive
+Annotation from annotator: 1
+
+Example 30:
+Text: @hetzakoatl yeah astra is ok but ive gone back to the old trillian as its less bloated, tho i miss the gmail notifications now
+Annotation from annotator: 2
+
+Text: @sidhe77 I know!  now it's an oldies rock station. You were a DJ right? good times!
+Annotation from annotator:

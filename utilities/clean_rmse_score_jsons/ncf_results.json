@@ -1,0 +1,17 @@
+{
+    "ghc_0": {
+        "best_rmse": 0.346
+    },
+    "SBIC_0": {
+        "best_rmse": 0.372
+    },
+    "SChem5Labels_0": {
+        "best_rmse": 0.628
+    },
+    "SChem_0": {
+        "best_rmse": 0.592
+    },
+    "Sentiment_0": {
+        "best_rmse": 0.893
+    }
+}

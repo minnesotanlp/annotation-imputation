@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: As for restoring the image, no I will not. Did you consider that you are asking me to put up an image for which I know the "fair use" claim to be bogus, and that this is illegal?
+Annotation from annotator: 8
+
+Example 2:
+Text: I'm sorry, but I don't see what you're talking about.  Could you be more specific?
+Annotation from annotator: 16
+
+Example 3:
+Text: Hmm, see you just reverted back. What's the bot's job suppost to be?
+Annotation from annotator: 12
+
+Example 4:
+Text: OK, just to make sure there are city, town, village as incorporated places, the townships are districts, and of course CDPs (I want to make the key right). Also, how many parishes are there (perhaps I should have asked this first)?
+Annotation from annotator: 16
+
+Example 5:
+Text: <url> is one of the three fundamental Wikipedia content policies; why is it a "shame" you have to follow it? What did you mean by "people like you"?
+Annotation from annotator: 12
+
+Example 6:
+Text: I remember your commenting on this about seven years ago.  What's your view today?
+Annotation from annotator: 12
+
+Example 7:
+Text: I really would rather use, in English, the one expression "<url>" instead of "<url>," "marz," "<url>," "khaet," "<url>," "eparchia," "ostan," "khoueng," "faritany," "aimag," "tinh"u2014or "<url>" (aka "<url>").  <url> then why should "<url>" not be also?
+Annotation from annotator: 12
+
+Example 8:
+Text: Hi Thunderbrand, thanks for letting me know that the image I uploaded is on IFD. Can I ask though, why is the image being deleted?
+Annotation from annotator: 16
+
+Example 9:
+Text: Thanks!  What type of documentation do you want u2014 an explanation of using the notes feature?
+Annotation from annotator: 16
+
+Example 10:
+Text: Thanks a ton for looking that up for me. For the purposes of a citation, what are the page numbers for the whole article?
+Annotation from annotator: 16
+
+Example 11:
+Text: Back on topic Jigglyfidders; I totally agree with Deconstructhis on this one. What will you do to address this issue?
+Annotation from annotator: 12
+
+Example 12:
+Text: I don't know, but that doesn't make any sense to me.  What do you think?
+Annotation from annotator: 12
+
+Example 13:
+Text: The links were removed but, what rule says it is best to "double space"? And what do you plan to rewrite exactly?
+Annotation from annotator: 10
+
+Example 14:
+Text: I have to say, I've reviewed the suggestions that "year in x" not be piped, and I vehemently disagree. As I note on the [[Wikipedia talk:Piped link|talk page]], "[s]ee [[Lindsay Lohan]] for a good example of why piping is a good thing (a simple [&#91;2003 in film]] in line would create clunky, hard-to-follow writing&mdash;better to use no links at all)." Comment?
+Annotation from annotator: 12
+
+Example 15:
+Text: I changed back to the complete cast list of Love is in the Air. Hopefully it's OK with you?
+Annotation from annotator: 16
+
+Example 16:
+Text: Was the location called Amen Corner before he bought the shop there ? If not, perhaps the location is named after the shop rather than vice versa ?
+Annotation from annotator: 12
+
+Example 17:
+Text: Either way, administrators shouldn't be relying on counting how many categories are there for deletion, even if I accept to create the category only one day in advance. Suppose the bot fails to create the category for a day; then, you'll see only five categories and do no deletions on that day?
+Annotation from annotator: 12
+
+Example 18:
+Text: I can certainly suggest to Isarig that 3RR is not an entitlement, and that dicussion is often the better approach. Would you like me to try to mediate the Karsh page?
+Annotation from annotator: 16
+
+Example 19:
+Text: My question is "Why?" I am doing all the citations correctly and this still appears often. Can anyone tell me what I'm doing wrong?
+Annotation from annotator: 20
+
+Example 20:
+Text: OTRS. At this point why not try?
+Annotation from annotator: 12
+
+Example 21:
+Text: A wikipedia project that serves as a place where users can get signatures, userboxes.... stuff like that, so they don't have to make it themselves or ask a specific user to do it. What do you think of that idea?
+Annotation from annotator: 12
+
+Example 22:
+Text: True, tho in reality I should have just blocked the sock tpar from the beginning.  Don't we usually do that to force them to request unblocking on the main account?
+Annotation from annotator: 12
+
+Example 23:
+Text: Thank you! Was I the only one who found Lima's tone to be, to say the least, unpleasant?
+Annotation from annotator: 16
+
+Example 24:
+Text: So basically, I've come across the edit conflict warning, and I simply copy my text, and paste it to the latest version of the article. I think you are saying that people insert 'edit conflict' to show that if any continuity is broken, it is because the comment was intended for a previous version of the article?
+Annotation from annotator: 12
+
+Example 25:
+Text: Again, what would be the point of redirection? Who on earth is going to fall on the redirect first?
+Annotation from annotator: 12
+
+Example 26:
+Text: Looking at Kotorkid's contributions on <url>, three hours seems too short for a block.  Considering that their three and only edits were all vandalism, would you support an indef-block for vandalism-only account for them?
+Annotation from annotator: 12
+
+Example 27:
+Text: It needs to be redirected anyone can do that. Is there any information that is in the article that is not in <url>?
+Annotation from annotator: 12
+
+Example 28:
+Text: No worries. So back to my question: what software makes them rock like that?
+Annotation from annotator: 16
+
+Example 29:
+Text: Sounds good. Could you drop Fritzpoll a note?
+Annotation from annotator: 12
+
+Example 30:
+Text: Yes, this is the English Wikipedia so we use the English version of the infobox. And can there once be a time when you don't find your way to my talk a complain?
+Annotation from annotator: 8
+
+Target Example:
+Text: I was about to participate in the Afd on Wooster Greeks.  You've reverted yourself and re-closed it?
+Annotation from annotator:

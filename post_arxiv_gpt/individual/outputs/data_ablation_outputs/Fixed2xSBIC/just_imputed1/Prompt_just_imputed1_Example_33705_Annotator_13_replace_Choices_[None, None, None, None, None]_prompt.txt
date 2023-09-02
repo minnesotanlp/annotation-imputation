@@ -1,0 +1,134 @@
+Example 1:
+Text: In Examples The Victims in Divorce Were A Father/Husband [x-post from /AskReddit that blew Up To /All]
+Annotation from annotator: 0
+
+Example 2:
+Text: Daily reminder that if you are over 20 yo and virgin its over
+You just seem like an unwanted weirdo especially if you are ldaring all day with little to none contacts from the outside
+Annotation from annotator: 0
+
+Example 3:
+Text: I hate bitches that fish for compliments
+Annotation from annotator: 2
+
+Example 4:
+Text: Just a thought
+Females glorify the idea of an ugly woman being loved by Chad  for who she is, but are disgusted and sometimes even angry at the idea of an ugly man being loved by a beautiful woman for the same reason.
+Annotation from annotator: 2
+
+Example 5:
+Text: What's black and taps on glass? A baby in a microwave
+Annotation from annotator: 2
+
+Example 6:
+Text: A dear friend of mine just got diagnosed with multiple sclerosis and asked for jokes, the darker the better. What are your funniest jokes about ms? (X-post from askreddit)
+Annotation from annotator: 0
+
+Example 7:
+Text: i'm actually sat here howling at gogglebox and i think this is how i'm gonna live the rest of my life
+Annotation from annotator: 0
+
+Example 8:
+Text: Rate Girl who Wanted a Long Term Relationship with Me at 17 but I Rejected due to Low Self Esteem
+Annotation from annotator: 0
+
+Example 9:
+Text: How long does it take a Jew to make a party with his ancestors? How long does it usually take for dust to start covering your house?
+Annotation from annotator: 2
+
+Example 10:
+Text: F*ck off Arsene, get out and @Arsenal @PUMA@GatoradeUK @CitroenUK @CooperTire @Europcar @IndesitUK@Vitality_UK #NoNewContract #WengerOut
+Annotation from annotator: 2
+
+Example 11:
+Text: "hahaha sex and relationships don't matter that much, you can be happy without them"
+\&gt;gets depressed for months after finding his girl cheating on him with Chad
+
+\&gt;gets sad that his girl broke up with him 
+
+\&gt;has long term depression because he's single
+
+\&gt;enjoys sex but won't admit it in an attempt to pretend he's helping
+Annotation from annotator: 2
+
+Example 12:
+Text: Comprehensive list of everything females have to offer
+* Vagina
+Annotation from annotator: 2
+
+Example 13:
+Text: i am the most depressed person on this sub
+fuck you if you don't agree with me
+Annotation from annotator: 2
+
+Example 14:
+Text: I hate configuring retention policies and flush intervals in statsd/graphite. Ughhhh.
+Annotation from annotator: 0
+
+Example 15:
+Text: This gives me hope that Reddit is finally waking up to female supremacy
+Annotation from annotator: 0
+
+Example 16:
+Text: #InspireATweepIn3Words Fuck how many followers&#128099; the next MF got, how many followers will follow you in reality
+Annotation from annotator: 0
+
+Example 17:
+Text: "Canadian immigration: ""you're not in trouble. you're welcome to return to Canada anytime. but we're gonna issue a warrant for you at 6am."""
+Annotation from annotator: 0
+
+Example 18:
+Text: I believe that every manufacturer uses the same thread for their dies and their die press .
+Annotation from annotator: 0
+
+Example 19:
+Text: Why can women only turn left? They have no rights.
+Annotation from annotator: 2
+
+Example 20:
+Text: gamergate just called @j4cob a "copy boy or personal assistant" on 8chan.
+Annotation from annotator: 0
+
+Example 21:
+Text: Big Halloween party comidg up. It's supposed to be 'Titanic' themed. So I figured i'd dress up as an iceberg and :rash the party!
+Annotation from annotator: 0
+
+Example 22:
+Text: "@LoyalAcumen &lt; basically everything. ""Yeah, well, it was him. The idiot sacrificed himself for a bunch of idiots who didn't even care and &gt;"
+Annotation from annotator: 0
+
+Example 23:
+Text: In australia, people hate to give jobs to local men without that much experience
+.
+Annotation from annotator: 0
+
+Example 24:
+Text: for all of you > > > > > serbian chetniks with german soldiers during ww2 so stop telling lies that all serbians chetniks was against nazis german soldiers
+Annotation from annotator: 0
+
+Example 25:
+Text: How do you kill 30 mosquitos at once? Hit an Ethiopian with a shovel
+Annotation from annotator: 2
+
+Example 26:
+Text: Dont fucking park in a handicapped spot when you're not handicapped. Disrespectful.
+Annotation from annotator: 1
+
+Example 27:
+Text: Q. What does bungee jumping and fucking my sister have in common? A. They both cost a hundred bucks and if the rubber breaks, I'm screwed.
+Annotation from annotator: 2
+
+Example 28:
+Text: GQ seem to have deleted their dishonest article and and absolute trouncing it got in the comments.
+Annotation from annotator: 0
+
+Example 29:
+Text: I had a blunt waiting for me for when I got home &amp; I get here to find out my mom fucking smoked it &#128544;
+Annotation from annotator: 0
+
+Example 30:
+Text: Why did hitler kill himself? he saw the gas bill.
+Annotation from annotator: 2
+
+Text: All the bitches in Shameless are straight bugoutsss
+Annotation from annotator:

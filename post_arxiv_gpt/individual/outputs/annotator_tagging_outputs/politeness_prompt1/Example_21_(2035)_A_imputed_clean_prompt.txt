@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: I haven't uploaded any more to Wiki because they tend to be more detailed and rather more abstruse. Have you had a look at Barry Burnham's book from Oxbow of 2004?
+Annotation from annotator: 13.0
+
+Example 2:
+Text: I noticed you put "NB" and then the credit for the original picture that I cropped. What does "NB" stand for?
+Annotation from annotator: 13.0
+
+Example 3:
+Text: Need help with EF 175 via email. Mind <url> so we can discuss?
+Annotation from annotator: 14.0
+
+Example 4:
+Text: The template I want is the one that goes at the bottom of the article and produces a message that goes something like 'This article is a copy of the (X) article in the German wikipedia, version 21 December 2009 10:04.' What is that template?
+Annotation from annotator: 11.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: I haven't uploaded any more to Wiki because they tend to be more detailed and rather more abstruse. Have you had a look at Barry Burnham's book from Oxbow of 2004?
+Annotation from annotator: 13.0
+
+Example 2:
+Text: I noticed you put "NB" and then the credit for the original picture that I cropped. What does "NB" stand for?
+Annotation from annotator: 14.0
+
+Example 3:
+Text: Need help with EF 175 via email. Mind <url> so we can discuss?
+Annotation from annotator: 14.0
+
+Example 4:
+Text: The template I want is the one that goes at the bottom of the article and produces a message that goes something like 'This article is a copy of the (X) article in the German wikipedia, version 21 December 2009 10:04.' What is that template?
+Annotation from annotator: 11.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: I haven't uploaded any more to Wiki because they tend to be more detailed and rather more abstruse. Have you had a look at Barry Burnham's book from Oxbow of 2004?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: I noticed you put "NB" and then the credit for the original picture that I cropped. What does "NB" stand for?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: Need help with EF 175 via email. Mind <url> so we can discuss?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: The template I want is the one that goes at the bottom of the article and produces a message that goes something like 'This article is a copy of the (X) article in the German wikipedia, version 21 December 2009 10:04.' What is that template?
+Annotation from annotator: 12.0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: Thanks; it just occurred to me to cite USGS maps, but this is maybe even better.  Was there once an airplane crash in the vicinity, or are there maps like this for all parts of the country?
+Annotation from annotator:

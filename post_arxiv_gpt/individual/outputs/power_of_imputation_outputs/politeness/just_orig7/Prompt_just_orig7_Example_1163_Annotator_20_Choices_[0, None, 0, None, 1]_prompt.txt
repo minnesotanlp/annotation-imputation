@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Correct Examples:
+Example 1:
+Text: You have given your point by point rebuttals to my reasons several times. How can you say I haven't provided my reasoning?
+Annotation from annotator: 13
+
+Example 2:
+Text: Hi, Matt. Aren't you supposed to be banned?
+Annotation from annotator: 7
+
+Example 3:
+Text: Excellent, thank you! Can you also delete the <url> from en and move hooks from the <url> to <url>?
+Annotation from annotator: 20
+
+Example 4:
+Text: Nijdam, you quite rightly say, 'Every event that has occurred is a condition'. But many events have occurred, a door has been opened, a goat has been revealed, the host has spoken several words, how do you decide which of these events to condition on?
+Annotation from annotator: 8
+
+Example 5:
+Text: The link you provided to speedy delection criteria only goes up to CSD12, and there is no CSD 13 listed there.  Could you clarify?
+Annotation from annotator: 9
+
+Example 6:
+Text: Is there any consensus for these changes? If I've missed the discussion, I do apologise, but could you post me a link to where it occurred?
+Annotation from annotator: 19
+
+Example 7:
+Text: I don't recall. Is there something there that could damage my computer?
+Annotation from annotator: 13
+
+Example 8:
+Text: Be that as it may, and not to quibble with your block, but I did some research and I've found that this puppeteer does in fact exist - the Washington Post described him as a "master", for instance, and Woodcarver Online calls him a "leading puppet artist". May I ask why you decided that the creation of the article was indicative of socklike behavior?
+Annotation from annotator: 16
+
+Example 9:
+Text: This was supposed to have been moved to <url> per the CFD. Why wasn't it moved?
+Annotation from annotator: 11
+
+Example 10:
+Text: One more thing, you have a fellow Budgie insisting a losing appearance in an FA Cup semi is an "Honour" for your club.  I guess it's because you haven't won much lately, but really, a losing semi-finalist isn't an honour in the real sense of the word, is it?
+Annotation from annotator: 7
+
+Example 11:
+Text: It's larger now than the sub-stub previously deleted.  Can sources be added to verify the achievements?
+Annotation from annotator: 17
+
+Example 12:
+Text: I made the revert as an editor, not an Administrator - I haven't used my Admin tools and I have said I would not use them as I'm involved. Where did I say I hadn't read any of the material?
+Annotation from annotator: 14
+
+Target Example:
+Text: I agreed from my very first post on the first subject that it shouldn't be included yet you and the other user continued to misrepresent my position. Would you disagree with that?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

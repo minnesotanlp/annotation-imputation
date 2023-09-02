@@ -1,0 +1,129 @@
+Estimated Examples:
+Example 1:
+Text: The fact that Trump is hated by the liberals, RINOs, Muslims, anti-americans, porn peddlers, the moral deviants in Hollywood and Washington, hip hop thugs, and other empty-headed wackjobs, makes me all the more certain that he's the right man for the job.
+Annotation from annotator: 2
+
+Example 2:
+Text: Why asshat @BWilliams still even has a job is beyond me. The definition of fake news and dumbassery!
+Annotation from annotator: 0
+
+Example 3:
+Text: Does he love me? I love my uncle
+But he doesn't stop..
+Annotation from annotator: 2
+
+Example 4:
+Text: Question
+So how come men are "broflakes" when we complain about females invading male only spaces, but its ok for females to shut us out of female only spaces.
+Annotation from annotator: 1
+
+Example 5:
+Text: Bush: 'it's hard to unify the country when the news media is so split up. Remember when the news media mattered a lot more'
+Annotation from annotator: 0
+
+Example 6:
+Text: What do you call a black priest Holy shit.
+Annotation from annotator: 2
+
+Example 7:
+Text: So since the NFL is engaging in partisan politics.... isn't it time to yank their tax exempt status.
+Annotation from annotator: 1
+
+Example 8:
+Text: "Searching" the incredible story of 1 white man's quest to find the ingredients necessary to make Caribbean Jerked Chicken in redneck land
+Annotation from annotator: 1
+
+Example 9:
+Text: How come you act so gay but you're like the straightest guy ever?
+Annotation from annotator: 2
+
+Example 10:
+Text: What do you call a retarded kid with a stomach ache? Leafy Greens
+Annotation from annotator: 2
+
+Example 11:
+Text: Go to my SF thread here for a link to a PDF copy of the book at ...
+Annotation from annotator: 0
+
+Example 12:
+Text: Food and water will obviously be very important , and the means to defend it What a defense force ... they are all haunted ... say hi to Casper in Upington , what a good soul
+Annotation from annotator: 1
+
+Example 13:
+Text: Why do you never see black Asians? Because they need open eyes to watch out for the cops.
+Annotation from annotator: 2
+
+Example 14:
+Text: I am going to name my son retarded so when anyone asks me " Are you fucking retarded?" I will say , yes.
+Annotation from annotator: 2
+
+Example 15:
+Text: Catholics do NOT believe;
+That people should stop funding a corrupt organization that hoards billions of dollars in wealth while taking rapists when they are detected & sending them to prey on unsuspecting boys in new locations.
+Annotation from annotator: 2
+
+Example 16:
+Text: My obsession with my appearance magnifies and multiplies with each passing hour.
+Annotation from annotator: 0
+
+Example 17:
+Text: > The only good argument is personal bodily autonomy. If that's how you feel...what do you want me to say since that's the only good argument? =/
+Annotation from annotator: 0
+
+Example 18:
+Text: A horse came into a bar... No wait.. it was a man!
+
+A horse came into a man..
+Annotation from annotator: 2
+
+Example 19:
+Text: RT @black_taco_: Wtf is boy pussy ? Lmao you atl nigga sick
+Annotation from annotator: 2
+
+Example 20:
+Text: Trump is a syphilis brain addled idiot Jackson dueled for his wife's honor Trump has no respect for his wife or any woman but his daughter
+Annotation from annotator: 1
+
+Example 21:
+Text: Jayda Fransen arrested in London, taken to Northern Ireland over speech given in August. 
+Annotation from annotator: 0
+
+Example 22:
+Text: Most of them dont even work , but I have no doubt that some of them will be pushed into high positions in society .
+Annotation from annotator: 1
+
+Example 23:
+Text: RT @YoShortyMa: I'll kill this bitch no hesitation http://t.co/UxePa9LVi5
+Annotation from annotator: 2
+
+Example 24:
+Text: A Jew runs into a wall with a boner. What breaks first? His nose.
+Annotation from annotator: 2
+
+Example 25:
+Text: What's more useless than a dead guy working as a postman? The nsfw tag on every single joke
+Annotation from annotator: 1
+
+Example 26:
+Text: McNabb, Romo, Garcia, Vick, it doesn't matter, Wentz. But Carson can move up with time. https://t.co/90Kl8vFy8c
+Annotation from annotator: 0
+
+Example 27:
+Text: cadilac bish get your nasty ass off my screen and take annie with u
+Annotation from annotator: 2
+
+Example 28:
+Text: Yesterday incels gained 721 subscribers thanks to the Atomic Blackpill
+Annotation from annotator: 0
+
+Example 29:
+Text: Lor Scoota would have killed that Kodak black - tunnel vision, on god I know he would have bodied it, I can hear his voice in my head&#128553;&#129318;&#127997;‍♀️
+Annotation from annotator: 1
+
+Example 30:
+Text: sure I will take note but I will continue to point out how you refuse to disclose any info that may give away your position on topics relating to WN .
+Annotation from annotator: 0
+
+Target Example:
+Text: A thought for the day: “Those who hate rain hate life.” — Dejan Stojanovic
+Annotation from annotator:

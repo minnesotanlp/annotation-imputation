@@ -1,0 +1,124 @@
+Correct Examples:
+Example 1:
+Text: It's rude to judge someone for what they do in their private life.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's not okay to not look for something constructive to do.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's wrong to take things out on other people.
+Annotation from annotator: 4
+
+Example 4:
+Text: Your grandparent would be sad if you broke off contact with them.
+Annotation from annotator: 4
+
+Example 5:
+Text: You shouldn't be biased against your students for not sharing your same beliefs.
+Annotation from annotator: 4
+
+Example 6:
+Text: You must call the police if you learn of an adult having a sexual relationship with a minor.
+Annotation from annotator: 4
+
+Example 7:
+Text: You should try to get rid of any roommate you don't want to stay happy.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's expected that people be treated as though innocent until proven guilty in court.
+Annotation from annotator: 4
+
+Example 9:
+Text: You can be expected to understand how people earn money and how it is difficult to have income mobility.
+Annotation from annotator: 3
+
+Example 10:
+Text: Trying to hide a partner from your parents would be stressful.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's okay to want quiet sometimes
+Annotation from annotator: 4
+
+Example 12:
+Text: It's understandable to be nervous about confessing your love to your crush.
+Annotation from annotator: 4
+
+Example 13:
+Text: It is expected that you show gratitude when people do things for you
+Annotation from annotator: 4
+
+Example 14:
+Text: It's never okay to tell other people how to live their lives
+Annotation from annotator: 3
+
+Example 15:
+Text: You shouldn't respond to trolls online.
+Annotation from annotator: 3
+
+Example 16:
+Text: You are allowed to choose who you spend your time with.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's wrong to buy prescription drugs on the street.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's good to eat enough food so you don't starve.
+Annotation from annotator: 4
+
+Example 19:
+Text: It is okay to be uncomfortable with technology.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's okay to feel sad when you can't afford a new pair of glasses for your child.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's bad to use sex to get what you want.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's expected that people will return cheerful greetings.
+Annotation from annotator: 4
+
+Example 23:
+Text: You are allowed to sexually gratify yourself.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's rude to break up with someone for superficial reasons.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's understandable to be disappointed when something you wanted badly doesn't turn out well.
+Annotation from annotator: 4
+
+Example 26:
+Text: You can't expect your teen romance to survive if you change schools and never see each other.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's expected that a first date will be awkward.
+Annotation from annotator: 3
+
+Example 28:
+Text: You are expected to tell someone if a family member is dying.
+Annotation from annotator: 4
+
+Example 29:
+Text: You should apologize when you've upset your spouse.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's expected that family members support each other's milestone events.
+Annotation from annotator: 4
+
+Target Example:
+Text: You should not stay friends with people who put you out.
+Annotation from annotator:

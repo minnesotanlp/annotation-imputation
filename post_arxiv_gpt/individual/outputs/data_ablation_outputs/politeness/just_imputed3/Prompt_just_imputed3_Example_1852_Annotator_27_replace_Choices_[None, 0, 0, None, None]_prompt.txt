@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: Hi, I reverted vandalism on a couple of your subpages that you transclude in your main userpage. Do you want me to semi-protect them (your subpages) so that it is more difficult for vandals to subtly vandalize you?
+Annotation from annotator: 12
+
+Example 2:
+Text: <url> as having been deleted via a deletion discussion, however I can't find any such Afd. Do you know of one?
+Annotation from annotator: 12
+
+Example 3:
+Text: Hey, when do we add games for the EHF Champion League and the Basketball EuroLeague into the portal? And NFL every week?
+Annotation from annotator: 12
+
+Example 4:
+Text: Good find. Do you have a cite for the second para?
+Annotation from annotator: 16
+
+Example 5:
+Text: I noticed that the bot is now using the duplicate template instead of the db-redundantimage template.  Is there a reason for the switch?
+Annotation from annotator: 11
+
+Example 6:
+Text: I've been running into your super stub articles while organizing a category. Are these all FOIA requests?
+Annotation from annotator: 12
+
+Example 7:
+Text: I read the article and can see where it already addresses some of his reliabilty issues. I guess that as long as it was clear that the quotes were from his autobiography and if any other info on the lack of collaboration (from the intro or foreword of the new edition of his autobiography) were included, I think it would be OK. Is there a lot of material to add that is only in his autobiography?
+Annotation from annotator: 12
+
+Example 8:
+Text: Thats good. Do you have any enemies on here as well?
+Annotation from annotator: 12
+
+Example 9:
+Text: The discussion page at <url> does not note that semi-protection has been removed. Would you be willing to note your action there?
+Annotation from annotator: 12
+
+Example 10:
+Text: Is as usual being overrun with pointless blather. Would you like to set up a subpage to discuss sources?
+Annotation from annotator: 8
+
+Example 11:
+Text: Hi there, it looks like the moving editor has added a bunch of references to the talk page supporting the fact Toto is no longer formally referred to as Moorland Totilas.  Do you think if we added one or more of the refs he's added on the talk page to the article we could move it back?
+Annotation from annotator: 16
+
+Example 12:
+Text: <url> shows that Geo Swan has become active and <url> indicates that the problems mentioned at the RfC may be continuing. Would you close the RfC with the drafted summary?
+Annotation from annotator: 12
+
+Example 13:
+Text: I'm sorry, but I don't see the value in having different criteria for two versions of the same list, one sorted by name and one sorted by nationality. Every other list and article on space travel uses the altitude definition, why would the sub-list sorted by nationality be different?
+Annotation from annotator: 8
+
+Example 14:
+Text: He's back <url>, <url> as <url>.  Also, in the future would you rather me just post these to <url>, or do you just want to continue handeling him?
+Annotation from annotator: 12
+
+Example 15:
+Text: Die Person, die Probleme macht, ist jetzt in Schwierigkeiten. Vielleicht seit langem?
+Annotation from annotator: 12
+
+Example 16:
+Text: Likewise there is some discussion at <url>, where <url> is categorising itself and its documenttation. Could you please fix that as well?
+Annotation from annotator: 16
+
+Example 17:
+Text: Hi David, you're good with images. Anything you can do to clean up <url> so it's useful on ITN?
+Annotation from annotator: 16
+
+Example 18:
+Text: Hi Skully, I've been keeping an eye on your edits over the past few weeks, and I think you should be a admin. Is it alright if I nominated you to be an admin?
+Annotation from annotator: 16
+
+Example 19:
+Text: Fatwa?  What is that?
+Annotation from annotator: 12
+
+Example 20:
+Text: <url>! Shall we greet him as he deserves?
+Annotation from annotator: 12
+
+Example 21:
+Text: Wanted to Email you about Wikimedia Converence Netherlands, but your email is not working. In any case, you could crash at our place?
+Annotation from annotator: 16
+
+Example 22:
+Text: If I were to find information on the typical age of instance for hyperparthyroism/OFC, what section would that fall under? Epidemology?
+Annotation from annotator: 12
+
+Example 23:
+Text: Not a whole lot of contrast with the letters now, if you've traversed the link.  Maybe a green pattern is just not the right base color, if we are trying to avoid confusing with WP officialstuff?
+Annotation from annotator: 12
+
+Example 24:
+Text: <url> Am I missing something?
+Annotation from annotator: 12
+
+Example 25:
+Text: Sorry, but i do not find "double torpedo tunnels" to be very good. Can you come up with something better?
+Annotation from annotator: 12
+
+Example 26:
+Text: Thanks for doing the tidy up on the SSC page.  One question, what was the reason for removing the item about the Simon PG ownership of the buildings, as well as dropping the link to the company's WP entry?
+Annotation from annotator: 16
+
+Example 27:
+Text: You recently reverted both these pages with the reason "not in the linked article". I'm just curious, what does "not in the linked article" actually mean?
+Annotation from annotator: 12
+
+Example 28:
+Text: Are you unable to pee with a half filled bladder???
+Annotation from annotator: 4
+
+Example 29:
+Text: There's a nice section on funerals <url> but I'm not given a look at the contributors' page (p. 673) to see who J.B. is. Any chance your access is different?
+Annotation from annotator: 12
+
+Example 30:
+Text: right but in this case, the certain artist goes by a different name now, so people would most likely type in ''"diddy"'' instead of the other old one. like if somebody changes their name or alias, and people wont know where theyre listed in?
+Annotation from annotator: 12
+
+Target Example:
+Text: Hello -- I see you changed a couple of entries relating to "PALATINE, the Subject Centre for Dance, Drama and Music of the UK Higher Education Academy".  I don't know (or even care) why that organisation chooses to refer to itself by capitalising the word, but (and I ask for information here) is there a policy that precludes us from respecting that choice?
+Annotation from annotator:

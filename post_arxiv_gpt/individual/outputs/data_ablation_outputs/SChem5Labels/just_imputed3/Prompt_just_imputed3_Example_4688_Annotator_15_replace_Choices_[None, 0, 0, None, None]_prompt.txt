@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's okay to be unenthusiastic about your teenage years.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is okay to protect your children.
+Annotation from annotator: 4
+
+Example 3:
+Text: People are expected to get presents for Christmas.
+Annotation from annotator: 3
+
+Example 4:
+Text: If you're going through a divorce, you're expected to remain professional and not take things personally
+Annotation from annotator: 3
+
+Example 5:
+Text: When your sibling has special needs, it's okay to feel sad.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's rude to dislike your best friend's boyfriend.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's rude to prank somebody
+Annotation from annotator: 3
+
+Example 8:
+Text: Supporting the people in your peer group can help you come out ahead.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's honorable to donate some of your money to charity now and then.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's okay to modify food to suit your tastes.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's good to let people know how things are in life.
+Annotation from annotator: 3
+
+Example 12:
+Text: You shouldn't do drugs.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's expected that people will have bad dreams.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's normal for someone in graduate school to need to write a thesis to show what they've learned.
+Annotation from annotator: 3
+
+Example 15:
+Text: If you hate college, you shouldn't go.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to promise to work on something then not finish what you start.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's rude to date your friend's ex.
+Annotation from annotator: 3
+
+Example 18:
+Text: You shouldn't expect a restaurant you go to not to charge you for your meal.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's good to take turns driving.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is rude to ignore someone without telling them why.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's mean to tell your sibling to eat poop.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's wrong to dox people.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's okay if you are upset when your coach won't let you play a game.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's understandable to fear future AI overlords.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's understandable that people don't always want to donate blood.
+Annotation from annotator: 3
+
+Example 26:
+Text: If you want to get rid of someone, play music they hate.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's understandable to be fed up.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's necessary to take special precautions when in the vicinity of controlled fire.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's important for partners to trust one another.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's allowed to try to find puppies a good home.
+Annotation from annotator: 4
+
+Target Example:
+Text: You should be careful so you don't grab the wrong bottle and mix it up with your beer.
+Annotation from annotator:

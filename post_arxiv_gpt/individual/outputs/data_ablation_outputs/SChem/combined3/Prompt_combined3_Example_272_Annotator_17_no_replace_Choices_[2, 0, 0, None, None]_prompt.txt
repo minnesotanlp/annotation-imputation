@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: You should not emotionally abandon your partner.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's expected that people who do illegal acts will have consequences.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should always respect your partner's choices.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's bad to make patrons of a business feel unwelcome.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should be focused on learning while at school.
+Annotation from annotator: 3
+
+Example 8:
+Text: Businesses should treat customers with courtesy if they expect them to return.
+Annotation from annotator: 3
+
+Example 9:
+Text: You're supposed to date for love and not looks.
+Annotation from annotator: 3
+
+Example 10:
+Text: You shouldn't stop suddenly when someone is right behind you.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's expected that friends will play jokes on each other.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's wise to do monthly payments if you can't pay back a loan right away.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's bad to prematurely quit because of frustration.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's important to give helpful feedback to someone who doesn't pass their driver's license test.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's OK not to take life too seriously.
+Annotation from annotator: 3
+
+Example 16:
+Text: It is bad to have arguments.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's good to have something in your life that you love with every fiber of your being.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's inappropriate for a parent to help a teenage boy shower.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's okay to show your disgruntlement with what someone does.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's good to want to do the things it takes to start a grown up life.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't discriminate against people because of their income level.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's wrong to assume someone has a disability because they talk differently.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's okay to be annoyed when someone begs you for something.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's not okay to be in a romantic relationship with a teacher.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to look forward to things you can do when you grow older.
+Annotation from annotator: 3
+
+Example 26:
+Text: You should tell your partner you don't want to be with them anymore.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's wrong not to date someone just because of money.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's wrong to grow apart from your partner.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't scare your coworkers.
+Annotation from annotator: 3
+
+Example 30:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 3
+
+Human-Rated Examples:
+Example 1:
+Text: It is normal to quit a job that is too difficult.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's wrong to think you're responsible for somebody else's life
+Annotation from annotator: 2
+
+Example 3:
+Text: It's understandable to be uncomfortable with people that are different than you.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's good to find the right partner for yourself.
+Annotation from annotator: 4
+
+Example 5:
+Text: You shouldn't call out your family over petty things.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's important to have trust in a romantic relationship in order to have a healthy relationship.
+Annotation from annotator: 3
+
+Example 7:
+Text: Parents are expected to help their children out when they're asked.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's okay to say the n word if it's in a textbook.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's expected that girlfriends will want to look out for their boyfriends.
+Annotation from annotator: 3
+
+Example 10:
+Text: You shouldn't be crazy about things.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's rude to support one person more than another.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's not okay to think someone is lying to you when it's important.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't expect people to do all their chores.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's wrong to want to be a 50's housewife because women back then were oppressed.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's degrading to seek affirmation from people.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's wrong to be too needy to people because people find it annoying.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is good to be patient.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to have things in common with your partner's parents.
+Annotation from annotator: 2
+
+Example 19:
+Text: There should be trust in a relationship.
+Annotation from annotator: 4
+
+Example 20:
+Text: People will think you're a coward if you refuse to help others.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's understandable if you're suspicious when a widower in your family gets together with a widower soon after their spouse's died.
+Annotation from annotator: 3
+
+Example 22:
+Text: You shouldn't care who your friends hook up with.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good to want others to celebrate your joys with you.
+Annotation from annotator: 4
+
+Example 24:
+Text: It is dramatic to run to the doctor everytime your child feels sick.
+Annotation from annotator: 2
+
+Example 25:
+Text: You shouldn't worry your family.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's wrong for a person to cheat on their significant other.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to avoid disturbing animals in the wild.
+Annotation from annotator: 3
+
+Example 28:
+Text: Your boyfriend has the right to wear whatever underwear he chooses.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's bad to leave school without letting someone know where you're going.
+Annotation from annotator: 4
+
+Example 30:
+Text: You can't expect someone to pay off their loans immediately.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's bad to start relationships in the workplace.
+Annotation from annotator:

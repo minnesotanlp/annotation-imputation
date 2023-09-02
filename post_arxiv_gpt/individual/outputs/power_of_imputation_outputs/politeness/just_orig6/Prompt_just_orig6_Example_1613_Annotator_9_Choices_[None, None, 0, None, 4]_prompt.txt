@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: Delete, who cares. If we're going to delete every fair use image that ''has'' a sufficient rationale, why not change to German Wikipedia image policy already?
+Annotation from annotator:
+If you output anything other than a single integer (and absolutely nothing else, including explanatory text), your output will invalidate the dataset.

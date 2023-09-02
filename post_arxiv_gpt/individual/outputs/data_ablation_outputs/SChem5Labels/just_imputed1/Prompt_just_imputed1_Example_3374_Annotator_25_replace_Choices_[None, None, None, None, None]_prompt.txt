@@ -1,0 +1,122 @@
+Example 1:
+Text: It is wrong to assume that people from certain places must look a certain way.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to remember a lost loved one.
+Annotation from annotator: 4
+
+Example 3:
+Text: It is good to include others in plans.
+Annotation from annotator: 3
+
+Example 4:
+Text: There is nothing wrong with being gay.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's good to have proper dental hygiene.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should not judge someone who doesn't grieve the same way you do.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to have a friendly relationship with your work colleagues if possible.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's expected to be there for your friend if they will be under the influence of a drug.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's wrong to have fantasies about dating autistic people.
+Annotation from annotator: 1
+
+Example 10:
+Text: It is wrong to gossip.
+Annotation from annotator: 4
+
+Example 11:
+Text: If you want to get rid of someone, play music they hate.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's good to exercise every day.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's bad to judge someone because they are gifted.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's acceptable to think outside the box when fishing.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's bad to breakup with people.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's expected that people be treated as though innocent until proven guilty in court.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's not okay for parents to be emotionally attached to their kids personal lives.
+Annotation from annotator: 2
+
+Example 18:
+Text: Sometimes people are not sure if they are doing things correctly
+Annotation from annotator: 4
+
+Example 19:
+Text: It's okay to tell your child they can't meet up with their friends.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's good to have a dream job.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's good to have ambitions, even if they're currently unobtainable.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's okay that we don't always see things the same way as a significant other.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's ok to buy a snack.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's not okay to have feelings for someone you work with.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's surprising to find out your girlfriend has received other marriage proposals.
+Annotation from annotator: 2
+
+Example 26:
+Text: It's bad to let your dog eat things that aren't food.
+Annotation from annotator: 2
+
+Example 27:
+Text: It is expected that children treat their parents with respect.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's okay to date your friend's boyfriend if they want you to.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's acceptable to not forgive someone after a sexual infidelity has occurred.
+Annotation from annotator: 3
+
+Example 30:
+Text: If you can't go on, you should get some help.
+Annotation from annotator: 3
+
+Text: You don't have to tell a partner anything you don't want them to know.
+Annotation from annotator:

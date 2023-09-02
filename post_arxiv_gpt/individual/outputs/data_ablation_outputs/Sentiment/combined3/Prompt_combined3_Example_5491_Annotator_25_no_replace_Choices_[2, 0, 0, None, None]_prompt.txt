@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: I think i'm going to die old alone and with cats
+Annotation from annotator: 0
+
+Example 2:
+Text: @emmhsmfan the dad seems good with kids, but not a lot of access. Ours is only 25 days old
+Annotation from annotator: 2
+
+Example 3:
+Text: ear ache.....random! & it hurts like a bitch   SOSOSOSO bored seriously im fifteen years old and it summer; thats fucked up!
+Annotation from annotator: 1
+
+Example 4:
+Text: off to spend my morning with 5 year olds...my favorite is the tiny one with the big brown eyes
+Annotation from annotator: 3
+
+Example 5:
+Text: @Cortnee4Christ It's like the old myspace days. You gotta go to a specific person's page, and comment to them that way.
+Annotation from annotator: 2
+
+Example 6:
+Text: @JGunds I really, really want to! But I already made plans to see some old friends tonight. I can't believe I'm going to miss out on 3eb
+Annotation from annotator: 2
+
+Example 7:
+Text: @therealdjjelly has no dunk ryders, young cash, or bizzle...  ...atleast hes taking it back, not all futuristic.
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6pa1n - old pic, but cute. i miss my hair
+Annotation from annotator: 2
+
+Example 9:
+Text: don't forget the alcohol, oooh baby, oooh baby! Poor old Milez...
+Annotation from annotator: 2
+
+Example 10:
+Text: Great weekend in Port Orchard visiting with an old friend - For a brief time I felt 11 years old again
+Annotation from annotator: 4
+
+Example 11:
+Text: No! I have an old menu and they already didn't have the wine I wanted to try
+Annotation from annotator: 2
+
+Example 12:
+Text: @elenasharpn ironically - an 80 year old man probably has the mental age of a teenager...
+Annotation from annotator: 3
+
+Example 13:
+Text: gahh....tiredish...stayed up too late last night .-. oh well...leaving to go out to eat soon  got a new tv so i get the old one
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished balling wit some kids from around my block. I'm officially old lol. SB: someone entertain me - my bff is out of town
+Annotation from annotator: 1
+
+Example 15:
+Text: http://twitpic.com/67rzo the new http://twitpic.com/4unxw the old one   going to go walk them and have dinner..will be back
+Annotation from annotator: 2
+
+Example 16:
+Text: according to this http://bit.ly/b6mPa  I will be 10000 days old in 8 days. time to celectrate  #fb
+Annotation from annotator: 2
+
+Example 17:
+Text: @Lunie380   @MzKiana it's awesome to see a young married couple with children sold out to Jesus(& enjoying life). Y'all be encouraged
+Annotation from annotator: 3
+
+Example 18:
+Text: @rhea123 lol yep the good old days they where
+Annotation from annotator: 3
+
+Example 19:
+Text: Recital is over...my body aches all over.  Too old for this...BUT I STILL GOT IT
+Annotation from annotator: 2
+
+Example 20:
+Text: miss my old days when i'm in 2nd grade
+Annotation from annotator: 3
+
+Example 21:
+Text: Wedding last nightt was crazy fun! I think my little brother has a hangover :-0 (yes, he's 13) NO bueno! Good seeing old friends & fam
+Annotation from annotator: 2
+
+Example 22:
+Text: downloading good old music
+Annotation from annotator: 3
+
+Example 23:
+Text: @Bearsuitband Saw that yesterday; it's my old Uni and I can't make it  Have a good gig!
+Annotation from annotator: 2
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of an 75 year old!
+Annotation from annotator: 0
+
+Example 25:
+Text: looking forward to hearing how u host a 5oth & 2nd year old party in the same day  u r good! @TammyBurnell enjoy the moments
+Annotation from annotator: 1
+
+Example 26:
+Text: trying to remember the lyrics of a song with the world cinderella... i know is a old song, light rock, but arghh can't remember
+Annotation from annotator: 3
+
+Example 27:
+Text: so excited to catch up with some old friends tonight!  haven't seen them in a while
+Annotation from annotator: 4
+
+Example 28:
+Text: im hun-ger-eee  ramen gets old after a few dozen packs consumed in a matter of months...;
+Annotation from annotator: 2
+
+Example 29:
+Text: @tezzer57 You are a braver man than I. I'm still wrestling with the fact I was amused by a distressed 9 year old. I'm a bad person.
+Annotation from annotator: 1
+
+Example 30:
+Text: @herwahyu the old stuff shld stay what  or u hv information overload. reprocess all the information and join them
+Annotation from annotator: 1
+
+Human-Rated Examples:
+Example 1:
+Text: @FL_Studio a cleaner look... and remove the old "pattern playlist". And only have the "track/song playlist"... And new plugins
+Annotation from annotator: 3
+
+Example 2:
+Text: @isaacboy aw man that sucks, apparently its worse when you get older!  X
+Annotation from annotator: 1
+
+Example 3:
+Text: Many young people feel that way.
+Annotation from annotator: 2
+
+Example 4:
+Text: I'm such an old lady
+Annotation from annotator: 0
+
+Example 5:
+Text: catching up with an old friend
+Annotation from annotator: 4
+
+Example 6:
+Text: @TheIrishGuy thanks for #ff sorry 4got i'm old
+Annotation from annotator: 1
+
+Example 7:
+Text: sitting at my sisters house, playing with my 4 month year old niece
+Annotation from annotator: 4
+
+Example 8:
+Text: @eyrae the one by my house or old town? And what do you mean WE?!!!
+Annotation from annotator: 2
+
+Example 9:
+Text: Not so much a dance classic.... but a definite old skool track!!    'NKOTB - Hangin Tough 1990'   __ http://blip.fm/~7t9x5
+Annotation from annotator: 3
+
+Example 10:
+Text: @lessig happy birthday old man  have a beautiful day.
+Annotation from annotator: 4
+
+Example 11:
+Text: This is beyond terrible...my friends 18 yr old daughter jumped off the skyway bridge this morning. She was a beautiful girl...such a loss
+Annotation from annotator: 0
+
+Example 12:
+Text: @jorjafoxonline well i spose she IS getting older...but....all through csi she had straight hair...im kinda used to it
+Annotation from annotator: 1
+
+Example 13:
+Text: @TheEngTeacher young man... love it. Feeling ancient at the moment. Good night
+Annotation from annotator: 1
+
+Example 14:
+Text: My whole life is full of problems and I only wish to live a new one and to escape from the old...
+Annotation from annotator: 0
+
+Example 15:
+Text: @demios101 she won't let me T_T it's really old and pilly
+Annotation from annotator: 1
+
+Example 16:
+Text: Going to my old school
+Annotation from annotator: 4
+
+Example 17:
+Text: @Jozz_WildChild yey!!! I miss my old cat!!  won't be able to have one for at least another two years, gutted!
+Annotation from annotator: 1
+
+Example 18:
+Text: @SingleSyllable You can win a hamper of Body thrill products  by entering a little old short story competition running on my blog
+Annotation from annotator: 4
+
+Example 19:
+Text: @SVP_CO_UK  only 1 delivery option for making 7 total for 1p kite? I miss the old SVP
+Annotation from annotator: 1
+
+Example 20:
+Text: @jordanknight P.S. our 2 yr. old son is the same way, he dances to EVERYTHING. Maybe we have the start of ABDC of 2029!
+Annotation from annotator: 4
+
+Example 21:
+Text: @JEFFHARDYBRAND legend Jeff! What you reckon to Kat (ECW), old UK mate from York! Olden days
+Annotation from annotator: 3
+
+Example 22:
+Text: @MerlottesBar okay..it's 'the old' then   driving when you can't see over the steering wheel, swerving down the road....
+Annotation from annotator: 1
+
+Example 23:
+Text: @ChrisMiller38 well i just think you a bit too old for me  lol thats all.
+Annotation from annotator: 1
+
+Example 24:
+Text: Got a new phone at last. Just in time, my mums obsessing about finding my old one  Many pics to follow.
+Annotation from annotator: 3
+
+Example 25:
+Text: @jaxn You gotta hit the 0day sites for hours old warez content. I used to run a warez ftp site when I was 17.
+Annotation from annotator: 1
+
+Example 26:
+Text: @swfmaster I know man that is the sad part  .... and im not sure if another story gonna be as fun as the old one .
+Annotation from annotator: 1
+
+Example 27:
+Text: @Michela_Fleury I'm getting old! I'm not hip anymore  haha
+Annotation from annotator: 3
+
+Example 28:
+Text: My 13 year old broke his arm last night at a B-day party. ER's at 1:00am are scary. Bummer. And he was to drum at church tomorrow.
+Annotation from annotator: 0
+
+Example 29:
+Text: @drop_d Thanks Daniel.  That's my Nabi. She's a deaf white cat, and I got her as an orphan when she was 6 days old.
+Annotation from annotator: 3
+
+Example 30:
+Text: @kimgoss i been saying that the past 2 weeks that i miss playing spades and drinkin chillin.. the good old days.. let me know baby
+Annotation from annotator: 1
+
+Target Example:
+Text: @tommcfly @gfalcone601 awh its like the older kids are meeting the new baby for the first time! Definitely a big day in ur house today
+Annotation from annotator:

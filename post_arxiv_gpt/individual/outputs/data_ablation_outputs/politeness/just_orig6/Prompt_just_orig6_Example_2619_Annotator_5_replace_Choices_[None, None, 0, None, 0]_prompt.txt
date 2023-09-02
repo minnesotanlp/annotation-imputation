@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: Thanks a lot for clearing that up. Do you also happen to know about the age of consent in Thailand, and why he could be charge with child sex offenses even though she was 17 years old?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

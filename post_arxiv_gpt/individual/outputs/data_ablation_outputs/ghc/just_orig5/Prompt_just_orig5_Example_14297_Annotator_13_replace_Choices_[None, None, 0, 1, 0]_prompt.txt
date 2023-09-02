@@ -1,0 +1,7 @@
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Target Example:
+Text: Freedom of expression is yours to wield at will, just my opinion doesn't mean I'm right or your wrong.  Peace God's speed 
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

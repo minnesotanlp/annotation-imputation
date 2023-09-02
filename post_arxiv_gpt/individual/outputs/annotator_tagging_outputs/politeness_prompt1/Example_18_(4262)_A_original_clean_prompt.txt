@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Hardly. Does the <url> exercise executive control over Northern Ireland?
+Annotation from annotator: 11.0
+
+Example 2:
+Text: That's the British English spelling. American English wins out on a lot of stuff on Wikipedia, so why not give a cookie to the Brits now and then?
+Annotation from annotator: 11.0
+
+Example 3:
+Text: I will readily grant that. But where was the urgent reason not to follow it in any of the above cases?
+Annotation from annotator: 20.0
+
+Example 4:
+Text: OK. In the future, can you kindly post a note on your userpage, talkpage, or somewhere else so I know that the bot isn't broken?
+Annotation from annotator: 16.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Yes, or you could change what it looks like. What do you want to do?
+Annotation from annotator: 17.0
+
+Example 2:
+Text: I've made a start to putting the list in chart form at <url>.  Can you think of any other columns to add?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: Oosterman is hardly the world's foremost expert on Hyper-Calvinism.  Can you cite any scholars or experts who support your thesis?
+Annotation from annotator: 4.0
+
+Example 4:
+Text: Okay, I read through it (skimmed through some parts as they are largely repetitive). I think maybe a good place to bring this up would be in <url>?
+Annotation from annotator: 17.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Thanks for your note, Tom. As a matter of interest, how could you know who someone is based on the IP address?
+Annotation from annotator: 15.0
+
+Example 2:
+Text: I restored 3 non-piped blue links.  How does that look?
+Annotation from annotator: 20.0
+
+Example 3:
+Text: My bot finally got past the connection errors I've been getting and spit out the largest 4,000 articles in sorted order for this. Would you like to take a short break while I replace the first page with them and manually mark all of the already-checked ones as done?
+Annotation from annotator: 18.0
+
+Example 4:
+Text: Hi I noticed you speedied and article but not it's talk page? What's the use of leaving the talk page, discussion or no, if you're going to speedy the article?
+Annotation from annotator: 4.0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: I've come to state that I find it mildly amusing that you don't consider a press release for a journalism award from Columbia University to be a "substantial story from a citable source".  Isn't Columbia among the world's most prestigious journalism schools?
+Annotation from annotator:

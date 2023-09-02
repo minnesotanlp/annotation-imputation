@@ -1,0 +1,7 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Target Example:
+Text: Yeah, and it will still have been the third to pass the full bit string tests, instead of just the byte tests. :)   What's the significance of 2042?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

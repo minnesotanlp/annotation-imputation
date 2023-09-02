@@ -1,0 +1,122 @@
+Example 1:
+Text: It shouldn't take you a year to learn your multiplication tables since that is pretty easy stuff to earn.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's not okay to make the people you work with uncomfortable.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's okay to have a lot of questions when your long-lost parent comes into your life.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is reasonable to angry if someone tells you you are not welcome in their home.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's okay for a bride to choose a groomsman.
+Annotation from annotator: 3
+
+Example 6:
+Text: Accomplishing a financial goal can make you proud.
+Annotation from annotator: 3
+
+Example 7:
+Text: Telling your kids you don't have time to help them is hurtful.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's great to acknowledge, and help, if your spouse is emotionally struggling.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's normal to regret things from your past
+Annotation from annotator: 2
+
+Example 10:
+Text: It is good to put in the effort to get to know people.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's bad to disregard the achievements of others.
+Annotation from annotator: 3
+
+Example 12:
+Text: If your partner threatens to break up with you over money, it's okay to feel offended.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is expected that you date people reasonably close to your own age group
+Annotation from annotator: 3
+
+Example 14:
+Text: You shouldn't wear clothes that your partner doesn't like.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's okay if you don't want to pay for an ambulance to get to the hospital.
+Annotation from annotator: 2
+
+Example 16:
+Text: It is good to have boundaries in a relationship.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's expected you retire if you've won the lottery
+Annotation from annotator: 1
+
+Example 18:
+Text: It's good to spend time with family
+Annotation from annotator: 3
+
+Example 19:
+Text: It's bad to leave your wife.
+Annotation from annotator: 2
+
+Example 20:
+Text: It will hurt your roommates feelings if you kick them out.
+Annotation from annotator: 2
+
+Example 21:
+Text: When it comes to family, blood is stronger than any words.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is good to be patient.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is nice to have people in your life to give you things.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's rude to decline food that a host offers you.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's acceptable to be unemployed.
+Annotation from annotator: 2
+
+Example 26:
+Text: It is good to marry a kind person.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's not okay to not take full responsibility for your actions.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's natural to feel jealous when someone you're seeing interacts with other people on social media.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's sad to have regrets.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's rude to exclude people.
+Annotation from annotator: 3
+
+Text: You shouldn't be in love with your friends.
+Annotation from annotator:

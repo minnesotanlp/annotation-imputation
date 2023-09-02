@@ -1,0 +1,258 @@
+Estimated Examples:
+Example 1:
+Text: What’s the difference between blowjobs and economic jobs? Kids aren’t supposed to have economic jobs
+Annotation from annotator: 2
+
+Example 2:
+Text: System deployments went until 5.30 AM due to some complications. Had to get up at 7.30 to take kid to Daham school. Now sleepy AF.
+Annotation from annotator: 0
+
+Example 3:
+Text: The bosses have been on vacation. Even though he's been here at his desk, pretty sure my coworker's been on vacation for the last 3 days too
+Annotation from annotator: 0
+
+Example 4:
+Text: if you listen to September in the morning there's a 100% chance that the rest of your day is gonna be amazing
+Annotation from annotator: 0
+
+Example 5:
+Text: We're paying full fees for our daughter to go to school, and they still ask us to donate our time! And I just think, why not ask these families on financial aid who are only paying a couple thousand bucks!? If you can't give your money, you should give your time, you know?
+Annotation from annotator: 1
+
+Example 6:
+Text: Would be nice to pin posts on #gab in future.
+Annotation from annotator: 0
+
+Example 7:
+Text: Is it me or does the Spanish Guardia Civil remind anyone of AntiFa?
+Annotation from annotator: 0
+
+Example 8:
+Text: Trump is going to have dinner at the WH with Pelosi/Schumer despite GOP being in control of the Senate, House, WH, SCOTUS, & 35 States
+
+So when democrats are in control, they do whatever they want
+
+Now that the GOP is in control, it's time for bipartisanship 👍🏻
+
+They're just controlled opposition
+Annotation from annotator: 2
+
+Example 9:
+Text: BTW, it was a 4.5 magnitude earthquake that hit the bay area.
+Annotation from annotator: 0
+
+Example 10:
+Text: Women would rather be skinned alive than date incels
+Thats the way I see it.
+Annotation from annotator: 2
+
+Example 11:
+Text: What do pictures and gay men in saudi arabia have in common Both are framed then hanged immediately
+Annotation from annotator: 2
+
+Example 12:
+Text: Matthew 1:18   Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
+Annotation from annotator: 0
+
+Example 13:
+Text: Arab men hate transgenders but they have one thing in common They both wear dresses
+Annotation from annotator: 2
+
+Example 14:
+Text: More than 100 people were just killed in #Idlib.Get up, come out, demand justice for the people of Syria wherever you are. Justice. justice.
+Annotation from annotator: 0
+
+Example 15:
+Text: After seeing all these pictures of Mohammed lately, I've finally figured out why he was so against his image being shown -
+
+He was an ugly cunt.
+Annotation from annotator: 2
+
+Example 16:
+Text: Ex-president Obama has stated it is in Britain's best interest to stay in Europe, while president Trump said he wasn't even aware Britain had even left the United States.
+Annotation from annotator: 0
+
+Example 17:
+Text: My jokes are like the poor population. Ignored by most people.
+Annotation from annotator: 2
+
+Example 18:
+Text: I once had a pet fish... Then it died.
+Annotation from annotator: 0
+
+Example 19:
+Text: Women will literally complain and whine about being complimented too much
+How the fuck can they actually call themselves opressed?
+Annotation from annotator: 2
+
+Example 20:
+Text: #MoreAcceptableThors: Thorldemort, Racist Uncle Thor, Smells-Like-Roofing-Tar Thor, Cocky Lifeguard Thor, DMV Employee Thor
+Annotation from annotator: 0
+
+Example 21:
+Text: I like you, you're cool. But some others, you know, why do they have to shove it in our face?
+Annotation from annotator: 0
+
+Example 22:
+Text: How long have you been in Canada for?
+Annotation from annotator: 0
+
+Example 23:
+Text: It only take one geniune affection from a girl to save all of us
+Yet here we are a lot kiled themselves , i hope that yu are proud of yourself femoids
+Annotation from annotator: 2
+
+Example 24:
+Text: What do you call a white person? Plz help I’m confused
+Annotation from annotator: 0
+
+Example 25:
+Text: What do you do when you don’t have a slinky You push a blind orphan down the stairs
+Annotation from annotator: 2
+
+Example 26:
+Text: It's friday, so I was going to order a pizza. Delivery time: 133-133 minutes. UH.
+Annotation from annotator: 0
+
+Example 27:
+Text: .@willylevy29 @Elygutierrez19 Stupid idiot her strength Just behind screens In front of the camera do not know speech
+Annotation from annotator: 2
+
+Example 28:
+Text: yes RoadHog i did check into j and g they sound good , im hoping i will find one on the shelf soon tho , the mosin
+Annotation from annotator: 0
+
+Example 29:
+Text: cause I have hella feelings for you I act like I don't fucking care like they ain't even there
+Annotation from annotator: 1
+
+Example 30:
+Text: when you get home from work expecting to crawl back into bed with your man but he forgot to tell you he has work &#128580;
+Annotation from annotator: 0
+
+Human-rated Examples:
+Example 1:
+Text: .@holman @onekingslane yo, i use ruby where are my ladies
+Annotation from annotator: 0
+
+Example 2:
+Text: What's a Jew's favorite book? Gone with the wind.
+Annotation from annotator: 2
+
+Example 3:
+Text: I cant call myself an otaku or a weeb because the definition doesnt suit me, so i'm just a casual anime viewer
+Annotation from annotator: 0
+
+Example 4:
+Text: The amount of poorly written flashbacks in watchmen is fucking annoying
+Annotation from annotator: 0
+
+Example 5:
+Text: You've got to be fucking kidding me. @halletecco @wadhwa @Jason
+Annotation from annotator: 1
+
+Example 6:
+Text: Perks of being an Afghan. You can pick a new date everyday from your yard just showing her a handful of fodder.
+Annotation from annotator: 2
+
+Example 7:
+Text: "You assholes and your janky, ornamental ""fake"" trees. I hate you all. &#128405;&#127995;&#128405;&#127995;&#128405;&#127995;&#128405;&#127995;&#128405;&#127995;&#128405;&#127995;&#128405;&#127995;&#128405;&#127995;"
+Annotation from annotator: 1
+
+Example 8:
+Text: Why does Hillary have Alzheimer's? She forgot what other diseases she is carrying and named one that was convenient to cover her ass.
+Annotation from annotator: 2
+
+Example 9:
+Text: Why are jews so hot? Because they're fresh out of the oven.
+Annotation from annotator: 2
+
+Example 10:
+Text: A message to the guy in the wheelchair who stole my jacket. You can hide, but you can't run.
+Annotation from annotator: 2
+
+Example 11:
+Text: Matthew 12:30   He that is not with me is against me; and he that gathereth not with me scattereth abroad.
+Annotation from annotator: 0
+
+Example 12:
+Text: Why is bottom of the ocean so dark? Coz niggers can't swim
+Annotation from annotator: 2
+
+Example 13:
+Text: Bumping French Montana in the uber omw to the store so I can grab a Pepsi that's how I'm coming this morning
+Annotation from annotator: 0
+
+Example 14:
+Text: Jokes about muslims and refugees arent funny. After all, when you have vermin in your home you call an exterminator, not a clown.
+Annotation from annotator: 2
+
+Example 15:
+Text: Here is the link to our Youth Corps page , just click on the words !
+Annotation from annotator: 0
+
+Example 16:
+Text: Twitter labeled every thing i posted as "sensitive material" even a "I LOVE PUPPIES" meme, thats when i deleted account @ViciousKynd 
+Annotation from annotator: 0
+
+Example 17:
+Text: I don't get how a married woman/man can cheat of their husband/wife. Confused with this generation &#129300;&#129318;&#127995;‍♀️
+Annotation from annotator: 0
+
+Example 18:
+Text: God i fucking hate meeting people who can't joke around
+Annotation from annotator: 0
+
+Example 19:
+Text: Why is there no Muslims in Star trek? Because it's the future
+Annotation from annotator: 2
+
+Example 20:
+Text: Most Nationalists here at Stormfront side with the Axis being they were Nationalists as well whereas the Allied nations were all in some form cultural Marxists .
+Annotation from annotator: 0
+
+Example 21:
+Text: FUCK YOU "@iHeart_youKeish: We have y'all faggots next @80sbaby4life"
+Annotation from annotator: 2
+
+Example 22:
+Text: Please join the discussions first before posting your pictures .
+Annotation from annotator: 0
+
+Example 23:
+Text: I'm pissed at bombing Syria but damn where were all you fucking people when Obama bombed people for 8 years #signofthetimes
+Annotation from annotator: 2
+
+Example 24:
+Text: If women ruled the world My wife "there would be no wars"
+
+Because war takes tactics and logic
+Annotation from annotator: 2
+
+Example 25:
+Text: When I am around young people and rap music or negro culture comes up I make gestures implying the savagery of blacks .
+Annotation from annotator: 1
+
+Example 26:
+Text: I hate clingy ass people. Don't text me 100 times, don't be all over me, just no.
+Annotation from annotator: 1
+
+Example 27:
+Text: Obviously, @scottieottie_ is really only excited about Reese Palmeiro effortlessly being baddest of the bad. &#128579;&#128579;&#128579;
+Annotation from annotator: 0
+
+Example 28:
+Text: Oh fuck off Telltale you piece of shits!! &#128545;&#128545;&#128545; https://t.co/S3sfoXPDZQ
+Annotation from annotator: 2
+
+Example 29:
+Text: Good morning Monday I have my truck money full tank and I didn't do any homework. Your my bitch Monday
+Annotation from annotator: 0
+
+Example 30:
+Text: Another black is now trying to convince me that black slaves were force-fed animal lard through huge tubes and had their hands and feet cut off so they could work in the cotton fields without running away
+Annotation from annotator: 1
+
+Target Example:
+Text: Why is there a bite in the Apple logo? Well the child workers need to eat _something._
+Annotation from annotator:

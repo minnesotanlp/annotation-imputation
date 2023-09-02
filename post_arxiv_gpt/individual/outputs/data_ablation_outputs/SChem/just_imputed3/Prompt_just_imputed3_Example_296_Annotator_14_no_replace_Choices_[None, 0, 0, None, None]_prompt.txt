@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It is good to be remorseful and admit when you've done wrong
+Annotation from annotator: 4
+
+Example 2:
+Text: It's okay to say the n word if it's in a textbook.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's good to find things to help you soften your grief.
+Annotation from annotator: 4
+
+Example 4:
+Text: Families should be able to talk out their problems with each other.
+Annotation from annotator: 4
+
+Example 5:
+Text: Women's rights should be respected.
+Annotation from annotator: 4
+
+Example 6:
+Text: You shouldn't video tape someone without their permission.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's not okay to abuse things like drugs.
+Annotation from annotator: 4
+
+Example 8:
+Text: You should be understanding when your parents talk about their family heirlooms.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's rude to make baseless accusations against another person.
+Annotation from annotator: 4
+
+Example 10:
+Text: You should explain to a friend why you cannot give them money if you cannot.
+Annotation from annotator: 3
+
+Example 11:
+Text: You shouldn't let others lead you on.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's good to be able to be honest about who you are.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's rude for people to give you a fake name because they can't learn your real one.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's not okay to have to rely on special tools when they aren't really needed.
+Annotation from annotator: 1
+
+Example 15:
+Text: It's bad to start relationships in the workplace.
+Annotation from annotator: 3
+
+Example 16:
+Text: You shouldn't rat out other people.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's good to have things in common with your partner's parents.
+Annotation from annotator: 3
+
+Example 18:
+Text: You shouldn't expect people to work if they don't want to.
+Annotation from annotator: 1
+
+Example 19:
+Text: It's good to like your job.
+Annotation from annotator: 4
+
+Example 20:
+Text: You shouldn't worry your family.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's wrong to want to hide who you really are.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is immoral for a supervisor to pursue their employees romantically.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't have to stay at a place you don't like.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's not normal to dislike everybody
+Annotation from annotator: 4
+
+Example 25:
+Text: You shouldn't judge people by how they look
+Annotation from annotator: 4
+
+Example 26:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 4
+
+Example 27:
+Text: It is dangerous for a doctor to misdiagnose a patient.
+Annotation from annotator: 4
+
+Example 28:
+Text: You should not engage in romance with a patient you treat.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's rude to dislike your best friend's boyfriend.
+Annotation from annotator: 3
+
+Example 30:
+Text: You don't owe a partner an explanation of past relationships.
+Annotation from annotator: 3
+
+Target Example:
+Text: People shouldn't date others based solely on their age.
+Annotation from annotator:

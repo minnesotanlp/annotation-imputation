@@ -1,0 +1,69 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: why are black peoples ' eyes red after having sex ? pepper - spray
+Annotation from annotator: 2
+
+Example 2:
+Text: what do you call a key owned by a monk ? a nigger .
+Annotation from annotator: 2
+
+Example 3:
+Text: feelings of resentment have been ' riffling ' through the orlando gay community since omar mateen first set foot in the pulse nightclub .
+Annotation from annotator: 0
+
+Example 4:
+Text: a nigger walks into a bar with a parrot on his shoulder . bartender asks " nice ! where did you get it from ? " parrot replies " from africa " .
+Annotation from annotator: 2
+
+How annotator B has labeled some examples:
+Example 1:
+Text: >be a conservative
+>don't think race plays into the human condition whatsoever even though all people belong to one race or another
+
+muh colorblind 
+Annotation from annotator: 2
+
+Example 2:
+Text: "@LaurenGallaway @nicmanz15 mistake sure you've got a pretty powerful blender...ours didn't work til we tried ""frozen drink"" setting lol"
+Annotation from annotator: 0
+
+Example 3:
+Text: #FollowFriday ✨
+
+@OccamsEpilady
+@FrozenFrog
+@Leamorabito
+@Mbarris01
+@CGMCPO
+@AquaRuby
+@Hippiemamagypsylove
+Annotation from annotator: 0
+
+Example 4:
+Text: I can not believe you think it’s ok for a woman to put her husband and family in financial strain you are not making any sense. Lol you are unbelievable. [...] That makes her a terrible person
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: build a force against the proliferation of counterfeit electrical products and 'direct taste towards genuine electrical products'
+Annotation from annotator: 0
+
+Example 2:
+Text: If you could choose
+Between blackpill and inceldom or the bluepill and a gf which would you choose and why?
+Annotation from annotator: 0
+
+Example 3:
+Text: I won't be going out of town with nobody ion plan on fucking
+Annotation from annotator: 1
+
+Example 4:
+Text: Met some cute Florida girls up at Logan Pass today .
+Annotation from annotator: 0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: there s a movie that depicts the world run by black people . <repeat> its call <lolface> rise of the planet of the apes
+Annotation from annotator:

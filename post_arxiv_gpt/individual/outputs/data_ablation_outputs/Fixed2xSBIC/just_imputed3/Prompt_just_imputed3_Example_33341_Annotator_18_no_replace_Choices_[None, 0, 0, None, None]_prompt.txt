@@ -1,0 +1,128 @@
+Estimated Examples:
+Example 1:
+Text: Ordered a copy the other day , cannot wait to settle down for a good read in front of the fire here .
+Annotation from annotator: 0
+
+Example 2:
+Text: Please quote me where I 've implied or have said that .
+Annotation from annotator: 0
+
+Example 3:
+Text: #theunagency's Oscar moment on the unusual stage @s_yesudas, MD inspiring entrepreneurs #purpose #never #fails… https://t.co/d86wVYkIV7
+Annotation from annotator: 0
+
+Example 4:
+Text: .@philippenis @DannyVelasco I made up nothing. A stoner said that and you are too ignorant of world events to know he's wrong. #sorryitsaboy
+Annotation from annotator: 0
+
+Example 5:
+Text: Please, feel welcome to learn more about the history of the Macedonian Patriotic Organization , its traditional Bulgarian character and the activities this organization provided for the community and its goals and purposes of today .
+Annotation from annotator: 0
+
+Example 6:
+Text: Here this bitch go ... Lol
+Annotation from annotator: 1
+
+Example 7:
+Text: the sub got so big i don't even recognize 90% of the people here
+ i feel left out tbh :(
+Annotation from annotator: 0
+
+Example 8:
+Text: My Coworker:: I'm about to buy her a one-way ticket back to Africa My Supervisor:: HA! I'll pitch in. They were talking about me via IM. Both men were white. Found this in the IM log in 2010.  When I submitted this finding to corporate, they were both fired, but the prevailing message is that even after 500 yrs in America, we still don't belong. I was 33, May 2010, Atlanta, GA, at work. Made me feel like even though I am a descendant of slaves, I still don't belong in America.
+Annotation from annotator: 1
+
+Example 9:
+Text: Your brother is such a girl!
+Annotation from annotator: 1
+
+Example 10:
+Text: PSA: If you're driving an RV stay the fuck in the slow lane!!!!
+Annotation from annotator: 1
+
+Example 11:
+Text: My grandma died from a stroke while reading I guess she couldn't put that book down.
+Annotation from annotator: 1
+
+Example 12:
+Text: GLORY To our British Activist & Nationalist ! Good To to See the Poles Help Out !!
+Annotation from annotator: 0
+
+Example 13:
+Text: Don't play both sides of the fence. Either you fucking with me or you not.
+Annotation from annotator: 0
+
+Example 14:
+Text: Whats the difference between a pile of dead babies and a Ferrari? I don't have a ferrari in my garage.
+Annotation from annotator: 2
+
+Example 15:
+Text: It is weird that someone from GamerGate would be opposed to a video *not specific to GamerGate* talking about harassment. So weird, right?
+Annotation from annotator: 0
+
+Example 16:
+Text: Insane Call your daughter "Insane" so when someone asks "Are you fucking insane?" you can reply "No, I'm fucking my dog"
+Annotation from annotator: 2
+
+Example 17:
+Text: a kindergarten teacher was going over animal sounds with her class . <repeat> she asks " ok , what does the ducky say " ? " quack ! " exclaims kevin . " good , now what does the kitty say " ? " meow ! " answers joe . " very good . and what does the piggy say ? " tyrone replies " freeze boy put yo hands up ! "
+Annotation from annotator: 2
+
+Example 18:
+Text: Here you go , 2 houses for 44,000 in a town that is 99 % white. located in a rural midwestern area .
+Annotation from annotator: 0
+
+Example 19:
+Text: Native Americans have to stop being so whiney. Geronimo wasn't describing Bin Laden, it's just a word. People have to stop being so sensitive and just get over it.
+Annotation from annotator: 2
+
+Example 20:
+Text: New: everyone can now create group chats of up to 50 people.
+Annotation from annotator: 0
+
+Example 21:
+Text: Suicide Fuel for Incels Age 24 and Older
+Most femoids have been sexually active for more than a decade than you have.
+Annotation from annotator: 1
+
+Example 22:
+Text: For he will command his angels concerning you to guard you in all your ways on their hands they will bear you up so that you will not Dash your foot against the stone you will Tread On The Lion and the adder the Young Lion and serpent you will Trampled Under Foot
+Annotation from annotator: 0
+
+Example 23:
+Text: What do you call an elevator full of white people? A box of crackers
+Annotation from annotator: 1
+
+Example 24:
+Text: the incident orlando left everyone crying besides the parents of the victims .
+Annotation from annotator: 1
+
+Example 25:
+Text: What's the easiest way to dirty up your headlights? going 50 through a school zone.
+Annotation from annotator: 1
+
+Example 26:
+Text: Ishqbaaz : Anika mistakes Shivaay for Maahi and threatens to kill him https://t.co/bkz41ISVc2 #TV_Show https://t.co/P8hfkisbGX
+Annotation from annotator: 0
+
+Example 27:
+Text: To all young souls that share the thelepatic feeling with me
+yes The fire rises  my brothers
+Annotation from annotator: 0
+
+Example 28:
+Text: I am so tired of living in a society that hates us
+We get paid less, go to jail more, and are generally discriminated against.
+Annotation from annotator: 0
+
+Example 29:
+Text: Some people really fucking anger me, having something so great...and then throw it done the drain.
+Annotation from annotator: 0
+
+Example 30:
+Text: /r/OkCupid "Men, let's talk about how much easier we have it than women when it comes to everything else"
+Annotation from annotator: 1
+
+Target Example:
+Text: my cousin thinks it's so funny that i really want to go to school for everything like multi-talented
+Annotation from annotator:

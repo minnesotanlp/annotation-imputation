@@ -1,0 +1,117 @@
+Example 1566
+Text: I haven't uploaded any more to Wiki because they tend to be more detailed and rather more abstruse. Have you had a look at Barry Burnham's book from Oxbow of 2004?
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+0.00% of responsive annotators labeled the text with 3
+0.00% of responsive annotators labeled the text with 4
+0.00% of responsive annotators labeled the text with 5
+0.00% of responsive annotators labeled the text with 6
+0.00% of responsive annotators labeled the text with 7
+0.00% of responsive annotators labeled the text with 8
+0.00% of responsive annotators labeled the text with 9
+0.00% of responsive annotators labeled the text with 10
+0.00% of responsive annotators labeled the text with 11
+60.00% of responsive annotators labeled the text with 12
+0.00% of responsive annotators labeled the text with 13
+20.00% of responsive annotators labeled the text with 14
+0.00% of responsive annotators labeled the text with 15
+20.00% of responsive annotators labeled the text with 16
+0.00% of responsive annotators labeled the text with 17
+0.00% of responsive annotators labeled the text with 18
+0.00% of responsive annotators labeled the text with 19
+0.00% of responsive annotators labeled the text with 20
+0.00% of responsive annotators labeled the text with 21
+0.00% of responsive annotators labeled the text with 22
+0.00% of responsive annotators labeled the text with 23
+0.00% of responsive annotators labeled the text with 24
+
+Example 2614
+Text: Yes, that's fine, especially with the smaller sections. Where will they be posting their topic ideas?
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+0.00% of responsive annotators labeled the text with 3
+0.00% of responsive annotators labeled the text with 4
+0.00% of responsive annotators labeled the text with 5
+0.00% of responsive annotators labeled the text with 6
+0.00% of responsive annotators labeled the text with 7
+0.00% of responsive annotators labeled the text with 8
+0.00% of responsive annotators labeled the text with 9
+0.00% of responsive annotators labeled the text with 10
+0.00% of responsive annotators labeled the text with 11
+20.00% of responsive annotators labeled the text with 12
+0.00% of responsive annotators labeled the text with 13
+20.00% of responsive annotators labeled the text with 14
+20.00% of responsive annotators labeled the text with 15
+0.00% of responsive annotators labeled the text with 16
+0.00% of responsive annotators labeled the text with 17
+20.00% of responsive annotators labeled the text with 18
+20.00% of responsive annotators labeled the text with 19
+0.00% of responsive annotators labeled the text with 20
+0.00% of responsive annotators labeled the text with 21
+0.00% of responsive annotators labeled the text with 22
+0.00% of responsive annotators labeled the text with 23
+0.00% of responsive annotators labeled the text with 24
+
+Example 948
+Text: Need help with EF 175 via email. Mind <url> so we can discuss?
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+0.00% of responsive annotators labeled the text with 3
+0.00% of responsive annotators labeled the text with 4
+0.00% of responsive annotators labeled the text with 5
+0.00% of responsive annotators labeled the text with 6
+0.00% of responsive annotators labeled the text with 7
+0.00% of responsive annotators labeled the text with 8
+0.00% of responsive annotators labeled the text with 9
+0.00% of responsive annotators labeled the text with 10
+0.00% of responsive annotators labeled the text with 11
+40.00% of responsive annotators labeled the text with 12
+0.00% of responsive annotators labeled the text with 13
+20.00% of responsive annotators labeled the text with 14
+0.00% of responsive annotators labeled the text with 15
+20.00% of responsive annotators labeled the text with 16
+0.00% of responsive annotators labeled the text with 17
+0.00% of responsive annotators labeled the text with 18
+20.00% of responsive annotators labeled the text with 19
+0.00% of responsive annotators labeled the text with 20
+0.00% of responsive annotators labeled the text with 21
+0.00% of responsive annotators labeled the text with 22
+0.00% of responsive annotators labeled the text with 23
+0.00% of responsive annotators labeled the text with 24
+
+Example 4003
+Text: The template I want is the one that goes at the bottom of the article and produces a message that goes something like 'This article is a copy of the (X) article in the German wikipedia, version 21 December 2009 10:04.' What is that template?
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+0.00% of responsive annotators labeled the text with 3
+0.00% of responsive annotators labeled the text with 4
+0.00% of responsive annotators labeled the text with 5
+0.00% of responsive annotators labeled the text with 6
+0.00% of responsive annotators labeled the text with 7
+20.00% of responsive annotators labeled the text with 8
+0.00% of responsive annotators labeled the text with 9
+0.00% of responsive annotators labeled the text with 10
+0.00% of responsive annotators labeled the text with 11
+60.00% of responsive annotators labeled the text with 12
+20.00% of responsive annotators labeled the text with 13
+0.00% of responsive annotators labeled the text with 14
+0.00% of responsive annotators labeled the text with 15
+0.00% of responsive annotators labeled the text with 16
+0.00% of responsive annotators labeled the text with 17
+0.00% of responsive annotators labeled the text with 18
+0.00% of responsive annotators labeled the text with 19
+0.00% of responsive annotators labeled the text with 20
+0.00% of responsive annotators labeled the text with 21
+0.00% of responsive annotators labeled the text with 22
+0.00% of responsive annotators labeled the text with 23
+0.00% of responsive annotators labeled the text with 24
+Target Text: Whoever's using the account has requested unblock again and seems penitent. Any comments?
+Soft labels:

@@ -1,0 +1,127 @@
+Estimated Examples:
+Example 1:
+Text: I smoked so much once my lungs decided to imitate the twin towers on 9/11 Except only one collapsed and people actually cared
+Annotation from annotator: 2
+
+Example 2:
+Text: What's the difference between a nigger and a pile of dog shit The dog shit will turn white and Lise it's stink
+Annotation from annotator: 2
+
+Example 3:
+Text: You know it's over when you get more direct messaged on r/Incels than on your phone
+It's over
+Annotation from annotator: 0
+
+Example 4:
+Text: I’ve only been in jail for 5 minutes and I’ve already been raped twice... I’m fucking done playing Monopoly with dad.
+Annotation from annotator: 2
+
+Example 5:
+Text: Fool me once shame on you. Fool me twice shame on me. Keep fooling me and I must be a Trump supporter
+Annotation from annotator: 2
+
+Example 6:
+Text: Ugh I'd have to do so much self-improvement to find love again and I just don't know if I want it that much.
+Annotation from annotator: 0
+
+Example 7:
+Text: I'm watching some of the old SEVENTEEN TV videos and I want to cry. My babies grew up so fast and so well &#128557;&#128557;
+Annotation from annotator: 0
+
+Example 8:
+Text: you have a moral duty as an upstanding citizen and white person to have that baby removed from her wretched hands and have it be properly cared for. to hell with your degenerate friend , put your fear aside and do whats right for the baby 's sake .
+Annotation from annotator: 2
+
+Example 9:
+Text: You don't have ADD. If you did, you wouldn't have been able to do [thing I did].
+Annotation from annotator: 2
+
+Example 10:
+Text: My dad told my sister and me that our incest is unacceptable. He said he would never support it because he hates getting sloppy seconds.
+Annotation from annotator: 2
+
+Example 11:
+Text: I was gonna fuck my grandma this weekend But I couldn't find my shovel
+Annotation from annotator: 2
+
+Example 12:
+Text: What's a Muslim's favourite game? Jenga
+
+I'm not even going to explain
+Annotation from annotator: 2
+
+Example 13:
+Text: Book on police corruption which has been pulped due to legal issues.
+Annotation from annotator: 0
+
+Example 14:
+Text: Why are black guys so bad at eating pussy? They never áte anything before
+Annotation from annotator: 2
+
+Example 15:
+Text: How can they do well at anything that requires logic when they are required to accept that A and B are equal ?
+Annotation from annotator: 0
+
+Example 16:
+Text: A good book is like sex. Great, unless a teacher forces you into it.
+Annotation from annotator: 2
+
+Example 17:
+Text: Happy birthday to my brother @DavonteJones10 hope you have a good day fam love you ‼&#128170;&#127998; see you later bro
+Annotation from annotator: 0
+
+Example 18:
+Text: Kids these days. They always make my van stink of sweat.
+Annotation from annotator: 1
+
+Example 19:
+Text: I had to miss the opening night of Black Panther with my black friends. Safe to say, that klan meeting was worth leaving them hanging.
+Annotation from annotator: 2
+
+Example 20:
+Text: I Am the Real Victim The Ugliest Man In The World
+Annotation from annotator: 0
+
+Example 21:
+Text: How did Stephen hawking die He starved to death as he ran out of shoulder to chew on
+Annotation from annotator: 2
+
+Example 22:
+Text: This hoe loud...
+Annotation from annotator: 2
+
+Example 23:
+Text: Tomorrow I head to Canterbury to see if i can get my hair fixed! This is gonna be a big day! and i'm so excited
+Annotation from annotator: 0
+
+Example 24:
+Text: A brutal reminder of how women will judge you based on looks, and only on looks.
+Annotation from annotator: 2
+
+Example 25:
+Text: What’s the difference between a gay club and a school Nothing really both get shot up as easy as the other
+Annotation from annotator: 2
+
+Example 26:
+Text: Any incels out there fucked over by their mother's genes
+Annotation from annotator: 0
+
+Example 27:
+Text: Can someone please tell me that I am not the only one who thinks that Dylan Minnette and Logan Lerman are alike? #13ReasonsWhy
+Annotation from annotator: 0
+
+Example 28:
+Text: Acts of racism in Ireland show short memories of Irish everywhere Read more : Acts of racism in Ireland show short memories of Irish everywhere | Irish News | IrishCentral Follow us : @IrishCentral on Twitter | IrishCentral on Facebook
+Annotation from annotator: 0
+
+Example 29:
+Text: Sky's reaction to cease fucking Kit &#128514;&#128514;&#128514;&#128514;&#128514;#BlackInkCrew
+Annotation from annotator: 0
+
+Example 30:
+Text: mexican jokes why are there no good mexican athletes ? because anyone who can run , jump , or swim has already crossed the border what 's a mexican 's favorite bookstore for those who can read ? borders
+Annotation from annotator: 2
+
+Target Example:
+Text: Feminists keep harassing male student about his "privelege"
+Annotation from annotator:

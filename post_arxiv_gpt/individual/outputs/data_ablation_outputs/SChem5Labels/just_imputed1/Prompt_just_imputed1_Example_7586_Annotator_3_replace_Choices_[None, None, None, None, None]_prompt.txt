@@ -1,0 +1,122 @@
+Example 1:
+Text: It's normal to want to compete.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's wrong to love someone that will never love you back.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't discriminate against someone based on race.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's good to make decisions about your feelings.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's understandable to feel hurt by your partner not being open with you.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's not good to hold back important information from your partner.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is nice to be able to buy your favorite treat.
+Annotation from annotator: 4
+
+Example 8:
+Text: It is good to help those in need
+Annotation from annotator: 4
+
+Example 9:
+Text: It's good for people to spend time outdoors.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to follow through on your invitations.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's understandable to want to express yourself through your physical appearance.
+Annotation from annotator: 3
+
+Example 12:
+Text: You should always set limits for things.
+Annotation from annotator: 3
+
+Example 13:
+Text: If someone is taking advantage of government services, it's okay to report them
+Annotation from annotator: 3
+
+Example 14:
+Text: People are expected to avoid coming into contact with a skunk.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's kind to help a friend get to sleep.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's okay to be a picky eater.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is good to think before you speak
+Annotation from annotator: 3
+
+Example 18:
+Text: It's nice to be in love.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to get help to learn effective, non-harmful ways of coping with stress.
+Annotation from annotator: 3
+
+Example 20:
+Text: You should always respect your host's furniture.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's wrong to not take others thoughts and emotions into consideration
+Annotation from annotator: 3
+
+Example 22:
+Text: It is wrong to be ashamed of where you have come from.
+Annotation from annotator: 3
+
+Example 23:
+Text: You should punish a child that disobeys you.
+Annotation from annotator: 2
+
+Example 24:
+Text: It is expected to help out your spouse financially.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's bad to have an affair.
+Annotation from annotator: 4
+
+Example 26:
+Text: If you're suicidal, you should get some therapy.
+Annotation from annotator: 4
+
+Example 27:
+Text: You should invite others to stay at your place if they are visiting the area.
+Annotation from annotator: 2
+
+Example 28:
+Text: It is expected that you give reasonable tips for service
+Annotation from annotator: 2
+
+Example 29:
+Text: It's good to ask why people are in a hurry so you know what is wrong.
+Annotation from annotator: 3
+
+Example 30:
+Text: It is good to say thank you when people help you
+Annotation from annotator: 4
+
+Text: It's understandable to have difficulty getting over a crush.
+Annotation from annotator:

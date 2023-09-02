@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Respectfully, you've replied to the message below mine a day ago now. Could you provide guidance for my request please?
+Annotation from annotator: 16.0
+
+Example 2:
+Text: I would advise against creating seperate articles for individual characters and stick to the list. Is this what you'd expect a typical encyclopedia to be covering?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: I don't want to be your enemy. What can I do to help this situation?
+Annotation from annotator: 20.0
+
+Example 4:
+Text: I see your point, but my real issue was wanting to add the 'too much trivia' tag as all these 'minor aspects' need to be integrated into the relevant sections (I'll have a go myself if I get time). Isn't it possible to create a 'pop culture references' section and then siphon it off into a separate page when it gets too big?
+Annotation from annotator: 16.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Wanted to Email you about Wikimedia Converence Netherlands, but your email is not working. In any case, you could crash at our place?
+Annotation from annotator: 10.0
+
+Example 2:
+Text: I noticed that you twice placed a request for citation on the <url> page,<url> <url>, but it was silently removed by <url> <url>. I've removed the sentence altogether; do you think any other action should be taken at this point?
+Annotation from annotator: 8.0
+
+Example 3:
+Text: |style="vertical-align: middle; padding: 3px;" | Hi, I wish to understand why you deleted my file. I'm kinda new here, can you help me?
+Annotation from annotator: 18.0
+
+Example 4:
+Text: I'm trying to figure out what he did differently from any of the other editors continually arguing (for months) about the South Ossetia War. Sure, he argues passionately for his viewpoint, but hasn't everyone that was involved in that article done so, including myself?
+Annotation from annotator: 8.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Listen, the reason I put those signs in the code 'break-clear' is because the arrangement of the blocks is ''off-key'', at least when looking through IE or Mozilla. Why are you taking them off?
+Annotation from annotator: 2.0
+
+Example 2:
+Text: Dana, before I give the examples of what sections or parts in the article that needs fixing, I need to know if <url> is still gonna work on the problems. Do you get me?
+Annotation from annotator: 4.0
+
+Example 3:
+Text: Hello. I was just wondering, is it really fair to delete an unintentional duplication of a deleted category without a formal CFD submission?
+Annotation from annotator: 8.0
+
+Example 4:
+Text: I see <url> some <person> tags to the <url> page. Is there something in particular you feel needs citation, or did the article just look generally reference-sparse?
+Annotation from annotator: 14.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: Thank you ''very much'' for partaking in my effort to have a listing of stable article revisions. How do you suggest we get this project off the ground?
+Annotation from annotator:

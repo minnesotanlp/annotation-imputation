@@ -1,0 +1,9 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Human-rated Examples:
+
+
+Target Example:
+Text: how do chinese parents name their children ? throw silverware down the stairs .
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

@@ -1,0 +1,126 @@
+Estimated Examples:
+Example 1:
+Text: Photos: Gov. Ambode receives Queen’s baton of commonwealth game at Lagos https://t.co/oNr2MyC2JV https://t.co/5AMyFlwSsw
+Annotation from annotator: 0
+
+Example 2:
+Text: The main greavance normies are having with incels going abroad
+... is the fact that those "poor" women in third world countries are having to bear with boring and sub average looking mean not the fact that they are being abused in any way.
+Annotation from annotator: 2
+
+Example 3:
+Text: Trying to find out where to buy a copy of White Power that either ships to England or can be bought in England
+Annotation from annotator: 1
+
+Example 4:
+Text: K&R only did it because pre-ANSI C was weird. some_function(x, y) double x; char y; { code_goes_here(); } Putting braces on the same line would've looked awful. When ANSI came out, it got simplified to this: int some_function(double x, char y) { code_goes_here(); } K&R never updated their coding standards because they wanted something compatible with both pre-ANSI and ANSI C, but they *could* have just thrown pre-ANSI C under the bus if they wanted to.
+Annotation from annotator: 0
+
+Example 5:
+Text: Hey, I'll have some of that shower coke plz!
+Annotation from annotator: 1
+
+Example 6:
+Text: My two children were wrestling Apparently, my 1 year old wasn’t as strong as my 12 year old.
+Annotation from annotator: 1
+
+Example 7:
+Text: I bought my wife a new mug However I had to send it back. On the bottom it said that it wasn’t suitable for the dishwasher
+Annotation from annotator: 2
+
+Example 8:
+Text: Amber Rose is one of those bad bitches who "only get along with dudes"
+Annotation from annotator: 2
+
+Example 9:
+Text: I'm afraid ～. I'm afraid I can't. I'm afraid not. I'm afraid I have to go. I'm afraid I broke my leg. I'm afraid my English is n #英会話
+Annotation from annotator: 0
+
+Example 10:
+Text: Drake University Expels Male Student Despite Female Admitting she Force Him Into Sex Act (x-post r/news)
+Annotation from annotator: 0
+
+Example 11:
+Text: Can we get back to building #TheWall please?
+Annotation from annotator: 2
+
+Example 12:
+Text: What has a dog's head, a cat's tail, a body of a rat, and a chinchilla's face. A zombie leaving the pet store.
+Annotation from annotator: 1
+
+Example 13:
+Text: I added Paul Walker on Xbox Live It always tells me he's on the dashboard
+Annotation from annotator: 2
+
+Example 14:
+Text: They are looking for a lot of handy people for the great American toss off this weekend
+Annotation from annotator: 1
+
+Example 15:
+Text: Black people say theres no difference between them and white people because we all have the same color blood going through our bodies... But they also have the same color blood as chimpanzees
+Annotation from annotator: 2
+
+Example 16:
+Text: #DJIA relief momentum into 20700-20950 from 20350-20500 support (US 10Y Treasury risk-off at 2.30-2.35%) is comfort for risk-neutral stay!
+Annotation from annotator: 0
+
+Example 17:
+Text: I was hungry So I told my slave to bring me food
+Annotation from annotator: 2
+
+Example 18:
+Text: Today is my support day so ill be watching other ppl play so if u r on send link and ill show some love yo #illuminismgaming
+Annotation from annotator: 0
+
+Example 19:
+Text: How do I think Black Panther could of been better? They should of pushed its release date to 3/5
+Annotation from annotator: 2
+
+Example 20:
+Text: Bad news, in thousands of years when our skeletons are dug up by archaeologist of the future, they will still identify us as incels because of the bone structure of our skulls
+Annotation from annotator: 0
+
+Example 21:
+Text: Daily reminder that if you're ugly, it's OVER
+Annotation from annotator: 2
+
+Example 22:
+Text: #ReasonsWhyYouDontGetLaid when I go to the supermarket to buy fish fillet.its smell reminds me ov you&#128514;&#128514;&#128514;&#128514;
+Annotation from annotator: 2
+
+Example 23:
+Text: Can someone explain unwelcome and involuntary when it comes to verbal sexual harassment?
+Annotation from annotator: 0
+
+Example 24:
+Text: Great day @VilniusFilmFest: talking to festival folks about #DYFF17, visiting Jonas Mekas Visual Arts Centre + more… https://t.co/2ID4wCc01P
+Annotation from annotator: 0
+
+Example 25:
+Text: How do you make a cat say "Woof?" Pour gasoline on it and light it on fire
+Annotation from annotator: 2
+
+Example 26:
+Text: And then tweeting a pic of Sean Connery with the caption that someone had suggested that you get an agent &amp; all could think of was this guy.
+Annotation from annotator: 1
+
+Example 27:
+Text: UPI: According to Post-Bombing Aerial Reconnaissance Photos, Syrian Airbase Now Resembles Left Side of Steve Bannon's Face #SyriaStrikes
+Annotation from annotator: 2
+
+Example 28:
+Text: if she doesn't send you unsoliciated messages
+this means she's not physically attracted to you, right?
+Annotation from annotator: 0
+
+Example 29:
+Text: why did johnny keep falling off his rocking horse ? johnny died <number> months ago and his parents still have n’t come to terms with his death .
+Annotation from annotator: 2
+
+Example 30:
+Text: Make sure you give it to a pretty girl!
+Annotation from annotator: 2
+
+Target Example:
+Text: I never saw the Skipper skip once on Gilligan's Island
+Annotation from annotator:

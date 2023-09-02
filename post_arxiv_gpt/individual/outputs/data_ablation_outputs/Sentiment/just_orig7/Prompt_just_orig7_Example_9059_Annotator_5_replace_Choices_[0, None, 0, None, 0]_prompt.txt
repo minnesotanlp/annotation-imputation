@@ -1,0 +1,83 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: 6 miles @ 9 min pace. Not bad, but would like to run faster. My 3 1/2 year vacation from running left me older, fatter, and out of shape.
+Annotation from annotator: 3
+
+Example 2:
+Text: @DexterShark but young liars is brilliant
+Annotation from annotator: 2
+
+Example 3:
+Text: @Melhi HAH!  I would KILL for your figure!  We're both the same age (I think) and I've got the fat saggy old lady thing going already.
+Annotation from annotator: 1
+
+Example 4:
+Text: @NYCgirl814 Good Morning to you too.  You should be sleeping young lady. lol
+Annotation from annotator: 3
+
+Example 5:
+Text: @PanBishop true, true and yes u do have a bday coming up. U gettin old mister lol jp. I know u gonna have big plans next wkend as well
+Annotation from annotator: 3
+
+Example 6:
+Text: @Royal_Flyness oh no so young  positive thoughts and prayers to you and all of his loved ones.
+Annotation from annotator: 3
+
+Example 7:
+Text: @Shion963  Damn, CLAMP really misses their old style, it seems.  I miss it too
+Annotation from annotator: 2
+
+Example 8:
+Text: @ThisisDavina Could you tell them to give you more to do? I loved the old style eviction shows BB1-BB4. Links and numbers is NOT ENOUGH.
+Annotation from annotator: 3
+
+Example 9:
+Text: @ashleymead Not cool. I might have to go back to using my old system to avoid my stupidity.
+Annotation from annotator: 2
+
+Example 10:
+Text: @bigsmooth32 im sure it will, it'l have a bunch of sweet stuff. but no hacking  i got dibs on your old one if you get a new one
+Annotation from annotator: 2
+
+Example 11:
+Text: @camillagodzilla I'am I wore and old white tshirt to work, and, well I managed to get oil, dirt, and fuel splatered all over me
+Annotation from annotator: 1
+
+Example 12:
+Text: @carebear017 My old school.  I miss you guys ! ><
+Annotation from annotator: 3
+
+Example 13:
+Text: @joannasayswhat  My old phone doesn't have a sim card.
+Annotation from annotator: 3
+
+Example 14:
+Text: @katyperry O! Elmo loves you! lol Follow me! I'm a Katy Perry Fan  11 years old. yup!
+Annotation from annotator: 3
+
+Example 15:
+Text: @kovshenin What's lame then? Running the latest version of a software, or stick to an old and vulnerable version?
+Annotation from annotator: 2
+
+Example 16:
+Text: @sunrayswench I'm not THAT old!   Thanks for the #followfriday
+Annotation from annotator: 3
+
+Example 17:
+Text: Another late night...uploading old vacation pix, checking horoscopes. Oh, wait, it's morning.    ^^ vampire's hours ^^
+Annotation from annotator: 3
+
+Example 18:
+Text: Browsing for vibrators with a chirpy group of younger women offers some eye-opening reminders about aging, sex and camaraderie.
+Annotation from annotator: 3
+
+Example 19:
+Text: Dreamt about wallpaper with old fashioned etchings of fossils on it.  Now want some and it doesn't exist online
+Annotation from annotator: 3
+
+Target Example:
+Text: My 9 yr old asked "if we have a blackout, will the satellite have one too"? From the mouths of babes
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

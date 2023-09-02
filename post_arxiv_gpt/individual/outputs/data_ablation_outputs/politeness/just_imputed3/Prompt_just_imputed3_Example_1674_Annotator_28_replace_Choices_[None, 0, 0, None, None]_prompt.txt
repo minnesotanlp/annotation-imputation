@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I've now supplied a free image on <url> (thanks for motivating me to do so!). Could you perhaps consider your reassessment of the article?
+Annotation from annotator: 11
+
+Example 2:
+Text: The consequences apparently have no sliding scale? It's either "you're blocked," or you're not?
+Annotation from annotator: 9
+
+Example 3:
+Text: That line in <url>: ''<url>, the slashed zero character'', shouldn't it be ''<url> or slashed zero, the slashed zero character''? How's <url> doing?
+Annotation from annotator: 15
+
+Example 4:
+Text: I suspect so - though with the size of things it may be best to assess each one individually. Using the formal name of the region was copied from the London category which had already been started - maybe we could add disambiguators on an individual case by case basis?
+Annotation from annotator: 16
+
+Example 5:
+Text: How come you removed Dobby as an omitted character? Where does he appear?
+Annotation from annotator: 14
+
+Example 6:
+Text: What's the origin of the data graphed in <url>? The image is used in <url>, which has an in-text cite for solubility characteristics, but could you clarify the source for the graph itself?
+Annotation from annotator: 15
+
+Example 7:
+Text: "''Images with iconic status or historical importance: As subjects of commentary.''". Listen, it's just trivial to look up, could you take the care of actually reading these policies before arguing over them?
+Annotation from annotator: 6
+
+Example 8:
+Text: I'm with you - it really is a friggin' pain that people refuse to read no matter how big you put the text.  Should we just maybe remove the source entirely?
+Annotation from annotator: 16
+
+Example 9:
+Text: I've now blocked them as the account appears to be used only for vandalism. Since your username is prone to being mis-spelled can I suggest you set up some "dead" <url> accounts to pre-empt further impersonations?
+Annotation from annotator: 14
+
+Example 10:
+Text: You may want to take a look at <url>.  Can you be specific on what "spamming" is in this context?
+Annotation from annotator: 9
+
+Example 11:
+Text: I personally haven't really ran in to any fascists here, but I very much doubt that anyone would object to redirects. Could you tell me the location of the list?
+Annotation from annotator: 13
+
+Example 12:
+Text: Hi there. On a tangential note, would you happen to be <person>?
+Annotation from annotator: 14
+
+Example 13:
+Text: I thought I'd asked you nicely on <url> not to make further attempts at getting your point into the article without trying to find consensus. Could you please address my points on the talkpage before having further tries in the article itself?
+Annotation from annotator: 14
+
+Example 14:
+Text: I presume you haven't obliterated them completely, because that would be to be editorialise enormously. Where have you put them instead?
+Annotation from annotator: 10
+
+Example 15:
+Text: That's the British English spelling. American English wins out on a lot of stuff on Wikipedia, so why not give a cookie to the Brits now and then?
+Annotation from annotator: 7
+
+Example 16:
+Text: I saw you put images for the Kings of Bhutan and thank you. Could you find an image to use for <url> also?
+Annotation from annotator: 14
+
+Example 17:
+Text: Sovereignty is something a thing, in this case Japan, possesses, hence the apostrophe. So what's the problem?
+Annotation from annotator: 5
+
+Example 18:
+Text: So, basically, you're just violating <url> and <url>. Why?
+Annotation from annotator: 6
+
+Example 19:
+Text: I've been trying to convince this user that his only problem is his username, but he doesn't seem to fully believe it.  Would you mind popping over and giving a word or two of encouragement?
+Annotation from annotator: 18
+
+Example 20:
+Text: There you go, it's GA now. Have you done anything else that's gotten to GA?
+Annotation from annotator: 8
+
+Example 21:
+Text: A remarkably modern-sounding name for something being applied to articles on people who've been dead for centuries. You really think it's appropriate for <url> ?
+Annotation from annotator: 9
+
+Example 22:
+Text: I can't find a page by that name that has ever existed. Can you please specify the exact name (capitalization is important), or link to the deletion log or discussion?
+Annotation from annotator: 18
+
+Example 23:
+Text: Are the remaining IPs on <url> still a problem? If so is Tom dealing with it?
+Annotation from annotator: 17
+
+Example 24:
+Text: Well, I'll review it anyhow, and we'll see where we need to go.  Deal?
+Annotation from annotator: 16
+
+Example 25:
+Text: Xandar, this Elizabeth II RFC represents the form of RFC I would like to use for the Catholic Church article. What do you think?
+Annotation from annotator: 17
+
+Example 26:
+Text: Merci. Now do you have any idea to solve discrepancy in <url> ?
+Annotation from annotator: 18
+
+Example 27:
+Text: Okay, let's leave the naming thing posponed for now, why are you reverting the <url>-catagory thing? just because (as you say) Iraq was formed post-WWI that doesn't mean that they aren't the same people?
+Annotation from annotator: 8
+
+Example 28:
+Text: No worries, please, dear - I'll keep this stage open at least until tomorrow night if you wish. Sounds ok to you?
+Annotation from annotator: 16
+
+Example 29:
+Text: Thank you for your answer. What are the sources for region 4 (Australia) release dates?
+Annotation from annotator: 18
+
+Example 30:
+Text: Hi Gareth. I was wondering if you could point me in the right direction for learning about building a wikipedia profile?
+Annotation from annotator: 15
+
+Target Example:
+Text: Please see <url>. Could you help with the list on the talk page?
+Annotation from annotator:

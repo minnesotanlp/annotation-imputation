@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Estimated Examples:
+Example 1:
+Text: ...cause I feel like a petulant kid, posting it. But: "We have three volunteers: Awadewit, Mike Christie and Wrad." Given that I, you know, proposed the countries idea, wasn't it obvious that I was volunteering?
+Annotation from annotator: 20
+
+Example 2:
+Text: Upon further thought, maybe I could look through lists of deleted articles to see if any interest me and see if I can bring them back (with adequate sourcing). Do you know anything about that process?
+Annotation from annotator: 20
+
+Example 3:
+Text: I don't think we know each other. Is there any matter you need help with?
+Annotation from annotator: 20
+
+Example 4:
+Text: "Redirecting is blanking" would be more accurate. Or maybe "redirecting is redirecting"?
+Annotation from annotator: 8
+
+Example 5:
+Text: <url> has been promoted to A-class. Shouldn't that score?
+Annotation from annotator: 4
+
+Example 6:
+Text: Many thanks. I'm afraid I don't know the reel - is it played in your part or the world?
+Annotation from annotator: 23
+
+Example 7:
+Text: They all used to be dabs that linked to other dabs which are now housed in the pages I moved them to, so I don't think there's too a need to restore them. Also, I eliminated the "4th of July (song)" redirect as there was only one page linking to it; no use for a redirect if nobody is going to it, right?
+Annotation from annotator: 12
+
+Example 8:
+Text: I know you moved the section about the  theme park because someone complained it did not belong in 'fandom', but i'm not convinced that was correct. exactly what sort of people go to such a place if not fans?
+Annotation from annotator: 17
+
+Example 9:
+Text: I've started looking at this article as you asked and inevitably I've got a few questions. Would you prefer me to list them here or on the article's talk page?
+Annotation from annotator: 19
+
+Example 10:
+Text: It looks like those news sources are all poker blogs.   Are there any that meet <url>?
+Annotation from annotator: 4
+
+Example 11:
+Text: I have it now; it lists 22 Members, seven officers and a large number of sons of Members. Do you think we could run to a new article, say <url>?
+Annotation from annotator: 20
+
+Example 12:
+Text: Not really sure what the remedy is for this, but anyway, now you know. How was your weekend?
+Annotation from annotator: 0
+
+Target Example:
+Text: Quite welcome. Doesn't Huggle use rollback when available and applicable (last several edits were by the same user)?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

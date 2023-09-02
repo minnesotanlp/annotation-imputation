@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Don't stop editing. Maybe a request at <url> would be of use?
+Annotation from annotator: 13
+
+Example 2:
+Text: Is there a <url> for these? How should I spell priviledge and appologise?
+Annotation from annotator: 13
+
+Example 3:
+Text: I was wondering why you removed him from Category:Alameda. He's pretty famous around there and it would be notable to have him in the category of Alameda, wouldn't it?
+Annotation from annotator: 13
+
+Example 4:
+Text: Then why is the article for the monastery in Lhasa as "Ganden" instead of "Gandan"? Do both the monasteries have the same name?
+Annotation from annotator: 14
+
+Example 5:
+Text: 89.243.201.235, another account from him to just deleting sections at wimbledon. Canxb4t you protect the page for two weeks?
+Annotation from annotator: 13
+
+Example 6:
+Text: I'd like to ask why you're so insistent on creating a page called <url>, which means the same thing as <url>.  Are you disagreeing that they mean the same thing, do you feel that the <url> article is bad, or do you feel that <url> is a better name for the article?
+Annotation from annotator: 9
+
+Example 7:
+Text: I know that this has been discussed before by various editors, but can anybody give me a reason why the problem is normally formulated in terms of the door numbers (1,2,3) and not the objects behind the doors (the car, goat 1, and goat 2).  Is this just because the door are given numbers in the problem statement but the goats are not given names?
+Annotation from annotator: 13
+
+Example 8:
+Text: I'm finding that I'm not able to access any of the DPL-related pages on the Toolserveru2013I get an error message or a blank pageu2013but somehow the Dab Challenge results are still being updated by your bot. Do you know what's going on?
+Annotation from annotator: 15
+
+Example 9:
+Text: Okay.  Is that a tacit admonishment of the merger chaos created by user Lucy-marie?
+Annotation from annotator: 11
+
+Example 10:
+Text: I agree it is a bit hectic how active the conversation is. Would you like to take it to #wikipedia ?
+Annotation from annotator: 14
+
+Example 11:
+Text: Is there any reason that you redirected <url> to <url>? Did this happen as a result of a technical error or something?
+Annotation from annotator: 12
+
+Example 12:
+Text: One deleteable article at a time, please.  This is a <url> G4;  do you agree, and if not, why not?
+Annotation from annotator: 13
+
+Example 13:
+Text: I have advised past attendees of this discussion. Does the last weekend of October work for you?
+Annotation from annotator: 13
+
+Example 14:
+Text: Just letting you know (since you have mentioned AFDing <url>) that weu2019ve gone to some effort to establish notability with <url>, and have added three reliable, notable, third-party sources to the article.  Do you feel these sources establish <url> as being notable (<url> and all that)?
+Annotation from annotator: 14
+
+Example 15:
+Text: So you see KV, just in case you missed the point, you are in the naughty chair in the naughty corner because of your own baloney, baloney that you bring yourself.  Now, didn't you like that story?
+Annotation from annotator: 5
+
+Example 16:
+Text: PS, we are having a discussion about such a new criterion at this moment - see <url>. Rather than ignoring the policy because you think it broken, why don't you join in with the discussion to make it not broken?
+Annotation from annotator: 12
+
+Example 17:
+Text: Where is the vandalism? Diffs?
+Annotation from annotator: 11
+
+Example 18:
+Text: You created <url>, there is already a page that similar <url>. Why don't you mix 2 articles together?
+Annotation from annotator: 13
+
+Example 19:
+Text: Thanks, was getting worried there for a moment. Have you though of asking Outriggr for a hand with <url>?
+Annotation from annotator: 14
+
+Example 20:
+Text: They all used to be dabs that linked to other dabs which are now housed in the pages I moved them to, so I don't think there's too a need to restore them. Also, I eliminated the "4th of July (song)" redirect as there was only one page linking to it; no use for a redirect if nobody is going to it, right?
+Annotation from annotator: 13
+
+Example 21:
+Text: Thanks! Do you know why this was held jointly and what was worked on?
+Annotation from annotator: 17
+
+Example 22:
+Text: Email from the Darkshado guy complaining about you adding him to the spamlist. I searched the site and couldn't find any of our articles replicated there; has he removed them, or what?
+Annotation from annotator: 12
+
+Example 23:
+Text: You may need to enable your own setting to allow E-mail too; I'm not sure. If so, maybe you can turn it on temporarily, so that you can send me one e-mail?
+Annotation from annotator: 16
+
+Example 24:
+Text: Don't you think it's taken too far back to be of any use? Do we have any alternatives?
+Annotation from annotator: 12
+
+Example 25:
+Text: I am not sure why <url> is not just in the article <url> as a straight table. Is there some chance the template might be used on another article?
+Annotation from annotator: 13
+
+Example 26:
+Text: But the template didnxb4t refer to any problems. What are the problems?
+Annotation from annotator: 13
+
+Example 27:
+Text: And what about <person>? Does it need fixed now too?
+Annotation from annotator: 12
+
+Example 28:
+Text: And, in case I forget, it is what happens when I sign with four tildes. See?
+Annotation from annotator: 12
+
+Example 29:
+Text: What's up with all those tweaky changes?  Just salting redirects?
+Annotation from annotator: 8
+
+Example 30:
+Text: Hi there, I've raised the possibility of unprotecting the tamazepam page <url>. What are your thoughts?
+Annotation from annotator: 17
+
+Human-rated Examples:
+Example 1:
+Text: Awesome! What was I doing wrong in the Italian films?
+Annotation from annotator: 13
+
+Example 2:
+Text: I had a quick scan through the <url> article, which while good seems to be to suffer from the negative effects of "summary style" when used on very large topics - namely that while the individual sections are good summaries of what they are describing, the ''overall'' article lacks a coherent flow, a narrative taking the reader from beginning to end. Does that make sense?
+Annotation from annotator: 16
+
+Example 3:
+Text: No problem, It was open and shut <url> issue. For your next project can you find something that doesnt make your fanclub at the Wikipedia Review angry?
+Annotation from annotator: 14
+
+Example 4:
+Text: Hey, if you took this picture you can release it into the public domain. If not, do you know who took it?
+Annotation from annotator: 12
+
+Example 5:
+Text: Xandar, this Elizabeth II RFC represents the form of RFC I would like to use for the Catholic Church article. What do you think?
+Annotation from annotator: 17
+
+Example 6:
+Text: Forgive me if you've already done this, but...Could you post a list of the listing codes (such as DO, RN, etc.) for possibly non-listed properties with reference numbers?
+Annotation from annotator: 16
+
+Example 7:
+Text: I've never played the RPG. What more information does it provide about Argos, Atlas, Julie, Ron, and the FISS Metas?
+Annotation from annotator: 12
+
+Example 8:
+Text: Btw, I've issued a request for discussion on the Canadian Wikipedians' notice board about a dispute involving myself and another contributor on <url>. If you have a chance, could you look this over?
+Annotation from annotator: 16
+
+Example 9:
+Text: Firstly, why do you assume I don't care about the content, and secondly, what chance have you given anyone to voice a dissenting opinion? Correct me if I am wrong, but you don't seem to have asked if anyone had a problem with the merge, did you?
+Annotation from annotator: 4
+
+Example 10:
+Text: The only books by Paul I was able to find were ''Concordia the Lutheran Confessions: A Readers Edition of the Book of Concord'' (Hardcover  - not yet released) and ''Communion fellowship: A resource for understanding, implementing, and retaining the practice of closed communion in the Lutheran parish'' (Unknown Binding - Jan 1, 1992).  Are those his scholarly works?
+Annotation from annotator: 17
+
+Example 11:
+Text: Problem is how do you recognise the categories, as there are thousands of them. I have already made a program that scans the database, and can locate the unstubbed articles, so finding the untagged stubs is ok, and AWB automatically adds the stub tag if the article is short, I just can't think how you could program it to automatically guess the type of stub, any ideas?
+Annotation from annotator: 12
+
+Example 12:
+Text: I'm also having to use your link.  Perhaps we should change the main page link to use the megaupload until we know that the main website is up?
+Annotation from annotator: 15
+
+Example 13:
+Text: Secondly, please show me where Maynard Smith credits this idea to Haldane.  Have you read the Grafen paper?
+Annotation from annotator: 12
+
+Example 14:
+Text: Thanks for the detailed reply.  Can a random admin who notices the image with the speedy tag do something useful to fix the situation?
+Annotation from annotator: 18
+
+Example 15:
+Text: Thank you for telling me. Can you please revert my deletion, for I do not yet know how to do so?
+Annotation from annotator: 18
+
+Example 16:
+Text: lol, turns out the photo isn't his either. Any ideas from here?
+Annotation from annotator: 12
+
+Example 17:
+Text: Hi Gareth. I was wondering if you could point me in the right direction for learning about building a wikipedia profile?
+Annotation from annotator: 16
+
+Example 18:
+Text: Wow, you waited a whole ten minutes. What's the problem?
+Annotation from annotator: 1
+
+Example 19:
+Text: I do not, nor have I ever used other accounts on Wikipedia. Didn't you ask me this before?
+Annotation from annotator: 8
+
+Example 20:
+Text: At first I couldn't see it, but now that I've taken a closer look I see what you mean.  Now, I wonder, who was the first most decorated PR soldier in WW II?
+Annotation from annotator: 14
+
+Example 21:
+Text: No problem.  :) Did you see the additional notes on the project talk page about the rest of those books from the 70s?
+Annotation from annotator: 16
+
+Example 22:
+Text: As I said in the summary when moving him away from <url>, for the last twenty-six years of his life he wasn't a priest. Perhaps I've missed the part of the naming convention which requires 'priest', could you please say more?
+Annotation from annotator: 8
+
+Example 23:
+Text: Anytime. How do you like this closer crop?
+Annotation from annotator: 17
+
+Example 24:
+Text: Did you discuss it with the user? Did you ask him/her to redact or remove it?
+Annotation from annotator: 13
+
+Example 25:
+Text: That explains some things, guess this'll take getting used to (not to mention the dozens of dabs I have to go back and re-fix). So, do you recall <url> by any chance?
+Annotation from annotator: 16
+
+Example 26:
+Text: I'm going to remove it. Is that okay with you?
+Annotation from annotator: 15
+
+Example 27:
+Text: If it can wait until tomorrow, I'll look then. Could you provide diffs to the two threads?
+Annotation from annotator: 14
+
+Example 28:
+Text: At the top of the page it characterizes a guideline as ''a generally accepted standard that editors should follow'' along with a passing reference to <url>. So, I might ask, how would using 4 tildes prevent you from improving or maintaining Wikipedia?
+Annotation from annotator: 12
+
+Example 29:
+Text: As I have said before, it is an issue of breadth vs. depth. Are you familiar with such concepts?
+Annotation from annotator: 4
+
+Example 30:
+Text: Thank you for your answer. What are the sources for region 4 (Australia) release dates?
+Annotation from annotator: 16
+
+Target Example:
+Text: I wish I could say, but I don't know what it is.  Could you tell me a little more?
+Annotation from annotator:

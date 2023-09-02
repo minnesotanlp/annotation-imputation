@@ -1,0 +1,1 @@
+Based on the given examples, it is difficult to predict how annotator B might label this example. However, based on the content of the text, it is possible that annotator B might label it as 0.0 (no hatespeech).

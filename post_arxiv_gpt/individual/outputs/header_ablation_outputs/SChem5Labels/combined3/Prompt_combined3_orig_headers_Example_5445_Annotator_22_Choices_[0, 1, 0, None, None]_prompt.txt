@@ -1,0 +1,245 @@
+Human-rated Examples:
+Example 1:
+Text: It is okay to ask questions.
+Annotation from annotator: 4
+
+Example 2:
+Text: It is okay to be uncomfortable with technology.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's good to call out someone's abuse.
+Annotation from annotator: 4
+
+Example 4:
+Text: IT is wrong to separate someone from their pet.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's not okay to get enjoyment from playing tricks on others.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't be too open around kids because they could use it against you.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to be aware of other things around you
+Annotation from annotator: 3
+
+Example 8:
+Text: You shouldn't drink Cholula because it's really hot.
+Annotation from annotator: 4
+
+Example 9:
+Text: You should do what you think will make your parents proud.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's understandable to be disappointed when something you wanted badly doesn't turn out well.
+Annotation from annotator: 4
+
+Example 11:
+Text: It is expected that you treat your spouse with respect
+Annotation from annotator: 4
+
+Example 12:
+Text: It's understandable to be upset with a co-worker who is not pulling their weight at work.
+Annotation from annotator: 4
+
+Example 13:
+Text: You shouldn't make fun of people who pee their pants.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's good to work to advance social justice causes that you believe in
+Annotation from annotator: 3
+
+Example 15:
+Text: You should not use someone's emotions against them.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's good to attend college after you graduate from high school.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's understandable to keep your opinions to yourself when they're controversial.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's important to protect yourself on a motorcycle.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's okay to have weird sexual fetishes.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's fun to go to a concert with your buddies.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's ok to keep your age private.
+Annotation from annotator: 3
+
+Example 22:
+Text: You should talk to someone if you are seriously contemplating suicide.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's wrong to facilitate somebody becoming unwilling to take care of themselves.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's understandable if you're glad when someone is happy to receive your greeting card.
+Annotation from annotator: 4
+
+Example 25:
+Text: You should not come between your child and their spouse.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's not okay to tell someone who they should have friends with.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's not okay to not tell someone something important in person.
+Annotation from annotator: 3
+
+Example 28:
+Text: If you want to run from your problems, you should see a therapist.
+Annotation from annotator: 3
+
+Example 29:
+Text: It is common to confront someone to try to get them to stop smoking.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's good to let people know when they're being a hypocrite so that they can stop.
+Annotation from annotator: 3
+
+Estimated Examples:
+Example 1:
+Text: You shouldn't ditch your friend for other people.
+Annotation from annotator: 3
+
+Example 2:
+Text: If you are being excluded by friends, it's okay to feel hurt.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's not okay to be ungrateful over the holidays.
+Annotation from annotator: 4
+
+Example 4:
+Text: You shouldn't starve yourself.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's understandable if you are hopeful that your pet will come home.
+Annotation from annotator: 4
+
+Example 6:
+Text: You should be careful with other people's things.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's good to encourage someone to succeed.
+Annotation from annotator: 4
+
+Example 8:
+Text: You shouldn't expect birthday presents from your friends.
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't play sports if your wrist is broken.
+Annotation from annotator: 4
+
+Example 10:
+Text: You shouldn't lie to people you love.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's good to grow your own food.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's normal to practice a skill.
+Annotation from annotator: 4
+
+Example 13:
+Text: People should care for their family members.
+Annotation from annotator: 4
+
+Example 14:
+Text: It is rational to not want to join the military.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's fine to not want to put yourself in a dangerous scenario.
+Annotation from annotator: 3
+
+Example 16:
+Text: You should make an effort to help out family members.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's understandable to be fed up with controlling people.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's good to hang out at the amusement park with people.
+Annotation from annotator: 4
+
+Example 19:
+Text: It is okay to express your honest opinions
+Annotation from annotator: 3
+
+Example 20:
+Text: It's good to forgive someone for their behavior at a party.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's good to support a cancer patient.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's wrong to cheat in games.
+Annotation from annotator: 4
+
+Example 23:
+Text: Schools should close if the weather is bad.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's impolite to ghost people with whom you have a relationship.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's understandable that everyone makes mistakes sometimes.
+Annotation from annotator: 4
+
+Example 26:
+Text: It is important to stand up for yourself.
+Annotation from annotator: 3
+
+Example 27:
+Text: If you need something fixed, you should ask someone for help.
+Annotation from annotator: 3
+
+Example 28:
+Text: It is smart to implement examples you know that work.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's hurtful to disbelieve people.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's wrong to wish your child was never born.
+Annotation from annotator: 4
+
+Target Example:
+Text: You should always clean your room.
+Annotation from annotator:

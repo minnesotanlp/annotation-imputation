@@ -1,0 +1,14 @@
+Here's a description of a dataset:
+{dataset_description}
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given {n_shots} samples of how that particular annotator has responded to other examples and be shown what the plurality of annotators gave as a label, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+{shots}
+
+Here's how the plurality of annotators labeled the target example:
+{other_shots}
+
+How would the particular annotator annotate the target example?
+{target_example_line}
+ANSWER:

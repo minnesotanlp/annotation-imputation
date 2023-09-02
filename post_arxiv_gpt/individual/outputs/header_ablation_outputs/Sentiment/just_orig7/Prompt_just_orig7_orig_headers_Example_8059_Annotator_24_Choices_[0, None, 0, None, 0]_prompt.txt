@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Estimated Examples:
+Example 1:
+Text: @BiGVixXen yea, it's my old gt   ...when I first got on the fd forums you were one of the 1st peeps 2 msg me (cuz I'm Canadian)!
+Annotation from annotator: 2
+
+Example 2:
+Text: @kissability Yeah, KFC stopped giving me shifts, 14 year olds took my jobs  as well as other ethnicity who work cheaper ugh
+Annotation from annotator: 1
+
+Example 3:
+Text: When did I become a law abiding citizen? I just bought a train ticket... Getting old
+Annotation from annotator: 1
+
+Example 4:
+Text: Watching nascar. Jg keeps falling further back. Almost getting lapped. He is getting old!!!  Like me
+Annotation from annotator: 1
+
+Example 5:
+Text: iLOVE: Chelsea Lately || iHATE: that on Saturdays they ALWAYs replay an old episode not a new one
+Annotation from annotator: 1
+
+Example 6:
+Text: @davidmrowe Cheers v much! Got one on Sunday too (goes to show how lame THAT old PB was!) And was top 10 ladies for both - delighted!
+Annotation from annotator: 2
+
+Example 7:
+Text: sanded an old table so i can re-vanish it, very dirty dusk went everywhere
+Annotation from annotator: 1
+
+Example 8:
+Text: @inkswamp No FTP/Browser on the Mac  I may visit an old Mac Lab or Sneakernet with ZIP100s to Kinkos. Anyone with Fetch on a Floppy? DM me
+Annotation from annotator: 2
+
+Example 9:
+Text: ahh. i'm bored. been listening to old stuffs recently and i really do miss local basketball
+Annotation from annotator: 1
+
+Example 10:
+Text: Having lunch  while looking at some old pics my dad just found from the old boxes. Vaca pics, me wore the Airwalk sneakers & short hair!x)
+Annotation from annotator: 2
+
+Example 11:
+Text: anyone drive a newish diesel car? any advice on pros cons? not interested in old diesel cars, need recent model experience, eg SUV
+Annotation from annotator: 2
+
+Example 12:
+Text: Aviation :  Funny ATC Dialogues     some of these are very old but still very amusing http://bit.ly/2HYL4
+Annotation from annotator: 2
+
+Example 13:
+Text: @chicklitgurrl girl i've been sending text to you from yahoo, but it was to your old number .. i'm so dumb
+Annotation from annotator: 2
+
+Example 14:
+Text: a 10 year old kid is a Swine Flu positive here in our country...
+Annotation from annotator: 1
+
+Example 15:
+Text: @helenthornber Just as well, otherwise it'd just give me even more reason to grump about all over the place! Sonic makes me feel old too
+Annotation from annotator: 1
+
+Example 16:
+Text: My ten year old cousin told me i can't be trusted with scissors so he took them off me Lol
+Annotation from annotator: 1
+
+Example 17:
+Text: @Gagaforyou omg I'm old in I days
+Annotation from annotator: 1
+
+Example 18:
+Text: @YoungQ when one of my 3 yr olds saw that pic of ur son on stickam she was like oh look that is my boyfriend...lol I was like HEY no BF's
+Annotation from annotator: 3
+
+Example 19:
+Text: @TTSTylerNelson Hey you. You're such a handsome young man, & it's refreshing to see you put yourself out there in such a positive way!
+Annotation from annotator: 4
+
+Example 20:
+Text: @xxlaurenbeexx good  aww bless 20 isnt old though lol im great thank you  you? xx
+Annotation from annotator: 4
+
+Example 21:
+Text: @DDGriffith Translation: *look* young but *feel* old!
+Annotation from annotator: 0
+
+Example 22:
+Text: @JonathanRKnight LOL...if it were only that easy to get one at BRU...you can get your baby fix with my 5 month old whenever you're in LA
+Annotation from annotator: 3
+
+Example 23:
+Text: @AlanCarr maybe if we leave the 10 year old girl alone now, and go back to picking on grown-ups. It's much funnier that way
+Annotation from annotator: 1
+
+Example 24:
+Text: New phone = amazing but the mac girl deleted everything on my old phone before transfering
+Annotation from annotator: 1
+
+Example 25:
+Text: @marielenh Count yourself lucky. My Sky plus 160 box is apparently so old that i cant get the new Sky EPG guide
+Annotation from annotator: 1
+
+Example 26:
+Text: I love the old song, beautiful soul - jesse mccartney. Awww so sweet
+Annotation from annotator: 3
+
+Example 27:
+Text: @Madhobbit/Eerie,how olds tha building?Whats it used 4?Dyu mind me askn Qs or wud u prefer2 just post ur updates & get on with it? Suz
+Annotation from annotator: 2
+
+Example 28:
+Text: Woo! Singing McFLY Songs  Going back to the oldies =P
+Annotation from annotator: 3
+
+Example 29:
+Text: @inklesstales She wasn't bothered about the storm   Maybe she's just too young to be bothered. We'll see! ..and yes she'll often get wet!
+Annotation from annotator: 3
+
+Example 30:
+Text: Great day in St.Michel - it really is the best part of Paris. So..hip! So..full of great food! So..full of young frenchmen! C'est la vie!
+Annotation from annotator: 4
+
+Target Example:
+Text: I'm on my way to Nicole's to have dinner with her, Andre and an old high school friend.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

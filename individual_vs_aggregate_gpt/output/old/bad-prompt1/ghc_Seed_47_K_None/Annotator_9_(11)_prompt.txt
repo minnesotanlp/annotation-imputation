@@ -1,0 +1,37 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 2 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: I added a video to a @YouTube playlist http://youtu.be/g0iFNKvkT6I?a  Wall plate death-dapter tests including fire and 1kV.
+ANSWER: 0
+
+2.
+EXAMPLE: Then, it seems we have a common interest with Assad. 
+ANSWER: 0
+
+3.
+EXAMPLE: #QAnon - How the Media Controls What We Think https://youtu.be/BgKK8KzNHJs via @YouTube
+ANSWER: 0
+
+4.
+EXAMPLE: No need for that, you racist  All human beings are human beings.
+ANSWER: 0
+
+5.
+EXAMPLE: MUELLER will soon find himself behind bars as will ROSENSTEIN. TRAITORS FOR MUSLIM OBAMA AND KILLARY CLINTON.
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: MUELLER will soon find himself behind bars as will ROSENSTEIN. TRAITORS FOR MUSLIM OBAMA AND KILLARY CLINTON.
+ANSWER: 1
+
+2.
+EXAMPLE: MUELLER will soon find himself behind bars as will ROSENSTEIN. TRAITORS FOR MUSLIM OBAMA AND KILLARY CLINTON.
+ANSWER: 1
+
+How would the particular annotator annotate the target example?
+EXAMPLE: MUELLER will soon find himself behind bars as will ROSENSTEIN. TRAITORS FOR MUSLIM OBAMA AND KILLARY CLINTON.
+ANSWER:

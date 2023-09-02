@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Correct Examples:
+Example 1:
+Text: I'm also having to use your link.  Perhaps we should change the main page link to use the megaupload until we know that the main website is up?
+Annotation from annotator: 18
+
+Example 2:
+Text: Hi, yes I love your stats tool too. But could it also cover wikiversity and perhaps the other sister projects?
+Annotation from annotator: 18
+
+Example 3:
+Text: Well...  pretty much most of what was in the old table, and the category links.  May I get in touch with you via e-mail to work on the specifics?
+Annotation from annotator: 20
+
+Example 4:
+Text: Don't worry, I'm not going to give the new right out to people who'll abuse it. :) Where's the new policy page?
+Annotation from annotator: 19
+
+Example 5:
+Text: Having said that, I don't want to drive anyone away just because they can't write well. The question is, where do you begin?
+Annotation from annotator: 11
+
+Example 6:
+Text: Hmmm, you are basically asking me to think positively despite evidence and knowing that over this issue none good faith on part of some users was showed in past, but ok, letxb4s see how it goes. The question then is: do you consider including the discussions with outside mediation participants that happend on those talk-pages (direktor, for exemple, has been very active and enthusiastic there lately) or only the in-mediation discussions are the ones that count?
+Annotation from annotator: 8
+
+Example 7:
+Text: MONGO, today you speedied this article as a non notable character.  Surely you know the non notable speedy criteria is for real people, not characters?
+Annotation from annotator: 6
+
+Example 8:
+Text: The article doesn't seem to imply that ''The Game Keeper'' was created by WotC, nor does it give a hint when the company bought the stores. Were you thinking of something specific I can change to make that more clear, or is it fine as-is?
+Annotation from annotator: 10
+
+Example 9:
+Text: I have proposed the merge for you at these pages: <url>/<url>. Is that what you wanted?
+Annotation from annotator: 16
+
+Example 10:
+Text: That sounds fine. When does the drive end: at the start of August 13 or at the end, and according to which timezone?
+Annotation from annotator: 21
+
+Example 11:
+Text: What, my dear, will change the fact of your poor anargumentative technique??
+Annotation from annotator: 2
+
+Example 12:
+Text: No, just admire them from a distance of a couple of centuries! You?
+Annotation from annotator: 15
+
+Target Example:
+Text: Katy, good buddy.  Is <url> your lost article?
+Annotation from annotator:
+If you output anything other than a single integer (and absolutely nothing else, including explanatory text), your output will invalidate the dataset.

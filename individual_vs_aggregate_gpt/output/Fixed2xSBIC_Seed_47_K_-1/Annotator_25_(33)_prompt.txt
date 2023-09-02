@@ -1,0 +1,36 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and be shown what the plurality of annotators gave as a label, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: November 21, 2016 at 12:48pm ·
+Twitter
+·
+
+#SurvivalGuideToThanksgiving
+
+iksnay on the oliticspay
+ANSWER: 0
+
+2.
+EXAMPLE: Thanks for following  @sirwalk77 @electoengfam @SickofLeftists  @HenningBjerre @Thrillmas @fisherman7  @ArchKennedy @speakgov @Short_Fat_Bear @cbbroadway @JessieEllington @alainbeauregard  @Joe_Cater Sorry I took so long.
+ANSWER: 0
+
+3.
+EXAMPLE: If you tell me to get one of those weird hexa things i will never talk to you again.
+ANSWER: 0
+
+4.
+EXAMPLE: I like my girls how I like my ice packs Stuffed in the freezer until I want to use them
+ANSWER: 2
+
+Here's how the plurality of annotators labeled the target example:
+1.
+EXAMPLE: painted as a much older man by legendary makeup artist Dick Smith
+ANSWER: 0
+
+How would the particular annotator annotate the target example?
+EXAMPLE: painted as a much older man by legendary makeup artist Dick Smith
+ANSWER:

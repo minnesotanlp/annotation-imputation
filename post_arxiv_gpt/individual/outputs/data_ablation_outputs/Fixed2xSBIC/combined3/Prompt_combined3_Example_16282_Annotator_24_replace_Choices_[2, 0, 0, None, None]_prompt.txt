@@ -1,0 +1,260 @@
+Estimated Examples:
+Example 1:
+Text: why do black people smell ? so blind people can hate them too .
+Annotation from annotator: 2
+
+Example 2:
+Text: Many of these non-essential government jobs and bureaus could probably be eliminated altogether
+Annotation from annotator: 1
+
+Example 3:
+Text: Found a Transponder Snail! Exclusive Profile: Those who follow their dreams! https://t.co/PUk0vcHVBd #TreCru https://t.co/f5xBR0Vmzj
+Annotation from annotator: 0
+
+Example 4:
+Text: niggas wanted women rights trans rights gay rights asian rights muslim rights mexican rights… y’all want inclusion there you have it
+Annotation from annotator: 1
+
+Example 5:
+Text: If women weren't meant to be sluts, Eve wouldn't have fucked the first guy she met
+Annotation from annotator: 2
+
+Example 6:
+Text: Mr. Farkel thinks Whites are too stupid to be doctors and if we had an all White society we would have no doctors and no one to pull our teeth out .
+Annotation from annotator: 2
+
+Example 7:
+Text: i don't know because i had everyone else on that thread blocked. but i'm am loling so hard right now.
+Annotation from annotator: 0
+
+Example 8:
+Text: On Halloween a man has sex... ...with his wife who recently had an abortion.
+
+It was a graveyard smash
+Annotation from annotator: 2
+
+Example 9:
+Text: Why was being a slave such a bad thing? Technically you were worth more than anyone else
+Annotation from annotator: 2
+
+Example 10:
+Text: These bitches funny like mike epps
+Annotation from annotator: 1
+
+Example 11:
+Text: Can we have a meme with  Obongo as a Muslim extremist?
+Annotation from annotator: 2
+
+Example 12:
+Text: Spent the afternoon w 4 UCalgary theatre students. What a joy. If these lovely young folk are any indication, our future is in good hands!
+Annotation from annotator: 0
+
+Example 13:
+Text: IM SO TRIGGERED RN SOME GIRLS NEVER MOVE ON AND NEVER STOP TELLING LIES BC THEY CANT LIVE W/O DRAMA AHAHA KEEP MY NAME OUTTA YO MOUTH HONEY
+Annotation from annotator: 2
+
+Example 14:
+Text: New study suggest the police should no longer be concerned with black people. To reduce the number of shootings, responsibility for blacks should be handed over to dog catchers.
+Annotation from annotator: 2
+
+Example 15:
+Text: What did the kid with no arms or legs get for Christmas? Cancer.
+Annotation from annotator: 2
+
+Example 16:
+Text: Do anorexic people see starving children commercials on tv... and think, “wow, she’s perfect.”
+Annotation from annotator: 2
+
+Example 17:
+Text: The house I'm watching my cousins animals at has Netflix and I'm debating if I should watch Train to Busan or not like is it good??
+Annotation from annotator: 0
+
+Example 18:
+Text: Illegals First: Democrats Block 2018 Budget, Gain Another Month to Push Amnesty
+Annotation from annotator: 0
+
+Example 19:
+Text: I want all my hoes back
+Annotation from annotator: 1
+
+Example 20:
+Text: The term "Every 60 seconds in Africa.." is stupid Everyone knows Africans don't get seconds.... They're lucky if they get a single serving...
+Annotation from annotator: 2
+
+Example 21:
+Text: @leroyrjackson Im the type if you wanna get on your knees we gone do that to matter fact we are. Lol
+Annotation from annotator: 0
+
+Example 22:
+Text: Africans actually have more of some things. Like infant mortality.
+Annotation from annotator: 2
+
+Example 23:
+Text: RT @hyped_resonance: u are going to look like the fucking hamburglar https://t.co/HZHFIVCXom
+Annotation from annotator: 1
+
+Example 24:
+Text: Tone policing doesn't work and it EXTRA doesn't work after Happy Hour on Thursday. *all the middle fingers*
+Annotation from annotator: 2
+
+Example 25:
+Text: I asked my grandfather if he wants to visit Auschwitz with me... He told me he was already once there
+Annotation from annotator: 1
+
+Example 26:
+Text: tweetstats.hashtag.notyourshield.mention._roguestar_.rt
+
+quickly, create a shield from the person that posted women's addresses on twitter!
+Annotation from annotator: 0
+
+Example 27:
+Text: RT @Heissarcastic: Facebook needs these 3 buttons: "Dislike", "Who cares", "Are you retarded?"
+Annotation from annotator: 2
+
+Example 28:
+Text: What's a decent RoR on 401(k)s? I've averaged 9.2% over the past few years. Not sure if that's decent or not.
+Annotation from annotator: 0
+
+Example 29:
+Text: Only one day to go then it's #theMasters. Talking golf with @SportsBreakfast @talkSPORTevery #cantwait #Par3contest #AugustaCountdown
+Annotation from annotator: 0
+
+Example 30:
+Text: FUCK THESE REFS MAN HOLY SHIT!!! Put the fucking whistle away!!! I don't think Gonzaga has even made a shot that isn't a free throw
+Annotation from annotator: 2
+
+Human-Rated Examples:
+Example 1:
+Text: The daring Artificial Intelligence used the beverage opener as plasma windows and felt testy about the completion.
+Annotation from annotator: 0
+
+Example 2:
+Text: "@taylorlitttle @AllieHarris8 did u get ur twitter handle from ""twitter suggestions for username"" bc ur name was taken already?"
+Annotation from annotator: 0
+
+Example 3:
+Text: Steriotypical mexicano with the brown skin Drugs, guns, illegal activities is is the poison that im downin
+Annotation from annotator: 2
+
+Example 4:
+Text: UPDATE: @cstamalot is also a little bitch baby #ThirstyThursday #sheisstillmybffthough #butsheabitch
+Annotation from annotator: 2
+
+Example 5:
+Text: It ain't nothing like chasing money cause you have a purpose, but chasing these hoes for what? 
+*Vice Versa*
+Annotation from annotator: 1
+
+Example 6:
+Text: i asked my mom to take me to vegas to meet kylie and she said YES, buts it's the day before our party :((
+Annotation from annotator: 0
+
+Example 7:
+Text: YouTube - Fight At Chuck E. Cheese In California !
+Annotation from annotator: 0
+
+Example 8:
+Text: AMA: New reddit CEO talks about banning subreddits - ours does not appear to be in danger
+Annotation from annotator: 0
+
+Example 9:
+Text: @Zapaman @trotheray @consorziobiogas 13% of total present demand, but that's incl power generation and industry, and before insulation.
+Annotation from annotator: 0
+
+Example 10:
+Text: When I was in grammar school I would go to the library every few days and get a new Hardy Boys book .
+Annotation from annotator: 0
+
+Example 11:
+Text: Did you know that Ray was not the inventor of the X-Rays? He was his little brother.
+Annotation from annotator: 1
+
+Example 12:
+Text: Looks like some Jews good broken into their car and garage I just had to laugh when saw this .
+Annotation from annotator: 2
+
+Example 13:
+Text: From your post it seems you see no future for SA or any other white country ?
+Annotation from annotator: 1
+
+Example 14:
+Text: The churches in my city are full of liberal school teachers .
+Annotation from annotator: 0
+
+Example 15:
+Text: """I have those things... what are they called? Fucking standards"""
+Annotation from annotator: 0
+
+Example 16:
+Text: Same. RT @TylerIAm That was back when i found myself listening to mad """"""real hip hop"""""". Zero bitches in sight
+Annotation from annotator: 1
+
+Example 17:
+Text: I looked at the discussion and it is obvious that we are outnumbered by non-whites and race traitors and follow the other followers types .
+Annotation from annotator: 1
+
+Example 18:
+Text: How do I know if a child is a boy? Simple! He has a dick ... in his ass!
+Annotation from annotator: 2
+
+Example 19:
+Text: I'm not racist racism is a crime, and crime is for black people.
+Annotation from annotator: 2
+
+Example 20:
+Text: someone fucking bungee corded my locker shut???????????
+Annotation from annotator: 1
+
+Example 21:
+Text: I tell the baddest hoes beat it unless you gone strip &#128513;
+Annotation from annotator: 2
+
+Example 22:
+Text: Whereever I go I see Thai women pregnant and it pisses me off
+that pretty anyone can get laid and have children while I am subhuman an nobody wants me to touch me with a ten foot pole
+Annotation from annotator: 2
+
+Example 23:
+Text: You're a dumb asshole. @jamiecowan92 I'm no sexist btw cause I'd punch a woman to show that she's equal #equality
+Annotation from annotator: 2
+
+Example 24:
+Text: Do you think the President is practicing his first Amendment right to tweet?
+Annotation from annotator: 2
+
+Example 25:
+Text: If you wouldn't date Caitlyn Jenner you're volcel
+Annotation from annotator: 2
+
+Example 26:
+Text: Rate this Anti-Social Socially Anxious Hermit Loser with Long Hair (Pic)
+Annotation from annotator: 1
+
+Example 27:
+Text: What do you call a black man in New York? King Kong
+Annotation from annotator: 2
+
+Example 28:
+Text: Clowney is a bitch nigga get his ass off my team
+Annotation from annotator: 2
+
+Example 29:
+Text: I dont like black people Jk...
+
+
+
+
+
+
+
+they're not people
+Annotation from annotator: 2
+
+Example 30:
+Text: Everytime I go outside I wanna kill myself
+I feel so subhuman everytime I pass someone
+Annotation from annotator: 0
+
+Target Example:
+Text: Even when the rest of the world has daggers ready to strike at your heart , you still show them kindness ..
+Annotation from annotator:

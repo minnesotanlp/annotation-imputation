@@ -1,0 +1,82 @@
+Example 1:
+Text: Grr, I don't think my phone can handle Twitter.    Its an old Samsung flip phone, standard txt msg, no internet, dino-tech.  lol
+Annotation from annotator: 3
+
+Example 2:
+Text: I haven't used PS since high school (yup, FW guy!), so I opened it now and I feel like a 4 year old in a candy store. Where do I start?
+Annotation from annotator: 2
+
+Example 3:
+Text: I'm starting to wish i was older than what i am
+Annotation from annotator: 2
+
+Example 4:
+Text: Is happy to have got in contact with some old friends via facebook
+Annotation from annotator: 3
+
+Example 5:
+Text: Listening to the sounds of young girls waking the entire neighborhood with their lovely rendition of you've never heard this song before!
+Annotation from annotator: 1
+
+Example 6:
+Text: Love and prayers to David Cook and his family.  His older brother "Adam" lost his battle with Brain Cancer Sunday morning.
+Annotation from annotator: 3
+
+Example 7:
+Text: My Catholic faith dwindled as I grew younger and more disappointed that the Church did not take a stand on many human rights issues.
+Annotation from annotator: 3
+
+Example 8:
+Text: Now I kno why I don't go shoppin w/ my old man!! Phew! Peace @ last-he garden is callin me!! off to bbq later  hope y'all havin a nice day
+Annotation from annotator: 1
+
+Example 9:
+Text: Omg their younger brother is sucha hero!!!
+Annotation from annotator: 2
+
+Example 10:
+Text: One of boys (cats) is not feeling well. He's 15 years old. I hope he's going to be okay!
+Annotation from annotator: 3
+
+Example 11:
+Text: Out eating with old people instead of studying for sats
+Annotation from annotator: 3
+
+Example 12:
+Text: So dinner... decided not to pick up will have delivery. Trying new pizza place as our old one closed
+Annotation from annotator: 2
+
+Example 13:
+Text: Sooooooooooooooooooooo happy birthday to me! im the birthday princess...im old but  cuteeeeeeeeee
+Annotation from annotator: 3
+
+Example 14:
+Text: Today at work I had to serve a middle eastern family and they had a 3 or 4 year old little boy. He was so adorable.
+Annotation from annotator: 3
+
+Example 15:
+Text: Watching Bridge to Terabithia with the kids....amazing movie for young and old
+Annotation from annotator: 3
+
+Example 16:
+Text: crying (as alaways) while watching When You're Gone video. The old man...
+Annotation from annotator: 1
+
+Example 17:
+Text: exausted. maybe its the oldness setting in
+Annotation from annotator: 1
+
+Example 18:
+Text: garage sale tomorrow! in DIRE need to dispose old stuff.
+Annotation from annotator: 3
+
+Example 19:
+Text: just got out of the movie, going for ice cream  i feel like a five year old & i love it.
+Annotation from annotator: 3
+
+Example 20:
+Text: just woke up  wants to hang with tay but cant get a hold of her...the day is young tho
+Annotation from annotator: 3
+
+Text: I'm older than Ali Lohan, too!
+Annotation from annotator:

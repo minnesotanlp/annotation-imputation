@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It's rude to mislead people about your health.
+Annotation from annotator: 3
+
+Example 2:
+Text: You shouldn't be with someone who sleeps with your kids.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's good to recognize the problems with being attracted to someone much younger than you.
+Annotation from annotator: 2
+
+Example 4:
+Text: You should be understanding when your parents talk about their family heirlooms.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's normal to want to clear up space.
+Annotation from annotator: 2
+
+Example 6:
+Text: It's rude to support one person more than another.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's wrong to love people who are engaged.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's wrong to stalk people.
+Annotation from annotator: 4
+
+Example 9:
+Text: You should be grateful when someone does nice things for you.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's nice to worry about your parents.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's bad to hate your family.
+Annotation from annotator: 3
+
+Example 12:
+Text: You should feel remorse when you get someone fired.
+Annotation from annotator: 2
+
+Example 13:
+Text: It is okay to show emotions.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is normal to quit a job that is too difficult.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's inappropriate for a parent to help a teenage boy shower.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to be sick of life.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's bad to be only attracted to fictional characters.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's wrong to be jealous of your neighbors.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is good to be patient.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's good to want someone to do their best.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's wrong to have weird sexual fantasies.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's wrong for a person to cheat on their significant other.
+Annotation from annotator: 4
+
+Example 23:
+Text: Businesses should treat customers with courtesy if they expect them to return.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good for a mom to care about their children.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's okay to enjoy powdered milk.
+Annotation from annotator: 3
+
+Example 26:
+Text: Throwing unused cardboard in the garbage is wasteful.
+Annotation from annotator: 2
+
+Example 27:
+Text: People shouldn't betray the trust of those they're close to.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to want others to celebrate your joys with you.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to want to have the admiration of your peers.
+Annotation from annotator: 2
+
+Example 30:
+Text: You shouldn't be up and about if you're sick.
+Annotation from annotator: 2
+
+Human-Rated Examples:
+Example 1:
+Text: It's wrong to sleep around.
+Annotation from annotator: 2
+
+Example 2:
+Text: You shouldn't have sex with people if you have herpes.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's fun to go cart racing as long as you're careful.
+Annotation from annotator: 4
+
+Example 4:
+Text: If you don't want to crash, you shouldn't drive recklessly.
+Annotation from annotator: 3
+
+Example 5:
+Text: Adults are expected to bathe daily.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's expected that people who do illegal acts will have consequences.
+Annotation from annotator: 2
+
+Example 7:
+Text: You can't expect your team to always win their game.
+Annotation from annotator: 3
+
+Example 8:
+Text: It is dangerous for a doctor to misdiagnose a patient.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's not okay to be in a romantic relationship with a teacher.
+Annotation from annotator: 2
+
+Example 10:
+Text: You should be understanding of your family's decisions when they're weak.
+Annotation from annotator: 2
+
+Example 11:
+Text: Expect to go to jail if you break the law.
+Annotation from annotator: 3
+
+Example 12:
+Text: If someone forbids you from doing something, you should respect them.
+Annotation from annotator: 2
+
+Example 13:
+Text: You should always help out your customers when they have a problem.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's wrong to want to be a 50's housewife because women back then were oppressed.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's good to get a job after high school for a while to learn some responsibility.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to grow apart from your partner.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's not normal to dislike everybody
+Annotation from annotator: 2
+
+Example 18:
+Text: It is okay to know what you want from a partner.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's not okay to set yourself up where their could be an argument with friends.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 4
+
+Example 21:
+Text: It is good to have rules.
+Annotation from annotator: 3
+
+Example 22:
+Text: Friendships ought to be valued over material possessions.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's irresponsible to have a lot of dust in your home.
+Annotation from annotator: 3
+
+Example 24:
+Text: It is dangerous for a grandparent to risk a fall.
+Annotation from annotator: 3
+
+Example 25:
+Text: Before kicking someone out it is important to make sure your feelings will be permanent.
+Annotation from annotator: 2
+
+Example 26:
+Text: You should expect to get caught when you lie to people.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's rude for people to give you a fake name because they can't learn your real one.
+Annotation from annotator: 2
+
+Example 28:
+Text: It's normal for people to want their loved ones to be happy.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shoulld not worry about others being jealous when posting things on facebook.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's good for a parent to want their children to make the best decisions possible.
+Annotation from annotator: 3
+
+Target Example:
+Text: You can't expect people to always like a certain kind of music.
+Annotation from annotator:

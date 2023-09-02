@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It is good to discuss your problems with a close friend or family member.
+Annotation from annotator: 3
+
+Example 2:
+Text: You should never stop or harm something simply because of gender.
+Annotation from annotator: 3
+
+Example 3:
+Text: It is good to be efficient.
+Annotation from annotator: 3
+
+Example 4:
+Text: You should fire people who break the rules at work.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is good to come to conclusions.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's understandable to feel regret at the result of someone's death.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is wrong to betray your sibling.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's okay to uninvite someone from your wedding when you're fighting with them.
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't spend so much time on the phone.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's good to participate in sports at school.
+Annotation from annotator: 3
+
+Example 11:
+Text: It is okay to not want to hear foul language.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's fine to get into a relationship with someone you like.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's okay to want quiet sometimes
+Annotation from annotator: 3
+
+Example 14:
+Text: Sometimes people are not sure if they are doing things correctly
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to miss as few days of work as possible.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong not to follow people on Instagram if you like them.
+Annotation from annotator: 2
+
+Example 17:
+Text: You shouldn't scowl at people.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's understandable if you are happy when your stepmom still cares about you after having a new baby.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is reasonable to angry if someone tells you you are not welcome in their home.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is expected that good friends tell each other about developments in their lives.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should be supportive of someone who had a mastectomy.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's wrong to take unwarranted sick days.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's bad to hurt yourself when you're angry.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's good to be satisfied with your life.
+Annotation from annotator: 3
+
+Example 25:
+Text: You shouldn't lie to people about your true feelings.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is ok to cancel a party if you are sick.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't have an affair with someone who is married.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's good to change things in your life that you don't like.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to alert people ahead of time so they can get there soon enough to help.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's not okay to get involved with someone who you don't know about.
+Annotation from annotator: 3
+
+Human-Rated Examples:
+Example 1:
+Text: It's allowed for a homeowner to ask people in their house to leave, for any reason.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's detestable to deceive someone into thinking you're of a legal age to consent when that's not true.
+Annotation from annotator: 4
+
+Example 3:
+Text: It is good to turn someone down if they want to date and they are your best friends ex.
+Annotation from annotator: 2
+
+Example 4:
+Text: You shouldn't push your partner away from you.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is good to give up your own time for others.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's wrong to say things around kids that could influence them in a negative way.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is understandable to not want to plan more than one big event
+Annotation from annotator: 3
+
+Example 8:
+Text: It is wrong to be misleading.
+Annotation from annotator: 3
+
+Example 9:
+Text: You should lose weight if you're fat and unhealthy.
+Annotation from annotator: 3
+
+Example 10:
+Text: People should carry insurance in case they get into an accident.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's not okay to make people do things they might not want to do.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is not good to scare your friends
+Annotation from annotator: 3
+
+Example 13:
+Text: It is good to honor the sacrifices of others.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's expected you mind your business when others are doing things
+Annotation from annotator: 2
+
+Example 15:
+Text: It's OK to wear an original wedding dress.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's rude to let your subordinate take the blame for a mistake you made.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is wrong to think that some people are not meant to have a happy life.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is rude to get into other people's business
+Annotation from annotator: 3
+
+Example 19:
+Text: It is frustrating when you can't take back something you did.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's okay to be upset if someone you report to at work lets you take the blame for something you didn't do.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's okay to question your grandparents' judgement.
+Annotation from annotator: 3
+
+Example 22:
+Text: You should make time to do the things you really love.
+Annotation from annotator: 3
+
+Example 23:
+Text: If your friends are excluding you, it's okay to be angry.
+Annotation from annotator: 4
+
+Example 24:
+Text: You should always be there for your partner and never grow apart.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's rude to call other people dumb.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's okay to feel suspicious when you unsure of another's actions.
+Annotation from annotator: 4
+
+Example 27:
+Text: You shouldn't mess around with other people's stuff.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to have boundaries.
+Annotation from annotator: 3
+
+Example 29:
+Text: You should not judge others for their lack of knowledge.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's understandable to not be in the mood to go see a dance performance.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should appreciate your stepmother on Mother's Day.
+Annotation from annotator:

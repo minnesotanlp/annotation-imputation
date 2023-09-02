@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: There's a New Sheriff In Town and his name is; PRESIDENT DONALD J. TRUMP ! He was on POINT and on FIRE !  GOD BLESS PRESIDENT TRUMP ! #StopTheBias#MAGA#GabVets#GabFam
+Annotation from annotator: 0.0
+
+Example 2:
+Text: @TexasRancher45‍  
+Annotation from annotator: 0.0
+
+Example 3:
+Text: Rod Rosenstein’s wife is Clinton attorney
+Annotation from annotator: 0.0
+
+Example 4:
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Annotation from annotator: 0.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: There's a New Sheriff In Town and his name is; PRESIDENT DONALD J. TRUMP ! He was on POINT and on FIRE !  GOD BLESS PRESIDENT TRUMP ! #StopTheBias#MAGA#GabVets#GabFam
+Annotation from annotator: 0.0
+
+Example 2:
+Text: @TexasRancher45‍  
+Annotation from annotator: 0.0
+
+Example 3:
+Text: Rod Rosenstein’s wife is Clinton attorney
+Annotation from annotator: 0.0
+
+Example 4:
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Annotation from annotator: 0.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: There's a New Sheriff In Town and his name is; PRESIDENT DONALD J. TRUMP ! He was on POINT and on FIRE !  GOD BLESS PRESIDENT TRUMP ! #StopTheBias#MAGA#GabVets#GabFam
+Annotation from annotator: 0.0
+
+Example 2:
+Text: @TexasRancher45‍  
+Annotation from annotator: 0.0
+
+Example 3:
+Text: Rod Rosenstein’s wife is Clinton attorney
+Annotation from annotator: 0.0
+
+Example 4:
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Annotation from annotator: 0.0
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: Why does the J-Left media fail to show the mutilated faces of people suffering at the hands of the 3rd world invaders?  It's almost as if they know that doing so would cause people to conjure up these horrific images in their minds every time they heard of another girl murdered at the hands of invaders..  Almost as if the want to keep people ignorant of the threat.
+Annotation from annotator:

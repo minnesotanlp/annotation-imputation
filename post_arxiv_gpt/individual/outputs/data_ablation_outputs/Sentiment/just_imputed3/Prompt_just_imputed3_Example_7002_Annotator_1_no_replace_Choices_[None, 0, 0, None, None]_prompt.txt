@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I think i am in love all over again...w/ the Backstreet Boys and *Nsync...i love watching/listening to their old music!
+Annotation from annotator: 3
+
+Example 2:
+Text: @emilyryandavis People smirked @ my trusty old guy. I love him, but his buttons are dying  Plus, the bulk when traveling SUCKS
+Annotation from annotator: 2
+
+Example 3:
+Text: dude, LUKE is married. Faithfully and happily married. To a very smart young lady. Business major, too  wonder if she's in D-Pi?
+Annotation from annotator: 3
+
+Example 4:
+Text: off to spend my morning with 5 year olds...my favorite is the tiny one with the big brown eyes
+Annotation from annotator: 4
+
+Example 5:
+Text: @CosmicMother Ah Russ!  Listening & Loving it! Wish I could go back to those days, love the oldie films & songs! 2 do - Build Time Machine
+Annotation from annotator: 3
+
+Example 6:
+Text: @JGunds I really, really want to! But I already made plans to see some old friends tonight. I can't believe I'm going to miss out on 3eb
+Annotation from annotator: 3
+
+Example 7:
+Text: @theonlyshannon thanks - you too.  we're off to flag football with my six year old already.  it never ends around here!
+Annotation from annotator: 4
+
+Example 8:
+Text: http://twitpic.com/6geas - At old town with my peabody!
+Annotation from annotator: 3
+
+Example 9:
+Text: doing a little old othing. Going to bed fresh and clean ...my day starts late tomorrow
+Annotation from annotator: 3
+
+Example 10:
+Text: Great day seeing old friends and catching up
+Annotation from annotator: 4
+
+Example 11:
+Text: No one wants to hang out with an old lady
+Annotation from annotator: 0
+
+Example 12:
+Text: @einsteinboi - thanks! We feel so old
+Annotation from annotator: 2
+
+Example 13:
+Text: fuck being sick...can't even give her a kiss goodbye, and not to mention i feel like an old man
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished balling wit some kids from around my block. I'm officially old lol. SB: someone entertain me - my bff is out of town
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/5ofz5 - children playing 'round the old fountain.
+Annotation from annotator: 4
+
+Example 16:
+Text: about to have dinner for my best friends 20th! she is getting old... happy birthday kate!
+Annotation from annotator: 3
+
+Example 17:
+Text: @Lunie380   @MzKiana it's awesome to see a young married couple with children sold out to Jesus(& enjoying life). Y'all be encouraged
+Annotation from annotator: 2
+
+Example 18:
+Text: @rereality Of course I remember..and as you can tell, my old ways have not subsided! Lol. Have fun drinking! I'll be working
+Annotation from annotator: 3
+
+Example 19:
+Text: Rearranged pretty much the whole house yesterday and now my whole body is sore... Sign of getting old
+Annotation from annotator: 1
+
+Example 20:
+Text: miss my old days when i'm in 2nd grade
+Annotation from annotator: 3
+
+Example 21:
+Text: Wearing my old Cheshire Cat pajama's, and they're a lot tighter on me than they were a few years ago.
+Annotation from annotator: 1
+
+Example 22:
+Text: don't ask my why i have a new account...it's cuz twitter is LAME and my old one got deleted somehow.  wah wah wah
+Annotation from annotator: 2
+
+Example 23:
+Text: @Bearsuitband Saw that yesterday; it's my old Uni and I can't make it  Have a good gig!
+Annotation from annotator: 2
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of an 75 year old!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to hearing how u host a 5oth & 2nd year old party in the same day  u r good! @TammyBurnell enjoy the moments
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to remember the lyrics of a song with the world cinderella... i know is a old song, light rock, but arghh can't remember
+Annotation from annotator: 3
+
+Example 27:
+Text: so excited to catch up with some old friends tonight!  haven't seen them in a while
+Annotation from annotator: 4
+
+Example 28:
+Text: im currently LOVING my job  become waitresses people & you get to have old guys hitting on you ;) woooo!
+Annotation from annotator: 2
+
+Example 29:
+Text: @tehlinker it was tough being younger than you for sooo long... thanks for the bday wishes!
+Annotation from annotator: 3
+
+Example 30:
+Text: @helpmefred one of our favorite places Chris and I went to the old Founders Plaza on our first date! Mavis likes it too
+Annotation from annotator: 3
+
+Target Example:
+Text: Green Day look so old
+Annotation from annotator:

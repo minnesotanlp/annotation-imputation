@@ -1,0 +1,122 @@
+Example 1:
+Text: @folk Of course I will post to @Oblivia 's site if it is suitably Goog-free and not based on the filthy irrefutable self incrimination of the blockchain.
+Annotation from annotator: 1
+
+Example 2:
+Text: Peace isn’t free, it will cost the corrupt everything.
+Annotation from annotator: 0
+
+Example 3:
+Text: Next video for the week will be ready later tonight. I've also expanded it to cover some extra news. #TheRedExpress
+Annotation from annotator: 0
+
+Example 4:
+Text: LOL... for reals.  FUUUCKKK the ocean.I know what lives down there.
+Annotation from annotator: 1
+
+Example 5:
+Text: Always happens when you beat a leftist, always.
+Annotation from annotator: 0
+
+Example 6:
+Text: 28 COPS (entire department) arrested for the assassination of a candidate for Mayor in Mexico!! CRAZY!  https://mexiconewsdaily.com/news/30-cops-detained-...
+Annotation from annotator: 1
+
+Example 7:
+Text: #UKNews 😲THREE YEAR OLD child is victim of FGM in UK 😡😡😡 Ghana/Uganda parents in East London accused of FGM plus 10 counts of indecent image allegations. Sick fecks!!!!!!!  They plead NOT guilty.. #TheRope! #KidsLivesMatter #BritFam
+Annotation from annotator: 1
+
+Example 8:
+Text: #Archillect
+Annotation from annotator: 0
+
+Example 9:
+Text: John Kerry couldn't take out W in the 2004 Presidential election, so how in the hell does he plan to defeat the most popular Republican President in history?Hope he runs.  It would be an easy victory.https://www.cbsnews.com/news/john-kerry-wont-rule-...
+Annotation from annotator: 0
+
+Example 10:
+Text: Starving journalists make me nut
+Annotation from annotator: 1
+
+Example 11:
+Text: you do you
+Annotation from annotator: 0
+
+Example 12:
+Text: Now the internet is just another tool for crooks and nobody's really having any fun.
+Annotation from annotator: 1
+
+Example 13:
+Text: Soaking in the morning sun 🌞  #SummerSolstice #Litha #EarthGrounding #barefoot
+Annotation from annotator: 0
+
+Example 14:
+Text: Out today. https://circumcisionmovie.com/
+Annotation from annotator: 0
+
+Example 15:
+Text: The purity spiral has a light side, the purification apotheosis. If you can just hate enough you might catch a glimpse of it.
+Annotation from annotator: 1
+
+Example 16:
+Text: My favorite part of this was when Goad said it's not gay if you're on top. But I sorta lost interest and now I'm watching a Spyro 3 review.
+Annotation from annotator: 0
+
+Example 17:
+Text: This tribalism is the problem with libertarianism – if you allow liberty, people will use it to synthesize smaller ingroups within the larger group in order to dominate the detribalized majority. - Jim
+Annotation from annotator: 0
+
+Example 18:
+Text: 'First Man' is a liberal's wet dream. So pretty much a fantasy fiction movie. I'll pass.
+Annotation from annotator: 1
+
+Example 19:
+Text: All my followers are like 40 and don't need advice but If you're this ripped, don't flex on bitches. You have to moderate the aggression.
+Annotation from annotator: 1
+
+Example 20:
+Text: And when people give me shit for being on Gab, like 'OMG there are so many racists there', I'm like, yeah, and there aren't a shit ton on Twitter?  At least on Gab I'm in charge of my own feed by my own rules, not some bullshit shadow algorithm.  I censor what I cannot brook.  That's my choice, not Jacks. https://gab.ai/a/posts/15062088
+Annotation from annotator: 0
+
+Example 21:
+Text: Noah's diary : day 43. Wooly mammoth soup is fucking delicious.
+Annotation from annotator: 0
+
+Example 22:
+Text: Am I the only one who feels that games made by SJWs tend to have very little actual gameplay like with a visual novel? I'm not ragging on visual novels or anything (love nekopara) but it's just something I noticed.
+Annotation from annotator: 0
+
+Example 23:
+Text: @alternative_right   Are you guys gonna gas me because of my Scottish roots?
+Annotation from annotator: 1
+
+Example 24:
+Text: 1)   TY for any notifications, I'm so sorry I can't respond politely at the moment 2) I'm leaving in less than 3 days to spend 2 months about 1 hour from my niece EEEEEEE 3) That's so many numbers, ew math 4) I do still love the #gabfam and I'm not gone, just, STUPID busy.  Should have peace and 'vacation' soon, to come derp at you all.  :  )  5) Never give up, never surrender!
+Annotation from annotator: 0
+
+Example 25:
+Text: Last chance to get Stories in the Stars at reduced price. Read more here: https://anniedieuleveut.com/2018/08/31/last-chance...
+Annotation from annotator: 0
+
+Example 26:
+Text: get opera  speed dial and capture vpn https://www.opera.com/download
+Annotation from annotator: 0
+
+Example 27:
+Text: Fight me, communists.
+Annotation from annotator: 1
+
+Example 28:
+Text: So David Brock's shitposters are back?I haven't noticed.
+Annotation from annotator: 0
+
+Example 29:
+Text: Well... fuck you too Spotify. A disgusting picture designed to humiliate the White people of Australia...
+Annotation from annotator: 1
+
+Example 30:
+Text: Today's outdoor Psychic Fair cancelled due to unpredicted rain
+Annotation from annotator: 1
+
+Text: @support tried uploading multiple trailers for my film but they haven't listed. You know what the issue might be?
+Annotation from annotator:

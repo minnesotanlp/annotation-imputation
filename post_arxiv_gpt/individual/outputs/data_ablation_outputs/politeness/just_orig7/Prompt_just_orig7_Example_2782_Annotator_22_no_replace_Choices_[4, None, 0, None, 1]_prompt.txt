@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Excellent, thanks! I wonder if it's worth temporarily uploading a cropped image for the main page, as 100x100 is really very small?
+Annotation from annotator: 22
+
+Example 2:
+Text: Your recent post to the straw poll at <url> may need some clarification. Did you intend "support going to Arbcomm" to be a vote for the "Death" entry?
+Annotation from annotator: 18
+
+Example 3:
+Text: What would the recommended sequencing be, then?... GAR, then FAR?
+Annotation from annotator: 19
+
+Example 4:
+Text: I've read everything again, and I still think it's the right decision. What I'm confused about is if you claim that <url> does not care about capitalisation, how do you explain <url>, <url> and <url> (examples given on the talk page)?
+Annotation from annotator: 16
+
+Example 5:
+Text: Are you kidding me? Do you even bother to click on <url> to see its fleet?
+Annotation from annotator: 4
+
+Example 6:
+Text: No worries, thanks for doing that. Nice to hear from you again - new username for 2013?
+Annotation from annotator: 24
+
+Example 7:
+Text: Meh - perhaps not, and they will most likely be closed as renames, but I figured another week to allow anyone who wants to to comment wouldn't hurt anything since you as the nominator were the only one who had commented so far. Is there something I missed, or a hurry to get these quickly renamed?
+Annotation from annotator: 13
+
+Example 8:
+Text: Don't add any more trash to the article. Got it?
+Annotation from annotator: 1
+
+Example 9:
+Text: Although Singapore does not use Traditional Chinese, I still think we should at least add Traditional Chinese titles for shows not made by Mediacorp, and bought from overseas (mainly Hong Kong) TV stations. What do you think?
+Annotation from annotator: 22
+
+Example 10:
+Text: I don't like the idea of switching the order halfway through, especially as you would you have to decide an arbitrary cut-off point. Perhaps you should raise this on <url>, and see what people think?
+Annotation from annotator: 16
+
+Example 11:
+Text: Hi GW.. I was a bit bored today, so I made this: <url>.. What do you think so far?
+Annotation from annotator: 20
+
+Example 12:
+Text: Is this really notable?  Time for an AfD nom?
+Annotation from annotator: 8
+
+Example 13:
+Text: I see a "remove protection" tab on the <url>, which tells an admin that the article is protected.  Are you still able to edit it?
+Annotation from annotator: 21
+
+Example 14:
+Text: I did not have intention to put the username signature into any article. Where did you find it?
+Annotation from annotator: 19
+
+Example 15:
+Text: why can't you use corporate authorship? if Deutsche Bank can claim ownership of those emails can't Charter 97 claim ownership of the picture?
+Annotation from annotator: 14
+
+Example 16:
+Text: So you deny you did anything wrong Jason?  And we're all Nazi's persecuting you, Itake and Uncle Davey?
+Annotation from annotator: 0
+
+Example 17:
+Text: If it works consistently, a printonly abbreviation would make sense. But how many editors would actually see that form to catch problems should they arise?
+Annotation from annotator: 17
+
+Example 18:
+Text: Another admin has already deleted the article. Do you need me to restore it for you?
+Annotation from annotator: 18
+
+Example 19:
+Text: That "guest" could have been an undercover Colbert staff member and the whole segment could have been staged. Otherwise, why would Colbert have taken 3 minutes out of his show to talk to someone in the audience?
+Annotation from annotator: 4
+
+Example 20:
+Text: Hi, I have opened a discussion at <url>. Perhaps you would like to contribute?
+Annotation from annotator: 20
+
+Example 21:
+Text: Whatever works. I trust that you'll do what ya gotta do, right?
+Annotation from annotator: 24
+
+Example 22:
+Text: An issue has been raised at <url> about this article, which you created. Maybe you can clear up the confusion?
+Annotation from annotator: 20
+
+Example 23:
+Text: Hi there, I've found some peer-reviewed publications that discuss Hoser's work. Could you take another look at the article and the AfD discussion?
+Annotation from annotator: 24
+
+Example 24:
+Text: I thought I had explained it pretty clearly.  What part did you disagree with?
+Annotation from annotator: 13
+
+Example 25:
+Text: I need to read more about what exactly a pastoral opera is supposed to be. Perhaps it should be a supercategory?
+Annotation from annotator: 18
+
+Example 26:
+Text: I'm not sure what you mean by the old factory farming discussion. Is something missing?
+Annotation from annotator: 19
+
+Example 27:
+Text: Thanks for the help! That info should be on <url> in easy to read form, no?
+Annotation from annotator: 24
+
+Example 28:
+Text: I apologize if I have misunderstood.  Are you not an acknowledged devotee of Prem Rawat?
+Annotation from annotator: 24
+
+Example 29:
+Text: I removed the hyphen from "oldest-known", which is hard to see if you aren't looking for it. Does that answer the question?
+Annotation from annotator: 19
+
+Example 30:
+Text: I don't think it is too unreasonable to archive messages you have read by deleting them - they are still available in the page history. Is there a policy guideline that they should be archived, and not deleted?
+Annotation from annotator: 19
+
+Target Example:
+Text: Leon Liebgold played a rabbi. Was he a rabbi?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

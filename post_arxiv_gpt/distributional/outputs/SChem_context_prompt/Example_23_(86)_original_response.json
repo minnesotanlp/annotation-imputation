@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVmxFUKoyjmCuvqVxkbRgTr0VBNg",
+    "object": "chat.completion",
+    "created": 1686314751,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 550,
+        "completion_tokens": 160,
+        "total_tokens": 710
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "5.00% of responsive annotators labeled the text with 0\n10.00% of responsive annotators labeled the text with 1\n40.00% of responsive annotators labeled the text with 2\n40.00% of responsive annotators labeled the text with 3\n5.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels provided, it seems that the statement \"You should not emotionally abandon your partner\" is somewhat controversial, with 40% of the raters labeling it as such. However, a majority of the raters (40%) also labeled it as a common belief, indicating that it is likely a widely held belief. Therefore, my prediction for the soft label of this text would be 3 (common)."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

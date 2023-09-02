@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Hi Fropuff. How do you convert your commutative diagrams from LaTeX to PNG?
+Annotation from annotator: 14
+
+Example 2:
+Text: When you deleted <url> did you accidentally overlook the <person> template? Or do you have some reason for ignoring it?
+Annotation from annotator: 8
+
+Example 3:
+Text: The problem remains that I don't know where to turn to educate myself further on the matter. For instance, where would I find the Tao-Green paper you mention in the article?
+Annotation from annotator: 15
+
+Example 4:
+Text: Thread about him on Pie & Bovril again, along with the idiocy that accompanies such. I see you semiprotected this before: fancy doing it again?
+Annotation from annotator: 3
+
+Example 5:
+Text: Do you by any chance happen to have the old legs (such as in the figures shown <url>) that go with the old armless torso? If so, would it be possible for you could take a picture of a minifig with that, the old torso and preferably a non-printed head?
+Annotation from annotator: 21
+
+Example 6:
+Text: You appear to have created a duplicate of <person> at <person>. Is there any particular reason for this?
+Annotation from annotator: 14
+
+Example 7:
+Text: I am not equally confident about this pinning one: <person>. Hector again?
+Annotation from annotator: 8
+
+Example 8:
+Text: I wonder if it would ever be worth doing an article on G&S scholarship? You know, cover the major discoveries, describe the evolution of the field... or is that too likely to hit problems?
+Annotation from annotator: 20
+
+Example 9:
+Text: Hi, do you have a nationality for ''Belpamela''? If so, would you add the relevant flag?
+Annotation from annotator: 16
+
+Example 10:
+Text: There's a nice section on funerals <url> but I'm not given a look at the contributors' page (p. 673) to see who J.B. is. Any chance your access is different?
+Annotation from annotator: 13
+
+Example 11:
+Text: Hi.  Not complaining, but why did you remove the category "high schools in california" from this article?
+Annotation from annotator: 7
+
+Example 12:
+Text: I noticed you've been adding the template <person> to pages - I'm sure there's a good reason but I'm totally puzzled as to why. Can you explain what it does?
+Annotation from annotator: 16
+
+Example 13:
+Text: Hi.  I'm not disputing your reversion of my edit, but would you please point to any other article that has a reading list that is 100% from a single author?
+Annotation from annotator: 6
+
+Example 14:
+Text: I never saw his press conference. Is there a clip of it online?
+Annotation from annotator: 12
+
+Example 15:
+Text: I note that you have redirected the latter article (3,500+ characters, edit history back to Nov 2008, half a dozen references) to the former (650 characters, created today - by you, one reference). Is there a discussion/consensus for that move, and are you going to be incorporating much of the redirected articles content into the current one?
+Annotation from annotator: 13
+
+Example 16:
+Text: Hi, I'd like to help you with the image you just uploaded to the <url> article.  Can you tell me where you found it?
+Annotation from annotator: 17
+
+Example 17:
+Text: I assume the citation you added recently to <url> was from a website. Can you add the URL, publication date, and access date?
+Annotation from annotator: 9
+
+Example 18:
+Text: I removed most of the boldface lettering from the article. And what do you mean by "the referencing is insuficcient"?
+Annotation from annotator: 4
+
+Example 19:
+Text: Thank you for removing the "Speedy Deletion" from my post. I realise that I still need to do more work on the post itself, but are the sources that I am using acceptable?
+Annotation from annotator: 20
+
+Example 20:
+Text: <url> wasn't me. Could you possibly go back and correct the AN/I thread?
+Annotation from annotator: 14
+
+Example 21:
+Text: I see that KarBot is editing User Talk Pages.  Is this deliberate?
+Annotation from annotator: 8
+
+Example 22:
+Text: I'm confused by <url>. Why French?
+Annotation from annotator: 11
+
+Example 23:
+Text: I read his note, and you should know that as I responded to it and then you responded to me. So where did the doubt come in regarding that matter?
+Annotation from annotator: 9
+
+Example 24:
+Text: Whoever's using the account has requested unblock again and seems penitent. Any comments?
+Annotation from annotator: 14
+
+Example 25:
+Text: <url> posted a wonderful grammatical analysis of the "has/had" thing, another editor agreed, so I'm thinking we should make another request for the change, using Bluewave's post as the basis.  What do you think?
+Annotation from annotator: 17
+
+Example 26:
+Text: Another thing, I been working on trying to improve the SVG graphics at the Commons. Except for the white color background, does everything else at <url> look decent?
+Annotation from annotator: 15
+
+Example 27:
+Text: I am stuck with the formatting of <url>, especially the ref tags. How can I make the different chapters of my main source book show up correctly?
+Annotation from annotator: 10
+
+Example 28:
+Text: I did notice that some articles linked to the ones I worked on are now missing, which leaves a link hanging.  If you're going to delete articles, shouldn't someone clean up these broken links?
+Annotation from annotator: 6
+
+Example 29:
+Text: What is unreliable about the newspaper article reports about the protests in Meliti, Lofi, etc? Are you alleging that the protests against the Greek military did not occur?
+Annotation from annotator: 6
+
+Example 30:
+Text: In <url> you said that Fischer recommended a line in ''My 60 Memorable Games''.  Where is that in the book?
+Annotation from annotator: 12
+
+Human-Rated Examples:
+Example 1:
+Text: I'm in Outer Mongolia from the 27th till the 10th, UB, Hovsgol, UB. Maybe we can meet?
+Annotation from annotator: 15
+
+Example 2:
+Text: I guess there's a connection to <url> too. Do you think that's cu worthy?
+Annotation from annotator: 12
+
+Example 3:
+Text: I have listened to the beginning for your recording of Thomas Jefferson and nothing is mentioned that Thomas Jefferson owned slaves or Thomas Jefferson and Sally Hemings. Why?
+Annotation from annotator: 4
+
+Example 4:
+Text: #I am still convinced the long page on "prostatitis" (a misnomer in the case of CPPS) is confusing, with too many sections and subsections, and would benefit from restructuring and the creation of separate pages for each area, or at the very least the removal of the CPPS section to its own, in depth page. You were the only editor to object to this going ahead, with this comment: "So, suggest keep this on hold for now, but in principle one might similarly split off other classification categories with this then just umbrella simple introduction." Do you still hold this view?
+Annotation from annotator: 9
+
+Example 5:
+Text: You're mentioned <url>.  What do we know about these images?
+Annotation from annotator: 12
+
+Example 6:
+Text: Greetings, the Province of Alberta, through legislation, has designated a future highway that has an alignment and an assigned number, but has yet to be constructed. Is it premature to create an article on such a highway?
+Annotation from annotator: 17
+
+Example 7:
+Text: Hi, you recently speedily deleted this image and in your explanation stated that I, the uploader, was informed of this. I was not - please could you tell me why not?
+Annotation from annotator: 20
+
+Example 8:
+Text: You've contributed a lot to Puget Sound area articles.  Would you be willing to take a look at the debate I'm having at <url> and do whatever you think is best?
+Annotation from annotator: 20
+
+Example 9:
+Text: Hi, Thank you for closing <url> as "delete", but much of the material immediately re-appeared at <url> (see <url>) so the questionable content hasn't been deleted at all. Can we do something about this?
+Annotation from annotator: 16
+
+Example 10:
+Text: Come on Mohrflies, I donxb4t understand why you insist in these edits: <url>? Why "Yugoslav" when absolutely no one uses it?
+Annotation from annotator: 2
+
+Example 11:
+Text: Thanks for adding the WSL windmill picture. I see you are in Belgium, any chance of adding more pictures to the various lists?
+Annotation from annotator: 18
+
+Example 12:
+Text: What do you mean they are not related to the scope of <url>? Like which articles?
+Annotation from annotator: 5
+
+Example 13:
+Text: ...just vandalized my page again. What level warning is appropriate?
+Annotation from annotator: 8
+
+Example 14:
+Text: Hi, I've added a question to your RfA. Also, could you elaborate on how you will ''prevent'' vandalism?
+Annotation from annotator: 15
+
+Example 15:
+Text: Hello, sorry I probably should have asked first, but I thought it might be a good idea to nominate one of the images you uploaded, <url>, for featured picture. I hope you don't mind me taking the liberty, as it were?
+Annotation from annotator: 21
+
+Example 16:
+Text: I have a question for an audio editing expert.  Do you personally know a lot about the science of waves, or do you just deal with the program Audacity?
+Annotation from annotator: 11
+
+Example 17:
+Text: The text of your warning <url> made me smile. Did you really think that if China got a new Prime Minister as of today, and a female one at that, it wouldn't be all over the news, and the link to this person would be red?
+Annotation from annotator: 3
+
+Example 18:
+Text: I was discussing this with Ling.Nut, since I've seen them around before.  What do you think of a founding member userbox for yourself, me and Ling?
+Annotation from annotator: 15
+
+Example 19:
+Text: As for <url> and your note u201cSo there are certainly good strong sources for that usage, although I have not the slightest doubt that you can also find some utterly-respectable sources that use "attorney generals.", the explanation might be that the persons in question are semantically not attorneys but generals designates (attorney generals). Any further thought?
+Annotation from annotator: 13
+
+Example 20:
+Text: Converting <url> to a redirect without preserving either the information or sources, & without discussion was ill-advised. A bit more care in future?
+Annotation from annotator: 6
+
+Example 21:
+Text: You seem to have an agenda of denying that some of the ancients were pedophiles. Why?
+Annotation from annotator: 1
+
+Example 22:
+Text: Hi, you recently edited that the Independence Hall was once the tallest building in Philadelphia on the <url> article.  Do you have any source that supports this?
+Annotation from annotator: 12
+
+Example 23:
+Text: <url>. So, when people click <url>, where do they expect to be taken?
+Annotation from annotator: 12
+
+Example 24:
+Text: Restored history. Can check that I did it all ok?
+Annotation from annotator: 14
+
+Example 25:
+Text: On another note, I'm going to assume that you were the one who also added ridership data for various LIRR stations, am I correct? If so, could you kindly point me towards your source?
+Annotation from annotator: 11
+
+Example 26:
+Text: May I suggest you actually read the article before claiming it not to be nonsense and removing my CSD tag?  Are you an admin?
+Annotation from annotator: 2
+
+Example 27:
+Text: Because I haven't seen it; I'm not even sure from the discussion whether it's on or off Wikipedia. Can you supply a link or a reference?
+Annotation from annotator: 11
+
+Example 28:
+Text: Just had a look at <url>, and oh dear god. Any interest?
+Annotation from annotator: 14
+
+Example 29:
+Text: Are the Maroon Berets the four Army commando brigades? If they're not part of the army, which service are they part of?
+Annotation from annotator: 12
+
+Example 30:
+Text: (according to my talk page) that we are going to loose the image of <url> that I just added over a copyright issue.  I have not had luck finding a free one, perhaps you can do better?
+Annotation from annotator: 16
+
+Target Example:
+Text: Huaiwei,  there is this guy HkCaGu who insist that we shouldnt put Tianjin as one of Xiamen Airline's destination from Singapore just because it passes by Xiamen(MF's HUB) however, this is a direct flight from singapore to tianjin via xiamen. what are your views?
+Annotation from annotator:

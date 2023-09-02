@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: @BindiLoves I was also up at the crack of sparrows this morning - my 7 year old is responsible for that - still, mornings *are* nice
+Annotation from annotator: 4
+
+Example 2:
+Text: @luche21 2 year old block? Could she have been exposed to it?
+Annotation from annotator: 2
+
+Example 3:
+Text: N da iis  cuz iii dont talk 2 hoy lyk the old dayz
+Annotation from annotator: 2
+
+Example 4:
+Text: Just been invited to a old friends 25th wedding anniversary party how gutted am i that im in Greece that week
+Annotation from annotator: 0
+
+Example 5:
+Text: and then the remake of it to come out!? WTF I am not THAT old am I???? It makes me feel really old?!
+Annotation from annotator: 1
+
+Example 6:
+Text: @blackflipflops yes I am number one! Woohoo to bad I'm not even old enough to go watch!
+Annotation from annotator: 2
+
+Example 7:
+Text: such a terrible backache today..  i'm feeling so old and i'm not even 16 yet! lol
+Annotation from annotator: 0
+
+Example 8:
+Text: @hugith I was encouraged by an old EOFer (whom I respect greatly) that I should dump EOF and go with Hibernate...I just couldn't do it.
+Annotation from annotator: 2
+
+Example 9:
+Text: Spent time today presenting about Twitter and Education 2.0 to 60+ year olds! Was fun
+Annotation from annotator: 3
+
+Example 10:
+Text: @susancarlow Oh poor kitty  I hope he/she is old enough so that they've had a good life so far. So hard when pets get sick.
+Annotation from annotator: 0
+
+Example 11:
+Text: Wow this old lady is lecturing Allison and I about our tattoos and telling us were going to hell haha wow people need to grow up
+Annotation from annotator: 0
+
+Example 12:
+Text: @rachelm That joke never gets old.
+Annotation from annotator: 2
+
+Example 13:
+Text: @ali1733 awwww. Well maybe since you talked about it now its ruined!  come to belmont. You're not too old! You're 26!!! Its june 17th
+Annotation from annotator: 1
+
+Example 14:
+Text: Poor @dcockayne is having little fun wrangling contacts from old phone to new
+Annotation from annotator: 3
+
+Example 15:
+Text: @ddlovato omgosh Demi wish I was comin to your show, but I'm stuck in boring rainy old england. Not good.  Please reply to me tho, tweet?
+Annotation from annotator: 1
+
+Example 16:
+Text: I'm getting older. I've been breaking out in pimples the last few days  I've never had acne problems in my life.
+Annotation from annotator: 1
+
+Example 17:
+Text: @FM_Junkie my lil head hurts    i'm gettin old and can't hang anymore
+Annotation from annotator: 1
+
+Example 18:
+Text: @Starke1973 not sure your head as ever made any sense my old freind
+Annotation from annotator: 3
+
+Example 19:
+Text: @OHMYDAYSitsHayz  but it never gets old.
+Annotation from annotator: 3
+
+Example 20:
+Text: @putoutthemoon haha, you're cute! i'm so oldschool i don't even have an ipod.
+Annotation from annotator: 1
+
+Example 21:
+Text: @Choklate u should have done your cover like that old janet jackson album
+Annotation from annotator: 1
+
+Example 22:
+Text: @Hip_M0M I am glad it helps you to talk about it.    I lost a baby at 14 weeks between my son and my youngest daughter.  I still remember.
+Annotation from annotator: 0
+
+Example 23:
+Text: @AnnaKristiiina i can't stand that old movies coz i hate the old-fashioned clothes and hairstyles n make-up  haha. i'm stupid, i know!
+Annotation from annotator: 0
+
+Example 24:
+Text: In 1965, there were approximately 18 million people age 65 and younger in the United States.
+Annotation from annotator: 2
+
+Example 25:
+Text: @mrgrtbarr in that situation..don't you wish you could revert to the old version??!!
+Annotation from annotator: 1
+
+Example 26:
+Text: Getting back on the horse after falling off. Just looked at 2 week old  puppies with staci. I think I found one
+Annotation from annotator: 3
+
+Example 27:
+Text: @MandyPandy32  awww for me I just think she's tooo young or just not ready for it - tis painful to watch her so upset
+Annotation from annotator: 1
+
+Example 28:
+Text: Not much cuter than your 18 month old in her footie PJs, pigtails, and her finger up her nose. I love that girl
+Annotation from annotator: 2
+
+Example 29:
+Text: @emoprinxexa Oh so new trend, new life there.  Here? Oh y'know same old junk. lol Evryone so excited for Pacquaio's fight later.
+Annotation from annotator: 3
+
+Example 30:
+Text: @solangeknowles Hey Solo, new to Twitter. Um, yeah that did sound kinda sarcastic, but I don't blame you. BET= eh. I miss the old BET
+Annotation from annotator: 1
+
+Target Example:
+Text: I feel old  not yet graduated....
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

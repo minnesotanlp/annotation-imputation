@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: If Doxiedana comes back to Wikipedia and asks me to restore her userpage, I will consider it. Are you claiming Doxiedana as your alternate account?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: Hello. Regarding <url>, could you tell me what supports this being a free image?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: The text of your warning <url> made me smile. Did you really think that if China got a new Prime Minister as of today, and a female one at that, it wouldn't be all over the news, and the link to this person would be red?
+Annotation from annotator: 4.0
+
+Example 4:
+Text: -- Bit confused by your DYK nom.  Surely the world's first gasoline automobile was created by <url> four years earlier?
+Annotation from annotator: 8.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: I'm disappointed that your first response here was to revert me without discussion, and to assert a consensus that was not apparent.  Before you choose to revert me again, can you ''please'' participate in the discussion at WT:RD?
+Annotation from annotator: 4.0
+
+Example 2:
+Text: Ping. Are you providing the missing sources or removing the unsourced material, so I can make it pass GA?
+Annotation from annotator: 20.0
+
+Example 3:
+Text: What the hell? Bitter much?
+Annotation from annotator: 0.0
+
+Example 4:
+Text: Is this really notable?  Time for an AfD nom?
+Annotation from annotator: 12.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Its been over a week now and I see you still haven't passed or failed the article. Made a  decision?
+Annotation from annotator: 11.0
+
+Example 2:
+Text: What are the numbers <url>? Are they population figures?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: I would like to nominate you so that you could become an administrator. Would you accept or not?
+Annotation from annotator: 20.0
+
+Example 4:
+Text: I don't see that it is necessarily bigoted to dislike certain forms of behaviour - after all, there is a group of people who practice racist behaviour. Is it bigoted to dislike them?
+Annotation from annotator: 13.0
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: Are the remaining IPs on <url> still a problem? If so is Tom dealing with it?
+Annotation from annotator:

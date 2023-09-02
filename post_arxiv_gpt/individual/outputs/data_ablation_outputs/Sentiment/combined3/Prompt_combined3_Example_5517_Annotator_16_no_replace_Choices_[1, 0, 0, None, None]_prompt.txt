@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: I think it would be funny to send my payment of $250 as loose change instead of a boring old check. Gosh, I'm bitter!
+Annotation from annotator: 1
+
+Example 2:
+Text: @emmyvictoria not THAT old!  have you had a good stay in England? What time you going back?
+Annotation from annotator: 3
+
+Example 3:
+Text: eatin string cheese  feel like ima twelve yr old. !! lmaaao
+Annotation from annotator: 2
+
+Example 4:
+Text: off to lunch with an old friend
+Annotation from annotator: 3
+
+Example 5:
+Text: @CourtKP they arrived last weekend...but maybe not with all their stuff, I do think they have a youngn
+Annotation from annotator: 2
+
+Example 6:
+Text: @JULIE_MOORE Glad to hear feeling better. Mine now sometimes last 2 days.  one of the negatives of getting older.
+Annotation from annotator: 2
+
+Example 7:
+Text: @therealdjjelly has no dunk ryders, young cash, or bizzle...  ...atleast hes taking it back, not all futuristic.
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6plus - i got dave a new bonsai... his old one died last year  so this is steve jr. (dave named his bonsai steve... ...
+Annotation from annotator: 1
+
+Example 9:
+Text: don't you just hate these old drivers on the road that cause accidents...Rubens  #F1
+Annotation from annotator: 1
+
+Example 10:
+Text: Great show by the @petshopboys tonight saw them 20yrs ago more or less exactly for 1st time which makes me feel quite old
+Annotation from annotator: 2
+
+Example 11:
+Text: Nooooo, tech support from @SonyPlaystation finally helped merge my old GAP account with my new PSN one.. Uncharted 2 beta invite expired.
+Annotation from annotator: 2
+
+Example 12:
+Text: @elephantshoes75 u have a daughter!! thats very nice  how old is she?
+Annotation from annotator: 2
+
+Example 13:
+Text: garage sale tomorrow! in DIRE need to dispose old stuff.
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished watching Wally with my old man.   Very cute!
+Annotation from annotator: 3
+
+Example 15:
+Text: http://twitpic.com/680to - I also layed in her older sister's room & pet their cat, Baxter.
+Annotation from annotator: 2
+
+Example 16:
+Text: add me and myspace and check out my artwork pwease    ..... about to update old a@@ twitter default pic
+Annotation from annotator: 2
+
+Example 17:
+Text: @Lyssajo You're lucky. My downgraded Motorola Q9M with old Windows Mobile 6 doesn't have a Copy/Paste function.
+Annotation from annotator: 1
+
+Example 18:
+Text: @rhea123 lol yep the good old days they where
+Annotation from annotator: 2
+
+Example 19:
+Text: Recovering from a Seafood mistake, seems old stomach cant handle food on the go..Wanna seefood go?
+Annotation from annotator: 1
+
+Example 20:
+Text: miss good old St James and Green Park, especially when the daffs are out   Have a great show
+Annotation from annotator: 3
+
+Example 21:
+Text: Weekend over, back to work once again  I'll be updating the old blog later on this week, probably around Wednesday when I'll have news...
+Annotation from annotator: 2
+
+Example 22:
+Text: downloading some old rahman songs had almost forgot them
+Annotation from annotator: 2
+
+Example 23:
+Text: @Beautyfix LOL  What's that old quote/story about getting older and going to bed with Ben Gay?
+Annotation from annotator: 1
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of a 75 year old!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to having a good old spree in meadowhall with @AniNicholas
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to pick out a profile pic with the help of @dfpcmaia but whenever i like one he says it's bad. 12 yr olds are stupid
+Annotation from annotator: 1
+
+Example 27:
+Text: so early to be up, 7:15, I guess I am getting old! old people can't sleep
+Annotation from annotator: 1
+
+Example 28:
+Text: im hun-ger-eee  ramen gets old after a few dozen packs consumed in a matter of months...;
+Annotation from annotator: 2
+
+Example 29:
+Text: @texasmommy77 Didn't open pic but praying for this young man
+Annotation from annotator: 2
+
+Example 30:
+Text: @highdigi Facebook?? I'll reativate my old account for the twitter peeps
+Annotation from annotator: 2
+
+Human-rated Examples:
+Example 1:
+Text: @0pensource Ubuntu doesn't run on an old AMD 2100 mhz machine I have.  Memory dumps all over the place. Wanted to replace old w2k machine
+Annotation from annotator: 2
+
+Example 2:
+Text: @gilbirmingham I'm sorry, but I could live without that pic  lol I'm 19, and can appreciate an attractive older man..  but there's a limit
+Annotation from annotator: 1
+
+Example 3:
+Text: I miss old jonas days. They're my ringtone. Still In Love With You.
+Annotation from annotator: 3
+
+Example 4:
+Text: How do the older ones always act the youngest, it's funny how things turn upside down. I need to hold hands with somebody mature.
+Annotation from annotator: 2
+
+Example 5:
+Text: Recently retouched. http://tinyurl.com/ljoboh  Finally got it to work, I think.  An old dog can learn new tricks, see?
+Annotation from annotator: 3
+
+Example 6:
+Text: @TastyTaylor so do I. I miss the old times
+Annotation from annotator: 1
+
+Example 7:
+Text: was really pleased that getting the new WP install to talk to my old database was just a matter of setting the db prefix in wp-config.php
+Annotation from annotator: 3
+
+Example 8:
+Text: @elberke12 Lazy Friday? Are those allowed at debtwire?!? Back in the good old days they certainly weren't
+Annotation from annotator: 2
+
+Example 9:
+Text: Im well bored got bak from me broz bday party 8 screming 8 year old boys whoopee
+Annotation from annotator: 2
+
+Example 10:
+Text: @oldfox004 browsing from a century old PC in my frds home..
+Annotation from annotator: 1
+
+Example 11:
+Text: Need to get sleep, first test tomorrow  But still need to finish these English summaries! Bah.... well the night is stil young lol
+Annotation from annotator: 2
+
+Example 12:
+Text: @mixero after a couple of crashes seems to work fine on a  old hp notebook running ubuntu
+Annotation from annotator: 3
+
+Example 13:
+Text: @ScottSharman ahhh the old new-camera-guilt-shopping trick. I know that one well
+Annotation from annotator: 3
+
+Example 14:
+Text: I'm too young to vote. I'll be able to, come my junior year in college.
+Annotation from annotator: 2
+
+Example 15:
+Text: @amandabynes Hope you had fun Twistin to the oldies today.
+Annotation from annotator: 3
+
+Example 16:
+Text: Editing my old ehow articles with a horrible headache.  Also trying to link my ehow articles to twitter.  Probably what gave me a headache
+Annotation from annotator: 1
+
+Example 17:
+Text: @Billy_Hamm Lucky guy!  Tell Conan hello for me.  He and I are old buddies...really, we are!    I'll have to d/l the show and try and  ...
+Annotation from annotator: 2
+
+Example 18:
+Text: @Gilamuffin Not much longer!! Man time flies the older you get
+Annotation from annotator: 1
+
+Example 19:
+Text: @FUCKCITY andiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii happy birthday (: hahaha yeah u r old xD the best old drummer xD kidding
+Annotation from annotator: 3
+
+Example 20:
+Text: @lyyyl They're both well sweetie. LV's getting old though  xx
+Annotation from annotator: 3
+
+Example 21:
+Text: @BLeigh1130 wow, 32 is nooot old at all. huh. those poor kids though, SERIOUSLY
+Annotation from annotator: 2
+
+Example 22:
+Text: @DonnieWahlberg my daughter turned 15 today feeling old today
+Annotation from annotator: 1
+
+Example 23:
+Text: ... downloaded the new YouMail Blackberry App.  It won't download my old messages
+Annotation from annotator: 1
+
+Example 24:
+Text: Had a long day. Buried 1 young man in the afternoon only to loose another a couple of hours later. Life is too short wake up everybody
+Annotation from annotator: 1
+
+Example 25:
+Text: @glamourous  this grad school business IS old! lol i much rather be with the YALL,and yes ima be on lock down this weekend too
+Annotation from annotator: 1
+
+Example 26:
+Text: @theadamshoe Happy birthday, old man   24!!
+Annotation from annotator: 3
+
+Example 27:
+Text: @EVERYBODY. Tuesday is my day  23 years old
+Annotation from annotator: 3
+
+Example 28:
+Text: I'm becoming lame in my old age everyone else stayed out to party while I went home before midnight like a good little girl
+Annotation from annotator: 1
+
+Example 29:
+Text: @daveredfly thank you muchly my old friend  winding down from a great evening & prepping for a gr8 day  peace
+Annotation from annotator: 3
+
+Example 30:
+Text: @msjmb i used to run that, i still use an old crt monitor
+Annotation from annotator: 2
+
+Target Example:
+Text: @tonyrobbins Did you get the new phone?  I updated my old one.  Now I want new one.  Want's vs. Need's
+Annotation from annotator:

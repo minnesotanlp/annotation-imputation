@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Hi Asbestos! This is kind of weird for me but I see that you are a participant in the photo project and list yourself as a photographer in Edinburgh and I was wondering if there was any possibility that you would be willing to respond to my recent request <url>?
+Annotation from annotator: 20
+
+Example 2:
+Text: Thanks for the heads up, I don't think they will succeed but it's good to know they're planning it. Did you let Jayjg know as well?
+Annotation from annotator: 17
+
+Example 3:
+Text: Is there a <url> for these? How should I spell priviledge and appologise?
+Annotation from annotator: 12
+
+Example 4:
+Text: If you keep your eyes focused on the moving toe you can usually catch each instance when you change the rotation direction, I think? Does that tell you anything?
+Annotation from annotator: 14
+
+Example 5:
+Text: The content has recently been added to <url>. Would you consider changing your vote to delete?
+Annotation from annotator: 14
+
+Example 6:
+Text: Hi I saw you mentioned that DirecTV has plans to add MSNBC HD upon launch on <url> but the source you referenced has nothing about DirecTV in it, its just about the HD launch itself, so I removed it per <url>. Do you have a source that specifically says DirecTV WILL add it upon launch?
+Annotation from annotator: 13
+
+Example 7:
+Text: Hmm, there was a 7th <url> - but someone deleted him from <url> after removing the Prod. Is that kocher?
+Annotation from annotator: 10
+
+Example 8:
+Text: that hotcat lockup, was like an edit conflict, so i tried a backup and re-enter.  thanks for the assistance, i'm using the old layout, so would the new view affect my hotcat category edits?
+Annotation from annotator: 15
+
+Example 9:
+Text: The review has been up there for something like six weeks, I notice. Think you'll be able to take care of those last couple of things?
+Annotation from annotator: 7
+
+Example 10:
+Text: Do you see any that are missing? Is this what you wanted?
+Annotation from annotator: 15
+
+Example 11:
+Text: The article doesn't seem to imply that ''The Game Keeper'' was created by WotC, nor does it give a hint when the company bought the stores. Were you thinking of something specific I can change to make that more clear, or is it fine as-is?
+Annotation from annotator: 11
+
+Example 12:
+Text: I see that you closed that CfD discussion as rename, but haven't actually renamed the categories. What's up with that?
+Annotation from annotator: 7
+
+Example 13:
+Text: You created this template, but it is only used in one article. Do you intend to expand its use, or is it not required?
+Annotation from annotator: 11
+
+Example 14:
+Text: If you can remember, would you mind giving a bit more information about this photo e.g. where you took it?
+Annotation from annotator: 16
+
+Example 15:
+Text: I just reverted your addition of a fossil range template to <url>, because with only an arrow at the very right it didn't seem to add much useful information. Perhaps we could make a separate template to show only the Cenozoic or so, which would allow us to show more detail in these fossil ranges?
+Annotation from annotator: 12
+
+Example 16:
+Text: I'm attempting to be incisive, and the articles integrity hasn't been disrupted. Therefore i see no reason why you chose to comment unless you felt that ive wiped out important information?
+Annotation from annotator: 6
+
+Example 17:
+Text: A wikipedia project that serves as a place where users can get signatures, userboxes.... stuff like that, so they don't have to make it themselves or ask a specific user to do it. What do you think of that idea?
+Annotation from annotator: 14
+
+Example 18:
+Text: Can we hear this from Counter-revolutionary? Perhaps in conjunction with a rebuttal, rather than just a denial, of the allegations?
+Annotation from annotator: 10
+
+Example 19:
+Text: Thanks, was getting worried there for a moment. Have you though of asking Outriggr for a hand with <url>?
+Annotation from annotator: 15
+
+Example 20:
+Text: I was doing some minor editing on this, and noticed that the date of death in the intro and infobox don't match. Could you take a look at this and see which is correct?
+Annotation from annotator: 16
+
+Example 21:
+Text: Okay. What, exactly, can I do about that?
+Annotation from annotator: 11
+
+Example 22:
+Text: I've been trying to convince this user that his only problem is his username, but he doesn't seem to fully believe it.  Would you mind popping over and giving a word or two of encouragement?
+Annotation from annotator: 17
+
+Example 23:
+Text: I could take a peek, at least.  What problems are you having?
+Annotation from annotator: 17
+
+Example 24:
+Text: I'm sorry, I'm having trouble understanding your question. Could you try again?
+Annotation from annotator: 17
+
+Example 25:
+Text: I very much disagree that the article that was deleted was advertising; I have never bought anything from his store as a matter of fact, but I do know that his is one of the most used online Judaica shops out there. What can I do to make the article acceptable?
+Annotation from annotator: 10
+
+Example 26:
+Text: When I look at the stats on the <url> wiki page I only see 55 Major appearances from 1972 onwards. I'm going by the assumption that page is correct?
+Annotation from annotator: 11
+
+Example 27:
+Text: Not to worry. What's "D.M."?
+Annotation from annotator: 15
+
+Example 28:
+Text: Well, I bet you got that from stalking me. Are you making a template I can use?
+Annotation from annotator: 5
+
+Example 29:
+Text: Should I move it myself, or would you like me to walk you thru it? Have you read <url>?
+Annotation from annotator: 12
+
+Example 30:
+Text: Are you saying you have never edited as anything else? What brought you to that particular article?
+Annotation from annotator: 7
+
+Human-Rated Examples:
+Example 1:
+Text: Should be discussed on-wiki at one of the policy pages. Which one?
+Annotation from annotator: 16
+
+Example 2:
+Text: Cool. Is this something I can invoke with a template on the page or something?
+Annotation from annotator: 11
+
+Example 3:
+Text: Thank you for taking the time to review my nomination of <url> as a featured article candidate. I have responded to the issues you raised in <url> - could you please review my replies and let me know if you're satisfied?
+Annotation from annotator: 21
+
+Example 4:
+Text: Either way, administrators shouldn't be relying on counting how many categories are there for deletion, even if I accept to create the category only one day in advance. Suppose the bot fails to create the category for a day; then, you'll see only five categories and do no deletions on that day?
+Annotation from annotator: 7
+
+Example 5:
+Text: How should we go about doing that?  We can't just take over the group, can we?
+Annotation from annotator: 16
+
+Example 6:
+Text: I'm finding that I'm not able to access any of the DPL-related pages on the Toolserveru2013I get an error message or a blank pageu2013but somehow the Dab Challenge results are still being updated by your bot. Do you know what's going on?
+Annotation from annotator: 12
+
+Example 7:
+Text: I'd be shocked if no one has asked you this yet, but you do an enormous amount of work keeping the bio articles free of vandalism and nonsense as well as filling them up with useful content ;) You seem like you could use a few extra buttons on your toolbar. Are you interested in being nominated for adminship?
+Annotation from annotator: 24
+
+Example 8:
+Text: So it would seem that the ideas underpinning the law of conservation of mass existed at the time (if not previously), Lavoisier and others were formulating the principle, it did not become a verified "law" until the nineteenth century, which subsequently was qualified in the twentieth century. Is that about right?
+Annotation from annotator: 15
+
+Example 9:
+Text: Nice work.  :)  Got anything for <url> or <url>?
+Annotation from annotator: 16
+
+Example 10:
+Text: Vaguely connected, because I don't feel like starting a new section. Have you seen <url>?
+Annotation from annotator: 12
+
+Example 11:
+Text: OK. In the future, can you kindly post a note on your userpage, talkpage, or somewhere else so I know that the bot isn't broken?
+Annotation from annotator: 18
+
+Example 12:
+Text: I asked it before but I'm asking it again: Was it a Basque state? Can we say that?
+Annotation from annotator: 5
+
+Example 13:
+Text: It is the choice of template name as "Shinto2" which seems IMHO poor for use within an article (i.e. the "2" bit), hence suggestion of <nowiki><url></nowiki> (distinct from <nowiki><url></nowiki> currently used for various talk page headers), or if you don't like that as a name then perhaps <nowiki><url></nowiki> (invoked as <person>) ?
+Annotation from annotator: 12
+
+Example 14:
+Text: Thank you for telling me. Can you please revert my deletion, for I do not yet know how to do so?
+Annotation from annotator: 24
+
+Example 15:
+Text: So what do you think they want, anyway? I mean does this boil down to the words ''murder'' and ''kidnapping'' along with ''Brigham did it cuz he looked like a duck and quacked like a duck'' or what?
+Annotation from annotator: 8
+
+Example 16:
+Text: User 86.138.232.97 does have a history of malicous edits. Are you then confirming that these malicious edits done by user 86.138.232.97 were done by yourself?
+Annotation from annotator: 12
+
+Example 17:
+Text: <url>. Congrats, or should I say good luck?
+Annotation from annotator: 16
+
+Example 18:
+Text: About being part of a "collective" author on Wikipedia - about having your writing "edited mercilessly" by others - that sort of thing. I'm "interviewing" a bunch of people over email - can I add you to my list?
+Annotation from annotator: 20
+
+Example 19:
+Text: Yep, I'm definitely free for the whole break. Had fun in your trip?
+Annotation from annotator: 20
+
+Example 20:
+Text: The previous edit made by <url> was sufficient. If she edits the article again, reverting your edit, can we leave it be, for the sake of tranquility?
+Annotation from annotator: 16
+
+Example 21:
+Text: All I'm trying to say is that calling someone you're in a content dispute with a vandal isn't right. Let me ask you this, how do we stop the warring and conflict between users on Wikipedia that have real disputes outside Wikipedia?
+Annotation from annotator: 16
+
+Example 22:
+Text: @Chzz, the coverage in the references provided are a dedicted chapeter and a reproduced artice??
+Annotation from annotator: 12
+
+Example 23:
+Text: Hi, Leandrod - my computer is slow, and your last two edits were made on top of vandalism that needed to be reverted - I can't tell if I reverted legit changes by you or not?  If I did, I'm sorry, can you have a look?
+Annotation from annotator: 20
+
+Example 24:
+Text: Sorry, I completely missed the subsection title.  You think this is Merkey?
+Annotation from annotator: 21
+
+Example 25:
+Text: Are they here? Who?
+Annotation from annotator: 8
+
+Example 26:
+Text: Thanks for the link to the Flag template WikiProject at the MoS discussion. Has there been much discussion at the WikiProject about the limits/usefulness of flag icons?
+Annotation from annotator: 16
+
+Example 27:
+Text: Yes, I do, but Norris is generally better. What points/issues do you think it should also cover?
+Annotation from annotator: 8
+
+Example 28:
+Text: Secondly, please show me where Maynard Smith credits this idea to Haldane.  Have you read the Grafen paper?
+Annotation from annotator: 8
+
+Example 29:
+Text: I'd have done it in half the time if I knew how to format cites, so might have had time to copyedit too. Now I need it moved to the correct title - where's a friendly admin when you need one?
+Annotation from annotator: 16
+
+Example 30:
+Text: I got the same email.  Isn't this a proxy account?
+Annotation from annotator: 12
+
+Target Example:
+Text: Where is the exception in <url> for "tossing out citations and verifiable in order to make it easier for the reader"?  Who are you to disagree with Nikon's label of "Compact Professional"?
+Annotation from annotator:

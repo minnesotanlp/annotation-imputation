@@ -1,0 +1,139 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: I take it as a compliment when someone calls me a Nazi because they are essentially comparing me to the greatest men to have ever walked this planet .
+Annotation from annotator: 2
+
+Example 2:
+Text: Big talk , none of you have the balls to tell a skin this to his face .
+Annotation from annotator: 2
+
+Example 3:
+Text: 9/10 people enjoy a gangrape... Actually make that 8/10, the father is having second thoughts
+Annotation from annotator: 2
+
+Example 4:
+Text: HOW THE FUCK DOES IT F E E L HMM GOVT HAY HOW DOES IT FEEL TO WANT SOMETHING SO BAD U CANT HAVE
+Annotation from annotator: 2
+
+Example 5:
+Text: I wish I was an incel for a day
+being an incel everyday sucks :/
+Annotation from annotator: 1
+
+Example 6:
+Text: HIV will do its job. the fags keep searching for a cure but they will never find one because it keeps on changing and mutating. already 60 percent of faggot apes have AIDS and it continues to grow .
+Annotation from annotator: 2
+
+Example 7:
+Text: LOL at the pathetic normies on OUR subreddit thumbing us down
+They're so pathetic honestly.
+Annotation from annotator: 0
+
+Example 8:
+Text: Today I saw a guy who looks like Elliot Rodger
+I almost bowed to him as an involuntary reflex.
+Annotation from annotator: 0
+
+Example 9:
+Text: It is time that we stop talking about losing ground and start doing something about it .
+Annotation from annotator: 1
+
+Example 10:
+Text: My Airbnb has a psycho cat that won't let me leave the room.. This sounds like a trained kidnapper cat
+Annotation from annotator: 0
+
+Example 11:
+Text: Yea I hate it when geysers of blood come shooting up from graves .
+Annotation from annotator: 0
+
+Example 12:
+Text: Why was the drug dealer jealous of the prostitute? Because she could wash her crack and sell it again
+Annotation from annotator: 1
+
+Example 13:
+Text: Just study hard, learn something and soon it will naturally happen
+Annotation from annotator: 0
+
+Example 14:
+Text: Why do black people stink? So blind people can hate them too
+Annotation from annotator: 2
+
+Example 15:
+Text: What did the Alabama sheriff say after he saw a black guy with seventeen shotgun blasts in his back? "Worst case of suicide I have ever seen!"
+Annotation from annotator: 2
+
+Example 16:
+Text: You might be gleefully anticipating a day off, only to be conf... More for Aquarius https://t.co/mxHOCifbtT
+Annotation from annotator: 0
+
+Example 17:
+Text: sure it was , yes of course , what was i thinking ?
+Annotation from annotator: 0
+
+Example 18:
+Text: Guns aren't the solution to living in the wrong place...they're an insurance policy against suspect decision making sane people should rectify at their earliest convenience.
+Annotation from annotator: 2
+
+Example 19:
+Text: Change my view: This sub is extremely sexist, privileged, and completely ignorant of the true struggles of minorities/women.
+Annotation from annotator: 0
+
+Example 20:
+Text: I was gonna show my 2 girlfriends each other b cause I was done cheating but I forgot They can see each other on both sides on my basement
+Annotation from annotator: 0
+
+Example 21:
+Text: Life Hack:  When trying to get out of Jury Duty never rule out a rim job
+Annotation from annotator: 2
+
+Example 22:
+Text: Secrets are best kept inside you, sharing them will backfire so much. The exposure, the fact that other people will know too much about you
+Annotation from annotator: 0
+
+Example 23:
+Text: What are the best ways to start you own white community , set up your own currency or other methods of trade with other white communities in order to support your white community ?
+Annotation from annotator: 2
+
+Example 24:
+Text: "@NotoriousBM95: @_WhitePonyJr_ Ariza is a snake and a coward" but at least he isn't a cripple like your hero Roach lmaoo
+Annotation from annotator: 2
+
+Example 25:
+Text: On the hierarchies of "celibates"
+Broke: "incel" (involuntary celibates)
+Joke: Chads (people who see sex and women as a material rather then an actual human being)
+Woke: "volcel" (voluntary celibates)
+
+Ya'll agree or nah?
+Annotation from annotator: 0
+
+Example 26:
+Text: Guys I found some legitimate discrimination and sexism towards women
+Annotation from annotator: 1
+
+Example 27:
+Text: A year or two earlier he married a girl who had achieved considerable local recognition as a prostitute and as one whose fee was moderate.
+Annotation from annotator: 2
+
+Example 28:
+Text: so i took this girl out to dinner she invited me to her place and said show me it 's true what they say about black people . so i stabbed her and stole her purse .
+Annotation from annotator: 2
+
+Example 29:
+Text: I'm 6 ' 1 " , my wife was 5 ' 4 " , I dunno if that counts as tall vs short .
+Annotation from annotator: 0
+
+Example 30:
+Text: &#8220;@OGeezLouise: Bout time 
+ RT @JoeBudden: Some of these chicks don&#8217;t want a man, they just want support.&#8221; Tell that bitch to get a bra
+Annotation from annotator: 1
+
+Target Example:
+Text: #Boeing's secret plane debut:
+There goes your taxpayers money...
+
+Let's hope a simple #EMP wave won't cripple it 🤔!
+Annotation from annotator:
+Your output should be a single integer and nothing else.

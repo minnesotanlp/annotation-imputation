@@ -1,0 +1,173 @@
+Imputed Examples:
+Example 1:
+Text: I tried searching for that link in the section that I was editing and it wasn't there I didn't edit from the top but just from the section. Does the filter only look inside the section or is it based on the whole talk page?
+Annotation from annotator: 12
+
+Example 2:
+Text: Can you expand <url>? From what I gather the Dorje Ling nunnery is part of the monastery complex?
+Annotation from annotator: 11
+
+Example 3:
+Text: I've heard about the controversy. What's your take on it?
+Annotation from annotator: 11
+
+Example 4:
+Text: Okay, perhaps we need to initiate a task force to go and address issues on these lists.  I'm happy to participate or rubber-stamp... What do you think?
+Annotation from annotator: 13
+
+Example 5:
+Text: Hi, although I agree with you, please check the following <url> in process. Why can't the darn thing work, in the first place?
+Annotation from annotator: 7
+
+Example 6:
+Text: I was wondering where you got your information for the dice statistics you recently added/changed in <url>.  Can you add a source to those tables?
+Annotation from annotator: 16
+
+Example 7:
+Text: Yes, this is the English Wikipedia so we use the English version of the infobox. And can there once be a time when you don't find your way to my talk a complain?
+Annotation from annotator: 8
+
+Example 8:
+Text: Your <url> is a brilliant idea! Would you mind if I linked to it from my collection of "Useful things" on my user page?
+Annotation from annotator: 20
+
+Example 9:
+Text: When am I changing nationalities? I do remove flags when I encounter them per <url> and <url>, but changing them...?
+Annotation from annotator: 9
+
+Example 10:
+Text: You deleted this, but somehow it still shows up on the parent category's page <url>.  Is this normal and/or can you fix this?
+Annotation from annotator: 12
+
+Example 11:
+Text: Your POV tag justified. Did you get any support for cleaning it up?
+Annotation from annotator: 12
+
+Example 12:
+Text: Hello Jeffq, I noticed you revert vandalism occasionally. Would you like me to grant your account <url> to help you revert vandalism more easily?
+Annotation from annotator: 20
+
+Example 13:
+Text: Just letting you know (since you have mentioned AFDing <url>) that weu2019ve gone to some effort to establish notability with <url>, and have added three reliable, notable, third-party sources to the article.  Do you feel these sources establish <url> as being notable (<url> and all that)?
+Annotation from annotator: 13
+
+Example 14:
+Text: You deleted Ricardo Marinello. What was written in the article?
+Annotation from annotator: 7
+
+Example 15:
+Text: I found an autoblock and cleared it.  Can you edit now?
+Annotation from annotator: 11
+
+Example 16:
+Text: Please explain this <url>. Is there a valid reason why this image was removed?
+Annotation from annotator: 9
+
+Example 17:
+Text: It turns out that the Zelda Collection you referred to in <url> didn't include aLttP, reportedly because the GBA remake was still being sold at that time, so that disc included NES and N64 emulation but left out SNES. Do you have another example?
+Annotation from annotator: 11
+
+Example 18:
+Text: I don't understand the reason for <url>. Would you please explain it to me?
+Annotation from annotator: 16
+
+Example 19:
+Text: btw, do you think we should mention the effect right off the bat of the descripition(seeing as "effect" is listed right above it???
+Annotation from annotator: 12
+
+Example 20:
+Text: Also, why is this glorious photo of a <url> not used in any articles?  Was there some argument about its copyright status?
+Annotation from annotator: 9
+
+Example 21:
+Text: That "guest" could have been an undercover Colbert staff member and the whole segment could have been staged. Otherwise, why would Colbert have taken 3 minutes out of his show to talk to someone in the audience?
+Annotation from annotator: 8
+
+Example 22:
+Text: Ok, I accept your claims, although I prefer the official names. Do you have MSN Messenger?
+Annotation from annotator: 13
+
+Example 23:
+Text: Correcting an article to remove mention of something that ''was made up here in Wikipedia'' and does not exist in any formal definition of the article's subject is a furtherance of the <url> policy, not vandalism.  Are you interested in knee-jerk reverting, or in actually making your encyclopedia correct and accurate?
+Annotation from annotator: 2
+
+Example 24:
+Text: You sure kill educating information. I wounder why?
+Annotation from annotator: 5
+
+Example 25:
+Text: Ok, I'd agree about <url> being better. Should I delete the other one (you could also tag it for speedy deletion as a mistake)?
+Annotation from annotator: 12
+
+Example 26:
+Text: So you're interested in both Amiga computers and BDSM! Are you an atheist too?
+Annotation from annotator: 6
+
+Example 27:
+Text: Hey, thanks for your contributions here :). Would you mind referencing them to conform with wiki-policy?
+Annotation from annotator: 21
+
+Example 28:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 13
+
+Example 29:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 9
+
+Example 30:
+Text: I am contemplating a larger article on this very interesting topic. Thoughts?
+Annotation from annotator: 17
+
+Human-Rated Examples:
+Example 1:
+Text: The reason for the malfunctioning redirects is that the character immediately after "REDIRECT" is not an ordinary space, but a "non-breaking space", hex code 0xA0.  Out of curiosity: how did you manage to create them?
+Annotation from annotator: 20
+
+Example 2:
+Text: Hi there, I've raised the possibility of unprotecting the tamazepam page <url>. What are your thoughts?
+Annotation from annotator: 20
+
+Example 3:
+Text: Granted, it wouldn't be terribly difficult for me to recreate what I did, but I don't like doing extra work when I don't have to. Could you at least userfy the last version edited by me?
+Annotation from annotator: 7
+
+Example 4:
+Text: OK then. What's your problem with putting this in the lead : "is one of the <url> counties of the <url> and " ?
+Annotation from annotator: 4
+
+Example 5:
+Text: I use Linux for all practical purposes too, but I have Windows on my laptop because the wireless card does not work with Linux. Are you in Moldova or abroad?
+Annotation from annotator: 16
+
+Example 6:
+Text: I was in doubt too, but when dealing with such incomprehensible concoctions I prefer to err on the side of BLP caution.  Would you like it userfied?
+Annotation from annotator: 16
+
+Example 7:
+Text: Thanks! =D And how soon are we going to try to get The Lost Age to FA?
+Annotation from annotator: 24
+
+Example 8:
+Text: Thanks for identifying it as self created. What license do you release it under?
+Annotation from annotator: 20
+
+Example 9:
+Text: Yes, I'd seen your note, but it looks as though all five of those edits were made by users other than Terra. Do you have any reason to suspect they are his sockpuppets?
+Annotation from annotator: 0
+
+Example 10:
+Text: Probably. Could you deal with this one?
+Annotation from annotator: 16
+
+Example 11:
+Text: Very well.  However, since the cartoon and Fleewtay version ''don't'' have an article, perhaps they should be mentioned on this page or given articles of their own?
+Annotation from annotator: 16
+
+Example 12:
+Text: '''Wiki-star''': Hm? Is there a reason for your sorrow my good man?
+Annotation from annotator: 24
+
+Target Example:
+Text: I thought that VAMOS section was dealing primarily with captions (perhaps a clearer wording is needed there?). Also, I have seen dates used as adjectives quite often - the "1848 Revolution", for example - where did you read about this rule?
+Annotation from annotator:

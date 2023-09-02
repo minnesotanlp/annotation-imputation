@@ -1,0 +1,6 @@
+Example 1:
+Text: It is ok if you cancel last minute on people due to an illness.
+Annotation from annotator: 3
+
+Text: If you don't want to crash, you shouldn't drive recklessly.
+Annotation from annotator:

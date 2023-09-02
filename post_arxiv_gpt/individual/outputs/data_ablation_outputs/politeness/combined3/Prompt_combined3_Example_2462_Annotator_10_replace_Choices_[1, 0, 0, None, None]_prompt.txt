@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: I tend not to be an RFC closer -- apologies. Hopefully someone else will?
+Annotation from annotator: 16
+
+Example 2:
+Text: Really? When/where did that happen?
+Annotation from annotator: 12
+
+Example 3:
+Text: Was working, so no. You?
+Annotation from annotator: 12
+
+Example 4:
+Text: It states on the page that it features her, they sample the song, and were going to try and get her to take part in the video... Surely this counts as being featured on the single?
+Annotation from annotator: 18
+
+Example 5:
+Text: Is this, perhaps, what the main article calls a "Backshot wheel"? If so, should the article be renamed?
+Annotation from annotator: 8
+
+Example 6:
+Text: Hi, Michael David. Was there any consensus reached on this issue?
+Annotation from annotator: 20
+
+Example 7:
+Text: Replied there. Should we keep it in that one place for now?
+Annotation from annotator: 20
+
+Example 8:
+Text: Both get across the same thing... the first is prettier. But, you at least agree with my edit removing the redundancies, no?
+Annotation from annotator: 12
+
+Example 9:
+Text: From my reading of the entries, the Japanese force in <url>/South <url> & the <url> appears to have been the <url>, rather than the <url>. Does that sound right?
+Annotation from annotator: 21
+
+Example 10:
+Text: One more thing. How is the policy of "you're not allowed to block someone for personally attacking you" unworkable?
+Annotation from annotator: 12
+
+Example 11:
+Text: I saw you assess this with a B. What am I missing?
+Annotation from annotator: 8
+
+Example 12:
+Text: 172 has refused to materially defend his take on NOR in terms of any criteria in <url> even abrasively deleting a query from a newbie on the subject in his talk page.  Is it possible to get some official clarification on the NOR policy before this becomes a precedent?
+Annotation from annotator: 8
+
+Example 13:
+Text: Wow that's old! What do you think of <url>?
+Annotation from annotator: 12
+
+Example 14:
+Text: <url>, whom you indefblocked almost a year ago, is requesting another chance and seems penitent. Have you any comments?
+Annotation from annotator: 20
+
+Example 15:
+Text: Respectfully, you've replied to the message below mine a day ago now. Could you provide guidance for my request please?
+Annotation from annotator: 8
+
+Example 16:
+Text: When someone tags articles using non-existent criteria, there's no way the articles should be deleted. The deleting admin has restored Reviewmageddon now, so it seems it's sorted out?
+Annotation from annotator: 12
+
+Example 17:
+Text: Stu: I have this terrible pain whenever I twist my arm around this way. What should I do?
+Annotation from annotator: 12
+
+Example 18:
+Text: You've been asking the ''sensible'' sysops...!?
+Annotation from annotator: 8
+
+Example 19:
+Text: I have your CH2.js installed, but I forgot what it does.  What does it do?
+Annotation from annotator: 12
+
+Example 20:
+Text: Do I get a reference to my comment? Show me where I refuse to provide evidence backing up my changes?
+Annotation from annotator: 0
+
+Example 21:
+Text: What are your intentions after two months?  Will you continue your previous deletions?
+Annotation from annotator: 12
+
+Example 22:
+Text: Re your e-mail, there is info there which is not on my talk page. May I add it to my talk page, or would you prefer it stayed off?
+Annotation from annotator: 24
+
+Example 23:
+Text: As for the Norwoods, both South Norwood and Upper Norwood are in Croydon, but West Norwood belongs to the LB of Lambeth. Does that help?
+Annotation from annotator: 24
+
+Example 24:
+Text: But ''you're'' the one branding his work as anti-Semitic! See what I mean about bad faith?
+Annotation from annotator: 0
+
+Example 25:
+Text: So even though the article says that there are 16 primitive Pythagorean triples with c < 100 there are actually 32??
+Annotation from annotator: 9
+
+Example 26:
+Text: Perhaps ''polemic'' was an unwise choice of words on my part: I meant it in the very narrow sense of an opposing theologian, but you are right, the more usual sense is of a confrontational piece of writing. I'll substitute ''tract''...?
+Annotation from annotator: 24
+
+Example 27:
+Text: I might be able to help, but I don't really know the GA criteria though. What would you like me to do?
+Annotation from annotator: 21
+
+Example 28:
+Text: Sorry Less? What is that last postdirected at?
+Annotation from annotator: 12
+
+Example 29:
+Text: Another thing: <url> has created <url>. What do you think about it?
+Annotation from annotator: 20
+
+Example 30:
+Text: Hmm, there was a 7th <url> - but someone deleted him from <url> after removing the Prod. Is that kocher?
+Annotation from annotator: 12
+
+Human-rated Examples:
+Example 1:
+Text: Hi Zaps, I've noticed that you edited the abovementioned article. Could you please provide your sources?
+Annotation from annotator: 20
+
+Example 2:
+Text: I don't get the "defaultsort" edit you mention - can you link me to a specific edit showing this?  Also, if I rename the template will it be automatically changed on the relevant coaches' pages or do I need to do this myself?
+Annotation from annotator: 21
+
+Example 3:
+Text: Almost a month has passed. You still up for it?
+Annotation from annotator: 16
+
+Example 4:
+Text: Many thanks for the review. So what was the truce term ''you'' used when little then?
+Annotation from annotator: 8
+
+Example 5:
+Text: I'm always behind the times. PS- When did you guys decide to ''remove'' the Quebecois nation resolution from that article's introduction?
+Annotation from annotator: 8
+
+Example 6:
+Text: ???You wat?
+Annotation from annotator: 0
+
+Example 7:
+Text: Just in case you didn't know - <url> has been blocked for being a <url> of <url> (also blocked). Shouldn't their nonsense be cleaned up?
+Annotation from annotator: 3
+
+Example 8:
+Text: Name's don't change. I'm going to have say, that his name is to be kept in the article however what about creating a page about Harry Potter characters in fanfiction or something like that?
+Annotation from annotator: 17
+
+Example 9:
+Text: In addition to xe1 xe2 xe3 xe0 xe7 xe9 xea xed xf3 xf4 xf5 xfa, I noticed that Portuguese uses - in the middle of words. When do you use -?
+Annotation from annotator: 12
+
+Example 10:
+Text: What's wrong with the standard NBA style for the userbox template?  Why can't the Thunder's box look LIKE EVERY OTHER TEAM'S?
+Annotation from annotator: 4
+
+Example 11:
+Text: How about Guant who plays Pansy? Or Richard Fish who played Bill Weasley, and the actor who played Charlie Weasley in POA?
+Annotation from annotator: 12
+
+Example 12:
+Text: Ok, but the army corps should be typed bigger than the brigades. How can I do that if the army corps aren't sections?
+Annotation from annotator: 12
+
+Example 13:
+Text: Sorry for the late reply, but I usually check new additions from the bottom of the page, not the top. What is your disappointment regarding?
+Annotation from annotator: 16
+
+Example 14:
+Text: Another admin has already deleted the article. Do you need me to restore it for you?
+Annotation from annotator: 20
+
+Example 15:
+Text: A long time ago, you deleted this article. How can I see the content previously in the discussion page?
+Annotation from annotator: 20
+
+Example 16:
+Text: It looks like the current version of <url> has been reworked since when you built it in July 2005 and references have never been provided.  Do you have any references you can add to the article?
+Annotation from annotator: 21
+
+Example 17:
+Text: Sorry to not reply earlier regarding Deathrockeru2014I've been away. Has the situation calmed?
+Annotation from annotator: 22
+
+Example 18:
+Text: I see that he just re-added the old article in there at first, but by the time we got to the end, it was significantly changed.  Can you take a quick look at <url> and see if you think that version has the same problems?
+Annotation from annotator: 21
+
+Example 19:
+Text: Hi, what was the image you are having problems with? Was it <url>?
+Annotation from annotator: 22
+
+Example 20:
+Text: By my reckoning he has been in every episode, and thats 10 so far... I am confused as to why you changed it from 9 to 7?
+Annotation from annotator: 8
+
+Example 21:
+Text: It's not too long, certainly; but the extended quote does look a bit out of place there.  Perhaps it would be possible to move the bulk of the quote into the body of the article and leave a short phrase or two that could be inline with the second paragraph?
+Annotation from annotator: 24
+
+Example 22:
+Text: Hi, that "Multics Virtual Memory: Concepts and Design" paper is already in the list of Multics papers (in the "Further Reading - Technical Details) - it even has the same URL! It only lists one source, though - perhaps the second could be added as an "(also here)" link?
+Annotation from annotator: 17
+
+Example 23:
+Text: Comply with what your talk page says, get off and study!!!! Have you willpower?
+Annotation from annotator: 0
+
+Example 24:
+Text: I've deleted the diagram from the <url> article because, as Curtis Clark points out in <url>, the diagram does not represent the results of the reference it purports to represent. Can't we reproduce an actual diagram from a published reference as "fair use" as long as we properly label & attribute it?
+Annotation from annotator: 21
+
+Example 25:
+Text: You may want to take a look at <url>.  Can you be specific on what "spamming" is in this context?
+Annotation from annotator: 20
+
+Example 26:
+Text: To this day with the latest release, taking chances, the owner/copyright holder of all of Celine's discography is Sony Music Canada- (P) and (C), even though epic and now columbia in NYC is where she is signed to produce recordings. For now, Celine's infobox says "CBS Records Canada (1986u20131990)", but since her discography owner/copyright holder is still Sony Canada, should I change this to Sony Music Canada (1986-present)?
+Annotation from annotator: 21
+
+Example 27:
+Text: Josiah, believe me, I understand how you feel, and unless you really feel like it, I don't think you should involve yourself in the dispute, because it seems intractable. My question is more a procedural one: if an RfC doesn't generate consensus, and an edit war continues, what's the next step?
+Annotation from annotator: 21
+
+Example 28:
+Text: About the arrow pawn: it moves one square per turn (if it's not Persson's variant), right? When it moves two squares in the Persson variant, can it jump?
+Annotation from annotator: 20
+
+Example 29:
+Text: Do you feel that you've had success in forming consensus here within your knowledgebase?  What do you feel are the underlying reasons behind your current ban from Wikipedia?
+Annotation from annotator: 21
+
+Example 30:
+Text: I have just reported a high level of Vandalism at the page <url>. Is it possible to impose a temporary protection to the page?
+Annotation from annotator: 21
+
+Target Example:
+Text: Yeah, and it will still have been the third to pass the full bit string tests, instead of just the byte tests. :)   What's the significance of 2042?
+Annotation from annotator:

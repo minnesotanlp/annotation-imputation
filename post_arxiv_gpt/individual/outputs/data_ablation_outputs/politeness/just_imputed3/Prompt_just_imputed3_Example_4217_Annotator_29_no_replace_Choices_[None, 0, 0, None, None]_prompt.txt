@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I've read everything again, and I still think it's the right decision. What I'm confused about is if you claim that <url> does not care about capitalisation, how do you explain <url>, <url> and <url> (examples given on the talk page)?
+Annotation from annotator: 14
+
+Example 2:
+Text: I think I'll leave it to the Math WikiProject to decide whether the dab page should be at <url> or <url> since they'll be more familiar with the importance of the various functions.  It looks like all of the basic options I was considering are basically OK from the perspective of the DAB project, right?
+Annotation from annotator: 17
+
+Example 3:
+Text: Since your tube station articles don't actually contain any information, what is the point of them? Why not put them together and work them into an article that says something interesting?
+Annotation from annotator: 5
+
+Example 4:
+Text: Hi Editorofthewiki,  both images are just fine.  I don't see an open review for the article; is there somewhere in particular you'd like me to make this comment, if not just here?
+Annotation from annotator: 17
+
+Example 5:
+Text: Did you upload ''Image:1111.jpg'' to make a point about censorship? What exactly is your intention with that image?
+Annotation from annotator: 13
+
+Example 6:
+Text: If you keep your eyes focused on the moving toe you can usually catch each instance when you change the rotation direction, I think? Does that tell you anything?
+Annotation from annotator: 15
+
+Example 7:
+Text: I have a quick question for you (I'm asking now since I am sure that this is going to be brought up either at the ACR or the FAC, when I finally get there): you've added a "pp." for the citation given for the national defense authorization act of 2007, but the rest of the article makes use of the "p." system. Shouldn't the "pp." be changed to a "p." for conformity, or is the use of the "pp." correct from the perspective of citation guidelines?
+Annotation from annotator: 15
+
+Example 8:
+Text: I'm not sure I understand what this has to do with what I said.  Could you restate?
+Annotation from annotator: 15
+
+Example 9:
+Text: <url>. So, when people click <url>, where do they expect to be taken?
+Annotation from annotator: 13
+
+Example 10:
+Text: If there are no objections by the end of the day (1600UTC), I'll overturn the ban. That sound ok?
+Annotation from annotator: 16
+
+Example 11:
+Text: I often work out of Sweden and I have an excellent, free, built-in English or Swedish grammar ''and'' spelling program in ''Word'' on that computer using Firefox (as this user says she does) - red underlinings for spelling and green for grammar - which would preclude almost all of the huge amount of problems caused by this user regarding readability, or at least alert her to the very quanitity of the problems and inspire a constructive attitude as to her own capacity. Perhaps if one does not consider it a "duty" of sorts to contribute readable English here, that actually might be the problem?
+Annotation from annotator: 10
+
+Example 12:
+Text: I noticed that you are the major contributor to the articles. Mind if I nominate <url> at <url>?
+Annotation from annotator: 17
+
+Example 13:
+Text: I guess I must have misunderstood, sorry for that. Exactly what do you mean by having my promise to not use the tools for a year enforced by a bureaucrat?
+Annotation from annotator: 14
+
+Example 14:
+Text: How strange - you're apparently credited with its creation at <url>. Do you know who did create the image, by any chance?
+Annotation from annotator: 13
+
+Example 15:
+Text: Hi. I stumbled upon your user page and was wondering if you could offer any tips for creating locator maps... where do you get the 'base' map and what program do you use to fill in the colours?
+Annotation from annotator: 18
+
+Example 16:
+Text: Hi, I understand that the WP:COI rules would still apply, regardless of username. Could you kindly approve the change in my user name from cecn to funshine?
+Annotation from annotator: 20
+
+Example 17:
+Text: last msg ???
+Annotation from annotator: 11
+
+Example 18:
+Text: I agree with Deb. Is there anything else you are interested in besides city planning?
+Annotation from annotator: 13
+
+Example 19:
+Text: Thanks! :) So we're allowed to do multiple revdels at a time now?
+Annotation from annotator: 17
+
+Example 20:
+Text: Why would you doubt that. And for that matter why wouldn't you rewrite it yourself?
+Annotation from annotator: 8
+
+Example 21:
+Text: Is as usual being overrun with pointless blather. Would you like to set up a subpage to discuss sources?
+Annotation from annotator: 15
+
+Example 22:
+Text: I'm not too familiar with the google hits thing.  What does it mean when a site has this "136k"?
+Annotation from annotator: 16
+
+Example 23:
+Text: Hello. Who are you, and when are we to have met or communicated in the past?
+Annotation from annotator: 14
+
+Example 24:
+Text: I understand the problem with that redundant category--I've hashed that out, I think--but why did you remove ALL categories from the Christian shows? That seems....excessive... Or do I just need a nap?
+Annotation from annotator: 12
+
+Example 25:
+Text: Sorry??? Which comment are you referring to?
+Annotation from annotator: 11
+
+Example 26:
+Text: It isn't clear to me that he knew WHO Amorrow was, someone has left a message that will hopefully set him straight. Do you have a link to the blog?
+Annotation from annotator: 14
+
+Example 27:
+Text: You added the name Ken Taylor to the <url> page but there is no such person listed on the DOD website as having received that award. Who were you refering to?
+Annotation from annotator: 13
+
+Example 28:
+Text: Also, someone suggested merging it with another hoax page. Why wasn't that option considered?
+Annotation from annotator: 15
+
+Example 29:
+Text: He used it to assert that '''''others''''' had expressed the notion that the process was concluded and that it was time to move on, and used your statement as evidence of this. Since you did not mean that it had been concluded, and since obviously you were only speaking for yourself and no one else, and participants have been continuing to post on the RfC page and its Talk Page to indicate that they do not feel this way at all, how does it serve to support the idea that they have?
+Annotation from annotator: 12
+
+Example 30:
+Text: Well, I'll review it anyhow, and we'll see where we need to go.  Deal?
+Annotation from annotator: 14
+
+Target Example:
+Text: Is <url> what you're referring to??  '''''One''''' autograph page that he deleted almost '''''five months''''' ago and you're now attacking him as if he deleted every single autograph book ever?
+Annotation from annotator:

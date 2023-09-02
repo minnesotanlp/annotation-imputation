@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Now that person has been doxxed on 8chan. And despite this being the person who posted my &amp; others' home address, suddenly he sees a problem
+Annotation from annotator: 0.0
+
+Example 2:
+Text: bar results are coming out tomorrow(ish) and i literally can't fucking breathe.
+Annotation from annotator: 1.0
+
+Example 3:
+Text: When I have a big challenge, I'm inspired by Ayrton Senna.... Then I die halfway.
+Annotation from annotator: 0.0
+
+Example 4:
+Text: I need to be careful with the decoy breakfast choices I offer. Not sure how long my kid will believe the store was out of grilled bear.
+Annotation from annotator: 1.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Now that person has been doxxed on 8chan. And despite this being the person who posted my &amp; others' home address, suddenly he sees a problem
+Annotation from annotator: 0.0
+
+Example 2:
+Text: bar results are coming out tomorrow(ish) and i literally can't fucking breathe.
+Annotation from annotator: 1.0
+
+Example 3:
+Text: When I have a big challenge, I'm inspired by Ayrton Senna.... Then I die halfway.
+Annotation from annotator: 0.0
+
+Example 4:
+Text: I need to be careful with the decoy breakfast choices I offer. Not sure how long my kid will believe the store was out of grilled bear.
+Annotation from annotator: 1.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Now that person has been doxxed on 8chan. And despite this being the person who posted my &amp; others' home address, suddenly he sees a problem
+Annotation from annotator: 0.0
+
+Example 2:
+Text: bar results are coming out tomorrow(ish) and i literally can't fucking breathe.
+Annotation from annotator: 1.0
+
+Example 3:
+Text: When I have a big challenge, I'm inspired by Ayrton Senna.... Then I die halfway.
+Annotation from annotator: 0.0
+
+Example 4:
+Text: I need to be careful with the decoy breakfast choices I offer. Not sure how long my kid will believe the store was out of grilled bear.
+Annotation from annotator: 1.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: i tried to have sex with a retarded person they said they were down
+Annotation from annotator:

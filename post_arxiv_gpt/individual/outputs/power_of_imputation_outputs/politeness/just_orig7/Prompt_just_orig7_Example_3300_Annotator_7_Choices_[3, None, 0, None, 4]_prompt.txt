@@ -1,0 +1,47 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Human-rated Examples: (there may not be any)
+Example 1:
+Text: It turns out that the Zelda Collection you referred to in <url> didn't include aLttP, reportedly because the GBA remake was still being sold at that time, so that disc included NES and N64 emulation but left out SNES. Do you have another example?
+Annotation from annotator: 12
+
+Example 2:
+Text: Hi, just saw your conversion of this page to use an automatic taxobox, and tried to add the genus authority (<url>), but it didn't work. Is there a way to do that with the automatic taxobox?
+Annotation from annotator: 12
+
+Example 3:
+Text: I posted here rather than to Jon's page because I don't want to embarrass the students; I know Jon watchlists your page and I am sure other NRG editors do too.  Anyway, what do you think?
+Annotation from annotator: 17
+
+Example 4:
+Text: Thanks for pointing out that "undiscussed moves" discussion, I hope something comes out of that - but it doesn't really look like it will.  I'm not sure what I'm looking for on the discussion page for <url> about this, what am I missing?
+Annotation from annotator: 21
+
+Example 5:
+Text: I think I updated the pharmacology project banner to put C-class articles into the appropriate category (previously, it was putting them into the unassessed class. If you want to double-check, that would be great; I think it may take a little while for it to update the articles?
+Annotation from annotator: 16
+
+Example 6:
+Text: <url>  Honestly, I'd like to know if you really are defending <url>.  Do you really believe that they were justified?
+Annotation from annotator: 4
+
+Example 7:
+Text: I'm confused. Why did I get a user warning relating to this article?
+Annotation from annotator: 12
+
+Example 8:
+Text: As you've noticed, I'm on a tear through general topology, which was going well, until I went to revise/merge/update <url>, when I stumbled on a very simple conceptual issue. Could you look at the talk page, and tell me what I'm doing wrong?
+Annotation from annotator: 17
+
+Example 9:
+Text: what do you think was the purpose of this Fesselballon? if it wasn't military, what was the point in shooting it down?
+Annotation from annotator: 12
+
+Example 10:
+Text: I went to WP:VAND and looked up sneaky vandalism. To qualify for the reward, does it only have to qualify as sneaky or does it have to be "extra" sneaky?
+Annotation from annotator: 13
+
+Target Example:
+Text: comment from a member of the Article Rescue Squadron? Do you know how to hide a human body?
+Annotation from annotator:
+If you output anything other than a single integer (and absolutely nothing else, including explanatory text), your output will invalidate the dataset.

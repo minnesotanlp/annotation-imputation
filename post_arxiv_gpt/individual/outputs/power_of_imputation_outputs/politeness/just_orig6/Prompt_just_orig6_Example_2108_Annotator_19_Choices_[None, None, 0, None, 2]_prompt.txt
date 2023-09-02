@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: I think I have a general idea what this is supposed to mean, but not nearly close enough to attempt a rewrite by myself. Are we talking about a piano trio sitting around "naming" trios that they might want to play, or record, or just playing the sort of game that parents use to keep young kids amused on a long trip (or did before there were TVs and movies inside cars)?
+Annotation from annotator:
+The only valid output is a single integer.

@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It's wrong to think people who can't pay for healthcare don't deserve it because everyone deserves healthcare.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's fine to get angry if someone doesn't want to do something you want them to do.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's frowned upon for people to continue a relationship with a former romantic interest when they've moved on to other relationships.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is common for there to be conflicts with your in-laws.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's good to play games of chance where you can win money.
+Annotation from annotator: 2
+
+Example 6:
+Text: People shouldn't lie about who they are.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't lie about drug use.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's expected that you won't exchange goods and money for sexual photos when you're married.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's not okay to stray from a relationship.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is understandable to not feel empathy when their situations do not involve you.
+Annotation from annotator: 2
+
+Example 11:
+Text: If you have conflict in your marriage, it is expected that you always consider your children's feelings.
+Annotation from annotator: 3
+
+Example 12:
+Text: Women's rights should be respected.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't be with someone you don't love.
+Annotation from annotator: 3
+
+Example 14:
+Text: People will think you're a coward if you refuse to help others.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's good to socialize with others at school.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's good to get help when you need it.
+Annotation from annotator: 3
+
+Example 17:
+Text: People are expected to love their family.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's expected that revealing secrets will lead to trouble.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's expected that family members support each other's milestone events.
+Annotation from annotator: 3
+
+Example 20:
+Text: You should be understanding of your family's decisions when they're weak.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't be crazy about things.
+Annotation from annotator: 3
+
+Example 22:
+Text: You shouldn't post inappropriate pictures online.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't expect others to give you their food.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's understandable if you're suspicious when a widower in your family gets together with a widower soon after their spouse's died.
+Annotation from annotator: 3
+
+Example 25:
+Text: You have to do whatever is necessary in an emergency situation.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's bad to lose track of your belongings.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's expected you get into a fight if you're being racist around people
+Annotation from annotator: 2
+
+Example 28:
+Text: Pets are expected to not be treated as food.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's wrong for people that care about each other to argue.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's bad to be only attracted to fictional characters.
+Annotation from annotator: 3
+
+Human-rated Examples:
+Example 1:
+Text: Parents are expected to help their children out when they're asked.
+Annotation from annotator: 4
+
+Example 2:
+Text: You shouldn't expect people to always stay at their job.
+Annotation from annotator: 4
+
+Example 3:
+Text: It is dangerous for a doctor to misdiagnose a patient.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's rude for people to give you a fake name because they can't learn your real one.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's good to wait for gifts from others.
+Annotation from annotator: 2
+
+Example 6:
+Text: It is wrong to be ashamed of where you have come from.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is good for couples to communicate their problems and move on when there is tension after a fight.
+Annotation from annotator: 4
+
+Example 8:
+Text: You should treat a person with a disability the same as you would anyone else.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is bad to have arguments.
+Annotation from annotator: 2
+
+Example 10:
+Text: It is reasonable to want to hold onto loving memories after losing someone.
+Annotation from annotator: 4
+
+Example 11:
+Text: It is good to have friends who are there for you.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's wrong to have weird sexual fantasies.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's okay to start your life over again if you have to.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's bad to leave school without letting someone know where you're going.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's wise to do monthly payments if you can't pay back a loan right away.
+Annotation from annotator: 4
+
+Example 16:
+Text: You're discouraged from hating others.
+Annotation from annotator: 3
+
+Example 17:
+Text: You shouldn't constantly think about death and dying.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is gross to put candy in your pocket if it might melt.
+Annotation from annotator: 2
+
+Example 19:
+Text: You shouldn't clone dinosaurs because that would just cause a lot of problems.
+Annotation from annotator: 2
+
+Example 20:
+Text: You can't expect everyone to like you.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's wrong to sleep around.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's good to have income.
+Annotation from annotator: 4
+
+Example 23:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 3
+
+Example 24:
+Text: You should love your parents.
+Annotation from annotator: 4
+
+Example 25:
+Text: People are expected to want to be close to their family.
+Annotation from annotator: 4
+
+Example 26:
+Text: It is good to be yourself.
+Annotation from annotator: 4
+
+Example 27:
+Text: Families should try to work out problems with each other.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's bad to be divorced with children.
+Annotation from annotator: 2
+
+Example 29:
+Text: You can't expect love young to last forever.
+Annotation from annotator: 2
+
+Example 30:
+Text: You shouldn't expect people to do all their chores.
+Annotation from annotator: 2
+
+Target Example:
+Text: Making dinner is economical as opposed to eating out.
+Annotation from annotator:

@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Yes. What other types of images are like logos (cannot be used in templates; only articles)?
+Annotation from annotator: 16.0
+
+Example 2:
+Text: Hey, thanks for joining! Have any ideas you wish to add to the project?
+Annotation from annotator: 20.0
+
+Example 3:
+Text: Well, we can certainly sort out those kinds of issues once the task force has formed. Have you sought or found support through WPMILHIST yet?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: Force vector and displacement vector is a bit wonky and way above my head in mathematical theory but I wonu2019t disagree. Can you link the two to another article?
+Annotation from annotator: 14.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Yes, or you could change what it looks like. What do you want to do?
+Annotation from annotator: 17.0
+
+Example 2:
+Text: He's stumped about what the block is for, and so am I. Could you clarify?
+Annotation from annotator: 20.0
+
+Example 3:
+Text: Oosterman is hardly the world's foremost expert on Hyper-Calvinism.  Can you cite any scholars or experts who support your thesis?
+Annotation from annotator: 4.0
+
+Example 4:
+Text: Okay, I read through it (skimmed through some parts as they are largely repetitive). I think maybe a good place to bring this up would be in <url>?
+Annotation from annotator: 17.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: experence suggests that most of the time it is an extreamly good criteria but in this case I've put the links back. Which morris side are you with?
+Annotation from annotator: 8.0
+
+Example 2:
+Text: Hmm, page says you are unavailable right now. This means you wont be fixing up <url> any time soon?
+Annotation from annotator: 8.0
+
+Example 3:
+Text: So why then does the lead stat in Christianity need a reference? Isn't it being contained in the article good enough?
+Annotation from annotator: 9.0
+
+Example 4:
+Text: I'm sorry, but that does not respond to my question at all. Should I take it to indicate a no?
+Annotation from annotator: 6.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: last msg ???
+Annotation from annotator:

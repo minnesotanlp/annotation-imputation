@@ -1,0 +1,14 @@
+__pycache__
+datasets
+docker
+server_datasets
+jk-files.zip
+.vscode
+*.npy
+logs
+*.zip
+secrets/*
+secret.env
+wandb
+*.csv
+ncf_matrix_factorization/output/SBIC_preds.npy

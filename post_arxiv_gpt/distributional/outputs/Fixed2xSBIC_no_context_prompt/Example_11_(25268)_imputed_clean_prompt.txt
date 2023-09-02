@@ -1,0 +1,29 @@
+Example 14625
+Text: Now that person has been doxxed on 8chan. And despite this being the person who posted my &amp; others' home address, suddenly he sees a problem
+Soft labels:
+99.67% of responsive annotators labeled the text with 0
+0.33% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+
+Example 12336
+Text: bar results are coming out tomorrow(ish) and i literally can't fucking breathe.
+Soft labels:
+44.55% of responsive annotators labeled the text with 0
+55.12% of responsive annotators labeled the text with 1
+0.33% of responsive annotators labeled the text with 2
+
+Example 22641
+Text: When I have a big challenge, I'm inspired by Ayrton Senna.... Then I die halfway.
+Soft labels:
+97.69% of responsive annotators labeled the text with 0
+2.31% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+
+Example 29449
+Text: I'm about to see my best friend for the first time since like November even though we go to the same college and are 10mins from each other
+Soft labels:
+98.68% of responsive annotators labeled the text with 0
+1.32% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+Target Text: I have owned a Dodge Caravan...because I had kids.....I NOW LOVE DODGE BECAUSE I LOVE A GOOD RALLY !
+Soft labels:

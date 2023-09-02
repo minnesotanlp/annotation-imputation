@@ -1,0 +1,124 @@
+Example 1:
+Text: The Rolling Stones - Paint It... ...off white?
+Annotation from annotator: 1
+
+Example 2:
+Text: Bought these bitches breakfast and now getting kissed on my cheeks non stop...lol. Check out is literally in 5 mins tho
+Annotation from annotator: 0
+
+Example 3:
+Text: i'm watching Sky High and y'all... Gwen was a senior and Will was a freshman... she was 4 years older than him what!!!
+Annotation from annotator: 0
+
+Example 4:
+Text: @Zapaman @trotheray @consorziobiogas 13% of total present demand, but that's incl power generation and industry, and before insulation.
+Annotation from annotator: 0
+
+Example 5:
+Text: One of my least favorite things is sending an abuse complaint into the void of a ticketing system and waiting for a human. We can do better.
+Annotation from annotator: 1
+
+Example 6:
+Text: im just surrounded by pathetic fucks everywhere i go and their dustiness gets in my eyes sometimes and i kant see nothin but fake shit
+Annotation from annotator: 2
+
+Example 7:
+Text: and nothing making me happier than having one of my all time favorite books comes to life, and the show itself had an amazing cast
+Annotation from annotator: 0
+
+Example 8:
+Text: Already winning on my birthday, because I just got my sheets to fit my bed correctly on the first try. #nobodylikesyouwhenyoure23
+Annotation from annotator: 0
+
+Example 9:
+Text: im hella behind in a handful of manga and i can't remember what the last chapters i've read from them are fml
+Annotation from annotator: 0
+
+Example 10:
+Text: The only thing more disgusting than a White woman with a groid is a White woman who drags her White child into the filth with her .
+Annotation from annotator: 2
+
+Example 11:
+Text: Man watching those cam whore breakdown compilation on efukt just added 10 days to my life span
+Annotation from annotator: 1
+
+Example 12:
+Text: Ugly Incels If You Could Press A Button
+to deform the faces of every single chad and normie male in existence, would you do it?
+Annotation from annotator: 1
+
+Example 13:
+Text: for you incels that have jobs, where do you work and do you enjoy what you do?
+Annotation from annotator: 0
+
+Example 14:
+Text: Well, if you do decide to have sex with men, be sure to use a condom.
+Annotation from annotator: 0
+
+Example 15:
+Text: what kind of oranges do mexican illegals refuse to pick hanging from trees ? trumps .
+Annotation from annotator: 1
+
+Example 16:
+Text: Whats the hardest part of the vegetable to eat? The wheelchair
+Annotation from annotator: 2
+
+Example 17:
+Text: RT @Beyond_Fatal: &#8220;@_1nonlykeisha: @Beyond_Fatal my bitch bruhhh !!!&#8221; My nigga my nigga &#128541;&#128540;&#128536;
+Annotation from annotator: 2
+
+Example 18:
+Text: I like my women like my favorite tv show Naked and afraid
+Annotation from annotator: 2
+
+Example 19:
+Text: why were so many niggers killed in the vietnam war ? because when the sergeant said to " get down " , they all got up and started dancing .
+Annotation from annotator: 2
+
+Example 20:
+Text: Well what I got to hear of it was pretty cool .
+Annotation from annotator: 0
+
+Example 21:
+Text: the worst feeling is when you become short of breath laying down &amp; you feel as if you can't do the most normal thing anymore...breathe .
+Annotation from annotator: 0
+
+Example 22:
+Text: Avicii was pretty sick at dropping beats Too bad he got too sick and dropped his heartbeat.
+Annotation from annotator: 2
+
+Example 23:
+Text: Cafeteria employee:: You work here? You look so young. Me:: I know, I get that a lot. Cafeteria employee:: It's because you're Asian. At a college, where I work as an instructor.
+Annotation from annotator: 2
+
+Example 24:
+Text: Same thing with why gang members on IG live showing guns, talking bout nigga shit...then they get arrested and say somebody snitching
+Annotation from annotator: 2
+
+Example 25:
+Text: I'm shocked. It was impossible to predict the guy that said he had proof Obama was born in Kenya would turn out to be a pathological liar.
+Annotation from annotator: 2
+
+Example 26:
+Text: I'm incel because the girls at my college hate black guys
+Fuck, black guys like me should really "An Hero" ourselves.
+Annotation from annotator: 2
+
+Example 27:
+Text: Whats the diffrence between a shot gun and a penis? A child wont cry when the shot gun goes off in his mouth...
+Annotation from annotator: 2
+
+Example 28:
+Text: I was at whole foods the other day and they were throwing away all the vegetables that had gone bad... I went in the back and got like 4 free wheelchairs.
+Annotation from annotator: 2
+
+Example 29:
+Text: Not just encouraging but actuallly paying them bonuses .... so a black managers in state service gets his bonus determined on how few white employees he has
+Annotation from annotator: 2
+
+Example 30:
+Text: If feminists are the champions of women, why do they openly mock the looks & intelligence of Sarah Sanders & Kellyanne Conway?
+Annotation from annotator: 2
+
+Text: How long have you been in Canada for?
+Annotation from annotator:

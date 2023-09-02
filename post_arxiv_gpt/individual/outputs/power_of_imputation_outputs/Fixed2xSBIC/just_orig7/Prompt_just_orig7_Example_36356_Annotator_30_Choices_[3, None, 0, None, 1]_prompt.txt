@@ -1,0 +1,9 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Human-rated Examples: (there may not be any)
+
+
+Target Example:
+Text: what 's black and white and rolls down a hill ? a maori and a seagull fighting over a fish head .
+Annotation from annotator:
+Your output should be a single integer and nothing else.

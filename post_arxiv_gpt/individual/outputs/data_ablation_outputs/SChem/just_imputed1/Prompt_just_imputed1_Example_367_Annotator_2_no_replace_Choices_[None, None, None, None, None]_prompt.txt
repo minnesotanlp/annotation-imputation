@@ -1,0 +1,122 @@
+Example 1:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's wrong to grow apart from your partner.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's good to be in control of your sexuality.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is bad to let addiction control your life.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's bad to prematurely quit because of frustration.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to help yourself get over your depression.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's understandable to want friends and family around when getting a medical operation.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's bad to have a drug addiction.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's wise to do monthly payments if you can't pay back a loan right away.
+Annotation from annotator: 3
+
+Example 10:
+Text: You shouldn't discriminate against people because of their income level.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's bad to be only attracted to fictional characters.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is okay to only want to hang out with certain people.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's good for a parent to want their children to make the best decisions possible.
+Annotation from annotator: 3
+
+Example 14:
+Text: Making dinner is economical as opposed to eating out.
+Annotation from annotator: 3
+
+Example 15:
+Text: You shouldn't lie about drug use.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's not okay to be in a romantic relationship with a teacher.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is bad to drink too much.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's wrong for people that care about each other to argue.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's wrong to be sick of life.
+Annotation from annotator: 2
+
+Example 20:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 2
+
+Example 21:
+Text: You shouldn't expect others to pick up the tab for your mistakes.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is good to be remorseful and admit when you've done wrong
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't video tape someone without their permission.
+Annotation from annotator: 3
+
+Example 24:
+Text: Parents should involve children in their problems
+Annotation from annotator: 1
+
+Example 25:
+Text: It is good to give your kids life advice.
+Annotation from annotator: 3
+
+Example 26:
+Text: You shouldn't judge people by how they look
+Annotation from annotator: 3
+
+Example 27:
+Text: You should never do anything that may cause your children to despise you.
+Annotation from annotator: 3
+
+Example 28:
+Text: If you don't want to crash, you shouldn't drive recklessly.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't do drugs.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's good to get help when you need it.
+Annotation from annotator: 3
+
+Text: You should be grateful when someone does nice things for you.
+Annotation from annotator:

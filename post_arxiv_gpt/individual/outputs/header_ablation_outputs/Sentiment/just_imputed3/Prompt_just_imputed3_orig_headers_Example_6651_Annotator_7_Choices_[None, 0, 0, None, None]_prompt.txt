@@ -1,0 +1,124 @@
+Correct Examples:
+Example 1:
+Text: I think I'm young enough to decide what I can eat!
+Annotation from annotator: 3
+
+Example 2:
+Text: @emziebby i hope my 30 year old woman ass isnt too old for it. Hey Dr. Cullen is in nurse jackie
+Annotation from annotator: 1
+
+Example 3:
+Text: ear ache.....random! & it hurts like a bitch   SOSOSOSO bored seriously im fifteen years old and it summer; thats fucked up!
+Annotation from annotator: 2
+
+Example 4:
+Text: off work with a poorly 4 yr old, no excuse not to do any cleaning now
+Annotation from annotator: 3
+
+Example 5:
+Text: @Cortnee4Christ It's like the old myspace days. You gotta go to a specific person's page, and comment to them that way.
+Annotation from annotator: 3
+
+Example 6:
+Text: @JKeith1982 Lol no this was at our old house. We WISH we got confidential faxes at News24
+Annotation from annotator: 3
+
+Example 7:
+Text: @therealdjjelly has no dunk ryders, young cash, or bizzle...  ...atleast hes taking it back, not all futuristic.
+Annotation from annotator: 3
+
+Example 8:
+Text: http://twitpic.com/6pt5i - like grandma old!  i just saw you yesturday and miss you like crazy.
+Annotation from annotator: 2
+
+Example 9:
+Text: don't ask my why i have a new account...it's cuz twitter is LAME and my old one got deleted somehow.  wah wah wah
+Annotation from annotator: 2
+
+Example 10:
+Text: Great morning. 2 yr old put his hand on a burner I'd just turned off. Circular burns all over his palm. I feel sick about it.
+Annotation from annotator: 1
+
+Example 11:
+Text: No one wants to hang out with an old lady
+Annotation from annotator: 1
+
+Example 12:
+Text: @eliiiiza ok, but some strange painful tweak in my lower back! I'm not old enough for this kind of pain
+Annotation from annotator: 1
+
+Example 13:
+Text: gahh....tiredish...stayed up too late last night .-. oh well...leaving to go out to eat soon  got a new tv so i get the old one
+Annotation from annotator: 3
+
+Example 14:
+Text: Just did some fooling around in the garden with my sisters... Was fun  Good old times
+Annotation from annotator: 4
+
+Example 15:
+Text: http://twitpic.com/68vw1 - Not for young eyes, but what do you think?
+Annotation from annotator: 2
+
+Example 16:
+Text: acsvxdcbgfn soccer now. shall see young phoebe after D: I don't want her dressed up though
+Annotation from annotator: 2
+
+Example 17:
+Text: @Lyriqueizmuziq wow... 18.... makes me feel old  hahaha hope I don;t forget to wish u happy b-day tomorrow
+Annotation from annotator: 3
+
+Example 18:
+Text: @rhea123 lol yep the good old days they where
+Annotation from annotator: 3
+
+Example 19:
+Text: Recital is over...my body aches all over.  Too old for this...BUT I STILL GOT IT
+Annotation from annotator: 3
+
+Example 20:
+Text: miss my old martial arts team
+Annotation from annotator: 3
+
+Example 21:
+Text: Weekend is over, back at work   Finally all moved out of the old apartment. Still need better cable and internet in the new one.
+Annotation from annotator: 3
+
+Example 22:
+Text: downloading good old music
+Annotation from annotator: 3
+
+Example 23:
+Text: @BeauGiles since when do you care?  you should look up an old CH10 show called 'Breakers' for the male version
+Annotation from annotator: 2
+
+Example 24:
+Text: my laptop just did something really freaky. eek! it's only a year old!!!
+Annotation from annotator: 2
+
+Example 25:
+Text: looking on C# and asp.net code...  but looking forward for my one year old jacket project.
+Annotation from annotator: 3
+
+Example 26:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 27:
+Text: so far so good new lappy top is working ... old boy PC is no more RIP
+Annotation from annotator: 3
+
+Example 28:
+Text: im just come back from my mum friend's house, i met a very cute little boy. he's just a 3 years old ( i guess)
+Annotation from annotator: 4
+
+Example 29:
+Text: @tezzer57 You are a braver man than I. I'm still wrestling with the fact I was amused by a distressed 9 year old. I'm a bad person.
+Annotation from annotator: 2
+
+Example 30:
+Text: @highdigi Facebook?? I'll reativate my old account for the twitter peeps
+Annotation from annotator: 3
+
+Target Example:
+Text: Excited to eat this lasagna.. An old fav
+Annotation from annotator:

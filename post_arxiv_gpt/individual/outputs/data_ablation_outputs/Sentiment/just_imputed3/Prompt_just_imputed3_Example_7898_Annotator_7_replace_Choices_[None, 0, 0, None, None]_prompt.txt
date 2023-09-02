@@ -1,0 +1,84 @@
+Estimated Examples:
+Example 1:
+Text: I just found out the original 'cchristiansen' was taken by some old guy!
+Annotation from annotator: 2
+
+Example 2:
+Text: I love wearing my hair in plaits. Do u think my pupils will laugh at me if I go to school like this? Theyr 8 yrs old & think theyr cool
+Annotation from annotator: 3
+
+Example 3:
+Text: Morning y'all! Gonna send some old pics to a friend, then get ready to take the cars in for oil changes. Fun.
+Annotation from annotator: 3
+
+Example 4:
+Text: My baby turns 9 yo today! I'm feeling a little old!
+Annotation from annotator: 3
+
+Example 5:
+Text: My little old lady is gonna be homeless
+Annotation from annotator: 0
+
+Example 6:
+Text: Not happy having a stuck up old woman sat next to me on the coach! Annoying!
+Annotation from annotator: 1
+
+Example 7:
+Text: Ooh, @tdavidson is digging up some old posts of mine ... thanks for reviving that  !
+Annotation from annotator: 3
+
+Example 8:
+Text: Randleman is looking all of 37 years old.  He had Whitehead beat but was too tired to finish.
+Annotation from annotator: 2
+
+Example 9:
+Text: Taking Tyler to a track thing. Hes big! I am so old.
+Annotation from annotator: 3
+
+Example 10:
+Text: Time to break out the old Kyle Massey account for some Dementium 2 hype
+Annotation from annotator: 3
+
+Example 11:
+Text: Trent looked so healthy in that "Hand That Feeds" video, but now we are getting old or something I guess
+Annotation from annotator: 3
+
+Example 12:
+Text: WHy do all of the hot guys have to be so old? Drew Roy is like 23  Damn.
+Annotation from annotator: 3
+
+Example 13:
+Text: We won 2-1 (2 goals from yours truly) but I pulled my calf muscle badly - ouch that's an old man's injury
+Annotation from annotator: 1
+
+Example 14:
+Text: awww, damn. it's a re-run. old-old.
+Annotation from annotator: 2
+
+Example 15:
+Text: but i hope his old butt is okay   even tho he a Lakers' hater
+Annotation from annotator: 2
+
+Example 16:
+Text: i miss my zune music   the family computer is so old it doesn't have a usb port..no lie. then kevin won't let me do anything on the laptop
+Annotation from annotator: 3
+
+Example 17:
+Text: is amazed by the number of people he knows in the credits of some of his favorite old movies
+Annotation from annotator: 3
+
+Example 18:
+Text: jammin in lindsays car with rosie and dan  its good to have the old group together again
+Annotation from annotator: 3
+
+Example 19:
+Text: omg....my colie is 15...talk about a reminder of being old ...   i miss her
+Annotation from annotator: 3
+
+Example 20:
+Text: trying to get going this morning. Lots to do before my oldest wakes up!
+Annotation from annotator: 3
+
+Target Example:
+Text: I want my old background back! - but it keeps uploading this stupid beach picture, why couldn't I leave it alone? Grrr
+Annotation from annotator:

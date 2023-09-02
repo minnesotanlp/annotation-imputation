@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Are you saying that Racepacket attempted to contact Laura's employer? When and where did this happen?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: I've been talking to Bill Oakley on Twitter and he's going to direct message me a few minor changes to his article. Do you have any suggestions for how that could be acceptable as a source?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: Why did you rollback <url>? It appears by a quick scan that the user was correct re <url> - but regardless seemed a good faith edit, one certainly not worthy of a vandalism rollback I would think?
+Annotation from annotator: 12.0
+
+Example 4:
+Text: I'd be happy to help but I don't speak Ukrainian. What do you need help with?
+Annotation from annotator: 20.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: I just noticed you've added me as a sock puppet for Blue Sea? Can I ask what led you to this conclusion?
+Annotation from annotator: 16.0
+
+Example 2:
+Text: I tried updating it to WP:DAB style but I got reverted. Can you use your magic there and explain to the user why we should follow MOS:DP and such?
+Annotation from annotator: 20.0
+
+Example 3:
+Text: I noticed another editor putting in those wikidates. Why are they significant?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: #I am still convinced the long page on "prostatitis" (a misnomer in the case of CPPS) is confusing, with too many sections and subsections, and would benefit from restructuring and the creation of separate pages for each area, or at the very least the removal of the CPPS section to its own, in depth page. You were the only editor to object to this going ahead, with this comment: "So, suggest keep this on hold for now, but in principle one might similarly split off other classification categories with this then just umbrella simple introduction." Do you still hold this view?
+Annotation from annotator: 16.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Not sure if you are saying that I am beating a dead horse in raising the inclusion criteria problem again... or if Doncram is doing so in objecting to my doing so again.  Or is it both?
+Annotation from annotator: 0.0
+
+Example 2:
+Text: Don't you think you should remove the welcoming plate of cookies you left at User:Dococe page???
+Annotation from annotator: 0.0
+
+Example 3:
+Text: I suppose that there is nothing to be done about it, but Jamesd1 just buried a direct question to him, about compromise, under a long discussion about Alice Bailey's supposed religious views  (Bailey was not a Christian) that belong on a Bailey discussion forum, not on this article's talk page. Does not Wikipedia have some way to resolve editing situations in which editors refuse to compromise and end the arguing?
+Annotation from annotator: 12.0
+
+Example 4:
+Text: Who do you think will be the next president? Do you have a favorite yet?
+Annotation from annotator: 12.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: You've contributed a lot to Puget Sound area articles.  Would you be willing to take a look at the debate I'm having at <url> and do whatever you think is best?
+Annotation from annotator:

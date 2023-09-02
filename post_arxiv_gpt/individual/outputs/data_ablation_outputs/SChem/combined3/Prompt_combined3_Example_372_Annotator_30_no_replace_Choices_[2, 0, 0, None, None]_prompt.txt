@@ -1,0 +1,129 @@
+Estimated Examples:
+Example 1:
+Text: It is ok if you cancel last minute on people due to an illness.
+Annotation from annotator: 3
+
+Human-Rated Examples:
+Example 1:
+Text: It's not okay for parents to be emotionally attached to their kids personal lives.
+Annotation from annotator: 2
+
+Example 2:
+Text: It’s important to have hobbies.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's good to find proof of cheating you perceive to be happening.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's understandable that you don't want to be burden by other people's moments in their lives.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is dangerous for a grandparent to risk a fall.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to be in control of your sexuality.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is understandable for parents to want to take care of their child when they are in need.
+Annotation from annotator: 3
+
+Example 8:
+Text: You shouldn't play your music really loudly because it's rude and annoying.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's wrong to be mad at your friends for petty reasons.
+Annotation from annotator: 2
+
+Example 10:
+Text: People shouldn't lie about who they are.
+Annotation from annotator: 3
+
+Example 11:
+Text: You shouldn't be friends with someone that talks badly about you behind your back.
+Annotation from annotator: 3
+
+Example 12:
+Text: You shouldn't play pranks on your classmates.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's not normal to dislike everybody
+Annotation from annotator: 3
+
+Example 14:
+Text: You shouldn't think ill of your family.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's selfish to expect your husband to give you his entire estate.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's bad to be divorced with children.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 3
+
+Example 19:
+Text: You shouldn't rat out other people.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's normal for siblings to play pranks
+Annotation from annotator: 2
+
+Example 21:
+Text: It's not necessary to be strong
+Annotation from annotator: 2
+
+Example 22:
+Text: You don't have to be responsible for your cousin's problems.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good to recognize the problems with being attracted to someone much younger than you.
+Annotation from annotator: 2
+
+Example 24:
+Text: It is inconsiderate to expect a friend to give you money.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is ok to live with a roommate of the opposite sex if you are just friends.
+Annotation from annotator: 2
+
+Example 26:
+Text: It's okay to be upset with a friend.
+Annotation from annotator: 2
+
+Example 27:
+Text: It is good to have rules.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should be accepting of having a half-sibling
+Annotation from annotator: 3
+
+Example 29:
+Text: It's hurtful for  a parent to enroll a child in classes without permission.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's wrong to grow apart from your partner.
+Annotation from annotator: 2
+
+Target Example:
+Text: If you don't want to crash, you shouldn't drive recklessly.
+Annotation from annotator:

@@ -1,0 +1,9 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Human-rated Examples:
+
+
+Target Example:
+Text: so i was walking down the street last night . <repeat> . <repeat> when i saw a black man walking with a new looking bicycle . i thought sh*t that looks like the one i own . so i ran to my house as fast as i could . luckily mine was still in the cellar cleaning my boots .
+Annotation from annotator:
+If you output anything other than a single integer (and absolutely nothing else, including explanatory text), your output will invalidate the dataset. So, please only output a single integer.

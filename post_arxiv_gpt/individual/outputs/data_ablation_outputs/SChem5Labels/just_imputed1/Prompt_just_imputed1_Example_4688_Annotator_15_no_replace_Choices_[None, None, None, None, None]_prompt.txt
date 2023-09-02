@@ -1,0 +1,122 @@
+Example 1:
+Text: If you run a store, you're expected to have the sizes your customers want.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's good to be respectful during a breakup.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's wrong to be proud of how loud you can burp.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's ok to get embarrassed sometimes.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is normal to worry if your mom has cancer.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's understandable if you think your child's night terrors are just bad dreams.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to watch movies with your significant other.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's normal to feel silly if you're not used to getting dressed up.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's honorable when people want to improve themselves.
+Annotation from annotator: 4
+
+Example 10:
+Text: People are expected to act out of character when grieving a death
+Annotation from annotator: 3
+
+Example 11:
+Text: It's okay to feel good about doing good works.
+Annotation from annotator: 3
+
+Example 12:
+Text: You should make absolutely sure of your decision before using your authority over people.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is good to follow the law.
+Annotation from annotator: 4
+
+Example 14:
+Text: You have right to do anything you choose with items you have purchased.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's bad to be in an accident.
+Annotation from annotator: 4
+
+Example 16:
+Text: It is wrong to take away the rights of others.
+Annotation from annotator: 3
+
+Example 17:
+Text: When you are injured, it's good to go to the hospital.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's considerate to not want to wake up people or animals when they're asleep
+Annotation from annotator: 4
+
+Example 19:
+Text: It's good to prescribe medication that helps someone recover.
+Annotation from annotator: 4
+
+Example 20:
+Text: You shouldn't lie to people you love.
+Annotation from annotator: 4
+
+Example 21:
+Text: You shouldn't dress slutty around your parent's friends.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good for friends to comfort each other when in crisis.
+Annotation from annotator: 4
+
+Example 23:
+Text: You should never be too proud to ask for directions.
+Annotation from annotator: 3
+
+Example 24:
+Text: You should keep trying new things until you find what you want to do.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's expected that parents restrict children who are performing poorly in school.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's not okay to commit suicide.
+Annotation from annotator: 4
+
+Example 27:
+Text: You should pick things up that you have spilled.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's okay to feel embarrassed if you didn't know something that everyone else probably knows.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's understandable to have feeling for a significant other and think they couldn't possibly feel the same way.
+Annotation from annotator: 3
+
+Example 30:
+Text: You should go back to school if you hate your job and want to try a new field.
+Annotation from annotator: 4
+
+Text: You should be careful so you don't grab the wrong bottle and mix it up with your beer.
+Annotation from annotator:

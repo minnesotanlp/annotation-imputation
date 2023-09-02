@@ -1,0 +1,6 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Target Example:
+Text: what did the black woman name her <number> sons ? tyrone , tyrone , tyrone , tyrone , and tyrone . how did she tell them apart ? she just called them by their last names .
+Annotation from annotator:
+Your output should be a single integer and nothing else.

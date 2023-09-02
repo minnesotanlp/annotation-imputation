@@ -1,0 +1,245 @@
+Imputed Examples:
+Example 1:
+Text: You should not go to someone's wedding when you fall out with them.
+Annotation from annotator: 2
+
+Example 2:
+Text: It is wrong to lie to people about your sexual identity.
+Annotation from annotator: 2
+
+Example 3:
+Text: You shouldn't rat out other people.
+Annotation from annotator: 2
+
+Example 4:
+Text: It is wrong to betray your family
+Annotation from annotator: 3
+
+Example 5:
+Text: It's understandable to expect others to treat your things with respect.
+Annotation from annotator: 3
+
+Example 6:
+Text: If you don't like something, you should tell other people so they don't get the wrong idea.
+Annotation from annotator: 3
+
+Example 7:
+Text: People are expected to be careful when they driving so they don't harm others on the roads.
+Annotation from annotator: 3
+
+Example 8:
+Text: Selling body organs is never acceptable.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to teach your younger siblings how to safely navigate the world
+Annotation from annotator: 3
+
+Example 10:
+Text: It's OK to take Nandos sauces because they supply them for free.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's expected that you give a gift when attending a wedding.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's unusual to be talked to somebody and not know how they look
+Annotation from annotator: 2
+
+Example 13:
+Text: It's understandable to want to hide.
+Annotation from annotator: 2
+
+Example 14:
+Text: You shouldn't marry someone when you are having serious doubts.
+Annotation from annotator: 3
+
+Example 15:
+Text: You shouldn't be suspicious of your partner without a good reason.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's understandable if you want to change into comfortable clothes.
+Annotation from annotator: 3
+
+Example 17:
+Text: Families should try to work out problems with each other.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to want to protect your friends.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to believe in women's rights.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is okay to celebrate someone's life rather than grieve their death
+Annotation from annotator: 3
+
+Example 21:
+Text: It is good to work hard.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to forgive and move on.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's wrong to be dishonest.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't let your friends tell you what to do.
+Annotation from annotator: 3
+
+Example 25:
+Text: Giving others unsolicited harsh criticism is frowned upon.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's understandable that everybody makes mistakes.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should buy things at Ikea to save money if you want cheap furniture.
+Annotation from annotator: 2
+
+Example 28:
+Text: It's good to want to do things to show someone you care.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't get taken advantage of.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's fun to take people out places.
+Annotation from annotator: 3
+
+Correct Examples:
+Example 1:
+Text: It's bad to spend too much time playing video games.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's wrong to judge other people based on dietary preferences.
+Annotation from annotator: 3
+
+Example 3:
+Text: If you have conflict in your marriage, it is expected that you always consider your children's feelings.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's okay to avoid someone who seems to be on a path of self-destruction.
+Annotation from annotator: 2
+
+Example 5:
+Text: You shouldn't try to sabotage your life.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's wrong to disrespect other races.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't be careful about spoiling a show or movie for people if the show or movie is months or years old.
+Annotation from annotator: 1
+
+Example 8:
+Text: It's important not to objectify other people.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to conserve water by flushing the toilet less often.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to be worried about your partner.
+Annotation from annotator: 3
+
+Example 11:
+Text: People shouldn't think innocent mistakes people make are intentionally malicious.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's good to listen to other people's confessions.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's okay to be angry.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's okay to have violent urges if you never act on them.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's bad to snatch money that doesn't belong to you.
+Annotation from annotator: 3
+
+Example 16:
+Text: You should stand up for your family members if they are being treated poorly.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is good to be yourself.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's okay to be scared about a first date.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is wrong to doubt your relationship.
+Annotation from annotator: 3
+
+Example 20:
+Text: You should move on from your exes.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't hate people.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to apologize when you're not cool about something.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's encouraged to join a program when you're an alcoholic.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's wrong to add milk before adding cereal because it's usually done the other way around.
+Annotation from annotator: 1
+
+Example 25:
+Text: It's bad to have extreme religious views.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's unhealthy to depend on validation from others
+Annotation from annotator: 3
+
+Example 27:
+Text: It is wrong to back out on a commitment.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to enjoy your job.
+Annotation from annotator: 3
+
+Example 29:
+Text: It is okay if you are not the best at everything.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't do things that make others hate you.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's understandable to want your relative to get a job.
+Annotation from annotator:

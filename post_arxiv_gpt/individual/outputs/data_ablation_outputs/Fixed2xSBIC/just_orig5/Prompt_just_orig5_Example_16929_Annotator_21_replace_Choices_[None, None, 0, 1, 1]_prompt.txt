@@ -1,0 +1,10 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Target Example:
+Text: I hope I get shot and killed at work today
+That'd be cool 
+
+No one else has to die but me, either
+Annotation from annotator:
+Your output should be a single integer and nothing else.

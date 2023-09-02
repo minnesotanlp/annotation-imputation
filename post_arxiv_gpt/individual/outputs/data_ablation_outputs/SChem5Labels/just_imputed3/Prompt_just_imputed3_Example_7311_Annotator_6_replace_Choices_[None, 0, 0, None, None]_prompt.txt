@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's fine to feel like a creep.
+Annotation from annotator: 0
+
+Example 2:
+Text: It's okay if you don't want to celebrate your stepmother on Mother's Day.
+Annotation from annotator: 1
+
+Example 3:
+Text: It's expected that you'll stay home from work when you are sick.
+Annotation from annotator: 2
+
+Example 4:
+Text: It is good to help friends.
+Annotation from annotator: 4
+
+Example 5:
+Text: You shouldn't expect your ex to remain friends with you.
+Annotation from annotator: 3
+
+Example 6:
+Text: It is ok to buy something you enjoy when you can afford it.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's good to run away if a hurricane is approaching.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's understood that not everyone is a cheerful person.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's expected you catch feelings when seeing someone attractive
+Annotation from annotator: 3
+
+Example 10:
+Text: It's expected that you invite your friends to your wedding.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's kind to return a lost pet to it's owner.
+Annotation from annotator: 4
+
+Example 12:
+Text: You shouldn't be rude to people.
+Annotation from annotator: 2
+
+Example 13:
+Text: It is your right to move at your own pace at the gym.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's expected that you'll monitor your children.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's okay for family not to get along.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's good to give your child attention.
+Annotation from annotator: 4
+
+Example 17:
+Text: You shouldn't talk to someone that catfishes you.
+Annotation from annotator: 3
+
+Example 18:
+Text: You should get help if worries are overtaking your life.
+Annotation from annotator: 2
+
+Example 19:
+Text: It is dishonest to claim that sweets hurt your stomach just to avoid eating them.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's expected that you let your parents see your children.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's good to be educated in life.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's rude to leave your shoes laying around.
+Annotation from annotator: 2
+
+Example 23:
+Text: Taking a vacation is a good way to relax and recharge.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's understandable to feel nostalgia when looking at photos.
+Annotation from annotator: 4
+
+Example 25:
+Text: Friends should accept each others' differences.
+Annotation from annotator: 3
+
+Example 26:
+Text: You shouldn't try to carry too many things at once.
+Annotation from annotator: 2
+
+Example 27:
+Text: If you pay attention in class you should expect to be able to pass your exams.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's okay to question a doctor's advice.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's expected that girlfriends will want to look out for their boyfriends.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's surprising to find out your girlfriend has received other marriage proposals.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's good to budget your spending.
+Annotation from annotator:

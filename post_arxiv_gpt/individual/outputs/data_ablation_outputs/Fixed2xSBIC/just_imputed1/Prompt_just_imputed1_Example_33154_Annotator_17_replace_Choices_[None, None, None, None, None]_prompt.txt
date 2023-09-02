@@ -1,0 +1,126 @@
+Example 1:
+Text: Im going to take a wild guess that ugly subhumans post here
+How close am i to being correct?
+Annotation from annotator: 2
+
+Example 2:
+Text: When I die, I want to go peacefully in my sleep like my grandfather, Not screaming like the passengers in his car.
+Annotation from annotator: 2
+
+Example 3:
+Text: What's the best day to buy slaves Black Friday on the black market.
+Annotation from annotator: 2
+
+Example 4:
+Text: When they took the cross off the Canadian flag then we were doomed .
+Annotation from annotator: 0
+
+Example 5:
+Text: >tfw you send red pills to your family members and they aren't only receptive, but embrace the positions
+Annotation from annotator: 0
+
+Example 6:
+Text: lookin for white friends online ! i 'm from mexico , and i would like to meet people interested in nordic black metal and the holocaust so we can send mails to each other. : attack
+Annotation from annotator: 1
+
+Example 7:
+Text: #WBW fixed LMA's address as I'm an idjit.
+Annotation from annotator: 0
+
+Example 8:
+Text: worst thing a bitch can do &#8220;@loyalshawn: Bitches main reason for being in another nigga face is to get they nigga jealous . &#128078; Wack .&#8221;
+Annotation from annotator: 2
+
+Example 9:
+Text: What do you do when you finish a magazine in the hospital? Reload and keep firing.
+Annotation from annotator: 2
+
+Example 10:
+Text: This is not a joke... I think killing blacks should be legal.
+Annotation from annotator: 2
+
+Example 11:
+Text: The only well documented case of forcing a child to live as the opposite sex is David Reimer. He was a boy who was forced to live as a girl after a botched circumcision because a psychologist wanted to prove gender is a cultural and not biological phenomenon. [...] Obviously a sample of 1 isn't very useful, but conducting studies like this is obviously extremely unethical.
+Annotation from annotator: 0
+
+Example 12:
+Text: What did the 14 year old say when being molested by the well endowed uncle? /r/im14andthisisdeep
+Annotation from annotator: 2
+
+Example 13:
+Text: Whats a terrorists favorite swimming dive? A bomb dive
+Annotation from annotator: 2
+
+Example 14:
+Text: How does a stupid normie question like this reach the front page
+Annotation from annotator: 0
+
+Example 15:
+Text: Trump calls out Antifa at the #Phoenix rally.
+Annotation from annotator: 0
+
+Example 16:
+Text: hi i have short hair im 5 ' 5 racist as hell im not fat im from mass theres a small group of us out here it 's so hard to new meet people with your believes im just looking to date some one who gets were im coming from are make new friends so if your out there give me a email back 88 heily : explode
+Annotation from annotator: 2
+
+Example 17:
+Text: What do you call a cheap circumcision? A rip-off.
+Annotation from annotator: 2
+
+Example 18:
+Text: Anyone know who made the false rape allegation against Olly Cox of Biggin Hill, Kent? 
+Annotation from annotator: 0
+
+Example 19:
+Text: I like my woman like fire wood Locked up in a shed, split in half, then burnt.
+Annotation from annotator: 2
+
+Example 20:
+Text: Did you know that Ray was not the inventor of the X-Rays? He was his little brother.
+Annotation from annotator: 0
+
+Example 21:
+Text: You can pitch a tent.
+Annotation from annotator: 0
+
+Example 22:
+Text: Well they don't see it that way, and some hearing-capable stranger turning up saying "You're all broken" is unlikely to change their minds. Whether or not we agree with them, people tend not to love the idea of being forced to lose their culture/community against their will.
+Annotation from annotator: 0
+
+Example 23:
+Text: If you sit there and talk shit about someone to me and then chill w them the next day I won't call you out on it, I'll just keep my distance
+Annotation from annotator: 0
+
+Example 24:
+Text: RT @StLNetworkGuru: Write in Christine LaPorta for #MOSen #Ferguson She represents all
+
+ChappelleNadal refer to whites as crackers &amp; KKK ht&#8230;
+Annotation from annotator: 0
+
+Example 25:
+Text: Change Can Be Scary Or It Could Be Good It's Just According How You Look At It
+Annotation from annotator: 0
+
+Example 26:
+Text: We use to sneak up on them cats back in wood hollow and ceelo ranch and Toss they ass in the pool lil bitches
+Annotation from annotator: 1
+
+Example 27:
+Text: To me it means that Jewish supremacists will never again allow Whites to have a say .
+Annotation from annotator: 2
+
+Example 28:
+Text: The booze thing should n't be a big deal .
+Annotation from annotator: 0
+
+Example 29:
+Text: What is harder than my Dick when i see ten year old It's body
+Annotation from annotator: 2
+
+Example 30:
+Text: If you think that collecting money to send to Africa when your own people in your own nation need your help makes you more righteous than other people, you might be a church cuck. 
+Annotation from annotator: 2
+
+Text: Random Serious Question
+What is the quickest way for me to earn $600?
+Annotation from annotator:

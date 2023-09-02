@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: wants to move from a free nation like th US to a tyrannical country like the UK. Give me an honest opinion Haunted Angel what do you yhink of him?
+Annotation from annotator: 12
+
+Example 2:
+Text: Don't you think you should remove the welcoming plate of cookies you left at User:Dococe page???
+Annotation from annotator: 0
+
+Example 3:
+Text: Hi reinyday - I've been noticing your sig on WP:CFD... this is probably something you know all about but... you do know about being able to use four tildes (<nowiki>~~~~</nowiki>) to sign, don't you? Or have you done some fancy trick with your signature to stop it linking back to your user page?
+Annotation from annotator: 0
+
+Example 4:
+Text: Yobot labelled <url> as a stub, though it has <person>. Perhaps that's a dab template Yobot doesn't know about?
+Annotation from annotator: 8
+
+Example 5:
+Text: The new features of Hotcat are excellent: whom do I thank for this? :-) Are you still its maintainer?
+Annotation from annotator: 12
+
+Example 6:
+Text: If you are beccoming a target again do you want semi prot for a while? How much activity is it getting?
+Annotation from annotator: 12
+
+Example 7:
+Text: Per <url>, edits that change the meaning of an article shouldn't normally be marked as minor.  Looking at your recent contributions, I see they're all marked as minor... perhaps you've inadvertantly ticked the "Mark all edits minor by default" check box in the Editing tab of your user preferences?
+Annotation from annotator: 12
+
+Example 8:
+Text: That is actually quite a fair percentage, less than sixty six point six percent approval and the tool is not continued. What percentage of support do think is needed?
+Annotation from annotator: 20
+
+Example 9:
+Text: I'm really very sorry, but no, I '''didn't''' know, didn't get a message saying that was wrong. Where was it?
+Annotation from annotator: 20
+
+Example 10:
+Text: Does this <url> mean that individuals (e.g. Salvador Abascal) should be removed from category:antisemitism and its child categories?
+Annotation from annotator: 12
+
+Example 11:
+Text: Hi, I reverted vandalism on a couple of your subpages that you transclude in your main userpage. Do you want me to semi-protect them (your subpages) so that it is more difficult for vandals to subtly vandalize you?
+Annotation from annotator: 12
+
+Example 12:
+Text: Hello -- I see you changed a couple of entries relating to "PALATINE, the Subject Centre for Dance, Drama and Music of the UK Higher Education Academy".  I don't know (or even care) why that organisation chooses to refer to itself by capitalising the word, but (and I ask for information here) is there a policy that precludes us from respecting that choice?
+Annotation from annotator: 0
+
+Example 13:
+Text: You blocked <url> earlier today: now we have <url> (<url>) (<url>). He's only done one nonsense page so far: is the name similarity enough to block as a sock?
+Annotation from annotator: 8
+
+Example 14:
+Text: You won't even let the ink on your report dry and you're already at it again. Care to explain finally what about the DAB needs "cleaning"?
+Annotation from annotator: 0
+
+Example 15:
+Text: If the Russia tricolor is not the flag of the Lokot Autonomy, than what is? Is the flag even available on Wikipedia?
+Annotation from annotator: 0
+
+Example 16:
+Text: Hi- The Magnificent Clean-keeper- I note that you recently removed a contribution I made to the <url> page, citing lack of "notability" as the reason. Iu2019m not saying you where wrong to do so (notability is an important criteria in the Wiki project), however, since the definition of "notability" is hard to pin down, could we discuss this particular instance, in greater detail, at some point?
+Annotation from annotator: 4
+
+Example 17:
+Text: "Book" in question is A4 or thereabouts, and runs to a grand total of 32 pages including covers. It does state that it is a journal of SIAS, No 18 / 1988. There's not much to choose between the two templates though, is there?
+Annotation from annotator: 12
+
+Example 18:
+Text: I found <url> which is completely unreferenced but I could not find any confirming sources. Is this a proper term, or even a hoax?
+Annotation from annotator: 12
+
+Example 19:
+Text: thanks for the welcome! I have a question... how come you can't edit the article about Whales?
+Annotation from annotator: 16
+
+Example 20:
+Text: Good job, great article. Where did you get the idea, out of curiosity?
+Annotation from annotator: 24
+
+Example 21:
+Text: I found this talk page (and <url>) while deleting the user pages that you requested.  Would you like to have them deleted as well?
+Annotation from annotator: 24
+
+Example 22:
+Text: I ran across this again this month. It <url> since we last saw it; do you still subscribe to your judgment <url>?
+Annotation from annotator: 4
+
+Example 23:
+Text: Who do you think will be the next president? Do you have a favorite yet?
+Annotation from annotator: 12
+
+Example 24:
+Text: Yeah I'd be happy to look at the list, however can't promise much! Shall we discuss it on the article's talk page so that any comments are in the relevent place?
+Annotation from annotator: 12
+
+Example 25:
+Text: <url>???
+Annotation from annotator: 8
+
+Example 26:
+Text: This page, which you recently edited on, is constantly getting vandalized by a rival school. Could you please put an edit lock on the page?
+Annotation from annotator: 16
+
+Example 27:
+Text: I had to revert another one <url>. How about that protection?
+Annotation from annotator: 4
+
+Example 28:
+Text: Thanks for the heads up, I don't think they will succeed but it's good to know they're planning it. Did you let Jayjg know as well?
+Annotation from annotator: 24
+
+Example 29:
+Text: Any suggestions on what admin-specific readings I should be starting to go through, and what order? E.g., the actual mechanics of how to do some of the admin-related stuff?
+Annotation from annotator: 8
+
+Example 30:
+Text: Are you there? I just posted YAP, Yet Another Plea, on <url>, might you wish to pitch in with something technical or at least magisterial?
+Annotation from annotator: 8
+
+Target Example:
+Text: I was wondering where you got your information for the dice statistics you recently added/changed in <url>.  Can you add a source to those tables?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

@@ -1,0 +1,122 @@
+Example 1:
+Text: I think im getting old... I used to be able to stay up all night but now i cant
+Annotation from annotator: 2
+
+Example 2:
+Text: @emilycopeland Yeah! I was doing an older version...now I have Extreme, so I just gotta get a yoga matt and a pull up bar then I'll start
+Annotation from annotator: 2
+
+Example 3:
+Text: dunno why I'm up and still bored. So yeah I just felt like updating my layout on MySpace & songs. haha. It's pretty lame but old-school!
+Annotation from annotator: 2
+
+Example 4:
+Text: off to spend my morning with 5 year olds...my favorite is the tiny one with the big brown eyes
+Annotation from annotator: 4
+
+Example 5:
+Text: @CosmicMother Ah Russ!  Listening & Loving it! Wish I could go back to those days, love the oldie films & songs! 2 do - Build Time Machine
+Annotation from annotator: 3
+
+Example 6:
+Text: @JKeith1982 Lol no this was at our old house. We WISH we got confidential faxes at News24
+Annotation from annotator: 3
+
+Example 7:
+Text: @theonlyshannon thanks - you too.  we're off to flag football with my six year old already.  it never ends around here!
+Annotation from annotator: 4
+
+Example 8:
+Text: http://twitpic.com/6oilr - old bolts in the front... new bolts in the back.  I sure hope this works
+Annotation from annotator: 3
+
+Example 9:
+Text: doing old crappy naxxramas
+Annotation from annotator: 2
+
+Example 10:
+Text: Great morning!! So happy my daughter is graduating from kindergarden! Dag I just had her 5 years ago......I'm old
+Annotation from annotator: 2
+
+Example 11:
+Text: No one wants to hang out with an old lady
+Annotation from annotator: 0
+
+Example 12:
+Text: @eggrollstan Thank you so much.  His fever went down and he was back to his old self, like nothing ever happened.
+Annotation from annotator: 2
+
+Example 13:
+Text: g'day guys!. its a cyber stab in the back   .got a few old twitter friends very obviously blanking me.
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished burying my cat. RIP Fat Cat, you crazy old girl.
+Annotation from annotator: 3
+
+Example 15:
+Text: http://twitpic.com/66516 - i got flowers from my neighbor, a 60 yr old lady. she's so friendly
+Annotation from annotator: 4
+
+Example 16:
+Text: about to sit down and eat a big old bowl of pineapple!
+Annotation from annotator: 3
+
+Example 17:
+Text: @Lunie380   @MzKiana it's awesome to see a young married couple with children sold out to Jesus(& enjoying life). Y'all be encouraged
+Annotation from annotator: 2
+
+Example 18:
+Text: @rennexx I'm watching old episodes! hahaha .. the new one doesnt come out here till tomorrow! sucks i know!
+Annotation from annotator: 2
+
+Example 19:
+Text: Really wishes i wasnt so tired. All i wanna do is sleep but i work 5 more hours and then have to babysit a maniac 2 year old boy
+Annotation from annotator: 1
+
+Example 20:
+Text: miss good old St James and Green Park, especially when the daffs are out   Have a great show
+Annotation from annotator: 3
+
+Example 21:
+Text: Wearing my old Cheshire Cat pajama's, and they're a lot tighter on me than they were a few years ago.
+Annotation from annotator: 2
+
+Example 22:
+Text: done with dinner... love catching up with T.  Just sent a text to an old friend and it is no longer their number... Sadness.
+Annotation from annotator: 2
+
+Example 23:
+Text: @BeautyBlogger Wish my blog qualified.  Not 3 months old yet
+Annotation from annotator: 2
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of an 75 year old!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to having a good old spree in meadowhall with @AniNicholas
+Annotation from annotator: 3
+
+Example 26:
+Text: trying to remember the lyrics of a song with the world cinderella... i know is a old song, light rock, but arghh can't remember
+Annotation from annotator: 3
+
+Example 27:
+Text: so excited to catch up with some old friends tonight!  haven't seen them in a while
+Annotation from annotator: 4
+
+Example 28:
+Text: im hun-ger-eee  ramen gets old after a few dozen packs consumed in a matter of months...;
+Annotation from annotator: 3
+
+Example 29:
+Text: @tehlinker it was tough being younger than you for sooo long... thanks for the bday wishes!
+Annotation from annotator: 3
+
+Example 30:
+Text: @hellosunshine05 thanks  no but seriously once we're older we have to go there!
+Annotation from annotator: 3
+
+Text: Going to bed before midnight so often lately makes me feel too old.
+Annotation from annotator:

@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I think i'm going to die old alone and with cats
+Annotation from annotator: 0
+
+Example 2:
+Text: @emilyryandavis People smirked @ my trusty old guy. I love him, but his buttons are dying  Plus, the bulk when traveling SUCKS
+Annotation from annotator: 1
+
+Example 3:
+Text: eating applesauce, talking to old friends, today's a good day
+Annotation from annotator: 2
+
+Example 4:
+Text: off work with a poorly 4 yr old, no excuse not to do any cleaning now
+Annotation from annotator: 2
+
+Example 5:
+Text: @CosmicMother Ah Russ!  Listening & Loving it! Wish I could go back to those days, love the oldie films & songs! 2 do - Build Time Machine
+Annotation from annotator: 2
+
+Example 6:
+Text: @JGunds I really, really want to! But I already made plans to see some old friends tonight. I can't believe I'm going to miss out on 3eb
+Annotation from annotator: 2
+
+Example 7:
+Text: @theotherlily  I hope client    Orrr maybe he's an old buddy of Shawn's dad..that need help?
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6pt5i - like grandma old!  i just saw you yesturday and miss you like crazy.
+Annotation from annotator: 2
+
+Example 9:
+Text: done with dinner... love catching up with T.  Just sent a text to an old friend and it is no longer their number... Sadness.
+Annotation from annotator: 1
+
+Example 10:
+Text: Great show by the @petshopboys tonight saw them 20yrs ago more or less exactly for 1st time which makes me feel quite old
+Annotation from annotator: 2
+
+Example 11:
+Text: No... not old-- just advanced.   In the aging process.
+Annotation from annotator: 2
+
+Example 12:
+Text: @einsteinboi - thanks! We feel so old
+Annotation from annotator: 1
+
+Example 13:
+Text: gasp. i'm getting a new bed mattress on monday. i miss my old one!!! we've been through everything together! *sniff*
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished balling wit some kids from around my block. I'm officially old lol. SB: someone entertain me - my bff is out of town
+Annotation from annotator: 1
+
+Example 15:
+Text: http://twitpic.com/68vw1 - Not for young eyes, but what do you think?
+Annotation from annotator: 2
+
+Example 16:
+Text: actually had an awesome weekend; caught up with old mates, hung out with best mates and saw wolverine
+Annotation from annotator: 2
+
+Example 17:
+Text: @LuinLuLand you have sooo been hustled...gotta watch out for the 5 yr old's...they know there stuff alright
+Annotation from annotator: 2
+
+Example 18:
+Text: @rereality Of course I remember..and as you can tell, my old ways have not subsided! Lol. Have fun drinking! I'll be working
+Annotation from annotator: 3
+
+Example 19:
+Text: Recommended @panacea81 to @MrTweet 'A really nice & generous young woman whose made the art of makeup easier   ' http://cli.gs/baz2UX
+Annotation from annotator: 2
+
+Example 20:
+Text: miss my old days when i'm in 2nd grade
+Annotation from annotator: 2
+
+Example 21:
+Text: Weekend is over, back at work   Finally all moved out of the old apartment. Still need better cable and internet in the new one.
+Annotation from annotator: 2
+
+Example 22:
+Text: downloading some xbox live arcade game trials, enjoying Virtual On - oldskool giant robot fighting!! played it in arcades as a teenager
+Annotation from annotator: 2
+
+Example 23:
+Text: @BeautyBlogger Wish my blog qualified.  Not 3 months old yet
+Annotation from annotator: 2
+
+Example 24:
+Text: my laptop just did something really freaky. eek! it's only a year old!!!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to hearing how u host a 5oth & 2nd year old party in the same day  u r good! @TammyBurnell enjoy the moments
+Annotation from annotator: 1
+
+Example 26:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 27:
+Text: so far so good new lappy top is working ... old boy PC is no more RIP
+Annotation from annotator: 2
+
+Example 28:
+Text: im in a chill mood. feelin like watchin sum oldskoo movies like boys n the hood or bullet.
+Annotation from annotator: 1
+
+Example 29:
+Text: @tellyyy man whatever your just mad cuz you drive like an old lady lol but i love you baby
+Annotation from annotator: 1
+
+Example 30:
+Text: @helsinkiwinner Yes, I think tonight I'll close the door and place her bed outside. She's not even 9 weeks old, so it's heartbreaking.
+Annotation from annotator: 1
+
+Target Example:
+Text: Found a super old type of me and my friends singing and me talking to my self  awww i miss the old days
+Annotation from annotator:

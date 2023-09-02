@@ -1,0 +1,9 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Correct Examples:
+
+
+Target Example:
+Text: have n't had a single kid come to my door so far tonight . <repeat> this jimmy savile costume is the business .
+Annotation from annotator:
+The only valid output is a single integer.

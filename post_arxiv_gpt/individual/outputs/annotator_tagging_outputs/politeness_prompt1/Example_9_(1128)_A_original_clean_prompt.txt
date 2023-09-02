@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: If Doxiedana comes back to Wikipedia and asks me to restore her userpage, I will consider it. Are you claiming Doxiedana as your alternate account?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: Hello. Regarding <url>, could you tell me what supports this being a free image?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: The text of your warning <url> made me smile. Did you really think that if China got a new Prime Minister as of today, and a female one at that, it wouldn't be all over the news, and the link to this person would be red?
+Annotation from annotator: 4.0
+
+Example 4:
+Text: -- Bit confused by your DYK nom.  Surely the world's first gasoline automobile was created by <url> four years earlier?
+Annotation from annotator: 8.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: I would be willing to move this article to the incubator so that it can be worked on (I agree it wouldn't be an A7 today), though if it's to be made into a real article it needs to be done with someone with no conflict of interest regarding the subject, as creating articles for things you own is highly discouraged.  If I undelete it to the incubator would you agree to let it go and leave it up to other users without a conflict of interest?
+Annotation from annotator: 16.0
+
+Example 2:
+Text: Probably. Could you deal with this one?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: The reason for the malfunctioning redirects is that the character immediately after "REDIRECT" is not an ordinary space, but a "non-breaking space", hex code 0xA0.  Out of curiosity: how did you manage to create them?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: Agree, it would need RFC. One question - should we set up 2 RFCs, as the RFC draft itself suggests - one for the general principle, and the other (separate) for specific REVDEL critieria which the community may or may not endorse, discuss, or make suggestions?
+Annotation from annotator: 16.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Excellent, thanks! I wonder if it's worth temporarily uploading a cropped image for the main page, as 100x100 is really very small?
+Annotation from annotator: 22.0
+
+Example 2:
+Text: Your recent post to the straw poll at <url> may need some clarification. Did you intend "support going to Arbcomm" to be a vote for the "Death" entry?
+Annotation from annotator: 18.0
+
+Example 3:
+Text: So both of us already broke 3RR.  Do you want to esclate it?
+Annotation from annotator: 14.0
+
+Example 4:
+Text: I've read everything again, and I still think it's the right decision. What I'm confused about is if you claim that <url> does not care about capitalisation, how do you explain <url>, <url> and <url> (examples given on the talk page)?
+Annotation from annotator: 16.0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: Okay. Meanwhile, can you think of a good line for a <url> submission?
+Annotation from annotator:

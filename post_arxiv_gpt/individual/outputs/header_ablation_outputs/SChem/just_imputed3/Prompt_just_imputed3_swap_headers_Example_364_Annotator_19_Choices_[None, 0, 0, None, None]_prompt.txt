@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's okay to not feel guilty when you cheat.
+Annotation from annotator: 1
+
+Example 2:
+Text: It's wrong for a person to cheat on their significant other.
+Annotation from annotator: 3
+
+Example 3:
+Text: It is good to be yourself.
+Annotation from annotator: 3
+
+Example 4:
+Text: People will think you're a coward if you refuse to help others.
+Annotation from annotator: 2
+
+Example 5:
+Text: You shouldn't walk around in the rain, you might get sick.
+Annotation from annotator: 2
+
+Example 6:
+Text: You shouldn't date a bad partner.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should be focused on learning while at school.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's bad for a child to be in danger.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is mean to get involved in an affair with someone in a relationship.
+Annotation from annotator: 3
+
+Example 10:
+Text: People should follow the rules.
+Annotation from annotator: 3
+
+Example 11:
+Text: Before kicking someone out it is important to make sure your feelings will be permanent.
+Annotation from annotator: 3
+
+Example 12:
+Text: You shouldn't put up an antenna if it's snowing outside.
+Annotation from annotator: 2
+
+Example 13:
+Text: You shouldn't be with someone who sleeps with your kids.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's discouraged to be in love with your own image.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's noble to be true to yourself.
+Annotation from annotator: 3
+
+Example 16:
+Text: You can't expect your team to always win their game.
+Annotation from annotator: 3
+
+Example 17:
+Text: You shouldn't accept money from someone you don't want to date.
+Annotation from annotator: 2
+
+Example 18:
+Text: You should not engage in romance with a patient you treat.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is distracting to pin everyone in an admin team on a discord server.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's wrong to value things over people.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't let people who claim to be fashion police criticize your clothes.
+Annotation from annotator: 3
+
+Example 22:
+Text: You should only call the cops for emergencies.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't play your music really loudly because it's rude and annoying.
+Annotation from annotator: 3
+
+Example 24:
+Text: Your grandparent would be sad if you broke off contact with them.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to have people you can use to improve yourself.
+Annotation from annotator: 2
+
+Example 26:
+Text: It's okay to be upset with a friend.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't scare your coworkers.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to have friends you can joke around with.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to play games of chance where you can win money.
+Annotation from annotator: 2
+
+Example 30:
+Text: You should not get angry when your chronically ill relative needs help.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's good to socialize with others at school.
+Annotation from annotator:

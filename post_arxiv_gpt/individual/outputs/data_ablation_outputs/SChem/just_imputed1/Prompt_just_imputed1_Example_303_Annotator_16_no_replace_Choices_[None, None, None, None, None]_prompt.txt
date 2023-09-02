@@ -1,0 +1,122 @@
+Example 1:
+Text: You're supposed to date for love and not looks.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's bad to be only attracted to fictional characters.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's wrong to want to be a 50's housewife because women back then were oppressed.
+Annotation from annotator: 2
+
+Example 4:
+Text: It is good to be remorseful and admit when you've done wrong
+Annotation from annotator: 3
+
+Example 5:
+Text: It's acceptable to shun someone who hates people in your group.
+Annotation from annotator: 2
+
+Example 6:
+Text: You shouldn't be crazy about things.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should expect to get caught when you lie to people.
+Annotation from annotator: 3
+
+Example 8:
+Text: City vehicles should not expect to park wherever they please.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is normal to quit a job that is too difficult.
+Annotation from annotator: 2
+
+Example 10:
+Text: It is okay to show emotions.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's understandable that we don't always want to attend family events.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's understandable to be uncomfortable with people that are different than you.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's bad to have an overly pessimistic world view.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's rude to want to snoop in your ex's online accounts.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is wrong to be ashamed of where you have come from.
+Annotation from annotator: 2
+
+Example 16:
+Text: You shouldn't let others lead you on.
+Annotation from annotator: 3
+
+Example 17:
+Text: Adults are expected to bathe daily.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's expected that girlfriends will want to look out for their boyfriends.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's wrong to be sick of life.
+Annotation from annotator: 2
+
+Example 21:
+Text: Parents should involve children in their problems
+Annotation from annotator: 2
+
+Example 22:
+Text: It's degrading to seek affirmation from people.
+Annotation from annotator: 2
+
+Example 23:
+Text: It is distracting to pin everyone in an admin team on a discord server.
+Annotation from annotator: 2
+
+Example 24:
+Text: It's wrong to not understand sometimes peoples situation isn't the best.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's bad to have a drug addiction.
+Annotation from annotator: 3
+
+Example 26:
+Text: You shouldn't clone dinosaurs because that would just cause a lot of problems.
+Annotation from annotator: 3
+
+Example 27:
+Text: Is wrong to be a pervert
+Annotation from annotator: 3
+
+Example 28:
+Text: You don't have to help out your parents if you don't feel like it.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's rude to only want to listen to specific details.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's fun to go cart racing as long as you're careful.
+Annotation from annotator: 3
+
+Text: It's good to go out and have fun with your kids.
+Annotation from annotator:

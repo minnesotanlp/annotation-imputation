@@ -1,0 +1,29 @@
+Example 14626
+Text: #RemoveUnfairPOCSOlaw as promised Government must pay heed to the fake cases being filed against innocents. Stop POCSO Misuse!
+Soft labels:
+100.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+
+Example 12336
+Text: bar results are coming out tomorrow(ish) and i literally can't fucking breathe.
+Soft labels:
+66.67% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+33.33% of responsive annotators labeled the text with 2
+
+Example 22642
+Text: I've always hated deaf jokes. I never heard a good one.
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+100.00% of responsive annotators labeled the text with 2
+
+Example 29449
+Text: I'm about to see my best friend for the first time since like November even though we go to the same college and are 10mins from each other
+Soft labels:
+100.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+Target Text: All this flooding everywhere makes me think I could never live near a town's major river. Or if I did it would be in a huge 2 story house
+Soft labels:

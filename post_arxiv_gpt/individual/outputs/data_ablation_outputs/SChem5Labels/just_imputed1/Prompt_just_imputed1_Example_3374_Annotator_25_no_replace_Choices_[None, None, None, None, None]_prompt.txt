@@ -1,0 +1,122 @@
+Example 1:
+Text: You shouldn't run from the cops.
+Annotation from annotator: 3
+
+Example 2:
+Text: You shouldn't abandon your friends.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's understandable if you're uncomfortable with your significant other's sexual history.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's understandable to face financial uncertainty.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's irritating to get sand in unexpected and unappreciated places on your body.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should lie down if you don't feel good.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's fine to be embarrassed of what you did in middle school band.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's okay to be disappointed about things.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to join your family in exercising.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's okay to feel ashamed about behavior you know is self-destructive.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to take credit for something that you've made
+Annotation from annotator: 3
+
+Example 12:
+Text: You shouldn't move in with your partner.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's rude to play the same song twice in a row.
+Annotation from annotator: 2
+
+Example 14:
+Text: Partners are expected to be completely honest with each other.
+Annotation from annotator: 3
+
+Example 15:
+Text: You should ask people if there is something wrong.
+Annotation from annotator: 3
+
+Example 16:
+Text: You shouldn't expect your parent to always be there for you.
+Annotation from annotator: 2
+
+Example 17:
+Text: You shouldn't expect your kids to give you money.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to want to be student of the month when you're a kid.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's okay not to want to go out with others.
+Annotation from annotator: 3
+
+Example 20:
+Text: You can be expected to appear to show empathy when others are suffering.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's not okay to make someone's life more difficult that it has to be.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is good to fire someone if they are not the right fit.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good to give to charity.
+Annotation from annotator: 3
+
+Example 24:
+Text: It is good to manage your time wisely.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to show solidarity with family members in the face of adversity.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's expected you retire if you've won the lottery
+Annotation from annotator: 2
+
+Example 27:
+Text: It is generous to give money to your family.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's wrong to make your child wear broken glasses.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't take your pets to the pound.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's OK to stand up for yourself.
+Annotation from annotator: 3
+
+Text: You don't have to tell a partner anything you don't want them to know.
+Annotation from annotator:

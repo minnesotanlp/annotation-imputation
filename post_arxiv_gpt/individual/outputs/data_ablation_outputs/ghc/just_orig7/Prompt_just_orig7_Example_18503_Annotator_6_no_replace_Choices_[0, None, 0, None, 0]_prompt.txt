@@ -1,0 +1,127 @@
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Correct Examples:
+Example 1:
+Text: Freedom of the press was literally in The Constitution so that JOURNALISTS CAN REPORT/KEEP AN EYE ON GOVERNMENT without fear of reprisal.  We should always scrutinize our elected leaders, and the press does the exact opposite.  They attempt selling political ideas, and they only scrutinize those whom which they disagree.  #FailedPress
+Annotation from annotator: 0
+
+Example 2:
+Text: If you're a right-winger, how could you not be excited at the prospect of a civil war split down ideological lines?
+Annotation from annotator: 0
+
+Example 3:
+Text: We're running out of WHITES (in South Africa) The nr of people leaving is an understatement because another article in Business day had different numbers. However no mention was made of farm murders etc.  https://m.news24.com/SouthAfrica/News/were-running...
+Annotation from annotator: 0
+
+Example 4:
+Text: I know a #hurricane is not fun... but if you've ever eaten at one of these restaurants then you know this is actually *good* news https://www.khon2.com/news/local-news/zippy-s-rest...
+Annotation from annotator: 0
+
+Example 5:
+Text: To the human Catholic clergy You damn fools to allow this to happen Homosexuals The smoke of Satan Misanthrope
+Annotation from annotator: 1
+
+Example 6:
+Text: you ever remember that one time, you forgot?
+Annotation from annotator: 0
+
+Example 7:
+Text: 'Make our enemies glad to quit their unjust professions for a cooler & calmer retreat, in some distant quarter of the globe.' http://ow.ly/j7DR30lrlvO
+Annotation from annotator: 0
+
+Example 8:
+Text: We don't need a right-wing dating site. We need a right-wing matchmaking site that also understands how pre-selection works.The bottleneck is the pick-up.
+Annotation from annotator: 0
+
+Example 9:
+Text: How many original beta testers still out there? I've been here since October 2016.  #OG  Get you gab shirt here https://shop.gab.ai/  @shop
+Annotation from annotator: 0
+
+Example 10:
+Text: Study: Google Pushes Liberal News in Top 5 Search Suggestions https://www.newsbusters.org/blogs/techwatch/corinn...
+Annotation from annotator: 0
+
+Example 11:
+Text: dRuMpF iS fInIsHeD!!!
+Annotation from annotator: 0
+
+Example 12:
+Text: Schadenfreude - it's not just for breakfast any more. https://www.lifezette.com/2018/08/maxine-waters-sl...
+Annotation from annotator: 0
+
+Example 13:
+Text: 'Member Bo Derek? I 'member Bo... https://celebmafia.com/wp-content/uploads/2017/06/...
+Annotation from annotator: 0
+
+Example 14:
+Text: islamic liberation  #Feminism
+Annotation from annotator: 0
+
+Example 15:
+Text: #Hannity: #DOJ 's #BruceOhr and astounding #DeepState #corruption - #Democrat #SteeleDossier was paid for by #Hillary, funneled thru Ohr & used for #FISA warrant to spy on #Trump campaign http://bit.ly/2olUM4b #politics #draintheswamp #MAGA #RussiaHoax #FakeDossier
+Annotation from annotator: 0
+
+Example 16:
+Text: I have had an idea.   Instead lorry companies getting fined tens of thousands of pounds per migrant find coming over the English Channel, hows about we fine french authorities for allowing migrant hot spots to grow where lorry embankment is carried out and the Belgian government for allowing illegal movement of people through their country.
+Annotation from annotator: 0
+
+Example 17:
+Text: Maybe someone should fucking hack those fucking Barbie Twins the Ed brothers whatever the fuck those faggots names are.
+Annotation from annotator: 0
+
+Example 18:
+Text: For the kids Mary had a little cunt Bah bah black cunt  The itsy bitsy cunt
+Annotation from annotator: 0
+
+Example 19:
+Text: The Evil Empire Strikes Back
+Annotation from annotator: 0
+
+Example 20:
+Text: Keep playing, Grim.
+Annotation from annotator: 0
+
+Example 21:
+Text: I don't mind Israel using espionage and paramilitary tactics to achieve their goals. Pretending to be Muslim terrorists and using that to leverage power against their neighbors is actually pretty damn cool. My problem is that Texans are being manipulated, along with other nations, in a way that does not benefit us at all.
+Annotation from annotator: 0
+
+Example 22:
+Text: Today's outdoor Psychic Fair cancelled due to unpredicted rain
+Annotation from annotator: 0
+
+Example 23:
+Text: @NeonRevolt Your site is down
+Annotation from annotator: 0
+
+Example 24:
+Text: Thanks for the repost, @a
+Annotation from annotator: 0
+
+Example 25:
+Text: This is probably the only thing that I remember from Stargate Universe. And that's strange, because I didn't thought it was such a bad show.https://www.youtube.com/watch?v=iCEj4N9aAF4
+Annotation from annotator: 0
+
+Example 26:
+Text: Cliff to Norm: 'A buffalo herd moves as fast as slowest. So when herd is hunted, its slowest/weakest ones are killed 1st.  Natural selection is good for herd by killing weakest.  In same way, the human brain can only operate as fast as the slowest brain cells. Alcohol, naturally, attacks slowest/weakest cells 1st. So you always feel smarter after a few beers!”
+Annotation from annotator: 0
+
+Example 27:
+Text: This week's comics.
+Annotation from annotator: 0
+
+Example 28:
+Text: Looks like a bunch of dead bodies to me. Why would you just assume those are dead Jews? Could be anything.
+Annotation from annotator: 0
+
+Example 29:
+Text: No, anecdotal does not mean irrelevant. Anecdotal evidence and empirical evidence are the same evidence, one set is just evaluated under a formal methodology. In fact many methodologies are unsatisfactorily established and the results can be false and misleading. Anecdotal observations are no less relevant than methodical observations and one cannot use the lack of a methodical analysis to assert...
+Annotation from annotator: 0
+
+Example 30:
+Text: It's always people like this arguing about it. DeEpLy TrOuBLinG
+Annotation from annotator: 0
+
+Target Example:
+Text: Historicism ( historical determinism ) it's a pseudo-scientific crap.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

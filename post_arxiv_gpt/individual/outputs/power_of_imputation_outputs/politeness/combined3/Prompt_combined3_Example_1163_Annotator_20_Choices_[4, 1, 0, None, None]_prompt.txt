@@ -1,0 +1,173 @@
+Imputed Examples:
+Example 1:
+Text: <url> - "Even if he makes only a single administrative action then his having the tools is a net positive." - a single admin action> are you joking? he gets to see all the deleted data forever access to the extra buttons forever and you consider a single action as a net positive?
+Annotation from annotator: 6
+
+Example 2:
+Text: Hello, I've written a page about the <url>, shamelessly copying the style from your CCT/FoFC lists. In the process, have I missed anything out?
+Annotation from annotator: 15
+
+Example 3:
+Text: you need a copy, you say... by that you mean a translation, or one which has been reconstructed to meet en. wiki coding?
+Annotation from annotator: 9
+
+Example 4:
+Text: Again, what would be the point of redirection? Who on earth is going to fall on the redirect first?
+Annotation from annotator: 7
+
+Example 5:
+Text: Could you please explain <url> to me? I don't see how deleting a person's userpage is correct?
+Annotation from annotator: 10
+
+Example 6:
+Text: And  what did I do wrong???????????????????????
+Annotation from annotator: 5
+
+Example 7:
+Text: Heh, thanks. Do you know of any scripts that might come in handy?
+Annotation from annotator: 16
+
+Example 8:
+Text: Your <url> is a brilliant idea! Would you mind if I linked to it from my collection of "Useful things" on my user page?
+Annotation from annotator: 19
+
+Example 9:
+Text: Agreed. Why do we even waste our time discussing afd's, if consensus has no bearing on the result?
+Annotation from annotator: 11
+
+Example 10:
+Text: You deleted this, but somehow it still shows up on the parent category's page <url>.  Is this normal and/or can you fix this?
+Annotation from annotator: 12
+
+Example 11:
+Text: Technically, Taku is within his rights to change things to conform to an existing standard, but it's not very politic of him to do so; if we decide to change, then it's still more meaningless work to change everything once again. Unfortunately, it's all too common for editors to edit first and talk second, eh?
+Annotation from annotator: 9
+
+Example 12:
+Text: Hello Jeffq, I noticed you revert vandalism occasionally. Would you like me to grant your account <url> to help you revert vandalism more easily?
+Annotation from annotator: 19
+
+Example 13:
+Text: Nice to see you editing in article space! We have been chipping away at your compiled OBI list - can you believe it's almost done?
+Annotation from annotator: 15
+
+Example 14:
+Text: BTW, I'm not certain that Queen Victoria can be described as being the Founder without being somewhat misleading. What do you think?
+Annotation from annotator: 12
+
+Example 15:
+Text: Thanks, was getting worried there for a moment. Have you though of asking Outriggr for a hand with <url>?
+Annotation from annotator: 13
+
+Example 16:
+Text: Yeah, and it will still have been the third to pass the full bit string tests, instead of just the byte tests. :)   What's the significance of 2042?
+Annotation from annotator: 12
+
+Example 17:
+Text: It turns out that the Zelda Collection you referred to in <url> didn't include aLttP, reportedly because the GBA remake was still being sold at that time, so that disc included NES and N64 emulation but left out SNES. Do you have another example?
+Annotation from annotator: 11
+
+Example 18:
+Text: Do your sources have the dates of birth and death for <url>, which I just created? And, while I'm on the topic, any information regarding his playing career (if applicable)?
+Annotation from annotator: 11
+
+Example 19:
+Text: The <url> has a request (header "<url>") left a few hours ago by someone who has pictures of signs in China but can't read them.  Would you please be willing to help?
+Annotation from annotator: 14
+
+Example 20:
+Text: Just saw your message on <url>. Shall I carry on the review, or shall I wait for a cue from your side when you're ready to carry on?
+Annotation from annotator: 13
+
+Example 21:
+Text: To me these two bits of TeX look identical after they're rendered.  Can you explain the advantage of the latter format (since you've made a point of changing from the first to the second form in some articles)?
+Annotation from annotator: 9
+
+Example 22:
+Text: Unfortunately, I'm still worried this may not be enough to avoid arguments.  <url> says "A separate rationale must be provided each time the image is used in an article."  Should we just copy the tag for every article using the logo?
+Annotation from annotator: 12
+
+Example 23:
+Text: <url>. Congrats, or should I say good luck?
+Annotation from annotator: 14
+
+Example 24:
+Text: Hi, what I'm trying to establish is a reference for the assertion that Swails "may have been the first <url> commissioned as a officer in the <url> during the <url>". Does your source say that specifically?
+Annotation from annotator: 11
+
+Example 25:
+Text: LOL, I can't believe you reverted Kizzle's deletion of my summary at S & aQ. Did you actually like my summary?
+Annotation from annotator: 9
+
+Example 26:
+Text: So you're interested in both Amiga computers and BDSM! Are you an atheist too?
+Annotation from annotator: 7
+
+Example 27:
+Text: Have a look at the edit to <url>. Is this page even a dab?
+Annotation from annotator: 8
+
+Example 28:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 13
+
+Example 29:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 9
+
+Example 30:
+Text: Checkuser shows the three users share an ip from time to time. How serious is the problem?
+Annotation from annotator: 10
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: You have given your point by point rebuttals to my reasons several times. How can you say I haven't provided my reasoning?
+Annotation from annotator: 13
+
+Example 2:
+Text: Hi, Matt. Aren't you supposed to be banned?
+Annotation from annotator: 7
+
+Example 3:
+Text: Excellent, thank you! Can you also delete the <url> from en and move hooks from the <url> to <url>?
+Annotation from annotator: 20
+
+Example 4:
+Text: Nijdam, you quite rightly say, 'Every event that has occurred is a condition'. But many events have occurred, a door has been opened, a goat has been revealed, the host has spoken several words, how do you decide which of these events to condition on?
+Annotation from annotator: 8
+
+Example 5:
+Text: The link you provided to speedy delection criteria only goes up to CSD12, and there is no CSD 13 listed there.  Could you clarify?
+Annotation from annotator: 9
+
+Example 6:
+Text: Is there any consensus for these changes? If I've missed the discussion, I do apologise, but could you post me a link to where it occurred?
+Annotation from annotator: 19
+
+Example 7:
+Text: I don't recall. Is there something there that could damage my computer?
+Annotation from annotator: 13
+
+Example 8:
+Text: Be that as it may, and not to quibble with your block, but I did some research and I've found that this puppeteer does in fact exist - the Washington Post described him as a "master", for instance, and Woodcarver Online calls him a "leading puppet artist". May I ask why you decided that the creation of the article was indicative of socklike behavior?
+Annotation from annotator: 16
+
+Example 9:
+Text: This was supposed to have been moved to <url> per the CFD. Why wasn't it moved?
+Annotation from annotator: 11
+
+Example 10:
+Text: One more thing, you have a fellow Budgie insisting a losing appearance in an FA Cup semi is an "Honour" for your club.  I guess it's because you haven't won much lately, but really, a losing semi-finalist isn't an honour in the real sense of the word, is it?
+Annotation from annotator: 7
+
+Example 11:
+Text: It's larger now than the sub-stub previously deleted.  Can sources be added to verify the achievements?
+Annotation from annotator: 17
+
+Example 12:
+Text: I made the revert as an editor, not an Administrator - I haven't used my Admin tools and I have said I would not use them as I'm involved. Where did I say I hadn't read any of the material?
+Annotation from annotator: 14
+
+Target Example:
+Text: I agreed from my very first post on the first subject that it shouldn't be included yet you and the other user continued to misrepresent my position. Would you disagree with that?
+Annotation from annotator:

@@ -1,0 +1,82 @@
+Example 1:
+Text: You should always know why you do things.
+Annotation from annotator: 2
+
+Example 2:
+Text: Adults are expected to bathe daily.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shoulld not worry about others being jealous when posting things on facebook.
+Annotation from annotator: 3
+
+Example 4:
+Text: You shouldn't constantly think about death and dying.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's fun to go cart racing as long as you're careful.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't clone dinosaurs because that would just cause a lot of problems.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't date a bad partner.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's expected that a parent be polite to their children.
+Annotation from annotator: 4
+
+Example 9:
+Text: It is wrong to want to be humiliated.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's wrong to grow apart from your partner.
+Annotation from annotator: 2
+
+Example 11:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is good to be yourself.
+Annotation from annotator: 4
+
+Example 13:
+Text: It is bad to have arguments.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should feel remorse when you get someone fired.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's okay to hurt somebody who's stealing from you
+Annotation from annotator: 2
+
+Example 16:
+Text: It's good to have something in your life that you love with every fiber of your being.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's wrong to lash out at someone.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's wrong to sleep around.
+Annotation from annotator: 3
+
+Example 20:
+Text: You don't need to accept apologies if you're not ready to move on
+Annotation from annotator: 3
+
+Text: It's bad to prematurely quit because of frustration.
+Annotation from annotator:

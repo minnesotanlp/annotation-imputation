@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: @JMMARob and I love everything Chopin wrote, that's more than a century older than me.  I just happen to have goodmusicloving influencers!
+Annotation from annotator: 2
+
+Example 2:
+Text: Blog about arthritis in pets!  I have a 13yr old kitty who has arthritis   poor thing-but he still is very spirited! http://bit.ly/EHBNn
+Annotation from annotator: 3
+
+Example 3:
+Text: Wake up with terrible back ache...I'm getting old..should drink high calcium milk more often
+Annotation from annotator: 1
+
+Example 4:
+Text: This one works.  RIP  Classic .....In ode to my nine year old crush: http://bit.ly/fEWSL
+Annotation from annotator: 2
+
+Example 5:
+Text: is really sad Farrah Fawcett died....I really want to go watch old Charlie's Angels episodes now...
+Annotation from annotator: 2
+
+Example 6:
+Text: @lulu_nadine insane!!HAHA! couldn't agree with you more! hysterical!love that movie!!anw, go have your rest young lady!
+Annotation from annotator: 2
+
+Example 7:
+Text: want to bring back the same old days in my life!
+Annotation from annotator: 3
+
+Example 8:
+Text: @shanedawson i like the old setup for the channels better
+Annotation from annotator: 3
+
+Example 9:
+Text: ahhh.. its so time 4 me to call it a night, this is how i know im getting old
+Annotation from annotator: 2
+
+Example 10:
+Text: It's in Nigeria, for those who didn't know, and it's far far away. The twins will be only 9 months old at that time. I'm so sad about it
+Annotation from annotator: 2
+
+Example 11:
+Text: i keep begging my mom to let me move to Nebraska...she said i can when im older
+Annotation from annotator: 2
+
+Example 12:
+Text: I really wish my can driver would wear his glasses he's like 100yrs old ! He's squinting
+Annotation from annotator: 2
+
+Example 13:
+Text: @jordanknight I love the song " I need you " as an oldy song to sing, but would love for you to sing "close my eyes" *wink* I know u cant
+Annotation from annotator: 2
+
+Example 14:
+Text: Watching old band vids and recordings
+Annotation from annotator: 2
+
+Example 15:
+Text: @marclamonthill It'll get old in a few more days - especially if you have lunch with someone eating a burger and fries.
+Annotation from annotator: 2
+
+Example 16:
+Text: Risque tonight for Smut Night and I guess my birthday. I need to drown my old age in beer
+Annotation from annotator: 2
+
+Example 17:
+Text: @TurtleAF totally jammed out to slam dunk the funk today. and thought of you and old farmer street parties
+Annotation from annotator: 2
+
+Example 18:
+Text: @jack_daniel @MolsonFL cool, thanks guys. I accidentally deleted the old blog page . . hoped the new one worked.
+Annotation from annotator: 2
+
+Example 19:
+Text: @eliiiiza ok, but some strange painful tweak in my lower back! I'm not old enough for this kind of pain
+Annotation from annotator: 1
+
+Example 20:
+Text: I dislike the neighbor kids. I'm not nice either. I just realized though that they probably think I'm like the old man in Monster House.
+Annotation from annotator: 1
+
+Example 21:
+Text: @Miaisthegirl I am good thank you for asking. I am nineteen years old. How about you love? How old are you?
+Annotation from annotator: 2
+
+Example 22:
+Text: @_Mom24 My baby is 3.5 months old and I have bald patches at each temple. Had them with my first too.
+Annotation from annotator: 2
+
+Example 23:
+Text: @AmyDeWitt You have arthritis in them?  Really??  Poor you  That would be painful - but you can't be that old.  How many squats did u do
+Annotation from annotator: 2
+
+Example 24:
+Text: Sold my 10 year old kinetic. Sad to see it go
+Annotation from annotator: 2
+
+Example 25:
+Text: Had fun at skwel on the occasion of founnder's day.... met up wth old mates...!seniors and juniors....I miss skwel soo much Already!!!
+Annotation from annotator: 2
+
+Example 26:
+Text: My honey is sick again!  I think he's getting old!
+Annotation from annotator: 2
+
+Example 27:
+Text: @beej5 haha, his wedding was a long time ago- how old were you when you did that one?
+Annotation from annotator: 2
+
+Example 28:
+Text: Watching Desperate Housewives then Brothers & Sisters.  Back to the old salt mines tomorrow....the lottery has passed me by yet again.
+Annotation from annotator: 2
+
+Example 29:
+Text: @marylalaland09 ohh wow I had ur old # lol.. Here's my # 213 271 5314  hit me up yo..hey u should go 2 grand nite next month with us
+Annotation from annotator: 2
+
+Example 30:
+Text: I was so excited when I found a big chocolate donut at the bottom of the lake. Sadly, it turns out it's just an old tire.
+Annotation from annotator: 2
+
+Target Example:
+Text: Omg I just had to scream into an oldmans face I had to check a bitch before I wrecked a bitch, for real just fought with a senior  ackward
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

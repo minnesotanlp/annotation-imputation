@@ -1,0 +1,245 @@
+Human-rated Examples:
+Example 1:
+Text: It is normal to want to undo an action you regret.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's okay to buy lottery tickets on occasion.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's okay not to like certain phases
+Annotation from annotator: 4
+
+Example 4:
+Text: It's commendable to find a way out of addiction.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's acceptable to not like your parents.
+Annotation from annotator: 2
+
+Example 6:
+Text: You should respect others' property.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to be honest about your beliefs.
+Annotation from annotator: 3
+
+Example 8:
+Text: You should go to rehab when you have a drug addiction.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to want to feel assured about things.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's important to pay attention when something is in the oven
+Annotation from annotator: 4
+
+Example 11:
+Text: It's wrong to assume that someone is homeless.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's understandable to want your wedding to be just right.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's good to be there for your friend when they are having a baby.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's good to say nice things about others.
+Annotation from annotator: 4
+
+Example 15:
+Text: You shouldn't overwork yourself if you're pregnant.
+Annotation from annotator: 4
+
+Example 16:
+Text: It is expected that couples go out together on Valentines Day.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to question your grandparents' judgement.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is wrong to deceive your loved ones
+Annotation from annotator: 4
+
+Example 19:
+Text: If you don't want to crash, you shouldn't drive recklessly.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's good to socialize with others at school.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's wrong to be cheap.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's honorable to donate some of your money to charity now and then.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's ok to be curious about the insides of things.
+Annotation from annotator: 3
+
+Example 24:
+Text: It is okay to have your own tastes and preferences
+Annotation from annotator: 3
+
+Example 25:
+Text: Restaurants should expect their customers to become unruly if they aren't well served.
+Annotation from annotator: 2
+
+Example 26:
+Text: It's rude to pee on the floor in the bathroom.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's good to recognize the good qualities in others.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should be forgiving of your significant other.
+Annotation from annotator: 3
+
+Example 29:
+Text: You're allowed to feel annoyed with yourself if you want.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's good to take your responsibilities seriously.
+Annotation from annotator: 3
+
+Estimated Examples:
+Example 1:
+Text: It is immoral to kidnap children
+Annotation from annotator: 4
+
+Example 2:
+Text: It's good to maintain a job despite it being boring.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's bad to drink too much.
+Annotation from annotator: 3
+
+Example 4:
+Text: You can't expect your family to always invite you to their special events.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's good to want to do the things it takes to start a grown up life.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's painful to be abused by your partner.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's admirable when people try to learn from past mistakes.
+Annotation from annotator: 3
+
+Example 8:
+Text: You shouldn't give in to your temptations.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is bad to take things that aren't yours
+Annotation from annotator: 4
+
+Example 10:
+Text: It's okay to have a low sex drive.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's okay to be annoyed by other people's habits.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's wrong to not support a friend.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's fine to move on from your ex.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's frowned upon to throw a tantrum.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's good to get therapy after someone you love dies.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to harm animals.
+Annotation from annotator: 4
+
+Example 17:
+Text: You shouldn't criticize people for adopting their kids instead of having their own.
+Annotation from annotator: 4
+
+Example 18:
+Text: It is reasonable to want to stay home in your pajamas instead of going out all the time.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is okay to feel guilt.
+Annotation from annotator: 3
+
+Example 20:
+Text: You can't expect people to own up to their mistakes.
+Annotation from annotator: 2
+
+Example 21:
+Text: You should visit your family for the holidays.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's ok to have an opinion.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's okay to feel uncomfortable when you move somewhere inhospitable.
+Annotation from annotator: 4
+
+Example 24:
+Text: You shouldn't drive drunk.
+Annotation from annotator: 4
+
+Example 25:
+Text: You shouldn't let memories from your past scar you.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's okay to admit that silly things make you afraid.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's okay to have problems with someone who abandoned you for years and comes back into your life.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's bad to judge someone else's living situation.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to remind people that they are lucky.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's okay to feel uncomfortable when your parents are too direct when they give you the sex talk.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's good to have income.
+Annotation from annotator:

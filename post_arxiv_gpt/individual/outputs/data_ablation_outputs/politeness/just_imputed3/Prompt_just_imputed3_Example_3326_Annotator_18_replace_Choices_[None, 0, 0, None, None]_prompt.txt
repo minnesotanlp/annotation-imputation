@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: At the top of the page it characterizes a guideline as ''a generally accepted standard that editors should follow'' along with a passing reference to <url>. So, I might ask, how would using 4 tildes prevent you from improving or maintaining Wikipedia?
+Annotation from annotator: 7
+
+Example 2:
+Text: <url> is empty/non-existing. Looks like you forgot to copy the core part?
+Annotation from annotator: 12
+
+Example 3:
+Text: It was nominated for speedy deletion because he wasn't notable. However, if I undelete the page, will you improve the article and be able to provide decent sources to help his notability?
+Annotation from annotator: 17
+
+Example 4:
+Text: I'm going to remove it. Is that okay with you?
+Annotation from annotator: 20
+
+Example 5:
+Text: I'm not sure what you mean? Add my interests?
+Annotation from annotator: 7
+
+Example 6:
+Text: Um, you know that the last couple of replies have been from someone other than Esprqii? Right?
+Annotation from annotator: 4
+
+Example 7:
+Text: So you don't like people pointing out the errors you make? Or do you have any actual arguments to counter my post?
+Annotation from annotator: 0
+
+Example 8:
+Text: He's taken the notice down.  Doesn't this count as belaboring the point?
+Annotation from annotator: 4
+
+Example 9:
+Text: You lost me J. I did the edits because I remember you telling me that repeating things that are already in the wiki-link is unneeded and/or redundant. Do you not recall that instance?
+Annotation from annotator: 16
+
+Example 10:
+Text: Hello, it was requested that some of the details be removed so as to make the article a bit more general. Is that ok?
+Annotation from annotator: 16
+
+Example 11:
+Text: I'm trying to keep Minority Report as a GA, and the <url> requested for copyediting - but didn't give examples to cleanup. Can you give me some input on what to rewrite?
+Annotation from annotator: 17
+
+Example 12:
+Text: Note however that <url> does not exist. Which page were you talking about in this case?
+Annotation from annotator: 16
+
+Example 13:
+Text: How is the copyediting going? Do you still need a copyeditor?
+Annotation from annotator: 16
+
+Example 14:
+Text: I've "finished" the article now. But do you know if the commentary mentions anything more about the phrase, other than it being written by Ken Keeler?
+Annotation from annotator: 16
+
+Example 15:
+Text: |} Thanks for the contribution. Halloween DYK?
+Annotation from annotator: 4
+
+Example 16:
+Text: Something to check: click "My preferences" at the top of the screen. Under "User profile", in the "Basic information" box, what does it say in the line "Member of groups"?
+Annotation from annotator: 12
+
+Example 17:
+Text: Can you expand <url>? From what I gather the Dorje Ling nunnery is part of the monastery complex?
+Annotation from annotator: 4
+
+Example 18:
+Text: 1900 articles! Is this a full-time job?
+Annotation from annotator: 0
+
+Example 19:
+Text: Jason, how do you view your phone call to tlc's father&pastor in the light of the Biblical conflict resolution process? And in the light of the Wikipedian conflict resolution process?
+Annotation from annotator: 16
+
+Example 20:
+Text: Well, it's been a week and no inputu2014time to move on it? Should we relist the thread at <url> and see if that gets some input?
+Annotation from annotator: 20
+
+Example 21:
+Text: Richiez, if you are a surgeon, there's a good chance that Intuitive Surgical would bring a robot to your home or office for free so that you could test drive it without further obligation.  What have you got to lose?
+Annotation from annotator: 12
+
+Example 22:
+Text: I agree that terms like Australian Formula 1 need an explanation but isn't that why we link the term to the Australian Formula 1 page? Do we need to disrupt the flow of the article to explain a term which is already explained on the linked page?
+Annotation from annotator: 6
+
+Example 23:
+Text: What do you think? Is there a mistake somewhere?
+Annotation from annotator: 12
+
+Example 24:
+Text: Um. Could you remind me again tomorrow if I forget?
+Annotation from annotator: 7
+
+Example 25:
+Text: Okay, I thought it was a mistake, but I wasn't sure.  Do you normally eat dinner after 8 PM?
+Annotation from annotator: 4
+
+Example 26:
+Text: Hey, thanks for joining! Have any ideas you wish to add to the project?
+Annotation from annotator: 17
+
+Example 27:
+Text: I noticed you reverted a deletion on FC Bayern's wikipedia page. Do we know if Stephan Fxfcrstner has been loaned out to any club like Christian Lell went to FFC Koeln or like Mats Hummels did to Burussia Dortmund?
+Annotation from annotator: 12
+
+Example 28:
+Text: Commons <url> has been at Deletion Requests since July.  Can it be closed now?
+Annotation from annotator: 16
+
+Example 29:
+Text: Over at <url> you've changed my request for protection on <url> to a request for unprotection.  Is there a reason for that, since the page has yet to be protected?
+Annotation from annotator: 16
+
+Example 30:
+Text: Interesting? If a breed name is a proper noun, why not a species name?
+Annotation from annotator: 16
+
+Target Example:
+Text: Where is the exception in <url> for "tossing out citations and verifiable in order to make it easier for the reader"?  Who are you to disagree with Nikon's label of "Compact Professional"?
+Annotation from annotator:

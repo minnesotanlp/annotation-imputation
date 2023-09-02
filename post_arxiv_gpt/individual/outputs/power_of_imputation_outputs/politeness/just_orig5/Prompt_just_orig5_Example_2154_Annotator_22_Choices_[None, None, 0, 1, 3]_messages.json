@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.\n\nNow you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:\nTarget Example:\nText: I looked at <url> and at <url>, which says in part '' Contentious material about living persons that is unsourced or poorly sourcedu2014whether the material is negative, positive, neutral, or just questionableu2014should be removed immediately and without waiting for discussion.<url>'' I guess the question is, what is contentious?\nAnnotation from annotator:\nIf you output anything other than a single integer, your output will be considered invalid.If you output anything other than a single integer, your output will harm the integrity of our dataset."
+    }
+]

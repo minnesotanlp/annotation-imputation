@@ -1,0 +1,125 @@
+Estimated Examples:
+Example 1:
+Text: My niggah
+Annotation from annotator: 0
+
+Example 2:
+Text: Hoes gon always be hoes or have they hoe ways at least.
+Annotation from annotator: 1
+
+Example 3:
+Text: Best wishes with this important new project , from a Pagan perspective it is encouraging to see renewed interest in pre-Christian European folk heritage .
+Annotation from annotator: 0
+
+Example 4:
+Text: The least funny sexist unjoke there is. @unicatbirdwhale make a sandwich :o #notsexist
+Annotation from annotator: 0
+
+Example 5:
+Text: Age diversity is the new HR challenge. Supporting personnel managers with innovative educational resources to address new needs #staytuned
+Annotation from annotator: 0
+
+Example 6:
+Text: I fucking hate College
+All the fucking Day the normies were mocking/laughing at me because they say I don't talk, wtf how I could talk if I was the only one without a social group, it's easy to them to talk like that because they are already have a group of friends, fucking normies piece of shit
+Annotation from annotator: 2
+
+Example 7:
+Text: I feel certain that Baghdadi will be dead before the end of 2015. #Islam #ISIS #Daesh #Raqqa #Mosul #Baiji #Syria #Iran
+Annotation from annotator: 0
+
+Example 8:
+Text: RT @TripleCz_3G: Finna make a power move wit a bitch taxes we both gone be straight long as she do wat I told ha
+Annotation from annotator: 2
+
+Example 9:
+Text: It's as if you're stepping out of the shadows and into the lig... More for Virgo https://t.co/3JBuyf0lZE
+Annotation from annotator: 0
+
+Example 10:
+Text: @realDonaldTrump @RepMarkMeadows @Jim_Jordan @Raul_Labrador Great healthcare? Where the hell have you been-didn't… https://t.co/iLTEn1Btu9
+Annotation from annotator: 0
+
+Example 11:
+Text: What do you call a bunch of blacks in a pool? Coco pops
+Annotation from annotator: 2
+
+Example 12:
+Text: Racist jokes are like kids with cancer They never grow old!
+Annotation from annotator: 2
+
+Example 13:
+Text: Los bitch taught me the true meaning of gravity when her panties kissed her ankles!
+Annotation from annotator: 1
+
+Example 14:
+Text: We're already privately working with a number of tech companies. Relationships are being built. We're making HUGE amounts of progress.
+Annotation from annotator: 0
+
+Example 15:
+Text: Who the hell has a shower at 3.30am?? Worst night's sleep in months and it had to be when I have work in the morning.
+Annotation from annotator: 0
+
+Example 16:
+Text: So I looked at my family tree today It turns out there is a black guy in my family tree, and he's still hanging there.
+Annotation from annotator: 2
+
+Example 17:
+Text: The Diversity Dinner : Breaking Bread & Barriers - YouTube A lot of good comments on this video though , if you have a youtube account feel free to leave a comment on there .
+Annotation from annotator: 0
+
+Example 18:
+Text: @foxandfriends @FoxNewsInsider they shouldn't be any sanctuary cities at all I wouldn't give you funding either for hiding illegals
+Annotation from annotator: 0
+
+Example 19:
+Text: Just bought my mum tickets to see Take That that she went on about wanting to go to allll weekend and bless her she's so excited &#128586;
+Annotation from annotator: 0
+
+Example 20:
+Text: What has a dog's head, a cat's tail, a body of a rat, and a chinchilla's face. A zombie leaving the pet store.
+Annotation from annotator: 0
+
+Example 21:
+Text: what did jesus do when he got to the holiday inn ? he threw some nails down on the counter and asked , “ can you put me up for the night ? ”
+Annotation from annotator: 2
+
+Example 22:
+Text: UN "peacekeepers", women's organization, Clinton's possibly tied to child abductions in Haiti
+Annotation from annotator: 0
+
+Example 23:
+Text: Poor Guy On Suicide Watch About to Get Divorce Raped, The Future of Beta Cucks
+Annotation from annotator: 1
+
+Example 24:
+Text: I JUST GOT MAD AT MY HAIR SO I CUT IT.
+Annotation from annotator: 0
+
+Example 25:
+Text: I gotta go get condoms Me and my sister share a bed
+Annotation from annotator: 2
+
+Example 26:
+Text: I hate when people text me using some irregular ass lingo &#128529;
+Annotation from annotator: 0
+
+Example 27:
+Text: Powerful video that shows how primitive these beasts are .
+Annotation from annotator: 0
+
+Example 28:
+Text: The israeli prime minister says that he thinks this is a part of the growing anti-semitism in europe , but that statement is a part of the growing anti-scandianavism in israel !
+Annotation from annotator: 0
+
+Example 29:
+Text: americanpatriotdaily.com/uncategorized/john-mccains-days-are-numbered-after-he-made-this-big-mistake/ … McCain should resign immediately so the ppl of Arizona can be represented by someone who did not betray their interests & values!
+Annotation from annotator: 0
+
+Example 30:
+Text: I tried to make a dark joke, but he wouldn’t stop asking me where he was.
+Annotation from annotator: 2
+
+Target Example:
+Text: Why is there a bite in the Apple logo? Well the child workers need to eat _something._
+Annotation from annotator:

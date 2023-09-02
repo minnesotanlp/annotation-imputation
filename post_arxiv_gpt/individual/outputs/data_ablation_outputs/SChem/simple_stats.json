@@ -1,0 +1,50 @@
+{
+    "just_orig7_replace": {
+        "best accuracy": 0.26666666666666666,
+        "best weighted avg f1-score": 0.3551282051282051
+    },
+    "just_orig7_no_replace": {
+        "best accuracy": 0.26666666666666666,
+        "best weighted avg f1-score": 0.3551282051282051
+    },
+    "just_orig6_replace": {
+        "best accuracy": 0.3333333333333333,
+        "best weighted avg f1-score": 0.3558169934640523
+    },
+    "just_orig6_no_replace": {
+        "best accuracy": 0.26666666666666666,
+        "best weighted avg f1-score": 0.29045112781954885
+    },
+    "just_orig5_replace": {
+        "best accuracy": 0.36666666666666664,
+        "best weighted avg f1-score": 0.35912061794414735
+    },
+    "just_orig5_no_replace": {
+        "best accuracy": 0.36666666666666664,
+        "best weighted avg f1-score": 0.35
+    },
+    "combined3_replace": {
+        "best accuracy": 0.5666666666666667,
+        "best weighted avg f1-score": 0.5628571428571428
+    },
+    "combined3_no_replace": {
+        "best accuracy": 0.6333333333333333,
+        "best weighted avg f1-score": 0.6203703703703703
+    },
+    "just_imputed1_replace": {
+        "best accuracy": 0.6,
+        "best weighted avg f1-score": 0.603968253968254
+    },
+    "just_imputed1_no_replace": {
+        "best accuracy": 0.6333333333333333,
+        "best weighted avg f1-score": 0.6516666666666667
+    },
+    "just_imputed3_replace": {
+        "best accuracy": 0.5666666666666667,
+        "best weighted avg f1-score": 0.5666666666666667
+    },
+    "just_imputed3_no_replace": {
+        "best accuracy": 0.6,
+        "best weighted avg f1-score": 0.614538770053476
+    }
+}

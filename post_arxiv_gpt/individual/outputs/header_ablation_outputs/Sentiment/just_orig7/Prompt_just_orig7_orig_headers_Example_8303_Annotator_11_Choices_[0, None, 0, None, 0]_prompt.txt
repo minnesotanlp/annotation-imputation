@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Estimated Examples:
+Example 1:
+Text: @MabelKwan Me too! My phone is 3 yrs old!! It can even qualify for the museum adi  Lets get the new iPhone when its out!
+Annotation from annotator: 2
+
+Example 2:
+Text: Did not feel the blondeness so boring old brown it is  http://twitpic.com/6iy9v
+Annotation from annotator: 1
+
+Example 3:
+Text: Scenes from my commute, day 36. No line? I guess others like me have an iPhone that's only a month old   http://twitpic.com/7sry7
+Annotation from annotator: 2
+
+Example 4:
+Text: People live to be far younger than that.
+Annotation from annotator: 3
+
+Example 5:
+Text: is wondering why his 2 year old daughter's blood sugar dropped so low again last night. 41 is too low.
+Annotation from annotator: 2
+
+Example 6:
+Text: @treasaint she is lovely i have my own cat called fudge she means the world to me did have 2 but one died at the young age of 7months
+Annotation from annotator: 2
+
+Example 7:
+Text: today dad bought this frkn HUGGEEE sony bravia tv. but YAY it means i get the old mediuism still big tv
+Annotation from annotator: 2
+
+Example 8:
+Text: Boot drive recovered (<8 months old), cloned to new drive. Installed Vista SP2 (I'm a TechNet subscriber) in under 25 mins. Good to go.
+Annotation from annotator: 3
+
+Example 9:
+Text: cleaning up the room thinking of the old room with my awesome roomies
+Annotation from annotator: 2
+
+Example 10:
+Text: I went up to my old school earlier & all my old art work had been thrown away
+Annotation from annotator: 2
+
+Example 11:
+Text: is eating my packed Lunch i feel about 10 yrs old lol
+Annotation from annotator: 3
+
+Example 12:
+Text: How do you explain death to a 5 year old??
+Annotation from annotator: 2
+
+Example 13:
+Text: @krystalseven I'm 27 as well and I feel old, a few months ago I said for the 1st time,"I haven't seen that in 20 years." ehhh!
+Annotation from annotator: 1
+
+Example 14:
+Text: Watching old episodes of "The Sopranos" makes me miss it so much.  #ONTD #ONTD #ONTD #ONTD #ONTD #ONTD #ONTD #ONTD #ONTD #ONTD #ONTD #ONTD
+Annotation from annotator: 2
+
+Example 15:
+Text: @youngq my daughter turned 15 today...feeling old
+Annotation from annotator: 2
+
+Example 16:
+Text: Just heading to sleep. @firebird06 is snoring. @GizKitty is at my feet. @diagnosed is in @stickykeys old room and Mathias has no twitter.
+Annotation from annotator: 2
+
+Example 17:
+Text: @RoxiiJonas i wish i was going to her show! no one to go with  how old are you? lol, are you same as nick? (sorry i dont know!)
+Annotation from annotator: 2
+
+Example 18:
+Text: @etanowitz my  blackberry is so old I can't shoot video.
+Annotation from annotator: 2
+
+Example 19:
+Text: @draykh well, sort of. I just need to break down and buy another machine; mine are getting cranky in their old age
+Annotation from annotator: 2
+
+Example 20:
+Text: Having interesting time as youngest's school just confirmed as having swine flu outbreak
+Annotation from annotator: 2
+
+Example 21:
+Text: @Mandyyyy ya, my moms oldest brother.
+Annotation from annotator: 2
+
+Example 22:
+Text: @bista omg i almost did!! lol. although i fully missed the old couple's montage in the beginning which was supposedly the saddest part
+Annotation from annotator: 1
+
+Example 23:
+Text: @DCBadger Oh an afghan? Perhaps you're a sick old woman? ;) Feel better! Take vitamin C!
+Annotation from annotator: 1
+
+Example 24:
+Text: Just tried downloading pics from old camera's memory card and computer isn't reading it, says there is no program to match
+Annotation from annotator: 2
+
+Example 25:
+Text: Going back to bed, since my youngest was up sick.
+Annotation from annotator: 2
+
+Example 26:
+Text: Is it just my imagination or do seniors in a group situation such as senior centers or senior living facilities act more like the stereotypical young people than do seniors who tend to stay away from those groups.
+Annotation from annotator: 1
+
+Example 27:
+Text: @cathy_cochina40 no he's not!!! Lol u know my old boss told me the same thing about jordan too!!  haha so yea, I don't believe it!
+Annotation from annotator: 2
+
+Example 28:
+Text: The dead were in town last two nights. And I felt nothing.  it's tough to get old.
+Annotation from annotator: 1
+
+Example 29:
+Text: Bill cosby's on leno..he's so old but still so awesome
+Annotation from annotator: 1
+
+Example 30:
+Text: I need some new models.  I broke my old ones
+Annotation from annotator: 2
+
+Target Example:
+Text: It is extremelyhard finding cute dressy clothes for an 8 year old boy
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

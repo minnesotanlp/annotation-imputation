@@ -1,0 +1,122 @@
+Example 1:
+Text: PS. Is <url> more relevant to explain the analogy?
+Annotation from annotator: 15
+
+Example 2:
+Text: Ah, so next time I don't have to include "Places". Are there more specific categories I could use instead of "Places"?
+Annotation from annotator: 15
+
+Example 3:
+Text: I'm not sure what you are asking here. Admins cannot check IPs but why would you even want the same IP that would be foolish wouldn't it?
+Annotation from annotator: 9
+
+Example 4:
+Text: Ha, you're too kind to me, my old friend. MK one day, promise?
+Annotation from annotator: 17
+
+Example 5:
+Text: We need a visual of some kind. How's the state of your right-brain today?
+Annotation from annotator: 9
+
+Example 6:
+Text: The Indian collaboration of the week will be the <url> next week. Would you be interested in joining us to make it a Featured Article?
+Annotation from annotator: 19
+
+Example 7:
+Text: I don't follow.  Can you address the above with regard to why it ''shouldn't'' be speedily deleted, as a recreation of deleted material, and as a content fork?
+Annotation from annotator: 8
+
+Example 8:
+Text: This is what you wrote: "In the book 'Inventing Elliot' written by Graham Gardener, the book, 1948 is mentioned numerous times." What book, 1948??
+Annotation from annotator: 16
+
+Example 9:
+Text: It was for closure's sake, as to show that the debate was closed and that was the result, the user was '''blocked''' and the userpage was '''deleted'''.  Doesn't that show you the items better?
+Annotation from annotator: 8
+
+Example 10:
+Text: Thank You. What is "The Prince of Santorini" anyway?
+Annotation from annotator: 18
+
+Example 11:
+Text: While you are absolutely free to vote however you choose, FAC requires you lodge actionable objections and your objection as it stands right now is quite vague. Could you please specify it so I can take action and possibly reverse your vote?
+Annotation from annotator: 8
+
+Example 12:
+Text: Not trying to pick a fight - a user that reverts all articles to a version by you is suspect. Any New Year's resolutions Will?
+Annotation from annotator: 8
+
+Example 13:
+Text: I note you also removed the statement that "Hurrell had been involved in previous altercations". Why?
+Annotation from annotator: 8
+
+Example 14:
+Text: I am willing to try to discover the problem. What browser do you use?
+Annotation from annotator: 16
+
+Example 15:
+Text: The answer is "one citation per city". Information must always be verifiable; without verifiable sources for say, Unna, how exactly are we to tell that the article is accurate?
+Annotation from annotator: 10
+
+Example 16:
+Text: Those of us who've been here the whole time are pretty incredulous about it also. :)  We miss your fine editing style and hope you come back sometime -- keep looking in on us now and then, at least?
+Annotation from annotator: 14
+
+Example 17:
+Text: Could you take a look at the article now and see whether your concerns (except the reorganization) have been addressed? If not, what is still missing, and what technical terms do you feel need explaining?
+Annotation from annotator: 16
+
+Example 18:
+Text: Well this seems odd to me. Don't you find it strange that otherwise authoritative sources like Emulex and IBM would be so full of mistakes?
+Annotation from annotator: 7
+
+Example 19:
+Text: TimPF - I don't see the objectives as mutually exclusive, the previous creation of the Suburban Rail stubs by others took the content in a direction which I am reinforcing with these edits which fill out the stubs and bring a bit of consistency within the Suburban parts of RTIL.  PRTIL could fulfill a similar function for mainline services perhaps?
+Annotation from annotator: 15
+
+Example 20:
+Text: I'm glad you made things calculate automatically (and I trust you've tested it!). Shouldn't we update the <url> to not show the unneeded variables, then?
+Annotation from annotator: 12
+
+Example 21:
+Text: Alright, I added my final ideas. <url>?
+Annotation from annotator: 15
+
+Example 22:
+Text: The "standard work" on Introduction to... articles is presently <url>, maybe you could add your thoughts as some kind of appendix/discussion? I don't know what the procedure is for essays, single author of Wiki-style?
+Annotation from annotator: 13
+
+Example 23:
+Text: I have it ready now. Would there be any policy violations if I upload the image over the protected one?
+Annotation from annotator: 16
+
+Example 24:
+Text: What would be needed is for a human to check the list, do various filters, and then suggest values for the missing data. What is the best format to return the data in, having in mind the idea to get a bot to add the data?
+Annotation from annotator: 14
+
+Example 25:
+Text: OK, I'll bite. How is ''Matt "Dirty" Sanchez'' to be construed as anything other than a personal attack?
+Annotation from annotator: 8
+
+Example 26:
+Text: <url> and <url>, both created  by you, seem to be mostly overlapping but are not identical.  Presumably one should be a redir to the other?
+Annotation from annotator: 9
+
+Example 27:
+Text: I remember your commenting on this about seven years ago.  What's your view today?
+Annotation from annotator: 12
+
+Example 28:
+Text: Also, how does that vandalism thing on your page work? Do you have to change the count manually, or does it detect vandalism itself?
+Annotation from annotator: 15
+
+Example 29:
+Text: Thanks for adding stuff to the update. Would you like to help out with the notifications (the real pain of this ... grrr)?
+Annotation from annotator: 15
+
+Example 30:
+Text: Sorry... haven't unblocked many people before. Is it ok now?
+Annotation from annotator: 16
+
+Text: Hi, do you mind if I move your hook to go live on 26/27th? The GLAM WIKI conference could do with being highlighed by a non US/UK hook?
+Annotation from annotator:

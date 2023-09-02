@@ -1,0 +1,151 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Correct Examples:
+Example 1:
+Text: r/ForeverAlone is beyond saving (I also got permabanned for this post)
+Annotation from annotator: 0
+
+Example 2:
+Text: But you're so cute! Why do you want to be a boy?
+Annotation from annotator: 1
+
+Example 3:
+Text: having a whore mother sucks
+ruined the whole family dynamic
+Annotation from annotator: 2
+
+Example 4:
+Text: The Men's Right Book Club: Down The Rabbit Hole Of Cultural Misandry - Week 001
+Annotation from annotator: 1
+
+Example 5:
+Text: I watched a romance anime
+Now the suicidal thoughts are back again
+Annotation from annotator: 1
+
+Example 6:
+Text: What is my favorite thing about transexuals ? Their suiscide rate
+Annotation from annotator: 2
+
+Example 7:
+Text: Daily reminder: if femaloids weren't used for reproduction, they would have been extinted by now
+They are a weaker and less intelligent specie than men.
+Annotation from annotator: 2
+
+Example 8:
+Text: #WWE Brock Lesnar vs Braun Stroman VS Kane at the Royal Rumble
+Annotation from annotator: 0
+
+Example 9:
+Text: im fucking over today and practically over tomorrow. someone wake me up when it's sunday.
+Annotation from annotator: 0
+
+Example 10:
+Text: @sleepe21 these hoes gay thats why
+Annotation from annotator: 1
+
+Example 11:
+Text: RT @baeElectronica: this is genius &#128221; RT @PhilthyCleo: "You fat" 
+
+"Nigga so is this pussy since we statin facts" &#128557;
+Annotation from annotator: 1
+
+Example 12:
+Text: RT @Jazzy_Blow: i can't never keep no bitch cause i put them hoes out
+Annotation from annotator: 2
+
+Example 13:
+Text: Read this book, heed its warnings and perhaps you can avoid its dire predictions.
+Annotation from annotator: 0
+
+Example 14:
+Text: Our schools are horrible , all they teach is telling kids to be liberal and respect people of all races and take no pride in your own .
+Annotation from annotator: 2
+
+Example 15:
+Text: @HonchoPikasoe lmao hell yea.. I love thick bitches &amp; thick bitches love fat niggas.
+Annotation from annotator: 1
+
+Example 16:
+Text: henny cups on all that ice bitch i'm froze up
+Annotation from annotator: 0
+
+Example 17:
+Text: Good thinking I hear you say. Sadly not. The elastic had gone in the waistband &amp; they fell down (mid plank/sit up combination) thus exposing
+Annotation from annotator: 0
+
+Example 18:
+Text: #DayAndNight by @GHReaLMc prod by @drraybeat drops at 10:00am today the 7th of April. Share to reach the masses.
+Annotation from annotator: 0
+
+Example 19:
+Text: The majority of them are as stupid as real Negroes .
+Annotation from annotator: 2
+
+Example 20:
+Text: Maybe you could live on Mars and help us all out. @TheDanielNorton I'm not sexist, but if I hear a woman's voice on the radio I turn it
+Annotation from annotator: 2
+
+Example 21:
+Text: Finally someone comes out and tells a portion of the truth !
+Annotation from annotator: 0
+
+Example 22:
+Text: Sleepytime peach tea with lavender infused honey, you complete me.
+Annotation from annotator: 0
+
+Example 23:
+Text: IQ by race:
+Ashkenazi Jews 115
+E Asians 106
+Whites 102
+Inuits and Eskimos 91
+American Indians 87
+Non-White Hispanics 86
+Koko (a western lowland gorilla) 85
+American Blacks 85 (average 24% White admixture)
+African Blacks 67 (only 2% of Whites score this low)
+Australian Aborigines 62
+Congo Pygmies 54
+Annotation from annotator: 0
+
+Example 24:
+Text: RT @marleylowkey_: &#8220;@_100D: All These hoes sooo average &#128553;&#128533;&#8221; of course
+Annotation from annotator: 2
+
+Example 25:
+Text: The fly on the wall,
+By the stairs, down the hall
+Is a drone with a camera,
+Making a visual phone call.
+Annotation from annotator: 0
+
+Example 26:
+Text: GRAVIS: ALABAMA
+-Roy Moore is losing independents 67% to 28%
+-Roy Moore only has 73% of Republicans and 14% of Republicans will vote for Doug Jones
+-Roy Moore only has 52% of Whites and 10% are uncertain
+-18% of Evangelicals are still uncertain
+-17% of High School Graduates are uncertain
+Annotation from annotator: 0
+
+Example 27:
+Text: I noticed the crime stats for Kalispell are a little higher than average .
+Annotation from annotator: 0
+
+Example 28:
+Text: Men just aren't funny! @DammitBoden how many men does it take to mop a floor? None, that's women's work. #notsexist
+Annotation from annotator: 2
+
+Example 29:
+Text: For some reason the closer Christmas gets here the more pissed off I am getting...  ;)
+Annotation from annotator: 0
+
+Example 30:
+Text: How could you begin to tell people that all this multi cultural stuff is wrong without being hated on by our fellow people ?
+Annotation from annotator: 0
+
+Target Example:
+Text: Being an Addict for 15 Years the money I've spent has only been in the 200 hundred range because I've been blessed and fortunate for others to give me stuff I know it's not a thing to brag about just had this on my mind and wanted to share
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

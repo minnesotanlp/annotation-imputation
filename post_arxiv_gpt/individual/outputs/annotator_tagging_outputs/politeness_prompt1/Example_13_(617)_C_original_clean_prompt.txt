@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Do you mind telling me why you haven't reverted my rewriting of the first sentence, and changes to the introduction? Perhaps you would prefer to delete the two new biographies that I have just started to cover the red links?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: Can you take a look at the article <url> and the conversation going on at <url> (that should probably be moved to the article talk page).  Your thoughts on the most recent commentary?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: Hi.  Not complaining, but why did you remove the category "high schools in california" from this article?
+Annotation from annotator: 12.0
+
+Example 4:
+Text: Hey, i saw you added <person> some time ago to the pic page. I'm just curious, why do you want it to still be available here?
+Annotation from annotator: 12.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: I know you're disappointed.  What is the plan?
+Annotation from annotator: 18.0
+
+Example 2:
+Text: What's wrong with having everything look the same, the links are for the Official website of the channel so I don't see the problem??
+Annotation from annotator: 7.0
+
+Example 3:
+Text: Good find. Do you have a cite for the second para?
+Annotation from annotator: 20.0
+
+Example 4:
+Text: ''You wrote:'' I'm not trying to be obtuse, but is what you're saying in essence that if we cannot tell whether an award is utterly trivial then that uncertainty becomes sufficient assertion of notability to not apply A7? So if an assumption needs to be made, or discretion employed, A7 doesn't apply because the assertion of notability has been made?
+Annotation from annotator: 5.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: I am stuck with the formatting of <url>, especially the ref tags. How can I make the different chapters of my main source book show up correctly?
+Annotation from annotator: 20.0
+
+Example 2:
+Text: It is being suggested on <url> that the recent round of editing of <url> in which you were involved amounted to no more than sanitisation. Perhaps you could advise?
+Annotation from annotator: 17.0
+
+Example 3:
+Text: Hello...I looked up <url>, and found that this person is a previous vandal. Is this sufficient to block the user, since more vandalism was done on Cold War article?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: I have the picture (3D) model of a chemical compound made with Accelrys, but I don't have Photoshop. What can I do?
+Annotation from annotator: 16.0
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: Keeping a list of everything bad user:XXX did in your user space is neither constructive nor appropriate. Perhaps we should both focus on the many positive things to do rather than the very occasional misbehavior?
+Annotation from annotator:

@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: It's a good idea to be on time when you have a plane to catch.
+Annotation from annotator: 3
+
+Example 2:
+Text: Taking up space in a coffee shop is selfish.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's okay to be annoyed when you think your friend is fishing for compliments.
+Annotation from annotator: 3
+
+Example 4:
+Text: You shouldn't sleep around if you don't want to get an STD.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's important to appear in court to state your case to the judge.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's not expected that children know consequences of their actions, they need to learn first
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to spend time with your partner.
+Annotation from annotator: 3
+
+Example 8:
+Text: You should be considerate of your loved ones.
+Annotation from annotator: 3
+
+Example 9:
+Text: People will eventually get annoyed with you if you're always doom and gloom.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's not okay to be to happy with a material object.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should call for help if you're injured or sick.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is rude to pester your friends
+Annotation from annotator: 3
+
+Example 13:
+Text: You should always expect people to want proof when requiring something important.
+Annotation from annotator: 3
+
+Example 14:
+Text: City vehicles should not expect to park wherever they please.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is normal to worry if your mom has cancer.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's okay to be excited about big life milestones.
+Annotation from annotator: 3
+
+Example 17:
+Text: You should expect to be punished when you play pranks on people.
+Annotation from annotator: 2
+
+Example 18:
+Text: It is unacceptable to cheat on your spouse.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's rude to decline food that a host offers you.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't run out of places.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's reasonable to make a mistake with an employee's paycheck.
+Annotation from annotator: 2
+
+Example 22:
+Text: It is bad to shut down when things bother you.
+Annotation from annotator: 3
+
+Example 23:
+Text: You parents don't have to share their personal situation with you if they don't want to.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good to believe in someone and help them.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's okay to be bisexual.
+Annotation from annotator: 2
+
+Example 26:
+Text: It's rude to play pranks on other people.
+Annotation from annotator: 2
+
+Example 27:
+Text: It is good to have friends who are there for you.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's important to spend time with your significant other.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's nice to like someone's post.
+Annotation from annotator: 3
+
+Example 30:
+Text: You should not use other people's property without permission.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's understandable to feel annoyed when someone wants attention.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

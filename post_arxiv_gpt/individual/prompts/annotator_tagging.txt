@@ -1,0 +1,14 @@
+Description of the dataset:
+{dataset_description}
+
+How annotator A has labeled some examples:
+{annotator_A_examples}
+
+How annotator B has labeled some examples:
+{annotator_B_examples}
+
+How annotator C has labeled some examples:
+{annotator_C_examples}
+
+How might annotator {target_annotator} label this example? Output the annotation that seems most likely.
+{target_example}

@@ -1,0 +1,83 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: "Rutger OS not fully functional yet. System operating at 78%." Getting older... these weekends... getting harder.. to recover...from.
+Annotation from annotator: 3
+
+Example 2:
+Text: 4 hrs of sleep is NOT enough to function on anymore... I must be getting old!
+Annotation from annotator: 2
+
+Example 3:
+Text: @DonnieWahlberg  "donnie rocks" if u could only here it my 2year old runs around every where sayin "donnie rocks"
+Annotation from annotator: 2
+
+Example 4:
+Text: @Jew_News  No problem - thought it seemed a couple weeks old
+Annotation from annotator: 2
+
+Example 5:
+Text: @LiliCosic there're many people who support other teams  I prefer Ferrari cause I love that engine!^^Vettel is young,but he's a champion!
+Annotation from annotator: 2
+
+Example 6:
+Text: @MYFUTURELIES i didnt know 26 year olds rode bmx's  thats cute  hahaha
+Annotation from annotator: 2
+
+Example 7:
+Text: @MrChopman thanks dude!  it's saved so much space from where the old TV was. and now i can watch avis and stuff.
+Annotation from annotator: 2
+
+Example 8:
+Text: @Thahani I know! I really miss the old days!  I ADORED the attitude era!
+Annotation from annotator: 2
+
+Example 9:
+Text: @andyclemmensen old people are cute  , not cute like the way you shaun and bradie are cute, cute in a dif way why are yous there?xoxo
+Annotation from annotator: 2
+
+Example 10:
+Text: @downlikeanchors you should warn someone when you change your username. I tweeted to the old one.
+Annotation from annotator: 3
+
+Example 11:
+Text: @iamnatassja Ha ha, wicked! I wish i could train today, royally fucked up my neck,shoulder, this week. So sore  I'm getting old missy!!
+Annotation from annotator: 2
+
+Example 12:
+Text: @inckognito hello  I don't look 4 anything special, just old pieces and some wodehouse first editions ^^
+Annotation from annotator: 3
+
+Example 13:
+Text: @jamiecullum Eh, they get old really fast. Welcome to the cool kids quake club
+Annotation from annotator: 2
+
+Example 14:
+Text: @jessicalearning I love Xbox 360!!! I also play PS2 and PC...I have my pc setup to play all the old NES SEGA N64 and SNES games.
+Annotation from annotator: 2
+
+Example 15:
+Text: @kcklo63 you have a smart 9 year old .. Although its a little more than that  but she is on the right path of thinking ..
+Annotation from annotator: 2
+
+Example 16:
+Text: @lagresto Wow...you know alot of Nancys! That's an old name. Are we that old? lol! All the Nancy's I know are 40 and older!
+Annotation from annotator: 2
+
+Example 17:
+Text: @renaedeliz What the heck?  I'm older then you and I still don't remember that...course no one remembers kid turbo
+Annotation from annotator: 2
+
+Example 18:
+Text: @saturrrday AHAHAHAHA.  We've got a workie in next week.  Camcorder > gawking 14yr old, methinks.  Also, free treatment = WIN
+Annotation from annotator: 2
+
+Example 19:
+Text: @xCHICKAMUNGUSx Yeah, all of the older women in my family have Type 2  I try to do everything I can to never get to that point.
+Annotation from annotator: 2
+
+Target Example:
+Text: Cute fuckin asian girl is only in High School & she's a junior...tooo young. Bah
+Annotation from annotator:
+Your output should be a single integer and nothing else.

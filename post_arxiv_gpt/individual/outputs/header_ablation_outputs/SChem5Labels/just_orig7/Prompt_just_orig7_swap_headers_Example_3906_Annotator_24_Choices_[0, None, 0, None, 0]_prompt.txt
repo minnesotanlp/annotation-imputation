@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: You shouldn't put a friend's ex before them.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's expected that you honor your work commitments.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's understandable if you're scared when you get lost.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is good to not say anything rather than saying something rude.
+Annotation from annotator: 3
+
+Example 5:
+Text: You shouldn't be rude to someone in matters involving personal appearance/hygiene
+Annotation from annotator: 3
+
+Example 6:
+Text: It's important to let your partner know about your needs.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't have a matching tattoo with someone you had an affair with if you're in a relationship.
+Annotation from annotator: 4
+
+Example 8:
+Text: You should learn to respect your parents in law.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's wrong to threaten your friends.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's expected you catch feelings when seeing someone attractive
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to have your own garden.
+Annotation from annotator: 1
+
+Example 12:
+Text: Schools should close if the weather is bad.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's understandable if you knock on someone's door instead of entering.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's good to take a stance for feminism.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's not okay to go overboard trying to impress someone.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's fun to belong to a secret society.
+Annotation from annotator: 2
+
+Example 17:
+Text: It is not okay to treat someone badly.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is expected that people will be concerned if a loved one has cancer.
+Annotation from annotator: 3
+
+Example 19:
+Text: You should make absolutely sure of your decision before using your authority over people.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't exclude your friends.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's wrong to force people out of your home.
+Annotation from annotator: 3
+
+Example 22:
+Text: You shouldn't tell someone you have feelings for them when they are dating someone else.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't let your pets onto your table.
+Annotation from annotator: 2
+
+Example 24:
+Text: Having hair in your eyes can affect our vision.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is the duty of the best man to help the groom get ready.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is irresponsible to quit a job.
+Annotation from annotator: 2
+
+Example 27:
+Text: You shouldn't have an affair if you're married.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's bad to buy lottery tickets too often.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's fine to feel angry when you have been disrespected by people.
+Annotation from annotator: 3
+
+Example 30:
+Text: You should chip in with household chores when you live with someone.
+Annotation from annotator: 3
+
+Target Example:
+Text: You shouldn't be interested in your ex's friends.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

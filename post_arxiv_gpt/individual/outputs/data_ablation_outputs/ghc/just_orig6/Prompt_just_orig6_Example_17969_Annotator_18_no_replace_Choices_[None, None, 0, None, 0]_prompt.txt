@@ -1,0 +1,6 @@
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Target Example:
+Text: `These Offend Me =atheists,abominations,queers, satanism, pedophilism,lgbt,porn,communism,socialism izlamoeslem terrorism nwoglobalism fascist ism antifaism blmism,secularism corrupt demonicratism,illegals all related filthy problems if u dont believe in GOD, u have NO morals-Law sense ALL the Same
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

@@ -1,0 +1,125 @@
+Estimated Examples:
+Example 1:
+Text: @0yasumilk I'll make sure to re-enact a lab door opening just for you senpai if I ever see you in the hall
+Annotation from annotator: 0
+
+Example 2:
+Text: But weren't you guys dating?  It's different if you're dating.
+Annotation from annotator: 0
+
+Example 3:
+Text: Why can't we interview you?  We're trying to do something for YOUR people.
+Annotation from annotator: 0
+
+Example 4:
+Text: Man visits park with his two small kids, gets accused of being a pedophile (crosspost from /r/Parenting)
+Annotation from annotator: 2
+
+Example 5:
+Text: Chavez weekend: drunk/high from sunset to sunrise, daddys everywhere, A1 weather, lots of Ls I would say it was a dope ass weekend &#127864;
+Annotation from annotator: 0
+
+Example 6:
+Text: In the past 12 hrs, GG hashtag saw 1018 tweets/hr (776 of which were RTs). Min: 662 (473) Max: 1519 (1233). majority of non-RT came from bot
+Annotation from annotator: 0
+
+Example 7:
+Text: Do you know why the Scottish where kilts? Because sheep can hear a zipper a mile away.
+Annotation from annotator: 2
+
+Example 8:
+Text: Question: Can misandry be classified as sexual harassment and be subject to the same grounds for a lawsuit as misogyny?
+Annotation from annotator: 0
+
+Example 9:
+Text: Why do black people score lowest on the IQ test? IQ tests are made for humans, not monkeys
+Annotation from annotator: 2
+
+Example 10:
+Text: "@fuckcamoclark: Roses are red and violets are blue and niggers are black, you know that's true." @dylan72892
+Annotation from annotator: 2
+
+Example 11:
+Text: Why is an aspirine white? Because it works.
+Annotation from annotator: 2
+
+Example 12:
+Text: Tattoo Trends – butterflies flying away ddrawings | Latest Butterfly Tattoos on Wrist… https://t.co/ry4aZ48dMF https://t.co/9nnQaj1JEU
+Annotation from annotator: 0
+
+Example 13:
+Text: I'd have to say that quite simply he is the greatest human to ever walk on this planet .
+Annotation from annotator: 0
+
+Example 14:
+Text: I still love you and accept that you were born this way, but you got it from your dad. His side of the family has the queer genes.
+Annotation from annotator: 2
+
+Example 15:
+Text: Saw a vine of Kobe calling Dwight Howard "you a bitch ass nigga"
+Annotation from annotator: 2
+
+Example 16:
+Text: "Morning highlight #geraldine_davys quotes SteveJobs ""start with the customer experience &amp; work backwards to the technology #ccomel #ccoforum"
+Annotation from annotator: 0
+
+Example 17:
+Text: I hope everything anyone else loves burns and leaves them forever
+Then they'll know what it feels like be stranded on this miserable sad fucking excuse for a planet and have no clue what to even do with yourself except lay down and hope you don't wake up.
+Annotation from annotator: 2
+
+Example 18:
+Text: I'm just matching grams wit my fam bitch
+Annotation from annotator: 0
+
+Example 19:
+Text: i had a dream i had a chihuahua that i carried with me everywhere like i was doin crazy shit in my dream, but the whole time he was w me
+Annotation from annotator: 0
+
+Example 20:
+Text: What’s Helen Keller’s favorite part of Thunderstruck by AC/DC? Ahahahahahahahah (the chorus in the beginning)
+Annotation from annotator: 2
+
+Example 21:
+Text: What @minasmith64?  You don't like being lectured on #feminism by people who only just learned of it from Emma Watson or Beyonce? @ddbomont
+Annotation from annotator: 2
+
+Example 22:
+Text: Swear on my life some fucking body puts me in a bad fucking mood every day of my damn life.
+Annotation from annotator: 0
+
+Example 23:
+Text: 4 book coloring maze and puzzle book bundle for kids. In PDF delivery ready for copying. #coloring #kids #puzzles… https://t.co/al45Sv7vaJ
+Annotation from annotator: 0
+
+Example 24:
+Text: Visiting #cinqueterre? Make sure not to miss #monterosso! https://t.co/xezGKYz7Lm #loveitaly https://t.co/604gcZYWW9
+Annotation from annotator: 0
+
+Example 25:
+Text: My girlfriend told me to fuck her... Then I woke up… Well better have another round on my girls rotting corpse!
+Annotation from annotator: 0
+
+Example 26:
+Text: I've been posting this story on several forums and sending out quite a few emails .
+Annotation from annotator: 0
+
+Example 27:
+Text: What did stevie wonder say when he saw a robbery in an alleyway... ........
+Annotation from annotator: 2
+
+Example 28:
+Text: @BigCountry_11 &#128514; idk why I'm just now seeing this but it tickled me too much! And she deserves all the pain of 1000 legos. If not more..
+Annotation from annotator: 0
+
+Example 29:
+Text: Can you imagine Jesus on Twitter autistically screeching about fucking Easter Eggs?
+Annotation from annotator: 0
+
+Example 30:
+Text: Asians drivers - no survivors!
+Annotation from annotator: 2
+
+Target Example:
+Text: Make the best of the west coast. Enter to win everything you need to plan an epic drive up the scenic west coast: https://t.co/HpoPJbKdOE
+Annotation from annotator:

@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: It's expected that you'll stay home from work when you are sick.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's wrong to have weird sexual fantasies.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's discouraged to be in love with your own image.
+Annotation from annotator: 3
+
+Example 4:
+Text: You have to do whatever is necessary in an emergency situation.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's bad to be divorced with children.
+Annotation from annotator: 2
+
+Example 6:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's wrong to assume someone has a disability because they talk differently.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to find things to help you soften your grief.
+Annotation from annotator: 3
+
+Example 9:
+Text: People are expected to love their family.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's wrong to love people who are engaged.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's wrong to think people who can't pay for healthcare don't deserve it because everyone deserves healthcare.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's expected that families will not get along well with their in-laws.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's wise to do monthly payments if you can't pay back a loan right away.
+Annotation from annotator: 4
+
+Example 14:
+Text: Is wrong to be a pervert
+Annotation from annotator: 4
+
+Example 15:
+Text: It is immoral for a supervisor to pursue their employees romantically.
+Annotation from annotator: 3
+
+Example 16:
+Text: It is wrong to want to be humiliated.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is wrong to insult your boyfriend and then expect him to want to be around you.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's good to have things in common with your partner's parents.
+Annotation from annotator: 3
+
+Example 19:
+Text: You should not get angry when your chronically ill relative needs help.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's wrong to want to kill yourself.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't have your partner over when you have your friend over at your house.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's understandable that sometimes people have reasons not to trust someone.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's expected that girlfriends will want to look out for their boyfriends.
+Annotation from annotator: 3
+
+Example 24:
+Text: You should be understanding when your parents talk about their family heirlooms.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is good to have rules.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's noble to be true to yourself.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's expected that people who do illegal acts will have consequences.
+Annotation from annotator: 4
+
+Example 28:
+Text: You shouldn't be friends with someone that talks badly about you behind your back.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't have to stay at a place you don't like.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's good to be aware of your limits.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's good to look forward to things you can do when you grow older.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

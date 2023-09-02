@@ -1,0 +1,245 @@
+Human-Rated Examples:
+Example 1:
+Text: I think I'm old enough to decide what I can eat!
+Annotation from annotator: 2
+
+Example 2:
+Text: @emilylynn_ oh my lil em is growing up!  makes me feel old.   yea for summer registration!
+Annotation from annotator: 2
+
+Example 3:
+Text: duuuude!!! i cant wait for the 90210 finale! jim walsh is dying!! i miss the old 90210
+Annotation from annotator: 2
+
+Example 4:
+Text: off to work  i miss being younger
+Annotation from annotator: 2
+
+Example 5:
+Text: @CourtKP they arrived last weekend...but maybe not with all their stuff, I do think they have a youngn
+Annotation from annotator: 2
+
+Example 6:
+Text: @JKeith1982 Lol no this was at our old house. We WISH we got confidential faxes at News24
+Annotation from annotator: 2
+
+Example 7:
+Text: @theotherlily  I hope client    Orrr maybe he's an old buddy of Shawn's dad..that need help?
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6plus - i got dave a new bonsai... his old one died last year  so this is steve jr. (dave named his bonsai steve... ...
+Annotation from annotator: 1
+
+Example 9:
+Text: don't ask my why i have a new account...it's cuz twitter is LAME and my old one got deleted somehow.  wah wah wah
+Annotation from annotator: 2
+
+Example 10:
+Text: Great day in St.Michel - it really is the best part of Paris. So..hip! So..full of great food! So..full of young frenchmen! C'est la vie!
+Annotation from annotator: 3
+
+Example 11:
+Text: No ultimate frisbee.  not enough responses. Let's do Friday evening. Any takers?  Come feel young again and enjoy.
+Annotation from annotator: 2
+
+Example 12:
+Text: @ehudmh h love that american gladiators uses painted solid colored outlines of people to amplify the number of people there  old school
+Annotation from annotator: 2
+
+Example 13:
+Text: gahh....tiredish...stayed up too late last night .-. oh well...leaving to go out to eat soon  got a new tv so i get the old one
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished AP interview with a young man turning 12 Tues.  He passed.  Waiting for next appt. to show just not sure when he'll come.
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/680to - I also layed in her older sister's room & pet their cat, Baxter.
+Annotation from annotator: 2
+
+Example 16:
+Text: about to sit down and eat a big old bowl of pineapple!
+Annotation from annotator: 2
+
+Example 17:
+Text: @Luvschweetheart Work and laundry here today so no need for sun.  And the youngest goes to the sitters so solitude awaits me.
+Annotation from annotator: 2
+
+Example 18:
+Text: @rennexx I'm watching old episodes! hahaha .. the new one doesnt come out here till tomorrow! sucks i know!
+Annotation from annotator: 2
+
+Example 19:
+Text: Recital is over...my body aches all over.  Too old for this...BUT I STILL GOT IT
+Annotation from annotator: 2
+
+Example 20:
+Text: miss my old days when i'm in 2nd grade
+Annotation from annotator: 2
+
+Example 21:
+Text: Weather z nt changin..itz same old fckin hot weather thn too m sneezing
+Annotation from annotator: 2
+
+Example 22:
+Text: dont miss the new tom hanks one "Angels and demons" guys! what a great movie... he looks much more older, but still 1 of my fav. actors
+Annotation from annotator: 2
+
+Example 23:
+Text: @BecFitzgibbon thanks! it's a very old picture. less wrinkles though so can't complain
+Annotation from annotator: 2
+
+Example 24:
+Text: my laptop is getting fixed (again), so i'm on this old, super slow one  it's driving me crazzzy
+Annotation from annotator: 2
+
+Example 25:
+Text: looking forward to hearing how u host a 5oth & 2nd year old party in the same day  u r good! @TammyBurnell enjoy the moments
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 27:
+Text: so far so good new lappy top is working ... old boy PC is no more RIP
+Annotation from annotator: 2
+
+Example 28:
+Text: im hun-ger-eee  ramen gets old after a few dozen packs consumed in a matter of months...;
+Annotation from annotator: 2
+
+Example 29:
+Text: @tellyyy man whatever your just mad cuz you drive like an old lady lol but i love you baby
+Annotation from annotator: 1
+
+Example 30:
+Text: @hellotriciaaaa lol. he's OURS! yay! same old.same old? is that a good thing? did ya do anything fun?
+Annotation from annotator: 2
+
+Estimated Examples:
+Example 1:
+Text: ... And she actually is I mean seriously how weir is that, If I'm gonna date Robert Pattinson my bf will be older than my mum  lol
+Annotation from annotator: 2
+
+Example 2:
+Text: @smooore Auntie this is my new twitter because my old one will not let me change my picture
+Annotation from annotator: 2
+
+Example 3:
+Text: My little 2 year old daughter is sick  I hope she gets to feeling better!
+Annotation from annotator: 3
+
+Example 4:
+Text: Just used young Jedi for the first time in a conversation. Mission completed. tweetdeck is down  http://bit.ly/JkMm9
+Annotation from annotator: 2
+
+Example 5:
+Text: but for now we are young, let us lay in the sun and count every beautiful thing that we see
+Annotation from annotator: 3
+
+Example 6:
+Text: @moonfrye being cool... BUT I always seem to lose :-T PS. your oldest looks like Punky   adorable!
+Annotation from annotator: 2
+
+Example 7:
+Text: miss my old martial arts team
+Annotation from annotator: 2
+
+Example 8:
+Text: @pinksealight If the people involved are fine with it then its good. No probs. Age doesnt matter to me but I do prefer older men!
+Annotation from annotator: 3
+
+Example 9:
+Text: RIP GM  Thank god my truck is so old that all the parts are made 3rd party and will be around forever.
+Annotation from annotator: 2
+
+Example 10:
+Text: Does anyone else have issues w/ MacBook Pro power cords? I love Apple but this power cord is falling apart and is only a few months old.
+Annotation from annotator: 2
+
+Example 11:
+Text: anyone have a clue what front brakes cost on an older cavalier? Mine started to scream just as I got home.
+Annotation from annotator: 2
+
+Example 12:
+Text: At home, bored, it's raining again.The Good old British summer
+Annotation from annotator: 2
+
+Example 13:
+Text: @kpwerker re: raconteurs' old enough, *love* that song; radio DJ in Ireland gave it heaps of airplay. It's a good morning song
+Annotation from annotator: 2
+
+Example 14:
+Text: Oh Jesus so many freaks at slough with cameras taking pictures of old buses. @vuitton_ just left me, loner now
+Annotation from annotator: 2
+
+Example 15:
+Text: @mrposeyy I'm 19 and to old to be a fan of demi's  i get made fun of for it
+Annotation from annotator: 1
+
+Example 16:
+Text: Iphone V3 will have all the features/functions that Apple fanboys declared unwanted and irrelevant, cant wait to dig some old posts out
+Annotation from annotator: 2
+
+Example 17:
+Text: @BeautyBlogger Wish my blog qualified.  Not 3 months old yet
+Annotation from annotator: 2
+
+Example 18:
+Text: @Vlangham I've been stopped and warned before. First ticket. If revenues were better and I were younger, it might have been a warning.
+Annotation from annotator: 2
+
+Example 19:
+Text: @SylviaDiscount Same old same old...starts with C ends with T.....but didn't say a word about my phone today..weak prick...I WIN
+Annotation from annotator: 2
+
+Example 20:
+Text: @swtserenity looks very detailed.  a good one for those new to NYC.  Or even lets old hats find new places
+Annotation from annotator: 3
+
+Example 21:
+Text: @Baber_S hehe I know. I think it'll be this and my other foot and then that's my lot. I'm getting too old for this.
+Annotation from annotator: 2
+
+Example 22:
+Text: @JackBSmoke Yes, looks really oldskool
+Annotation from annotator: 2
+
+Example 23:
+Text: #dontyouhate being the youngest in your family, and getting all the hand-me-downs?
+Annotation from annotator: 2
+
+Example 24:
+Text: Is listening to old hip hop songs ha
+Annotation from annotator: 2
+
+Example 25:
+Text: @suavexxx lol i dont gangbang  old habit. long story. im in the seattle area. u heard of tacoma?
+Annotation from annotator: 2
+
+Example 26:
+Text: I feel like an old glove today.   I need a long bout of sleep, I think.
+Annotation from annotator: 2
+
+Example 27:
+Text: @Mello_84 My current crush: Bradley James from Merlin. And he is but a year older than me.
+Annotation from annotator: 2
+
+Example 28:
+Text: My old cat which I gave to my mother-in-law got hit by a car today
+Annotation from annotator: 2
+
+Example 29:
+Text: @natobasso Ain't that the same old story everywhere...
+Annotation from annotator: 2
+
+Example 30:
+Text: Browsing for vibrators with a chirpy group of older women offers some eye-opening reminders about aging, sex and camaraderie.
+Annotation from annotator: 2
+
+Target Example:
+Text: I got contact today. It took fixed my night vision and depth perception problem. But, now I need reading glasses. Ugh! Getting old sucks
+Annotation from annotator:

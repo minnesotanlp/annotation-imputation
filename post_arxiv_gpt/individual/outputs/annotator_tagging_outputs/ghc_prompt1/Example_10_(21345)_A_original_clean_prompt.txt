@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Freedom of the press was literally in The Constitution so that JOURNALISTS CAN REPORT/KEEP AN EYE ON GOVERNMENT without fear of reprisal.  We should always scrutinize our elected leaders, and the press does the exact opposite.  They attempt selling political ideas, and they only scrutinize those whom which they disagree.  #FailedPress
+Annotation from annotator: 0
+
+Example 2:
+Text: If you're a right-winger, how could you not be excited at the prospect of a civil war split down ideological lines?
+Annotation from annotator: 0
+
+Example 3:
+Text: Care to explain how maintaining or regaining ethnically homogeneous nations against the wishes of those up to as high a level as the UN is globalism ?
+Annotation from annotator: 0
+
+Example 4:
+Text: I know a #hurricane is not fun... but if you've ever eaten at one of these restaurants then you know this is actually *good* news https://www.khon2.com/news/local-news/zippy-s-rest...
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: This man is a national treasure get your filthy HEEB hands off of him
+Annotation from annotator: 1
+
+Example 2:
+Text: https://www.youtube.com/watch?v=kUzZd2H7QXQ  The Root 'The 8 Kinds of Black Donald Trump Supporters' #TheRootArticles
+Annotation from annotator: 0
+
+Example 3:
+Text: Its one party system. The right is bragging about unemployment numbers when we know Ovomit bastardized the formula to figure unemployment numbers more than once. He was criticized for it but we still use the same formula then tout how good things are. WTF!!!!
+Annotation from annotator: 1
+
+Example 4:
+Text: #NorthKorea announces amnesty to celebrate its 70th anniversary http://www.asianews.it/news-en/North-Korea-announc... via @asianewsen
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: It was only a matter of time  https://www.breitbart.com/london/2018/08/28/1000-c...
+Annotation from annotator: 0
+
+Example 2:
+Text: Identity theft in the US is a problem existing almost entirely on account of illegal aliens. Several years ago I found the correlation between ID theft rate and foreign-born population percentage to correlate at a staggering .75 at the state level https://anepigone.blogspot.com/2008/06/more-immigr...
+Annotation from annotator: 0
+
+Example 3:
+Text: Watching Eng v Bel in a pub off Covent Garden with my son who was just awarded a 1st with honours today in Computer Science. #WorldCup2018
+Annotation from annotator: 0
+
+Example 4:
+Text: http://thechive.com/2018/09/01/probably-the-cooles...    from theChive.com
+Annotation from annotator: 0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: There was a guy on Facebook who claimed to be a vet suffering PTSD who has his wife doing all of the work. Not a single photo on his page in military fatigues nor any proof he was in the military. When I mentioned a few names of local well known colonels and other soldiers. He had no clue who they are. Phonies are abundant online. They’re not too hard to  figure out.
+Annotation from annotator:

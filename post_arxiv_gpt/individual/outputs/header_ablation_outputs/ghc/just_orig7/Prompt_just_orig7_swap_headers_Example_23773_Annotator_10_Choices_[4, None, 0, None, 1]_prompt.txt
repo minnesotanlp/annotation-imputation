@@ -1,0 +1,127 @@
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Trump Cronies all under Indictment, no Dem criminals !  Funny That !!
+Annotation from annotator: 0
+
+Example 2:
+Text: Most probably a brainwashed boomer😉
+Annotation from annotator: 0
+
+Example 3:
+Text: #TheIrish don't need any luck to win this game @UMichFootball is handing it to them on a silver platter!! #Wolverines Lucked out with the ND penalty but the capitalize on a 48 yard FG 24-10 😞😞#GoBlue #BeatIrish #MICHvsND
+Annotation from annotator: 0
+
+Example 4:
+Text: My people didn't create Communism, nor did the Muslims...(((yours))) did 
+Annotation from annotator: 0
+
+Example 5:
+Text: VIDEO Antifa Assaulted Bernie Sanders Voter In Portland For Carrying A ‘Fascist’ American Flag  Antifa attacked him because they said the American flag he was carrying was a “fascist symbol.” https://www.infowars.com/antifa-assaulted-bernie-sanders-voter-in-portland-for-carrying-a-fascist-american-flag/
+Annotation from annotator: 0
+
+Example 6:
+Text: Any woman who says she wants to be treated like a man isn't living in reality.
+Annotation from annotator: 1
+
+Example 7:
+Text: In her pathetic grovelling apology to DNC spokesman David Hogg Ingraham praised him for how 'poised' he seemed 'given the tragedy'. 
+Annotation from annotator: 0
+
+Example 8:
+Text: Only for me David,  I trained in Argentine Tango, where the man is expected to avenge insults to his lady  or child.
+Annotation from annotator: 0
+
+Example 9:
+Text: THERE ARE NOT 800,000 DACA DREAMERS IN THE US.  THERE ARE 3.6 MILLION.  THE DEM's LIE ABOUT THAT BECAUSE IT WOULD GIVE THEM VOTING SUPERIORITY FOREVER IF THEY ARE GRANTED VOTING RIGHTS. 
+Annotation from annotator: 0
+
+Example 10:
+Text: They can all kiss my ass. They didn't change the way they did business they just agreed to keep quite about it. They are still funding terrorism and they were building nukes as fast as possible to blow away Israel and America. They'll never be anything but cave dwelling terrorists and they can NEVER BE TRUSTED.
+Annotation from annotator: 0
+
+Example 11:
+Text: "God has only chosen those whom he has chosen." 
+Annotation from annotator: 0
+
+Example 12:
+Text: this is some Expensive Hate
+Annotation from annotator: 0
+
+Example 13:
+Text: 12 D Chess anyone ?
+Annotation from annotator: 0
+
+Example 14:
+Text: HS student slapped with 2 counts of battery for stealing classmate’s MAGA hat, hitting teacher Conservative News Today https://www.bizpacreview.com/2018/08/29/hs-student-slapped-with-2-counts-of-battery-for-stealing-classmates-maga-hat-hitting-teacher-668863
+Annotation from annotator: 0
+
+Example 15:
+Text: Is there anything that doesn't offend Muslims? Well, except for mass killings committed in the name of Allah, rape and abuse of women and children, and all the evil deeds perpetrated by Islamic adherents... 
+Annotation from annotator: 1
+
+Example 16:
+Text: man, England really did breed the Scotsman outta Scotland. Sad day when Canada & America have more Real Scotsmen than Scotland. 
+Annotation from annotator: 0
+
+Example 17:
+Text: Cleaning up after lunch. Photo by my 5 year old daughter. She's good!! Apron is an authentic vintage apron from the 60s, one of my favorites in my collection. #TradLife #Vintage #Apron #stayathomemom
+Annotation from annotator: 0
+
+Example 18:
+Text: Hitler is rolling over in his grave
+Annotation from annotator: 0
+
+Example 19:
+Text: Jon McNaughton's beautiful painting, "You Are Not Forgotten", reminds me of the task ahead of us. When the swamp is drained, we need to grow a beautiful garden to replace it. And, like a garden, it must be tended, weeds pulled, flowers watered, or it will grow swampy again. We ALL have a part to play in this work.
+Annotation from annotator: 0
+
+Example 20:
+Text: Welfare makes the best husband.
+Annotation from annotator: 0
+
+Example 21:
+Text: We have no love for duplicitous Jews and the boomers who emulate them. Now put us on your goddamn twitter-tier block bot list already.
+Annotation from annotator: 0
+
+Example 22:
+Text: blacks turn everywhere they go into a concrete jungle https://www.youtube.com/watch?v=Pia8ku7jUNg
+Annotation from annotator: 1
+
+Example 23:
+Text: @greathuwhiteshark And what part of that quote has anything to do with my comment?
+Annotation from annotator: 0
+
+Example 24:
+Text: Nobody gives a fuck about Jews. There’s only 14 million of them on earth.
+Annotation from annotator: 0
+
+Example 25:
+Text: looking forward to reading whatever it is https://truepundit.com/major-fbi-news-breaking-monday-true-pundit/
+Annotation from annotator: 0
+
+Example 26:
+Text: Robert Stark's Santa Cruz photo album: http://www.starktruthradio.com/?p=6606
+Annotation from annotator: 0
+
+Example 27:
+Text: Jesus described Death/The Grave/Gehenna as being divided by a great gulf. Hell/Sheol on one side and Paradise on the other. None of these places are the Lake of Fire described in Revelation. Death and Hell will be cast into the Lake of Fire.
+Annotation from annotator: 0
+
+Example 28:
+Text: Excellent news, He's Putin the glamour back in To F1 again ..
+Annotation from annotator: 0
+
+Example 29:
+Text: Too late dude. I'm now fucking your mom and giving you a Brazilian bother.
+Annotation from annotator: 0
+
+Example 30:
+Text: @Heartiste   ISIS is representative of Mossad. 
+Annotation from annotator: 0
+
+Target Example:
+Text: ‪Guy gets attacked for holding a sign saying: “THE RIGHT TO OPENLY DISCUSS IDEAS MUST BE DEFENDED.”‬ 
+Annotation from annotator:
+Your output should be a single integer and nothing else.

@@ -1,0 +1,45 @@
+Here is a description of a dataset:
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Your goal is to predict the soft label given by the raters on a particular text.
+
+Here are a few examples of texts and their soft label:
+Example 390
+Text: It's hurtful for  a parent to enroll a child in classes without permission.
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+14.00% of responsive annotators labeled the text with 1
+54.00% of responsive annotators labeled the text with 2
+28.00% of responsive annotators labeled the text with 3
+4.00% of responsive annotators labeled the text with 4
+
+Example 261
+Text: It's okay to enjoy powdered milk.
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+2.00% of responsive annotators labeled the text with 1
+16.00% of responsive annotators labeled the text with 2
+52.00% of responsive annotators labeled the text with 3
+30.00% of responsive annotators labeled the text with 4
+
+Example 20
+Text: It's good to find proof of cheating you perceive to be happening.
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+16.00% of responsive annotators labeled the text with 2
+64.00% of responsive annotators labeled the text with 3
+20.00% of responsive annotators labeled the text with 4
+
+Example 84
+Text: People shouldn't betray the trust of those they're close to.
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+44.00% of responsive annotators labeled the text with 3
+56.00% of responsive annotators labeled the text with 4
+
+Now, you will make your prediction (if you are unsure, just give your best estimate):
+Target Text: You should be able to give criticism to your friends.
+Soft labels:

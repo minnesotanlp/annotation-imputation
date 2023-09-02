@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: I notice that you added a period to the middle of a sentence in the article about <url>. Why?
+Annotation from annotator: 9
+
+Example 2:
+Text: Go to <url> and create it like you would a page: just add a little text by putting in a little explanation at the top and adding categories u2014 see <url> for a basic category of this sort, although on a very different subject.  Let me ask, however: are you planning to categorise articles about schools and/or districts, or articles on the cities where they are based?
+Annotation from annotator: 17
+
+Example 3:
+Text: That's OK &mdash; I just wondered if you had a new translation that used "on".  Where are you studying philosophy, by the way?
+Annotation from annotator: 16
+
+Example 4:
+Text: If the only page you've been visiting is Wikipedia, then it makes sense the viruses would come from here, but if you've been to other sites, they get thrown into the equation. Again, don't you have any anti-virus software?
+Annotation from annotator: 15
+
+Example 5:
+Text: I'm disappointed that your first response here was to revert me without discussion, and to assert a consensus that was not apparent.  Before you choose to revert me again, can you ''please'' participate in the discussion at WT:RD?
+Annotation from annotator: 6
+
+Example 6:
+Text: Thanks, I tried to do that but don't know how to do it? Can you help?
+Annotation from annotator: 19
+
+Example 7:
+Text: I haven't. What are you referring to?
+Annotation from annotator: 4
+
+Example 8:
+Text: I am out of YUBC (I wonder myself how can I even post here). Could you do it?
+Annotation from annotator: 15
+
+Example 9:
+Text: This is now ready for transfer. I will leave it up to you if that is OK?
+Annotation from annotator: 18
+
+Example 10:
+Text: And I'm asking for YOUR help, DrachenFyre, to control this vandal <url>'s changes to <url> and <url>.  What do we do with this nut?
+Annotation from annotator: 16
+
+Example 11:
+Text: Thanks; it just occurred to me to cite USGS maps, but this is maybe even better.  Was there once an airplane crash in the vicinity, or are there maps like this for all parts of the country?
+Annotation from annotator: 16
+
+Example 12:
+Text: How are these inconsistent with the traditional account of the origins of the Torah involving redactions as late as Ezra? Why do we need bizarre hypotheses about documents being interwoven that are contrary to all known examples of how books are written?
+Annotation from annotator: 9
+
+Example 13:
+Text: "Redirecting is blanking" would be more accurate. Or maybe "redirecting is redirecting"?
+Annotation from annotator: 15
+
+Example 14:
+Text: And why exactly am I looking at your monobook?  And why did you substitute your user links onto here?
+Annotation from annotator: 7
+
+Example 15:
+Text: Thanks. Anything else?
+Annotation from annotator: 17
+
+Example 16:
+Text: I'm sorry, but that does not respond to my question at all. Should I take it to indicate a no?
+Annotation from annotator: 7
+
+Example 17:
+Text: Actually, I think the only problem with linking the characters like this is that the underlining can be kind of distracting and the page can get a little harder to edit.  I wonder if there is some way to modify the Wikipedia software so that Chinese characters would automatically link to their corresponding Wiktionary page?
+Annotation from annotator: 8
+
+Example 18:
+Text: To be perfectly honest, I really have no idea what you're talking about.  Would it not be simpler to just ''add'' a link to the template (if that is indeed what you mean) than to create a potentially offensive and almost certain to be rapidly deleted category?
+Annotation from annotator: 8
+
+Example 19:
+Text: Then why is the article for the monastery in Lhasa as "Ganden" instead of "Gandan"? Do both the monasteries have the same name?
+Annotation from annotator: 16
+
+Example 20:
+Text: LOL what did he say in the press???
+Annotation from annotator: 16
+
+Example 21:
+Text: Is there any point to the quotation that's not served equally by the link on its own?  Other than the obvious (which I'd like to think you're above), which is trolling the student pollies?
+Annotation from annotator: 15
+
+Example 22:
+Text: What you really need to do if you want an article on 'Do Anything Nice' is to establish its notability. Can you find multiple non-trivial mentions in reliable sources that refer to it?
+Annotation from annotator: 16
+
+Example 23:
+Text: Hello - some of your writing is a bit hard to understand. Is English your first language, out of curiousity?
+Annotation from annotator: 5
+
+Example 24:
+Text: Regrettably, I know little about <url>. Which dermatology-related articles have you seen me editing?
+Annotation from annotator: 10
+
+Example 25:
+Text: Not that clear to me. What's wrong with this username?
+Annotation from annotator: 10
+
+Example 26:
+Text: Sorry about that. I guess instructions are there for a reason, right?
+Annotation from annotator: 9
+
+Example 27:
+Text: He used it to assert that '''''others''''' had expressed the notion that the process was concluded and that it was time to move on, and used your statement as evidence of this. Since you did not mean that it had been concluded, and since obviously you were only speaking for yourself and no one else, and participants have been continuing to post on the RfC page and its Talk Page to indicate that they do not feel this way at all, how does it serve to support the idea that they have?
+Annotation from annotator: 16
+
+Example 28:
+Text: Thanks for responding, at any rate. <smile> Protocol question, as I'm new here: If a discussion is unproductive, should one just delete it?
+Annotation from annotator: 16
+
+Example 29:
+Text: Thanks for your response! How should we proceed ?
+Annotation from annotator: 18
+
+Example 30:
+Text: To ''Arbcom''? Aren't we being a bit dramatic here when other forms of dispute resolution have not been tried?
+Annotation from annotator: 7
+
+Target Example:
+Text: Please see <url>. Could you help with the list on the talk page?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

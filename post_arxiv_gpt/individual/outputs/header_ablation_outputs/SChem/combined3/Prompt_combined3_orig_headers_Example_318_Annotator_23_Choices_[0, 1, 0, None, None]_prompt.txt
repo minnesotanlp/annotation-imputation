@@ -1,0 +1,245 @@
+Human-rated Examples:
+Example 1:
+Text: It is gross to put candy in your pocket if it might melt.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to want someone to do their best.
+Annotation from annotator: 4
+
+Example 3:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 3
+
+Example 4:
+Text: You shouldn't have your partner over when you have your friend over at your house.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's rude to make baseless accusations against another person.
+Annotation from annotator: 4
+
+Example 6:
+Text: You should thank someone when they invite tou to thier wedding.
+Annotation from annotator: 4
+
+Example 7:
+Text: You shouldn't date a bad partner.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's expected that families will not get along well with their in-laws.
+Annotation from annotator: 2
+
+Example 9:
+Text: You shouldn't play pranks on your classmates.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is good to be remorseful and admit when you've done wrong
+Annotation from annotator: 4
+
+Example 11:
+Text: You shouldn't be friends with someone that talks badly about you behind your back.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's okay to be annoyed when someone begs you for something.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't expect people to work if they don't want to.
+Annotation from annotator: 2
+
+Example 14:
+Text: You shouldn't hate people just because they're women.
+Annotation from annotator: 4
+
+Example 15:
+Text: It is good to be patient.
+Annotation from annotator: 4
+
+Example 16:
+Text: It is reasonable to want to hold onto loving memories after losing someone.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's nice to worry about your parents.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's okay to be offended when your partner doesn't want you cooking for their kids.
+Annotation from annotator: 3
+
+Example 19:
+Text: You should shave your body hair if you're on a swim team or involved in other sports so you look nicer.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's rude to dislike your best friend's boyfriend.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's nice to worry about your friends.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's wrong to assume someone has a disability because they talk differently.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's important to have trust in a romantic relationship in order to have a healthy relationship.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's wrong to lash out at someone.
+Annotation from annotator: 4
+
+Example 25:
+Text: You shouldn't take it too personally if someone leaves you out of their plans
+Annotation from annotator: 3
+
+Example 26:
+Text: You should always respect your partner's wishes.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should explain to a friend why you cannot give them money if you cannot.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's not okay to refuse the food someone cooks for you.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay to be upset if someone you report to at work lets you take the blame for something you didn't do.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's good to have friends you can joke around with.
+Annotation from annotator: 4
+
+Estimated Examples:
+Example 1:
+Text: It's rude to support one person more than another.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's expected that kids will do things to help out their parents.
+Annotation from annotator: 4
+
+Example 3:
+Text: It is normal to quit a job that is too difficult.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's expected that you'll stay home from work when you are sick.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 2
+
+Example 6:
+Text: Making dinner is economical as opposed to eating out.
+Annotation from annotator: 3
+
+Example 7:
+Text: Couple should work together to solve problems
+Annotation from annotator: 4
+
+Example 8:
+Text: Families should try to work out problems with each other.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's expected that family members support each other's milestone events.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's hurtful for parents to get their children involved in crimes.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's wrong for people that care about each other to argue.
+Annotation from annotator: 1
+
+Example 12:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's good to want to have the admiration of your peers.
+Annotation from annotator: 4
+
+Example 14:
+Text: You shouldn't rat out other people.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's okay to have an abortion.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's good for a mom to care about their children.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's expected that people who do illegal acts will have consequences.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's wrong to use another person for their resources.
+Annotation from annotator: 4
+
+Example 19:
+Text: Partners are expected to want to spend a good amount of time with each other.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's expected you get into a fight if you're being racist around people
+Annotation from annotator: 3
+
+Example 21:
+Text: People should follow the rules.
+Annotation from annotator: 3
+
+Example 22:
+Text: You can't expect people to always like a certain kind of music.
+Annotation from annotator: 4
+
+Example 23:
+Text: You shouldn't clone dinosaurs because that would just cause a lot of problems.
+Annotation from annotator: 4
+
+Example 24:
+Text: It is good to be yourself.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's expected that a parent be polite to their children.
+Annotation from annotator: 4
+
+Example 26:
+Text: If you eat someone's food, you should let them know.
+Annotation from annotator: 4
+
+Example 27:
+Text: You should love your parents.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's okay to enjoy powdered milk.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's expected that revealing secrets will lead to trouble.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's inappropriate for a parent to help a teenage boy shower.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's wrong to spend other people's money.
+Annotation from annotator:

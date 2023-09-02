@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: Hello, I am interested in helping out with <url> and <url>, but the pages are very very long, which is unmanageable and discouraging. Could you please break them up into (many) smaller subpages?
+Annotation from annotator:
+If you output anything other than a single integer (and absolutely nothing else, including explanatory text), your output will invalidate the dataset.

@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: @KevinRay rub it in now...I had 2 do mine the old fashioned way, & in the heat LOL  Yea U have no excuses so tom grab that beer &.....
+Annotation from annotator: 3
+
+Example 2:
+Text: @rainydaydesign You are too talented!  every time I see a new blog design from you I want to buy it.even though mine is only 1 month old
+Annotation from annotator: 3
+
+Example 3:
+Text: The 14 year10 mth old kid rec'd a plaque, certif. & LETTER for her tennis exploits. Problem is..she didn't tell us of party until after
+Annotation from annotator: 1
+
+Example 4:
+Text: Stood @ Bolton bus station n just been mistaken for a coach driver by a posse of old dears
+Annotation from annotator: 1
+
+Example 5:
+Text: just uploaded a really old photo of herself on Twitter as a display picture. Hahaha. Oh I miss my long hair.
+Annotation from annotator: 1
+
+Example 6:
+Text: @giaaaa haha yayy  i watched some saved by the bell, and did u ever hear of the old kids show eureka's castle?? i made my friend watch it!
+Annotation from annotator: 2
+
+Example 7:
+Text: ok so rainbow or sesame street which one rocked your lil world when young
+Annotation from annotator: 3
+
+Example 8:
+Text: @miss_holleewood i want my old life backkkkkkk
+Annotation from annotator: 1
+
+Example 9:
+Text: dude, LUKE is married. Faithfully and happily married. To a very smart young lady. Business major, too  wonder if she's in D-Pi?
+Annotation from annotator: 3
+
+Example 10:
+Text: I dropped my telstea phone on the ground and shattered it, one day old, I need to get a new one
+Annotation from annotator: 2
+
+Example 11:
+Text: i miss my old cuts & my relaxer
+Annotation from annotator: 2
+
+Example 12:
+Text: Busy busy day, but have gotten a lot done but just wanna b home  just had lunch w/ an old friend, she looked so good, so glad 2 c her!
+Annotation from annotator: 4
+
+Example 13:
+Text: @donnieklang you took me waaaaay back with Salute Your Shorts & Kids Inc!! LOL you're a lot older that I thought apparently!  xoxox
+Annotation from annotator: 2
+
+Example 14:
+Text: am watching a real old funny movie
+Annotation from annotator: 3
+
+Example 15:
+Text: @kuttyedathi> My 2 yr old boy is sleeping and the music plays ' if u r happy & u know it clap ur hands ' and he is clapping!
+Annotation from annotator: 4
+
+Example 16:
+Text: Me & my friends used to ask ea other "What club we hittin' tonight?" Now, it's "How's your cholesterol level?" ..we're old
+Annotation from annotator: 3
+
+Example 17:
+Text: @Krazie_x360a Forfeit lolol I DON"T QUIT!!! I just Can't Whore achievement's like i use to  I think I'm getting old lol
+Annotation from annotator: 1
+
+Example 18:
+Text: @deanm1987 Hey twit! Just watched poor Holly on Britains Got Talent  poor thing!! People are so mean - she only a 10 year old little girl!
+Annotation from annotator: 2
+
+Example 19:
+Text: @brahhh quit smoking cigs... i dont want to look old  plus... i cant breath haha
+Annotation from annotator: 2
+
+Example 20:
+Text: @thatkliqkid Nice....Im too young  Cant go til Im at least 17 probably. But hey. I've got plenty of time. Can't believe Fozzy played once.
+Annotation from annotator: 2
+
+Example 21:
+Text: @Kishez I am too young but I will definately make some virgin strawberry margeritas that day!
+Annotation from annotator: 2
+
+Example 22:
+Text: @MICHAELKTHNXBAI yep  No wonder they're having to sleep in their van cos they can't afford a hotel,lol. Better play the old stuff tonight!
+Annotation from annotator: 0
+
+Example 23:
+Text: 90's flashback... listening to old punk rock pop of the 90's
+Annotation from annotator: 2
+
+Example 24:
+Text: Oh MAN !! I was going to connect my old school Nintendo to play mario games. And is not in the bag I gotta search for it.
+Annotation from annotator: 2
+
+Example 25:
+Text: @smithtk yeap. But storytelling is 5000 years old, right? Lavoisier's law working perfectly  #nml09
+Annotation from annotator: 1
+
+Example 26:
+Text: I want to see king blues at the "electric ballroom" in london but ill get crushed.  I hate being a 14 year old that looks like an 8 yr old
+Annotation from annotator: 2
+
+Example 27:
+Text: @alex91AAM lol yeah. Man it was the ONLY Orang Utan pluchie that I found. Thank god I saw it once during my older trips to the mall.
+Annotation from annotator: 2
+
+Example 28:
+Text: You cough twice, and people ask if you've got swine flu. This gets really old after a while
+Annotation from annotator: 1
+
+Example 29:
+Text: @mileycyrus - so.. @xMileyCyrus was your old twitter right...?! meaning when you replied to me on there, it was actually you!?!
+Annotation from annotator: 2
+
+Example 30:
+Text: Feels very akward at bbt.....only white person and the old people are glaring at me
+Annotation from annotator: 1
+
+Target Example:
+Text: It's how, with every passing day, I look more like my mother in her young age and I'm not pleased about that.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

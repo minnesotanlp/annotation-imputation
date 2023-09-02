@@ -1,0 +1,135 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Correct Examples:
+Example 1:
+Text: They sleep on dirty floors in dirty houses with their dirty kids eating off dirty plates driving in dirty cars sitting at dirty tables with their dirty manners and dirty way of talking dirty way of living they wear dirty clothes have dirty smiles and are all-around dirty nasty people .
+Annotation from annotator: 2
+
+Example 2:
+Text: Evasive girl I flirted with online now apparently threatening to publicly shame me and destroy my career (x-post relationships)
+Annotation from annotator: 2
+
+Example 3:
+Text: Fat hoes on Twitter calling themselves Barbies, bitch you ain't no damn Barbie you a damn care bear.
+Annotation from annotator: 2
+
+Example 4:
+Text: Just about anything you could ever dream of can be found HERE Just about everyone agrees on illegal immigration !
+Annotation from annotator: 2
+
+Example 5:
+Text: my thesis is essentially: the opening scene is important bc we see that agamemnon is a dick and achilles is up his own ass
+Annotation from annotator: 2
+
+Example 6:
+Text: I been at school , work , home, do homework, sleep, wake up and do it all over again Monday-Friday ... I need this weekend off &#128553;
+Annotation from annotator: 0
+
+Example 7:
+Text: Whats 6 inches long, pink, and makes girls scream when they see it? A miscarriage
+Annotation from annotator: 2
+
+Example 8:
+Text: Being a bad person doesn't prevent you from getting laid
+For example, look at most of the normans who post here, they're completely terrible people and still get laid.
+Annotation from annotator: 2
+
+Example 9:
+Text: Why do women always say "women are people just like men" when every interaction I've had in my life has taught me that men are more empathetical, understanding, and logical, whereas women are more likely to be hypocritical and irrational and selfish?
+Annotation from annotator: 2
+
+Example 10:
+Text: Homestuckers are *cough* the NFL's whitest team but I get my dick sucked by my stockpile of Franken Berry I have saved for the cold months.
+Annotation from annotator: 2
+
+Example 11:
+Text: This life is all a big comedy sketch that nobody seems to notice
+Can't wait till the next one.
+Annotation from annotator: 0
+
+Example 12:
+Text: Tell her all you told to me , how this is where you wanna be and you can't see ya self living without me &#128524;&#129335;&#127997;‍♀️
+Annotation from annotator: 0
+
+Example 13:
+Text: That is only when they began speaking English as a majority .
+Annotation from annotator: 1
+
+Example 14:
+Text: Should incels officially make a stand against the hate speech towards unattractive men that comes from places such as bluepill?
+Annotation from annotator: 1
+
+Example 15:
+Text: War mongers are so fast to wage war - using someone else's son as cannon fodder.
+Annotation from annotator: 2
+
+Example 16:
+Text: LOOKSISM
+Eating burger as Chad == Manly strong
+
+Eating burger as incel == disgusting slob
+Annotation from annotator: 2
+
+Example 17:
+Text: Now that Citizens United established 1st amendment rights for corporations, the Supreme Court has literally ruled that money is speech.
+Annotation from annotator: 0
+
+Example 18:
+Text: All investigations should include what Obama did /didn't do to stop Russian aggression. Now that everyone is a Russia hawk.
+Annotation from annotator: 0
+
+Example 19:
+Text: Whats a Muslims favorite type of music? Stoner metal.
+Annotation from annotator: 2
+
+Example 20:
+Text: in short, there needs to be a verified that isn't Verified. requiring govt ids will cause probs. unique phone less problematic, not perfect.
+Annotation from annotator: 0
+
+Example 21:
+Text: For anyone Who has never been to Jail
+Or Prison....this is how it is.......
+Get (((booked)))
+Move to population...depending on your identity beliefs.ie tattoos.When you make it up North....Then you realize that RACE MATTERS..NEVER FORGET...because you are a number goy..got it..I KNOW MINE....FOREVER
+Annotation from annotator: 2
+
+Example 22:
+Text: We get attached to temporary things, then wonder why our happiness never lasts. KissWard SUNaKayoNalang
+Annotation from annotator: 0
+
+Example 23:
+Text: What is the opposite of a human being Black
+Annotation from annotator: 2
+
+Example 24:
+Text: It is only when you see people looking ridiculous that you realize just how much you love them. ~ Agatha Christie
+Annotation from annotator: 0
+
+Example 25:
+Text: White coworker:: Why don't you drink? Me:: Because I'm Muslim. White coworker:: Oh, but you know I'm for women's rights. I'm glad you don't dress like those other women we work with (African women who wear hijab). I guess it's good they're allowed to leave the house to work though.
+Annotation from annotator: 2
+
+Example 26:
+Text: Deep inside my Kremlin troll farm HQ fake news on full blast and Omonous Accordians and Organs play cnn fake news
+Annotation from annotator: 2
+
+Example 27:
+Text: Learnt so much Today at #yeco2017. Tnks @akinalabi @Omojuwa @funkeakindele @markessien and the MC too LOLzz #persistencepays
+Annotation from annotator: 0
+
+Example 28:
+Text: i dont know why i decided it was a good idea to watch 13 Reasons, i hate my sisters for letting me watch it after them
+Annotation from annotator: 0
+
+Example 29:
+Text: I see a lot of new people here, introduction to black pill
+Annotation from annotator: 0
+
+Example 30:
+Text: If yall niggas gon be gay, why yall gotta be so over the top? Dressing up in bitch shit that women wouldnt even dare wear. Smh.
+Annotation from annotator: 2
+
+Target Example:
+Text: So, will the French terrorists be heading to Turkey where Erdogan can protect them and send them safely to ISIS? #Islam
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

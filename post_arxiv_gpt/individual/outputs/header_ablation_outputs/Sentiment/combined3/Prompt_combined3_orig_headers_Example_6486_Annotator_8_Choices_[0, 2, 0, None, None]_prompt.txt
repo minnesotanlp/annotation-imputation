@@ -1,0 +1,245 @@
+Human-Rated Examples:
+Example 1:
+Text: I think im getting old... I used to be able to stay up all night but now i cant
+Annotation from annotator: 2
+
+Example 2:
+Text: @emilycopeland Yeah! I was doing an older version...now I have Extreme, so I just gotta get a yoga matt and a pull up bar then I'll start
+Annotation from annotator: 2
+
+Example 3:
+Text: dude, my dad just totally gave me his old PDA, which MEANS I can TWAT where ever I want that has wifi, like STARBUCKS. LOVE my life
+Annotation from annotator: 2
+
+Example 4:
+Text: off to lunch with an old friend
+Annotation from annotator: 2
+
+Example 5:
+Text: @Coralalala good old primark ;D but its only 8 hours
+Annotation from annotator: 2
+
+Example 6:
+Text: @JGDemas Thank you for #followfriday!  You are such a loyal follower to this old girl who speaks nothing but rubbish. You are much loved!
+Annotation from annotator: 2
+
+Example 7:
+Text: @theonlyshannon thanks - you too.  we're off to flag football with my six year old already.  it never ends around here!
+Annotation from annotator: 3
+
+Example 8:
+Text: http://twitpic.com/6geas - At old town with my peabody!
+Annotation from annotator: 2
+
+Example 9:
+Text: doing admission on a 26!  year old girl. i wonder what happens in a lifetime that can bring you here, by the time you are 26. sad
+Annotation from annotator: 1
+
+Example 10:
+Text: Great morning. 2 yr old put his hand on a burner I'd just turned off. Circular burns all over his palm. I feel sick about it.
+Annotation from annotator: 1
+
+Example 11:
+Text: No ultimate frisbee.  not enough responses. Let's do Friday evening. Any takers?  Come feel young again and enjoy.
+Annotation from annotator: 2
+
+Example 12:
+Text: @eggrollstan Thank you so much.  His fever went down and he was back to his old self, like nothing ever happened.
+Annotation from annotator: 2
+
+Example 13:
+Text: fuck being sick...can't even give her a kiss goodbye, and not to mention i feel like an old man
+Annotation from annotator: 1
+
+Example 14:
+Text: Just finished balling wit some kids from around my block. I'm officially old lol. SB: someone entertain me - my bff is out of town
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/5ofz5 - children playing 'round the old fountain.
+Annotation from annotator: 3
+
+Example 16:
+Text: about to lose candyland to a 3 year old  hopefully I finish before @clifsoulo he's weak too! LOL
+Annotation from annotator: 2
+
+Example 17:
+Text: @LynziLoo I kinda miss those days lol. Now we all have our own places and we don't party anymore. wtf?! we're getting old  nooo.
+Annotation from annotator: 2
+
+Example 18:
+Text: @renelle_adams I love Tennessee!!! I used to go there a lot when I was younger. You gotta visit Ripleys it's a lot of fun
+Annotation from annotator: 3
+
+Example 19:
+Text: Recently retouched. http://tinyurl.com/ljoboh  Finally got it to work, I think.  An old dog can learn new tricks, see?
+Annotation from annotator: 2
+
+Example 20:
+Text: miley's concert is in december i wanna go!  is anyone else secretly a 12 year old girl and wanna come with me? @lil_miss_sneha?  c'mooon
+Annotation from annotator: 2
+
+Example 21:
+Text: Weather amazing here. Going to break for some iced tea & company of an old Springer Spaniel.
+Annotation from annotator: 2
+
+Example 22:
+Text: don't forget the alcohol, oooh baby, oooh baby! Poor old Milez...
+Annotation from annotator: 2
+
+Example 23:
+Text: @Bearsuitband Saw that yesterday; it's my old Uni and I can't make it  Have a good gig!
+Annotation from annotator: 2
+
+Example 24:
+Text: my knee is sore today  is this what old age feels like haha im falling apart!!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking for old friends,, all i have is names.. and i dont remember faces :S // only found one
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 27:
+Text: so excited to catch up with some old friends tonight!  haven't seen them in a while
+Annotation from annotator: 3
+
+Example 28:
+Text: im currently LOVING my job  become waitresses people & you get to have old guys hitting on you ;) woooo!
+Annotation from annotator: 2
+
+Example 29:
+Text: @tehlinker it was tough being younger than you for sooo long... thanks for the bday wishes!
+Annotation from annotator: 2
+
+Example 30:
+Text: @hellosunshine05 thanks  no but seriously once we're older we have to go there!
+Annotation from annotator: 2
+
+Estimated Examples:
+Example 1:
+Text: @HarloSocial And what has happened to the old intern?
+Annotation from annotator: 2
+
+Example 2:
+Text: @salisburydowns My all time favourite old B&W movie has to be "You Can't Take It With You" Franz Capra - it's great on a wet afternoon
+Annotation from annotator: 2
+
+Example 3:
+Text: LOVED running into olddddd friends! But major apologies to @gretchendavis for bailing on plans!  forgiveee me please!
+Annotation from annotator: 2
+
+Example 4:
+Text: I miss my old jazz trio now  both my cousins will be playing later, cool!
+Annotation from annotator: 2
+
+Example 5:
+Text: listening an old CD, it's extraordinary!
+Annotation from annotator: 2
+
+Example 6:
+Text: @lastkaled I liked your picture. Except that you look about 10 years younger than me in it which just isn't fair
+Annotation from annotator: 2
+
+Example 7:
+Text: so dose anyone remember that Ketchup song by Las Ketchup that song is so old but its cool twitter me if u remember it
+Annotation from annotator: 2
+
+Example 8:
+Text: @salandpepper Actually started hurting after ASDA, maybe I'm getting too old and decrepit to shop! Off to park now with boy, beach later
+Annotation from annotator: 2
+
+Example 9:
+Text: The kitchen cabinets (newly painted) don't look flash. Colour bad (vomit like) & gloss looks old old old. No time to paint again pre bub.
+Annotation from annotator: 2
+
+Example 10:
+Text: @yoadrian29 haha,well,u ARE young...but i cant say shit,i was born 11/19/1985
+Annotation from annotator: 2
+
+Example 11:
+Text: is listening to Everything You Want by Vertical Horizon. Aww, miss old times
+Annotation from annotator: 2
+
+Example 12:
+Text: @totallytheatre Plus, it's the recession: people want to spend their money on old favourites that cheer them up
+Annotation from annotator: 2
+
+Example 13:
+Text: @laborracha ahh jealous. One day i'll be old enough
+Annotation from annotator: 2
+
+Example 14:
+Text: On my way, bursting with excitement like a 3 ur old
+Annotation from annotator: 2
+
+Example 15:
+Text: @mamasick yay!! glad he is sleeping in his big boy bed  I had such a hard time w/my oldest about that. But fortunately I wasn't sick then.
+Annotation from annotator: 2
+
+Example 16:
+Text: Hmm 6 flags tuesday?!?  I hope that creepy old dude from the commercials aint there!!
+Annotation from annotator: 0
+
+Example 17:
+Text: @JonathanRKnight  Realistic is no fun if we have to turn back into boring old ladies w/ out you guys around!!   LOL
+Annotation from annotator: 2
+
+Example 18:
+Text: @jjjohannaaa they look like geek-glasses now...  kinda cool, but i want my oldies back
+Annotation from annotator: 2
+
+Example 19:
+Text: @_amapola I know.  It's mostly photos of him when he was younger, like in his Angel days I guess. And just facially.
+Annotation from annotator: 2
+
+Example 20:
+Text: @tmlam_140776 3 year old ThinkPad...end is near
+Annotation from annotator: 2
+
+Example 21:
+Text: @Jaaycooxo i first ate adobo frog legs when i was about 6 yrs. old. i thought it was chicken wings, my lola prepared the dish.
+Annotation from annotator: 2
+
+Example 22:
+Text: @Julirose hehe truez. I'm using old imagery from wayy back when to add to the live footage I shot, cool stuff, it's so nice and cheesy!
+Annotation from annotator: 2
+
+Example 23:
+Text: @Galiiit well there is actually two different versions of the song, one's heavier and older than the other. And no problem
+Annotation from annotator: 2
+
+Example 24:
+Text: I just got finished photographing a 3 day old baby   Such a divine opportunity indeed!(;
+Annotation from annotator: 2
+
+Example 25:
+Text: @shaunwoodnz That's what i use! but many of our older tapes are in pretty bad condition... almost demagnetised.
+Annotation from annotator: 2
+
+Example 26:
+Text: Dancing to what if - brutha.  beautiful song! Got home 30 minutes ago. Visited old teachers (:
+Annotation from annotator: 2
+
+Example 27:
+Text: @Lottiotta Sadly one of my heathers went kapute cos it's not alkaline soil  Note to self: buy litmus paper (how old skool(
+Annotation from annotator: 2
+
+Example 28:
+Text: Mexican coca cola in a bottle. New favorite thing.  No high fructose corn syrup....  sugar is so awesomely old school.
+Annotation from annotator: 2
+
+Example 29:
+Text: @notthemarimba ugh I hate rollercoasters.  Unfortunately son loves them (and is too young to go on them alone)
+Annotation from annotator: 2
+
+Example 30:
+Text: @wazupstl Totally agree. On the upside, there is a lot of cool Eva content on there for the money.  Its all over a year old but still.
+Annotation from annotator: 2
+
+Target Example:
+Text: Day 2 of my second try to download Tweetdeck, if it doesn't work this time I know it's because the Windows I'm using is 2 old
+Annotation from annotator:

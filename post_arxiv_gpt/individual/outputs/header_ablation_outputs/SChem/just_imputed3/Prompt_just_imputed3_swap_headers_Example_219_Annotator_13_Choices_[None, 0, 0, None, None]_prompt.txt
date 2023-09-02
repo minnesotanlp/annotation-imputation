@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's considered juvenile to hate people without a good reason.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's bad to hate your family.
+Annotation from annotator: 4
+
+Example 3:
+Text: Before kicking someone out it is important to make sure your feelings will be permanent.
+Annotation from annotator: 3
+
+Example 4:
+Text: Families should be able to talk out their problems with each other.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's understandable to want friends and family around when getting a medical operation.
+Annotation from annotator: 4
+
+Example 6:
+Text: It is good to have friends who are there for you.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's nice to worry about your parents.
+Annotation from annotator: 4
+
+Example 8:
+Text: You shouldn't hate people just because they're women.
+Annotation from annotator: 4
+
+Example 9:
+Text: You should always try to mediate your parent's arguments.
+Annotation from annotator: 2
+
+Example 10:
+Text: You should not engage in romance with a patient you treat.
+Annotation from annotator: 4
+
+Example 11:
+Text: You can't expect everyone to like you.
+Annotation from annotator: 4
+
+Example 12:
+Text: You shoulld not worry about others being jealous when posting things on facebook.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's bad to have a drug addiction.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's good for kids to have friends they can play with.
+Annotation from annotator: 4
+
+Example 15:
+Text: You shouldn't play your music really loudly because it's rude and annoying.
+Annotation from annotator: 3
+
+Example 16:
+Text: It is dangerous for a doctor to misdiagnose a patient.
+Annotation from annotator: 4
+
+Example 17:
+Text: It is wrong to value a substance more than your significant other
+Annotation from annotator: 4
+
+Example 18:
+Text: It's expected that families will not get along well with their in-laws.
+Annotation from annotator: 2
+
+Example 19:
+Text: You can't expect people to always like a certain kind of music.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's wrong to think you're responsible for somebody else's life
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't stop suddenly when someone is right behind you.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's understandable to not want to contribute work to a group project.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's okay to be upset if someone you report to at work lets you take the blame for something you didn't do.
+Annotation from annotator: 4
+
+Example 24:
+Text: It is good to have rules.
+Annotation from annotator: 4
+
+Example 25:
+Text: You shouldn't be so scared about getting married.
+Annotation from annotator: 3
+
+Example 26:
+Text: If you are uncomfortable with your partner feeding your kids, you should not let your partner watch your children.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should be able to give criticism to your friends.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's wrong to spy on people through social media.
+Annotation from annotator: 3
+
+Example 29:
+Text: It’s important to have hobbies.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's okay to enjoy powdered milk.
+Annotation from annotator: 4
+
+Target Example:
+Text: It's important to have trust in a romantic relationship in order to have a healthy relationship.
+Annotation from annotator:

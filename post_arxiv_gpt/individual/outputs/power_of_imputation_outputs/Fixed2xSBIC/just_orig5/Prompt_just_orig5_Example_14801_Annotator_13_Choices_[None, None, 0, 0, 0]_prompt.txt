@@ -1,0 +1,7 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Predict the integer label of the following example:
+Target Example:
+Text: i doodled this in class out of boredom . thought ? mean rating ? <url> ( sorry for bad quality photo )
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

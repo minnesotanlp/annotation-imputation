@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Estimated Examples:
+Example 1:
+Text: @Abcmsaj Me neither. She's a right old bitch.
+Annotation from annotator: 2
+
+Example 2:
+Text: @mekkanikal I lurve that show. to pieces. thought the reference was to a much  older joke
+Annotation from annotator: 1
+
+Example 3:
+Text: Just home from a lovely evening at JP's with @frannypop and our old pal Charlotte. Sorry you missed the last bus Fran.
+Annotation from annotator: 3
+
+Example 4:
+Text: Is starting to think Obama was all hype    same old politicians
+Annotation from annotator: 1
+
+Example 5:
+Text: Wishing my computer wasn't as old as dirt, so I could play Sims 3, I only had 384 of ram, now we have 512.  That's what i had around.
+Annotation from annotator: 1
+
+Example 6:
+Text: @gen26rocks yeah, well my son is 10 and its like he is 3-4 6 year olds some times  But we are in therapy with him. I am hoping that helps
+Annotation from annotator: 1
+
+Example 7:
+Text: my back is reminding me how old I "really" am today
+Annotation from annotator: 1
+
+Example 8:
+Text: @jzellis seriously, tho, how did I get so old so quick? My revolution was marginalized so quickly.
+Annotation from annotator: 1
+
+Example 9:
+Text: New iphone 3G replaces old, water logged iphone.  Have 30 days to get newer iphone rev. Come on Apple!
+Annotation from annotator: 1
+
+Example 10:
+Text: Ahihihi younger sister just IMed. Haven't seen her in a MONTH. I miss her
+Annotation from annotator: 1
+
+Example 11:
+Text: Ugh. Another "what day is it today?" (5 most uttered words last 2 weeks for me) - Missed a 10 yr old birthday & it was even on my iCal.
+Annotation from annotator: 1
+
+Example 12:
+Text: @zeashanashraf no idea, i guess we're just too young.  hahaha.
+Annotation from annotator: 2
+
+Example 13:
+Text: @dylanbeattie That's just plain showing off! Some of us have to make do with one old, battered 19" Samsung  #mydesk
+Annotation from annotator: 1
+
+Example 14:
+Text: Little bro's prom was tonight @ Universal backlot. They grow up so fast. I feel so old now.
+Annotation from annotator: 1
+
+Example 15:
+Text: @jordanknight what's T Robbins?? p.s great seeing you in USA, back in boring old UK now!!  x
+Annotation from annotator: 2
+
+Example 16:
+Text: Goodwood training last might, thought I was 10 years younger, now it hurts
+Annotation from annotator: 1
+
+Example 17:
+Text: @Naturals doesn't look like it with the boys..... my oldest is not out of school until Wednesday!!
+Annotation from annotator: 2
+
+Example 18:
+Text: @danclay Yes, but no opportunities with a 6 month old, 2 year old and 8 year old. Also too much $. I live vicariously thru others
+Annotation from annotator: 1
+
+Example 19:
+Text: @aarthycrazy  ATB for the PI  ....r u ready with final part 3 of ur trilogy ? century old PC - ur friend built it himself? he is a genius!
+Annotation from annotator: 3
+
+Example 20:
+Text: @stevebitanga Oh steve....I wish I could. Sadly I am 12 years old...and by 12 I mean 19 lol
+Annotation from annotator: 1
+
+Example 21:
+Text: @David1969 we believe our 8 month old baby could just be starting to teethe!!! 6 months of this does not sound good
+Annotation from annotator: 1
+
+Example 22:
+Text: @RealHughJackman Cmping for the summer at Mammoth Caves, because my 9-year old wants to do anything action after watching your movie.
+Annotation from annotator: 3
+
+Example 23:
+Text: *grrr* Cat really pissed in the corner again. She's getting old ...
+Annotation from annotator: 1
+
+Example 24:
+Text: Had a lovely day with my boys in the garden. Oh to be young
+Annotation from annotator: 3
+
+Example 25:
+Text: @shaggyjebus solid anime! the new 5D's series is sooo much better than the older series IMO
+Annotation from annotator: 3
+
+Example 26:
+Text: Back home now, gonna grab a beer then have a play with the drum sampler on my old powerbook, miss my baby  xxx
+Annotation from annotator: 3
+
+Example 27:
+Text: @WinterDaisy I can't wait till next year. All their offerings started at 3 and up, poor 2 yr old is left out.  No fun being the baby bro.
+Annotation from annotator: 2
+
+Example 28:
+Text: Just saw the greatest d.t.m. (dirty teenage moustache)... on a 40+ year old. Wasn't able to snag a photo  #moustachefail
+Annotation from annotator: 1
+
+Example 29:
+Text: @jsusgrl I know  I'm so glad she's found a friend in Dakota. she's a good influence for her, even when she's younger.
+Annotation from annotator: 3
+
+Example 30:
+Text: @zenbitch When I shave my 'stache and my beard, people think I'm a bit younger, too. People tell me my 'stache makes me look MUCH older!
+Annotation from annotator: 3
+
+Target Example:
+Text: Found a super old type of me and my friends singing and me talking to my self  awww i miss the old days
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

@@ -1,0 +1,1 @@
+Based on annotator B's previous labels, they might label this example as 1 (contains hatespeech). The language used in the text is derogatory towards Democrats and implies that they are hypocritical for now praising John McCain. However, without more context it is difficult to determine the exact intent and tone of the statement.

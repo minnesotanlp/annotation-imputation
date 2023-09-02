@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: @Bluebee3 I had a weekend of killing myself b/c of this damn cruise  it was very unhealthy...lol....other than that the same old stuff...
+Annotation from annotator: 4
+
+Example 2:
+Text: @livieish I know, I know! Sorry! I feel very guilty. Planning to upload old pictures that I have been meaning to share. Sorry!
+Annotation from annotator: 4
+
+Example 3:
+Text: Oldest woman is 115 years old! She lived to see both 1900 & 2000 come in. Her complaints - arthritis and non crispy bacon - gotta love it
+Annotation from annotator: 4
+
+Example 4:
+Text: Just updated my blog: http://jenniferwadsworth.wordpress.com/. It's family stuff, but has a funny photo of me at 6 years old
+Annotation from annotator: 4
+
+Example 5:
+Text: installed the new modem which is meant to run 5 times faster than the old one and its slower  what the hell? gah slow internet kills me
+Annotation from annotator: 3
+
+Example 6:
+Text: @ZebranoBrazil crazy seat thing - the blue one in the pic.  Supports the little ones at a a young age, Betsy's just getting used to it
+Annotation from annotator: 4
+
+Example 7:
+Text: whenever i watch old livelavalive videos, it takes me back to the good times that i had last summer
+Annotation from annotator: 4
+
+Example 8:
+Text: @keither_buckley i twitter who i want! then i'll beat you with my old ass upside down bass! that's also punk rock, but a lesser degree.
+Annotation from annotator: 4
+
+Example 9:
+Text: Thought my kids were too old to subject me to awful soft play centres.  Seems I was wrong   Earplugs at the ready.
+Annotation from annotator: 3
+
+Example 10:
+Text: @spicyKaty what about your old followers?
+Annotation from annotator: 4
+
+Example 11:
+Text: at work. these five year olds are gonna keep me young.
+Annotation from annotator: 4
+
+Example 12:
+Text: @russfan101b It's fantastic isn't it! I got sunburnt quite badly @ old gaffers even when wearing factor 50 so I have to be careful though
+Annotation from annotator: 4
+
+Example 13:
+Text: @ZackKitzmiller it didn't have drivers for a 10yr old sound card in it's library. wasnt an issue. still works
+Annotation from annotator: 2
+
+Example 14:
+Text: Think of the gazillion ads for wrinkle creams, age spot removers, health clubs, etc. that send out the message that only old is beautiful.
+Annotation from annotator: 1
+
+Example 15:
+Text: @bookishnerd That happens a lot at our house with a two year old around.  We're on Return of the Jedi and I think it's my favorite. Yours?
+Annotation from annotator: 3
+
+Example 16:
+Text: I think I had food poisoning 2 days in a row. Yesterday after sushi, and today after eating chicken salad w/ chicken that was a bit old
+Annotation from annotator: 4
+
+Example 17:
+Text: @CandiClown Wait a minute, that means I'm getting really old
+Annotation from annotator: 3
+
+Example 18:
+Text: @TokyoDan appreciate the feedback, as does sako-chan.  filmed on a 3yr old Sony DSC
+Annotation from annotator: 2
+
+Example 19:
+Text: @RClapham Well we'll have to organize one for when you can get down, can't guarantee no oldies though
+Annotation from annotator: 4
+
+Example 20:
+Text: @mrs_music  lol! im sry. its getting old but everytime i c it i think of u and i die laughin  lol! ahhh
+Annotation from annotator: 2
+
+Example 21:
+Text: @BrookeJasmyn  everytime I'm at dunkin the doughnuts are always old and dry. I've had bad days w/ them perhaps... Now you have me wan ...
+Annotation from annotator: 2
+
+Example 22:
+Text: @Frannyann It was stuff  I'd downloaded onto my old lappy, but now it's all lost. I only have my cd's left
+Annotation from annotator: 4
+
+Example 23:
+Text: 7yr old son now better at putting together lego models than I am
+Annotation from annotator: 4
+
+Example 24:
+Text: I'm feeling old...90s rock is starting to creep onto my CLASSIC rock station
+Annotation from annotator: 2
+
+Example 25:
+Text: @miss_ali1984 Oh ok well I never did, so I consider myself a young entrepreneur that likes good whiskey
+Annotation from annotator: 4
+
+Example 26:
+Text: Found my old ipod! Boy this little bugger brings back memories
+Annotation from annotator: 4
+
+Example 27:
+Text: @NAGShow Hell yeah! Never too old to geek out!
+Annotation from annotator: 2
+
+Example 28:
+Text: Talking to an old friend  need followers. Cause i feel like a loser.
+Annotation from annotator: 3
+
+Example 29:
+Text: @deahloids IKR!  People now are more inclined to writing virtual letters. But I think it's still sweeter the old school handwritten way.
+Annotation from annotator: 4
+
+Example 30:
+Text: @salandpepper not bad thanks, apart from my youngest seriously doing my head in
+Annotation from annotator: 1
+
+Target Example:
+Text: Garbage - shredded old docs after cleaning  http://twitpic.com/5omoy
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

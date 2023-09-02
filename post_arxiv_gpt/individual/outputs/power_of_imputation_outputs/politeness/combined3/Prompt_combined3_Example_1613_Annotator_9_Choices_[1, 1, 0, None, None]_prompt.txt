@@ -1,0 +1,169 @@
+Imputed Examples:
+Example 1:
+Text: Grappler-I'm not sure if this article is OK now or not. What do you think?
+Annotation from annotator: 15
+
+Example 2:
+Text: Hi Tim, I received the photograph from Delft but it's page looks a mess and I can't edit it. Can you, or do you know someone who can, fix it?
+Annotation from annotator: 14
+
+Example 3:
+Text: Alistair, you have only undone the autoblock; you haven't unblocked the account yet. Could you do that, please?
+Annotation from annotator: 16
+
+Example 4:
+Text: Hey, when do we add games for the EHF Champion League and the Basketball EuroLeague into the portal? And NFL every week?
+Annotation from annotator: 13
+
+Example 5:
+Text: I saw that page but was not sure if it had anything to do with any of the articles we are working on? or was this a general issue?
+Annotation from annotator: 12
+
+Example 6:
+Text: I was wondering where you got your information for the dice statistics you recently added/changed in <url>.  Can you add a source to those tables?
+Annotation from annotator: 17
+
+Example 7:
+Text: You're welcome to revert edits, but I'm puzzled as to why you reverted this one - it seems absolutely essential to me the give a summary of Genesis 1. And if you revert Gen1, why leave Gen2?
+Annotation from annotator: 9
+
+Example 8:
+Text: Hmm...I was not aware that a year had to pass for ''anyone'' to request an appeal for Everyking. Prior to today, when did they ever say this?
+Annotation from annotator: 10
+
+Example 9:
+Text: I understand your point about MJ being very close and having competent editors, but do you not think those of us who understand the source problems, etc. that the Reagan page is having should try and explain them to those editors (that is, try to educate them)?
+Annotation from annotator: 8
+
+Example 10:
+Text: Sorry, I dont quite remember what we were talking about.  Can you tell me what you were/are confused about?
+Annotation from annotator: 17
+
+Example 11:
+Text: Alternatively, maybe the second column could be '''Country of origin''' and Rosen could simply be denoted USA/Poland, while Pillsbury would be USA/USA, without his US State being mentioned - it would be less confusing I think. Any thoughts?
+Annotation from annotator: 15
+
+Example 12:
+Text: I see you created a nonsense article yesterday because you were bored. If I unblock you will you disrupt more?
+Annotation from annotator: 6
+
+Example 13:
+Text: that hotcat lockup, was like an edit conflict, so i tried a backup and re-enter.  thanks for the assistance, i'm using the old layout, so would the new view affect my hotcat category edits?
+Annotation from annotator: 15
+
+Example 14:
+Text: ...and, really, BeeGees?  And not Peter Frampton?
+Annotation from annotator: 9
+
+Example 15:
+Text: Thanks. Now, if I had to make an infobox on "London" (just ''London'', I know there are many terms: Greater London, City of London etc), would it be correct to include the area/population/density of the territories I mentioned + the city area, or would just the city area suffice?
+Annotation from annotator: 15
+
+Example 16:
+Text: The file above does not meet the <url> so as to be copyrighted or eligible for fair use, as I had stated so on <url> when I first moved it there. What issues should be resolved?
+Annotation from annotator: 10
+
+Example 17:
+Text: It turns out that the Zelda Collection you referred to in <url> didn't include aLttP, reportedly because the GBA remake was still being sold at that time, so that disc included NES and N64 emulation but left out SNES. Do you have another example?
+Annotation from annotator: 12
+
+Example 18:
+Text: It does not appear to have attracted any participants other than Gerda. Perhaps adding a <person> template would draw in more participants?
+Annotation from annotator: 16
+
+Example 19:
+Text: The <url> has a request (header "<url>") left a few hours ago by someone who has pictures of signs in China but can't read them.  Would you please be willing to help?
+Annotation from annotator: 15
+
+Example 20:
+Text: That was a nice pic you put up in the Civil War article. where did you find it?
+Annotation from annotator: 19
+
+Example 21:
+Text: I took a quick look and I'm not up to reading through it properly at the moment. :) I'll be back on here tomorrow morning and I'll have a look then, if that's OK?
+Annotation from annotator: 15
+
+Example 22:
+Text: Unfortunately, I'm still worried this may not be enough to avoid arguments.  <url> says "A separate rationale must be provided each time the image is used in an article."  Should we just copy the tag for every article using the logo?
+Annotation from annotator: 13
+
+Example 23:
+Text: Hello. Since you have contributed to <url> in the past, could you spare a minute to discuss the fate of <url>?
+Annotation from annotator: 17
+
+Example 24:
+Text: Also, all in all, I think Batman should be changed to <url>, not <url>, as the latter refers to those with superhuman powers or abilities, which he lacks. Thoughts?
+Annotation from annotator: 14
+
+Example 25:
+Text: Ok, I'd agree about <url> being better. Should I delete the other one (you could also tag it for speedy deletion as a mistake)?
+Annotation from annotator: 13
+
+Example 26:
+Text: Thanks for your reply. I've tried to incorporate the references into the article; how is it now?
+Annotation from annotator: 17
+
+Example 27:
+Text: I've never seen something go beyond AN/I myself, and I find it hard to believe the other two hadn't been tried by now. Or is it a case-by-case thing?
+Annotation from annotator: 7
+
+Example 28:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 14
+
+Example 29:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 9
+
+Example 30:
+Text: Done. I may have missed a few links when copying them across, so could you please look through it just in case?
+Annotation from annotator: 18
+
+Human-rated Examples:
+Example 1:
+Text: If you completely disagree then why havn't you required references on other airport pages??
+Annotation from annotator: 4
+
+Example 2:
+Text: I'm the uploader of the hubble pictures.  What do I put for the author, description, and stuff?
+Annotation from annotator: 12
+
+Example 3:
+Text: Hello. Was wondering where you got his Birmingham squad number from?
+Annotation from annotator: 16
+
+Example 4:
+Text: Hm, I was unaware of said threads. Would you mind providing me with a link?
+Annotation from annotator: 12
+
+Example 5:
+Text: Thanks for the various corrections you have made to this article. Do you have a source for the Anglo-Saxon Chronicle date of 921, please?
+Annotation from annotator: 20
+
+Example 6:
+Text: The Italian and English rules are different from the Spanish. But if you think about it, would it make sense to list every reserve player who makes a first team appearance?
+Annotation from annotator: 12
+
+Example 7:
+Text: Make that "copyvio tag". OK if I revert under those conditions?
+Annotation from annotator: 12
+
+Example 8:
+Text: Already past my two "spelling correction" edits ;) (though they are obsessed with defense). I noticed one of them changed a quoted spelling: ''acknowledgment'' to ''acknowledgement'', did you get that one?
+Annotation from annotator: 12
+
+Example 9:
+Text: <url> - You made a bold edit, I reverted and now we discuss. Is there a reason why the Wikipedia editor generated filmography should be deleted and replaced by a link to an outside site?
+Annotation from annotator: 8
+
+Example 10:
+Text: I'm doing the same.  Hey, can you please tell me if <url> has been fixed enough by being stub-ified?
+Annotation from annotator: 16
+
+Example 11:
+Text: Sorry, I will check into this next week. Have you preserved UTF-8 (see comments on top of the wikEd code)?
+Annotation from annotator: 12
+
+Target Example:
+Text: Delete, who cares. If we're going to delete every fair use image that ''has'' a sufficient rationale, why not change to German Wikipedia image policy already?
+Annotation from annotator:

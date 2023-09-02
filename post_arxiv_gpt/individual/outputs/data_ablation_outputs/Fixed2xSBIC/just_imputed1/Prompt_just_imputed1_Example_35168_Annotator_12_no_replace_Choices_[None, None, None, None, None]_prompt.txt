@@ -1,0 +1,124 @@
+Example 1:
+Text: If you don't respect my right to exist, I won't respect yours.
+Annotation from annotator: 1
+
+Example 2:
+Text: You white Republican atheists who stayed home will pay the price...you can forget your tax break now!
+Annotation from annotator: 2
+
+Example 3:
+Text: Who the fuck puts a block of cheese in they room without a refrigerator ghetto ass niggas eases, like that's just the thing to do wrong.
+Annotation from annotator: 1
+
+Example 4:
+Text: how many emo kids does it take to change a light bulb ? i do n't know they keep crying on their hands and sticking them in the socket .
+Annotation from annotator: 2
+
+Example 5:
+Text: Life, liberty, and the pursuit of standing in a circle with your favorite people laughing at your own idiocy &#128525;.
+Annotation from annotator: 0
+
+Example 6:
+Text: I swear to god I never should have fucked with her... ooouuu toodaloo
+Annotation from annotator: 1
+
+Example 7:
+Text: "RT @s8n: Hate when people say ""not today Satan"". Fuck you. Yes, today."
+Annotation from annotator: 1
+
+Example 8:
+Text: Mittens' name should be herpes because you cannot get rid of him.
+Annotation from annotator: 1
+
+Example 9:
+Text: Got uh bitch dat set it off like Jada Pickett &#128130;&#128176;&#128176;&#128293;&#128299;&#128299;
+Annotation from annotator: 2
+
+Example 10:
+Text: I've never even met a native American!
+Annotation from annotator: 0
+
+Example 11:
+Text: This is the closest we'll get to normies admitting to being blackpilled.
+Annotation from annotator: 0
+
+Example 12:
+Text: People be so angry tonight on dis here tweeter. It hard for a colored man to see all dis anger. Like bein in a waffle house in Mississippi
+Annotation from annotator: 2
+
+Example 13:
+Text: I made a joke about freedom North Koreans didn't get it
+Annotation from annotator: 2
+
+Example 14:
+Text: Congratulations to @msstate Women's Basketball Team for stunning victory over UCONN last night. Good luck tomorrow to @UofSC &amp; @msstate!!!
+Annotation from annotator: 0
+
+Example 15:
+Text: My mom should’ve actually been on one of the planes that crashed on 9/11. I think.
+Annotation from annotator: 1
+
+Example 16:
+Text: Are there any good analyses of the racial makeup of the accusers and the accused in Title IX kangaroo court cases post Dear Colleague letter?
+Annotation from annotator: 0
+
+Example 17:
+Text: I'm guessing that you are not from Ireland as then you would know how well organised AFA are .
+Annotation from annotator: 0
+
+Example 18:
+Text: What’s Stephen Hawking’s favourite food? His shoulders.
+Annotation from annotator: 2
+
+Example 19:
+Text: Fat ass hoe holding up the machine
+Annotation from annotator: 2
+
+Example 20:
+Text: What do you call 100000 African refugees swimming in the sea? Great Mediterranean Garbage Patch
+Annotation from annotator: 2
+
+Example 21:
+Text: Boss walks in w/ Duke shirt on..I almost quit, but then I realized I need this job and we just won the title lol #WeGood
+Annotation from annotator: 0
+
+Example 22:
+Text: What's the worst thing about feeding your dead grandmother raw oysters? Sucking them from her cunt afterwards.
+Annotation from annotator: 2
+
+Example 23:
+Text: What really happened when Cinderella got to the ball? She gagged.
+Annotation from annotator: 1
+
+Example 24:
+Text: Hey /baph I've said MANY times that I hate chocolate and bread. Plz do better. I like skittles tho.
+Annotation from annotator: 0
+
+Example 25:
+Text: Could do with a bit of luck in my life sick as fuck &#128580;
+Annotation from annotator: 1
+
+Example 26:
+Text: Congratulations to @Niagara2021! Your world-class sports venues will be the backdrop to inspiring performances at the @CanadaGames!
+Annotation from annotator: 0
+
+Example 27:
+Text: "I almost posted ""stay in love"" to a friend's post in IG. But then I realized how rude it was, like it was an order or a challenge."
+Annotation from annotator: 0
+
+Example 28:
+Text: i wonder if you know that sometimes he thinks we're safe here ... well, that's just how it is, i suppose
+Annotation from annotator: 0
+
+Example 29:
+Text: What’s the difference between a white man and a snake? One is an evil, cold-blooded, often venomous, slimy creature of Satan
+
+And the other one did the Holocaust
+Annotation from annotator: 2
+
+Example 30:
+Text: will never see a dog being high as funny. your dog looks like he's in pain. it does not look fun. please stop trying to get your pets high.
+Annotation from annotator: 0
+
+Text: What do you call a smiling black man? Snigger
+Annotation from annotator:

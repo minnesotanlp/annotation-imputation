@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: If you listen to Nick Cave's voice, you can tell he doesn't like going up high. Too bad he didn't pass that on to his son.
+Annotation from annotator: 0
+
+Example 2:
+Text: What's the first thing you take care of after a car crash? The witnesses
+Annotation from annotator: 2
+
+Example 3:
+Text: "RT @HughGoesThere: Just met this idiot who pronounces it ""pecan"" instead of ""pecan."""
+Annotation from annotator: 0
+
+Example 4:
+Text: Why do jews always ask for the direction of the wind? So they know from which direction their relatives are coming from.
+Annotation from annotator: 2
+
+How annotator B has labeled some examples:
+Example 1:
+Text: My fevorite part of a math problem Is the final solution.
+Annotation from annotator: 2
+
+Example 2:
+Text: Girl:: *says something about Gangnam Style and gets Psy's ethnicity incorrect* Me:: Psy is Korean. Girl:: So what? Chinese, Korean, Japanese - they're all the same! Me:: No, they're not. They are three different countries. Girl:: Whatever! I don't care; it doesn't matter. Said by a white girl in English class to me, a Chinese girl. Made me feel frustrated and angry.
+Annotation from annotator: 0
+
+Example 3:
+Text: How many black people does it take to lay a roof? Depends how you slice em’
+Annotation from annotator: 2
+
+Example 4:
+Text: What's an Arabic's favorite bathroom accessory? a bath bomb
+Annotation from annotator: 2
+
+How annotator C has labeled some examples:
+Example 1:
+Text: govt: dont litter! shopping centres: has literally two fucking dustbins per level
+Annotation from annotator: 0
+
+Example 2:
+Text: She conducted séances at her boarding house, and soon her new tenant was also taken with the world of necromancy.
+Annotation from annotator: 0
+
+Example 3:
+Text: She is white but looks somewhat below average for a white Swedish girl , I think .
+Annotation from annotator: 0
+
+Example 4:
+Text: RT @iBeZo: Stupid fucking nigger LeBron. You flopping stupid jungle bunny monkey faggot.
+Annotation from annotator: 2
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: test time failed my biology test today : they asked , " what is commonly found in cells ? " apparently " black people " was n't the correct answer .
+Annotation from annotator:

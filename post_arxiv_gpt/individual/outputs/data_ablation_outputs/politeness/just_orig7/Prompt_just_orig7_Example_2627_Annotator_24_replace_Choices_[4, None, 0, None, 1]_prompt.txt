@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Ack, hit the wrong button?  How do you manage that?
+Annotation from annotator: 12
+
+Example 2:
+Text: I think the <url> would be more precise and accurate as <url>. What sayest thou?
+Annotation from annotator: 14
+
+Example 3:
+Text: Why would one want to re-create GNAA??
+Annotation from annotator: 11
+
+Example 4:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation from annotator: 10
+
+Example 5:
+Text: Hi, I see from your post at the reference desk, which I saw from your post at <url>, about times for locating wreckage (by the way, I posted a list of biggies I could find record of that have never been found) that you have read the above article. I have recently started converting some stuff ther that was still in present tense to past tense, in preparation for a push towards the article becomming our first air disaster FA (not counting ''<url>'', of course) and was wondering: as someone who knew nothing about the crash before, and has just read the article, do you think it's possible?
+Annotation from annotator: 18
+
+Example 6:
+Text: Without participating in talk page discussion, you have deleted reliable sources, and rewritten a sentence so that it is supported by no sources at all except your personal opinion.<url>  Am I missing something here?
+Annotation from annotator: 10
+
+Example 7:
+Text: Yes, I appreciate that my edits were not the best, but they are currently the best available in Wikipedia for guiding readers in understanding there the emergence of the legal systems of the United Kingdom. Do You have a better suggestion?
+Annotation from annotator: 17
+
+Example 8:
+Text: I responded to you on my talk page. A pity the WorldCat proposals you posted met with such deafening silence... but can we claim that as implicit support?
+Annotation from annotator: 17
+
+Example 9:
+Text: Glad to see that link go blue. Have you seen the <url> on Google Books?
+Annotation from annotator: 21
+
+Example 10:
+Text: Hi, I just had a look at the <url> article and spotted that the link <url> goes to a dab page, are any of the options there the right one?
+Annotation from annotator: 17
+
+Example 11:
+Text: That you would consider a section that he "praised" a murderer (referenced to a website dedicated to smear campaigns, no less) as "NPOV" is astonishing. Doesn't <url> apply here or do you expect other users to turn the attack into something NPOV?
+Annotation from annotator: 11
+
+Example 12:
+Text: Take a look at: <url> Baltimore's were ordered as Recon bomber/ Great Britain  - this is the GR designation??
+Annotation from annotator: 12
+
+Example 13:
+Text: I note the copyvio tag you placed on <url>. How do readers compare the content at the source you specified with the content of the article text you removed?
+Annotation from annotator: 9
+
+Example 14:
+Text: Hi Kumioko, with regards to <url>, I'm not really seeing how <url>, a British WWII admiral is part of the US wikiproject? Were you using a category as your basis?
+Annotation from annotator: 14
+
+Example 15:
+Text: There is a special tool which shows you page sizes? Would you like to know how to use it?
+Annotation from annotator: 18
+
+Example 16:
+Text: Hey I saw that you're using Huggle and wanted to try it out, too. I downloaded it, but every time I try to open the program I get the message: CLR error: 80004005. The program will now terminate....What can I do to fix the problem?
+Annotation from annotator: 18
+
+Example 17:
+Text: Hey thanks for reassessing the <url> article to B class. So what's need to be done to make it GA?
+Annotation from annotator: 20
+
+Example 18:
+Text: You appear to have created a duplicate of <person> at <person>. Is there any particular reason for this?
+Annotation from annotator: 12
+
+Example 19:
+Text: Hey, I reverted your edits on recognition because the statements were already relayed in footnotes, which I hadn't realised when you brought it up on the talk page. Did you want to move the statements to the main text?
+Annotation from annotator: 14
+
+Example 20:
+Text: Hi, you removed links from "Microscope image processing" which I just added to resources which contain information on digital microsocopy. How to define their (ir-)relevance and justify their validity (or not) for inclusion/exclusion on this page?
+Annotation from annotator: 14
+
+Example 21:
+Text: Got that ''Spin'' article in the post today; should prove helpful. Also, I've added a Musical style section to the <url> article; any particular thoughts on what song would best exemplify the Dinosaur style?
+Annotation from annotator: 15
+
+Example 22:
+Text: This deleted page was recreated. Since you were the original nom., is this basically the same article, or has it been improved?
+Annotation from annotator: 12
+
+Example 23:
+Text: I have to ask, why are you separating topics into different sections? And was I right in my edits to <url>?
+Annotation from annotator: 12
+
+Example 24:
+Text: I messed with this problem a bit last week but couldn't come up with anything. Is there a timeline expert that can come in a fix it if we recommend that action be taken?
+Annotation from annotator: 18
+
+Example 25:
+Text: Done. I may have missed a few links when copying them across, so could you please look through it just in case?
+Annotation from annotator: 19
+
+Example 26:
+Text: Were you aware this guys was publishing private phone numbers? Even though it's an IP, do you think something longer than 31 hours is warranted?
+Annotation from annotator: 12
+
+Example 27:
+Text: SE, I've briefly blocked your bot because I see it's changing embedded links to footnotes again, against <url>. Did you discuss with anyone that you were doing this, or get permission to use it?
+Annotation from annotator: 11
+
+Example 28:
+Text: I noticed a recent edit and upload of yours and have reverted your edit and started a discussion thread <url>. Would you be able to comment there?
+Annotation from annotator: 17
+
+Example 29:
+Text: You see, I expended quite some time on this, referenced it thoroughly, and thereby resolved a confusion between the medieval <url> and the text by Origen. I just don't understand how there can be a problem here?
+Annotation from annotator: 12
+
+Example 30:
+Text: Please see <url>. Should I move the material to the <url> and resubmit the nomination?
+Annotation from annotator: 14
+
+Target Example:
+Text: Thanks for the alert.  By the way, how's Granny doing?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

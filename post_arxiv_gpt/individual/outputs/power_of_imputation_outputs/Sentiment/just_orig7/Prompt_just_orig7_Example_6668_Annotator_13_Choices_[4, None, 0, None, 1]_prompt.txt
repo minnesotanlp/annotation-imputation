@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: @ImajicArt yeah   could be worse - you could be listening to your 3 year old poo while playing the DS
+Annotation from annotator: 2
+
+Example 2:
+Text: @feleciacruz girls work in bars from all ages... In some places the younger the better
+Annotation from annotator: 3
+
+Example 3:
+Text: Say what you will about the dear old Kurrajong, it is a ball of pure class
+Annotation from annotator: 2
+
+Example 4:
+Text: Just been playing an old favorite: x-wing!  Anyone out there still have the instruction manual?  I have forgotten some of the keys.
+Annotation from annotator: 2
+
+Example 5:
+Text: just done with my "you got served" time  it's kinda funny seeing younger beat freaks members
+Annotation from annotator: 2
+
+Example 6:
+Text: @barilski Hello Mr. B, just reading through your old tweets, almost didn't follow you, Tina Arena, I'm disappointed, ugh worst singer eva
+Annotation from annotator: 1
+
+Example 7:
+Text: trying to catch up with an old friend, praying this works, i finally am into the final stages of correcting my first book maybe
+Annotation from annotator: 3
+
+Example 8:
+Text: @beyoncerockzz I'm curious, how old are you? lol..
+Annotation from annotator: 2
+
+Example 9:
+Text: V-103's old school mix with go-go and reggae is making me homesick  #FB
+Annotation from annotator: 3
+
+Example 10:
+Text: @saucybritches Cool! Get her going young.
+Annotation from annotator: 2
+
+Example 11:
+Text: eww my straighteners smell like old lady
+Annotation from annotator: 0
+
+Example 12:
+Text: @lovebabz i love the way you express love. i'm feeling the same way about an old friend. unfortunately, he rejected me. said he's numb
+Annotation from annotator: 1
+
+Example 13:
+Text: @aruky Yes, this NBA song is great!!!  Got an old funny NBA cheerleader remix song. Ohrwurm of the day "colorblind".
+Annotation from annotator: 2
+
+Example 14:
+Text: U know u're getting old when you can't sleep in past 8:30 on the weekends cuz u're so used to waking up early 4 work.
+Annotation from annotator: 2
+
+Example 15:
+Text: @basantam she's my youngest...definitely has a free spirit. thankfully it didnt injure me too badly
+Annotation from annotator: 2
+
+Example 16:
+Text: I feel rejected! I was just shut down for a hug from a lil guy who's usually all over me...shut down by a two year old...
+Annotation from annotator: 2
+
+Example 17:
+Text: @KateEdwards not knowing I'm getting old won't change the fact I'm getting old
+Annotation from annotator: 2
+
+Example 18:
+Text: @arpenpatel - not really. about medium sized. she's a 7 month old tabby.  she's out of jail now.  she appears to be properly contrite.
+Annotation from annotator: 3
+
+Example 19:
+Text: @SpidrMonkey Sadly, Spider, I just reminded myself how much older I am than him, too. The span is over a decade. Boooo.
+Annotation from annotator: 1
+
+Example 20:
+Text: @isinuyasha ... well... half as bad as me bricking my 3 days old g1 ...  post that pic somewhere!
+Annotation from annotator: 2
+
+Example 21:
+Text: @Jesstjit iyaaa panjang ceritanya jess. He changed a lot, I want the old frans, jess
+Annotation from annotator: 2
+
+Example 22:
+Text: @NEWS25jchrisos You're not alone in being sick after vacation. My wife and oldest daughter are BOTH under the weather today.
+Annotation from annotator: 1
+
+Example 23:
+Text: @Adrienne604 I used 2 do it,quite a lot mostly Monterey. Just last month, I cleaned out the garage and thru all the old gear away
+Annotation from annotator: 2
+
+Example 24:
+Text: I just ate three week old chicken and had to vomit it out... Fun night  anyone else done that?
+Annotation from annotator: 0
+
+Example 25:
+Text: @heawood not like the good old days when the posties used to throw and non-Labour leaflets in the bin
+Annotation from annotator: 2
+
+Example 26:
+Text: Aw Stephen Colbert probably killed this nice old lady. What a jerk
+Annotation from annotator: 0
+
+Example 27:
+Text: @Raynecleoud currently on the old wifi so nada  lol. Ooh, I'm on simplicity with my iPhone so lookin 4ward to the new1 too! X
+Annotation from annotator: 2
+
+Example 28:
+Text: This next tweet is 1981 which is the yr i was born. The best year Man i'm getting old
+Annotation from annotator: 2
+
+Example 29:
+Text: @bennyling Sigh, I used to have a custom sms tone on my old phone, I really miss it
+Annotation from annotator: 2
+
+Example 30:
+Text: @pestilential Crap.   Can you move him back to the old tank / setup?  Maybe he can recover?  I'll call you after noon - lunch/dinner?
+Annotation from annotator: 2
+
+Target Example:
+Text: Falling asleep to eli young, perfect
+Annotation from annotator:
+Your output should be a single integer and nothing else.

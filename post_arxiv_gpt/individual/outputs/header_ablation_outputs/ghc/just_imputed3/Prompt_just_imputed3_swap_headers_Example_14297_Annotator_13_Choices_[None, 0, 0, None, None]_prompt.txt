@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: More crap from the guardian.
+Annotation from annotator: 0
+
+Example 2:
+Text: The Truth About Kanye https://youtu.be/IiTV2LoUNzU via @YouTube
+Annotation from annotator: 0
+
+Example 3:
+Text: Die sozialistischen Wendehälse sind wieder aktuell. 
+Annotation from annotator: 0
+
+Example 4:
+Text: FACT: Pedophilia and the ritualized maiming of children are rampant among Amazonian tribes. The logging companies destroying the rain forest are just a front for a secret brotherhood of vigilantes who have decided to take justice into their own hands.
+Annotation from annotator: 0
+
+Example 5:
+Text: Kingdom Ambassadors 6/14/18 http://createsend.com/t/j-1439BF3C4A8843CE2540EF23F30FEDED  5G will increase the current 700 to 5.8 billion microwaves per second for cell phone and Wi-Fi data to tablets and laptops to pulsed microwaves of 24 to 90 billion microwaves per second. Frequency Armageddon, therefore, is no exaggeration.
+Annotation from annotator: 0
+
+Example 6:
+Text: See secure fence act of 2006.
+Annotation from annotator: 0
+
+Example 7:
+Text: How would others do spiritually if they followed your example perfectly? 
+Annotation from annotator: 0
+
+Example 8:
+Text: KOCH calls these the BEST?  WE HAVE ENOUGH of our own homegrown criminals & gangs!  We don't need more!
+Annotation from annotator: 0
+
+Example 9:
+Text: It's a start, thanks:  
+Annotation from annotator: 0
+
+Example 10:
+Text: Hatespeech laws could end up being just what we need to push average White folks into direct action.
+Annotation from annotator: 0
+
+Example 11:
+Text: #DemocratHypocrisy #MeToo #ViolenceAgainstWomen
+Annotation from annotator: 0
+
+Example 12:
+Text: Yo @Sargonofakkad100, you really should talk about this on @dickmasterson's‍ podcasts! https://youtu.be/Jvkzo4GXDyI
+Annotation from annotator: 0
+
+Example 13:
+Text: Wait... I thought YOU were #QAnon 😂
+Annotation from annotator: 0
+
+Example 14:
+Text: which one of these fat fucking homos is you @PattonGunn?
+Annotation from annotator: 0
+
+Example 15:
+Text: The main problem with California’s bail bond elimination is that it opens the door to 5th amendment violations. What if a Jew judge deems a member of Patriot Prayer a high risk based on their political beliefs and throws them in prison, where they will then have to wait months for their first pre-trial hearing?? There are so many ways that this new system can and will be abused. I warn you, if y...
+Annotation from annotator: 0
+
+Example 16:
+Text: I left twitter because I was not interested in the left wing echo chamber they wanted to create. I treat Facebook as a point of contact with my far flung family (and because my wife wants me to exist in that space) Give unto Caesar what is Caesar's and stick with Gab =) 
+Annotation from annotator: 0
+
+Example 17:
+Text: I like the Scots, I really do, I get over the border regularly. 
+Annotation from annotator: 0
+
+Example 18:
+Text: World War II was a holocaust on all humanity, just like the first. Fuck war. 
+Annotation from annotator: 0
+
+Example 19:
+Text: Former Top FBI Lawyer Testified that Rosenstein “Seriously” Considered Secretly Recording Trump. 
+Annotation from annotator: 0
+
+Example 20:
+Text: The jig is up. Expect many more suicides, voluntary and other.
+Annotation from annotator: 0
+
+Example 21:
+Text: Some light appears. https://www.amren.com/news/2018/08/spain-orders-ma...
+Annotation from annotator: 0
+
+Example 22:
+Text: Queen Elizabeth: PARDON TOMMY and give him a peerage, Ma'm!  The Anglosphere was filled with defeated working-stiff descendants of the yeomanry, misc. Celts, and the dissenters. Once ill-treated, we may thank God for His Providence in transplanting us. Now TOMMY ROBINSON is getting the old treatment. #BritFam #Anglosphere
+Annotation from annotator: 0
+
+Example 23:
+Text: Sheela the Beef. Get a real name.
+Annotation from annotator: 0
+
+Example 24:
+Text: Carney!!!!!! He is NOT working in the UK 's best interests. But there again, neither is our Prime Minister or Chancellor of the Exchequer. 
+Annotation from annotator: 0
+
+Example 25:
+Text: #Sega used to have this beat 'em up called 'Streets of Rage'. Three of them on Genesis/Mega Drive. It seems the series is getting the Sonic Mania treatment (i.e. actual fans of the series are making a sequel). #Gaming #Retro #SoR #Arcade #90s https://www.streets4rage.com/
+Annotation from annotator: 0
+
+Example 26:
+Text: REMEMBER EVERYONE DEPLOYED THEY ARE FIGHTING THERE SO IT WON'T COME HERE
+Annotation from annotator: 0
+
+Example 27:
+Text: Latest #Qanon analysis from @destroyingtheillusion #avenatti https://youtu.be/fOQPFgF5Etg
+Annotation from annotator: 0
+
+Example 28:
+Text: Respected professor blasts 'once-proud' CNN in scathing op-ed: 'CNN lost its way'  https://search.app.goo.gl/3o1uA 
+Annotation from annotator: 0
+
+Example 29:
+Text: @BristolCommonSense  Ratings: Grammys  down hard from 2017 to all time low !  Americans are fed up with anti-white hate.  http://deadline.com/2018/01/grammy-ratings-kendrick-lamar-hillary-clinton-bruno-mars-james-corden-cbs-1202272416/
+Annotation from annotator: 0
+
+Example 30:
+Text: Do not believe any of these polls. If you believe them, that they can use these polls against you. If the elections were rigged, that the public cannot request for an investigation because they'll need probable cause. And if the polls says that the Dems has gotten these states, and if the public trust the polls  That there will be no need to start an investigation
+Annotation from annotator: 0
+
+Target Example:
+Text: Freedom of expression is yours to wield at will, just my opinion doesn't mean I'm right or your wrong.  Peace God's speed 
+Annotation from annotator:

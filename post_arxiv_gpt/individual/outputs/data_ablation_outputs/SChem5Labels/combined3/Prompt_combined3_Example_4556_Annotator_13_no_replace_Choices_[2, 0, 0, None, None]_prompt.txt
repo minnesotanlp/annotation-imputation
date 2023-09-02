@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It's not okay to base your happiness on the things you have.
+Annotation from annotator: 2
+
+Example 2:
+Text: You are expected to want to spend time with your partner.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's good to look ahead and see what can happen.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is good be together as a family.t
+Annotation from annotator: 3
+
+Example 5:
+Text: It is important to discuss birth control.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's normal to be worried as a first time parent.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's wrong to want something horrible to happen.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's not okay to be in a romantic relationship with a teacher.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's understandable if you are annoyed when your spouse wakes you up.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's okay to think differently.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's not okay to be ungrateful over the holidays.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's wrong to go to your child's private events.
+Annotation from annotator: 2
+
+Example 13:
+Text: You shouldn't tell someone what to do.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's normal to expect gifts on special days.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is good to help your friends
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to treat family members dishonestly.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is expected that you do not talk to exes.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's always good to help someone out if they are dyeing their hair because it's hard to do by yourself.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to cook for your significant other.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's honorable to defend your romantic partner in arguments.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should go to bed when you are falling asleep on the couch.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is rude to lock someone out of their house.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's crucial to be open and communicative with your partner.
+Annotation from annotator: 3
+
+Example 24:
+Text: It is good to attend events held by your friends and family.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to buy gifts for people.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is weird to go out with your ex's best friend.
+Annotation from annotator: 2
+
+Example 27:
+Text: You shouldn't mooch off your siblings.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's allowed to try to find puppies a good home.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay to get help when you need it.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's good to rescue a stray cat from the streets.
+Annotation from annotator: 3
+
+Human-Rated Examples:
+Example 1:
+Text: It's ok to sell things in school.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's expected that you want your friends to live in your city.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't leave your aging and sick parents at home all alone.
+Annotation from annotator: 3
+
+Example 4:
+Text: You shouldn't wear a nightdress if you're male.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's okay to have favorite things that you enjoy.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's nice to host families.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's important to stay hydrated.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's unhealthy to vape.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to give your heart and soul to others.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to want to feel appreciated in life.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's nice to go on dates.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's good to communicate with your spouse.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's understandable that sometimes things happen and we have to hurry to be on time.
+Annotation from annotator: 3
+
+Example 14:
+Text: If you are having trouble in your relationship, you should get some relationship advice.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's understandable if you're offended when your partner breaks up with you because of how you used to get by in life.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to be obsessed with an ex.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's understandable if you're glad when someone is happy to receive your greeting card.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's understandable if you're disappointed when you don't feel welcome in a new social circle.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to book things in advance.
+Annotation from annotator: 3
+
+Example 20:
+Text: Partners are expected to do kind things for each other.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't spend all your time masturbating.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's bad to miss class and have to study extra to catch up
+Annotation from annotator: 3
+
+Example 23:
+Text: It's bad to feel guilty.
+Annotation from annotator: 0
+
+Example 24:
+Text: It's fun to go out fishing with your grandparents.
+Annotation from annotator: 3
+
+Example 25:
+Text: You should be careful to avoid tripping when you're walking.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's not okay for a person not to be able to figure things out on their own.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is reasonable to be anxious about your first kid being born.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's normal to eat peanuts at a bar
+Annotation from annotator: 3
+
+Example 29:
+Text: It's wrong to get divorced.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's good to try new restaurants.
+Annotation from annotator: 3
+
+Target Example:
+Text: Selling body organs is never acceptable.
+Annotation from annotator:

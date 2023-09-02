@@ -1,0 +1,7 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Target Example:
+Text: why are black men afraid to spend time with their children ? the cincinnati zoo shoots to kill .
+Annotation from annotator:
+The only valid output is a single integer.

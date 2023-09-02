@@ -1,0 +1,83 @@
+Example 1:
+Text: There's a New Sheriff In Town and his name is; PRESIDENT DONALD J. TRUMP ! He was on POINT and on FIRE !  GOD BLESS PRESIDENT TRUMP ! #StopTheBias#MAGA#GabVets#GabFam
+Annotation: 0
+
+Example 2:
+Text: @TexasRancher45‍  
+Annotation: 1
+
+Example 3:
+Text: Rod Rosenstein’s wife is Clinton attorney
+Annotation: 0
+
+Example 4:
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Annotation: 0
+
+Example 5:
+Text: 100% correct. Not many years ago, they would have been hung.
+Annotation: 0
+
+Example 6:
+Text: What a fag, not even a real boy.
+Annotation: 1
+
+Example 7:
+Text: @Patrick_little‍  
+Annotation: 0
+
+Example 8:
+Text: https://www.youtube.com/watch?v=DA_ZrexdabI - Browse around this web-site
+Annotation: 0
+
+Example 9:
+Text: Chinese Face Reading In The News @ http://brothernathanaelchannel.com/watch_video.php?v=1284
+Annotation: 0
+
+Example 10:
+Text: Trump Refuses to Back Down on Mexico Paying for Wall, Mexican President's Trip to White House Called Off http://bit.ly/2CI2nPc
+Annotation: 0
+Estimated Majority-voted Examples:
+Example 1:
+Text: Those who talk about taking action won't do it themselves. I won't. 
+Annotation: 0
+
+Example 2:
+Text: People need to freaking wake up!
+Annotation: 0
+
+Example 3:
+Text: Gym sign upsets fat people! 
+Annotation: 0
+
+Example 4:
+Text: I'm moving so not worried about self doxing... thats down the street from where I live rn. I live just off the college campus here. Its niggerville. I call it Detroit Jr.
+Annotation: 1
+
+Example 5:
+Text: Hundreds of innocent bystanders have their jobs taken from them over a joke Roseanne tweeted & the number of Americans calling this censorship "justice" makes me want to puke. 
+Annotation: 0
+
+Example 6:
+Text: Isn't polosi hilarious with her senility?!:)  PRAY GOD BLESS AMERICA with SANITY and SAFETY!!
+Annotation: 0
+
+Example 7:
+Text: Republican students should take their enrollment elsewhere. Berkeley is no longer a prestigious university and has been discredited as high standard academic institution. This decline in enrollment and withdrawal of Republican alumni support will hurt it where it counts: its hip pocket, Remember what happened to University of Southern Mississippi.
+Annotation: 0
+
+Example 8:
+Text: Seriously, that's not 12 weeks?
+Annotation: 0
+
+Example 9:
+Text: https://www.weeklystandard.com/benjamin-weinthal/iran-still-on-the-hunt-for-nuclear-weapons-technology-across-germany 
+Annotation: 0
+
+Example 10:
+Text: Deer do not understand private property rights.
+Annotation: 0
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Text: I’m like the Cuban Mail Bomber Crisis is Over and the Clinton’s Didn’t get Bl💥wn Up so at this point...
+Annotation:
+Your output should be a single integer and nothing else.

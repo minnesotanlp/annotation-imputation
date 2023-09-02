@@ -1,0 +1,127 @@
+Estimated Examples:
+Example 1:
+Text: Political correctness has gone stupid now! You can't even say Black Paint anymore, instead it's supposed to be "Tyrone, would you please paint my house?"
+Annotation from annotator: 2
+
+Example 2:
+Text: Went to The Body Shop to try Euntak's perfume (which Gong Yoo endorses irl) and it smells horrible aaaah I wanted to support this ㅠㅠ
+Annotation from annotator: 0
+
+Example 3:
+Text: "nigga gone ask me ""you made that? bought the potatoes and everything? you baked the chicken yourself?"" GET TF AWAY FROM ME, CHEF RAMSEY"
+Annotation from annotator: 1
+
+Example 4:
+Text: In 1962, the U.S. Supreme Court handed down a decision interpreted as barring prayer in public schools.
+Annotation from annotator: 0
+
+Example 5:
+Text: I went to the baofeng website but it was in Chinese ...
+Annotation from annotator: 0
+
+Example 6:
+Text: whats the diffrence between princess diana and my computer When my computer crashes I actually give a fuck
+Annotation from annotator: 2
+
+Example 7:
+Text: human vegetables if you put a bunch of vegetables in a room , is it now a salad ? if they are all from rome , is it a caeser salad ? if they are all gay , is it a fruit salad ? if you put a bunch of vegetables on a trampoline , is it now a tossed salad ? if you have a bunch of vegetables in a room , and they all enjoy console gaming , is it a potato salad ? if a bunch of vegetables all went out and got some drinks , is it now a salad bar ? if it 's a bunch of lesbian vegetables , are they now vegetarien ? is it cannibalism if you eat a vegetable ? if a bunch of vegetables all get into a mangling car accident , is it now a chutney ? and then if they bury them all in the same graveyard , is it now a garden ? that 's the great thing about making fun of vegetables , is that they are vegetables , what the fuck are they gon na do ?
+Annotation from annotator: 2
+
+Example 8:
+Text: I've stick my dick in my gf's wrong hole, "she told me im the dumbest motherfucker she've met... in her 12 years of living."
+Annotation from annotator: 2
+
+Example 9:
+Text: Anybody ready to go Burn Down Any Trailer Parks with this one #Disclaimer Please don't literally Burn Any Trailer Parks down it's against the law and you'll be locked up plus I've major love for all of My Trailer Trash people I was raised #TrailerTrash
+Annotation from annotator: 2
+
+Example 10:
+Text: I'm gonna name my puppy "retarded" So when someone asks me "Are you fucking retarded?" I can say " No, I'm fucking my daughter"
+Annotation from annotator: 2
+
+Example 11:
+Text: Why is Father's Day treated as if it's just an afterthought to Mother's Day?
+Annotation from annotator: 0
+
+Example 12:
+Text: Dem politicians are a rapey weapon of mass destruction and Globalists are still trying to call the shots.
+Annotation from annotator: 2
+
+Example 13:
+Text: In 1967, Polish mercenary Rafal Ganowicz was asked what it felt like to take human life, “I wouldn’t know, I’ve only ever killed communists.”
+Annotation from annotator: 1
+
+Example 14:
+Text: Never let a nigga take advantage of the fact you love him to where he think you supposed to let everything he do slide❗️
+Annotation from annotator: 0
+
+Example 15:
+Text: I like my women like i like my jokes Beaten to death
+Annotation from annotator: 2
+
+Example 16:
+Text: What do White people get in return for letting Blacks have Black heritage month? Father's Day
+Annotation from annotator: 2
+
+Example 17:
+Text: Modern day singers talk about the same shit rappers talk about lol....hoes
+Annotation from annotator: 0
+
+Example 18:
+Text: I hear ppl talk about how they never wanna get into a relationship and all that all the time. Shoot I can't wait to be cuddled up w/ my girl
+Annotation from annotator: 0
+
+Example 19:
+Text: Y'all bitches wanna be so different and y'all really so basic&#128553;&#128553;&#128553;
+Annotation from annotator: 2
+
+Example 20:
+Text: Accident cleared in #Stark on I-77 NB before 6th St, stop and go traffic back to Cleveland Ave, delay of 5 mins #traffic
+Annotation from annotator: 0
+
+Example 21:
+Text: This YouTuber is giving away Gaming PC, PC parts, Phones &amp; tons of other gadgets to his fans https://t.co/uIlKzLiAFO
+Annotation from annotator: 0
+
+Example 22:
+Text: i really wish i could spend more time on reddit . <repeat> but my room looks like manchester arena . <repeat> got ta clean all the bits and pieces up !
+Annotation from annotator: 0
+
+Example 23:
+Text: I been a real busy boy with my girl pregnant and all the hell if been dealing with to get here and I feel guilty for taking time for myself in playing games when I know I should bask in it before my little one here if earn a little me time at least..😥
+Annotation from annotator: 0
+
+Example 24:
+Text: Yo, those 3D pictures of babies make me want to fucking vomit.
+Annotation from annotator: 0
+
+Example 25:
+Text: Oh dear , Full on white genocide right there .
+Annotation from annotator: 2
+
+Example 26:
+Text: This stupid bitch gonna end up dead.. she needs a wake up call before she ends up doing something stupid to the wrong person.
+Annotation from annotator: 2
+
+Example 27:
+Text: Poor Trump..nothing can get done with these idiotic Republicans..traitors!
+Annotation from annotator: 2
+
+Example 28:
+Text: This is a new version that has not been available before now .
+Annotation from annotator: 0
+
+Example 29:
+Text: "You aren't in danger. But any chance you guys can hop up on twitter and start a ""party"". Too bad it's at the expense of dying children"
+Annotation from annotator: 1
+
+Example 30:
+Text: Sex with me is a night you'll never forget. That's usually how rape goes.
+Annotation from annotator: 2
+
+Target Example:
+Text: I hope I get shot and killed at work today
+That'd be cool 
+
+No one else has to die but me, either
+Annotation from annotator:

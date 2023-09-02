@@ -1,0 +1,32 @@
+Here's a description of a dataset:
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and be shown the distributional label of how all annotators have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: You should be accepting of other people's bodies.
+ANSWER: 2
+
+2.
+EXAMPLE: It is immoral for a supervisor to pursue their employees romantically.
+ANSWER: 3
+
+3.
+EXAMPLE: It's understandable to want a divorce when your spouse cheated on you.
+ANSWER: 3
+
+4.
+EXAMPLE: Businesses should treat customers with courtesy if they expect them to return.
+ANSWER: 3
+
+Here's how the distributional label of how all annotators have annotated the target example:
+0.00% of people responded with 0
+4.00% of people responded with 1
+38.00% of people responded with 2
+48.00% of people responded with 3
+10.00% of people responded with 4
+
+How would the particular annotator annotate the target example?
+EXAMPLE: It's understandable if you're suspicious when a widower in your family gets together with a widower soon after their spouse's died.
+ANSWER:

@@ -1,0 +1,122 @@
+Example 1:
+Text: I think I'm old enough to decide what I can eat!
+Annotation from annotator: 2
+
+Example 2:
+Text: @emmyvictoria not THAT old!  have you had a good stay in England? What time you going back?
+Annotation from annotator: 2
+
+Example 3:
+Text: ear ache.....random! & it hurts like a bitch   SOSOSOSO bored seriously im fifteen years old and it summer; thats fucked up!
+Annotation from annotator: 2
+
+Example 4:
+Text: off to spend my morning with 5 year olds...my favorite is the tiny one with the big brown eyes
+Annotation from annotator: 2
+
+Example 5:
+Text: @Cortnee4Christ It's like the old myspace days. You gotta go to a specific person's page, and comment to them that way.
+Annotation from annotator: 2
+
+Example 6:
+Text: @JKeith1982 Lol no this was at our old house. We WISH we got confidential faxes at News24
+Annotation from annotator: 2
+
+Example 7:
+Text: @theothermousie Just found out a mutual friend died of leukaemia on Tues eve leaving behind two young daughters.
+Annotation from annotator: 1
+
+Example 8:
+Text: http://twitpic.com/6pt5i - like grandma old!  i just saw you yesturday and miss you like crazy.
+Annotation from annotator: 2
+
+Example 9:
+Text: don't forget the alcohol, oooh baby, oooh baby! Poor old Milez...
+Annotation from annotator: 2
+
+Example 10:
+Text: Great day seeing old friends and catching up
+Annotation from annotator: 3
+
+Example 11:
+Text: No! I have an old menu and they already didn't have the wine I wanted to try
+Annotation from annotator: 2
+
+Example 12:
+Text: @elenasharpn ironically - an 80 year old man probably has the mental age of a teenager...
+Annotation from annotator: 3
+
+Example 13:
+Text: gahh....tiredish...stayed up too late last night .-. oh well...leaving to go out to eat soon  got a new tv so i get the old one
+Annotation from annotator: 2
+
+Example 14:
+Text: Just did some fooling around in the garden with my sisters... Was fun  Good old times
+Annotation from annotator: 3
+
+Example 15:
+Text: http://twitpic.com/68vw1 - Not for young eyes, but what do you think?
+Annotation from annotator: 1
+
+Example 16:
+Text: actually had an awesome weekend; caught up with old mates, hung out with best mates and saw wolverine
+Annotation from annotator: 2
+
+Example 17:
+Text: @LynziLoo I kinda miss those days lol. Now we all have our own places and we don't party anymore. wtf?! we're getting old  nooo.
+Annotation from annotator: 1
+
+Example 18:
+Text: @retrofreak94 no i didntt but that show is just not as good as their older stuff.. /: but theyre still adorable / hilariouss
+Annotation from annotator: 2
+
+Example 19:
+Text: Reconnected with old pal from high school. Whoa. Great fun. Good night New York. Thank you.
+Annotation from annotator: 2
+
+Example 20:
+Text: miss my old days when i'm in 2nd grade
+Annotation from annotator: 2
+
+Example 21:
+Text: Weekend over, back to work once again  I'll be updating the old blog later on this week, probably around Wednesday when I'll have news...
+Annotation from annotator: 2
+
+Example 22:
+Text: downloading good old music
+Annotation from annotator: 2
+
+Example 23:
+Text: @BeauGiles since when do you care?  you should look up an old CH10 show called 'Breakers' for the male version
+Annotation from annotator: 2
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of an 75 year old!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to hearing how u host a 5oth & 2nd year old party in the same day  u r good! @TammyBurnell enjoy the moments
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to pick out a profile pic with the help of @dfpcmaia but whenever i like one he says it's bad. 12 yr olds are stupid
+Annotation from annotator: 1
+
+Example 27:
+Text: so early to be up, 7:15, I guess I am getting old! old people can't sleep
+Annotation from annotator: 2
+
+Example 28:
+Text: im in a chill mood. feelin like watchin sum oldskoo movies like boys n the hood or bullet.
+Annotation from annotator: 2
+
+Example 29:
+Text: @tellyyy man whatever your just mad cuz you drive like an old lady lol but i love you baby
+Annotation from annotator: 1
+
+Example 30:
+Text: @herwahyu the old stuff shld stay what  or u hv information overload. reprocess all the information and join them
+Annotation from annotator: 2
+
+Text: I don't mind being young.
+Annotation from annotator:

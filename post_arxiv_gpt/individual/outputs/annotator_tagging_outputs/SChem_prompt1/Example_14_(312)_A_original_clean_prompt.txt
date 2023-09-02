@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+How annotator A has labeled some examples:
+Example 1:
+Text: It's wrong to have weird sexual fantasies.
+Annotation from annotator: 3.0
+
+Example 2:
+Text: It's wrong to think you're responsible for somebody else's life
+Annotation from annotator: 2.0
+
+Example 3:
+Text: You shouldn't be crazy about things.
+Annotation from annotator: 3.0
+
+Example 4:
+Text: It's good to find the right partner for yourself.
+Annotation from annotator: 4.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: It's good to have people you can use to improve yourself.
+Annotation from annotator: 3.0
+
+Example 2:
+Text: You shouldn't put up an antenna if it's snowing outside.
+Annotation from annotator: 3.0
+
+Example 3:
+Text: It's wrong to be into something that is annoying.
+Annotation from annotator: 2.0
+
+Example 4:
+Text: It's wise to never let yourself get embarrassed by your significant other.
+Annotation from annotator: 3.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: You shouldn't get upset at your partner.
+Annotation from annotator: 2.0
+
+Example 2:
+Text: You should love your parents.
+Annotation from annotator: 4.0
+
+Example 3:
+Text: It's normal for married couples to have sexual relations.
+Annotation from annotator: 4.0
+
+Example 4:
+Text: Before kicking someone out it is important to make sure your feelings will be permanent.
+Annotation from annotator: 3.0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: It's nice for friends to throw a party for a friend.
+Annotation from annotator:

@@ -1,0 +1,37 @@
+Example 390
+Text: It's hurtful for  a parent to enroll a child in classes without permission.
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+14.00% of responsive annotators labeled the text with 1
+54.00% of responsive annotators labeled the text with 2
+28.00% of responsive annotators labeled the text with 3
+4.00% of responsive annotators labeled the text with 4
+
+Example 261
+Text: It's okay to enjoy powdered milk.
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+2.00% of responsive annotators labeled the text with 1
+16.00% of responsive annotators labeled the text with 2
+52.00% of responsive annotators labeled the text with 3
+30.00% of responsive annotators labeled the text with 4
+
+Example 21
+Text: You shouldn't video tape someone without their permission.
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+18.00% of responsive annotators labeled the text with 2
+54.00% of responsive annotators labeled the text with 3
+28.00% of responsive annotators labeled the text with 4
+
+Example 84
+Text: People shouldn't betray the trust of those they're close to.
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+44.00% of responsive annotators labeled the text with 3
+56.00% of responsive annotators labeled the text with 4
+Target Text: It's good to find proof of cheating you perceive to be happening.
+Soft labels:

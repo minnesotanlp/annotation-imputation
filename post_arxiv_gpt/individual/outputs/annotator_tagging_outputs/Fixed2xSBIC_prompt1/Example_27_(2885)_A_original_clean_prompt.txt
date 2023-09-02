@@ -1,0 +1,58 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: i had a dream i had a chihuahua that i carried with me everywhere like i was doin crazy shit in my dream, but the whole time he was w me
+Annotation from annotator: 0
+
+Example 2:
+Text: Self obsessed idiots #selfish #onlythinksofthemself #memyselfandi
+Annotation from annotator: 2
+
+Example 3:
+Text: What's the best part about a Somalian blowjob? You'll know she'll swallow
+Annotation from annotator: 2
+
+Example 4:
+Text: Feminism
+So what’s you people’s opinions on Gloria Steinem?
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: If you listen to Nick Cave's voice, you can tell he doesn't like going up high. Too bad he didn't pass that on to his son.
+Annotation from annotator: 0
+
+Example 2:
+Text: What's the first thing you take care of after a car crash? The witnesses
+Annotation from annotator: 2
+
+Example 3:
+Text: "RT @HughGoesThere: Just met this idiot who pronounces it ""pecan"" instead of ""pecan."""
+Annotation from annotator: 0
+
+Example 4:
+Text: Why do jews always ask for the direction of the wind? So they know from which direction their relatives are coming from.
+Annotation from annotator: 2
+
+How annotator C has labeled some examples:
+Example 1:
+Text: THEY JUST SAID IT AGAIN. I am dying.
+Annotation from annotator: 0
+
+Example 2:
+Text: I smoked so much once my lungs decided to imitate the twin towers on 9/11 Except only one collapsed and people actually cared
+Annotation from annotator: 2
+
+Example 3:
+Text: what’s the difference between a nigger and a bucket of shit? the Bucket.
+Annotation from annotator: 2
+
+Example 4:
+Text: Why are many african kids both black and blue? I don't know but they're fun to kick.
+Annotation from annotator: 2
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: which weighs more ? <number> pound or <number> ounce anything is more than a £ now
+Annotation from annotator:

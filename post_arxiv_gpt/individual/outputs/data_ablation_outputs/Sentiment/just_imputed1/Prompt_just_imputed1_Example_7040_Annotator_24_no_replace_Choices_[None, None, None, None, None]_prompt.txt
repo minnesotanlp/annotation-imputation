@@ -1,0 +1,122 @@
+Example 1:
+Text: I think I'm going to take a walk to the hunny store and see my old pal Judith!
+Annotation from annotator: 3
+
+Example 2:
+Text: @eminiwizard good morning young lad!
+Annotation from annotator: 3
+
+Example 3:
+Text: dutches and 40s of old E means great times.. also its my last night in town for a month.
+Annotation from annotator: 2
+
+Example 4:
+Text: off to spend my morning with 5 year olds...my favorite is the tiny one with the big brown eyes
+Annotation from annotator: 3
+
+Example 5:
+Text: @CountryGirlND by the way... happy birthday you old bat  love ya
+Annotation from annotator: 3
+
+Example 6:
+Text: @JMMARob and I love everything Chopin wrote, that's more than a century older than me.  I just happen to have goodmusicloving influencers!
+Annotation from annotator: 2
+
+Example 7:
+Text: @theothermousie Just found out a mutual friend died of leukaemia on Tues eve leaving behind two young daughters.
+Annotation from annotator: 1
+
+Example 8:
+Text: http://twitpic.com/6ix23 - It's a old picture but i like it
+Annotation from annotator: 3
+
+Example 9:
+Text: doing some cleaning in my closet. out with the old, in with the new. aha
+Annotation from annotator: 3
+
+Example 10:
+Text: Great day seeing old friends and catching up
+Annotation from annotator: 4
+
+Example 11:
+Text: No one is awake and I'm left here with just me and old Twitterfox to get through the night
+Annotation from annotator: 2
+
+Example 12:
+Text: @einsteinboi - thanks! We feel so old
+Annotation from annotator: 2
+
+Example 13:
+Text: gah! old people parties are lame! i hate constant fake smiling
+Annotation from annotator: 1
+
+Example 14:
+Text: Just cut up some old crappy jeans and made some new trendy ones  they have holes all over them so now I can run faster ;)
+Annotation from annotator: 1
+
+Example 15:
+Text: http://twitpic.com/61f8v - #rejectprop8 ahhhh young love
+Annotation from annotator: 3
+
+Example 16:
+Text: according to this http://bit.ly/b6mPa  I will be 10000 days old in 8 days. time to celectrate  #fb
+Annotation from annotator: 2
+
+Example 17:
+Text: @LynziLoo I kinda miss those days lol. Now we all have our own places and we don't party anymore. wtf?! we're getting old  nooo.
+Annotation from annotator: 1
+
+Example 18:
+Text: @retrofreak94 no i didntt but that show is just not as good as their older stuff.. /: but theyre still adorable / hilariouss
+Annotation from annotator: 3
+
+Example 19:
+Text: Recently retouched. http://tinyurl.com/ljoboh  Finally got it to work, I think.  An old dog can learn new tricks, see?
+Annotation from annotator: 3
+
+Example 20:
+Text: miley's concert is in december i wanna go!  is anyone else secretly a 12 year old girl and wanna come with me? @lil_miss_sneha?  c'mooon
+Annotation from annotator: 2
+
+Example 21:
+Text: Weekend is over, back at work   Finally all moved out of the old apartment. Still need better cable and internet in the new one.
+Annotation from annotator: 3
+
+Example 22:
+Text: done with work. off to church, then meeting up with old friends.  cant wait to see everyone...then work tomorrow, golf, bbq, and party!
+Annotation from annotator: 3
+
+Example 23:
+Text: @BeautyBlogger Wish my blog qualified.  Not 3 months old yet
+Annotation from annotator: 2
+
+Example 24:
+Text: my knee is sore today  is this what old age feels like haha im falling apart!!
+Annotation from annotator: 2
+
+Example 25:
+Text: looking forward to celebrating my dads 65th with family tonight (wow, am I old enough to have a 65 yr old dad lol) and Star Trek 2morrow
+Annotation from annotator: 4
+
+Example 26:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 27:
+Text: so early to be up, 7:15, I guess I am getting old! old people can't sleep
+Annotation from annotator: 2
+
+Example 28:
+Text: im falling in love with eddy from pearl jam <3 but he's too old for me   www.myspace.com/Zoe_Suicide
+Annotation from annotator: 1
+
+Example 29:
+Text: @tenishea212 just waiting to get on overground. There is a youngest darling look-a-like in front of me
+Annotation from annotator: 3
+
+Example 30:
+Text: @helsinkiwinner Yes, I think tonight I'll close the door and place her bed outside. She's not even 9 weeks old, so it's heartbreaking.
+Annotation from annotator: 1
+
+Text: Had a nice weekend with my gorgeous wonderful boy.  Now it's back to attempting to design a scientific investigation for 4 to 5 year olds!
+Annotation from annotator:

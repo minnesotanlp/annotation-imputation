@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).\n\nTarget Example:\nText: It's how, with every passing day, I look more like my mother in her young age and I'm not pleased about that.\nAnnotation from annotator:\nYour output should be a single integer corresponding to the label."
+    }
+]

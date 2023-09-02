@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: You should always drive straight home if your parents want you home.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is ok to be upset if you are dating someone who is not honest about their sexual identity.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's ok to keep a distance to maintain a friendship.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's hurtful to be cut off by a family member.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's great to be proud of yourself for accomplishing your goals
+Annotation from annotator: 3
+
+Example 6:
+Text: You should not tell someone else what to do with their pet.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's not good to have your mental health on the border line.
+Annotation from annotator: 3
+
+Example 8:
+Text: It is okay to need time away from your family.
+Annotation from annotator: 3
+
+Example 9:
+Text: You should fire someone who sexually harasses their coworkers.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's understandable to want payback when someone has hurt you
+Annotation from annotator: 3
+
+Example 11:
+Text: It's understandable not to want to go to an event where you don't feel welcome.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is not okay to cheat on others.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't be influenced by peer pressure to do things that are harmful to you.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's allowed to plan on some day being your own boss.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's normal for people to worry about angering their loved ones.
+Annotation from annotator: 3
+
+Example 16:
+Text: It is okay to use humor to lighten the mood
+Annotation from annotator: 3
+
+Example 17:
+Text: It's good to get help from your friends.
+Annotation from annotator: 3
+
+Example 18:
+Text: You should not play some financial burden on your parents
+Annotation from annotator: 3
+
+Example 19:
+Text: It is rude to reject that help of others.
+Annotation from annotator: 2
+
+Example 20:
+Text: You should replace items that you damage or lose that are not yours.
+Annotation from annotator: 3
+
+Example 21:
+Text: It is expected that you will forgive someone if they apologize.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to want someone to do their best.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good to complement other people's appearances.
+Annotation from annotator: 3
+
+Example 24:
+Text: Getting rid of a dog because it is too much work is selfish.
+Annotation from annotator: 3
+
+Example 25:
+Text: You shouldn't destroy things.
+Annotation from annotator: 3
+
+Example 26:
+Text: You should always be there for your partner and never grow apart.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't idolize family members.
+Annotation from annotator: 2
+
+Example 28:
+Text: It's okay to bother someone about things if they are important to you.
+Annotation from annotator: 2
+
+Example 29:
+Text: When you fall asleep in someone else's bed, you should apologize in the morning.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's hurtful for parents to get their children involved in crimes.
+Annotation from annotator: 4
+
+Human-Rated Examples:
+Example 1:
+Text: It's wrong to play second fiddle to someone.
+Annotation from annotator: 3
+
+Example 2:
+Text: If you agree to take care of someones dog it is cruel to neglect the dog.
+Annotation from annotator: 4
+
+Example 3:
+Text: You should have realistic expectations when you go to a nudist club.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good to like your job.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's okay to marry someone who believes in a different religion than you do.
+Annotation from annotator: 2
+
+Example 6:
+Text: It is never acceptable for an adult to cause bodily harm to a child.
+Annotation from annotator: 4
+
+Example 7:
+Text: You shouldn't swear at people.
+Annotation from annotator: 3
+
+Example 8:
+Text: It is wrong to cheat.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's okay to be angry when your divorced parents fight about your wedding.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's not okay to dictate what others can do with their lives.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's expected that people will stop believing you if you constantly lie.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's natural for people to not take playing video games very seriously.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should say thank you when someone sends you a greeting card.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's good to find a path to recovery after you lose someone to suicide.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is okay to help people with financial decisions.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's good to give gifts to others.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is okay to be upset if you feel your partner is rejecting you.
+Annotation from annotator: 3
+
+Example 18:
+Text: You should be up front with people about why you are rejecting them as dates.
+Annotation from annotator: 2
+
+Example 19:
+Text: You should make an effort to go out with your parents and do things together.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's okay to say the n word if it's in a textbook.
+Annotation from annotator: 2
+
+Example 21:
+Text: As long as you are purchasing beverages it is OK to sit in a  coffee shop all day.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's understandable to confront others on their bad behavior, even friends.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's wrong not to be there for your kids.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's expected that you are honest with the person you are dating.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to remain close to the people you care about in life.
+Annotation from annotator: 4
+
+Example 26:
+Text: You should let the parents know if their child is misbehaving.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's expected you return the food if it's not what you ordered
+Annotation from annotator: 2
+
+Example 28:
+Text: It's rude to ignore people.
+Annotation from annotator: 3
+
+Example 29:
+Text: It is okay to expect others to pay their debts
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't be biased against your students for not sharing your same beliefs.
+Annotation from annotator: 3
+
+Target Example:
+Text: It is okay to feel angry towards someone that wrongs you.
+Annotation from annotator:

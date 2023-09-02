@@ -1,0 +1,124 @@
+Correct Examples:
+Example 1:
+Text: Trifecta effect Mitch McConnell, Paul Ryan and Mitts Romney’s niece Ronna over at RNC I would suggest Saboteurs proof Omnibus and loss of seats in Red states due to poor candidates and no real game plan to push back Dem running for those seats Then we have unapproved seats Fight back Get mad Demand a new Speaker and a new leader
+Annotation from annotator: 0
+
+Example 2:
+Text: if you call them over they will only stand and watch.
+Annotation from annotator: 0
+
+Example 3:
+Text: At least @voxday has the courage to speak to @AndrewAnglin like an adult.  @stefanmolyneux is apparently too much of a coward.   https://www.youtube.com/watch?v=9_iq6oDEh60   #SpeakFreely #GabFam #FreeSpeech #Liberty #FirstAmendment #AltRight #AltMedia
+Annotation from annotator: 0
+
+Example 4:
+Text: He needs to give his girlfriend Bruce back his sunglasses 😂🤣
+Annotation from annotator: 0
+
+Example 5:
+Text: Tree of Logic vs Red Pill Black - whose side will the alt right take?   https://wordpress.com/post/theattestor.com/6710
+Annotation from annotator: 0
+
+Example 6:
+Text: As long as they have statues of Vladimir Lenin remaining in every city and town in Russia nothing much will change. They have to get rid of that Soviet mentality that is still hounding Russia. Otherwise it will never become strong.
+Annotation from annotator: 0
+
+Example 7:
+Text: If you hadn't seen this, you need to listen to it. https://www.youtube.com/watch?time_continue=1&... This is the bombshell everyone has been waiting for. Weiner's laptop, the IG report and the timeline with everything. The Gateway Pundit breaks it down. #TheGatewayPundit #FBI #DOJ #Q #Clinton #ShitShow
+Annotation from annotator: 0
+
+Example 8:
+Text: A bunch of c--t heads. 
+Annotation from annotator: 0
+
+Example 9:
+Text: Are you going to raise some hell?
+Annotation from annotator: 0
+
+Example 10:
+Text: Salutations to all keyans on gab i hope you all are having a good time adjusting to a possible permanent stay on this site and loving it as much as i do we may not all agree on how to make our governments function or how society should be but i think we all here agree on one thing and that is FUCK TWITTER! #KenyansOnGAB
+Annotation from annotator: 0
+
+Example 11:
+Text: Did you miss the part where half the party is on the train? The Trans-Siberian Railway is the greatest transportation network on Earth and I've made the trip several times. http://bit.ly/2nzFaeX
+Annotation from annotator: 0
+
+Example 12:
+Text: Clearnet link for those without the TOR browser.
+Annotation from annotator: 0
+
+Example 13:
+Text: Ah the 1990's, now I am not going to say this was an era without problems, as there sure were some.  However, back in the 1990's, you could be a true comedian without pandering easily offended crowd. There was definitely less censorship then, at least the illusion of lack of censorship perhaps.
+Annotation from annotator: 0
+
+Example 14:
+Text: Former Federal Prosecutor and Russia Witch Hunt Critic Joe DiGenova Joins Trump’s Legal Team http://www.thegatewaypundit.com/2018/03/former-fed...
+Annotation from annotator: 0
+
+Example 15:
+Text: EPA Chief Scott Pruitt to Roll Back Obama-Era Auto Emissions Standards http://www.breitbart.com/big-government/2018/04/02...
+Annotation from annotator: 0
+
+Example 16:
+Text: Pissy*.   Pussy* And I don’t apologize for language Bc it’s just an artificial construct of “sounding dirty or bad”. Words are just words 
+Annotation from annotator: 0
+
+Example 17:
+Text: Mollie died so Dems could have a extra voter and so a GOP member could save $3,600. The ruling class elites hates our guts http://fashthenation.com/2018/08/gop-official-empl...
+Annotation from annotator: 0
+
+Example 18:
+Text: i got bit a couple summers ago i was like its just some harmless spider a couple weeks later my docter is shaking her head saying how bad this is lol
+Annotation from annotator: 0
+
+Example 19:
+Text: Where is the British Navy when you need it? What is it's purpose if it can't even protect our fishing boats in international waters?
+Annotation from annotator: 0
+
+Example 20:
+Text: #Q #QArmy #QAnon #WWG1WGA #TheStorm #FollowTheWhiteRabbit #MAGA #MEGA #KAG #GlobalNuitDebout #V4 #WalkAway #KenyansOnGab #GabFam #BritFam @Charmander @british_fight @BenjaminLeduc @matt_bracken 
+Annotation from annotator: 0
+
+Example 21:
+Text: Hairdresser: So what would you like? Feminist: I'd like to have people assume I'm part of a cult! Hairdresser: Say no more!
+Annotation from annotator: 1
+
+Example 22:
+Text: A Belgian land whale? Lay off the waffles woman.
+Annotation from annotator: 0
+
+Example 23:
+Text: Haha! No question about it. The ugly on the inside shows on the outside.
+Annotation from annotator: 0
+
+Example 24:
+Text: Supreme Court Hands Trump Defeat on Deporting Criminal Immigrants - Gorsuch Sides With Liberals on Court   http://tapwires.com/2018/04/18/supreme-court-hands-trump-defeat-on-deporting-criminal-immigrants-gorsuch-sides-with-liberals-on-court
+Annotation from annotator: 0
+
+Example 25:
+Text: *gently weeps* https://www.sciencedaily.com/releases/2018/08/1808...
+Annotation from annotator: 0
+
+Example 26:
+Text: Merry Christmas to all of yinz.
+Annotation from annotator: 0
+
+Example 27:
+Text: WATCH: Citizen Comes to Aid of Officer, Body Slams Suspect | Breitbart http://bit.ly/2LUts7e via @BreitbartNews
+Annotation from annotator: 0
+
+Example 28:
+Text: Its an organization but the daft bastards think its a country
+Annotation from annotator: 0
+
+Example 29:
+Text: Will probably get twitter-shoahd when the day of the rope arrives there. Warming this account back up just in case.
+Annotation from annotator: 0
+
+Example 30:
+Text: Many of the women who want to keep sites like Backpage around also make the case for decriminalizing sex work. They say they wouldn’t have had to rely on the service at all if they could have operated in the open on their own terms — and that openness would also allow them to report traffickers and other abusers to authorities without fear of reprisal. They also say a regulated industry would guarantee women who want to leave it eventually the wages they need to raise themselves from poverty. #washingtonpost
+Annotation from annotator: 0
+
+Target Example:
+Text: `These Offend Me =atheists,abominations,queers, satanism, pedophilism,lgbt,porn,communism,socialism izlamoeslem terrorism nwoglobalism fascist ism antifaism blmism,secularism corrupt demonicratism,illegals all related filthy problems if u dont believe in GOD, u have NO morals-Law sense ALL the Same
+Annotation from annotator:

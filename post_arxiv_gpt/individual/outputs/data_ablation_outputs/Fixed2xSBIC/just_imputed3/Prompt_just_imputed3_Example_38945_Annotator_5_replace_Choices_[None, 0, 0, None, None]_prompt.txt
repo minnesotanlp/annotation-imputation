@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: Since I'm joining the startup scene, it seems like a bad thing that I'm looking forward to season 2 of Silicon Valley. But it looks SO GOOD.
+Annotation from annotator: 0
+
+Example 2:
+Text: It's pretty funny that Georgie claims I harassed her. Never talked to her until last night, ignored the smear "article" she wrote. @sakjur
+Annotation from annotator: 0
+
+Example 3:
+Text: Daddy, why is there a girl here?
+Annotation from annotator: 1
+
+Example 4:
+Text: What sayd the black guy to his friend? Uga uga banana njam njam.
+Annotation from annotator: 2
+
+Example 5:
+Text: What's the difference between Ariana grande and a minefield Not much
+Annotation from annotator: 2
+
+Example 6:
+Text: I just shake my head every time this thread comes to the front page .
+Annotation from annotator: 0
+
+Example 7:
+Text: News that the Nusra terrorists is evacuating its large warehouses in #Khan_Shaykhun and #Sinjar and its vicinity at the same time as the heroes of the Syrian Arab Army are approaching and targeting their movements in the region
+Annotation from annotator: 1
+
+Example 8:
+Text: Whats the difference between a white bank and a black bank? Whites use Fifth Third, Blacks use Three Fifths
+Annotation from annotator: 0
+
+Example 9:
+Text: Tattoo Trends – butterflies flying away ddrawings | Latest Butterfly Tattoos on Wrist… https://t.co/ry4aZ48dMF https://t.co/9nnQaj1JEU
+Annotation from annotator: 0
+
+Example 10:
+Text: white single girl looking for a guy within the state of California ( hopfully someone near or in the city of Los Angeles ) .
+Annotation from annotator: 0
+
+Example 11:
+Text: There are no Saints on this show.......... NONE! Well me, when I'm on it but other than that, NONE! — watching Saints &amp; Sinners
+Annotation from annotator: 0
+
+Example 12:
+Text: My pastor said you guys, like, worship the darkness. Is that true?
+Annotation from annotator: 0
+
+Example 13:
+Text: It is great to hear that there's more women getting involved with #FreeBSD. :) The community is fantastic and has always been supportive.
+Annotation from annotator: 0
+
+Example 14:
+Text: What do black people and drugs have in common? They're illegal to buy and sell but they make you feel happy.
+Annotation from annotator: 2
+
+Example 15:
+Text: The work area under the bridge is on the S sidewalk &amp; must be accessed from above. Workers will keep space for bikes/peds to get by. (2/2)
+Annotation from annotator: 0
+
+Example 16:
+Text: Plus she made me late this morning cuz she took it to her room and didn't bring it back and I thought I lost it and got pissed for no reason
+Annotation from annotator: 0
+
+Example 17:
+Text: Colorblind people must be confused by Orange is the new black.
+Annotation from annotator: 0
+
+Example 18:
+Text: What's she got that stick for if she can read [that book]?
+Annotation from annotator: 0
+
+Example 19:
+Text: Does anyone have an idea for a Reddit bot that could help you in some way?
+Annotation from annotator: 0
+
+Example 20:
+Text: Why was Jesus stripped of his garments? He was going to be nailed right after
+Annotation from annotator: 2
+
+Example 21:
+Text: like ppl on there seem to fucking froth at the mouth when a chance arises to tear down an indie artist, especially women, especially lgbtq
+Annotation from annotator: 0
+
+Example 22:
+Text: It's difficult deciding to call out something as being problematic, because that gives it attention &amp; not many people know about it.
+Annotation from annotator: 0
+
+Example 23:
+Text: Free ride for 4 years without grades involved , State champ band , I know the coons hate that , White boy got ryhtm , !!!!!!!! 3.88 gpa will kick in soon .
+Annotation from annotator: 2
+
+Example 24:
+Text: ":: I have to listen to Con Funk Shun | ""Love's Train LIVE"" from the Live For Ya Ass album every morning .."
+Annotation from annotator: 0
+
+Example 25:
+Text: Hey girl! Come talk to me!
+Annotation from annotator: 1
+
+Example 26:
+Text: You know how rap has always been my phone and my car and I'm awesome and saying my name over and over again and my jewelry and my money?" And it wasn't until Eminem came along that vulnerability was brought to it? He raps about the embarrassing things about his own self instead of posturing."
+Annotation from annotator: 0
+
+Example 27:
+Text: okay but seriously though if you can't donate try talking to some of your relatives because normally someone always wants to help
+Annotation from annotator: 0
+
+Example 28:
+Text: RP #LITMPagtatapat #FPJAPBalikBilibid #MDHKasagutan It Will never change baby MCLISSE IWFIL OnStarMusic
+Annotation from annotator: 0
+
+Example 29:
+Text: You bitches wearing leggings everyday are sick. I know y'all wore the same pair 3 days in a row you can't fool me
+Annotation from annotator: 0
+
+Example 30:
+Text: I have a feeling princess Nokia gonna be on the freshmen list i see her shit on my timeline constantly
+Annotation from annotator: 0
+
+Target Example:
+Text: How long have you been in Canada for?
+Annotation from annotator:

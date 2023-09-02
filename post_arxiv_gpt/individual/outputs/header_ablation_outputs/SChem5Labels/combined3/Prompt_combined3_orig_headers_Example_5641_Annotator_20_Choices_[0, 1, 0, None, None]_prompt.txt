@@ -1,0 +1,245 @@
+Human-rated Examples:
+Example 1:
+Text: It's good to be thrifty.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to talk openly about your feelings when in a relationship.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's expected you study the competition you'll face.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good to work to advance social justice causes that you believe in
+Annotation from annotator: 3
+
+Example 5:
+Text: It is debilitating to have severely depressed behavior.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's wrong to not keep secrets.
+Annotation from annotator: 4
+
+Example 7:
+Text: It is cruel to leave rabbits outside in the cold all winter.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's okay to do things a certain way that isn't popular with others.
+Annotation from annotator: 3
+
+Example 9:
+Text: You can be expected to appear to show empathy when others are suffering.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's good to get food for people.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's good to tell your ex your true feelings.
+Annotation from annotator: 3
+
+Example 12:
+Text: You should keep supporting someone when they are trying to figure out what they want to do.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is reasonable to be angry if something you care about gets shut down.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should mind your own business when it comes to the private affairs of consenting adults
+Annotation from annotator: 4
+
+Example 15:
+Text: If you know your best friend is shy it is reasonable for them to be scared to give a speech at your wedding.
+Annotation from annotator: 4
+
+Example 16:
+Text: You shouldn't wait in the shadows because you might spook people.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's expected that you'll stay home from work when you are sick.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's bad to have romantic feelings for your doctor.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's okay to be angry at a significant other if they wronged you.
+Annotation from annotator: 4
+
+Example 20:
+Text: It is okay to only want to hang out with certain people.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's okay to feel good about doing good works.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's expected that you be sad after breaking up with someone.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is wrong to break the law
+Annotation from annotator: 4
+
+Example 24:
+Text: It's expected that kids who are different will struggle to fit in.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's okay for combat veterans to be traumatized by their experience.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's good to buy the things you need.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's nice to tell stories.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's wrong to have weird sexual fantasies.
+Annotation from annotator: 3
+
+Example 29:
+Text: It is rude to criticize what others do with their body.
+Annotation from annotator: 3
+
+Example 30:
+Text: It is good to be creative.
+Annotation from annotator: 3
+
+Estimated Examples:
+Example 1:
+Text: It's imprudent to fall in love with fictional or theoretical characters.
+Annotation from annotator: 0
+
+Example 2:
+Text: It's kind to give someone a ride from the airport.
+Annotation from annotator: 4
+
+Example 3:
+Text: You shouldn't impose your moral beliefs on others
+Annotation from annotator: 4
+
+Example 4:
+Text: You should see a therapist if you can't think right.
+Annotation from annotator: 4
+
+Example 5:
+Text: When firing a piece of pottery, it's important to be very careful.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's okay to avoid someone who seems to be on a path of self-destruction.
+Annotation from annotator: 4
+
+Example 7:
+Text: You should rest if you're almost due to have a baby.
+Annotation from annotator: 4
+
+Example 8:
+Text: It is okay for children disappointed
+Annotation from annotator: 3
+
+Example 9:
+Text: It's okay to be worried about a job interview.
+Annotation from annotator: 4
+
+Example 10:
+Text: You should try to acclimate yourself to a country that you feel you don't belong to.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's kind to foster a cat that's been rescued.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's good to give healthy food to others.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's okay to be annoyed when you take a class with a biased teacher.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's normal for people to want to make a lot of money.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's unwholesome to seek out young girls for sexual gratification.
+Annotation from annotator: 4
+
+Example 16:
+Text: You're allowed to make sarcastic statements if you feel it's justified.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to feel guilty if you have done something wrong.
+Annotation from annotator: 4
+
+Example 18:
+Text: It is exhilarating to have sexual fantasies.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's expected that you'll need a ticket to board a plane.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's unusual to like the taste of food after brushing your teeth
+Annotation from annotator: 4
+
+Example 21:
+Text: It's good to practice when you're involved in a sport.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's okay for babies to go through teething.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's not okay to be greedy and unappreciative.
+Annotation from annotator: 4
+
+Example 24:
+Text: It is okay to seek help if needed.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's good to like certain old songs.
+Annotation from annotator: 2
+
+Example 26:
+Text: If something is weighing on your mind, you should let it off your chest.
+Annotation from annotator: 4
+
+Example 27:
+Text: You shouldn't pretend to be single when you're married
+Annotation from annotator: 4
+
+Example 28:
+Text: You shouldn't lie to people about quitting your job.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's not okay to not take care of the important matters in your life.
+Annotation from annotator: 4
+
+Example 30:
+Text: It is bad to endanger animals
+Annotation from annotator: 4
+
+Target Example:
+Text: You should eat carefully so you don't get food stuck in your windpipe.
+Annotation from annotator:

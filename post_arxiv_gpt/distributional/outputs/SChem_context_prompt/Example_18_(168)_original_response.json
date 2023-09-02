@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVmdqIYa1m5QTlfYaW4XriTbjQX9",
+    "object": "chat.completion",
+    "created": 1686314731,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 555,
+        "completion_tokens": 168,
+        "total_tokens": 723
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n10.00% of responsive annotators labeled the text with 1\n40.00% of responsive annotators labeled the text with 2\n40.00% of responsive annotators labeled the text with 3\n10.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels provided, it seems that the statement \"It is okay to only want to hang out with certain people\" is somewhat controversial, with 40% of the raters labeling it as such. However, a significant portion (40%) also labeled it as a common belief, indicating that many people may agree with this statement. Therefore, my prediction for the soft label of this text would be 2.5, leaning slightly towards \"common\"."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

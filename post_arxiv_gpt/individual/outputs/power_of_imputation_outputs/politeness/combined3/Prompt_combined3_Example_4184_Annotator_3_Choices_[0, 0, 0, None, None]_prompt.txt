@@ -1,0 +1,153 @@
+Estimated Examples:
+Example 1:
+Text: u2013 Use that dash my friend. How are you geting on?
+Annotation from annotator: 18
+
+Example 2:
+Text: Vi is out of the hospital.  Did I mention that she was in?
+Annotation from annotator: 13
+
+Example 3:
+Text: Hi, this will seem a little odd, but your name seems very familiar. Did you ever play an online game named <url> by chance?
+Annotation from annotator: 17
+
+Example 4:
+Text: Looking through the discussion page history, the addition was made by <url> who is still active on wikipedia. Why not try a message on <url>?
+Annotation from annotator: 18
+
+Example 5:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation from annotator: 9
+
+Example 6:
+Text: I just traced an IP you just blocked for six months, <url>, and it is a school IP. Is this block an anonymous only block, or is it a full block?
+Annotation from annotator: 16
+
+Example 7:
+Text: Miten sxe4 osaat nii hyvin suomee jos sun xe4idinkieli on kumminki englanti? Onks sul suomenkieliset vanhemmat tai jotai vai ootsxe4 vaa opiskellu ite tosi paljo suomee?
+Annotation from annotator: 14
+
+Example 8:
+Text: Stephan, what did you mean by ''"Is English your native language? You seem to fill in a lot of things not said with your assumptions."'' on my talk?
+Annotation from annotator: 8
+
+Example 9:
+Text: I think that if you use an example paragraph, and show the options in a nowiki tag, it will make it easier for people to "vote" for the method they like. Make sense?
+Annotation from annotator: 16
+
+Example 10:
+Text: I noticed that you did some work on this article, and would like to expand it to include his recommendation (in ''Can Life Prevail'') that the UN develop hit squads to target large urban population centers (with neutron bombs as I recall), and also the discussion on the 9/11 terrorists being "superior moral human beings" for their actions.  Understanding that this is a BLP, that NPOV is important, and that including secondary sources is nearly impossible as they are difficult (at best) to find, what is your feeling on this?
+Annotation from annotator: 18
+
+Example 11:
+Text: You see how time consuming and annoying it is when a person keeps on telling you to provide a source. Why do you want ''Michael'' to be just another compilation album?
+Annotation from annotator: 12
+
+Example 12:
+Text: I wondered, simply because I see you occasionally and had never seen him before, so at first I thought he was you.  I wonder if there's a User:Nyttned running around?
+Annotation from annotator: 16
+
+Example 13:
+Text: The Italian and English rules are different from the Spanish. But if you think about it, would it make sense to list every reserve player who makes a first team appearance?
+Annotation from annotator: 15
+
+Example 14:
+Text: The article might assert that the subject is notable, but the references are too weak to back up that assertion. Can I proceed with a prod or AfD?
+Annotation from annotator: 13
+
+Example 15:
+Text: The reason for the malfunctioning redirects is that the character immediately after "REDIRECT" is not an ordinary space, but a "non-breaking space", hex code 0xA0.  Out of curiosity: how did you manage to create them?
+Annotation from annotator: 19
+
+Example 16:
+Text: I was going to create the list of tallest buildings in Hartford, when I saw that it had been deleted three years ago by you. I don't understand the reason for deletion; can you clarify why?
+Annotation from annotator: 17
+
+Example 17:
+Text: Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?
+Annotation from annotator: 11
+
+Example 18:
+Text: So how come he can have all types of slandereous links on his wiki page? Don't you think being an admin you should delete them?
+Annotation from annotator: 12
+
+Example 19:
+Text: What do you think? Do these subdivisions make sense?
+Annotation from annotator: 19
+
+Example 20:
+Text: Crimson, there is a discussion at <url> where we have implemented a new template for bot operators when their bot is blocked stating that it is in ''no way'' an indication or accusation of wrong doing on the operator's behalf. I'm sorry you have interpreted that way - would you be willing to re-consider your retirement?
+Annotation from annotator: 20
+
+Example 21:
+Text: You didn't answer about the status of above mentioned image. Are you going to tag that image too?
+Annotation from annotator: 12
+
+Example 22:
+Text: Do you really believe that your photograph at the top of the <url> is better than my photograph which you removed? Should Wikipedia have a dedicated sunrise article that does not feature even one single decent image of a red sky?
+Annotation from annotator: 10
+
+Example 23:
+Text: I am very confused right now. Please make it clearer to me how I vandalized?
+Annotation from annotator: 17
+
+Example 24:
+Text: I thought that VAMOS section was dealing primarily with captions (perhaps a clearer wording is needed there?). Also, I have seen dates used as adjectives quite often - the "1848 Revolution", for example - where did you read about this rule?
+Annotation from annotator: 15
+
+Example 25:
+Text: Hayashi and Spreng Explicitly claim that the Inuktitut data is completely compable to Greenlandic. When you write Mahieu & Tersis you mean Trondhjem right?
+Annotation from annotator: 14
+
+Example 26:
+Text: ? What?
+Annotation from annotator: 12
+
+Example 27:
+Text: Thanks. Can I save your last line as ammo in my next edit war?
+Annotation from annotator: 17
+
+Example 28:
+Text: David Sprenkle was at the University of Illinois in 1982 (at least part of it) while I was there.  Were you there too?
+Annotation from annotator: 18
+
+Example 29:
+Text: ''You wrote:'' I'm not trying to be obtuse, but is what you're saying in essence that if we cannot tell whether an award is utterly trivial then that uncertainty becomes sufficient assertion of notability to not apply A7? So if an assumption needs to be made, or discretion employed, A7 doesn't apply because the assertion of notability has been made?
+Annotation from annotator: 9
+
+Example 30:
+Text: How did you learn Interlingua?  Was it an online course like lernu, or what?
+Annotation from annotator: 11
+
+Correct Examples:
+Example 1:
+Text: I am puzzled that you just deleted the file 'harry potter stamps'. This file seems to have existed for two years without deletion, so perhaps you could explain the grounds for speedy deletion?
+Annotation from annotator: 5
+
+Example 2:
+Text: Why do you contend that New Atheism and Atheism 3.0 are unrelated? They are so intermingled that people have difficulty discerning which is which?
+Annotation from annotator: 14
+
+Example 3:
+Text: (undent) Your Chinese is much better than mine. Is it possible in Chinese to omit a conjunction such as u548c or u8ddf and let a string of two successive nouns refer to a set of two objects?
+Annotation from annotator: 21
+
+Example 4:
+Text: Since your tube station articles don't actually contain any information, what is the point of them? Why not put them together and work them into an article that says something interesting?
+Annotation from annotator: 2
+
+Example 5:
+Text: Hi Acad - the above has led me to two native Danish speakers on the English wiki - <url> and Saddhiyama--<url> - the first is " very active on naval articles." and has just translated HMS Falcon (1802) for Danish Wiki<url>.  Thoughts?
+Annotation from annotator: 20
+
+Example 6:
+Text: You were asking for a source for the <url> mention of the <url> service to Lagos from March 29th, which you reverted.  Would <url> do?
+Annotation from annotator: 19
+
+Example 7:
+Text: Hi Steve, I've added refs & cites to this article. Do you think it still needs a warning about lack of refs/citations?
+Annotation from annotator: 20
+
+Target Example:
+Text: I very much disagree that the article that was deleted was advertising; I have never bought anything from his store as a matter of fact, but I do know that his is one of the most used online Judaica shops out there. What can I do to make the article acceptable?
+Annotation from annotator:

@@ -1,0 +1,140 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Why do people put an x for anything with chris or crys in the word Seems pretty stupid and unnecessary
+Annotation from annotator: 2
+
+Example 2:
+Text: #LetMeCheerYouUpBy wishing #God's blessings upon your life. He loves you and He will always be there for you.
+Annotation from annotator: 0
+
+Example 3:
+Text: #FollowFriday ✨
+
+@lovelymiss
+@JimLosi
+@RaviCrux
+@kgrace
+@SeaKnight
+@Umbra
+@Sidephase
+@BBGood
+Annotation from annotator: 0
+
+Example 4:
+Text: How much wood can wood chuck chuck if a wood chuck could chuck wood. Idk but it felt amazing when I fucked it.
+Annotation from annotator: 0
+
+Example 5:
+Text: 4 fat hoes ina caddilac. U can tell they jus lost dey luxury car ride virginity#hoes too happy lmao
+Annotation from annotator: 2
+
+Example 6:
+Text: &#8220;@MalikHasanImani: @1Bcarter what's good, family?&#8221;in the gym looking at hoes hit u later
+Annotation from annotator: 2
+
+Example 7:
+Text: How do Autists deal with school? With a reeeeeeeeee-volver
+Annotation from annotator: 2
+
+Example 8:
+Text: Fuck all you hoes who keep giving my number to these colleges lmao
+Annotation from annotator: 2
+
+Example 9:
+Text: Rights for ALL men, including MOC, LGBT men, and male victims of rape.
+Annotation from annotator: 0
+
+Example 10:
+Text: You sound like an intelligent person but how can you say that we need to remove race from our message when that is our message .
+Annotation from annotator: 2
+
+Example 11:
+Text: The radical feminists have a new sub they use to attack men's safety
+Annotation from annotator: 2
+
+Example 12:
+Text: 'GOP Lost 2 Governor Races in Deep Blue States'
+(Inotherwords, NOT a win for Dems, just the same ole same ole)
+Annotation from annotator: 0
+
+Example 13:
+Text: Dildos should not be used by woman They are not dishwasher safe
+Annotation from annotator: 2
+
+Example 14:
+Text: To be a good Vagina whisperer you have to be fluent in Vaginese
+Annotation from annotator: 0
+
+Example 15:
+Text: Husband has to work full time because he must, wife doesn't want to work full time "because she wouldn't have the flexibility to take time off"
+Annotation from annotator: 2
+
+Example 16:
+Text: Abraham Lincoln isn't famous for being the first Republican president or the first president to be assassinated. No, he is most famous for being the first animal rights activist.
+Annotation from annotator: 2
+
+Example 17:
+Text: Sometimes you realise that Hitler was a cowardly man. If he just swallowed his pride and took his generals' advice then he would have either won the war outright or killed the jews to extinction.
+Annotation from annotator: 2
+
+Example 18:
+Text: How do you stop the African child jumping on your bed? You put some Velcro on the ceiling
+Annotation from annotator: 2
+
+Example 19:
+Text: But you.. Nvm @BJayBlast: I don't see why men disrespect women by calling them offensive names like "bitch", "hoe", "slut", or "female". Smh
+Annotation from annotator: 2
+
+Example 20:
+Text: Holly Quick , age 16 , brutally raped and murdered by an apelike negro .
+Annotation from annotator: 2
+
+Example 21:
+Text: Ho do you blow up India Press the red button
+Annotation from annotator: 2
+
+Example 22:
+Text: Your HS bully is partying with his clique right now
+getting drunk and fucking the chick you liked in the bathroom, but none of that matters because you studied hard and will be his boss when you're older!
+Annotation from annotator: 0
+
+Example 23:
+Text: Just reported 10K Tweets to the EU, this is really nice
+Annotation from annotator: 0
+
+Example 24:
+Text: Man, I did so bad on my math test. My grades went down faster than the 2014 South Korean ferry.
+Annotation from annotator: 2
+
+Example 25:
+Text: Why have Europeans been brainwashed into accepting that their percentage of the population total will decline by 10% per decade?
+
+Annotation from annotator: 2
+
+Example 26:
+Text: I've had this song from twilight stuck in head for 3 weeks. I get this is what I get for watching all the movies in one night..
+Annotation from annotator: 0
+
+Example 27:
+Text: TwoX found a study proving a gender gap in health-care...In which the male doctors saw TWICE as many patients.
+Annotation from annotator: 0
+
+Example 28:
+Text: Friendly reminder that being nice and polite gets you NOWHERE if you are sub 8
+Your best bet is to be bitter and LDAR
+Annotation from annotator: 1
+
+Example 29:
+Text: I wish a bitch would
+Annotation from annotator: 2
+
+Example 30:
+Text: (Cross Post from r/videos) Men need help, too.
+Annotation from annotator: 0
+
+Target Example:
+Text: Feminists keep harassing male student about his "privelege"
+Annotation from annotator:
+Your output should be a single integer and nothing else.

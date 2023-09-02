@@ -1,0 +1,37 @@
+Example 2162
+Text: @T_Laine ah - acne.  i'm too old for it! a friend gave me some differin, but i haven't seen results over the course of a month, so....
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+25.00% of responsive annotators labeled the text with 1
+50.00% of responsive annotators labeled the text with 2
+25.00% of responsive annotators labeled the text with 3
+0.00% of responsive annotators labeled the text with 4
+
+Example 9373
+Text: Not normally into the blond hair/blue eyes, but old regular Elizabeth is back & looks amazing as ever. Alas, she's going back on tour.
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+20.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+40.00% of responsive annotators labeled the text with 3
+40.00% of responsive annotators labeled the text with 4
+
+Example 4374
+Text: @mileycyrus TCA won't let me vote  and i'm 15 years old.. Gawddd
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+25.00% of responsive annotators labeled the text with 1
+75.00% of responsive annotators labeled the text with 2
+0.00% of responsive annotators labeled the text with 3
+0.00% of responsive annotators labeled the text with 4
+
+Example 8876
+Text: Man it's a weather advisory day. Elderly and young child stay inside today.. Under a fan or AC, my lungs r killing me.  I hate asthma!
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+50.00% of responsive annotators labeled the text with 1
+25.00% of responsive annotators labeled the text with 2
+25.00% of responsive annotators labeled the text with 3
+0.00% of responsive annotators labeled the text with 4
+Target Text: watching old one tree hill, wish the new series would start
+Soft labels:

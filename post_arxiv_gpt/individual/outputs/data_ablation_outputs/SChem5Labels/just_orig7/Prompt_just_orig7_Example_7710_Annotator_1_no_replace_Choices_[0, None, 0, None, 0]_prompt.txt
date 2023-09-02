@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: It's okay to be attracted to younger women.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's expected that you respect your parents.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't let your sibling befriend an adult if they are a minor.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is okay not to like a supervisor.
+Annotation from annotator: 3
+
+Example 5:
+Text: You shouldn't get so consumed by anger.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's expected that sometimes a person you're with doesn't want to deal with kids from a previous relationship.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's nice to host families.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's understandable that sometimes, we don't want others in our living space.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's good to attend important events of your friends.
+Annotation from annotator: 4
+
+Example 10:
+Text: You shouldn't expect people to accept your gifts.
+Annotation from annotator: 3
+
+Example 11:
+Text: It is good to learn about mental illness.
+Annotation from annotator: 4
+
+Example 12:
+Text: If someone forbids you from doing something, you should respect them.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's okay to enjoy a picnic outside.
+Annotation from annotator: 4
+
+Example 14:
+Text: You shouldn't do things that make you uncomfortable.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's indefensible to be a bigot.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's bad to be unfaithful in a relationship.
+Annotation from annotator: 4
+
+Example 17:
+Text: You shouldn't be expected to cancel plans that you have already made.
+Annotation from annotator: 3
+
+Example 18:
+Text: You shouldn't let your kids milk you.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's hurtful to break up with someone.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's sad to miss an opportunity.
+Annotation from annotator: 4
+
+Example 21:
+Text: You shouldn't let students take out too much money in loans that they can never pay off.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's not okay to not be able to get out of a bad situation.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is good to make a change in your life if you are feeling depressed.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's good to spend time with people outdoors.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's bad to breakup with people.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's inconsiderate to come home to a partner exceedingly inebriated.
+Annotation from annotator: 4
+
+Example 27:
+Text: It is good to keep your wedding vows.
+Annotation from annotator: 4
+
+Example 28:
+Text: You should without delay bring up serious concerns about your child's development with their doctor.
+Annotation from annotator: 4
+
+Example 29:
+Text: Friends should be supportive of each other.
+Annotation from annotator: 4
+
+Example 30:
+Text: You shouldn't be a burden on someone who is hosting you.
+Annotation from annotator: 4
+
+Target Example:
+Text: You should have a good time with you win or lose
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

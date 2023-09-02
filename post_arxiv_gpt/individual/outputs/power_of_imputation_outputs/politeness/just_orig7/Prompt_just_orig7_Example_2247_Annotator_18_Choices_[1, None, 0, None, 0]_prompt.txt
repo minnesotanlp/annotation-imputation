@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Human-rated Examples:
+Example 1:
+Text: Looking through the dicussions on the DRM Talk page, I'm failing to find the point where consensus was reached.  Would you mind pointing it out to me?
+Annotation from annotator: 16
+
+Example 2:
+Text: Funny, you could not tell it was me... who else would it be??
+Annotation from annotator: 8
+
+Example 3:
+Text: Hello Sirmyles, I noticed a puzzling section on <url> that could only have been written by you (about the parallels with Shiite law). I would appreciate if you could identify a source that could possibly support this assertion?
+Annotation from annotator: 16
+
+Example 4:
+Text: Remember we had the whole edit warring on Edelsten article a while back? I find it curious that a recently created account posted this <url> as their first contribution basically supporting Edelsten's personal website (which when you look would hardly pass <url>, I looked it at this site a while back in research and found some of the positive claims could not be verified) and wanting a complete rewrite of the article... sound familiar?
+Annotation from annotator: 4
+
+Example 5:
+Text: No more saga! Help me by keeping this page the way it is right now, alright?
+Annotation from annotator: 0
+
+Example 6:
+Text: The primary meaning is not formatted well here. Care to take a shot at it?
+Annotation from annotator: 4
+
+Example 7:
+Text: Your block of the <url> article came immediately after three edits that blanked sourced content without any explanation. These edits were unrelated to the edit war that got the article blocked, so could you please to restore the content?
+Annotation from annotator: 12
+
+Example 8:
+Text: In the stub note you just wrote, there appears on my screen a purple word that  looks sort of like 'st^b .  I suppose this is supposed to be IPA for "stub", but why here?
+Annotation from annotator: 12
+
+Example 9:
+Text: Vi is out of the hospital.  Did I mention that she was in?
+Annotation from annotator: 4
+
+Example 10:
+Text: Listen, the reason I put those signs in the code 'break-clear' is because the arrangement of the blocks is ''off-key'', at least when looking through IE or Mozilla. Why are you taking them off?
+Annotation from annotator: 8
+
+Example 11:
+Text: <url>? Do the guidelines disapprove of these kinds of dabs?
+Annotation from annotator: 12
+
+Example 12:
+Text: Is it possible to revert more than one revision at a time? Or must you be an administrator to do that?
+Annotation from annotator: 20
+
+Target Example:
+Text: I wish to have my Wikipedia account deleted. Is that possible?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

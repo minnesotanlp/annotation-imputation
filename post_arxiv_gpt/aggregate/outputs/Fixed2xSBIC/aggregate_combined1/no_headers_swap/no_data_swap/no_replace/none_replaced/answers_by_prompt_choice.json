@@ -1,0 +1,1294 @@
+{
+    "no_headers_swap_data_swap_no_replace_none_replaced": {
+        "[0, 0, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        }
+    },
+    "no_headers_swap_no_data_swap_replaced_2nd_replaced": {
+        "[0, 0, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        }
+    },
+    "no_headers_swap_no_data_swap_no_replace_none_replaced": {
+        "[0, 0, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 0, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 1, 0]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 0, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 1, 1]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 1, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 1, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 2, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 2, None, 0, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[0, 0, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2,
+                0
+            ],
+            "model_answers": [
+                0,
+                0,
+                2
+            ]
+        },
+        "[1, 0, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2
+            ],
+            "model_answers": [
+                0,
+                0
+            ]
+        },
+        "[0, 1, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2
+            ],
+            "model_answers": [
+                0,
+                0
+            ]
+        },
+        "[1, 1, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2
+            ],
+            "model_answers": [
+                0,
+                0
+            ]
+        },
+        "[0, 2, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2
+            ],
+            "model_answers": [
+                0,
+                0
+            ]
+        },
+        "[1, 2, None, 1, 2]": {
+            "true_answers": [
+                0,
+                2
+            ],
+            "model_answers": [
+                0,
+                0
+            ]
+        }
+    }
+}

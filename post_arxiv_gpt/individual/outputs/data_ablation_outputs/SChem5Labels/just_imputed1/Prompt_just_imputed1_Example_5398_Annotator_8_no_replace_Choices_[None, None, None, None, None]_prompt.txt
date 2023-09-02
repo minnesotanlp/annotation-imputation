@@ -1,0 +1,122 @@
+Example 1:
+Text: It's good to give people gifts for Valentine's Day.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is okay to not get along with family members.
+Annotation from annotator: 2
+
+Example 3:
+Text: It is understandable to want to meet your partner's family.
+Annotation from annotator: 3
+
+Example 4:
+Text: You should respect your significant other's interests.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's fine to have any sexual fetish that excites you.
+Annotation from annotator: 2
+
+Example 6:
+Text: You are expected to eat healthy foods.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's hurtful when family members cut you out of their lives.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's important to be gentle when you wake someone up from a nap.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to research new things.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's smart to know what you've ordered before it arrives.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good not to spend a lot of money.
+Annotation from annotator: 2
+
+Example 12:
+Text: You can't just curse at people because you don't like them.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's rude to not believe your best friend.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's good to have some laughter in your life every day.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is rude to try and control someone's appearance.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's expected that you'll want to keep food cool when picnicking.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's expected that people will have bad dreams.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's irresponsible to have a lot of dust in your home.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's understood there are things in life that parents should need to do for their kids.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't compare your problems to others.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't live your life based around what other people want.
+Annotation from annotator: 3
+
+Example 22:
+Text: You shouldn't abandon your pets.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is mean to pick on peoples' appearance
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good to take turns driving.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's irresponsible to have children when you are too old.
+Annotation from annotator: 2
+
+Example 26:
+Text: It's good to cut off nosy family members.
+Annotation from annotator: 2
+
+Example 27:
+Text: It's not okay to be greedy and unappreciative.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's expected that you develop independence as an adult.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's ok to fire an employee when they aren't fulfilling their job duties.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's hurtful when someone makes fun of the way you talk.
+Annotation from annotator: 3
+
+Text: It's bad to hurt yourself when you're angry.
+Annotation from annotator:

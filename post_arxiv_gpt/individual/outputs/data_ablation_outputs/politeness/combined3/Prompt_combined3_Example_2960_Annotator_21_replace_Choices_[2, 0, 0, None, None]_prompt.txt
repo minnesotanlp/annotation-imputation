@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: I knew what was going on with Note/Ref 17 at <url>: I spelled Constitution wrong. Is there anything else I can do to fix the article?
+Annotation from annotator: 12
+
+Example 2:
+Text: At the top of the page it characterizes a guideline as ''a generally accepted standard that editors should follow'' along with a passing reference to <url>. So, I might ask, how would using 4 tildes prevent you from improving or maintaining Wikipedia?
+Annotation from annotator: 8
+
+Example 3:
+Text: And now you undid my declination of that one which was copyrighted. Would you ''please'' quit undoing my declinations?
+Annotation from annotator: 4
+
+Example 4:
+Text: I've just noticed I wrote "It's possibly the most ''possible'' incident in his life" for "possibly the most ''important''", so I may be more caught in the toils of flu than I thought. Check I haven't done anything stupid, and smooth out the text?
+Annotation from annotator: 12
+
+Example 5:
+Text: Actually, material in the lead must be discussed in the body. Contemporary economics haven't been discussed in the body, so how can they be discussed in the lead?
+Annotation from annotator: 12
+
+Example 6:
+Text: Hmm, well I'll see before judging.  Does it also allow them to be listed from newest-to-oldest and separated into Russian and English references?
+Annotation from annotator: 12
+
+Example 7:
+Text: I have some made some improvements to the articles you references on the above user's talk page. Perhaps next time you would bring your concerns directly to '''me'''?
+Annotation from annotator: 8
+
+Example 8:
+Text: A redirect works exactly the same way regardless of whether there's a space between "#REDIRECT" and the target article's name or not. Why bother removing spaces from the redirects if it doesn't change the functionality at all?
+Annotation from annotator: 12
+
+Example 9:
+Text: Thanks. Can you leave a comment at <url>, saying you are the creator?
+Annotation from annotator: 16
+
+Example 10:
+Text: See: <url>. If I remember correctly, you said you planned on cleaning up after the bot tagged the images; is that still the case?
+Annotation from annotator: 12
+
+Example 11:
+Text: Have you and I reached a compositional (English, not content) impass? Perhaps we should hash it out away from the article and install after having reached teh big A (accomodation or agreement)?
+Annotation from annotator: 12
+
+Example 12:
+Text: Hello???  Are you just pretending I don't exist?
+Annotation from annotator: 4
+
+Example 13:
+Text: Where does it say in the policy that it doesn't apply to good users?  Where in the policy does it say only soft blocks should be performed?
+Annotation from annotator: 12
+
+Example 14:
+Text: <url> is at it again, adding in the "in the Premiership" content you & I successfully merged several weeks ago. Could you perhaps also drop a note on his talk page asking him to stop?
+Annotation from annotator: 12
+
+Example 15:
+Text: I've now supplied a free image on <url> (thanks for motivating me to do so!). Could you perhaps consider your reassessment of the article?
+Annotation from annotator: 16
+
+Example 16:
+Text: Good luck with the remaining time for your nomination. BTW: under what section on <url> do you think it should appear?
+Annotation from annotator: 16
+
+Example 17:
+Text: Elkman, there are other ways to take a Wikibreak. Can I help?
+Annotation from annotator: 16
+
+Example 18:
+Text: Hi Hektor. Could you please provide a rationale tag for this image?
+Annotation from annotator: 16
+
+Example 19:
+Text: Are you saying that you have a close or imtimate relationship with N.I.?
+Annotation from annotator: 12
+
+Example 20:
+Text: What just happened? Is this recent or the stuff that happened a few days ago?
+Annotation from annotator: 12
+
+Example 21:
+Text: PS so what is your Firefox advice?  Is there a way to make it managable?
+Annotation from annotator: 12
+
+Example 22:
+Text: In what way do the GMTV images, such as <url>, conform with the guidelines at <url>? Where is the statement on the website saying that it is a press kit, and the images can be reproduced?
+Annotation from annotator: 12
+
+Example 23:
+Text: Who???
+Annotation from annotator: 8
+
+Example 24:
+Text: I saw your notes, and will watch for any objections.  If there are none, in two days, do you mind if I move that page and start the new categorization page/discussion?
+Annotation from annotator: 16
+
+Example 25:
+Text: Eight more articles semi-protected. How many of these damned T & J articles are there?
+Annotation from annotator: 8
+
+Example 26:
+Text: Thank you, it's much appreciated. What do you think of the changes so far?
+Annotation from annotator: 20
+
+Example 27:
+Text: Do you think <url> warrants instant removal? I'd rather not leave the article there until after the election, in the interests of fairness to other non-noteable candidates do you think instant removal is warranted?
+Annotation from annotator: 12
+
+Example 28:
+Text: While the Curriculum and Campus sections could use some references, i think this is ready to go live. Do you know how to move this to the main article space?
+Annotation from annotator: 12
+
+Example 29:
+Text: No, Wikipedia does not consider itself (or wikis in general) as a reliable source. Surely you know such a basic policy?
+Annotation from annotator: 8
+
+Example 30:
+Text: Helllo?????
+Annotation from annotator: 4
+
+Human-Rated Examples:
+Example 1:
+Text: Yeah, I agree. What's up with that?
+Annotation from annotator: 12
+
+Example 2:
+Text: You're right, but loosing it because of Devanampriya, of all users, would be quite a shame for Wikipedia. Don't we have to make a stand against ignorance, partisan POV-pushing and constant incivility?
+Annotation from annotator: 12
+
+Example 3:
+Text: Maybe there is a cellar to the mill, which would count towards the five. Can you get a photo or two and add to Commons?
+Annotation from annotator: 12
+
+Example 4:
+Text: Do you really think it is necessary to do that? Could you not simply take my advice on board?
+Annotation from annotator: 8
+
+Example 5:
+Text: OK done. When do I get my money?
+Annotation from annotator: 4
+
+Example 6:
+Text: Great work you've been doing on this. Would you agree with me that International Political Economy should be capitalised?
+Annotation from annotator: 16
+
+Example 7:
+Text: What is the policy when someone writes something like <url> ? Does their IP get banned and their comment purged from the talk page?
+Annotation from annotator: 14
+
+Example 8:
+Text: I've made some improvements to <url>, keeping in mind your previous comments about the article. Since you gave its grade before, would you like to see it if it could be reassessed?
+Annotation from annotator: 16
+
+Example 9:
+Text: I'm responding here in an effort to keep the conversation in one place and would appreciate it if you would do the same. Did you see where I said above that images which only allow non-commercial use are still considered to be non-free?
+Annotation from annotator: 12
+
+Example 10:
+Text: lol, turns out the photo isn't his either. Any ideas from here?
+Annotation from annotator: 12
+
+Example 11:
+Text: Stopped and removed. Could you pease be more specific when speaking of anti-Russian bias, with references to articles that you think they have?
+Annotation from annotator: 16
+
+Example 12:
+Text: At the top of my talk page, it says, "If I left you a message: please answer on your talk page, as I am watching it."  I think I already explained this to you.  Is there a reason we cannot communicate?
+Annotation from annotator: 4
+
+Example 13:
+Text: Basically, I agree with you. <url>, right?
+Annotation from annotator: 12
+
+Example 14:
+Text: This is my first time at review-sorry if I blew it.  The article passes just fine--what do I do at DYK to indicate that?
+Annotation from annotator: 16
+
+Example 15:
+Text: Then I think that we need to be a little poetic, rather than the rather prosaic "qualities associated with his weapons". What about something like "the magical properties attributed to his weapons"?
+Annotation from annotator: 16
+
+Example 16:
+Text: I see you've added <url> to the category "Jewish-Canadians".  What is your source for this?
+Annotation from annotator: 12
+
+Example 17:
+Text: Some of his categories seem rather POV to me, and it's rather obvious from his AfD participation that there's a disruptive streak afoot. Since you've got a bit of knowledge in the area, do they seem like the kinds of things which should be deleted?
+Annotation from annotator: 12
+
+Example 18:
+Text: Thanks very much indeed! :-) I don't suppose you'd fancy having a deadlink trawl over at <url>, would you?
+Annotation from annotator: 16
+
+Example 19:
+Text: And can you point me to a statement of that company where they say that they release their images into the <url>? Or can you provide proof that their copyright has expired?
+Annotation from annotator: 12
+
+Example 20:
+Text: That's fine. Question: how did you find that out?
+Annotation from annotator: 12
+
+Example 21:
+Text: On the mediation page you made a number of statements that I said I would like to discuss with you. Would you be willing to do that <url>?
+Annotation from annotator: 12
+
+Example 22:
+Text: I didn't see your internal link, I put it back.  <url> isn't orphaned, what are you talking about?
+Annotation from annotator: 8
+
+Example 23:
+Text: Well, that was an example as I am adding Infobox Historical American Political Party infobox to all those historical parties in <url> for which I was previously using the regular Infobox American Political Party until I found the Historical version in <url>.  So if I wish to continue, I will have to assign colors and shortname to all of them if not already done (like Anti-Masonic Party) right?
+Annotation from annotator: 12
+
+Example 24:
+Text: No problem. Have you seen the <url> article?
+Annotation from annotator: 12
+
+Example 25:
+Text: I'm not sure I understand what this has to do with what I said.  Could you restate?
+Annotation from annotator: 12
+
+Example 26:
+Text: Please answer Bishonen question to you. When were you invited to comment on UC related subjects?
+Annotation from annotator: 8
+
+Example 27:
+Text: last msg ???
+Annotation from annotator: 8
+
+Example 28:
+Text: Can you respond to the comments I left on the S&M PR page please. If you are satisfied with the changes, can you tell me if it is qualifiable for FAN and if not for FAN, then for A class status?
+Annotation from annotator: 16
+
+Example 29:
+Text: Hey, Rcej! ;) Would you be up to reviewing <url>?
+Annotation from annotator: 16
+
+Example 30:
+Text: Thanks, but I didn't see the 10,000 to 40,000,000 numbers there. Am I missing something?
+Annotation from annotator: 12
+
+Target Example:
+Text: I looked at the quotations and they seemed aligned to me.  Is there something that I'm missing?
+Annotation from annotator:

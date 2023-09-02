@@ -1,0 +1,28 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 0 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: What's the difference between a Ferrari and a bag of baby corpses? I do not own a Ferrari
+ANSWER: 2
+
+2.
+EXAMPLE: bruh, this apartment ain't smelled like air freshener since this dirty hoe move in. &#128579;&#128579;
+ANSWER: 1
+
+3.
+EXAMPLE: "RT @JeremyPlattform: ""You have to admire #HapAndLeonard for never shying away from how the ugly history of racism in this country impact…"
+ANSWER: 0
+
+4.
+EXAMPLE: how can you be a winner and the biggest loser at the same time ? win the world vaping championships .
+ANSWER: 2
+
+Here's the samples of how others have annotated the target example:
+
+
+How would the particular annotator annotate the target example?
+EXAMPLE: how do you describe a burning orphanage ? it 's lit fam just kidding there 's no fam
+ANSWER:

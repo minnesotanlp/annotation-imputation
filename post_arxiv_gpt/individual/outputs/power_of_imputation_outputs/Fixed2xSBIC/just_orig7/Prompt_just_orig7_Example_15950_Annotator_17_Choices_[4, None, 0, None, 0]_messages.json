@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)\n\nExamples from the dataset (there may not be any):Examples from the dataset (there may not be any)\n\n\nTarget Example:\nText: have n't had a single kid come to my door so far tonight . <repeat> this jimmy savile costume is the business .\nAnnotation from annotator:\nYour output should be a single integer corresponding to the label."
+    }
+]

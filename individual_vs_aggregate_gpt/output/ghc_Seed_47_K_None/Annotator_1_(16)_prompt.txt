@@ -1,0 +1,34 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 2 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: I think the problem arises when you try keeping it a secret and start banning people who question it. It creates mistrust, particularly when the Jew in question becomes influental. It was the same thing with TRS. If you're going to insist on your prima Jude, it has to be out in the open.
+ANSWER: 0
+
+2.
+EXAMPLE: I always thought in most cases Buffoon and Politician were synonymous titles. 
+ANSWER: 0
+
+3.
+EXAMPLE: Democrats Claim Victory in 2018 Omnibus Fight Limits border wall to 33 miles. “We’re feeling very good about this,” said Sen. Chuck Schumer. 'When it’s unveiled, you will see. We’re not going to get into any more details.' http://www.breitbart.com/2018-elections/2018/03/21...
+ANSWER: 0
+
+4.
+EXAMPLE: Nah, it just turns them into sick rapists, pedophiles and slavers.
+ANSWER: 0
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: Has a lot what sir?
+ANSWER: 0
+
+2.
+EXAMPLE: Has a lot what sir?
+ANSWER: 0
+
+How would the particular annotator annotate the target example?
+EXAMPLE: Has a lot what sir?
+ANSWER:

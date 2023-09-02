@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: Point taken. Would you like to be a mod?
+Annotation from annotator:
+The only valid output is a single integer.

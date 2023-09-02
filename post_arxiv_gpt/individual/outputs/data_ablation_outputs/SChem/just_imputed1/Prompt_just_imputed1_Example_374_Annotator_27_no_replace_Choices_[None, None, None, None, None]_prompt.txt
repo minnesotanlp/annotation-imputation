@@ -1,0 +1,14 @@
+Example 1:
+Text: It is good for couples to communicate their problems and move on when there is tension after a fight.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is ok if you cancel last minute on people due to an illness.
+Annotation from annotator: 3
+
+Example 3:
+Text: Partners are expected to support each other.
+Annotation from annotator: 4
+
+Text: It's bad to leave school without letting someone know where you're going.
+Annotation from annotator:

@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I think im getting old... I used to be able to stay up all night but now i cant
+Annotation from annotator: 2
+
+Example 2:
+Text: @emmyvictoria not THAT old!  have you had a good stay in England? What time you going back?
+Annotation from annotator: 3
+
+Example 3:
+Text: dutches and 40s of old E means great times.. also its my last night in town for a month.
+Annotation from annotator: 2
+
+Example 4:
+Text: off to kick it old school at Pro Performance. more tweeting as the night unfolds. If i remember . .
+Annotation from annotator: 2
+
+Example 5:
+Text: @CountryGirlND by the way... happy birthday you old bat  love ya
+Annotation from annotator: 3
+
+Example 6:
+Text: @JGunds I really, really want to! But I already made plans to see some old friends tonight. I can't believe I'm going to miss out on 3eb
+Annotation from annotator: 3
+
+Example 7:
+Text: @therealpickler How old is Eric, anyway? Gotta be old enough, in order to pick out that puppy, right?
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6oilr - old bolts in the front... new bolts in the back.  I sure hope this works
+Annotation from annotator: 2
+
+Example 9:
+Text: doing some cleaning in my closet. out with the old, in with the new. aha
+Annotation from annotator: 3
+
+Example 10:
+Text: Green Day look so old
+Annotation from annotator: 1
+
+Example 11:
+Text: No one wants to hang out with an old lady
+Annotation from annotator: 1
+
+Example 12:
+Text: @elephantshoes75 u have a daughter!! thats very nice  how old is she?
+Annotation from annotator: 3
+
+Example 13:
+Text: gah! old people parties are lame! i hate constant fake smiling
+Annotation from annotator: 1
+
+Example 14:
+Text: Just finished balling wit some kids from around my block. I'm officially old lol. SB: someone entertain me - my bff is out of town
+Annotation from annotator: 1
+
+Example 15:
+Text: http://twitpic.com/66516 - i got flowers from my neighbor, a 60 yr old lady. she's so friendly
+Annotation from annotator: 4
+
+Example 16:
+Text: according to this http://bit.ly/b6mPa  I will be 10000 days old in 8 days. time to celectrate  #fb
+Annotation from annotator: 2
+
+Example 17:
+Text: @LynziLoo I kinda miss those days lol. Now we all have our own places and we don't party anymore. wtf?! we're getting old  nooo.
+Annotation from annotator: 2
+
+Example 18:
+Text: @rhymeswithemma Selena's 12, no? Her face is so young. I was just reading old blogs with "sigh, N+S! Miley's heartbroken."
+Annotation from annotator: 3
+
+Example 19:
+Text: Recital is over...my body aches all over.  Too old for this...BUT I STILL GOT IT
+Annotation from annotator: 2
+
+Example 20:
+Text: miley's concert is in december i wanna go!  is anyone else secretly a 12 year old girl and wanna come with me? @lil_miss_sneha?  c'mooon
+Annotation from annotator: 3
+
+Example 21:
+Text: Wedding last nightt was crazy fun! I think my little brother has a hangover :-0 (yes, he's 13) NO bueno! Good seeing old friends & fam
+Annotation from annotator: 2
+
+Example 22:
+Text: done with work. off to church, then meeting up with old friends.  cant wait to see everyone...then work tomorrow, golf, bbq, and party!
+Annotation from annotator: 3
+
+Example 23:
+Text: @BeauGiles since when do you care?  you should look up an old CH10 show called 'Breakers' for the male version
+Annotation from annotator: 2
+
+Example 24:
+Text: my knee is sore today  is this what old age feels like haha im falling apart!!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to celebrating my dads 65th with family tonight (wow, am I old enough to have a 65 yr old dad lol) and Star Trek 2morrow
+Annotation from annotator: 3
+
+Example 26:
+Text: trying to pick out a profile pic with the help of @dfpcmaia but whenever i like one he says it's bad. 12 yr olds are stupid
+Annotation from annotator: 1
+
+Example 27:
+Text: so early to be up, 7:15, I guess I am getting old! old people can't sleep
+Annotation from annotator: 1
+
+Example 28:
+Text: im gonna miss that halo-halo man in my old school.  the ube on top.yum.
+Annotation from annotator: 2
+
+Example 29:
+Text: @thakkar dude hope you understand and dont take it personally, just that my bike is about 2 months old and very possessive
+Annotation from annotator: 1
+
+Example 30:
+Text: @herwahyu the old stuff shld stay what  or u hv information overload. reprocess all the information and join them
+Annotation from annotator: 2
+
+Target Example:
+Text: @susie130 yeah, I dont get it. It worked again with the last vid,but I cant change the old ones info
+Annotation from annotator:

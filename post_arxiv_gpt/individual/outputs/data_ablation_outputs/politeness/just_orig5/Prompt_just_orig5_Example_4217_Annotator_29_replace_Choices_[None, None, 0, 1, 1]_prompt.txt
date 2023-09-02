@@ -1,0 +1,7 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Target Example:
+Text: Is <url> what you're referring to??  '''''One''''' autograph page that he deleted almost '''''five months''''' ago and you're now attacking him as if he deleted every single autograph book ever?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

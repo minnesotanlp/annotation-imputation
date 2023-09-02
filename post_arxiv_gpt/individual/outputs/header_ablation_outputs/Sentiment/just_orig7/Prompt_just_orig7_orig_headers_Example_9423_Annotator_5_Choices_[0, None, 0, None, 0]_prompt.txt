@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Estimated Examples:
+Example 1:
+Text: just gave a bad attitude to the old dude that hits on me  THATS RIGHT BIOTCH
+Annotation from annotator: 0
+
+Example 2:
+Text: Growing young is the definition of life and they are as handsome now - with their decades of living on display - as they were in their twenties.
+Annotation from annotator: 2
+
+Example 3:
+Text: arguing with a four year old about the need to be immunized, poor love she is getting jabbed tomorrow
+Annotation from annotator: 1
+
+Example 4:
+Text: Twitted vacation party people.  I kinda miss the old days when I was in a bubble  see y'all soon.
+Annotation from annotator: 2
+
+Example 5:
+Text: nothing quite like hearing you're 15 month old cry when you walk out the door to go the work
+Annotation from annotator: 3
+
+Example 6:
+Text: @knotby9 my mom died when i was 3 months old,i never knew her
+Annotation from annotator: 2
+
+Example 7:
+Text: listens to Hilary Duff - Jericho. old song but still VERY GOOD!
+Annotation from annotator: 3
+
+Example 8:
+Text: Diet starts today. It is 7am and already craving for a good old cendol.
+Annotation from annotator: 3
+
+Example 9:
+Text: hollywood-jonas bothers ahhh the jb oldies..
+Annotation from annotator: 3
+
+Example 10:
+Text: It's raining, it's pouring, the old man is snoring! I love the sound of the rain
+Annotation from annotator: 3
+
+Example 11:
+Text: i want to get back to dancing...but im intimidated of other dancers...im not getting any younger
+Annotation from annotator: 2
+
+Example 12:
+Text: I usta love vincent donofrio. Now he's old n sad I think
+Annotation from annotator: 1
+
+Example 13:
+Text: @keith_johnson The link I posted takes you to footage of the old Art Linkletter show, which I remember quite well. I have his 1957 book
+Annotation from annotator: 3
+
+Example 14:
+Text: can't wait for punch out to arrive for his wii, propa old school tings! Man dem knock out ball-ead big bull ya-ear!!!
+Annotation from annotator: 0
+
+Example 15:
+Text: @saralovzdrew I'm 17..and his 18  haah..I normally go for guys 2/3 years older tho
+Annotation from annotator: 1
+
+Example 16:
+Text: RIP Danny LaRue... sad news indeed... all the old troupers seem to be falling away....
+Annotation from annotator: 3
+
+Example 17:
+Text: @Satans_Thong awww.... 33 is a cute age  not much older than me then x
+Annotation from annotator: 2
+
+Example 18:
+Text: @kayjay12 I figured you were young enough to be excited, thus young enough to be asked.
+Annotation from annotator: 2
+
+Example 19:
+Text: @chrismcdonough LOL! Our kitchen recipe stock is still contained in old-fashioned books, can't digitize their character.
+Annotation from annotator: 3
+
+Example 20:
+Text: Honest to goodness. Are there just no young people who go to the theater. I feel like this is the Sunday afternoon show at the Civic.
+Annotation from annotator: 1
+
+Example 21:
+Text: @CherubNkotb sorry my darn comp is messed up ..browser is too old and i can't see our new private home...  ill talk to everyone 2morrow
+Annotation from annotator: 2
+
+Example 22:
+Text: @bronte_saurus I saw a lot of that in France. What happens to the puppies when they r too old to pull coins?
+Annotation from annotator: 1
+
+Example 23:
+Text: *sniffs* my 1 year old brother, Jack, is in the ER right now...he fell and cut his forehead open on the table  http://twitpic.com/7qqtx
+Annotation from annotator: 0
+
+Example 24:
+Text: Scoop: poor little Dawne Wilson.  The 36 yr old sistah was arrested for stalking ya boy #TYLER PERRY! The chick was outside his studios
+Annotation from annotator: 2
+
+Example 25:
+Text: Having margaritas with an old roomie
+Annotation from annotator: 3
+
+Example 26:
+Text: Now off to Peters for ice cream. Not as good as the old days though.  #yyc
+Annotation from annotator: 4
+
+Example 27:
+Text: @btcoffee one summer when i was younger we had a duck couple that stayed in our front yard the whole time
+Annotation from annotator: 0
+
+Example 28:
+Text: A 26 year old man died of Swine flu after only one day of catching it, First death in Australia caused by the swine flu
+Annotation from annotator: 1
+
+Example 29:
+Text: I was home sick yesterday but I missed all of you  Hello followers new & old!
+Annotation from annotator: 2
+
+Example 30:
+Text: realizing that i am toooo old for the stuff i pulled..my muscles hurt like hell
+Annotation from annotator: 1
+
+Target Example:
+Text: OM freak'n G! Why have been up 4 several hours watch'n old 90's videos LoL i looove ole school R&B....good times good times
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

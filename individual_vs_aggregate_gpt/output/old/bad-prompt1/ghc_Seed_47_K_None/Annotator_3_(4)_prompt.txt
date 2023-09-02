@@ -1,0 +1,41 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 3 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: Imagine if tech giants were honest. | #RedNationRising
+ANSWER: 0
+
+2.
+EXAMPLE: Trump puts ketchup on steaks, surrender your argument
+ANSWER: 0
+
+3.
+EXAMPLE: I'm shocked -- SHOCKED I TELL YOU -- that a man named Cohen betrayed Trump.
+ANSWER: 0
+
+4.
+EXAMPLE: And I say if they're an employee of Facebook (for example), they're acting FOR Facebook, an American company. Facebook must take responsibility to train them to espouse their company policy. Clearly, since Facebook has been crying 'Oopsie' over and over for months (years?) now, they know about the problem and aren't doing anything about it. Hence, they're complicit. It doesn't matter where these e...
+ANSWER: 0
+
+5.
+EXAMPLE: They will never care about the unemployment rate or tax cuts. Sorry, Republicans!  Now please focus on the people who vote for you.
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: They will never care about the unemployment rate or tax cuts. Sorry, Republicans!  Now please focus on the people who vote for you.
+ANSWER: 0
+
+2.
+EXAMPLE: They will never care about the unemployment rate or tax cuts. Sorry, Republicans!  Now please focus on the people who vote for you.
+ANSWER: 0
+
+3.
+EXAMPLE: They will never care about the unemployment rate or tax cuts. Sorry, Republicans!  Now please focus on the people who vote for you.
+ANSWER: 0
+
+How would the particular annotator annotate the target example?
+EXAMPLE: They will never care about the unemployment rate or tax cuts. Sorry, Republicans!  Now please focus on the people who vote for you.
+ANSWER:

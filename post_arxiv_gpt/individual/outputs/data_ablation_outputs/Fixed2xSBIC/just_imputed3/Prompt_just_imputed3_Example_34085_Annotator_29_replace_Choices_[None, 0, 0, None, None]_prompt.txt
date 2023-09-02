@@ -1,0 +1,125 @@
+Estimated Examples:
+Example 1:
+Text: Everyone in 13 reasons is fucking dumb why did i watch this when i knew i hated the book&#128514;
+Annotation from annotator: 1
+
+Example 2:
+Text: There is no better feeling than knowing someone that makes you feel like you don't have social anxiety when you're talking to them
+Annotation from annotator: 0
+
+Example 3:
+Text: Award well deserved &#128525; Congratulations to my beautiful and smartest sister. You really deserve a crown &#128081; Late upload haha &#128517;✌
+Annotation from annotator: 0
+
+Example 4:
+Text: Don't fucking hmu between 3-7pm or am Bitch Im sleep.
+Annotation from annotator: 1
+
+Example 5:
+Text: Mayb my feet are so small bc I have STUBBED MY TOES SO MANY TIMES I STUNTED ALL POSSIBLE GROWTH YEARS AGO.
+Annotation from annotator: 0
+
+Example 6:
+Text: "@ughyungs i deadass just hear hobi saying ""park jimin"" honestly this could be a play in our ears lmao"
+Annotation from annotator: 0
+
+Example 7:
+Text: What do you call a black potato? Hacoonapatata
+Annotation from annotator: 2
+
+Example 8:
+Text: If you like the 24k gold rillos, your a pussy
+Annotation from annotator: 2
+
+Example 9:
+Text: What do you call a group of disabled kids in a burning hospital? Cooked vegetables. my favorite food.
+Annotation from annotator: 2
+
+Example 10:
+Text: &#8220;@xoxo_hayleyy: "@savageater: i think if my girlfriend were to get locked up shed be the first one raped.#pussy"really bitch&#9995;&#128530;&#8221;really swerve
+Annotation from annotator: 2
+
+Example 11:
+Text: What do you call Christmas in Alabama? Fucking around, the Christmas tree
+Annotation from annotator: 2
+
+Example 12:
+Text: Whats worse than a dead homosexual? A live one.
+Annotation from annotator: 2
+
+Example 13:
+Text: There was a blackout last night. So I told my slave to go turn on the backup power supply.
+Annotation from annotator: 2
+
+Example 14:
+Text: &#128514;&#128514; niggas sending screenshots of me to they bitches like " stop texting cuh " &#128557;
+Annotation from annotator: 1
+
+Example 15:
+Text: i 've recently added princess diana on my new xbox <number> it 's a bit strange because . <repeat> she 's always on the dashboard : /
+Annotation from annotator: 2
+
+Example 16:
+Text: I hate auto correct sometimes like damn I know what I be saying chill out.
+Annotation from annotator: 0
+
+Example 17:
+Text: TONIGHT last Varsity/JV Prep Class (5:30) and first Junior High Prep Class (6:00) at MND -- It's a Pom combo night!!
+Annotation from annotator: 0
+
+Example 18:
+Text: I asked out four women who were at least in their fifties tonight
+They all said no -_-
+Annotation from annotator: 0
+
+Example 19:
+Text: How does a black guy Send mail? With food stamps
+Annotation from annotator: 2
+
+Example 20:
+Text: Good they trash RT @jerseyzbest74: Niggas ate most of my chips ahoy cookies and the cookies havent been in the house 20 hours yet
+Annotation from annotator: 0
+
+Example 21:
+Text: my brothers asshat friends think it's okay to vandalize our property because he's a racist wana be redneck.
+Annotation from annotator: 2
+
+Example 22:
+Text: "The ""White Helmets"" have done plenty of proven hoaxes in the past. Why would this event be any different?"
+Annotation from annotator: 0
+
+Example 23:
+Text: How does an Ethiopian climb a tree? By the ribs of his mother.
+Annotation from annotator: 2
+
+Example 24:
+Text: Michael is FINE AF....I just NEED him with Sara and MJ and Lincoln...and Sucre...and C-Note!!! Basically I need my TEAM!! #PrisonBreak
+Annotation from annotator: 0
+
+Example 25:
+Text: Why do they plant a lot of trees in Harlem? To improve public transportation.
+Annotation from annotator: 2
+
+Example 26:
+Text: I bought my blind friend a cheese grater for their birthday. A week later, they told me it was the most violent book they ever read.
+Annotation from annotator: 2
+
+Example 27:
+Text: I've met a few people who I talk to outside of SF , and I consider them to be pretty good friends .
+Annotation from annotator: 0
+
+Example 28:
+Text: I could have so many bitches right now... Lately they been loving Flee
+Annotation from annotator: 1
+
+Example 29:
+Text: What would Maddie McCann be doing if she were alive today? Me.
+Annotation from annotator: 1
+
+Example 30:
+Text: RFT Tweet of the day&#128588;&#128588; &#8220;@HereForEB: If a nigga change on you.. Fuck em .. He was a bitch nigga from day 1&#8221;
+Annotation from annotator: 1
+
+Target Example:
+Text: I feel so bad for them [women working in a fabric store] because they don't have anyone to carry the heavy things.
+Annotation from annotator:

@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: Putting your life at risk for others is noble and praiseworthy.
+Annotation from annotator: 3
+
+Example 2:
+Text: You should always grieve when someone close to you dies.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's good to visit people.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's bad to be violent towards others.
+Annotation from annotator: 3
+
+Example 5:
+Text: You should kick someone out of your wedding if they defile your cake.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's right to try to help a friend who is having mental health problems.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's important to get help when you need it.
+Annotation from annotator: 3
+
+Example 8:
+Text: It is understandable to want to spend holidays with family.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's nice to eat with people.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is wrong to gamble.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's unhealthy to depend on validation from others
+Annotation from annotator: 3
+
+Example 12:
+Text: You should be a good employee so that you don't lose your job.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's admirable to serve your community as a first responder.
+Annotation from annotator: 4
+
+Example 14:
+Text: Getting an education is good for your future.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's wrong to tell lies.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's okay to not want to deal with someone else's bad habits.
+Annotation from annotator: 2
+
+Example 17:
+Text: It is wrong to do things that make your partner uncomfortable.
+Annotation from annotator: 3
+
+Example 18:
+Text: You should shave your body hair if you're really hairy and unsightly.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's good to take care of your appearance so you look good for others.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is understandable to not feel empathy when their situations do not involve you.
+Annotation from annotator: 2
+
+Example 21:
+Text: You shouldn't sexually harass people.
+Annotation from annotator: 3
+
+Example 22:
+Text: You shouldn't lie to people about your true feelings.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's fine to spy on people's Facebooks.
+Annotation from annotator: 2
+
+Example 24:
+Text: It's okay to have amicable separation.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's unusual to like the taste of food after brushing your teeth
+Annotation from annotator: 3
+
+Example 26:
+Text: It's understandable to want things to be fair in life.
+Annotation from annotator: 2
+
+Example 27:
+Text: It's good to get a treat for yourself.
+Annotation from annotator: 3
+
+Example 28:
+Text: You shouldn't trust creepy people.
+Annotation from annotator: 3
+
+Example 29:
+Text: You should always show up to a play date.
+Annotation from annotator: 3
+
+Example 30:
+Text: It is good to enjoy time with your grandmother.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should set alarms if you are prone to oversleeping for work.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

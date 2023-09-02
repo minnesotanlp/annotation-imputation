@@ -1,0 +1,25 @@
+Example 14940
+Text: We use a few different databases but primary one is MySQL
+Soft labels:
+100.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+
+Example 13245
+Text: @TexasRancher45‍  
+Soft labels:
+44.44% of responsive annotators labeled the text with 0
+55.56% of responsive annotators labeled the text with 1
+
+Example 5420
+Text: Rod Rosenstein’s wife is Clinton attorney
+Soft labels:
+100.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+
+Example 21457
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Soft labels:
+72.22% of responsive annotators labeled the text with 0
+27.78% of responsive annotators labeled the text with 1
+Target Text: There's a New Sheriff In Town and his name is; PRESIDENT DONALD J. TRUMP ! He was on POINT and on FIRE !  GOD BLESS PRESIDENT TRUMP ! #StopTheBias#MAGA#GabVets#GabFam
+Soft labels:

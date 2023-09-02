@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It is wrong to tell someone else what to do.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's good to want what is best for the country.
+Annotation from annotator: 3
+
+Example 3:
+Text: You are expected to wait your turn before speaking.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's understandable to not feel ready for a test.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's understandable to not be able to control who you're attracted to.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should always try to get along with your family.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to write about things you enjoy.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's okay to have favorite things that you enjoy.
+Annotation from annotator: 3
+
+Example 9:
+Text: If you are single it is reasonable to want to spend Valentines Day with people you love.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is exciting to win
+Annotation from annotator: 3
+
+Example 11:
+Text: It's okay to be annoyed when you take a class with a biased teacher.
+Annotation from annotator: 3
+
+Example 12:
+Text: You shouldn't ask someone intrusive questions.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's understandable to want help.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's okay to feel bad if your significant other didn't get you what you want on a special occasion.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's good to do chores.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's acceptable to teach children bad words in a controlled environment.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's understood you shouldn't just show up at someone's place with the expectation they'll feed you.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's bad to get someone removed from class just to get them in trouble.
+Annotation from annotator: 3
+
+Example 19:
+Text: If you hate college, you shouldn't go.
+Annotation from annotator: 2
+
+Example 20:
+Text: It is reasonable to think about someone that you really loved in your past.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's understandable that someone times we do or say things without thinking.
+Annotation from annotator: 3
+
+Example 22:
+Text: You shouldn't get addicted to things.
+Annotation from annotator: 3
+
+Example 23:
+Text: You should keep an eye on your young child so they don't wander off.
+Annotation from annotator: 3
+
+Example 24:
+Text: It is bad to not support your friends
+Annotation from annotator: 3
+
+Example 25:
+Text: It's understandable to be angry about injustice.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's okay to appreciate the same things as others.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's allowed to vote for whomever you choose.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to have parents that want to help you.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to be critical of yourself and want to improve.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's good to take care of your children that can't do things for yourself.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's admirable when people try to learn from past mistakes.
+Annotation from annotator:

@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's not like I have to spend time here at #Gab to bolster my sanity before going back to the rotten stench of the socialist university campus each week.    OK, it actually IS like that.   #GabFamily  #MAGA  #TRUMP  #freedomofspeech  #capitalism
+Annotation from annotator: 0
+
+Example 2:
+Text: prayer moves mountains, comforts and soothes. So long as the prayer is in the context of divine will and sentient being free will it is not intrusive or demanding. Wherever 2  or more are gathered ... wherever I AM, God is.
+Annotation from annotator: 0
+
+Example 3:
+Text: Balanced budgets are mean spirited? https://www.youtube.com/watch?v=a5ycLe6mQ9A&fe... #Canada
+Annotation from annotator: 0
+
+Example 4:
+Text: The Democratic Party Is A Domestic Terrorist Organization https://www.youtube.com/watch?v=LCddoqjvLvQ&t=...
+Annotation from annotator: 1
+
+Example 5:
+Text: Always have to put it on dark mode no doubt.
+Annotation from annotator: 0
+
+Example 6:
+Text: It's not the altletf it's just the plain left, since Black Panthers in the 60s
+Annotation from annotator: 0
+
+Example 7:
+Text: The people pushing for gun control must obtain a social media license. No Twitter account without a full background check, including any incidents of online or offline bullying or antisocial behavior. If you want to take away the right to defend oneself, you don't deserve the right to free speech, especially online.
+Annotation from annotator: 1
+
+Example 8:
+Text: My ears are burning, someone must be talking about me a lot. *Looks at @wocassity *
+Annotation from annotator: 0
+
+Example 9:
+Text: Is Q a giant larp?
+Annotation from annotator: 0
+
+Example 10:
+Text: They are ALL ILLEGALS .
+Annotation from annotator: 1
+
+Example 11:
+Text: I try not to spam stuff about my books, but it has been a while:    'The Long Black', a coming of age #scifi adventure story about a teen girl escaping what is essentially Space North Korea to become a starship mechanic, only to run into a ton of problems, including space pirates.   http://a.co/gRJSldg
+Annotation from annotator: 0
+
+Example 12:
+Text: Catalunyan independantists:  LEFTISTS, ANTIFA-LIKE cucks.   Don't be fooled, they will sell Catalunya to islam even faster than the fucking spanish king.   Bring back PRIMO DE RIVERA
+Annotation from annotator: 1
+
+Example 13:
+Text: Noirs et Blancs en Couleur Steam locomotive transiting the desert.  #MonumentValley
+Annotation from annotator: 0
+
+Example 14:
+Text: England up 1-0 after Tripper scores his first for England on a free kick four yards outside the box.
+Annotation from annotator: 0
+
+Example 15:
+Text: And for something completely different... 'The only time diversity ever helped an organization was when #nasa hired actual #nazis'
+Annotation from annotator: 1
+
+Example 16:
+Text: Fellow frogs! I tried to break twitter today. I don’t think I managed to do that, but here’s a 140 something unrolled tweet storm that is a timeline of the entire narrative from early 2016. Everything isn’t in here and much detail could be added but I think it’s pretty comprehensive. ENJOY! https://threadreaderapp.com/thread/971074284872495...
+Annotation from annotator: 0
+
+Example 17:
+Text: 'Chief, he's now demanding a liter of gamer girl pee in addition to Blade Runner 2049 on Blu-ray.'
+Annotation from annotator: 0
+
+Example 18:
+Text: The new book burning... #Leftists #DNC #DeepState #EnoughIsEnough
+Annotation from annotator: 0
+
+Example 19:
+Text: Ever see a hood rat? Check out this Pharisee. https://twitter.com/dorothyofisrael/status/9642454...
+Annotation from annotator: 0
+
+Example 20:
+Text: @Vbalance03 Welcome💕🎉🍾
+Annotation from annotator: 0
+
+Example 21:
+Text: James Vandercock gets groped by old jewish fag. Absolutely nobody is surprised at all. Jewish grope-gate is exploding all over everyones face. Giving a whole new meaning to the term 'mikvah'   http://www.indiewire.com/2017/10/james-van-der-bee...
+Annotation from annotator: 1
+
+Example 22:
+Text: Make America Great Again!!!   Drain the swamp!
+Annotation from annotator: 0
+
+Example 23:
+Text: Whats up Gab Fam!     I made a video about how to move Nxt from Bittrex to the Nxt desktop client... with a bonus Ignis Ico update!     What are you all looking forward to investing in for the rest of 2017?    http://bit.ly/2vd2u3h
+Annotation from annotator: 0
+
+Example 24:
+Text: There's been a very obvious push lately to portray #Trump as having kingly aspirations. (See screenshot.) What has he done to deserve that? - Donates entire salary - Net worth dropped dramatically - Democratically elected - Brokered peace on Korean peninsula - Removed government protection from some land Don't fall for the lies. Think for yourselves. #MAGA
+Annotation from annotator: 1
+
+Example 25:
+Text: You forgot... Steve Jobs
+Annotation from annotator: 0
+
+Example 26:
+Text: Absolutely ecstatic that NY AG Schneiderman resigned but sad it's at the expense of four women who were abused by him. https://www.newyorker.com/news/news-desk/four-wome...
+Annotation from annotator: 0
+
+Example 27:
+Text: #NHL season winding down.  Anyone else excited for that last-game-of-the-year showdown looming between Colorado and St. Louis? PS #GoJetsGo that is all.
+Annotation from annotator: 0
+
+Example 28:
+Text: Tattoos are for the weak minded slave peoples.
+Annotation from annotator: 0
+
+Example 29:
+Text: Arbitrarily forcing gender equality/diversity doesn't improve outcomes for businesses? Does it really still need explaining that gender < merit !?!?!? http://knowledge.wharton.upenn.edu/article/will-ge...
+Annotation from annotator: 0
+
+Example 30:
+Text: As if killing a few people who deserved it means you are the most right wingest that ever existed or something
+Annotation from annotator: 1
+
+Target Example:
+Text: Largest asteroid in a century to 'whiz' past Earth at a close distance of 4.4m miles or 7m kilometres.   https://phys.org/news/2017-08-largest-asteroid-cen...
+Annotation from annotator:

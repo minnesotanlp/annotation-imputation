@@ -1,0 +1,83 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: @ChampagneRDub Trust me. I know. When I left for college my bro was 8 years old. Talk about tough! I missed him SO much & now he's a man.
+Annotation from annotator: 4
+
+Example 2:
+Text: @CookiezMaMa tell him he shouldn't take a bath. cause only big boys take baths. he's way too small and young.
+Annotation from annotator: 2
+
+Example 3:
+Text: @Ginger_Swan i thought so, cuz the Dr. Pepper Co. would be in big  business with convalescent homes for old ppl.
+Annotation from annotator: 2
+
+Example 4:
+Text: @Landailyn Happy Birthday young lady.
+Annotation from annotator: 4
+
+Example 5:
+Text: @MichaelMcNeill I thnk I'm getting old lol someone even told me I had bags under my eyes tonight *gasps in horror*  boss can pay 4 Botox
+Annotation from annotator: 2
+
+Example 6:
+Text: @TexasGirlSari back and better then ever was able 2 save all my old stuff and upgrade x10  wat out u partna
+Annotation from annotator: 2
+
+Example 7:
+Text: @adamconnor An old metal bed frame and a few lengths of strong rope
+Annotation from annotator: 2
+
+Example 8:
+Text: @dgfallon thank you  I'm absolutely exhausted. I didn't know graduating again meant I got instantly old haha
+Annotation from annotator: 3
+
+Example 9:
+Text: @dirklancer Oh, and we're still looking for the part for the hitch..  apparently it's a really old hitch that no one carries any more
+Annotation from annotator: 2
+
+Example 10:
+Text: @ionacosmetics Morning....happy birthday for tomorrow!  Bet you're not as old as I'm going to be next month
+Annotation from annotator: 4
+
+Example 11:
+Text: @jtimberlake love old polaroids! Weird we were just talking about that yesterday! I have a filter on photoshop that does the same too
+Annotation from annotator: 3
+
+Example 12:
+Text: @mrrogers23 GROUNDED! oh no thats shitty, I THINK the last time i got grounded was when i was like 14  shit im old! whatd u do
+Annotation from annotator: 0
+
+Example 13:
+Text: @origin05 people still wear jordan's outside of the gym? i must be old as snuck
+Annotation from annotator: 2
+
+Example 14:
+Text: @pocklock aww I can't say I'd miss the picnic but I definitely miss being antisocial with you and the old crew
+Annotation from annotator: 3
+
+Example 15:
+Text: @stamkohussy i like the new username, missing my old one
+Annotation from annotator: 3
+
+Example 16:
+Text: @tobelorone Wot u mean poor old naaarrrch? As a tractor boy its the best news this year!! I'm so happy
+Annotation from annotator: 4
+
+Example 17:
+Text: @weenick  Heh, it's good to go back and watch the oldies
+Annotation from annotator: 4
+
+Example 18:
+Text: Aw my dog is now 40years old(dog years) today  but let's just say 4years old
+Annotation from annotator: 2
+
+Example 19:
+Text: But, volunteer? Well, I have to turn down volunteer work. Everyone wants the "old lady" for that work! I find that annoying.
+Annotation from annotator: 1
+
+Target Example:
+Text: Green Day look so old
+Annotation from annotator:
+Your output should be a single integer and nothing else.

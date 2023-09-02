@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: @BRosenburg thank you for the follow back!
+Annotation from annotator: 0
+
+Example 2:
+Text: :) All to change the way our country thinks. HR 4310 2013 national defense act, section 1078 is the law that Barry Sotoero put into action.. makes propaganda (hoaxes) legal.
+Annotation from annotator: 1
+
+Example 3:
+Text: I pray about 6 times a day for sight for all who will see. There's nothing better to share.
+Annotation from annotator: 0
+
+Example 4:
+Text: #canada Cant do THAT anymore..  #Alberta #BritishColumbia  #west #edmonton mall pool, #Edmonton child snatching while bike riding with brother, 12 girls sexually assaulted in their dorm rooms all in one night in University #Quebec #Immigrants #refugees #Syrians
+Annotation from annotator: 1
+
+Example 5:
+Text: This violent, leftist POS had better be investigated for threats against POTUS. 
+Annotation from annotator: 1
+
+Example 6:
+Text: bitch, i thought you died a decade ago
+Annotation from annotator: 0
+
+Example 7:
+Text: Sure am... and also a blast from the past 
+Annotation from annotator: 0
+
+Example 8:
+Text: STILL WAITING for you Rex to prove your word-vomiting. 
+Annotation from annotator: 1
+
+Example 9:
+Text: An example for us all. #BritFam
+Annotation from annotator: 0
+
+Example 10:
+Text: Skype now fails to deliver many of my messages, have reports of messages to me not going through that I learn about via alternate channels as well. 
+Annotation from annotator: 1
+
+Example 11:
+Text: #WWE #Wrestlemania  
+Annotation from annotator: 0
+
+Example 12:
+Text: Let me show you why it's a bad Idea to trust new translations completely.Here's a passage from the King James.   But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus.
+Annotation from annotator: 0
+
+Example 13:
+Text: [QUESTION] I'm a mac user... External SSD Help? 
+Annotation from annotator: 0
+
+Example 14:
+Text: Iran: Regime Affiliated Institutions Create Problem for Producers 
+Annotation from annotator: 1
+
+Example 15:
+Text: hate? = truth about Jews??? if they only told the truth about themselves there would be no need for others to speak it...those who deny it are guilty of the blood of those killed as a result of the maliciousness of Jews....read Jesus..he knew his Jew like Henry Ford & was killed for it..
+Annotation from annotator: 1
+
+Example 16:
+Text: Why kind of rube uses a facemask?  
+Annotation from annotator: 0
+
+Example 17:
+Text: FBI Misses Another Mass Shooter, Middle East Heating Up, Banks Melting Down Again
+Annotation from annotator: 0
+
+Example 18:
+Text: Where are you on the political spectrum, Patrick?  Are you left, right, middle, liberal, conservative....?
+Annotation from annotator: 0
+
+Example 19:
+Text: Everyone has their own view points of history, albiet, many of them are warped or plain wrong(my view), but one thing I don't want on my feed is about Jews causing 9-11, and that there was no Holocaust.  
+Annotation from annotator: 1
+
+Example 20:
+Text: 2A - Gun Rights  
+Annotation from annotator: 1
+
+Example 21:
+Text: Is it any wonder we are being invaded by barbarians? It will take an uprising of men of a certain age because the young are hopeless and pussies
+Annotation from annotator: 1
+
+Example 22:
+Text: Between the smog and the smell of feces lining their streets, I don't think these people would know what fresh air is, much less our federal voting laws... 
+Annotation from annotator: 1
+
+Example 23:
+Text: Shytnutz, how are ya you piece of muslim shit? How's that camel piss working out for ya? You really should increase the amounts you consume on a daily basis and then inform us of the medicinal value. You like trolling women and talking internet cowboy shit to them huh? Lol.....you pathetic piece of shit. Troll me muthafucker. I LOVE GARBAGE.
+Annotation from annotator: 1
+
+Example 24:
+Text: #NJ #Mass #Shooting Doesn't Fit Narrative, Garners Little Attention. It's just American lives so they aren't as important as #illegal immigrants...right?   #News #Politics #MAGA #Trump #America #Democrats #Immigration 
+Annotation from annotator: 1
+
+Example 25:
+Text: Let them in not Muslims lick the left wants!
+Annotation from annotator: 1
+
+Example 26:
+Text: randomly administered mental health checks and drug tests for ANYONE paid with tax dollars. local , state, and federal...MAGA BABY!
+Annotation from annotator: 0
+
+Example 27:
+Text: I fought plenty of people but not any in awhile. You should always stand up for yourself.
+Annotation from annotator: 0
+
+Example 28:
+Text: Must not have been too secret if they're naming names in an article 🙄
+Annotation from annotator: 1
+
+Example 29:
+Text: Asian women are f...ugly.  Only old men and idiots marry Asian women.
+Annotation from annotator: 1
+
+Example 30:
+Text: I've seen that 'thing' before mate, and every time I see it I just soooo want to slap the living snot out of it.
+Annotation from annotator: 1
+
+Human-rated Examples:
+Example 1:
+Text: Two Syrian Woman Murdered in the UK… 
+Annotation from annotator: 0
+
+Example 2:
+Text: Fuck that guy anyways, he was a part of the Muslim brotherhood. Saudis did us a favor for once. 
+Annotation from annotator: 1
+
+Example 3:
+Text: White genocide is real, and it's here in America. Hate crime. 
+Annotation from annotator: 1
+
+Example 4:
+Text: OMG we can't trust that nigger Kanye West my fellow comrad... Errrr I mean white conservative Christian soldiers! It's a trick! - EVERY SINGLE SHAREBLUE SHILL
+Annotation from annotator: 1
+
+Example 5:
+Text: Senate Intel Committee Delivers Interview Invite to Assange!!! https://www.youtube.com/watch?v=FXjyaVeFQ08&t=383s
+Annotation from annotator: 0
+
+Example 6:
+Text: Day 21.1 Yet Another @Georgewebb on @McCabe Mafia Character Brought In The @Russia Drama https://youtu.be/NJD9z34Ghz4
+Annotation from annotator: 0
+
+Example 7:
+Text: You know nothing of breeding animals for domestication if you think that behavioral traits can’t be selected for and enhanced over generations due to selective breeding.  Google search “breeding dogs for desirable traits”.
+Annotation from annotator: 0
+
+Example 8:
+Text: Oh my,so 17 dead kids are a hoax,Perhaps FBI should check out the person that posted this...
+Annotation from annotator: 0
+
+Example 9:
+Text: AMAZING Donald Trump Biography Video Played at the RNC 
+Annotation from annotator: 0
+
+Example 10:
+Text: Saw & thought of you.  Don't know if true but no surprise to me.   Worth some reflection?
+Annotation from annotator: 1
+
+Example 11:
+Text: Life - It's About the Journey 
+Annotation from annotator: 0
+
+Example 12:
+Text: What do you expect from people who are fighting for the "right" to murder their children? moral decency? 
+Annotation from annotator: 1
+
+Example 13:
+Text: NARRATOR VOICE: 
+Annotation from annotator: 0
+
+Example 14:
+Text: He demands to know the truth, so he can cover it up with lies.
+Annotation from annotator: 1
+
+Example 15:
+Text: The Democrat Party has ONE MISSION - to destroy the USA and if YOU press the "D"ummy lever - you are helping... https://twitter.com/charliekirk11/status/1049789354984361984
+Annotation from annotator: 1
+
+Example 16:
+Text: Same old, same old: "Oh, the money, the money..." 
+Annotation from annotator: 1
+
+Example 17:
+Text: I can't say I would disagree with this too much. 
+Annotation from annotator: 0
+
+Example 18:
+Text: John 17:16 King James Version (KJV)
+Annotation from annotator: 0
+
+Example 19:
+Text: I obviously DO know what idolatry is. 
+Annotation from annotator: 0
+
+Example 20:
+Text: That article was hard as Fuck to read. It is littered with grammatical errors.
+Annotation from annotator: 0
+
+Example 21:
+Text: Taking the word of Sen.Durbin is like saying Ricin is toothpaste. NOT healthy. 
+Annotation from annotator: 1
+
+Example 22:
+Text: you forgot excessive oral deification
+Annotation from annotator: 1
+
+Example 23:
+Text: Lemme guess:  If Ms. Rubin were on CNN, there'd be a descriptor underneath her talking-head as a "Republican Strategist?"
+Annotation from annotator: 1
+
+Example 24:
+Text: 12 D Chess anyone ?
+Annotation from annotator: 0
+
+Example 25:
+Text: i just got the word that a school shooting has happened yesterday morning in Maryland. may god bless the victims and may god damn thw leftist media for refusing to talk about it simply for the fact that a police officer prevented more victims. that police officer deserves recognition as a hero.
+Annotation from annotator: 0
+
+Example 26:
+Text: You have officially been jewed.
+Annotation from annotator: 1
+
+Example 27:
+Text: It's probably on my top 3 biggest complaints of Gab so far.  Site claiming and wanting a free speech platform.  Installs gamification of said free speech that'll favor whichever side is simply more popular / has higher user-base.
+Annotation from annotator: 0
+
+Example 28:
+Text: If Brett Kavanaugh covered up the murder of Vince Foster, then Trump is as bad as Hillary. Who knew? 
+Annotation from annotator: 1
+
+Example 29:
+Text: I'm identifying as 10 years younger and I dare anybody tell me otherwise. 
+Annotation from annotator: 0
+
+Example 30:
+Text: Not saying its likely in near term... just that its possible, and should not be ignored.  Just like earthquake in Memphis TN 
+Annotation from annotator: 0
+
+Target Example:
+Text: Can't wait to see that Monday.
+Annotation from annotator:

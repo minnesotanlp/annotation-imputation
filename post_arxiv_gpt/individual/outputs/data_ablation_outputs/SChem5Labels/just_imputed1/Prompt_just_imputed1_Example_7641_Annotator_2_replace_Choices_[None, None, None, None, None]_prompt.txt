@@ -1,0 +1,122 @@
+Example 1:
+Text: It's bad to intentionally harm others.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's rude to judge people based on superficial characteristics like height.
+Annotation from annotator: 2
+
+Example 3:
+Text: You should always help out your family when they need it.
+Annotation from annotator: 3
+
+Example 4:
+Text: You should always clean your room.
+Annotation from annotator: 2
+
+Example 5:
+Text: You should obey your parents.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's fine to be apprehensive before an interview.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's wrong to joke about suicide.
+Annotation from annotator: 4
+
+Example 8:
+Text: It is wise to do your school work.
+Annotation from annotator: 4
+
+Example 9:
+Text: You shouldn't get involved in family drama if you can help it.
+Annotation from annotator: 3
+
+Example 10:
+Text: You don't have to greet anyone that you don't want to.
+Annotation from annotator: 2
+
+Example 11:
+Text: You shouldn't see sad movies if you don't like them.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's understandable to want to spend holidays with family.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's understandable to be angry if your significant other didn't do something for you on a special day.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's okay to expect people no matter who they are to obey the law.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's bad to make patrons of a business feel unwelcome.
+Annotation from annotator: 4
+
+Example 16:
+Text: It is good to stop eating subway if it ruins your life.
+Annotation from annotator: 3
+
+Example 17:
+Text: You shouldn't take part in competitions if you don't feel well.
+Annotation from annotator: 2
+
+Example 18:
+Text: You should remove channels you don't watch from your cable package.
+Annotation from annotator: 3
+
+Example 19:
+Text: People should carry insurance in case they get into an accident.
+Annotation from annotator: 4
+
+Example 20:
+Text: You shouldn't dig up someone's awful past.
+Annotation from annotator: 2
+
+Example 21:
+Text: It is good to be creative.
+Annotation from annotator: 2
+
+Example 22:
+Text: You shouldn't exclude your child from a family photo.
+Annotation from annotator: 3
+
+Example 23:
+Text: You should ask for help if you're depressed
+Annotation from annotator: 2
+
+Example 24:
+Text: It is okay to expect neighbors to be respectful
+Annotation from annotator: 3
+
+Example 25:
+Text: It's normal to dislike conflict.
+Annotation from annotator: 3
+
+Example 26:
+Text: Families should support each other.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's expected that you get a marriage license when you get married.
+Annotation from annotator: 4
+
+Example 28:
+Text: It is wrong to insult others.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's fine to ask your roommate for a favor.
+Annotation from annotator: 2
+
+Example 30:
+Text: People should treat each other as equals.
+Annotation from annotator: 3
+
+Text: It's good to want someone to do their best.
+Annotation from annotator:

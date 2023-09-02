@@ -1,0 +1,122 @@
+Example 1:
+Text: It is normal to be upset if someone is stealing copy paper at your school.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is good to be with someone you love.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's good to give money to people if you want them to be on your sports team.
+Annotation from annotator: 2
+
+Example 4:
+Text: It is impolite to cuddle at the dinner table.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's okay to not want people to call you during certain times of the day.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to be happy about having something done.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's unhealthy to depend on validation from others
+Annotation from annotator: 3
+
+Example 8:
+Text: It's not okay to start an argument over a person's fear.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's good to conserve water by flushing the toilet less often.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is wrong to be excited about harming others.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's important to be alert while driving.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's mean to draw on someone when they are asleep.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's good to be respectful during a breakup.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is reasonable to be upset if your son's girlfriend withholds information about him.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's not polite to brag about beating somebody in a game
+Annotation from annotator: 3
+
+Example 16:
+Text: It's okay to limit your use of social media.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's good to do things that are different than the norm.
+Annotation from annotator: 2
+
+Example 18:
+Text: You shouldn't take advantage of people.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is expected that best friends won't date another persons ex.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's bad to have a potty mouth.
+Annotation from annotator: 2
+
+Example 21:
+Text: It is normal for parents to want to help their children
+Annotation from annotator: 3
+
+Example 22:
+Text: One should be communicative with their loved ones.
+Annotation from annotator: 3
+
+Example 23:
+Text: Is thrifty to cook the animal you've accidentally killed
+Annotation from annotator: 2
+
+Example 24:
+Text: It's expected that you look presentable at a funeral.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's fine to confess your love to your crush.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is expected that people will stop eating subway if it has ruined their life.
+Annotation from annotator: 3
+
+Example 27:
+Text: People will think you're incompetent if you still live with your parents as an adult.
+Annotation from annotator: 3
+
+Example 28:
+Text: One should always read the fine print in a deal.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's understandable to want to have a good time at an event.
+Annotation from annotator: 3
+
+Example 30:
+Text: When you have sex with someone, it's rude to kick them out immediately after.
+Annotation from annotator: 3
+
+Text: It's expected that suicidal people will seek treatment from a medical professional.
+Annotation from annotator:

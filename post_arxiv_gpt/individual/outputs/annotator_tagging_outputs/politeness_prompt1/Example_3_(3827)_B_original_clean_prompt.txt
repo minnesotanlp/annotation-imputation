@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Any more of this hoax crap at <url>, <url>, Eyre/Heller garbage, and you will be '''''permanently''''' banned from editing.  Is that clear?
+Annotation from annotator: 4.0
+
+Example 2:
+Text: Title says it all.<url> I dont have time to put up a page... but might I suggest <url>?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: Good shot of Danica's car qualifying at Japan. Were you able to see her win the race?
+Annotation from annotator: 20.0
+
+Example 4:
+Text: Hey Nick, thanks for writing the book reviews! Would you like me to run one or both of them?
+Annotation from annotator: 24.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Ack, hit the wrong button?  How do you manage that?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: Thanks--can you add the romanization of the Arabic at <url> too? Is it ''jibna baladi''?
+Annotation from annotator: 20.0
+
+Example 3:
+Text: Rod, this guy's ( <url>) talk page as well as the history of vandalism to the <url> page seems to indicate that he's the main perpetrator. Is there some way to ban one particular user from editing a page, based on repeat incidents of vandalism to that page?
+Annotation from annotator: 14.0
+
+Example 4:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation from annotator: 10.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Respectfully, you've replied to the message below mine a day ago now. Could you provide guidance for my request please?
+Annotation from annotator: 16.0
+
+Example 2:
+Text: I would advise against creating seperate articles for individual characters and stick to the list. Is this what you'd expect a typical encyclopedia to be covering?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: I don't want to be your enemy. What can I do to help this situation?
+Annotation from annotator: 20.0
+
+Example 4:
+Text: I see your point, but my real issue was wanting to add the 'too much trivia' tag as all these 'minor aspects' need to be integrated into the relevant sections (I'll have a go myself if I get time). Isn't it possible to create a 'pop culture references' section and then siphon it off into a separate page when it gets too big?
+Annotation from annotator: 16.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: How can I join, by the way?  And is there a Welcoming Comittee userbox?
+Annotation from annotator:

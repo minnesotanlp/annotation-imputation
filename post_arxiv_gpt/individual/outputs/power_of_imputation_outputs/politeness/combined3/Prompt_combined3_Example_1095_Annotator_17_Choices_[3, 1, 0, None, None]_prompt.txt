@@ -1,0 +1,173 @@
+Imputed Examples:
+Example 1:
+Text: Do you really believe that your photograph at the top of the <url> is better than my photograph which you removed? Should Wikipedia have a dedicated sunrise article that does not feature even one single decent image of a red sky?
+Annotation from annotator: 6
+
+Example 2:
+Text: I was really unsure on what to do with <url> so I made it into a dab. That ok?
+Annotation from annotator: 14
+
+Example 3:
+Text: you need a copy, you say... by that you mean a translation, or one which has been reconstructed to meet en. wiki coding?
+Annotation from annotator: 9
+
+Example 4:
+Text: Again, what would be the point of redirection? Who on earth is going to fall on the redirect first?
+Annotation from annotator: 7
+
+Example 5:
+Text: Hi, although I agree with you, please check the following <url> in process. Why can't the darn thing work, in the first place?
+Annotation from annotator: 7
+
+Example 6:
+Text: I was wondering where you got your information for the dice statistics you recently added/changed in <url>.  Can you add a source to those tables?
+Annotation from annotator: 16
+
+Example 7:
+Text: Hi.  Why did you blank the redirect at <url>?
+Annotation from annotator: 10
+
+Example 8:
+Text: Hmm...I was not aware that a year had to pass for ''anyone'' to request an appeal for Everyking. Prior to today, when did they ever say this?
+Annotation from annotator: 10
+
+Example 9:
+Text: Agreed. Why do we even waste our time discussing afd's, if consensus has no bearing on the result?
+Annotation from annotator: 12
+
+Example 10:
+Text: That's basically what our members have said, not necessarily my opinion. Anything I miss?
+Annotation from annotator: 9
+
+Example 11:
+Text: Could you please explain to me what the buttons do? How do you "Not accept" a change, that's what...you revert it, don't you...?
+Annotation from annotator: 10
+
+Example 12:
+Text: There's enough subtlety on some of the variants that I will need help from an expert. Might you?
+Annotation from annotator: 10
+
+Example 13:
+Text: Nice to see you editing in article space! We have been chipping away at your compiled OBI list - can you believe it's almost done?
+Annotation from annotator: 17
+
+Example 14:
+Text: BTW, I'm not certain that Queen Victoria can be described as being the Founder without being somewhat misleading. What do you think?
+Annotation from annotator: 13
+
+Example 15:
+Text: Thanks, was getting worried there for a moment. Have you though of asking Outriggr for a hand with <url>?
+Annotation from annotator: 15
+
+Example 16:
+Text: Yeah, and it will still have been the third to pass the full bit string tests, instead of just the byte tests. :)   What's the significance of 2042?
+Annotation from annotator: 13
+
+Example 17:
+Text: It turns out that the Zelda Collection you referred to in <url> didn't include aLttP, reportedly because the GBA remake was still being sold at that time, so that disc included NES and N64 emulation but left out SNES. Do you have another example?
+Annotation from annotator: 12
+
+Example 18:
+Text: I don't know why claim that you reverted vandalism (rv edit summary) when to me they appeared to be good faith edits. What exactly was the vandalism?
+Annotation from annotator: 9
+
+Example 19:
+Text: Excuse me? What are you accusing me of doing?
+Annotation from annotator: 5
+
+Example 20:
+Text: Just saw your message on <url>. Shall I carry on the review, or shall I wait for a cue from your side when you're ready to carry on?
+Annotation from annotator: 14
+
+Example 21:
+Text: To me these two bits of TeX look identical after they're rendered.  Can you explain the advantage of the latter format (since you've made a point of changing from the first to the second form in some articles)?
+Annotation from annotator: 9
+
+Example 22:
+Text: <url> needs urdu script for the name of the subject (Bangla script has already been added). Can you help?
+Annotation from annotator: 11
+
+Example 23:
+Text: <url>. Congrats, or should I say good luck?
+Annotation from annotator: 15
+
+Example 24:
+Text: Many people have mentioned this mythical facillity - I've never found it, and assumed it was only available to sysops, which I am not. Is this the case?
+Annotation from annotator: 9
+
+Example 25:
+Text: Sure, but what's the deal with fair use and cropping?  I thought the Zatanna one got removed?
+Annotation from annotator: 10
+
+Example 26:
+Text: Thank you for removing the "Speedy Deletion" from my post. I realise that I still need to do more work on the post itself, but are the sources that I am using acceptable?
+Annotation from annotator: 17
+
+Example 27:
+Text: Question: how do we move the content from the existing page to the new page?  How do we reference the space to the new page?
+Annotation from annotator: 10
+
+Example 28:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 14
+
+Example 29:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 9
+
+Example 30:
+Text: Checkuser shows the three users share an ip from time to time. How serious is the problem?
+Annotation from annotator: 10
+
+Human-rated Examples: (there may not be any)
+Example 1:
+Text: ...cause I feel like a petulant kid, posting it. But: "We have three volunteers: Awadewit, Mike Christie and Wrad." Given that I, you know, proposed the countries idea, wasn't it obvious that I was volunteering?
+Annotation from annotator: 20
+
+Example 2:
+Text: Upon further thought, maybe I could look through lists of deleted articles to see if any interest me and see if I can bring them back (with adequate sourcing). Do you know anything about that process?
+Annotation from annotator: 20
+
+Example 3:
+Text: I don't think we know each other. Is there any matter you need help with?
+Annotation from annotator: 20
+
+Example 4:
+Text: "Redirecting is blanking" would be more accurate. Or maybe "redirecting is redirecting"?
+Annotation from annotator: 8
+
+Example 5:
+Text: <url> has been promoted to A-class. Shouldn't that score?
+Annotation from annotator: 4
+
+Example 6:
+Text: Many thanks. I'm afraid I don't know the reel - is it played in your part or the world?
+Annotation from annotator: 23
+
+Example 7:
+Text: They all used to be dabs that linked to other dabs which are now housed in the pages I moved them to, so I don't think there's too a need to restore them. Also, I eliminated the "4th of July (song)" redirect as there was only one page linking to it; no use for a redirect if nobody is going to it, right?
+Annotation from annotator: 12
+
+Example 8:
+Text: I know you moved the section about the  theme park because someone complained it did not belong in 'fandom', but i'm not convinced that was correct. exactly what sort of people go to such a place if not fans?
+Annotation from annotator: 17
+
+Example 9:
+Text: I've started looking at this article as you asked and inevitably I've got a few questions. Would you prefer me to list them here or on the article's talk page?
+Annotation from annotator: 19
+
+Example 10:
+Text: It looks like those news sources are all poker blogs.   Are there any that meet <url>?
+Annotation from annotator: 4
+
+Example 11:
+Text: I have it now; it lists 22 Members, seven officers and a large number of sons of Members. Do you think we could run to a new article, say <url>?
+Annotation from annotator: 20
+
+Example 12:
+Text: Not really sure what the remedy is for this, but anyway, now you know. How was your weekend?
+Annotation from annotator: 0
+
+Target Example:
+Text: Quite welcome. Doesn't Huggle use rollback when available and applicable (last several edits were by the same user)?
+Annotation from annotator:

@@ -1,0 +1,123 @@
+Example 1:
+Text: I asked my friend for a few spare condom packets, and he ended up poking some without my knowledge Well, jokes on him because a few weeks later he found out his 13 year old sister was pregnant.
+Annotation from annotator: 2
+
+Example 2:
+Text: 10:26 CEST: Temperature: 8.0°C, Wind: WNW, 10 kph (ave), 17 kph (gust), Humidity: 63%, Rain (hourly) 0.0 mm, Pressure: 1012 hPa, rising slow
+Annotation from annotator: 0
+
+Example 3:
+Text: its always funny to see when shorties get in a new relationship &amp; they be cute with they new man but like my nigga she did everything wit me
+Annotation from annotator: 2
+
+Example 4:
+Text: I Need Hope
+Please post pictures of great before and after plastic surgery transformations of men
+Annotation from annotator: 0
+
+Example 5:
+Text: how do you turn a fruit into a vegetable ? aids <allcaps>
+Annotation from annotator: 2
+
+Example 6:
+Text: I have no doubt Los Angeles is a cess pool .
+Annotation from annotator: 2
+
+Example 7:
+Text: I'm torn between severely excited and severely depressed for the #BigLittleLies finale tonight. I don't want it to be done! &#128555;
+Annotation from annotator: 0
+
+Example 8:
+Text: Why weren't there any black people in the Flintstones They were still apes
+Annotation from annotator: 2
+
+Example 9:
+Text: Would it make you feel any better if I massaged your breasts?
+Annotation from annotator: 2
+
+Example 10:
+Text: At a high school graduation for my younger sibling I bumped into a couple of my teachers from a few years ago. It has been 5 years since I graduated. Teacher:: It is great to see you, how are you doing? Me:: I'm doing fantastic, couldn't be happier. Teacher:: What have you been up to? Me:: I'm married with two kids, a two year old and one month old. I stay at home and I love it. Being there for them has been wonderful. Teacher:: *shocked look* Oh...I just thought you would have done more. You were so smart in school.
+Annotation from annotator: 2
+
+Example 11:
+Text: Idc if I don't sleep I'm acing this mother fucking midterm
+Annotation from annotator: 0
+
+Example 12:
+Text: JON SNOW IS THE FUCKING KING IN THE NORTH AND YOU WILL RESPECT THAT
+Annotation from annotator: 0
+
+Example 13:
+Text: Typical female "foreveralone" This is absolutely insulting to incels like myself
+Annotation from annotator: 1
+
+Example 14:
+Text: "@PWScorecards gonna try these out for the weekend can't wait they look like fun. do you put ""friendly wagers"" on top scores or anything?"
+Annotation from annotator: 0
+
+Example 15:
+Text: She feelin a young niggah
+Annotation from annotator: 2
+
+Example 16:
+Text: All I want for my birthday is a big booty hoe.
+Annotation from annotator: 2
+
+Example 17:
+Text: It aint nuffin to cut that bitch off!!!!
+Annotation from annotator: 2
+
+Example 18:
+Text: An Algerian, a Zimbabwean and a Romanian are in a car. Who's driving? A cop.
+Annotation from annotator: 2
+
+Example 19:
+Text: Has anybody here with recessed maxillas/mandibles done double jaw (bimax) surgery?
+Annotation from annotator: 0
+
+Example 20:
+Text: LOL, ballot box stuffing, Dallas County style.  
+Annotation from annotator: 1
+
+Example 21:
+Text: We need to stop making fun of black peoples intelligence. I mean some of them have learned how to use sticks to dig up ants out of the dirt.
+Annotation from annotator: 2
+
+Example 22:
+Text: Congrats to Mac Miller its your 5th day sober
+Annotation from annotator: 1
+
+Example 23:
+Text: I like my bitches bad wit a Lil attitude
+Annotation from annotator: 1
+
+Example 24:
+Text: Y'know what? I need a night off. Running way to make popcorn and catch up on @GirlsHBO :)
+Annotation from annotator: 0
+
+Example 25:
+Text: Statute of limitations for reporting possible golf violations should be considered. Rules say when competition is closed. Revisit that!
+Annotation from annotator: 0
+
+Example 26:
+Text: What's the difference between a Jew and a boyscout A boyscout comes home from camp
+Annotation from annotator: 2
+
+Example 27:
+Text: A machine was climbed to the beach in the initial government, which had been recovered from earthquake 1 had only stormed.
+Annotation from annotator: 0
+
+Example 28:
+Text: "@Ian_Barnard watching you CREATE (to say ""write"" is like saying Warhol aww !) is like porn for me!!! Lol!"
+Annotation from annotator: 0
+
+Example 29:
+Text: "@JustAShiftyFox ""I love you."" She turned her hand to hold his, beginning to eat, slowly. Judy occasionally glanced up at him while she ate."
+Annotation from annotator: 0
+
+Example 30:
+Text: i was shocked when my wife gave birth and the baby was black . <repeat> is there anything a woman ca n't burn ?
+Annotation from annotator: 2
+
+Text: Even when the rest of the world has daggers ready to strike at your heart , you still show them kindness ..
+Annotation from annotator:

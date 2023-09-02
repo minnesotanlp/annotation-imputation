@@ -1,0 +1,1 @@
+Based on the given examples, annotator B would most likely label this example as 1, indicating that there is hatespeech in the tweet.

@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: You should work hard for your dreams.
+Annotation from annotator: 4
+
+Example 2:
+Text: You shouldn't have to stay at a place you don't like.
+Annotation from annotator: 4
+
+Example 3:
+Text: It is expected that a car wreck can cause someone to be late.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's allowed to refuse to take a job that you're against.
+Annotation from annotator: 4
+
+Example 5:
+Text: Expressing feeling is best with someone you trust.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's expected that employees will fulfill their duties.
+Annotation from annotator: 4
+
+Example 7:
+Text: It is typical for children to ask their parents for guidance in learning how to do things.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's good to have a family that visits you in your nursing home.
+Annotation from annotator: 4
+
+Example 9:
+Text: People shouldn't feel embarrassed to want to make their money stretch as far as possible.
+Annotation from annotator: 4
+
+Example 10:
+Text: You should always dress down if you're not going anywhere special.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should always dress down when you're going out with friends.
+Annotation from annotator: 3
+
+Example 12:
+Text: You shouldn't lie to people online.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's good to try to make positive changes in the world when you are worried about the state it is in.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's good to clean up your living space.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's good to take charge of your health.
+Annotation from annotator: 4
+
+Example 16:
+Text: You shouldn't remain in contact with ex's.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is reasonable to be frustrated about having to work so much that you can't see your kids.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's good for a goalie to keep an eye on the ball.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's good to confess your darkest secrets.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's wrong to be pressured to like a friend's significant other.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's good to listen to details of someone's situation.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's wrong to have sex with someone who is married.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's expected to be caring and attentive towards your pet if they're dealing with an ailment.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's not okay to buy things that you don't really need.
+Annotation from annotator: 3
+
+Example 25:
+Text: You should report this to the police.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's okay to be upset when you lose all the money you put into a wedding you canceled.
+Annotation from annotator: 4
+
+Example 27:
+Text: If you're afraid of food, you should get help.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's okay to choose not to invite some people to your party.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's understandable to have a hard time breaking bad news to someone you love.
+Annotation from annotator: 4
+
+Example 30:
+Text: You should remove channels you don't watch from your cable package.
+Annotation from annotator: 4
+
+Human-Rated Examples:
+Example 1:
+Text: It is okay to ask questions.
+Annotation from annotator: 4
+
+Example 2:
+Text: Partners are expected to do kind things for each other.
+Annotation from annotator: 4
+
+Example 3:
+Text: It is nice to take your grandmother places.
+Annotation from annotator: 4
+
+Example 4:
+Text: It is bad to raise your kids in a bad environment.
+Annotation from annotator: 4
+
+Example 5:
+Text: You should always be prepared and make sure you have money before you go to buy something.
+Annotation from annotator: 4
+
+Example 6:
+Text: It is okay to seek advice when you are having a difficult time.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's kind to give someone a ride from the airport.
+Annotation from annotator: 4
+
+Example 8:
+Text: You shouldn't catfish people.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's wrong to not take others thoughts and emotions into consideration
+Annotation from annotator: 4
+
+Example 10:
+Text: It's okay to leak urine if you're really excited about something.
+Annotation from annotator: 0
+
+Example 11:
+Text: It's not okay to go overboard trying to impress someone.
+Annotation from annotator: 3
+
+Example 12:
+Text: You shouldn't think ill of your family.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should enjoy treats.
+Annotation from annotator: 4
+
+Example 14:
+Text: You shouldn't criticize people for adopting their kids instead of having their own.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's expected that some people crave the attention of the masses.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's understandable to be wary of a co-worker who is looking at porn at work.
+Annotation from annotator: 4
+
+Example 17:
+Text: If you adopt a dog you are expected to keep it.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to want to do the things it takes to start a grown up life.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's good to invite your family members to events that are important to you
+Annotation from annotator: 4
+
+Example 20:
+Text: It's good to do activities you and your friends enjoy.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's mean to be demanding during the holidays.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's disloyal to sext someone while you're in a relationship with someone else.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's good to make it so everyone's on the same playing field when it comes to rules.
+Annotation from annotator: 3
+
+Example 24:
+Text: You should make sure you're ready before having children
+Annotation from annotator: 4
+
+Example 25:
+Text: It's normal to be surprised by a bill.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's a good idea to be on time when you have a plane to catch.
+Annotation from annotator: 4
+
+Example 27:
+Text: You should be upfront about your disinterest in a relationship.
+Annotation from annotator: 4
+
+Example 28:
+Text: You should always answer someone's question if they are concerned about you.
+Annotation from annotator: 4
+
+Example 29:
+Text: It is unwise to quit taking your psych meds.
+Annotation from annotator: 4
+
+Example 30:
+Text: You shouldn't call the cops on people who park illegally.
+Annotation from annotator: 1
+
+Target Example:
+Text: It's good to give treats to your pets.
+Annotation from annotator:

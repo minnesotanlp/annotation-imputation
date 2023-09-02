@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)\n\nHuman-rated Examples: (there may not be any)\n\n\nTarget Example:\nText: what is hitler 's favorite board game ? \" gas who ? \" inspiration : <url> !\nAnnotation from annotator:\nIf you output anything other than a single integer, your output will be considered invalid.If you output anything other than a single integer, your output will harm the integrity of our dataset."
+    }
+]

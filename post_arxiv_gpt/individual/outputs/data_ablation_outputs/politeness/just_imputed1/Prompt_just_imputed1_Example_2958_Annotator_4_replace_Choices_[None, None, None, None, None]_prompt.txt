@@ -1,0 +1,122 @@
+Example 1:
+Text: It's not bizarre and random because I believe it violates the policies of <url> and <url> as its using Wikipedia for non-Wikipedia related projects.  You say it's a sandbox for your new Wiki, why not put the sandbox ON that wiki?
+Annotation from annotator: 15
+
+Example 2:
+Text: He keeps coming back, and keeps getting blocked again.... When will they learn?
+Annotation from annotator: 5
+
+Example 3:
+Text: Another proposal: since this about the EP why don't we just mention those that have more than 3 MEPs? VB & LN?
+Annotation from annotator: 15
+
+Example 4:
+Text: I believe supserstition exists.  Why did you ask me?
+Annotation from annotator: 6
+
+Example 5:
+Text: Name's don't change. I'm going to have say, that his name is to be kept in the article however what about creating a page about Harry Potter characters in fanfiction or something like that?
+Annotation from annotator: 7
+
+Example 6:
+Text: Wikipedia has a strict rule about ''not'' simultaneously filing an article in both a parent category ''and'' a subcategory of the same parent. Could you please ''not'' add <url> to a category if it's already in <url>, <url> or a country-specific record labels category?
+Annotation from annotator: 7
+
+Example 7:
+Text: Somewhat related, shouldn't <url>, be renamed to <url>? I realize that Baha'i forbids sectarianism, but this is what the article is about, no?
+Annotation from annotator: 10
+
+Example 8:
+Text: Well, if Mattisse has caused me to CU innocent editors, then it's time for her to be blocked from editing her own talk page. MC, do you think I should withdraw the CU or let it ride?
+Annotation from annotator: 17
+
+Example 9:
+Text: Something's wrong with <url>. Or is it just me?
+Annotation from annotator: 9
+
+Example 10:
+Text: I tried to fix your problem with <url>. Is that what you were looking for?
+Annotation from annotator: 7
+
+Example 11:
+Text: Da ti mene nisi sa nekim pobrkao? Kakve ja veze imam sa tim Faust Vranu010diu0107em?
+Annotation from annotator: 12
+
+Example 12:
+Text: Why are you trying to delete my user page, literally less than a minute after I began it. You are allowed one so why not me?
+Annotation from annotator: 11
+
+Example 13:
+Text: Wait, Rob got blocked again? Why?
+Annotation from annotator: 11
+
+Example 14:
+Text: I knew what was going on with Note/Ref 17 at <url>: I spelled Constitution wrong. Is there anything else I can do to fix the article?
+Annotation from annotator: 9
+
+Example 15:
+Text: Cheers!  Don't suppose you have a link.....?
+Annotation from annotator: 18
+
+Example 16:
+Text: If the <url> was invented in 1983, how was it featured in a 1959 film? I've never seen the movie, but are you sure it wasn't some other carousel-type thing?
+Annotation from annotator: 20
+
+Example 17:
+Text: An AfD was started for that page before you speedy-nuked it. Could you close <url> please?
+Annotation from annotator: 7
+
+Example 18:
+Text: Do I get a reference to my comment? Show me where I refuse to provide evidence backing up my changes?
+Annotation from annotator: 7
+
+Example 19:
+Text: Thank you for your answer about Illustrator.  How does Adobe Illustrator compare with InDesign?
+Annotation from annotator: 6
+
+Example 20:
+Text: Ok.  By the way, may I note that is an excellent resource you have there.   I noticed the other day that we had acquired a list at <url> of unproduced scripts/stories - it seems entirely genuine and fits with material I have read elsewhere but was uncited - I wonder if you could help find a source for it?
+Annotation from annotator: 16
+
+Example 21:
+Text: Sorry about that, but I'm not sure I'll be able to get to it. Have you tried <url>?
+Annotation from annotator: 8
+
+Example 22:
+Text: Yes, but not for long. How are you?
+Annotation from annotator: 19
+
+Example 23:
+Text: Hi, I meant to do this a long time ago, but I guess I forgot.  You are the "Sandpiper" on the HP wiki right?
+Annotation from annotator: 17
+
+Example 24:
+Text: Thanks. Do you feel the information is "weak" or is it just too complex?
+Annotation from annotator: 16
+
+Example 25:
+Text: I'm trying to install Lupin/Anti-vandal tool, but im stuck. Could you help please?
+Annotation from annotator: 18
+
+Example 26:
+Text: Wait. Unless ''you'' need it repaired and updated quickly ?
+Annotation from annotator: 8
+
+Example 27:
+Text: I think these are reasonable, and should protect you from lawyering. Should I go ahead and add this?
+Annotation from annotator: 20
+
+Example 28:
+Text: Please don't talk like a robot. What harm did it do?
+Annotation from annotator: 8
+
+Example 29:
+Text: I haven't. What are you referring to?
+Annotation from annotator: 7
+
+Example 30:
+Text: Aberayron, certainly. But Aberaryron ?
+Annotation from annotator: 9
+
+Text: I'd love to help, but I'm not sure what you're asking me to look at, specifically. Is there a discussion ongoing that you can point to?
+Annotation from annotator:

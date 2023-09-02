@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Very nice. How could I doubt you?
+Annotation from annotator: 15
+
+Example 2:
+Text: Thanks for your reply. You are, I take it, aware that you can be blocked for disruptive editing?
+Annotation from annotator: 12
+
+Example 3:
+Text: In my opinion that would be more constructive way to approach the solution. What do you think?
+Annotation from annotator: 16
+
+Example 4:
+Text: Your block of the <url> article came immediately after three edits that blanked sourced content without any explanation. These edits were unrelated to the edit war that got the article blocked, so could you please to restore the content?
+Annotation from annotator: 10
+
+Example 5:
+Text: Thanks for your help with <url>. I've responded to your comments - could you please take a look and let me know if you are content now?
+Annotation from annotator: 15
+
+Example 6:
+Text: Hello, csloat. What is your response to my suggestion <url>?
+Annotation from annotator: 13
+
+Example 7:
+Text: I really like the template you used at <url> but it dosen't seem to exist on the  WP:Vandalism page. Where can I grab it?
+Annotation from annotator: 16
+
+Example 8:
+Text: Since this person made a sincere attempt to discuss the page, and the page in his opinion was relevent, you can remove this warning from his talk page? In the spirit of <url>, perhaps?
+Annotation from annotator: 15
+
+Example 9:
+Text: Ok, that's no problem. Can you recommend any other users who would be able to train me?
+Annotation from annotator: 17
+
+Example 10:
+Text: I don't think so, Giano. Can we just once attempt to let this pass by without calling for the heads of people?
+Annotation from annotator: 7
+
+Example 11:
+Text: Wait, I thought algorithms were named for <url>???
+Annotation from annotator: 11
+
+Example 12:
+Text: You use the abbreviation WPMOS on your request on the Graphic Map Lab <url>. What does it mean?
+Annotation from annotator: 12
+
+Example 13:
+Text: Looking through the dicussions on the DRM Talk page, I'm failing to find the point where consensus was reached.  Would you mind pointing it out to me?
+Annotation from annotator: 16
+
+Example 14:
+Text: Although I have no detailed knowledge of the matter, it's my understanding that the BIOS source code appeared in the "purple book" that IBM provided to other companies under NDA. Did IBM publish it more openly than that?
+Annotation from annotator: 15
+
+Example 15:
+Text: Hey, I am curious as to why you made <url> on the Blink-182 page.  Any specific reason?
+Annotation from annotator: 11
+
+Example 16:
+Text: This photo is part of a series of shots of my boat taken on my camera, for me, by someone (I didn't know who pressed the button) on the chase boat. Suggestions?
+Annotation from annotator: 13
+
+Example 17:
+Text: Thanks, but I've already read those essays.  Did you have anything to say yourself, personally?
+Annotation from annotator: 9
+
+Example 18:
+Text: I understand your point about MJ being very close and having competent editors, but do you not think those of us who understand the source problems, etc. that the Reagan page is having should try and explain them to those editors (that is, try to educate them)?
+Annotation from annotator: 10
+
+Example 19:
+Text: I'm trying to install Lupin/Anti-vandal tool, but im stuck. Could you help please?
+Annotation from annotator: 15
+
+Example 20:
+Text: Yeah, I saw the French logo on the top of the page... I couldn't find any better versions of that logo, but the English one should suffice, right?
+Annotation from annotator: 14
+
+Example 21:
+Text: Hm. Are you asking to be banned?
+Annotation from annotator: 6
+
+Example 22:
+Text: Okay. But in that case, shouldn't the meanings "of" and "from" from some languages be removed from the article as well?
+Annotation from annotator: 11
+
+Example 23:
+Text: Should I move it myself, or would you like me to walk you thru it? Have you read <url>?
+Annotation from annotator: 13
+
+Example 24:
+Text: yeah that's what I mean. how do i get the .ogg file from Audacity into the actual article?
+Annotation from annotator: 14
+
+Example 25:
+Text: Hm. Am I imagining things, or does <url> seem familiar?
+Annotation from annotator: 13
+
+Example 26:
+Text: if you think "Sheffer Stroke" is less common than "Logical NAND"??
+Annotation from annotator: 13
+
+Example 27:
+Text: Currently, <url> is a subcategory of <url>. What would you suggest doing about this?
+Annotation from annotator: 17
+
+Example 28:
+Text: Also perhaps we should set up a subpage for these discussions, so we'll have the thread completely on one page?  What do you think?
+Annotation from annotator: 16
+
+Example 29:
+Text: See <url>. Are <url> and <url> the same team?
+Annotation from annotator: 11
+
+Example 30:
+Text: Thanks for adding the bold title and the 2 categories, but can you please explain your thoughts on the tone? I mean, can you give me a specific part or just the whole article?
+Annotation from annotator: 15
+
+Human-rated Examples:
+Example 1:
+Text: Greetings, the Province of Alberta, through legislation, has designated a future highway that has an alignment and an assigned number, but has yet to be constructed. Is it premature to create an article on such a highway?
+Annotation from annotator: 12
+
+Example 2:
+Text: Hello. Regarding <url>, could you tell me what supports this being a free image?
+Annotation from annotator: 16
+
+Example 3:
+Text: The text of your warning <url> made me smile. Did you really think that if China got a new Prime Minister as of today, and a female one at that, it wouldn't be all over the news, and the link to this person would be red?
+Annotation from annotator: 4
+
+Example 4:
+Text: -- Bit confused by your DYK nom.  Surely the world's first gasoline automobile was created by <url> four years earlier?
+Annotation from annotator: 8
+
+Example 5:
+Text: Nice work.  :)  Got anything for <url> or <url>?
+Annotation from annotator: 12
+
+Example 6:
+Text: I see you've created <url> which I think is great. Would you be able to add the template to the top of the category page, as per its parent <url>, so people can paste it to the top of Talk pages?
+Annotation from annotator: 20
+
+Example 7:
+Text: Hi, do you have a nationality for ''Belpamela''? If so, would you add the relevant flag?
+Annotation from annotator: 16
+
+Example 8:
+Text: GorillaWarfare- I don't know if you saw my reply on my talk page. Are you interested in being my mentor for the GU De-Ba'athification article?
+Annotation from annotator: 16
+
+Example 9:
+Text: Jeff3000, thanks a lot for your help with the article.  But I'm just curious - why was the link to the article for "Advent of Divine Justice" deleted?
+Annotation from annotator: 16
+
+Example 10:
+Text: Well, I bet you got that from stalking me. Are you making a template I can use?
+Annotation from annotator: 8
+
+Example 11:
+Text: I've wikified this and added some categories. Any idea of his dates, and is he still alive?
+Annotation from annotator: 12
+
+Example 12:
+Text: Thanks again.  Do you have any suggestions for how we might change the article to take the practical side of this into account with being (a) inaccurate or (b) overly technical?
+Annotation from annotator: 20
+
+Example 13:
+Text: Re <url>, can you be more specific? Which IP address or range was blocked?
+Annotation from annotator: 8
+
+Example 14:
+Text: I was told by a wikipedian that these following three sources are unreliable <url>. Is that true?
+Annotation from annotator: 12
+
+Example 15:
+Text: Please see <url>. Could you help with the list on the talk page?
+Annotation from annotator: 16
+
+Example 16:
+Text: Oh, Thanks. So I just need to put what articles I am going to be working on, and the coordinators will put my points on the scoreboard?
+Annotation from annotator: 12
+
+Example 17:
+Text: I just reverted your addition of a fossil range template to <url>, because with only an arrow at the very right it didn't seem to add much useful information. Perhaps we could make a separate template to show only the Cenozoic or so, which would allow us to show more detail in these fossil ranges?
+Annotation from annotator: 16
+
+Example 18:
+Text: Your early edit's clearly indicate that you were not a newbie. How do explain this?
+Annotation from annotator: 8
+
+Example 19:
+Text: I am planning on changing the <url> to the ICF Flatwater World Championships. Any objections?
+Annotation from annotator: 20
+
+Example 20:
+Text: In any case <url> should have just been me saying "hey, could use some help" and maybe one or two short replies of "sounds good, I'll help" or "make sure you do XYZ", but instead TT2011 again tried to turn it into another discussion. Can we collapse it to save bulk?
+Annotation from annotator: 12
+
+Example 21:
+Text: Im interested in where you got the information you added stating woodlands house was closed in 2003. As far as i can see your wording was taken from one website, the milesfaster one. Should you not cite the website you quoted rather than look for a couple of others?
+Annotation from annotator: 8
+
+Example 22:
+Text: Thank you much! May I call upon you if I make mistakes or need help, then, please?
+Annotation from annotator: 24
+
+Example 23:
+Text: Thanks for the good advice.  I still think the electric-shock-button idea is a good one though :-)  You been having problems with images as well?
+Annotation from annotator: 12
+
+Example 24:
+Text: I was discussing this with Ling.Nut, since I've seen them around before.  What do you think of a founding member userbox for yourself, me and Ling?
+Annotation from annotator: 12
+
+Example 25:
+Text: Alright then!?
+Annotation from annotator: 8
+
+Example 26:
+Text: Excellent, thanks! I wonder if it's worth temporarily uploading a cropped image for the main page, as 100x100 is really very small?
+Annotation from annotator: 16
+
+Example 27:
+Text: Umm... isn't the template page itself semi-protected? If so, then shouldn't it be in the category?
+Annotation from annotator: 8
+
+Example 28:
+Text: No, I have not read it, as it is of no interest to me or this encyclopedia. Are you claiming that the references make the blog post a reliable source, or why are we still discussing this?
+Annotation from annotator: 4
+
+Example 29:
+Text: <url>.. it doesn't really explain what the issue was. Can you word it better?
+Annotation from annotator: 8
+
+Example 30:
+Text: I'm interested in why you reduced the columns from 5 to 2? Could you reply on my talk page please?
+Annotation from annotator: 20
+
+Target Example:
+Text: Hey, I found <url> and at around 1:10, I think I can see the Backstreet Boys holding platinum discs (or double platinum, I'm not sure) for Backstreet's Back and Millennium. Can you please verify and is it possible to use this as a source for adding South African certifications?
+Annotation from annotator:

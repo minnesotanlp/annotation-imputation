@@ -1,0 +1,245 @@
+Correct Examples:
+Example 1:
+Text: I think I will give up my oldest email address. 100 spam messages a day is just not much fun anymore...
+Annotation from annotator: 2
+
+Example 2:
+Text: @emilylynn_ oh my lil em is growing up!  makes me feel old.   yea for summer registration!
+Annotation from annotator: 2
+
+Example 3:
+Text: dude, LUKE is married. Faithfully and happily married. To a very smart young lady. Business major, too  wonder if she's in D-Pi?
+Annotation from annotator: 2
+
+Example 4:
+Text: off to go tanning then mini boot camp then bed  Why can't I just be born with a smokin hot body  stupid getting older grrrrrr
+Annotation from annotator: 1
+
+Example 5:
+Text: @Cortnee4Christ It's like the old myspace days. You gotta go to a specific person's page, and comment to them that way.
+Annotation from annotator: 2
+
+Example 6:
+Text: @JGunds I really, really want to! But I already made plans to see some old friends tonight. I can't believe I'm going to miss out on 3eb
+Annotation from annotator: 2
+
+Example 7:
+Text: @themacgirl no place like it.  sing some 'my old ky home' and you will feel better
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6gdtl - FAM BAM  haha this pic is so old..
+Annotation from annotator: 2
+
+Example 9:
+Text: doing a little old othing. Going to bed fresh and clean ...my day starts late tomorrow
+Annotation from annotator: 2
+
+Example 10:
+Text: Great day at the races so far, except we had a 12 yr old race get transported to the ER.
+Annotation from annotator: 2
+
+Example 11:
+Text: No more lang with young  imma cry if i don't get her next year.
+Annotation from annotator: 2
+
+Example 12:
+Text: @ehudmh h love that american gladiators uses painted solid colored outlines of people to amplify the number of people there  old school
+Annotation from annotator: 2
+
+Example 13:
+Text: frolicking among a group of recently discovered hot young sailors... basically pretty happy
+Annotation from annotator: 2
+
+Example 14:
+Text: Just cut up some old crappy jeans and made some new trendy ones  they have holes all over them so now I can run faster ;)
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/5ofu1 mie bakso laksana! the oldest and bestest mie cina sunda in all of tasik  u just cant stop eating here!!
+Annotation from annotator: 2
+
+Example 16:
+Text: aah my new headphones are lovely. Nothing is as good as the old broken set however
+Annotation from annotator: 2
+
+Example 17:
+Text: @LuinLuLand you have sooo been hustled...gotta watch out for the 5 yr old's...they know there stuff alright
+Annotation from annotator: 2
+
+Example 18:
+Text: @renaedeliz What the heck?  I'm older then you and I still don't remember that...course no one remembers kid turbo
+Annotation from annotator: 2
+
+Example 19:
+Text: Really old tv/set top box going to eldest daughter & her boyfriend for when they move out (soon???!!! Pls  )
+Annotation from annotator: 2
+
+Example 20:
+Text: might think i'm a little to young but i love ABBA, listenning to their greatest hits right now.
+Annotation from annotator: 2
+
+Example 21:
+Text: Wearing a bar camp Boston 06 T right now. Missing @Devon, @jwkellyiii and good old days right now.  The OC is still fat BTW!! LMAO
+Annotation from annotator: 2
+
+Example 22:
+Text: don't ask my why i have a new account...it's cuz twitter is LAME and my old one got deleted somehow.  wah wah wah
+Annotation from annotator: 2
+
+Example 23:
+Text: @BeauGiles since when do you care?  you should look up an old CH10 show called 'Breakers' for the male version
+Annotation from annotator: 2
+
+Example 24:
+Text: my heart hurts  and not on some old lovey dovey sh*t. like literally this joint hurts.
+Annotation from annotator: 2
+
+Example 25:
+Text: looking at some old pix. i really miss pinas!!  i wanna go back HOME!
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to pick out a profile pic with the help of @dfpcmaia but whenever i like one he says it's bad. 12 yr olds are stupid
+Annotation from annotator: 1
+
+Example 27:
+Text: so apparently no one is going out friday, so that's a bust, guess I'll go to work instead! Trying to resolve to the life of an old maid
+Annotation from annotator: 2
+
+Example 28:
+Text: im currently LOVING my job  become waitresses people & you get to have old guys hitting on you ;) woooo!
+Annotation from annotator: 2
+
+Example 29:
+Text: @tedmurphy Honey is good, especially in tea! My 2 year old would put it on EVERYTHING.Wonder if he likes the stickiness?
+Annotation from annotator: 2
+
+Example 30:
+Text: @hellotriciaaaa lol. he's OURS! yay! same old.same old? is that a good thing? did ya do anything fun?
+Annotation from annotator: 2
+
+Imputed Examples:
+Example 1:
+Text: @DinkarA Ice wil wake the young one up.
+Annotation from annotator: 2
+
+Example 2:
+Text: Arcane and archival: Just toldThe Working Gourmet dedicated an archive wall to my work, concepts, renderings, words... Now, I'm old.
+Annotation from annotator: 2
+
+Example 3:
+Text: Watching an old episode of OTH. Oh, I miss it. When is it gonna be back over here?
+Annotation from annotator: 2
+
+Example 4:
+Text: This whole week I've been drawing new material and redrawing old material for our game. There's still so much to do
+Annotation from annotator: 2
+
+Example 5:
+Text: playing an old sesame street game i found for the computer! ahahaha i used to love this game  my mom got rid of my favorite tho.
+Annotation from annotator: 2
+
+Example 6:
+Text: @kwells2416 And a good morning to you! Hawks lost game one yesterday afternoon.  But, the series is still young! How was your weekend?
+Annotation from annotator: 2
+
+Example 7:
+Text: wants to be in the CB vid, but is too young and is nowhere near Germany...
+Annotation from annotator: 2
+
+Example 8:
+Text: @twisted4jon Hmmm, I'll just say that an old school jam is gonna rock the house!!!!! And it's a solo. That's all I'm sayin'!
+Annotation from annotator: 2
+
+Example 9:
+Text: got my old phone HOOKED (lol!) up... boo! now its running out of battery
+Annotation from annotator: 2
+
+Example 10:
+Text: Goodnightt.  holy shit. Its 12..  I'm old now, and I rarely go out..  <333
+Annotation from annotator: 2
+
+Example 11:
+Text: melatonin is my new bff. im sleepy! yes, finally.    seeing my old bff tomorrow...SO EXCITED!
+Annotation from annotator: 2
+
+Example 12:
+Text: Edna thinks im a 5 year old since i play with balloons
+Annotation from annotator: 2
+
+Example 13:
+Text: @j_horn http://twitpic.com/6qzq8 - What a handsome young man!  Quite a swaddle too!  Nolan is adorable
+Annotation from annotator: 2
+
+Example 14:
+Text: add me and myspace and check out my artwork pwease    ..... about to update old a@@ twitter default pic
+Annotation from annotator: 2
+
+Example 15:
+Text: @starleigh2000 haha im watching back all the old videos in an attempt to cheer myself up- am back to "fascist coffee"  xx
+Annotation from annotator: 2
+
+Example 16:
+Text: Oh my... In jase, trying to hook tim up... So many single pretty girls... It is great to be a 27 year old looking 31 year old
+Annotation from annotator: 2
+
+Example 17:
+Text: @Rebekah_McFly http://bit.ly/77bDo     It was the Xbox360 of its day, and i still feel old
+Annotation from annotator: 2
+
+Example 18:
+Text: @claudia_e Bear= YUCK man we needed get drunk like da old times
+Annotation from annotator: 2
+
+Example 19:
+Text: @aworkingtitle they do look old fashioned but you could try a sleep mask to help block the light
+Annotation from annotator: 2
+
+Example 20:
+Text: Edinburgh on Sunday we're going through about 2 in the afternoon and staying over at Martynoshizzle's sister's old flat
+Annotation from annotator: 2
+
+Example 21:
+Text: @ItsXxLaur09 ooooh even stevens the best show ever.. shia was so young.. i wish it was here on tv
+Annotation from annotator: 2
+
+Example 22:
+Text: @TalindaB Hey Talinda  How Tyler slept this night? My nephew is now 4 yrs old and he stopped naps from age 3
+Annotation from annotator: 2
+
+Example 23:
+Text: ...'Gotta change this 2-year-old-wearing-a-winter-coat picture of me soon.... (that's 2 year old 'picture', not age..
+Annotation from annotator: 2
+
+Example 24:
+Text: One of my old clients I guess has been trying to hunt me down for over a month and he found me!!!  I'm so happyyyy!!!!
+Annotation from annotator: 2
+
+Example 25:
+Text: Despite being mysteriously written off months ago, I hope my oldest friend knows I'm thinking of her today on her birthday. Makes me sad
+Annotation from annotator: 2
+
+Example 26:
+Text: I want the old Charlotte back
+Annotation from annotator: 2
+
+Example 27:
+Text: @_CorruptedAngel tell my people i hav exceeded my tweet limit xx - old chatty box has been kicked off again
+Annotation from annotator: 2
+
+Example 28:
+Text: Watching my  4 yr old daughter jump on trampoline.  I would jump with her but my foot is still too sore.
+Annotation from annotator: 3
+
+Example 29:
+Text: @traceyleigh i love that you sound like a bubbly 13 year old.   tracey girl.  miss you!
+Annotation from annotator: 2
+
+Example 30:
+Text: Get to wake up being 18 years old!! Cant wait
+Annotation from annotator: 2
+
+Target Example:
+Text: Its june n i can c my breathe  good old chicago
+Annotation from annotator:

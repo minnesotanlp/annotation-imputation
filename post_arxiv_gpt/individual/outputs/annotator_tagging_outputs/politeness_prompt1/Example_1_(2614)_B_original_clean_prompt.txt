@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: I never saw his press conference. Is there a clip of it online?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: <url>! Shall we greet him as he deserves?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: I seem to be doing something wrong moving pages to wiktionary, because when I complete a move to <url>, it just stays there as though there were nothing "special" about that move target. What am I doing wrong?
+Annotation from annotator: 12.0
+
+Example 4:
+Text: I'd be happy to help but I don't speak Ukrainian. What do you need help with?
+Annotation from annotator: 20.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Do you mind if you tell me why do you add duplicate links to the article? More specifically, why do you add internal links to the See Also sections when those links are already in the article navbox?
+Annotation from annotator: 8.0
+
+Example 2:
+Text: Thanks for adding that pmc= support to <url>. I made a suggestion for further improvement in <url>; can you please follow up there if you have the time?
+Annotation from annotator: 20.0
+
+Example 3:
+Text: and so is the new Portishead. Did I mention the Knife?
+Annotation from annotator: 12.0
+
+Example 4:
+Text: I would load them into commons.  How do I do that?
+Annotation from annotator: 20.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Hi, I noticed on <url> you mentioned its Alexa traffic rank.  How do you find out the Alexa traffic rank of something?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: Can you take a look at the article <url> and the conversation going on at <url> (that should probably be moved to the article talk page).  Your thoughts on the most recent commentary?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: Hi there, I always thought <url> was originally AE&CI, not AE&I.  Do you have a reference for AE&I?
+Annotation from annotator: 12.0
+
+Example 4:
+Text: <url> reminded me of a report I want to file about Asad. May I?
+Annotation from annotator: 16.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: I noticed you put "NB" and then the credit for the original picture that I cropped. What does "NB" stand for?
+Annotation from annotator:

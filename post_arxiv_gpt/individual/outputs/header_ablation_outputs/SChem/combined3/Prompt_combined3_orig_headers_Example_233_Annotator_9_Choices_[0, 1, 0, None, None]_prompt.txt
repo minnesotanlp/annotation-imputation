@@ -1,0 +1,245 @@
+Human-rated Examples:
+Example 1:
+Text: It is good to be patient.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is dangerous for a grandparent to risk a fall.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's frowned upon for people to continue a relationship with a former romantic interest when they've moved on to other relationships.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good to recognize the problems with being attracted to someone much younger than you.
+Annotation from annotator: 3
+
+Example 5:
+Text: You can't expect people to always like a certain kind of music.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's fine to ban anyone you want to from an online account.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's wrong for a person to cheat on their significant other.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's bad to hate your family.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's wrong to grow apart from your partner.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's good for kids to have friends they can play with.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is good to have rules.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's not necessary to be strong
+Annotation from annotator: 2
+
+Example 14:
+Text: It's responsible to take part in rearing a younger sibling.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's wrong to assume someone has a disability because they talk differently.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's important to have trust in a romantic relationship in order to have a healthy relationship.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is ok to live with a roommate of the opposite sex if you are just friends.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's understandable to be uncomfortable with people that are different than you.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's bad to smoke.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's understandable to want friends and family around when getting a medical operation.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should be able to give criticism to your friends.
+Annotation from annotator: 3
+
+Example 22:
+Text: You're discouraged from hating others.
+Annotation from annotator: 3
+
+Example 23:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 2
+
+Example 24:
+Text: Businesses should treat customers with courtesy if they expect them to return.
+Annotation from annotator: 3
+
+Example 25:
+Text: Partners are expected to want to spend a good amount of time with each other.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's not okay to have to rely on special tools when they aren't really needed.
+Annotation from annotator: 1
+
+Example 27:
+Text: It's wise to never let yourself get embarrassed by your significant other.
+Annotation from annotator: 2
+
+Example 28:
+Text: It's not okay to stray from a relationship.
+Annotation from annotator: 3
+
+Example 29:
+Text: It’s important to have hobbies.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's wrong to love people who are engaged.
+Annotation from annotator: 3
+
+Estimated Examples:
+Example 1:
+Text: It is okay to not trust everyone.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to get help when you need it.
+Annotation from annotator: 4
+
+Example 3:
+Text: People are expected to love their family.
+Annotation from annotator: 4
+
+Example 4:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 2
+
+Example 5:
+Text: You shouldn't be a dangerous person.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's understandable that we don't always want to attend family events.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should tell your partner you don't want to be with them anymore.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to show solidarity with family members in the face of adversity.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's wrong to be sick of life.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's acceptable to shun someone who hates people in your group.
+Annotation from annotator: 3
+
+Example 11:
+Text: You shouldn't be with someone you don't love.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's wrong to tip the bowl of the food item you're giving to your customer to take home.
+Annotation from annotator: 3
+
+Example 13:
+Text: Families should try to work out problems with each other.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's bad to hold a grudge against your parents.
+Annotation from annotator: 2
+
+Example 15:
+Text: You shouldn't be friends with someone that talks badly about you behind your back.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's rude to mislead people about your health.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's wrong to be mad at your friends for petty reasons.
+Annotation from annotator: 3
+
+Example 18:
+Text: You shouldn't accept money from someone you don't want to date.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's okay to say the n word if it's in a textbook.
+Annotation from annotator: 2
+
+Example 20:
+Text: You should always know why you do things.
+Annotation from annotator: 1
+
+Example 21:
+Text: You don't need to accept apologies if you're not ready to move on
+Annotation from annotator: 2
+
+Example 22:
+Text: Relationships are expected to have clear communication.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't expect your ex to not have sex after the relationship is over.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's not okay to be in a romantic relationship with a teacher.
+Annotation from annotator: 2
+
+Example 25:
+Text: It is understandable to not feel empathy when their situations do not involve you.
+Annotation from annotator: 2
+
+Example 26:
+Text: You can't expect people to do the dishes all the time.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should let your ex go.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should expect to get caught when you lie to people.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's wrong to sleep around.
+Annotation from annotator: 2
+
+Example 30:
+Text: You're supposed to date for love and not looks.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's bad to have a drug addiction.
+Annotation from annotator:

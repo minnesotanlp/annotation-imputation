@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: You said you were promoting them, but, um... they aren't listed at <url>, they still say they're FPOCs on their talk pages, etc, etc. Should we consider them featured or not?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

@@ -1,0 +1,124 @@
+Correct Examples:
+Example 1:
+Text: They're basically guaranteeing a boost in sales for In-N-Out. The fastest way to get normal people to support a business these days is for the leftists to boycott it.
+Annotation from annotator: 1
+
+Example 2:
+Text: In 1913, the U.S. government not only legalized slavery via the income tax, directly and forcibly confiscating the fruits of people’s labor, but also, by way of the Federal Reserve Act, legalized a level of counterfeiting and bank fraud which boggles the mind. In short, the politicians gave bankers legal permission to make up money out of thin air, and to loan such fake, fabricated money out, at interest, to others, including governments. Though most people are unaware of the specifics of how such huge frauds and robberies occur via fiat currencies and fractional reserve banking, many people now have a gut instinct that the banks are doing something deceptive and corrupt. What they fail to realize is that it was the government which gave the banks permission to defraud and swindle the public out of literally trillions of dollars. 
+Annotation from annotator: 1
+
+Example 3:
+Text: I don't mean to be rude, but have you considered telling Facebook to go screw itself and then close your account?  I did, some months ago.  I'm still alive and I am breathing regularly.  Facebook is like smoking cigarettes; it is an addiction -- a bad habit.
+Annotation from annotator: 1
+
+Example 4:
+Text: Ironically it’s exactly what will happen. Honey, get the popcorn ready,it’s going to be comedy hour.
+Annotation from annotator: 0
+
+Example 5:
+Text: LOL! I was thinking that too. I should've known
+Annotation from annotator: 0
+
+Example 6:
+Text: Hahaha Unity flagged @lantanagames in their recent sweep of indie developers who have not paid for Plus or Pro licenses. I seriously wish we'd sold $100,000 worth of games in the last 12 months, but alas, still poor. They've definitely fluffed up the email to be less threatening though.  https://www.youtube.com/watch?v=YRD7MC3jKnM
+Annotation from annotator: 0
+
+Example 7:
+Text: Beware seagulls everyone. I just walked past a non-flying chick on the footpath.... its bloody parents decided I needed shitting on so they dive bombed me. Head was covered. On the bright side I now know i can walk for 5 minutes and get into the shower back home without breathing in at all....😀
+Annotation from annotator: 0
+
+Example 8:
+Text: I am delighted to announce that Atlas.Orm 3.0 (“Cassini”) is now stable -- and with an updated project site! http://paul-m-jones.com/archives/6909
+Annotation from annotator: 0
+
+Example 9:
+Text: Back to streaming some more Brain Lord https://www.twitch.tv/lazy_brain_games
+Annotation from annotator: 0
+
+Example 10:
+Text: #Chemnitz Fights Back   the unelected  #EU needs to go!!  https://www.youtube.com/watch?v=AuXpQz5onxs
+Annotation from annotator: 1
+
+Example 11:
+Text: Good point. A good reminder that clergymen should be married with children to be taken seriously.
+Annotation from annotator: 0
+
+Example 12:
+Text: GOOGLE LEAK #3    Sitaram Iyer is a manager and Distinguished Engineer at Google.
+Annotation from annotator: 0
+
+Example 13:
+Text: 3 DEAD IN BELGIUM !!!
+Annotation from annotator: 0
+
+Example 14:
+Text: The Andrew Carrington Hitchcock Show (696) Pastor Steve And Pastor Eli – Yahweh’s Signs Of The End Times With Pastor Steve, Pastor Eli, And Pastor Andrew #4 
+Annotation from annotator: 0
+
+Example 15:
+Text: It has to be silly consider how scary it is gonna appear to go down
+Annotation from annotator: 0
+
+Example 16:
+Text: She was an adult watching kids get raped? Seems a bit cruel for her to have just watched and not stopped it. 
+Annotation from annotator: 0
+
+Example 17:
+Text: Since my Twitter suspension - I've employed an admin assistant to tweet on my behalf. She's an apostate, an adulteress and probably secretly jewish. Say hello to Tawriya Muruna @tawriya1 on twitter. Give her a follow.
+Annotation from annotator: 1
+
+Example 18:
+Text: An angry White generation is coming. 
+Annotation from annotator: 1
+
+Example 19:
+Text: https://youtu.be/WHl34gFGC_4 Q Anon Predicted Bad Event After Horowitz, Huber, Jordan Criminal Findings on DOJ/FBI, Congressional Oversight Requests, Weiner Unsealed Warrant & Terrible May For Pope #SantaFeFalseFlag #QAnon #TrumpReinstatesGagOrderOnPlannedParenthood #ExecutiveOrderToSeizePropertyOfSeriousHumanRightsAbusers
+Annotation from annotator: 0
+
+Example 20:
+Text: Proverbs 11:10
+Annotation from annotator: 0
+
+Example 21:
+Text: What a load of brain dead idiots  
+Annotation from annotator: 0
+
+Example 22:
+Text: Relax... They haven't succeeded in taking guns away. It'd be a suicide mission for them.
+Annotation from annotator: 0
+
+Example 23:
+Text: .@RichardMarlesMP: The Master Builders Association have not modelled the Labor policy on negative gearing.   ‘You can still negative gear newly built properties.’  MORE: https://kek.gg/u/33jMR #amagenda https://kek.gg/u/Y2hC
+Annotation from annotator: 0
+
+Example 24:
+Text: This co is like Dicks. They sell to coastie libs.
+Annotation from annotator: 1
+
+Example 25:
+Text: @BrandonHathaw12 @ABPatriotWriter Linda allowed McTurd to greatly sway him. Dunno what it was about that relationship. https://kek.gg/u/TQJm
+Annotation from annotator: 1
+
+Example 26:
+Text: 50 Cal
+Annotation from annotator: 0
+
+Example 27:
+Text: English, muthafuker...do u speak it?  Or do u just REEEEEEEEEEEEEEE
+Annotation from annotator: 0
+
+Example 28:
+Text: President Trump Signs a Presidential Memorandum Targeting China’s Econom... https://youtu.be/JCVpnS9R6lw via @YouTube
+Annotation from annotator: 0
+
+Example 29:
+Text: Merkel should be hauled through the courts for destroying centuries of culture in Europe. 
+Annotation from annotator: 0
+
+Example 30:
+Text: Evolution....
+Annotation from annotator: 0
+
+Target Example:
+Text: There are a lot of examples of politicizing sports, both much more old and much more recent. The latest I'm aware of is all this drama about how American football players should or shouldn't behave when the national anthem is playing. Point is, sports is politics, and it's not possible to separate one from another.
+Annotation from annotator:

@@ -1,0 +1,245 @@
+Human-rated Examples:
+Example 1:
+Text: It's understandable to want to get back at someone.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's noble to be true to yourself.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's inappropriate to make passes at an underling.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's okay if you are tired at work if you want to ask to go home.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's wrong to take pennies from a wishing fountain.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's OK to be wrong.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't get upset at your partner.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's expected that families will not get along well with their in-laws.
+Annotation from annotator: 2
+
+Example 9:
+Text: It is good to fill out your own paperwork.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's okay to hurt somebody who's stealing from you
+Annotation from annotator: 2
+
+Example 11:
+Text: You shouldn't lie about drug use.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's normal for siblings to play pranks
+Annotation from annotator: 3
+
+Example 13:
+Text: Families should be able to talk out their problems with each other.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is understandable to not feel empathy when their situations do not involve you.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's wrong to want to hide who you really are.
+Annotation from annotator: 3
+
+Example 16:
+Text: You should always respect your partner's wishes.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to feel ashamed about behavior you know is self-destructive.
+Annotation from annotator: 3
+
+Example 18:
+Text: You should always help out your family with money.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's good to work at home.
+Annotation from annotator: 3
+
+Example 20:
+Text: You don't have to help out your parents if you don't feel like it.
+Annotation from annotator: 2
+
+Example 21:
+Text: You should not engage in romance with a patient you treat.
+Annotation from annotator: 3
+
+Example 22:
+Text: Expect to go to jail if you break the law.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't do drugs.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good to want kids to be prepared for life.
+Annotation from annotator: 3
+
+Example 25:
+Text: You can't expect everyone to like you.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is okay to know what you want from a partner.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should explain to a friend why you cannot give them money if you cannot.
+Annotation from annotator: 2
+
+Example 28:
+Text: Making dinner is economical as opposed to eating out.
+Annotation from annotator: 3
+
+Example 29:
+Text: If you are uncomfortable with your partner feeding your kids, you should not let your partner watch your children.
+Annotation from annotator: 3
+
+Example 30:
+Text: You should be happy when someone wants to invest in your company.
+Annotation from annotator: 3
+
+Estimated Examples:
+Example 1:
+Text: It's wrong to be too needy to people because people find it annoying.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's selfish to expect your husband to give you his entire estate.
+Annotation from annotator: 2
+
+Example 3:
+Text: You should be understanding of your family's decisions when they're weak.
+Annotation from annotator: 2
+
+Example 4:
+Text: You should thank someone when they invite tou to thier wedding.
+Annotation from annotator: 3
+
+Example 5:
+Text: If you eat someone's food, you should let them know.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should report someone who sexually harasses you to the police.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's nice to worry about your parents.
+Annotation from annotator: 3
+
+Example 8:
+Text: You shouldn't wear a nightdress if you're male.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's wrong to think people who can't pay for healthcare don't deserve it because everyone deserves healthcare.
+Annotation from annotator: 2
+
+Example 10:
+Text: It is dangerous for a grandparent to risk a fall.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's important to respect the culture of other people.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is wrong to want to be humiliated.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should be focused on learning while at school.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's wrong to tip the bowl of the food item you're giving to your customer to take home.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's okay to have sex on camera.
+Annotation from annotator: 2
+
+Example 16:
+Text: You shouldn't let people who claim to be fashion police criticize your clothes.
+Annotation from annotator: 2
+
+Example 17:
+Text: It is good to be remorseful and admit when you've done wrong
+Annotation from annotator: 3
+
+Example 18:
+Text: You shouldn't hate people just because they're women.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's wrong for a parent to do things to make their children loose respect of them.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's understandable to be uncomfortable with people that are different than you.
+Annotation from annotator: 1
+
+Example 21:
+Text: You shouldn't judge a whole race of people by the actions of a few people.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's not okay to be to happy with a material object.
+Annotation from annotator: 1
+
+Example 23:
+Text: You should feel remorse when you get someone fired.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's okay to enjoy powdered milk.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's expected that girlfriends will want to look out for their boyfriends.
+Annotation from annotator: 3
+
+Example 26:
+Text: You shouldn't discriminate against people because of their income level.
+Annotation from annotator: 3
+
+Example 27:
+Text: You're discouraged from hating others.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's bad to have an overly pessimistic world view.
+Annotation from annotator: 3
+
+Example 29:
+Text: You should not pursue a relationship with someone much younger than you.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's not okay to have to rely on special tools when they aren't really needed.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's good to avoid disturbing animals in the wild.
+Annotation from annotator:

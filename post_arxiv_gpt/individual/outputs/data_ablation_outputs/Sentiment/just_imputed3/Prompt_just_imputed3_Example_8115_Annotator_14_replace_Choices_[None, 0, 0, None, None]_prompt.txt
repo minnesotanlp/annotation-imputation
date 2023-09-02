@@ -1,0 +1,84 @@
+Estimated Examples:
+Example 1:
+Text: Hahahaha old timers are fucking hilarious!!!! I'm at the most festive bar
+Annotation from annotator: 3
+
+Example 2:
+Text: I feel really shit and old anxieties are reappearing
+Annotation from annotator: 1
+
+Example 3:
+Text: No one is awake and I'm left here with just me and old Twitterfox to get through the night
+Annotation from annotator: 3
+
+Example 4:
+Text: On a totally unrelated note, I feel guilty when I find old @replys addressed to me that I never responded to  Anyone else do this?
+Annotation from annotator: 1
+
+Example 5:
+Text: People out of high school who talk down on those still in hs or younger are lame.
+Annotation from annotator: 1
+
+Example 6:
+Text: She should just be glad she is growing younger, since the alternative is not to our liking.
+Annotation from annotator: 2
+
+Example 7:
+Text: Shouts to my 58 year old dad who danced with every girl in the club the other night, Showed me out , I SEEN HIM
+Annotation from annotator: 4
+
+Example 8:
+Text: Some are lucky enough to have good health and find no issues in getting younger.
+Annotation from annotator: 3
+
+Example 9:
+Text: Sorting out my youngest daughter's party invitations on the laptop. Mickey Mouse for the boys and Minnie for the girls
+Annotation from annotator: 3
+
+Example 10:
+Text: Stiff from yesterdays 3.75 run, its sucks for your joints to get old
+Annotation from annotator: 1
+
+Example 11:
+Text: The internet is as old as me. Not bad, eh? It's managed to do way more than me
+Annotation from annotator: 1
+
+Example 12:
+Text: Your description of how attendees ignored an old woman who was not like them has EVERYTHING to do with wrinkle creams.
+Annotation from annotator: 0
+
+Example 13:
+Text: bobby im a wreck with out you, but i want the old bobby  doesnt it hurt when i say that? it hurts when you say you want the old haley...
+Annotation from annotator: 1
+
+Example 14:
+Text: i'm looking at old pictures & now i'm sad i cut my hair
+Annotation from annotator: 1
+
+Example 15:
+Text: my 4 yr old neice can sometimes be such a brat. and otherwise, a terror standing 2.5 feet high. but che ich cho adowably cute otherwise
+Annotation from annotator: 2
+
+Example 16:
+Text: no wireless, no 3G, no Blackberry, no lounge, just CoffeeBean n good old GSM.. Web20 on a shoestring with www.ping.fm
+Annotation from annotator: 2
+
+Example 17:
+Text: omg Contemplating a sisters day. We've gotten closer now that she's older
+Annotation from annotator: 4
+
+Example 18:
+Text: surprised that iTunes doesn't have any Def Leppard oldies.
+Annotation from annotator: 3
+
+Example 19:
+Text: thank god 4 old fashioned windows media player. I got sum music
+Annotation from annotator: 3
+
+Example 20:
+Text: trying to figure this out! feeling old
+Annotation from annotator: 1
+
+Target Example:
+Text: I've gone through all my fashion mags even old ones, I'm a little bored
+Annotation from annotator:

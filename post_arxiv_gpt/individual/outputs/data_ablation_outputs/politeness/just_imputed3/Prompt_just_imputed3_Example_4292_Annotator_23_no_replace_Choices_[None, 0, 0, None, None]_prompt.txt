@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: Yes that's what I understand, an emerald flowsion or something like it. You say the attacker wraps his right arm, not his right leg, don't?
+Annotation from annotator: 8
+
+Example 2:
+Text: Did you upload ''Image:1111.jpg'' to make a point about censorship? What exactly is your intention with that image?
+Annotation from annotator: 8
+
+Example 3:
+Text: Thank you, it's much appreciated. What do you think of the changes so far?
+Annotation from annotator: 17
+
+Example 4:
+Text: Hey US, I added a rationale to why the project was looking to create its own criteria.  Could you take a look at it and see if it changes your mind?
+Annotation from annotator: 15
+
+Example 5:
+Text: Why have you included the Putnam Line in the MTA infobox, when it was never operated by the MTA (excepting the Marble Hill stub, which is hardly on a par with the Hudson Line, Harlem Line, etc.)?
+Annotation from annotator: 4
+
+Example 6:
+Text: Good luck with the remaining time for your nomination. BTW: under what section on <url> do you think it should appear?
+Annotation from annotator: 16
+
+Example 7:
+Text: Instead of deletion, I'm considering simply redirecting Ponystars to <url>. Any objections?
+Annotation from annotator: 14
+
+Example 8:
+Text: I saw you put images for the Kings of Bhutan and thank you. Could you find an image to use for <url> also?
+Annotation from annotator: 16
+
+Example 9:
+Text: And then people could not edit it, and my signature will become very long. Plus I think the loading is negligible, comparing people with SVG flags in their signature... What do you think?
+Annotation from annotator: 12
+
+Example 10:
+Text: Why did you delete the article on anal stretching????
+Annotation from annotator: 4
+
+Example 11:
+Text: I looked at all the provinces and regencies listed on <url> - so that trick is mostly played out. I'm going down the alphabet now and I'm at the R's - if you want to work, maybe you could start at the end of the alphabet so we don't interfere with each other, meet in the middle?
+Annotation from annotator: 12
+
+Example 12:
+Text: Well the only plausible explanation was that you reverted to where I removed an extraneous cat (after Homestarmy's edit) and then swapped out a template... but as you're a competent editor that just seemed odd. Is that what indeed occurred?
+Annotation from annotator: 15
+
+Example 13:
+Text: Lowell/Lawrence Blvd leading from Lowell to the Methuen Rotary is a device from hell as well.  How many people does that short stretch of road have to kill?
+Annotation from annotator: 5
+
+Example 14:
+Text: So argument that "''Note: many Moldovans declared themselves as Romanians or Russians.''" is wrong because NO Moldovians declared themselves as russian?
+Annotation from annotator: 12
+
+Example 15:
+Text: My question about the truncation operation is to understand the generic algorithm for applying a ring (or un-ringing) a Dynkin node. What method (code) do you use to get the higher dimensions truncated based on the Coxeter Dynkin ringed nodes?
+Annotation from annotator: 16
+
+Example 16:
+Text: "two pigeons in a row constitute a half-wave antenna at 700 MHz" That's a pretty cool intersection of radio invisible waves seems-like-magic and real-life objects! On the other hand, did you perhaps just crack the secret for implementing <url>?
+Annotation from annotator: 10
+
+Example 17:
+Text: I have been watching the vote page, but I did not even see your proposal.  What were you suggesting?
+Annotation from annotator: 10
+
+Example 18:
+Text: Huh? What was that supposed to mean?
+Annotation from annotator: 6
+
+Example 19:
+Text: As a timid Wikipedia end-user who never makes more than a rare grammatical or spelling edit, learning the history to be found on this talk page and Kate's userpage history makes me sad. Why is it that so many communities change the way they do as the size of the project they revolve around increases..?
+Annotation from annotator: 13
+
+Example 20:
+Text: Out of interest (I might check) .. do you know how the Australian Bureau of statitics classes/categories Australian Aborigines/ Aboriginal Australians??
+Annotation from annotator: 14
+
+Example 21:
+Text: Cla, your partisanship is indeed fairly obvious, and pointing to one article where you've deliberately been good isn't good enough. So: if I point you to my stand against AJL, will you declare me to be non-partisan?
+Annotation from annotator: 5
+
+Example 22:
+Text: Inch es gartsum? <url>...do you have email by the way?
+Annotation from annotator: 13
+
+Example 23:
+Text: Please see <url>. Could you help with the list on the talk page?
+Annotation from annotator: 16
+
+Example 24:
+Text: I'm confused. Why did I get a user warning relating to this article?
+Annotation from annotator: 8
+
+Example 25:
+Text: Back when the Nirvana article was a COTW (in like September I think) I started working out a "Musical style" section on a userpage, but never finished it. Would you like to help out with it?
+Annotation from annotator: 16
+
+Example 26:
+Text: Thanks for telling me. Do you just perform the rename, and I then re-create the account to take it for myself?
+Annotation from annotator: 15
+
+Example 27:
+Text: What would the recommended sequencing be, then?... GAR, then FAR?
+Annotation from annotator: 13
+
+Example 28:
+Text: Well, I do have one question. If I were to come across a page that I would normally mark as a CSD- like copyright infringement, etc, as an admin can I just delete it or do I need to mark it CSD and ask another opinion?
+Annotation from annotator: 12
+
+Example 29:
+Text: That was a <url>, rather than an <url>. Is that what you intended?
+Annotation from annotator: 13
+
+Example 30:
+Text: thank you. but, what should i do now?
+Annotation from annotator: 9
+
+Target Example:
+Text: I was wondering where you got your information for the dice statistics you recently added/changed in <url>.  Can you add a source to those tables?
+Annotation from annotator:

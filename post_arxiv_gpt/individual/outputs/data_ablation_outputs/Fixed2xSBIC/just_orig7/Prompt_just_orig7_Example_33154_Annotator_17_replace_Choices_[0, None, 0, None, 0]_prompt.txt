@@ -1,0 +1,134 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Correct Examples:
+Example 1:
+Text: Whats difference between victims of 9/11 and peoples that are reading this shit? No one see that coming
+Annotation from annotator: 2
+
+Example 2:
+Text: Girl:: *says something about Gangnam Style and gets Psy's ethnicity incorrect* Me:: Psy is Korean. Girl:: So what? Chinese, Korean, Japanese - they're all the same! Me:: No, they're not. They are three different countries. Girl:: Whatever! I don't care; it doesn't matter. Said by a white girl in English class to me, a Chinese girl. Made me feel frustrated and angry.
+Annotation from annotator: 0
+
+Example 3:
+Text: made a very intricate and beautiful song and now it's time to finish this bottle of wine and make stupid shit to make the clurb go dumb 2
+Annotation from annotator: 0
+
+Example 4:
+Text: If there is dirty dancing or sexual contact report it to the principle likely there will be some and maybe they wo n't ever schedule a dance like that again .
+Annotation from annotator: 0
+
+Example 5:
+Text: A rambling text message sent to a beta cuck from his mother in law
+(Deleted)
+Annotation from annotator: 0
+
+Example 6:
+Text: How do you know your relationship is over? When your penis is the only warm organ in her body.
+Annotation from annotator: 2
+
+Example 7:
+Text: My father was a cop so he always had my "back" no matter what. From testifying for shooting armed black guys to peeing at 2 o' clock  in the morning.
+Annotation from annotator: 1
+
+Example 8:
+Text: So you're really not into men? Like, really really not into men? Are you sure?
+Annotation from annotator: 2
+
+Example 9:
+Text: I been a real busy boy with my girl pregnant and all the hell if been dealing with to get here and I feel guilty for taking time for myself in playing games when I know I should bask in it before my little one here if earn a little me time at least..😥
+Annotation from annotator: 0
+
+Example 10:
+Text: I wish I liked alcohol
+I want to drink my sorrows away, but I cannot fucking stand the taste
+
+I had some vodka yesterday and it tasted like rubbing alcohol, how do normies drink this?
+Annotation from annotator: 0
+
+Example 11:
+Text: When we were on the way to see my dying grandpa, The nursing home called and said he expired. My grandma said, "Expired? What's the sell by date?"
+
+I love my grandma. Haha
+Annotation from annotator: 0
+
+Example 12:
+Text: What's the difference between my wife and my meat? Absolutely nothing, I beat both of them so yeah 🤷🏻‍♂️
+Annotation from annotator: 2
+
+Example 13:
+Text: It's good #DACA is shutting down, it cost too much money.
+Annotation from annotator: 0
+
+Example 14:
+Text: @RealWallieWall Ms. Martinez fuckin with the cripple kid?!
+Annotation from annotator: 2
+
+Example 15:
+Text: Happy this nigga nick old I only like red bones ass is watching this.
+Annotation from annotator: 2
+
+Example 16:
+Text: @jmellor432 fag
+Annotation from annotator: 2
+
+Example 17:
+Text: What city and when was this that no calls could be made out .
+Annotation from annotator: 0
+
+Example 18:
+Text: How many Jews fit in a bucket ? 3 shovels
+Annotation from annotator: 2
+
+Example 19:
+Text: I recall seeing signs at business places which read: "we reserve the right to refuse service to anyone"
+Annotation from annotator: 0
+
+Example 20:
+Text: What's the difference between a Mexican and a printer? One has its papers
+Annotation from annotator: 2
+
+Example 21:
+Text: What does North Korea and Pussy have in common? One slip of the tongue and your in deep shit.
+Annotation from annotator: 2
+
+Example 22:
+Text: How do you pick up a Syrian child? Wait until ISIS is done blowing him
+Annotation from annotator: 2
+
+Example 23:
+Text: 11000 euro !?! * * * * ing scum ! i wonder if anyone would get anything if they set themselves up in a polish area and started begging. they would probably get a * * * * ing beating .
+Annotation from annotator: 2
+
+Example 24:
+Text: What do you do when you see a classroom full of dead kids? Reload.
+Annotation from annotator: 2
+
+Example 25:
+Text: @MFoani_24 nigga yes you do! Take me on a ride in that bitch pleaseee
+Annotation from annotator: 2
+
+Example 26:
+Text: Don't bother with black culture , it 's not worth the effort .
+Annotation from annotator: 2
+
+Example 27:
+Text: Many of these non-essential government jobs and bureaus could probably be eliminated altogether
+Annotation from annotator: 0
+
+Example 28:
+Text: RT @LouieVRee: Weed louder than a Darkskin bitch in the club
+Annotation from annotator: 2
+
+Example 29:
+Text: You need a wife.
+Annotation from annotator: 0
+
+Example 30:
+Text: Am I the only one that think Tom Perry's death is ironic? "Tom Petty and the Heartbreakers"
+Annotation from annotator: 1
+
+Target Example:
+Text: Random Serious Question
+What is the quickest way for me to earn $600?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

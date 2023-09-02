@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: <person>, with whom you discussed linkspam in 2006, has returned. Could you offer your views on his talkpage?
+Annotation from annotator: 13
+
+Example 2:
+Text: Hope you get the concerns worked out. Question: Why is the bot using <nowiki><sup>2</sup></nowiki> instead of xb2 ?
+Annotation from annotator: 16
+
+Example 3:
+Text: Hey, Rcej! ;) Would you be up to reviewing <url>?
+Annotation from annotator: 16
+
+Example 4:
+Text: Hope that you don't mind, I modified your comment in the Craig intro, using a nice new template that I found.  Check it out: what do you think?
+Annotation from annotator: 23
+
+Example 5:
+Text: Hi.  Why did you blank the redirect at <url>?
+Annotation from annotator: 12
+
+Example 6:
+Text: Can I ask why you deleted this AfD as "A3: Article has no meaningful, substantive content"?  It obviously did have meaningful content; was there any reason it couldn't simply be closed like any other AfD?
+Annotation from annotator: 10
+
+Example 7:
+Text: Um. Could you remind me again tomorrow if I forget?
+Annotation from annotator: 16
+
+Example 8:
+Text: Delete, who cares. If we're going to delete every fair use image that ''has'' a sufficient rationale, why not change to German Wikipedia image policy already?
+Annotation from annotator: 10
+
+Example 9:
+Text: Other than that I think the artical is ready to go. What say you?
+Annotation from annotator: 14
+
+Example 10:
+Text: Hi, why did you remove <url>, <url>, <url> with <url> ? Do you think we'd better put them into article directly ?
+Annotation from annotator: 14
+
+Example 11:
+Text: It turns out that the Zelda Collection you referred to in <url> didn't include aLttP, reportedly because the GBA remake was still being sold at that time, so that disc included NES and N64 emulation but left out SNES. Do you have another example?
+Annotation from annotator: 12
+
+Example 12:
+Text: The Hitchin-related hoax claims by <url> seem to have led to a rather precipitate response, considering that he has only been an editor for a few days.  Is there something going on here that isn't obvious?
+Annotation from annotator: 10
+
+Example 13:
+Text: Wikipedia is not IMDb, which can easily be used (and is more suited) to providing complete soundtrack listings for pretty much every movie ever made. Would you care to address any of the other points I've brought up?
+Annotation from annotator: 8
+
+Example 14:
+Text: Sorry for the slow reply, something I needed to take care of. <url> is restored- if it is mentioned in such <url>, could you please <url> them in the article?
+Annotation from annotator: 18
+
+Example 15:
+Text: Well, don't everyone talk all at once now. :) Any suggestions for the article ?
+Annotation from annotator: 14
+
+Example 16:
+Text: Maybe you should consider a user name change? To, say, "Sarah 'The Hammer' Ewart"?
+Annotation from annotator: 10
+
+Example 17:
+Text: I can't find a page by that name that has ever existed. Can you please specify the exact name (capitalization is important), or link to the deletion log or discussion?
+Annotation from annotator: 14
+
+Example 18:
+Text: Hi, I was wondering why it is that <url> only has two articles in it -- and whether it should be kept. Has it ever been more fully populated?
+Annotation from annotator: 14
+
+Example 19:
+Text: Speaking of GregU's script, something in your script seems to be messing up the former. Do you know what it is?
+Annotation from annotator: 13
+
+Example 20:
+Text: Well? What do you think?
+Annotation from annotator: 12
+
+Example 21:
+Text: The CLI does not have page numbers for the main sections so you will have to look at 4.1.2.2.  As well, since the linguistic divisions of Iranian are not really disputed, can you give me a source that has these languages as Persian dialects?
+Annotation from annotator: 13
+
+Example 22:
+Text: Hello. Since you have contributed to <url> in the past, could you spare a minute to discuss the fate of <url>?
+Annotation from annotator: 18
+
+Example 23:
+Text: I pretty much agree with <url>, except I would like to know why you modified the see also section to be a hatnote. Doesn't <url> have specific requirements for this?
+Annotation from annotator: 11
+
+Example 24:
+Text: ? What?
+Annotation from annotator: 12
+
+Example 25:
+Text: I'm glad you're pleased with the general appearance.  Before I label all the streets, is the text size, font style, etc OK?
+Annotation from annotator: 23
+
+Example 26:
+Text: Certainly the work is out of copyright, and some of the neighboring volumes in the series are visible on archive.org (and I don't have trouble with other books on google generally).  I wonder if you know of any way, or could suggest any way, that I could get to see the downloaded pdf of Newcomb vol.6?
+Annotation from annotator: 15
+
+Example 27:
+Text: That "guest" could have been an undercover Colbert staff member and the whole segment could have been staged. Otherwise, why would Colbert have taken 3 minutes out of his show to talk to someone in the audience?
+Annotation from annotator: 12
+
+Example 28:
+Text: Aren't you supposed to move a page rather than just copy and paste it, to preserve the edit history for copyright purposes? And don't you have to move the talk page too?
+Annotation from annotator: 11
+
+Example 29:
+Text: Yeah, I thought the anime was first. Would it still make sense to include <url>?
+Annotation from annotator: 15
+
+Example 30:
+Text: Ah! Who said that Wikipedia administrators were not romantics?
+Annotation from annotator: 14
+
+Human-Rated Examples:
+Example 1:
+Text: Its been over a week now and I see you still haven't passed or failed the article. Made a  decision?
+Annotation from annotator: 11
+
+Example 2:
+Text: <url> - You made a bold edit, I reverted and now we discuss. Is there a reason why the Wikipedia editor generated filmography should be deleted and replaced by a link to an outside site?
+Annotation from annotator: 10
+
+Example 3:
+Text: I did not think that was a refinement. How were those categories not appropriate?
+Annotation from annotator: 12
+
+Example 4:
+Text: I don't see that it is necessarily bigoted to dislike certain forms of behaviour - after all, there is a group of people who practice racist behaviour. Is it bigoted to dislike them?
+Annotation from annotator: 13
+
+Example 5:
+Text: I think a bot could come along later and remove those double returns. Is there a way of coding a space into the template itself?
+Annotation from annotator: 15
+
+Example 6:
+Text: <url> is currently an orphaned article. Can you find some articles to link to 'Christa Behmenburg''?
+Annotation from annotator: 13
+
+Example 7:
+Text: I'm confused. Why did I get a user warning relating to this article?
+Annotation from annotator: 12
+
+Example 8:
+Text: Yes, I know what a score ''card'' is, but you wrote "score '''car'''" in the article. Was that a typo, or is there really such a thing as a score "car"?
+Annotation from annotator: 10
+
+Example 9:
+Text: Ping. Are you providing the missing sources or removing the unsourced material, so I can make it pass GA?
+Annotation from annotator: 14
+
+Example 10:
+Text: In fact, what I'd like to propose here is that we take a bit more control, establish some stricter edit warring restrictions, unprotect the page, slap up an edit notice, and enforce them with blocks so that people can get back to writing the article. Do you think that would have a positive effect?
+Annotation from annotator: 16
+
+Example 11:
+Text: If the community decides that you no longer speak on its behalf--if the Wikipedia community decides that this supposed ban does not apply to constructive comments on AfDs on articles for which I am a major contributor, and that I may make such comments without asking for permission beforehand--who are you or anyone else to override that decision?  I'm not saying that anyone has or will make that decision--but if that decision is made, are you claiming that you are entitled to do what you want regardless of community consensus to the contrary?
+Annotation from annotator: 8
+
+Example 12:
+Text: Hi Asbestos! This is kind of weird for me but I see that you are a participant in the photo project and list yourself as a photographer in Edinburgh and I was wondering if there was any possibility that you would be willing to respond to my recent request <url>?
+Annotation from annotator: 23
+
+Example 13:
+Text: Actually, if she is releasing a new single from the debut album, the title "Home Run" wouldn't encompass this. Someone else has changed it to "Debut album" which I think is more suiting, what do you think?
+Annotation from annotator: 15
+
+Example 14:
+Text: Thanks for continuing to look over the article.  Do you know or do you know anyone that knows anything about the <url> or the <url>?
+Annotation from annotator: 18
+
+Example 15:
+Text: Hmm, there was a 7th <url> - but someone deleted him from <url> after removing the Prod. Is that kocher?
+Annotation from annotator: 10
+
+Example 16:
+Text: I notice that, for some reason, you have been undertaking some minor 'modifications' to the article John Musgrave & Sons. Do you have some special interest in Bolton firms, or some particular knowledge on this firm?
+Annotation from annotator: 11
+
+Example 17:
+Text: I think there are specs shown on the Vexilla Mundi website, if that helps. Are you happy for me to bring other such flags to your attention?
+Annotation from annotator: 13
+
+Example 18:
+Text: I think I'll leave it to the Math WikiProject to decide whether the dab page should be at <url> or <url> since they'll be more familiar with the importance of the various functions.  It looks like all of the basic options I was considering are basically OK from the perspective of the DAB project, right?
+Annotation from annotator: 17
+
+Example 19:
+Text: Picking up your challenge. You a big fan of skittles or something?
+Annotation from annotator: 11
+
+Example 20:
+Text: Hi Dan. Is the page <url> still needed/useful?
+Annotation from annotator: 12
+
+Example 21:
+Text: Another article created by Jergens. Is this one legitimate?
+Annotation from annotator: 12
+
+Example 22:
+Text: Sorry Less? What is that last postdirected at?
+Annotation from annotator: 11
+
+Example 23:
+Text: I have, and they have not responded in one week. How long should I give it?
+Annotation from annotator: 17
+
+Example 24:
+Text: I had an editorial dispute with a user called <url><, but I'm not responding to him anymore as it seems to escalate into heated arguments. If he keeps messaging, would it be ok if I got back in touch with you and you had a word with him?
+Annotation from annotator: 19
+
+Example 25:
+Text: I would like to first thank you for coding the afd helper app. Secondly, is it possible it could be changed to work with other XfDs?
+Annotation from annotator: 17
+
+Example 26:
+Text: I have been watching the vote page, but I did not even see your proposal.  What were you suggesting?
+Annotation from annotator: 14
+
+Example 27:
+Text: I did a CC sharealike 2.0. How is that different from 1.0?
+Annotation from annotator: 12
+
+Example 28:
+Text: Your bot's edits aren't being marked as such; that is, they still appear in my watchlist when I choose to hide bot edits. Could you do something about this?
+Annotation from annotator: 14
+
+Example 29:
+Text: A quick question, I'd like your opinion on something. Do you think I should put <url> GAN on hold or fail it?
+Annotation from annotator: 13
+
+Example 30:
+Text: Is it really a hoax?  While I don't doubt it in the least, could you provide other AfD voters with the evidence that led you to this conclusion?
+Annotation from annotator: 13
+
+Target Example:
+Text: I tried <url> and it worked for me. What articles did you try using it on?
+Annotation from annotator:

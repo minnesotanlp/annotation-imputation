@@ -1,0 +1,173 @@
+Correct Examples:
+Example 1:
+Text: I've heard you say you have quite a collection of dog books. Any chance you could list them for us?
+Annotation from annotator: 15
+
+Example 2:
+Text: Well the only plausible explanation was that you reverted to where I removed an extraneous cat (after Homestarmy's edit) and then swapped out a template... but as you're a competent editor that just seemed odd. Is that what indeed occurred?
+Annotation from annotator: 14
+
+Example 3:
+Text: Hey Dan, I see you around but we haven't talked in a bit. What are you up to these days?
+Annotation from annotator: 14
+
+Example 4:
+Text: It's not too late to help at all - being busy has kept the work on it to a crawl.  ;)  I'd like to represent what you are referring to; was it on the Abom talk page or somewhere else?
+Annotation from annotator: 16
+
+Example 5:
+Text: Hi, although I agree with you, please check the following <url> in process. Why can't the darn thing work, in the first place?
+Annotation from annotator: 6
+
+Example 6:
+Text: I was wondering where you got your information for the dice statistics you recently added/changed in <url>.  Can you add a source to those tables?
+Annotation from annotator: 15
+
+Example 7:
+Text: You told me to message you in here. Could you tell me how you do them?
+Annotation from annotator: 13
+
+Example 8:
+Text: Terms like "elected", "responsible" and "designated points-of-contact" imply some sort of delegated authority, I'd have thought.  By omission, is Hornoir saying that the delegate has authority over other aspects of the project?
+Annotation from annotator: 12
+
+Example 9:
+Text: Hey how are you? Now I can't find you online, where are you lol?
+Annotation from annotator: 16
+
+Example 10:
+Text: You deleted this, but somehow it still shows up on the parent category's page <url>.  Is this normal and/or can you fix this?
+Annotation from annotator: 11
+
+Example 11:
+Text: I've been meaning to add soundclips to the Suede and Stone Roses articles (3u20134 for each). I can get to it over the weekend; suggestions?
+Annotation from annotator: 14
+
+Example 12:
+Text: I see you created a nonsense article yesterday because you were bored. If I unblock you will you disrupt more?
+Annotation from annotator: 5
+
+Example 13:
+Text: Just letting you know (since you have mentioned AFDing <url>) that weu2019ve gone to some effort to establish notability with <url>, and have added three reliable, notable, third-party sources to the article.  Do you feel these sources establish <url> as being notable (<url> and all that)?
+Annotation from annotator: 12
+
+Example 14:
+Text: Thanks for the alert.  By the way, how's Granny doing?
+Annotation from annotator: 18
+
+Example 15:
+Text: Thanks, firstly, for the affirmation and work on <url>; it was yesterday's featured article! As a related article, I've been working on <url> - what do you think would be necessary to get it to FA?
+Annotation from annotator: 17
+
+Example 16:
+Text: I noticed you've been adding the template <person> to pages - I'm sure there's a good reason but I'm totally puzzled as to why. Can you explain what it does?
+Annotation from annotator: 14
+
+Example 17:
+Text: I wonder, did anyone add new links leading to the portal?  Is there an easy way to check this?
+Annotation from annotator: 13
+
+Example 18:
+Text: True, tho in reality I should have just blocked the sock tpar from the beginning.  Don't we usually do that to force them to request unblocking on the main account?
+Annotation from annotator: 9
+
+Example 19:
+Text: Hello, Peripitus. Will you take a look at this discussion and reconsider the deletion of one image in particular (the deletion I take issue with)?
+Annotation from annotator: 11
+
+Example 20:
+Text: Ok then. DO you want to set up another Peer Review for <url>?
+Annotation from annotator: 14
+
+Example 21:
+Text: Where did you get the tracklist for the album? Can you please drop me a messafe with the link?
+Annotation from annotator: 15
+
+Example 22:
+Text: Ok, I accept your claims, although I prefer the official names. Do you have MSN Messenger?
+Annotation from annotator: 12
+
+Example 23:
+Text: Wikipedia is not IMDb, which can easily be used (and is more suited) to providing complete soundtrack listings for pretty much every movie ever made. Would you care to address any of the other points I've brought up?
+Annotation from annotator: 8
+
+Example 24:
+Text: I understand ''your'' position, however I disagree with it, even regarding the spirit. <ins>Mostly because I don't see linking something as modification of the quote, therefore it's a moot point, even when coupled with bracketed additions.</ins> Perhaps we should see<ins>k</ins> comments from additional editors?
+Annotation from annotator: 3
+
+Example 25:
+Text: - This IP has been doing the same to me. There seems to be a remarkable similarity with <url>, could this be a case of sockpuppeting?
+Annotation from annotator: 10
+
+Example 26:
+Text: So you're interested in both Amiga computers and BDSM! Are you an atheist too?
+Annotation from annotator: 5
+
+Example 27:
+Text: Hey, thanks for your contributions here :). Would you mind referencing them to conform with wiki-policy?
+Annotation from annotator: 20
+
+Example 28:
+Text: Hi Asbestos! This is kind of weird for me but I see that you are a participant in the photo project and list yourself as a photographer in Edinburgh and I was wondering if there was any possibility that you would be willing to respond to my recent request <url>?
+Annotation from annotator: 19
+
+Example 29:
+Text: The review has been up there for something like six weeks, I notice. Think you'll be able to take care of those last couple of things?
+Annotation from annotator: 5
+
+Example 30:
+Text: What is your take on <url>?  And is there a guideline or policy stated somewhere that covers this?
+Annotation from annotator: 12
+
+Imputed Examples:
+Example 1:
+Text: Seriously? Seriously?
+Annotation from annotator: 0
+
+Example 2:
+Text: Apologies, I was busy prod'ding this article when you speedily deleted it, so I inadvertently re-created it.  Can you delete it again, please?
+Annotation from annotator: 10
+
+Example 3:
+Text: Just now I created this stub. Could you have a look at it, and try to improve it?
+Annotation from annotator: 18
+
+Example 4:
+Text: <url> It would be better if the content was not quite so pejorative. Perhaps a rewording?
+Annotation from annotator: 6
+
+Example 5:
+Text: Presumably the CfD will be inconclusive. Given the technical issues, perhaps an RfC might be more helpful?
+Annotation from annotator: 22
+
+Example 6:
+Text: That picture of Patricia Hewitt, looks copyrighted to me, it is from here..what do you think all these are commons? <url> is is unclear but they have this terms of use statement statement <url> perhaps it is worth asking a picture expert, what do you think?
+Annotation from annotator: 14
+
+Example 7:
+Text: I understand that this title refers to a particular arrangement of BWV 1068, but I get the sense that today it has taken the meaning of ''any'' arangement of the piece.  Could we note this in the article, or is this not true at all?
+Annotation from annotator: 10
+
+Example 8:
+Text: I saw you changing a block's duration to 99 years. Isn't that as good as indefinite?
+Annotation from annotator: 8
+
+Example 9:
+Text: I agree that '''Pack''' need some work.  Is there an appropriate way to flag it for some attention?
+Annotation from annotator: 13
+
+Example 10:
+Text: The template I want is the one that goes at the bottom of the article and produces a message that goes something like 'This article is a copy of the (X) article in the German wikipedia, version 21 December 2009 10:04.' What is that template?
+Annotation from annotator: 8
+
+Example 11:
+Text: What do you suggest we do? Since it looks like Gaddafi may retake Ras Lanuf in a day or so and there has been fighting there for the last four days, should we create an article named Second battle of Ras Lanuf or should we reopen the old one and say when the rebels took it it was phase one and now, two days later, it's phase two?
+Annotation from annotator: 13
+
+Example 12:
+Text: Could you please explain <url> to me? I don't see how deleting a person's userpage is correct?
+Annotation from annotator: 4
+
+Target Example:
+Text: What? Please speak brighted.Ps.Do you know gag?
+Annotation from annotator:

@@ -1,0 +1,6 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Target Example:
+Text: Why is there a bite in the Apple logo? Well the child workers need to eat _something._
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

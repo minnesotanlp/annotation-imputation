@@ -1,0 +1,37 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 2 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: More evidence about the morons teaching our children...https://www.newswars.com/school-orders-teacher-to-change-shirt-that-had-words-just-pray-on-it
+ANSWER: 0
+
+2.
+EXAMPLE: Hahaha, the fascist left group "Hate not Hope" are peeing in their pants because freedom of speech on Gab is just that, Freedom pf speech. If the other social media platforms were not so fascist & allowed freedom of speech for all it would be nice.
+ANSWER: 0
+
+3.
+EXAMPLE: Absolutely! And...he should be nailed to the wall!
+ANSWER: 1
+
+4.
+EXAMPLE: “You Say You’re Not GUILTY But You’re DEFENSIVE? Oh Please”, Gowdy PISSED OFF At An Arrogant Strzok 
+ANSWER: 0
+
+5.
+EXAMPLE: Thank you for your added prayes. Always appreciated. 
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: Thank you for your added prayes. Always appreciated. 
+ANSWER: 0
+
+2.
+EXAMPLE: Thank you for your added prayes. Always appreciated. 
+ANSWER: 0
+
+How would the particular annotator annotate the target example?
+EXAMPLE: Thank you for your added prayes. Always appreciated. 
+ANSWER:

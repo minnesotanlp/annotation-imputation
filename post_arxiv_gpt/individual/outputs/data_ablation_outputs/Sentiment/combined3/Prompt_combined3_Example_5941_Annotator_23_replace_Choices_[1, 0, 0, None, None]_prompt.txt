@@ -1,0 +1,161 @@
+Estimated Examples:
+Example 1:
+Text: @troika90 do that! remember.. oldies! haha
+Annotation from annotator: 3
+
+Example 2:
+Text: @zaharh that sucks!  how old are you actually?
+Annotation from annotator: 1
+
+Example 3:
+Text: Fun times last night...creepy 21 year old...so glad I am no longer in college
+Annotation from annotator: 1
+
+Example 4:
+Text: I'm finding it quite hard to believe that my baby sister is fifteen today..I feel so old.
+Annotation from annotator: 1
+
+Example 5:
+Text: I'm twittering from my bed; nobody understands...what ppl repeatedly say when your young never goes away; always in the back of my mind
+Annotation from annotator: 2
+
+Example 6:
+Text: Lunch was pork cutlet with young green asparagus and boiled potatoes, hollandaise sauce, gf sure can cook , yummy, away for 4 days again
+Annotation from annotator: 3
+
+Example 7:
+Text: My oldest is going to be 5 years old in less than a week!!  They grow up so fast!!
+Annotation from annotator: 2
+
+Example 8:
+Text: My sister just kidnap my "estrellita", my old white lion since I was a little girl.  She's so mean.
+Annotation from annotator: 1
+
+Example 9:
+Text: Not at prom. Ha! Chinese, iced chai, and some old school pokemon. Good night
+Annotation from annotator: 3
+
+Example 10:
+Text: Waking up refreshed - dispite 2 busy parties yesterday - they were great fun - 6 year olds and then 13 yr olds - all children were lovely
+Annotation from annotator: 3
+
+Example 11:
+Text: Why does a 66-year old need to give birth to a baby? http://tinyurl.com/nxqfj9 There are so many foster children in need of good homes.
+Annotation from annotator: 2
+
+Example 12:
+Text: Wildwood for the weekenddd!!!  **only the good die young** <3 love you and miss you forever JP <3
+Annotation from annotator: 4
+
+Example 13:
+Text: Young age can prove to be a curse in lot many cases when with falling memory and declining health one is unable to take care of everyday situations.
+Annotation from annotator: 2
+
+Example 14:
+Text: hehe yes indeed  @Flo____ jap i love the view...theres also a very old tree which got split by a bolt. and u can marry in the tower ;)
+Annotation from annotator: 3
+
+Example 15:
+Text: http://twitpic.com/6fraa - i found my old Star Wars movies on vhs
+Annotation from annotator: 2
+
+Example 16:
+Text: played beach volleyball with our Teens today  - only felt a little old
+Annotation from annotator: 2
+
+Example 17:
+Text: the same old school...we have mcas the next 3 days, eww.
+Annotation from annotator: 1
+
+Example 18:
+Text: those old memories. And ahh...  dang FIRST TIME again. I'm about to throw my stupid ipod. This song messes me up....  i want to cry ev ...
+Annotation from annotator: 1
+
+Example 19:
+Text: with the repair bill for my old dryer, i could buy a new one?? it broke right after the warranty!
+Annotation from annotator: 1
+
+Example 20:
+Text: wonders if it is sad that her two year old and her five year old already have a "usual" at Starbucks & favorite favorite iPhone apps...
+Annotation from annotator: 2
+
+Human-rated Examples:
+Example 1:
+Text: 2 yr old really turned a corner this morning at soccer. He was really kicking the ball well and having fun in the process. So happy
+Annotation from annotator: 3
+
+Example 2:
+Text: @Dalia_91 @BERFEKSHAN ok it's really not a big thing ....an old friend that's it...but he is soo freakin cute  but he is in greece now
+Annotation from annotator: 3
+
+Example 3:
+Text: @FrazJ oh wow! Delhi is FUN. hehe. so did u jus like come 4 a holiday? btw how old are youu ?
+Annotation from annotator: 3
+
+Example 4:
+Text: @NoahBishop I had both Sims 2 for Win/Mac and let me tell you, this game runs and moves so much smoother than the old Win/Mac version
+Annotation from annotator: 3
+
+Example 5:
+Text: @OdisG i werk wit 25 yr olds lol ur a baby lmaoo im jk but WADDUP! Museum wen i come backk
+Annotation from annotator: 2
+
+Example 6:
+Text: @Opotopo Had 3 mugs already! The older I get the more I need to kickstart myself.
+Annotation from annotator: 2
+
+Example 7:
+Text: @PrinceSammie Plus he's got to go to counseling and must stay away from Rihanna. And is officially a convicted felon  So young!!
+Annotation from annotator: 1
+
+Example 8:
+Text: @RainboKid haha omg i've already sent off application for young apprentice! Lol imagine if i admitted it in the boardroom? He'd love it
+Annotation from annotator: 2
+
+Example 9:
+Text: @Shuvit Happy growing older day  fanboi...
+Annotation from annotator: 3
+
+Example 10:
+Text: @alicam template shops are below my game, being #nospec since 2001.  Climate site looks like a 6 year old coded it, the code is so bad.
+Annotation from annotator: 1
+
+Example 11:
+Text: @dkberktas These must be the young customers.
+Annotation from annotator: 2
+
+Example 12:
+Text: @dvntownsend i am frequently forced to watch the utter pap that is 'high school musical' due to the 8 year old daughter
+Annotation from annotator: 1
+
+Example 13:
+Text: @jean53in I guess its the simplicity of the application and age old ritual of getting to hear about others from a little bird
+Annotation from annotator: 2
+
+Example 14:
+Text: @kisluvkis you don't really HAVE to send in your old passport. Just "loose" it and pay the extra $10 or so. I legitimately lost mine.
+Annotation from annotator: 1
+
+Example 15:
+Text: @lumalfoy It sure is nobody is safe from it that is why i donated for Jade i think it is wonderfull young people get involved!!!!  XX
+Annotation from annotator: 3
+
+Example 16:
+Text: @mrskutcher My hubby's got my older girls talked into it...they are just starting.I'm feeling the pressure! HELP
+Annotation from annotator: 2
+
+Example 17:
+Text: @pinkhairedgirl look for the dirtiest & oldest building that has the most cars. and then go there. you can't go wrong with those in Texas
+Annotation from annotator: 2
+
+Example 18:
+Text: @s0nerdy lol... you should record it and share it. Probably as strange as some of my older gadgets around here.
+Annotation from annotator: 2
+
+Example 19:
+Text: @start2run les 14!! passed by an old man though  minor fail...
+Annotation from annotator: 2
+
+Target Example:
+Text: Also still wondering who is going to coach poor old Ajax... with van Basten gone now we need a new good coach...
+Annotation from annotator:

@@ -1,0 +1,82 @@
+Example 1:
+Text: I only discovered these artists for real when I was well on the road to becoming an young lady.
+Annotation from annotator: 2
+
+Example 2:
+Text: I want to see king blues at the "electric ballroom" in london but ill get crushed.  I hate being a 14 year old that looks like an 8 yr old
+Annotation from annotator: 2
+
+Example 3:
+Text: It's raining, it's pouring, the old man is snoring
+Annotation from annotator: 2
+
+Example 4:
+Text: Me & my friends used to ask ea other "What club we hittin' tonight?" Now, it's "How's your cholesterol level?" ..we're old
+Annotation from annotator: 3
+
+Example 5:
+Text: Oh MAN !! I was going to connect my old school Nintendo to play mario games. And is not in the bag I gotta search for it.
+Annotation from annotator: 2
+
+Example 6:
+Text: One old best friend just had a baby, another just got engaged. Where have i been during these huge occurances?
+Annotation from annotator: 2
+
+Example 7:
+Text: Stood @ Bolton bus station n just been mistaken for a coach driver by a posse of old dears
+Annotation from annotator: 1
+
+Example 8:
+Text: The 14 year10 mth old kid rec'd a plaque, certif. & LETTER for her tennis exploits. Problem is..she didn't tell us of party until after
+Annotation from annotator: 1
+
+Example 9:
+Text: You cough twice, and people ask if you've got swine flu. This gets really old after a while
+Annotation from annotator: 1
+
+Example 10:
+Text: am watching a real old funny movie
+Annotation from annotator: 3
+
+Example 11:
+Text: dude, LUKE is married. Faithfully and happily married. To a very smart young lady. Business major, too  wonder if she's in D-Pi?
+Annotation from annotator: 3
+
+Example 12:
+Text: feeling a bit down in the old dumps
+Annotation from annotator: 1
+
+Example 13:
+Text: i miss my old cuts & my relaxer
+Annotation from annotator: 2
+
+Example 14:
+Text: is sad    Found out last night that my old trainer in SoCal (who lives in WA now) is dying of cancer.  Must go visit while I can!
+Annotation from annotator: 1
+
+Example 15:
+Text: just uploaded a really old photo of herself on Twitter as a display picture. Hahaha. Oh I miss my long hair.
+Annotation from annotator: 1
+
+Example 16:
+Text: just went through some old hs memories...tear  i miss seeing my fantastic four everyday!!!!
+Annotation from annotator: 3
+
+Example 17:
+Text: living fast, dying young,
+Annotation from annotator: 0
+
+Example 18:
+Text: loves that one of the BEP's old songs criticises songs that just go "boom boom" and says they aren't real music ahaha
+Annotation from annotator: 1
+
+Example 19:
+Text: ok so rainbow or sesame street which one rocked your lil world when young
+Annotation from annotator: 3
+
+Example 20:
+Text: watched 'Gregory's Girl' last night. It's a work of art. Never gets old
+Annotation from annotator: 4
+
+Text: It's how, with every passing day, I look more like my mother in her young age and I'm not pleased about that.
+Annotation from annotator:

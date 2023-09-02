@@ -1,0 +1,116 @@
+{
+    "just_orig7_replace": {
+        "[0, None, 0, None, 0]": {
+            "accuracy": 0.13333333333333333,
+            "weighted avg f1-score": 0.21645021645021642,
+            "valid answer rate": 0.2
+        },
+        "[4, None, 0, None, 1]": {
+            "accuracy": 0.26666666666666666,
+            "weighted avg f1-score": 0.3551282051282051,
+            "valid answer rate": 0.5
+        }
+    },
+    "just_orig7_no_replace": {
+        "[0, None, 0, None, 0]": {
+            "accuracy": 0.13333333333333333,
+            "weighted avg f1-score": 0.21645021645021642,
+            "valid answer rate": 0.2
+        },
+        "[4, None, 0, None, 1]": {
+            "accuracy": 0.26666666666666666,
+            "weighted avg f1-score": 0.3551282051282051,
+            "valid answer rate": 0.5333333333333333
+        }
+    },
+    "just_orig6_replace": {
+        "[None, None, 0, None, 0]": {
+            "accuracy": 0.3333333333333333,
+            "weighted avg f1-score": 0.3558169934640523,
+            "valid answer rate": 0.9
+        }
+    },
+    "just_orig6_no_replace": {
+        "[None, None, 0, None, 0]": {
+            "accuracy": 0.26666666666666666,
+            "weighted avg f1-score": 0.29045112781954885,
+            "valid answer rate": 0.9333333333333333
+        }
+    },
+    "just_orig5_replace": {
+        "[None, None, 0, 1, 0]": {
+            "accuracy": 0.23333333333333334,
+            "weighted avg f1-score": 0.20769230769230768,
+            "valid answer rate": 0.9666666666666667
+        },
+        "[None, None, 0, 1, 1]": {
+            "accuracy": 0.36666666666666664,
+            "weighted avg f1-score": 0.35912061794414735,
+            "valid answer rate": 1.0
+        }
+    },
+    "just_orig5_no_replace": {
+        "[None, None, 0, 1, 0]": {
+            "accuracy": 0.23333333333333334,
+            "weighted avg f1-score": 0.20769230769230768,
+            "valid answer rate": 0.9666666666666667
+        },
+        "[None, None, 0, 1, 1]": {
+            "accuracy": 0.36666666666666664,
+            "weighted avg f1-score": 0.35,
+            "valid answer rate": 1.0
+        }
+    },
+    "combined3_replace": {
+        "[1, 0, 0, None, None]": {
+            "accuracy": 0.5333333333333333,
+            "weighted avg f1-score": 0.5323655913978494,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, 0, None, None]": {
+            "accuracy": 0.5666666666666667,
+            "weighted avg f1-score": 0.5628571428571428,
+            "valid answer rate": 1.0
+        }
+    },
+    "combined3_no_replace": {
+        "[1, 0, 0, None, None]": {
+            "accuracy": 0.5333333333333333,
+            "weighted avg f1-score": 0.5259454191033139,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, 0, None, None]": {
+            "accuracy": 0.6333333333333333,
+            "weighted avg f1-score": 0.6203703703703703,
+            "valid answer rate": 1.0
+        }
+    },
+    "just_imputed1_replace": {
+        "[None, None, None, None, None]": {
+            "accuracy": 0.6,
+            "weighted avg f1-score": 0.603968253968254,
+            "valid answer rate": 1.0
+        }
+    },
+    "just_imputed1_no_replace": {
+        "[None, None, None, None, None]": {
+            "accuracy": 0.6333333333333333,
+            "weighted avg f1-score": 0.6516666666666667,
+            "valid answer rate": 1.0
+        }
+    },
+    "just_imputed3_replace": {
+        "[None, 0, 0, None, None]": {
+            "accuracy": 0.5666666666666667,
+            "weighted avg f1-score": 0.5666666666666667,
+            "valid answer rate": 1.0
+        }
+    },
+    "just_imputed3_no_replace": {
+        "[None, 0, 0, None, None]": {
+            "accuracy": 0.6,
+            "weighted avg f1-score": 0.614538770053476,
+            "valid answer rate": 1.0
+        }
+    }
+}

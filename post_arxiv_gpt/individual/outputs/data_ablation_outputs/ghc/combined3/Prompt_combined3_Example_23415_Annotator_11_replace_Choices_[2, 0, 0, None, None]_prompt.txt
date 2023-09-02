@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Facts are irrelevant when politicians feel the need to virtue signal ;-)
+Annotation from annotator: 0
+
+Example 2:
+Text: I'm currently studying to become a journalist. Check out my political news blog ThePatrioticPerspective.wordpress.com  I regularly send in opinion pieces to Other conservative sites. I've been used as a source for Trump's Nashville rally in 2016, and recent Knoxville Protests.  
+Annotation from annotator: 0
+
+Example 3:
+Text: Wishful thinking. I think the bikers started this rumor in hope that Antifa would go for it.
+Annotation from annotator: 0
+
+Example 4:
+Text: And you've let blacks rape your women for centuries, at epidemic rates, but you somehow forget this! AND do fuck all about it. Nobody is being killed, you all live in a dreamworld.
+Annotation from annotator: 0
+
+Example 5:
+Text: I know exactly where you are. You are 20 mins away. I will swing by to say hi after work
+Annotation from annotator: 0
+
+Example 6:
+Text: all run by dems. arent they so great
+Annotation from annotator: 1
+
+Example 7:
+Text: Hey Goyim, this is family.
+Annotation from annotator: 0
+
+Example 8:
+Text: "What will you do today, to disrupt, disturb, and defy the enemy?"  Ah, good question. Glad you asked. 
+Annotation from annotator: 0
+
+Example 9:
+Text: Hot Dog!  That's a clever twist of words.😂
+Annotation from annotator: 0
+
+Example 10:
+Text: LOL Starbucks Access Negro Video
+Annotation from annotator: 0
+
+Example 11:
+Text: The UK: 
+Annotation from annotator: 1
+
+Example 12:
+Text: https://www.mikemarko.com/wealthy-affiliate-review-scam/: Exactly the information I was after.
+Annotation from annotator: 0
+
+Example 13:
+Text: He looks like a Skinjob to me!
+Annotation from annotator: 0
+
+Example 14:
+Text: In the few (redacted) new Strzok-Page text messages released, 2 new names of COUP D'ÉTAT suspects emerger https://theconservativetreehouse.com/2018/04/27/new-batch-of-peter-strzok-and-lisa-page-messages-released-pdf-included/#more-148572 James Baker, FBI General Counsel, and James Rybicki, Comey Chief-of-Staff @realDonaldTrump #Qanon8chan
+Annotation from annotator: 0
+
+Example 15:
+Text: You are correct. This is why it’s happening.  
+Annotation from annotator: 0
+
+Example 16:
+Text: EVERYONE knows Barry conspired with ALL Big Tech to spy on EVERYONE and give our data to the ChiComs - believing Social Media CENSORSHIP will stop "We the PEOPLE"   The KENYAN paid NO ATTENTION to the 2010/12 & 14 elections when 1042 Dems were WIPED OUT at the ballot box BEFORE Trump was elected   Trump is the LAST STRAW before "We the People" take this country BACK!
+Annotation from annotator: 1
+
+Example 17:
+Text: And now Canadian politicians want to disarm Canadians, dumb fuckers.
+Annotation from annotator: 0
+
+Example 18:
+Text: Big #ShoutOut to USMC ⭐️ Always a Marine · @greg_6551 ⭐️
+Annotation from annotator: 0
+
+Example 19:
+Text: You can sense the panic setting in. The push for censorship and acceptance of pedophilia is happening at an alarming rate. When will someone in the MSM ask POTUS "THE QUESTION?"
+Annotation from annotator: 0
+
+Example 20:
+Text: ‘Where is the coalition?’ Mosul still a corpse-filled ruin months after liberation : https://on.rt.com/8yfc
+Annotation from annotator: 0
+
+Example 21:
+Text: Actors Cold Read Facts on FEMINISM Off of a Teleprompter 
+Annotation from annotator: 0
+
+Example 22:
+Text: www.foxnews.com/politics/2018/01/19/newly-released-clinton-emails-include-classified-messages-show-knowledge-security-problems-watchdog.html     We all know what happened the real question is when is something going to be done about it.
+Annotation from annotator: 0
+
+Example 23:
+Text: What's free about shooting your own protesting citizens and also murdering the journalists covering said shootings?
+Annotation from annotator: 0
+
+Example 24:
+Text: I’d drag my nuts over a mile of broken glass, just to finger flunk your shadow! Hehehe
+Annotation from annotator: 0
+
+Example 25:
+Text: is this guy retarded  fucking hell /bant/ you're better than this
+Annotation from annotator: 1
+
+Example 26:
+Text: Scratch a loud leftist, find a sex pest. One might almost start to believe the moral preening is meant to hide their actual behaviour.
+Annotation from annotator: 1
+
+Example 27:
+Text: Just my opinion, but global governance is not the answer.
+Annotation from annotator: 0
+
+Example 28:
+Text: A nigger lover and traitor to her race.
+Annotation from annotator: 1
+
+Example 29:
+Text: I thought that their job was to kill ISIS terrorists. Of course, Obambam did not want to see his Muslim buddies killed.
+Annotation from annotator: 1
+
+Example 30:
+Text: Franklin Man sentenced to 8 1/2 years in prison for the fake crime of hurting the government's feelings by selling a product to willing customers that the government doesn't want them to have or to ingest, because everyone's body belongs to the government.
+Annotation from annotator: 1
+
+Human-Rated Examples:
+Example 1:
+Text: Ok, I admit I've drank too much.  so please summarize "Gods of the Copybook Headings" --I'm ok with zionist or illuminati or whatever interps.  I just don't get "copybood headings" at all.  thick as a brick, but if you want to proselytize you need to make easily digestable sir.  Fuck why is inet so complicated
+Annotation from annotator: 0
+
+Example 2:
+Text: I am getting so much hate from people so called Christian. 
+Annotation from annotator: 1
+
+Example 3:
+Text: It happens sometimes. Being a DM is a lot like being a band manager sometimes.
+Annotation from annotator: 0
+
+Example 4:
+Text: I really do not think that Bernie Sanders as ancient as he is, is going to run in the next election. For some reason a lot of the Bernie Bros think that he will still try. 
+Annotation from annotator: 0
+
+Example 5:
+Text: The left hate white people,hate America,hate christian but love MS13,hamas,transgender for kids,pedophilia,etc...https://youtu.be/mGXor2_Bm2U
+Annotation from annotator: 0
+
+Example 6:
+Text: gender traitors, lol if we got rid of harry potter and the handmaids tale what would these fucking idiots have.   Not one of them could slog through the pile of shit that is "das kapital"
+Annotation from annotator: 1
+
+Example 7:
+Text: TRUMP'S PUBLIC RECORD NEGOTIATION... 
+Annotation from annotator: 1
+
+Example 8:
+Text: It is getting scary and deadly serious.. Like Q says we are in the fight for our lives & our future...."Fight, Fight, Fight!" We all need to keep spreading the truth & wake as many people as we can..that's how we win this..sheer numbers
+Annotation from annotator: 0
+
+Example 9:
+Text: @ManweSulimo828 'Eve of Destruction' by Barry McGuire   https://www.youtube.com/watch?v=o2HwvVL_PJw
+Annotation from annotator: 0
+
+Example 10:
+Text: I'm perplexed as to HOW YOU CATACAUSTIC Caucasians always feel ENTITLED to rep other TO YOUR PEERS .. like you are authorized to do so. 
+Annotation from annotator: 0
+
+Example 11:
+Text: #NSFW #bi #sexy #girls #porn 
+Annotation from annotator: 0
+
+Example 12:
+Text: https://youtu.be/gMe7UWSftJY Q Anon Deep State Plans Backfire- Carter Page Sues DNC And Perkins Coie, Khashoggi Death Evidence Found At Saudi Consulate (Fall Of Saud), Warren DNA Test Flop, Stormy Loses Lawsuit #QAnon #CarterPageSuesDnc #EvidenceOfKhashoggiDeathFoundAtSaudiConsulate #StormyDanielsLosesLawsuit #WarrenDnaTestBackfires
+Annotation from annotator: 0
+
+Example 13:
+Text: i've read that several times :)
+Annotation from annotator: 0
+
+Example 14:
+Text: Atheism doesn't really exist. I'm an a-atheist, i.e., I don't believe in the existence of atheists due to lack of proof. 
+Annotation from annotator: 1
+
+Example 15:
+Text: https://www.rodentguys.com/pest-control-Corona/ - Rodent Guys Rodent Control did good work for our business.  I would get next time.
+Annotation from annotator: 0
+
+Example 16:
+Text: Yeah I wasn't being facetious about not realizing it. I knew it was coming up, but I didn't realize it had happened until I saw that post.
+Annotation from annotator: 0
+
+Example 17:
+Text: Thnxsweetums 😊 
+Annotation from annotator: 0
+
+Example 18:
+Text: total Hypocrisy...South Africa's evil regime condemns the killing of "innocent" Palestinians while murdering white framers at the rate of 2 per week for simply owning land  http://www.breitbart.com/jerusalem/2018/05/16/south-africas-ruling-party-compares-israel-to-nazi-germany/
+Annotation from annotator: 0
+
+Example 19:
+Text: "Portrait of a Woman," Robert Feke, 1748, oil on canvas
+Annotation from annotator: 0
+
+Example 20:
+Text: https://www.bitchute.com/video/zAUYGL61SKPl/ Stop the frankenfood that is banned in most countries except the USA. Stop the Vaccines that our completely out of control. Stop the 5g that is microwaving and cooking humans.Grindall61 is brilliant at delivering facts and taking action in his own community.
+Annotation from annotator: 0
+
+Example 21:
+Text: I kept my Disqus account separate. Couple others. I don't know why they do that. I guess it makes them feel powerful. Probably some little whore at a computer that can't even think right half the time like Jack. 
+Annotation from annotator: 0
+
+Example 22:
+Text: Clinton played the Jews. Who took the fall for the Birth Certificate shit? Blumenthal a Jew.
+Annotation from annotator: 0
+
+Example 23:
+Text: wawau  you hit the nail on the head... 
+Annotation from annotator: 0
+
+Example 24:
+Text: Diversity. Not enough non-rapists. 
+Annotation from annotator: 1
+
+Example 25:
+Text: Because they are being paid for and coddled by (((NGOs))) along the way.
+Annotation from annotator: 0
+
+Example 26:
+Text: https://www.thegatewaypundit.com/2018/10/jaw-dropping-thousands-line-up-in-cold-for-president-trump-rally-in-missoula-montana-photos-and-video/ ‘JAW-DROPPING’: THOUSANDS LINE UP IN COLD for President Trump Rally in Missoula, Montana – Photos and Video 👍
+Annotation from annotator: 0
+
+Example 27:
+Text: The "wrong" is with YOU.
+Annotation from annotator: 0
+
+Example 28:
+Text: Porn star prefers Trump over Obama. 
+Annotation from annotator: 0
+
+Example 29:
+Text: Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen. Romans 1:25 KJV  
+Annotation from annotator: 1
+
+Example 30:
+Text: that's how you spread ebola 
+Annotation from annotator: 0
+
+Target Example:
+Text: You talk too much faggot. Quit projecting your insecurities onto others. 
+Annotation from annotator:

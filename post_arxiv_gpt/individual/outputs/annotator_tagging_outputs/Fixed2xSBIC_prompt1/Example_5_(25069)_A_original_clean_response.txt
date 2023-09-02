@@ -1,0 +1,1 @@
+It is difficult to predict how annotator A might label this example as it does not contain any offensive language or content. However, based on the previous examples labeled by annotator A, it is likely that they would label this example as not offensive (0).

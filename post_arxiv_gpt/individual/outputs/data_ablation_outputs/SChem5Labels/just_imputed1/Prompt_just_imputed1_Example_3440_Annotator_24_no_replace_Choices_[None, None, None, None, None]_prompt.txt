@@ -1,0 +1,122 @@
+Example 1:
+Text: You shouldn't ask someone intrusive questions.
+Annotation from annotator: 3
+
+Example 2:
+Text: You shouldn't be so critical of others.
+Annotation from annotator: 3
+
+Example 3:
+Text: People are expected to be supportive of family.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's okay if you don't want your kids to talk to your parents in your native language.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's fine to like feet.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's wrong to ask your partner to use another bathroom.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't put a friend's ex before them.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's wrong to exclude others from activities.
+Annotation from annotator: 3
+
+Example 9:
+Text: It shouldn't take you a year to learn your multiplication tables since that is pretty easy stuff to earn.
+Annotation from annotator: 2
+
+Example 10:
+Text: You shouldn't be broke because then you can't pay your bills.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should be understanding of people's problems.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's good to attend your first day of high school.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is good to go to counseling.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should take action immediately when you get a call for help.
+Annotation from annotator: 4
+
+Example 15:
+Text: You're expected to express your thoughts about a relative who died.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's rude to support one person more than another.
+Annotation from annotator: 3
+
+Example 17:
+Text: You should be understanding of other people's situations.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's wise to do monthly payments if you can't pay back a loan right away.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's acceptable to be angry when someone you care about makes poor choices.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is the duty of the best man to help the groom get ready.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's understandable to be stressed during pregnancy.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's okay to be excited when you go to the zoo.
+Annotation from annotator: 3
+
+Example 23:
+Text: People should be kind to their family members.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's okay to like to live a life that is comfortable to you.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's understandable if you don't want your children in a generational photo.
+Annotation from annotator: 2
+
+Example 26:
+Text: People shouldn't assume it's okay to take something just because it's not nailed down.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is rude to not accept a gift.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should laugh it off when someone does something embarrassing by mistake.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's a good idea to be on time when you have a plane to catch.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't hide things from your family.
+Annotation from annotator: 3
+
+Text: It is understandable to be upset if someone is treating an important matter trivially.
+Annotation from annotator:

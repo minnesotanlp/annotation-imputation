@@ -1,0 +1,122 @@
+Example 1:
+Text: I'd love to help, but I'm not sure what you're asking me to look at, specifically. Is there a discussion ongoing that you can point to?
+Annotation from annotator: 12
+
+Example 2:
+Text: I thought we had all agreed that the lead is fine as it is.  What is the sentence supposed to mean?
+Annotation from annotator: 11
+
+Example 3:
+Text: In the article <url>, the names and details of all the recipients (both the chronological list and the alphabetical list) have now been completed. What steps should now be taken in order to reassess the article's rating on the Wikipedia Israel Project quality scale, and also to ensure that that the article is correctly referenced within the project?
+Annotation from annotator: 12
+
+Example 4:
+Text: Heh, thanks. Do you know of any scripts that might come in handy?
+Annotation from annotator: 15
+
+Example 5:
+Text: A follow-up question: How far away from the true ridge does the watershed extend, using your looser definition? Is it the entire hillside entire you enter a channel?
+Annotation from annotator: 13
+
+Example 6:
+Text: I posted here rather than to Jon's page because I don't want to embarrass the students; I know Jon watchlists your page and I am sure other NRG editors do too.  Anyway, what do you think?
+Annotation from annotator: 13
+
+Example 7:
+Text: As I have said before, it is an issue of breadth vs. depth. Are you familiar with such concepts?
+Annotation from annotator: 5
+
+Example 8:
+Text: <person>, with whom you discussed linkspam in 2006, has returned. Could you offer your views on his talkpage?
+Annotation from annotator: 10
+
+Example 9:
+Text: Looks like <url> (the one missing the side-chain) is unused and doesn't seem useful (due to that structural flaw). Maybe tag it for deletion?
+Annotation from annotator: 14
+
+Example 10:
+Text: Why did you just do that? I am being serious - what business was it of yours exactly?
+Annotation from annotator: 5
+
+Example 11:
+Text: I'm familiar with <url> and I don't think it violates <url>. Which specific provision of <url> are you referring to?
+Annotation from annotator: 11
+
+Example 12:
+Text: On reflection it's up for GA peer review, preparatory to trying for FAC. Would you care to <url>?
+Annotation from annotator: 13
+
+Example 13:
+Text: I'm trying to install Lupin/Anti-vandal tool, but im stuck. Could you help please?
+Annotation from annotator: 13
+
+Example 14:
+Text: Hi Dirk. Does the two books you cited for the heavy Belgian <url> losses have any info of how many Gladiators the Belgians lost, and perhaps what losses they incurred on the Germans?
+Annotation from annotator: 13
+
+Example 15:
+Text: I'd like not to receive any notices from this bot on my talk page. Is there a way to do this?
+Annotation from annotator: 12
+
+Example 16:
+Text: I wonder, did anyone add new links leading to the portal?  Is there an easy way to check this?
+Annotation from annotator: 12
+
+Example 17:
+Text: When JaGaBot updated the monthly challenge winners on <url>, it stripped the image. Could the bot be fixed to leave the image?
+Annotation from annotator: 11
+
+Example 18:
+Text: Actually, material in the lead must be discussed in the body. Contemporary economics haven't been discussed in the body, so how can they be discussed in the lead?
+Annotation from annotator: 9
+
+Example 19:
+Text: The placement of the hyphen in "Ekur-huleni" seems odd: as far as I know "rh" is one sound in Tsonga. Maybe "Eku-rhuleni"?
+Annotation from annotator: 11
+
+Example 20:
+Text: I think I have a general idea what this is supposed to mean, but not nearly close enough to attempt a rewrite by myself. Are we talking about a piano trio sitting around "naming" trios that they might want to play, or record, or just playing the sort of game that parents use to keep young kids amused on a long trip (or did before there were TVs and movies inside cars)?
+Annotation from annotator: 12
+
+Example 21:
+Text: Hi, it looks as if SVG images in taxoboxes are not counted when producing the list of tree of life articles without images. Is that intended ?
+Annotation from annotator: 12
+
+Example 22:
+Text: ..to Giggy's RfA. Did you mean to remove 2,066 bytes of replies?
+Annotation from annotator: 8
+
+Example 23:
+Text: I think these are reasonable, and should protect you from lawyering. Should I go ahead and add this?
+Annotation from annotator: 18
+
+Example 24:
+Text: He keeps coming back, and keeps getting blocked again.... When will they learn?
+Annotation from annotator: 7
+
+Example 25:
+Text: What is the source of this image? and why do you think it's PD?
+Annotation from annotator: 9
+
+Example 26:
+Text: This is helpful for automatized transfer scripts. By the way, did I get the location tag right on <url> :-) ?
+Annotation from annotator: 15
+
+Example 27:
+Text: Sorry, another issue has taken my attention, and I don't think I can get to this task. Since you are running AWB, and have thought through how to do the regexes, is there a reason you can't make the heading change yourself?
+Annotation from annotator: 12
+
+Example 28:
+Text: However, I will admit that there are enough hits on Google about "Fraudulent hoax" that we could possibly make an article out of it. Is that ok with you?
+Annotation from annotator: 12
+
+Example 29:
+Text: That's basically what our members have said, not necessarily my opinion. Anything I miss?
+Annotation from annotator: 9
+
+Example 30:
+Text: Ping. Are you providing the missing sources or removing the unsourced material, so I can make it pass GA?
+Annotation from annotator: 12
+
+Text: Thanks a lot for clearing that up. Do you also happen to know about the age of consent in Thailand, and why he could be charge with child sex offenses even though she was 17 years old?
+Annotation from annotator:

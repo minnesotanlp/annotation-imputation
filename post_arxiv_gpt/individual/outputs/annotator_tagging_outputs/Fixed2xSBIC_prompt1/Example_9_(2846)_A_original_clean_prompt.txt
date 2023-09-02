@@ -1,0 +1,59 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Just be yourself
+Eww damn creepy guy, stay away from me and never talk to anyone, weirdo
+Annotation from annotator: 2
+
+Example 2:
+Text: In fact, I HOPE it's someone I know, and they see these, because you're a goddamn idiot and I'm just never gonna talk to you again. Fuck you
+Annotation from annotator: 2
+
+Example 3:
+Text: Why did the retarded girl get high? Because she wanted to cure her Down's syndrome.
+Annotation from annotator: 2
+
+Example 4:
+Text: If you ever find yourself in situatuion, where you start analyzing why women dont like me, or why i cant score - its already over for you
+Annotation from annotator: 2
+
+How annotator B has labeled some examples:
+Example 1:
+Text: What's the difference between a black person and a bicycle? The bicycle doesn't start singing when you put chains on it.
+Annotation from annotator: 2
+
+Example 2:
+Text: What do you call a nigger with no arms? Trustworthy
+Annotation from annotator: 2
+
+Example 3:
+Text: Grandpa Lampshade's GAB tutorials #1: Democrats/liberals are not the real Nazis
+Annotation from annotator: 2
+
+Example 4:
+Text: "Why so many tweets for one sentence logline? Urgency fits me always when I recall the word ""suicidal""..."
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Reminder girls will fuck complete strangers the day they meet, yet withhold sex when they actually get into a relationship
+Annotation from annotator: 2
+
+Example 2:
+Text: All these jokes about Stephen Hawking dying I'm sure he wouldn't stand for it
+Annotation from annotator: 2
+
+Example 3:
+Text: this is the last cancerous incel refuge on the internet
+albeit still extremely cancerous, it's less cancerous than r9k and lookism which are 90% chads and staceys
+Annotation from annotator: 0
+
+Example 4:
+Text: I was washing the car with my 2 year old daughter. When she started crying, my wife told me to put her down.
+Annotation from annotator: 0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: what do a feminist and a potato have in common ? their iq sorry , i offended potatoes across the world
+Annotation from annotator:

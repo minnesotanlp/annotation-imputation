@@ -1,0 +1,47 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Based on what? Don't you think a little discussion is in order before doing this?
+Annotation from annotator: 12
+
+Example 2:
+Text: Ron - I'm interested in your edit comment here <url>. Your position is that RC is a sufficiently reliable source that anything it mentions is automatically notable?
+Annotation from annotator: 18
+
+Example 3:
+Text: I think it is important to note that Spirit 03 was the last gunship to be brought down and that it has not been involved in a Class A mishap since that date. Should we include that?
+Annotation from annotator: 12
+
+Example 4:
+Text: Should I move it myself, or would you like me to walk you thru it? Have you read <url>?
+Annotation from annotator: 4
+
+Example 5:
+Text: I thought we had already established consensus last month. What exactly is the deal with the parenthesis and columns?
+Annotation from annotator: 11
+
+Example 6:
+Text: I believe you wanted to find out which party the PP was? Well i'm sure you'll be able to find it at http://elections.uwa.edu.au/partysearch.lasso - my guess is that it could be the Progress Party, who ran in the 1977 WA HoR election?
+Annotation from annotator: 12
+
+Example 7:
+Text: How do I "inform a Wikiproject"? I would have liked to do so in several articles, but is this not <url>?
+Annotation from annotator: 12
+
+Example 8:
+Text: Page has been locked - as the only real place to report issues the government experiences is on the Prime Minister of the time's page, I find it quite simply a 'whitewash' to have the AWB/cole enquiry section on his page, there since it happened, removed a few months before the election. Your views?
+Annotation from annotator: 11
+
+Example 9:
+Text: Sure, but what's the deal with fair use and cropping?  I thought the Zatanna one got removed?
+Annotation from annotator: 12
+
+Example 10:
+Text: Somewhere I've got a Twins program from a few years ago that had a cover-story interview with Harmon Killebrew. Would that be a valid source, or would a game program's here-today-gone-tomorrow nature raise questions about it?
+Annotation from annotator: 15
+
+Target Example:
+Text: You use the abbreviation WPMOS on your request on the Graphic Map Lab <url>. What does it mean?
+Annotation from annotator:
+The only valid output is a single integer.

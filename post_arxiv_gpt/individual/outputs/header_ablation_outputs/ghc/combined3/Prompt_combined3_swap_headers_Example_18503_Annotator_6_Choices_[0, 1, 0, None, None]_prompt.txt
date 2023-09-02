@@ -1,0 +1,245 @@
+Imputed Examples:
+Example 1:
+Text: https://ekonsult.pl - Get followers on Instagram
+Annotation from annotator: 0
+
+Example 2:
+Text: https://www.youtube.com/watch?v=S3DhXcQepbY 
+Annotation from annotator: 0
+
+Example 3:
+Text: Purging the Strasser brothers who wanted an alliance with the Soviet Union is treason? Haha Heimbach your Russia fetish is showing. So much for your and TWP's muh tradition muh values LARPing since you want the known homosexual Ernst Rohm to maintain power. You are a crypto-communist and you're not afraid to show it.
+Annotation from annotator: 0
+
+Example 4:
+Text: Ok, I admit I've drank too much.  so please summarize "Gods of the Copybook Headings" --I'm ok with zionist or illuminati or whatever interps.  I just don't get "copybood headings" at all.  thick as a brick, but if you want to proselytize you need to make easily digestable sir.  Fuck why is inet so complicated
+Annotation from annotator: 0
+
+Example 5:
+Text: http://www.breitbart.com/video/2018/05/10/vp-pence-mueller-investigation-time-wrap/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+breitbart+%28Breitbart+News%29  Even the Vice President knows when the score is 100 to 0 and Mueller is caught filing a fake court case the game is over.
+Annotation from annotator: 0
+
+Example 6:
+Text: Anti-Trump Protesters Declare Mexico First - Watch young Americans put down America and celebrate Mexico (Imo, these ignorant people are not real Americans if they live in America and don't put America First. Very sad that such ignorant people exist. AMERICA, STAND UP FOR YOUR COUNTRY. THESE PEOPLE REFUSE TO DO SO!) 
+Annotation from annotator: 0
+
+Example 7:
+Text: The bay area is still a big union town.  I remember when the Honda dealer in Berkeley was bought out and the new owners gave the employees a vote on whether to stay union or not.  The employees voted to get out of the union and the pissed off union picketed for days. Of course the people on the picket line never worked for Honda and were people who couldn't do anything else except walk around with a sign.
+Annotation from annotator: 0
+
+Example 8:
+Text: Our two rescue pups.  They are both amazing!
+Annotation from annotator: 0
+
+Example 9:
+Text: Remind me not to go to an urgent care center with the flu. Almost all these folks died after being sent home from treatment. http://www.foxnews.com/health/2018/01/18/flu-death...
+Annotation from annotator: 0
+
+Example 10:
+Text: Why is Confederate States of America not on there? Abstaining for now.
+Annotation from annotator: 0
+
+Example 11:
+Text: I'm not sure we'll do anything about it. I may be a total pessimist by now, but I have this feeling he's going to sell out on DACA and his cheerleaders will still cheer.  
+Annotation from annotator: 0
+
+Example 12:
+Text: The death of Internet advertising (as we know it)? 
+Annotation from annotator: 0
+
+Example 13:
+Text: Nice carpet. Also, a doggo in a high rise Seattle apartment? That's like almost animal cruelty
+Annotation from annotator: 0
+
+Example 14:
+Text: Q in his latest posts talks about fake news being even more intense, this is what they do. It's called desperation and panic and not winning. LOL 
+Annotation from annotator: 0
+
+Example 15:
+Text: Most liberalism in the west comes from protestant "Mercantile" elites as a way to signal on how christan they were 
+Annotation from annotator: 0
+
+Example 16:
+Text: GG Britain, With Pettibone and Southern, you've lost truth, with Dankula, you've lost your mind, with T.May you've lost your freedom.
+Annotation from annotator: 0
+
+Example 17:
+Text: obviously I'd rather not be flattened by a truck of peace but it sort of sets you on edge, knowing that having people armed to the teeth is necessary. I'd never even seen a real firearm in England before (honestly the only other time I've seen one was a guard outside a bank on a holiday in Mexico)
+Annotation from annotator: 0
+
+Example 18:
+Text: At this point, I say let it run it's course.  This behavior is going to backfire on them big time.
+Annotation from annotator: 0
+
+Example 19:
+Text: I am with @BOBOFkake‍  great photo, can't imagine any heterosexual men not having VERY nice things to say LOL!
+Annotation from annotator: 0
+
+Example 20:
+Text: Here's a #Kneegrow going  back to his #ShitHole #Haiti. #Dreamers are crying.   @AnnCoulter @AndrewAnglin @realemilyyoucis @Eric_StrikerDS @LaurenRose @FaithGoldy @LaurenSouthern @RichardBSpencer #CrookedHillary #LockHerUp https://theintercept.com/2018/01/19/ice-new-sanctuary-movement-ravi-ragbir-deportation/
+Annotation from annotator: 0
+
+Example 21:
+Text: Careful, Neo. You may be The One, but you still need the Merovingian's help haha.
+Annotation from annotator: 0
+
+Example 22:
+Text: DEATH PENALTY ... sorry .. you commit the most heinous crimes on Earth... you deserve to be sent to HELL early!     The old man looks like a GHOUL as is!
+Annotation from annotator: 0
+
+Example 23:
+Text: With respect, liberal democrats don't murder children as a distraction; it's just difficult for them to refrain from utilizing an ingrained habit!
+Annotation from annotator: 0
+
+Example 24:
+Text: Hatespeech laws could end up being just what we need to push average White folks into direct action.
+Annotation from annotator: 0
+
+Example 25:
+Text: So that's how to get you back. Where's my damn Twitter pop off file?
+Annotation from annotator: 0
+
+Example 26:
+Text: Many of us had figured out that HRC had SOMETHING on Ambassador Stevens to enable her to force him into gun-running. That's how she rolls. She nipped THAT loose end in the bud, didn't she? More digging needed! https://twitter.com/stompk/status/1010521716274020353
+Annotation from annotator: 0
+
+Example 27:
+Text: It goes all the way back to the land of Sumer. The true history they try to cover-up or just ignore. A lot of half truths through history texts blur our ancestrial past.
+Annotation from annotator: 0
+
+Example 28:
+Text: Were there two or more shooters at the Florida High School? Why does the media immediately link this guy to Trump and 'white supremacy' but ignore all his social media activity concerning middle-eastern militants? Or possible Antifa associations? Or all the red flags?  #Florida
+Annotation from annotator: 0
+
+Example 29:
+Text: Why didn't he color the letter S? That bothers me. 
+Annotation from annotator: 0
+
+Example 30:
+Text: Lol. I hate to be "that girl," but the image was a bit of a shock.
+Annotation from annotator: 0
+
+Correct Examples:
+Example 1:
+Text: Freedom of the press was literally in The Constitution so that JOURNALISTS CAN REPORT/KEEP AN EYE ON GOVERNMENT without fear of reprisal.  We should always scrutinize our elected leaders, and the press does the exact opposite.  They attempt selling political ideas, and they only scrutinize those whom which they disagree.  #FailedPress
+Annotation from annotator: 0
+
+Example 2:
+Text: If you're a right-winger, how could you not be excited at the prospect of a civil war split down ideological lines?
+Annotation from annotator: 0
+
+Example 3:
+Text: We're running out of WHITES (in South Africa) The nr of people leaving is an understatement because another article in Business day had different numbers. However no mention was made of farm murders etc.  https://m.news24.com/SouthAfrica/News/were-running...
+Annotation from annotator: 0
+
+Example 4:
+Text: I know a #hurricane is not fun... but if you've ever eaten at one of these restaurants then you know this is actually *good* news https://www.khon2.com/news/local-news/zippy-s-rest...
+Annotation from annotator: 0
+
+Example 5:
+Text: To the human Catholic clergy You damn fools to allow this to happen Homosexuals The smoke of Satan Misanthrope
+Annotation from annotator: 1
+
+Example 6:
+Text: you ever remember that one time, you forgot?
+Annotation from annotator: 0
+
+Example 7:
+Text: 'Make our enemies glad to quit their unjust professions for a cooler & calmer retreat, in some distant quarter of the globe.' http://ow.ly/j7DR30lrlvO
+Annotation from annotator: 0
+
+Example 8:
+Text: We don't need a right-wing dating site. We need a right-wing matchmaking site that also understands how pre-selection works.The bottleneck is the pick-up.
+Annotation from annotator: 0
+
+Example 9:
+Text: How many original beta testers still out there? I've been here since October 2016.  #OG  Get you gab shirt here https://shop.gab.ai/  @shop
+Annotation from annotator: 0
+
+Example 10:
+Text: Study: Google Pushes Liberal News in Top 5 Search Suggestions https://www.newsbusters.org/blogs/techwatch/corinn...
+Annotation from annotator: 0
+
+Example 11:
+Text: dRuMpF iS fInIsHeD!!!
+Annotation from annotator: 0
+
+Example 12:
+Text: Schadenfreude - it's not just for breakfast any more. https://www.lifezette.com/2018/08/maxine-waters-sl...
+Annotation from annotator: 0
+
+Example 13:
+Text: 'Member Bo Derek? I 'member Bo... https://celebmafia.com/wp-content/uploads/2017/06/...
+Annotation from annotator: 0
+
+Example 14:
+Text: islamic liberation  #Feminism
+Annotation from annotator: 0
+
+Example 15:
+Text: #Hannity: #DOJ 's #BruceOhr and astounding #DeepState #corruption - #Democrat #SteeleDossier was paid for by #Hillary, funneled thru Ohr & used for #FISA warrant to spy on #Trump campaign http://bit.ly/2olUM4b #politics #draintheswamp #MAGA #RussiaHoax #FakeDossier
+Annotation from annotator: 0
+
+Example 16:
+Text: I have had an idea.   Instead lorry companies getting fined tens of thousands of pounds per migrant find coming over the English Channel, hows about we fine french authorities for allowing migrant hot spots to grow where lorry embankment is carried out and the Belgian government for allowing illegal movement of people through their country.
+Annotation from annotator: 0
+
+Example 17:
+Text: Maybe someone should fucking hack those fucking Barbie Twins the Ed brothers whatever the fuck those faggots names are.
+Annotation from annotator: 0
+
+Example 18:
+Text: For the kids Mary had a little cunt Bah bah black cunt  The itsy bitsy cunt
+Annotation from annotator: 0
+
+Example 19:
+Text: The Evil Empire Strikes Back
+Annotation from annotator: 0
+
+Example 20:
+Text: Keep playing, Grim.
+Annotation from annotator: 0
+
+Example 21:
+Text: I don't mind Israel using espionage and paramilitary tactics to achieve their goals. Pretending to be Muslim terrorists and using that to leverage power against their neighbors is actually pretty damn cool. My problem is that Texans are being manipulated, along with other nations, in a way that does not benefit us at all.
+Annotation from annotator: 0
+
+Example 22:
+Text: Today's outdoor Psychic Fair cancelled due to unpredicted rain
+Annotation from annotator: 0
+
+Example 23:
+Text: @NeonRevolt Your site is down
+Annotation from annotator: 0
+
+Example 24:
+Text: Thanks for the repost, @a
+Annotation from annotator: 0
+
+Example 25:
+Text: This is probably the only thing that I remember from Stargate Universe. And that's strange, because I didn't thought it was such a bad show.https://www.youtube.com/watch?v=iCEj4N9aAF4
+Annotation from annotator: 0
+
+Example 26:
+Text: Cliff to Norm: 'A buffalo herd moves as fast as slowest. So when herd is hunted, its slowest/weakest ones are killed 1st.  Natural selection is good for herd by killing weakest.  In same way, the human brain can only operate as fast as the slowest brain cells. Alcohol, naturally, attacks slowest/weakest cells 1st. So you always feel smarter after a few beers!”
+Annotation from annotator: 0
+
+Example 27:
+Text: This week's comics.
+Annotation from annotator: 0
+
+Example 28:
+Text: Looks like a bunch of dead bodies to me. Why would you just assume those are dead Jews? Could be anything.
+Annotation from annotator: 0
+
+Example 29:
+Text: No, anecdotal does not mean irrelevant. Anecdotal evidence and empirical evidence are the same evidence, one set is just evaluated under a formal methodology. In fact many methodologies are unsatisfactorily established and the results can be false and misleading. Anecdotal observations are no less relevant than methodical observations and one cannot use the lack of a methodical analysis to assert...
+Annotation from annotator: 0
+
+Example 30:
+Text: It's always people like this arguing about it. DeEpLy TrOuBLinG
+Annotation from annotator: 0
+
+Target Example:
+Text: Historicism ( historical determinism ) it's a pseudo-scientific crap.
+Annotation from annotator:

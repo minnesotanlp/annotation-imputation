@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It's good to practice when you're involved in a sport.
+Annotation from annotator: 3
+
+Example 2:
+Text: You should always see what you did wrong.
+Annotation from annotator: 3
+
+Example 3:
+Text: If you have to take care of someone with special needs, it's okay to feel frustrated.
+Annotation from annotator: 2
+
+Example 4:
+Text: You shouldn't cheat on people.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's okay for parents to dislike people interfering with how they raise their children.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should give your children some privacy
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to work to find out who you are.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's not okay to miss an important day of a family member.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to focus on your studies.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to visit with your sister-in-law.
+Annotation from annotator: 3
+
+Example 11:
+Text: It is good to spend time outdoors.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is okay to outgrow a friendship.
+Annotation from annotator: 3
+
+Example 13:
+Text: If you're mentally ill, you should get some help.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should be honest with people about your past.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's bad to do things that upset your parents.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's normal to have doubts about the future
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to think dogs are perceptive.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's expected that you be polite to your neighbors.
+Annotation from annotator: 3
+
+Example 19:
+Text: If you think there's something wrong with your identity, you should get some help.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's good to save money.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's okay to be frustrated when your parents are obsessed with their family heirlooms.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is good to have self confidence.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's rude to ask personal questions in an interview.
+Annotation from annotator: 3
+
+Example 24:
+Text: You should always answer someone's question if they are concerned about you.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's not okay to set yourself up for disaster.
+Annotation from annotator: 3
+
+Example 26:
+Text: You shouldn't hide things from people.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's hurtful to cut someone off.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's wrong to touch someone without their permission.
+Annotation from annotator: 3
+
+Example 29:
+Text: It is important to stay committed.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's wasteful to spend money on gambling.
+Annotation from annotator: 3
+
+Human-Rated Examples:
+Example 1:
+Text: Parents should be aware of potential dangers to their children.
+Annotation from annotator: 4
+
+Example 2:
+Text: Selling body organs is never acceptable.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's important to use what you got.
+Annotation from annotator: 2
+
+Example 4:
+Text: You should be critical of someone's driving when they are testing for their license.
+Annotation from annotator: 3
+
+Example 5:
+Text: You should contact the police if someone steals something from you.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's bad for a child to say mean things about each other's mom.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't sleep walk.
+Annotation from annotator: 4
+
+Example 8:
+Text: You should realize you are better than people who would try to put you out.
+Annotation from annotator: 0
+
+Example 9:
+Text: It's understandable to look for your father when he's missing.
+Annotation from annotator: 4
+
+Example 10:
+Text: You should always have a map app downloaded on your phone.
+Annotation from annotator: 2
+
+Example 11:
+Text: People shouldn't want others to debase them, as it mars their souls.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's understandable if you're nervous when you take your driver's license test.
+Annotation from annotator: 4
+
+Example 13:
+Text: It is wrong to ignore someone for being disabled.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's good to take children into your home.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's rude to annoy someone intentionally.
+Annotation from annotator: 4
+
+Example 16:
+Text: People shouldn't make others lose their appetites with their crappy eating habits.
+Annotation from annotator: 3
+
+Example 17:
+Text: Is good to care about other people
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to be prepared for your first try out for something.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's good to make new friends in life.
+Annotation from annotator: 2
+
+Example 20:
+Text: You shouldn't feel too bad about receiving criticism if it is helpful.
+Annotation from annotator: 2
+
+Example 21:
+Text: If you are passionate about learning a new skill you should not worry about your age.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's good to work at a fast food restaurant in your teens.
+Annotation from annotator: 2
+
+Example 23:
+Text: You shouldn't be in love with your friends.
+Annotation from annotator: 2
+
+Example 24:
+Text: It's okay to find ways to calm yourself down before an interview.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's allowed to try to find puppies a good home.
+Annotation from annotator: 4
+
+Example 26:
+Text: You shouldn't demand things from your partner.
+Annotation from annotator: 2
+
+Example 27:
+Text: You shouldn't take your pets to the pound.
+Annotation from annotator: 2
+
+Example 28:
+Text: It's not okay to advertise products that are unhealthy where kids could see them.
+Annotation from annotator: 2
+
+Example 29:
+Text: People shouldn't assume something's not a big deal without hearing it through first.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's good to take care of your shareholders.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's not okay to not have people in real life to talk to.
+Annotation from annotator:

@@ -1,0 +1,122 @@
+Example 1:
+Text: You should give yourself time to grieve before getting in a new relationship when your spouse dies.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's expected that pilots operate planes.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should expect to have dreams about your ex if you just broke up with them.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's okay not to like certain phases
+Annotation from annotator: 3
+
+Example 5:
+Text: It is okay to be uncomfortable with the way that people interact.
+Annotation from annotator: 2
+
+Example 6:
+Text: It is good to work hard.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's okay to not want to be friends with someone you still love.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's rude to be nasty with others who are being kind to you.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is wrong to commit fraud
+Annotation from annotator: 3
+
+Example 10:
+Text: It's okay to be upset with a partner that still communicates with her ex's.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's okay to carry your pet in public as a status symbol
+Annotation from annotator: 2
+
+Example 12:
+Text: You shouldn't throw things at people.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should speak with family and friends if you are feeling depressed.
+Annotation from annotator: 3
+
+Example 14:
+Text: You shouldn't be too open around kids because they could use it against you.
+Annotation from annotator: 2
+
+Example 15:
+Text: You cannot be forced to love someone you do not.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's good to share the memories of those who have passed.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is good to go to the doctor if your leg might be broken.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's wrong to kill things.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is heartbreaking to miss a date because you are sick.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's good to give things a chance before you say you don't like them.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's reasonable to want to get away from a difficult or tiring situation
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to cherish memories that remind you of happy times in your life
+Annotation from annotator: 3
+
+Example 23:
+Text: You should be happy if someone gives you a gift for Valentine's Day.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's ok to not want to be friends with someone.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is okay to express yourself through your looks.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is understandable to feel uncomfortable about admitting that you are attracted to members of the same sex.
+Annotation from annotator: 3
+
+Example 27:
+Text: It’s important to have hobbies.
+Annotation from annotator: 3
+
+Example 28:
+Text: Schools should close if the weather is bad.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay if you don't want to be around someone that you are not in a relationship with.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's bad to try to control what other people do.
+Annotation from annotator: 3
+
+Text: It's understandable to feel annoyed when someone wants attention.
+Annotation from annotator:

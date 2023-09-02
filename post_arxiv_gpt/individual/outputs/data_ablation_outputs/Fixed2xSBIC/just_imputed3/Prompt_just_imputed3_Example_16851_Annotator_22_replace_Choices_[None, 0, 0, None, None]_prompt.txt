@@ -1,0 +1,128 @@
+Estimated Examples:
+Example 1:
+Text: I used to think a 'friendzone' was bad. Till I realized all people wanna do is have sex reproduce and breakup for not taking right steps
+Annotation from annotator: 0
+
+Example 2:
+Text: I'm not finna buy no mf twitter account!! Stop asking me that stupid ass&#127825; shit&#128169;!!! If anything I'll pay to get mine updated bitch.!!
+Annotation from annotator: 2
+
+Example 3:
+Text: I wish I could feel the adrenaline moving through my body by jack johnson from jack and jack have followed me
+Annotation from annotator: 0
+
+Example 4:
+Text: just found out a mutual friend between me and my ex best friend unfollowed me on tumblr (naturally leaving me to following him still) lmfao
+Annotation from annotator: 0
+
+Example 5:
+Text: Oprah dug into another KFC bucket "Ahm oppressed" she said as diamonds fell from the table.
+Annotation from annotator: 2
+
+Example 6:
+Text: So @KendallJenner was at Disneyland yesterday? &#128557; I fucked up.
+Annotation from annotator: 0
+
+Example 7:
+Text: What’s black white and red all over? A zebra in a blender
+Annotation from annotator: 2
+
+Example 8:
+Text: 10 innings into the season, I already cringe as Mondesi seems ready to collide with a teammate on every fly ball.
+Annotation from annotator: 0
+
+Example 9:
+Text: Bro I'm bored then a hoe rt
+Annotation from annotator: 0
+
+Example 10:
+Text: "More like ""fact"" Remind me who authorized indefinite detention of American citizens without trial back in 2011? Exactly."
+Annotation from annotator: 2
+
+Example 11:
+Text: I wish it hurt a lot from the outside. @MohamedK62 I'm not sexist but seeing a woman driving a Jaguar hurts a little bit from the inside.
+Annotation from annotator: 2
+
+Example 12:
+Text: My mom just dropped a bomb on me and I can't stop fucking shaking or thinking about it and I can't process it and please kill me
+Annotation from annotator: 0
+
+Example 13:
+Text: THE OPENING DANCE SEQUENCE IS SO FUCKING SICK? YOU GUUUYYYSSSSS
+Annotation from annotator: 0
+
+Example 14:
+Text: Omgg look at him having fun dancing to Artificial Love hehe. And he pointed to a fan and smiled omg dead &#128565;&#128565; #lastRT
+Annotation from annotator: 0
+
+Example 15:
+Text: "RT @Saditybxtch_: @gahdamn_shawdy &#128514;&#128514;&#128514; fr fr ""it was cold that night"" like nigga &#128529; get to the plot"
+Annotation from annotator: 0
+
+Example 16:
+Text: Every where I've gone today, I have seriously looked for something or someone that could trigger me to insane violence against someone or some group
+
+Something or someone that would make me just flip totally out of my mind with rage, leaving nothing but bloody bits or broken pieces
+
+Found NOTHING
+Annotation from annotator: 1
+
+Example 17:
+Text: Why do some people hate black humour? Because it's black of course.
+Annotation from annotator: 2
+
+Example 18:
+Text: Free at last , free at last , good God almighty I 'm free at last !
+Annotation from annotator: 0
+
+Example 19:
+Text: Last night, I was playing Fortnite and told my American buddies to meet up at the shooting range... but they all landed at the school
+Annotation from annotator: 2
+
+Example 20:
+Text: Here's a thought that would be fairly easy to implement: webapp that lets you get stats/links to mentions you received from blocked users.
+Annotation from annotator: 0
+
+Example 21:
+Text: Who would know more about exploiting people you do n't give a crap about other than a member of the tribe ?
+Annotation from annotator: 2
+
+Example 22:
+Text: victoria Morgan I saw you posted about oil and i have chronic pain and cancer I lost my kids in this state of HELL ON EARTH Arizona where they steal children for money hoping we will all die off as it is killing out country how can i get info on this and is it really expensivd
+Annotation from annotator: 2
+
+Example 23:
+Text: he's obviously a good christian white boy with good values .
+Annotation from annotator: 0
+
+Example 24:
+Text: [1/2]In the absence of Virat Kohli and doubts over AB de Villiers' availability for the season opener on April 5, the Australian allrounder
+Annotation from annotator: 0
+
+Example 25:
+Text: Every Friday I get paid and every Saturday I wake up with about 8 quid give myself the fucking boke
+Annotation from annotator: 0
+
+Example 26:
+Text: finna get a dual cam engine for my Honda and swap out the ugly ass 18in rims its riding on rn
+Annotation from annotator: 0
+
+Example 27:
+Text: Did any of you guys ever have a personal encounter online with Elliot Rodger when he was still alive?
+Annotation from annotator: 0
+
+Example 28:
+Text: "My car be so cute waiting for me when I get off, he be looking right at me like ""come on mommy, let's go home"" lol"
+Annotation from annotator: 0
+
+Example 29:
+Text: When you accidentally walk in on your step-dad doing your mom and he's wearing nothing but socks, well, let's say that "disgusted" is not a strong enough term for how I now feel about socks in general. Like, if my hubs is looking all fine, but I notice that he still has socks on, the lady boner dies hard and fast. Blech. 
+Annotation from annotator: 1
+
+Example 30:
+Text: "This fool really said ""Adolf Hitler or Donald Trump"" during a game of Would You Rather....... &#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128;&#128128; #dead"
+Annotation from annotator: 0
+
+Target Example:
+Text: A thought for the day: “Those who hate rain hate life.” — Dejan Stojanovic
+Annotation from annotator:

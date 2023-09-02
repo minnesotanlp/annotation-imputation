@@ -1,0 +1,122 @@
+Example 1:
+Text: People are expected to want to be close to their family.
+Annotation from annotator: 3
+
+Example 2:
+Text: People shouldn't want others to debase them, as it mars their souls.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's nice to worry about your parents.
+Annotation from annotator: 3
+
+Example 4:
+Text: Couple should work together to solve problems
+Annotation from annotator: 3
+
+Example 5:
+Text: It's good to want someone to do their best.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should explain to a friend why you cannot give them money if you cannot.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's understandable to want to ruin your ex's new relationships.
+Annotation from annotator: 1
+
+Example 8:
+Text: It's good to be aware of your limits.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to look forward to things you can do when you grow older.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to get back at a cheating partner.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's selfish to expect your husband to give you his entire estate.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's bad to feel other people are inferior to you.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's understandable that sometimes people have reasons not to trust someone.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's wrong to spy on people through social media.
+Annotation from annotator: 2
+
+Example 15:
+Text: It is good for couples to communicate their problems and move on when there is tension after a fight.
+Annotation from annotator: 3
+
+Example 16:
+Text: It is dangerous for a grandparent to risk a fall.
+Annotation from annotator: 3
+
+Example 17:
+Text: You shouldn't have sex with people if you have herpes.
+Annotation from annotator: 3
+
+Example 18:
+Text: You should love your parents.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's not okay to be in a romantic relationship with a teacher.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's okay to park wherever there's room
+Annotation from annotator: 2
+
+Example 21:
+Text: It's wrong to hate fitness people.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's okay to not know how to drive.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's normal for siblings to play pranks
+Annotation from annotator: 3
+
+Example 24:
+Text: It's okay to carry your pet in public as a status symbol
+Annotation from annotator: 2
+
+Example 25:
+Text: It’s important to have hobbies.
+Annotation from annotator: 3
+
+Example 26:
+Text: You shouldn't have second thoughts about having kids if your wife gets pregnant because it's too late by then.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should not pursue a relationship with someone much younger than you.
+Annotation from annotator: 2
+
+Example 28:
+Text: You shouldn't lie about drug use.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay to enjoy powdered milk.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's not okay for parents to be emotionally attached to their kids personal lives.
+Annotation from annotator: 2
+
+Text: It's good to go out and have fun with your kids.
+Annotation from annotator:

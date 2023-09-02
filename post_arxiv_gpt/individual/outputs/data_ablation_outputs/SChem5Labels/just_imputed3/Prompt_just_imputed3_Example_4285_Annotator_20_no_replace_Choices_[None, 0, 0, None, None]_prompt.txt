@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's good to practice when you're involved in a sport.
+Annotation from annotator: 3
+
+Example 2:
+Text: You should always see what you did wrong.
+Annotation from annotator: 3
+
+Example 3:
+Text: If you have to take care of someone with special needs, it's okay to feel frustrated.
+Annotation from annotator: 2
+
+Example 4:
+Text: You shouldn't cheat on people.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's okay for parents to dislike people interfering with how they raise their children.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should give your children some privacy
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to work to find out who you are.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's not okay to miss an important day of a family member.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to focus on your studies.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to visit with your sister-in-law.
+Annotation from annotator: 3
+
+Example 11:
+Text: It is good to spend time outdoors.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is okay to outgrow a friendship.
+Annotation from annotator: 3
+
+Example 13:
+Text: If you're mentally ill, you should get some help.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should be honest with people about your past.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's bad to do things that upset your parents.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's normal to have doubts about the future
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to think dogs are perceptive.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's expected that you be polite to your neighbors.
+Annotation from annotator: 3
+
+Example 19:
+Text: If you think there's something wrong with your identity, you should get some help.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's good to save money.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's okay to be frustrated when your parents are obsessed with their family heirlooms.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is good to have self confidence.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's rude to ask personal questions in an interview.
+Annotation from annotator: 3
+
+Example 24:
+Text: You should always answer someone's question if they are concerned about you.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's not okay to set yourself up for disaster.
+Annotation from annotator: 3
+
+Example 26:
+Text: You shouldn't hide things from people.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's hurtful to cut someone off.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's wrong to touch someone without their permission.
+Annotation from annotator: 3
+
+Example 29:
+Text: It is important to stay committed.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's wasteful to spend money on gambling.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's not okay to not have people in real life to talk to.
+Annotation from annotator:

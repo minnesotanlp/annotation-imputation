@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: It is okay to not trust everyone.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to get help when you need it.
+Annotation from annotator: 4
+
+Example 3:
+Text: People are expected to love their family.
+Annotation from annotator: 4
+
+Example 4:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 2
+
+Example 5:
+Text: You shouldn't be a dangerous person.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's understandable that we don't always want to attend family events.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should tell your partner you don't want to be with them anymore.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to show solidarity with family members in the face of adversity.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's wrong to be sick of life.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's acceptable to shun someone who hates people in your group.
+Annotation from annotator: 3
+
+Example 11:
+Text: You shouldn't be with someone you don't love.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's wrong to tip the bowl of the food item you're giving to your customer to take home.
+Annotation from annotator: 3
+
+Example 13:
+Text: Families should try to work out problems with each other.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's bad to hold a grudge against your parents.
+Annotation from annotator: 2
+
+Example 15:
+Text: You shouldn't be friends with someone that talks badly about you behind your back.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's rude to mislead people about your health.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's wrong to be mad at your friends for petty reasons.
+Annotation from annotator: 3
+
+Example 18:
+Text: You shouldn't accept money from someone you don't want to date.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's okay to say the n word if it's in a textbook.
+Annotation from annotator: 2
+
+Example 20:
+Text: You should always know why you do things.
+Annotation from annotator: 1
+
+Example 21:
+Text: You don't need to accept apologies if you're not ready to move on
+Annotation from annotator: 2
+
+Example 22:
+Text: Relationships are expected to have clear communication.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't expect your ex to not have sex after the relationship is over.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's not okay to be in a romantic relationship with a teacher.
+Annotation from annotator: 2
+
+Example 25:
+Text: It is understandable to not feel empathy when their situations do not involve you.
+Annotation from annotator: 2
+
+Example 26:
+Text: You can't expect people to do the dishes all the time.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should let your ex go.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should expect to get caught when you lie to people.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's wrong to sleep around.
+Annotation from annotator: 2
+
+Example 30:
+Text: You're supposed to date for love and not looks.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's bad to have a drug addiction.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

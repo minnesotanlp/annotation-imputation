@@ -1,0 +1,1 @@
+Redoing Ruyuan's variance graphs and collecting specific statistics for a table as well.

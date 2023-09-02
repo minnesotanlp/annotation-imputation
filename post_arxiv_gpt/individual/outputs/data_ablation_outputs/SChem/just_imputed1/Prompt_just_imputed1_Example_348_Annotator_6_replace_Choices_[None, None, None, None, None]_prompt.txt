@@ -1,0 +1,122 @@
+Example 1:
+Text: It's inappropriate for a parent to help a teenage boy shower.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is okay to not share something that you did a lonf time ago.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's wrong to lash out at someone.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's bad to not trust your significant other.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's good for kids to have friends they can play with.
+Annotation from annotator: 4
+
+Example 6:
+Text: You should always trust your nanny.
+Annotation from annotator: 1
+
+Example 7:
+Text: It's inappropriate to make passes at an underling.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's acceptable to shun someone who hates people in your group.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's bad to have a drug addiction.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's fine to ban anyone you want to from an online account.
+Annotation from annotator: 4
+
+Example 11:
+Text: It’s encouraged that parents make time for their kids outside of work and school
+Annotation from annotator: 4
+
+Example 12:
+Text: It's not normal to dislike everybody
+Annotation from annotator: 3
+
+Example 13:
+Text: It's wrong to do drugs with your partner.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's hurtful for  a parent to enroll a child in classes without permission.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's good to be in control of your sexuality.
+Annotation from annotator: 4
+
+Example 16:
+Text: It is immoral for a supervisor to pursue their employees romantically.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's good for children to be physically active.
+Annotation from annotator: 4
+
+Example 18:
+Text: You should always try to mediate your parent's arguments.
+Annotation from annotator: 1
+
+Example 19:
+Text: It's bad to make patrons of a business feel unwelcome.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's hurtful to hate somebody close to you.
+Annotation from annotator: 3
+
+Example 21:
+Text: You have to do whatever is necessary in an emergency situation.
+Annotation from annotator: 4
+
+Example 22:
+Text: Making dinner is economical as opposed to eating out.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's rude to make baseless accusations against another person.
+Annotation from annotator: 4
+
+Example 24:
+Text: It is good to have friends who are there for you.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to recognize the problems with being attracted to someone much younger than you.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's good to want someone to do their best.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's good to look forward to things you can do when you grow older.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's expected that the husband pay child support.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to find the right partner for yourself.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's understandable that sometimes people have reasons not to trust someone.
+Annotation from annotator: 4
+
+Text: You shouldn't be up and about if you're sick.
+Annotation from annotator:

@@ -1,0 +1,122 @@
+Example 1:
+Text: I tend not to be an RFC closer -- apologies. Hopefully someone else will?
+Annotation from annotator: 16
+
+Example 2:
+Text: Really? When/where did that happen?
+Annotation from annotator: 12
+
+Example 3:
+Text: Was working, so no. You?
+Annotation from annotator: 12
+
+Example 4:
+Text: It states on the page that it features her, they sample the song, and were going to try and get her to take part in the video... Surely this counts as being featured on the single?
+Annotation from annotator: 18
+
+Example 5:
+Text: Is this, perhaps, what the main article calls a "Backshot wheel"? If so, should the article be renamed?
+Annotation from annotator: 8
+
+Example 6:
+Text: Hi, Michael David. Was there any consensus reached on this issue?
+Annotation from annotator: 20
+
+Example 7:
+Text: Replied there. Should we keep it in that one place for now?
+Annotation from annotator: 20
+
+Example 8:
+Text: Both get across the same thing... the first is prettier. But, you at least agree with my edit removing the redundancies, no?
+Annotation from annotator: 12
+
+Example 9:
+Text: From my reading of the entries, the Japanese force in <url>/South <url> & the <url> appears to have been the <url>, rather than the <url>. Does that sound right?
+Annotation from annotator: 21
+
+Example 10:
+Text: One more thing. How is the policy of "you're not allowed to block someone for personally attacking you" unworkable?
+Annotation from annotator: 12
+
+Example 11:
+Text: I saw you assess this with a B. What am I missing?
+Annotation from annotator: 8
+
+Example 12:
+Text: 172 has refused to materially defend his take on NOR in terms of any criteria in <url> even abrasively deleting a query from a newbie on the subject in his talk page.  Is it possible to get some official clarification on the NOR policy before this becomes a precedent?
+Annotation from annotator: 8
+
+Example 13:
+Text: Wow that's old! What do you think of <url>?
+Annotation from annotator: 12
+
+Example 14:
+Text: <url>, whom you indefblocked almost a year ago, is requesting another chance and seems penitent. Have you any comments?
+Annotation from annotator: 20
+
+Example 15:
+Text: Respectfully, you've replied to the message below mine a day ago now. Could you provide guidance for my request please?
+Annotation from annotator: 8
+
+Example 16:
+Text: When someone tags articles using non-existent criteria, there's no way the articles should be deleted. The deleting admin has restored Reviewmageddon now, so it seems it's sorted out?
+Annotation from annotator: 12
+
+Example 17:
+Text: Stu: I have this terrible pain whenever I twist my arm around this way. What should I do?
+Annotation from annotator: 12
+
+Example 18:
+Text: You've been asking the ''sensible'' sysops...!?
+Annotation from annotator: 8
+
+Example 19:
+Text: I have your CH2.js installed, but I forgot what it does.  What does it do?
+Annotation from annotator: 12
+
+Example 20:
+Text: Do I get a reference to my comment? Show me where I refuse to provide evidence backing up my changes?
+Annotation from annotator: 0
+
+Example 21:
+Text: What are your intentions after two months?  Will you continue your previous deletions?
+Annotation from annotator: 12
+
+Example 22:
+Text: Re your e-mail, there is info there which is not on my talk page. May I add it to my talk page, or would you prefer it stayed off?
+Annotation from annotator: 24
+
+Example 23:
+Text: As for the Norwoods, both South Norwood and Upper Norwood are in Croydon, but West Norwood belongs to the LB of Lambeth. Does that help?
+Annotation from annotator: 24
+
+Example 24:
+Text: But ''you're'' the one branding his work as anti-Semitic! See what I mean about bad faith?
+Annotation from annotator: 0
+
+Example 25:
+Text: So even though the article says that there are 16 primitive Pythagorean triples with c < 100 there are actually 32??
+Annotation from annotator: 9
+
+Example 26:
+Text: Perhaps ''polemic'' was an unwise choice of words on my part: I meant it in the very narrow sense of an opposing theologian, but you are right, the more usual sense is of a confrontational piece of writing. I'll substitute ''tract''...?
+Annotation from annotator: 24
+
+Example 27:
+Text: I might be able to help, but I don't really know the GA criteria though. What would you like me to do?
+Annotation from annotator: 21
+
+Example 28:
+Text: Sorry Less? What is that last postdirected at?
+Annotation from annotator: 12
+
+Example 29:
+Text: Another thing: <url> has created <url>. What do you think about it?
+Annotation from annotator: 20
+
+Example 30:
+Text: Hmm, there was a 7th <url> - but someone deleted him from <url> after removing the Prod. Is that kocher?
+Annotation from annotator: 12
+
+Text: Yeah, and it will still have been the third to pass the full bit string tests, instead of just the byte tests. :)   What's the significance of 2042?
+Annotation from annotator:

@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's acceptable to use the bathroom when visiting someone else's home.
+Annotation from annotator: 4
+
+Example 2:
+Text: You should respect your partner's wishes.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't ask your family to donate money
+Annotation from annotator: 2
+
+Example 4:
+Text: It's expected that people be treated as though innocent until proven guilty in court.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's frowned upon to not to look for work when you're unemployed.
+Annotation from annotator: 3
+
+Example 6:
+Text: It is unacceptable to talk badly about someone elses religion.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's wrong to try to be overly controlling with family members.
+Annotation from annotator: 3
+
+Example 8:
+Text: It is okay to be unsure what you want to do.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's bad to not be able to express yourself.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is good to have friends who are there for you.
+Annotation from annotator: 4
+
+Example 11:
+Text: You shouldn't take on a lead role at your ex's funeral since that lead role should be for their family or current partner.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is disrespectful to pursue other women when you are married.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't snoop on people.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's okay to choose to have an experience even when your loved ones aren't supporting your decision.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's wrong to be abusive toward your significant other.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's acceptable to be unemployed.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's okay to be annoyed when someone thinks they're smarter than you.
+Annotation from annotator: 3
+
+Example 18:
+Text: You should always follow the doctor's orders.
+Annotation from annotator: 3
+
+Example 19:
+Text: You should expect your teacher to go over material with you since that's their job.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's bad to be wasteful.
+Annotation from annotator: 3
+
+Example 21:
+Text: You're expected to ask your significant other before changing your appearance.
+Annotation from annotator: 2
+
+Example 22:
+Text: It is okay to have standards for how tasks are completed.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's not okay to hint around at things to people about things that upset you.
+Annotation from annotator: 2
+
+Example 24:
+Text: You shouldn't try to force people to events they will be very unhappy at.
+Annotation from annotator: 3
+
+Example 25:
+Text: You should be able to take advice constructively
+Annotation from annotator: 3
+
+Example 26:
+Text: You shouldn't believe in tarot cards because they can't predict the future.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to do bonding activities with your parents that involve areas of mutual interest
+Annotation from annotator: 3
+
+Example 28:
+Text: It is wrong to fall in love with somebody else when you are in a relationship.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to buy gifts for your partner or spouse.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's good to work hard and train when pursuing a skill.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's fine to want to move to another location to live.
+Annotation from annotator:

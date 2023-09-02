@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: I think my 5 week old is already spoiled. She won't sleep more then 15mins unless I'm holding her
+Annotation from annotator: 1
+
+Example 2:
+Text: @endlessblush It's a Panasonic Lumix. J dropped it, bent around the lens. If the lens need recalibrating it'll be expensive... 6 mths old
+Annotation from annotator: 1
+
+Example 3:
+Text: ear ache.....random! & it hurts like a bitch   SOSOSOSO bored seriously im fifteen years old and it summer; thats fucked up!
+Annotation from annotator: 1
+
+Example 4:
+Text: off work with a poorly 4 yr old, no excuse not to do any cleaning now
+Annotation from annotator: 2
+
+Example 5:
+Text: @CosmicMother Ah Russ!  Listening & Loving it! Wish I could go back to those days, love the oldie films & songs! 2 do - Build Time Machine
+Annotation from annotator: 2
+
+Example 6:
+Text: @JMIKE3 U no that little prob with ur twitter that happen @ that old pep resteraunt! mayb this will help u fix it
+Annotation from annotator: 2
+
+Example 7:
+Text: @therealdjjelly has no dunk ryders, young cash, or bizzle...  ...atleast hes taking it back, not all futuristic.
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6plus - i got dave a new bonsai... his old one died last year  so this is steve jr. (dave named his bonsai steve... ...
+Annotation from annotator: 1
+
+Example 9:
+Text: don't ask my why i have a new account...it's cuz twitter is LAME and my old one got deleted somehow.  wah wah wah
+Annotation from annotator: 2
+
+Example 10:
+Text: Greenifyer didn't work for me, made me all black  so here's my new avatar, greenified the (very) oldfashioned way :p
+Annotation from annotator: 2
+
+Example 11:
+Text: Noooo! Goodbye my rain boots. They are too young to die...
+Annotation from annotator: 2
+
+Example 12:
+Text: @elizabethlovesj Happy Birthday 18 year old! Party time.
+Annotation from annotator: 3
+
+Example 13:
+Text: garage sale tomorrow! in DIRE need to dispose old stuff.
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished visiting some old coworkers. My truck won't go in reverse. Call outlaw and she said she was gonna bring kids home anyway.
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/680to - I also layed in her older sister's room & pet their cat, Baxter.
+Annotation from annotator: 2
+
+Example 16:
+Text: acsvxdcbgfn soccer now. shall see young phoebe after D: I don't want her dressed up though
+Annotation from annotator: 2
+
+Example 17:
+Text: @Lyssajo You're lucky. My downgraded Motorola Q9M with old Windows Mobile 6 doesn't have a Copy/Paste function.
+Annotation from annotator: 2
+
+Example 18:
+Text: @riandawson hit the lights. old school
+Annotation from annotator: 2
+
+Example 19:
+Text: Reconnected with old pal from high school. Whoa. Great fun. Good night New York. Thank you.
+Annotation from annotator: 3
+
+Example 20:
+Text: miss my old hair.  http://tinyurl.com/pqpvsl http://plurk.com/p/z0kyf
+Annotation from annotator: 1
+
+Example 21:
+Text: Weekend is over, back at work   Finally all moved out of the old apartment. Still need better cable and internet in the new one.
+Annotation from annotator: 2
+
+Example 22:
+Text: downloading good old music
+Annotation from annotator: 3
+
+Example 23:
+Text: @BeautyBlogger Wish my blog qualified.  Not 3 months old yet
+Annotation from annotator: 2
+
+Example 24:
+Text: my laptop just did something really freaky. eek! it's only a year old!!!
+Annotation from annotator: 2
+
+Example 25:
+Text: looking into socialization classes for Oreo... If any old dog can learn new tricks, it's him.
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 27:
+Text: so far so good new lappy top is working ... old boy PC is no more RIP
+Annotation from annotator: 2
+
+Example 28:
+Text: im in a chill mood. feelin like watchin sum oldskoo movies like boys n the hood or bullet.
+Annotation from annotator: 2
+
+Example 29:
+Text: @tezzer57 You are a braver man than I. I'm still wrestling with the fact I was amused by a distressed 9 year old. I'm a bad person.
+Annotation from annotator: 1
+
+Example 30:
+Text: @hippofloat Sounds great man. I'm bringing my oldest daughter tonight, Alyssa. She'll be in 7th grade this fall. A youth   She's pumped
+Annotation from annotator: 3
+
+Human-rated Examples:
+Example 1:
+Text: 2 days, 3 old games finished.  Prey, Uncharted: Drakes fortune & Mass Effect, all great games.  Sequals all on the horizon though
+Annotation from annotator: 2
+
+Example 2:
+Text: @THEsaragilbert I just fed, changed and put to sleep our 5=month old twins...now I get to wind down for bed myself
+Annotation from annotator: 3
+
+Example 3:
+Text: Finally, I got round to watching Drew Barrymore starrer Ever After, pretty cute movie, especially the old English kingdom setting
+Annotation from annotator: 3
+
+Example 4:
+Text: Daniel's graduation today!  man, I'm old.
+Annotation from annotator: 2
+
+Example 5:
+Text: Why are kids' toys much better now when I'm too old to play with them?
+Annotation from annotator: 1
+
+Example 6:
+Text: @Mr_PaulEvans yea i got two lil ones  ah the life of a young mama i love it lol how bout you? no lil 1s?
+Annotation from annotator: 3
+
+Example 7:
+Text: im sad, i was this show on tlc about a 12 yr old getting 30 yrs in prison for killing his grandparents
+Annotation from annotator: 0
+
+Example 8:
+Text: @Sonos phono out on old vinil players into a pre-amp that has a line out enables older units too
+Annotation from annotator: 2
+
+Example 9:
+Text: Just got home  listening to old Vanessa Hudgens songs hhaa, random ;)
+Annotation from annotator: 2
+
+Example 10:
+Text: @goldymom well lucky u to look younger than u actually r!  what's ur secret ;-): @goldymom well lucky u to loo.. http://tinyurl.com/qasojl
+Annotation from annotator: 3
+
+Example 11:
+Text: Old age can prove to be a curse in lot many cases when with falling memory and declining health one is unable to take care of everyday situations.
+Annotation from annotator: 1
+
+Example 12:
+Text: @drbaka http://twitpic.com/2ax1g - Got Mouse?  (Columbian Redtail boa (or very young Peruvian Redtail boa)), right?
+Annotation from annotator: 2
+
+Example 13:
+Text: @MagpieSparkles Haha SO WRONG but so yummy  Ah the youngins :p
+Annotation from annotator: 1
+
+Example 14:
+Text: I love looking through old songs.
+Annotation from annotator: 3
+
+Example 15:
+Text: @NattyMcElls I am 29 years old..
+Annotation from annotator: 2
+
+Example 16:
+Text: @zamalforemo yeah same old place
+Annotation from annotator: 2
+
+Example 17:
+Text: @GGGKeri yes she is 24..I am 29..the oldest of the bunch.   aww I loves you! x.
+Annotation from annotator: 2
+
+Example 18:
+Text: @KimKardashian your onn tv over here!!! I thinks its so old.. Dubai is never up to date  when do you vissit dubai?
+Annotation from annotator: 2
+
+Example 19:
+Text: @Karenknowsbest   it's heartbreaking, isn't it?  Was reading about one couple that left behind two young kids.
+Annotation from annotator: 1
+
+Example 20:
+Text: @abideedles Oh, that's awful, I'm so sorry to hear that happened to you and your daughter.  How old is she?  What a hard time for you
+Annotation from annotator: 1
+
+Example 21:
+Text: @David_Henrie can you say a prayer for my friend Chealse because she just lost her dad.  so i wont see her at my younglife group so ye ...
+Annotation from annotator: 3
+
+Example 22:
+Text: @GoodGreenTea I am mostly chortling you horrid old pot of tea you
+Annotation from annotator: 1
+
+Example 23:
+Text: "Arsenic and Old Lace" is on tv! One of my favorite old movies - I can't believe it  So perfect for bewitching hour.
+Annotation from annotator: 2
+
+Example 24:
+Text: Chillin at jocelyns!! my old stalker is coming
+Annotation from annotator: 0
+
+Example 25:
+Text: @TeeBunny thanks for the box! Do u have a new catalog, I  never got a chance to look at the old one
+Annotation from annotator: 2
+
+Example 26:
+Text: @movies_ie There was a young man named Spock. Who had an enormous... ego.
+Annotation from annotator: 1
+
+Example 27:
+Text: @JadeChi aw yea I hope it doesn't ruin ur nite.  GREAT memories made w/ u boo. Def will think bk to em when my kids tlk abt how old I am
+Annotation from annotator: 2
+
+Example 28:
+Text: Going to take flowers to Stephs grandmother who turned 88 years young today.  I hope I am that cute when I am her age
+Annotation from annotator: 4
+
+Example 29:
+Text: @SnarkySabs whatever that 3rd one was-about all the werewolf shite, just got too cheezy 4 me. I'm old school-give me Anne Rice
+Annotation from annotator: 0
+
+Example 30:
+Text: @fxp123 perfect, so its the same ending as mine, understood. and one of my stage names as a younger man was JAK FROSS lol how interesting
+Annotation from annotator: 2
+
+Target Example:
+Text: @uncivilized I just had to explain hyper colour to a 22 year old. I'm old
+Annotation from annotator:

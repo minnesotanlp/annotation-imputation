@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7SKq2Pgb80inyEe31RSQEbY3rSYPd",
+    "object": "chat.completion",
+    "created": 1686987642,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 725,
+        "completion_tokens": 2,
+        "total_tokens": 727
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Invalid task"
+            },
+            "finish_reason": "length",
+            "index": 0
+        }
+    ]
+}

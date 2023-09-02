@@ -1,0 +1,259 @@
+Estimated Examples:
+Example 1:
+Text: I got hoes in different area codes
+Annotation from annotator: 2
+
+Example 2:
+Text: A Mexican and an American jump off a skyscraper at the same time. Who hits the ground first? The American because the Mexican has to clean the windows on the way down
+Annotation from annotator: 2
+
+Example 3:
+Text: Non Whites hate White people plain and simple.They are taught from birth that White people are the cause of all the problems in the world and every bad thing that happens is because of evil racist White people .
+Annotation from annotator: 2
+
+Example 4:
+Text: How do Muslim terrorist make bomb? Through their bomb manual, The Quran.
+Annotation from annotator: 2
+
+Example 5:
+Text: Obama is like cancer. McCain couldn't beat him.
+Annotation from annotator: 2
+
+Example 6:
+Text: Would it bother you if I called you nigger?
+Annotation from annotator: 2
+
+Example 7:
+Text: You don't even have to change a damn thing with the character. You just make him fucking villainous.
+Annotation from annotator: 0
+
+Example 8:
+Text: @sandeep_mayekar @Ravi64350330 @vineeta0202 @mayankgandhi04 @TimesNow @AamAadmiParty @ArvindKejriwal Arvind is most innovative CM.
+Annotation from annotator: 0
+
+Example 9:
+Text: Omg or Slab!!!! I hate it when they say slab! And it's usually a pencil dick muhfucka https://t.co/G0Byoc93rp
+Annotation from annotator: 2
+
+Example 10:
+Text: Sometimes I watch TWD and start thinking how we would be fucked bc in this country we don't have guns and baseball bats laying everywhere..
+Annotation from annotator: 0
+
+Example 11:
+Text: Did you know that the Jews invented flight? They call it... 
+The Chimney
+Annotation from annotator: 2
+
+Example 12:
+Text: Barça in Liga have always scored in their games against Sevilla (seven games) &amp; Lucho's won every single home game against them (W3). [opta]
+Annotation from annotator: 1
+
+Example 13:
+Text: "@GraysonDolan ""I just wish I filmed it"" are you fucking kiding me"
+Annotation from annotator: 2
+
+Example 14:
+Text: JEWS RUN THE MEDIA
+JEWS RUN HOLLYJEWSTEINWOOD
+JEWS RUN ACADEMIA 
+JEWS RUN THE FED..........
+
+ANY QUESTIONS ?
+Annotation from annotator: 2
+
+Example 15:
+Text: TRP may be dumb most of the time, but damn to they nail it on why females are so awful
+Annotation from annotator: 2
+
+Example 16:
+Text: What’s the difference between alive and dead people? It has always been easier to get more bones out of a dead person.
+Annotation from annotator: 1
+
+Example 17:
+Text: What can you say to rebute "the patriarchy" statements?
+Annotation from annotator: 1
+
+Example 18:
+Text: Where are you from? Where were you from before that? Before that?
+Annotation from annotator: 0
+
+Example 19:
+Text: So what was your fap material today
+Just curious, neeed ideas :)))
+Annotation from annotator: 1
+
+Example 20:
+Text: Some people think say your life no go dey kampe if they leave. My blooda you had better carry yourself and ipako dey move&#128514;. You no be Jesus.
+Annotation from annotator: 0
+
+Example 21:
+Text: When you realize a bear did not eat you today then your day does not seem so bad
+Annotation from annotator: 0
+
+Example 22:
+Text: Why couldn't the police catch the human trafficker? He was hauling ass
+Annotation from annotator: 2
+
+Example 23:
+Text: Friend set me up on a blind date. It was awful. The girl ended up being a burn victim by the end of the night.
+Annotation from annotator: 2
+
+Example 24:
+Text: why was the pedophile late for his meeting ? he was loli gagging .
+Annotation from annotator: 2
+
+Example 25:
+Text: After seeing all these cute picture of children in heritage garb, it makes me wonder if we can't start a style trend moving that direction.
+Annotation from annotator: 0
+
+Example 26:
+Text: It's going to get bad when this comes out .
+Annotation from annotator: 0
+
+Example 27:
+Text: I do n't know why people associate Southern Europeans with light brown/olive skin .
+Annotation from annotator: 1
+
+Example 28:
+Text: what 's the worst way to get the money from atm ? <allcaps> if you have to swallow .
+Annotation from annotator: 2
+
+Example 29:
+Text: Volcels are OK as long as they are unhapphy
+The distinction between incels and volcels is often completely irrelevant.
+Annotation from annotator: 1
+
+Example 30:
+Text: My girlfriend smokes after sex So we started using lube.
+Annotation from annotator: 2
+
+Human-Rated Examples:
+Example 1:
+Text: When The Person You Need Ain't There Because You Fucked Up &amp; Now They Don't Want Nothing To Do With You ...
+Annotation from annotator: 1
+
+Example 2:
+Text: Lmao at all normies who aren't getting the chad memes
+"No looks too extreme"
+
+We know retard
+Annotation from annotator: 2
+
+Example 3:
+Text: k guess im being ignored again im fucking done i'll just go to bed.
+Annotation from annotator: 1
+
+Example 4:
+Text: Wonder if the New York mayor who ditched a police shooting to go "protest" in Europe was wearing a mask...he's criminally ignorant...
+Annotation from annotator: 2
+
+Example 5:
+Text: I like my women like I like my university degree in computer science. a minor
+Annotation from annotator: 2
+
+Example 6:
+Text: I'm impressed you managed to fit the ball valve at all!
+Annotation from annotator: 1
+
+Example 7:
+Text: How do you get a one armed retard off the monkey bars? Wave.
+Annotation from annotator: 2
+
+Example 8:
+Text: season's greetings (unless you're jewish) Chestnuts roasting on an open fire, squirrels burning at the stove. Reindeer entrails splattered on my front tire, and your mangled corpse in the snow.
+Annotation from annotator: 2
+
+Example 9:
+Text: Isn’t it ironic how Jews are the only people who meet Santa? Then again, they’re the only ones in the chimney.
+Annotation from annotator: 2
+
+Example 10:
+Text: Walked into BioChem and someone was sitting in the seat Ive sat in every single day, all semester. &#128545;&#128169;
+Annotation from annotator: 0
+
+Example 11:
+Text: Personally I think it would be fucking hilarious to put Franziska or Godot in but idk if they're important enough characters to make the cut
+Annotation from annotator: 0
+
+Example 12:
+Text: The hardcore commies you can meet KNOWS it that in the USA that it's impossible to impose their desired communism by means of REVOLUTION because of 105,000,000 gun owners and desires to slowly impose communism by EVOLUTION instead, FACT.
+Annotation from annotator: 2
+
+Example 13:
+Text: when every bum and drunk seems to have no problems getting dates
+... and you with education and a stable job constantly gets ignored buy women then you realize that you are subhuman.... suicide fuel
+Annotation from annotator: 2
+
+Example 14:
+Text: my boyfriends phone is glued to his face 24/7 .. so fucking annoying man
+Annotation from annotator: 1
+
+Example 15:
+Text: why would a asian guy nickname his private part ' mandingo ' ? man ! where my ding go ? <repeat> ( * with accent )
+Annotation from annotator: 2
+
+Example 16:
+Text: How long does it take a black lady to shit? 9 months
+Annotation from annotator: 2
+
+Example 17:
+Text: There were three people on a bridge... A Mexican, a Russian and an American. The Russian takes a bottle of vodka throws it in the river and says, "we have too much of this in my country." Then the Mexican throws a taco of the bridge and says," we have too much of this in my country." Then the American picks up the Mexican, throws him into the river and says, " we have too many of these in my country."
+Annotation from annotator: 2
+
+Example 18:
+Text: What goes from 0 to 70 MPH? Paul Walker flying out of his Porsche.
+Annotation from annotator: 2
+
+Example 19:
+Text: alcohol is the only cope
+from now on i will get extremely drunk every night
+Annotation from annotator: 1
+
+Example 20:
+Text: What do you call it when you fuck an apple? An inside job
+Annotation from annotator: 2
+
+Example 21:
+Text: What's the snack that smiles back? A miscarriage
+Annotation from annotator: 2
+
+Example 22:
+Text: The females in my friend group hate me now
+And i couldn't care less
+Annotation from annotator: 1
+
+Example 23:
+Text: Drinking a beer and watching #Masterchef in what can only be described as lounge wear. Life is great right now!
+Annotation from annotator: 0
+
+Example 24:
+Text: Gaters get so excited when I talk to them on reddit. It's pretty funny. I'm sure he's going to go tell his friends how I was totally #rekt.
+Annotation from annotator: 2
+
+Example 25:
+Text: What's the difference between Connor McDavid and a hippy chick? McDavid takes a shower after the third period.
+Annotation from annotator: 2
+
+Example 26:
+Text: December 18 When The Ultimate Twitter Purge Begins Wouldn’t It Be Hilarious If They Accidentally Purge All Of The Liberals And They’ve No Other Choice To Come Here Because I’ve Been Waiting For The Liberals So I Can Get My Popcorn Ready For The Show
+Annotation from annotator: 2
+
+Example 27:
+Text: Well, being a British nationalist is being a white nationalist seeing as the British are a nation of whites .
+Annotation from annotator: 1
+
+Example 28:
+Text: how many jews does it take to screw in a lightbulb ? i do n't know , i just fly the drones .
+Annotation from annotator: 2
+
+Example 29:
+Text: I have noticed a high number of people getting iPhones , been tellin' y'all that apple is the standard ⚡️&#128242;&#128268;
+Annotation from annotator: 0
+
+Example 30:
+Text: Totally different if I was prepping a meal for him. But y'all on something else if imma reach across he table to cut his chicken...
+Annotation from annotator: 0
+
+Target Example:
+Text: I never saw the Skipper skip once on Gilligan's Island
+Annotation from annotator:

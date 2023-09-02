@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Estimated Examples:
+Example 1:
+Text: You shouldn't get upset at your partner.
+Annotation from annotator: 2
+
+Example 2:
+Text: You should love your parents.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's normal for married couples to have sexual relations.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's understandable to want friends and family around when getting a medical operation.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's not okay to think someone is lying to you when it's important.
+Annotation from annotator: 4
+
+Example 6:
+Text: You don't have to help out your parents if you don't feel like it.
+Annotation from annotator: 1
+
+Example 7:
+Text: It's inappropriate to make passes at an underling.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's hurtful for parents to get their children involved in crimes.
+Annotation from annotator: 4
+
+Example 9:
+Text: It is okay to show emotions.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is good to fill out your own paperwork.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's fine to ban anyone you want to from an online account.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's okay if you are tired at work if you want to ask to go home.
+Annotation from annotator: 1
+
+Example 13:
+Text: It's good to recognize the problems with being attracted to someone much younger than you.
+Annotation from annotator: 4
+
+Example 14:
+Text: You should let your ex go.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's good to give advice to your friends.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 4
+
+Example 17:
+Text: You shouldn't play pranks on your classmates.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's not okay to have to rely on special tools when they aren't really needed.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's rude to be ashamed of people that love you.
+Annotation from annotator: 3
+
+Example 20:
+Text: It’s important to have hobbies.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't expect people to always stay at their job.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is okay to only want to hang out with certain people.
+Annotation from annotator: 3
+
+Example 23:
+Text: Pets are expected to not be treated as food.
+Annotation from annotator: 4
+
+Example 24:
+Text: You shouldn't do drugs.
+Annotation from annotator: 3
+
+Example 25:
+Text: You don't need to accept apologies if you're not ready to move on
+Annotation from annotator: 2
+
+Example 26:
+Text: It's wise to do monthly payments if you can't pay back a loan right away.
+Annotation from annotator: 4
+
+Example 27:
+Text: Families should try to work out problems with each other.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to have a best friend.
+Annotation from annotator: 4
+
+Example 29:
+Text: You're supposed to date for love and not looks.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's understandable that you don't want to be burden by other people's moments in their lives.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's normal to want to clear up space.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

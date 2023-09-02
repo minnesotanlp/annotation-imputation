@@ -1,0 +1,124 @@
+Example 1:
+Text: Why does Stephen Hawking only do one liners? He can't do stand ups
+Annotation from annotator: 2
+
+Example 2:
+Text: See I told you, AIRPLANES are SAFER than AUTOMOBILES and TRAINS‼️
+Annotation from annotator: 0
+
+Example 3:
+Text: Don't you think you should ask this at a forum where the vast majority of people actually claim that they are white supremacists ?
+Annotation from annotator: 0
+
+Example 4:
+Text: Power Rangers, Ghost in the Shell and beauty and the beast is out and I'm playing doom. What fucking year is this.
+Annotation from annotator: 0
+
+Example 5:
+Text: Wishing my arena partner was on. &gt;.&gt;  Really want to get some PvP happening.
+Annotation from annotator: 0
+
+Example 6:
+Text: ATTN all: I'm taking down @randi_ebooks/@gater_ebooks for maintenance tonight for &lt;1hr. block lists will still function, just not markov.
+Annotation from annotator: 0
+
+Example 7:
+Text: Dear #Remoaners who cannot face reality, where did you get your opinion on Brexit. The nice suited middle-class TV man? Oh jolly good Jonty!
+Annotation from annotator: 0
+
+Example 8:
+Text: Lol that's some hoe shit
+Annotation from annotator: 2
+
+Example 9:
+Text: If your message only appeals to people who already agree with you, you might want to reconsider how you present your own arguments.
+Annotation from annotator: 0
+
+Example 10:
+Text: So I was playing Forza Horizon 3 yesterday... Couldn't help but remember that Paul Walker failed the tutorial and never fucking played again.
+Annotation from annotator: 0
+
+Example 11:
+Text: "The color of your skin is the uniform you wear in this ultimate battle for the survival of the West" ~ George Lincoln Rockwell
+Annotation from annotator: 0
+
+Example 12:
+Text: I say all that to say this, make sure you are in a relationship with someone who understands you just as much as they love you.
+Annotation from annotator: 0
+
+Example 13:
+Text: Tune into #etvgh now and listen to Dr. C. J. Buckman discuss Prayer As A Lifestyle o 360 Degree. @Ogbameytetteh
+Annotation from annotator: 0
+
+Example 14:
+Text: "i'm rlly over &amp; done w/putting in effort w/anyone who doesn't do the same for me so pls don't text my phone saying ""u changed"" when ukno why"
+Annotation from annotator: 0
+
+Example 15:
+Text: Hunter Hearst Hotrod is a fucking snitch, ACAB, go seth rollins #Wrestlemania
+Annotation from annotator: 2
+
+Example 16:
+Text: my 19 yo incel AMA
+yeah just ask me anything
+Annotation from annotator: 0
+
+Example 17:
+Text: Also it's fucking 890362263749493 degrees in this damn place
+Annotation from annotator: 0
+
+Example 18:
+Text: White privilege and misogyny cutting through the fog, time for more wine #fuckthanksgiving
+Annotation from annotator: 0
+
+Example 19:
+Text: "@starsmoonandsun and divorce as well "" .. I'm struggling everyday trying to understand my feelings I always wanted what/who I can't reach &#128530;"
+Annotation from annotator: 0
+
+Example 20:
+Text: "RT @TheRealSchitty: And you're the one stupid as fuck for needing someone to qualify their statement with ""some"". Instead of letting the sh…"
+Annotation from annotator: 2
+
+Example 21:
+Text: What can a black man not steal? Your job.
+Annotation from annotator: 2
+
+Example 22:
+Text: People say suicide isn't the answer That's when life is too much I kill others.
+Annotation from annotator: 1
+
+Example 23:
+Text: How do you remove crime in a fast and efficient way? Stab every pregnant black woman you see.
+Annotation from annotator: 2
+
+Example 24:
+Text: Yesterday I was talking to my friend's dad... Jk he's black.
+Annotation from annotator: 2
+
+Example 25:
+Text: How does a Jewish person start a joke? Hey gas what
+Annotation from annotator: 2
+
+Example 26:
+Text: Need this mirror on my wall asap cannot deal with trying to style outfits without a fucking mirror
+Annotation from annotator: 0
+
+Example 27:
+Text: #RandomThoughts do farts really smell like roses to the beholder? 
+
+Annotation from annotator: 0
+
+Example 28:
+Text: Norman redditor's biggest fantasy is having Elon Musk fuck his wife while he's recording so that he can post it on reddit later and get upvotes and respect like he's never experienced before
+Annotation from annotator: 0
+
+Example 29:
+Text: If @twitter @safety wants more details, they should ask for it in the interface when I file the report - not 30 seconds later in an email.
+Annotation from annotator: 0
+
+Example 30:
+Text: You really should do something about your health...
+Annotation from annotator: 0
+
+Text: If you're interested in working on solutions, we'd love to have your help. However, I can spot a flail for media attention from a mile away.
+Annotation from annotator:

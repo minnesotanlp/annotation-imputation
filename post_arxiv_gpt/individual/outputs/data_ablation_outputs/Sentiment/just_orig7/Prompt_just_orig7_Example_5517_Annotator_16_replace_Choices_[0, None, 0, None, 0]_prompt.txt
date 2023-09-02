@@ -1,0 +1,83 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: ... downloaded the new YouMail Blackberry App.  It won't download my old messages
+Annotation from annotator: 1
+
+Example 2:
+Text: @0pensource Ubuntu doesn't run on an old AMD 2100 mhz machine I have.  Memory dumps all over the place. Wanted to replace old w2k machine
+Annotation from annotator: 2
+
+Example 3:
+Text: @BLeigh1130 wow, 32 is nooot old at all. huh. those poor kids though, SERIOUSLY
+Annotation from annotator: 2
+
+Example 4:
+Text: @Billy_Hamm Lucky guy!  Tell Conan hello for me.  He and I are old buddies...really, we are!    I'll have to d/l the show and try and  ...
+Annotation from annotator: 2
+
+Example 5:
+Text: @DonnieWahlberg my daughter turned 15 today feeling old today
+Annotation from annotator: 1
+
+Example 6:
+Text: @EVERYBODY. Tuesday is my day  23 years old
+Annotation from annotator: 3
+
+Example 7:
+Text: @FUCKCITY andiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii happy birthday (: hahaha yeah u r old xD the best old drummer xD kidding
+Annotation from annotator: 3
+
+Example 8:
+Text: @Gilamuffin Not much longer!! Man time flies the older you get
+Annotation from annotator: 1
+
+Example 9:
+Text: @ScottSharman ahhh the old new-camera-guilt-shopping trick. I know that one well
+Annotation from annotator: 3
+
+Example 10:
+Text: @TastyTaylor so do I. I miss the old times
+Annotation from annotator: 1
+
+Example 11:
+Text: @amandabynes Hope you had fun Twistin to the oldies today.
+Annotation from annotator: 3
+
+Example 12:
+Text: @daveredfly thank you muchly my old friend  winding down from a great evening & prepping for a gr8 day  peace
+Annotation from annotator: 3
+
+Example 13:
+Text: @elberke12 Lazy Friday? Are those allowed at debtwire?!? Back in the good old days they certainly weren't
+Annotation from annotator: 2
+
+Example 14:
+Text: @gilbirmingham I'm sorry, but I could live without that pic  lol I'm 19, and can appreciate an attractive older man..  but there's a limit
+Annotation from annotator: 1
+
+Example 15:
+Text: @glamourous  this grad school business IS old! lol i much rather be with the YALL,and yes ima be on lock down this weekend too
+Annotation from annotator: 1
+
+Example 16:
+Text: @lyyyl They're both well sweetie. LV's getting old though  xx
+Annotation from annotator: 3
+
+Example 17:
+Text: @mixero after a couple of crashes seems to work fine on a  old hp notebook running ubuntu
+Annotation from annotator: 3
+
+Example 18:
+Text: @msjmb i used to run that, i still use an old crt monitor
+Annotation from annotator: 2
+
+Example 19:
+Text: @oldfox004 browsing from a century old PC in my frds home..
+Annotation from annotator: 1
+
+Target Example:
+Text: @tonyrobbins Did you get the new phone?  I updated my old one.  Now I want new one.  Want's vs. Need's
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

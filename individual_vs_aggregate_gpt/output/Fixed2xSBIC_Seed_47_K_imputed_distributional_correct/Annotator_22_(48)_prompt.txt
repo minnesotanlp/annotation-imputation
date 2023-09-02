@@ -1,0 +1,30 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and be shown the distributional label of how all annotators have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: so muslims kill <number> people in san bernardino and a muslim kills <number> people at the pulse in orlando . <repeat> . <repeat> nd a black man kill <number> police officers in dallas , tx . man black people really are <allcaps> lazy
+ANSWER: 2
+
+2.
+EXAMPLE: what is the difference between a stone and a baby ? having sex with a stone is not really fun
+ANSWER: 2
+
+3.
+EXAMPLE: if i had a dollar for ever gender . <repeat> i 'd have $ <number>
+ANSWER: 2
+
+4.
+EXAMPLE: why did clapton switch to apple ? well , he had a terrible experience with windows . ( full credit to neil hamburger )
+ANSWER: 2
+
+Here's how the distributional label of how all annotators have annotated the target example:
+0.00% of people responded with 0
+0.00% of people responded with 1
+100.00% of people responded with 2
+
+How would the particular annotator annotate the target example?
+EXAMPLE: saw a black person with my bike . <repeat> damn . i saw a black person running of with a bike . <repeat> it looked exactly like mine . : / i made a picture fast and ran home to look if mine was still there . luckily mine was still in the basement polishing my shoes . i was scared he escaped . <repeat>
+ANSWER:

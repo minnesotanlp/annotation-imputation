@@ -1,0 +1,209 @@
+Human-Rated Examples:
+Example 1:
+Text: It's selfish to expect your husband to give you his entire estate.
+Annotation from annotator: 2
+
+Example 2:
+Text: You should be understanding of your family's decisions when they're weak.
+Annotation from annotator: 2
+
+Example 3:
+Text: Making dinner is economical as opposed to eating out.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is understandable for parents to want to take care of their child when they are in need.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's good to find proof of cheating you perceive to be happening.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't lie about drug use.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation from annotator: 3
+
+Example 8:
+Text: You have to do whatever is necessary in an emergency situation.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to recognize the problems with being attracted to someone much younger than you.
+Annotation from annotator: 3
+
+Example 10:
+Text: It’s important to have hobbies.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's wrong to spend other people's money.
+Annotation from annotator: 3
+
+Example 12:
+Text: You can't expect your team to always win their game.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is good to have rules.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is wrong to value a substance more than your significant other
+Annotation from annotator: 3
+
+Example 15:
+Text: It's okay to enjoy powdered milk.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's not okay to be to happy with a material object.
+Annotation from annotator: 1
+
+Example 17:
+Text: You shouldn't try to get sympathy from people just because you're in the hospital.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's expected that the husband pay child support.
+Annotation from annotator: 2
+
+Example 19:
+Text: You should thank someone when they invite tou to thier wedding.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's not okay to stray from a relationship.
+Annotation from annotator: 3
+
+Example 21:
+Text: If you eat someone's food, you should let them know.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's wrong to admire villains.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's wrong to think people who can't pay for healthcare don't deserve it because everyone deserves healthcare.
+Annotation from annotator: 2
+
+Example 24:
+Text: It's OK to be wrong.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's wrong to have weird sexual fantasies.
+Annotation from annotator: 2
+
+Example 26:
+Text: It's important to respect the culture of other people.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't be crazy about things.
+Annotation from annotator: 3
+
+Example 28:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't judge people by how they look
+Annotation from annotator: 3
+
+Example 30:
+Text: Businesses should treat customers with courtesy if they expect them to return.
+Annotation from annotator: 3
+
+Estimated Examples:
+Example 1:
+Text: It's not okay to think someone is lying to you when it's important.
+Annotation from annotator: 1
+
+Example 2:
+Text: People are expected to want to be close to their family.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't expect your ex to not have sex after the relationship is over.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is okay to not want to go to a party.
+Annotation from annotator: 3
+
+Example 5:
+Text: You shouldn't care who your friends hook up with.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's rude to want to snoop in your ex's online accounts.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't expect people to work if they don't want to.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's responsible to take part in rearing a younger sibling.
+Annotation from annotator: 3
+
+Example 9:
+Text: You don't need to accept apologies if you're not ready to move on
+Annotation from annotator: 3
+
+Example 10:
+Text: It is wrong to insult your boyfriend and then expect him to want to be around you.
+Annotation from annotator: 3
+
+Example 11:
+Text: Relationships are expected to have clear communication.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's okay to be offended when your partner doesn't want you cooking for their kids.
+Annotation from annotator: 2
+
+Example 13:
+Text: If you are uncomfortable with your partner feeding your kids, you should not let your partner watch your children.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's bad to make big purchases behind your significant other's back.
+Annotation from annotator: 3
+
+Example 15:
+Text: You shouldn't expect people to do all their chores.
+Annotation from annotator: 1
+
+Example 16:
+Text: You shouldn't get pissed off at your siblings.
+Annotation from annotator: 1
+
+Example 17:
+Text: It's okay to be upset if someone you report to at work lets you take the blame for something you didn't do.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is wrong to take video games too seriously.
+Annotation from annotator: 2
+
+Example 19:
+Text: You shouldn't be friends with someone that talks badly about you behind your back.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't do drugs.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't get upset at your partner.
+Annotation from annotator: 1
+
+Target Example:
+Text: If someone forbids you from doing something, you should respect them.
+Annotation from annotator:

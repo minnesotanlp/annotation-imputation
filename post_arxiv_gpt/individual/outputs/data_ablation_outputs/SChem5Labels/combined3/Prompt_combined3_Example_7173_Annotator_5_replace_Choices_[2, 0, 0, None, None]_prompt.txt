@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It's wrong to brag about your fitness all the time because it's annoying.
+Annotation from annotator: 3
+
+Example 2:
+Text: You shouldn't annoy the people you sit by.
+Annotation from annotator: 3
+
+Example 3:
+Text: It is good to try to make a good impression at work.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's kind to use your skills  to help someone's artistic endeavor.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is wrong to expect a favor just because someone is related to you.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's wrong to hide from new experiences.
+Annotation from annotator: 2
+
+Example 7:
+Text: It is your right to kiss whoever you want to.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's good to have a friendly relationship with your work colleagues if possible.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is okay if you are not popular.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to have strong beliefs about sensitive issues.
+Annotation from annotator: 2
+
+Example 11:
+Text: When your kids are arguing, you should not try to get in the middle of it.
+Annotation from annotator: 2
+
+Example 12:
+Text: You shouldn't put up with someone who talks to you rudely.
+Annotation from annotator: 2
+
+Example 13:
+Text: You shouldn't demand things from your partner.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should mind your own business when it comes to your partner's relationships.
+Annotation from annotator: 2
+
+Example 15:
+Text: You shouldn't lie about drug use.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's understandable that sometimes, people have reasons to want out of a situation.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's good to help people who are having problems.
+Annotation from annotator: 4
+
+Example 18:
+Text: It is wrong to steal stacks of copy paper from school.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's wrong to lead people on.
+Annotation from annotator: 2
+
+Example 20:
+Text: You shouldn't avoid paying something because of a clerical mistake.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's understandable to have a hard time breaking bad news to someone you love.
+Annotation from annotator: 3
+
+Example 22:
+Text: If you run a store, you're expected to have the sizes your customers want.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't use too broad of a topic for an essay or else you might get a bad grade.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's expected that you'll be supportive of your manager.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is okay to disagree with a friend's choices.
+Annotation from annotator: 3
+
+Example 26:
+Text: If you want green grass on your lawn, you should water it more.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to develop your talents.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to make lists of things so you can organize things better.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay to be disgusted when someone pees on the floor in the bathroom.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's okay if you do not want to attend your graduation ceremony.
+Annotation from annotator: 2
+
+Human-Rated Examples:
+Example 1:
+Text: You shouldn't talk smack about your friends.
+Annotation from annotator: 3
+
+Example 2:
+Text: Judging how others enjoy themselves, even when they're your partner, is inappropriate.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should treat everyone equally.
+Annotation from annotator: 3
+
+Example 4:
+Text: You shouldn't milk your parents for money.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's expected that you will want someone very creditworthy to sign for a loan before you approve it
+Annotation from annotator: 3
+
+Example 6:
+Text: It's expected that a doctor will prescribe medicine to speed up recovery.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's ok to use a donor's eggs for reproduction when you are experiencing infertility.
+Annotation from annotator: 3
+
+Example 8:
+Text: You shouldn't expect others to give you their food.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's not acceptable to be mean to little children.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is good to tell the truth.
+Annotation from annotator: 3
+
+Example 11:
+Text: You have a right to be upset when your wife insults you.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is expected that good friends tell each other about developments in their lives.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should do things that make you happy.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's bad to leave your wife.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's expected that you sit down in a theater
+Annotation from annotator: 3
+
+Example 17:
+Text: You shouldn't hog the ball when playing a team sport.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's understandable to feel regret at the result of someone's death.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's rude to play the same song twice in a row.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's fine to need to use the bathroom.
+Annotation from annotator: 3
+
+Example 21:
+Text: It is good to speak up.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's okay to feel insecure about your beliefs.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is okay to not help your partner orgasm when you are not in the mood yourself.
+Annotation from annotator: 2
+
+Example 24:
+Text: It's understandable that sometimes, people have reasons to feel insecure.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is impolite to not say hello.
+Annotation from annotator: 2
+
+Example 26:
+Text: It's good to want to be student of the month when you're a kid.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's okay if you are tired at work if you want to ask to go home.
+Annotation from annotator: 3
+
+Example 28:
+Text: It is wrong to engage in illegal activities
+Annotation from annotator: 4
+
+Example 29:
+Text: It's encouraged you pay off your debts if you come into money
+Annotation from annotator: 2
+
+Example 30:
+Text: You shouldn't make fun of people that wear diapers if they have a real medical need to wear them.
+Annotation from annotator: 3
+
+Target Example:
+Text: You shouldn't surprise people.
+Annotation from annotator:

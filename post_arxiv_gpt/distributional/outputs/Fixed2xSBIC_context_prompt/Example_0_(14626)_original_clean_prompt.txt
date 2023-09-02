@@ -1,0 +1,37 @@
+Here is a description of a dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Your goal is to predict the soft label given by the raters on a particular text.
+
+Here are a few examples of texts and their soft label:
+Example 14625
+Text: Now that person has been doxxed on 8chan. And despite this being the person who posted my &amp; others' home address, suddenly he sees a problem
+Soft labels:
+100.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+
+Example 12336
+Text: bar results are coming out tomorrow(ish) and i literally can't fucking breathe.
+Soft labels:
+66.67% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+33.33% of responsive annotators labeled the text with 2
+
+Example 22642
+Text: I've always hated deaf jokes. I never heard a good one.
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+100.00% of responsive annotators labeled the text with 2
+
+Example 29449
+Text: I'm about to see my best friend for the first time since like November even though we go to the same college and are 10mins from each other
+Soft labels:
+100.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+
+Now, you will make your prediction (if you are unsure, just give your best estimate):
+Target Text: 3. That said no military op plan survives after the first shot is fired. Russians imbedded with Syrian forces all over the country
+Soft labels:

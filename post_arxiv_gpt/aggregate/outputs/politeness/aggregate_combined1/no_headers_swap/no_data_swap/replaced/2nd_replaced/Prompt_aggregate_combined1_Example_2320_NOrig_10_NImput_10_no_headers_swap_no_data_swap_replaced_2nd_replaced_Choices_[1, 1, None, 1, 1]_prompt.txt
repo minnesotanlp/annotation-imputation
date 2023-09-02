@@ -1,0 +1,84 @@
+Human-Labeled Majority-voted Examples:
+Example 1:
+Text: I haven't uploaded any more to Wiki because they tend to be more detailed and rather more abstruse. Have you had a look at Barry Burnham's book from Oxbow of 2004?
+Annotation: 12
+
+Example 2:
+Text: I noticed you put "NB" and then the credit for the original picture that I cropped. What does "NB" stand for?
+Annotation: 12
+
+Example 3:
+Text: Need help with EF 175 via email. Mind <url> so we can discuss?
+Annotation: 12
+
+Example 4:
+Text: The template I want is the one that goes at the bottom of the article and produces a message that goes something like 'This article is a copy of the (X) article in the German wikipedia, version 21 December 2009 10:04.' What is that template?
+Annotation: 12
+
+Example 5:
+Text: I'm pretty sure there already is a filter (possibly more than one) for this. What page got moved?
+Annotation: 12
+
+Example 6:
+Text: Third, what picture then should go into the Harrison Ford infobox?  Would this one (Image:Harrison Ford 1) do it?
+Annotation: 12
+
+Example 7:
+Text: Thankyou for the message. Isn't it academic convention to specify which edition one has cited and give the page numbers therefrom?
+Annotation: 15
+
+Example 8:
+Text: <url> is kindxe1 related to the subjects we have been dealing with. Would you mind if I ask you for advice?
+Annotation: 12
+
+Example 9:
+Text: Are the remaining IPs on <url> still a problem? If so is Tom dealing with it?
+Annotation: 12
+
+Example 10:
+Text: Okay. Meanwhile, can you think of a good line for a <url> submission?
+Annotation: 16
+Estimated Majority-voted Examples:
+Example 1:
+Text: It would be better to have this discussion on the TKD talk page. Why don't you re-post it there?
+Annotation: 12
+
+Example 2:
+Text: No, I didn't know that. Where does this "rule" come from?
+Annotation: 3
+
+Example 3:
+Text: The article <url> (written with two s) was rightly deleted as it contained almost no content (Timothy (Tim) Ferriss is the author of The 4-Hour Workweek). I think you mean the science-fiction writer <url> (written wit one s) ?
+Annotation: 10
+
+Example 4:
+Text: I have reverted your relocation of the images of this fragment - as I think it better if the images and transcripts can be seen side-by-side.  Do you agree?
+Annotation: 20
+
+Example 5:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation: 0
+
+Example 6:
+Text: Your comments have been extremely helpful. I'd like to put this FAC to bed soon; is there any chance that you might be able to finish off your review of the article this weekend?
+Annotation: 16
+
+Example 7:
+Text: Done. Comments?
+Annotation: 8
+
+Example 8:
+Text: I'm sorry, but I'm unlikely to have time to help. Maybe try <url>?
+Annotation: 16
+
+Example 9:
+Text: Hello, sorry I probably should have asked first, but I thought it might be a good idea to nominate one of the images you uploaded, <url>, for featured picture. I hope you don't mind me taking the liberty, as it were?
+Annotation: 16
+
+Example 10:
+Text: I deleted the redirects <url> and <url> that were a result of the page moves.  Is that all you needed?
+Annotation: 8
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Text: I'm confused by <url>. Why French?
+Annotation:
+Your output should be a single integer and nothing else.

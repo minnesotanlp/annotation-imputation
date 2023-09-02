@@ -1,0 +1,286 @@
+Estimated Examples:
+Example 1:
+Text: [LifeFuel] Bottom of the barrel roastie completely ruined by Chads and Tyrones
+Annotation from annotator: 2
+
+Example 2:
+Text: Could do with a bit of luck in my life sick as fuck &#128580;
+Annotation from annotator: 2
+
+Example 3:
+Text: Teach them about self love and the laws of attraction..the shit they should REALLY be learning in those classrooms
+Annotation from annotator: 2
+
+Example 4:
+Text: Response from a UCLA blowhard ... Oh shut the hell up you bumbling , incompetent hack .
+Annotation from annotator: 2
+
+Example 5:
+Text: the 1960'scast of Hollywood Squares 
+CarolBurnet
+TIm Conway 
+HarveyCorman
+Milton Berle
+Annotation from annotator: 0
+
+Example 6:
+Text: Women? Holding things? That have mass? WEIRD @ZelRetro In weight training. And there's more girls then guys. Not sexist but a little strange
+Annotation from annotator: 2
+
+Example 7:
+Text: If for women there are feminists, is there something like that for men?
+Annotation from annotator: 1
+
+Example 8:
+Text: If a man who was raped by a woman later raped her back feminists would say the first rape was female empowerment, but the second rape should condemn the man to eternal torment.
+Annotation from annotator: 2
+
+Example 9:
+Text: "Every time I try to retweet a contest Twitter tells me ""Sorry something went wrong"". What the fuck is this crap!"
+Annotation from annotator: 2
+
+Example 10:
+Text: FUCK MCDONALD'S IN EVERY COUNTRY FOR WHAT THEY SAID ABOUT THE PRESIDENT OF THE UNITED STATES !!!!
+Annotation from annotator: 2
+
+Example 11:
+Text: Don't post no men on my page . Don't got time to be updating my pages every week because he on some nut shit &#129335;&#127995;‍♀️.
+Annotation from annotator: 2
+
+Example 12:
+Text: Days like this even though I might had a rocky childhood like all of us I consider myself Blessed for growing up to classics and old country music
+Annotation from annotator: 0
+
+Example 13:
+Text: Just spent a whole 20k(imaginary money) on a home studio.. And used the last 3$ 2 get some flowers n a gift card for YA BIHH.
+Annotation from annotator: 1
+
+Example 14:
+Text: We are unworthy of love
+Just learn to deal with it or something I guess, IDK you just aren't deserving of it like more attractive people are so learn to live life without it idk hahahahahahahaha I wanna die why won't anyone love me :_:
+Annotation from annotator: 2
+
+Example 15:
+Text: So that's what it sounds like when 80 thousand plus don't make a peep. Kinda feel bad for Orrin #Wrestlemania
+Annotation from annotator: 0
+
+Example 16:
+Text: I think he had a near death experience and saw where he is going and now he 's clinging to life with desperate tenacity
+Annotation from annotator: 0
+
+Example 17:
+Text: We are like a zoo to normies to be laughed at
+We're like a traveling freak show
+
+Why do we allow this?
+Annotation from annotator: 2
+
+Example 18:
+Text: I almost took out a dozen of them fighting in the street the other night .
+Annotation from annotator: 0
+
+Example 19:
+Text: Why do poles only eat cupcakes? Because they are traumatized by their country being split like a cake!
+Annotation from annotator: 2
+
+Example 20:
+Text: How you go 5 shade lighter just by putting on makeup...dont wear the shit if you cant find your right shade...tired of seeing clowns&#128530;&#128564;
+Annotation from annotator: 2
+
+Example 21:
+Text: Three black guys walk up to the gates of heaven
+Annotation from annotator: 0
+
+Example 22:
+Text: The only one thing I hate more than crime... ...and that's the legal age of consent being so damn high.
+Annotation from annotator: 2
+
+Example 23:
+Text: Hillary also crawls when approaching black vans and boarding airplanes and running from mortars and lying to the families of Benghazi dead.
+Annotation from annotator: 2
+
+Example 24:
+Text: unfortunately the jew controlled government will never allow this labeling every attempt for this `` racist '' even though there are hundreds of negro exclusive schools around this country .
+Annotation from annotator: 2
+
+Example 25:
+Text: Leicester FC rising up the league, almost from the dead. Resurrection, U might say. Shakespeare's got it right. Richard 3 found in carpark.
+Annotation from annotator: 0
+
+Example 26:
+Text: Reminder: size doesn't matter if you're ugly
+If you're ugly and your dick is small - you're a loser and not a real man, if it's big - you're a freak and a potential rapist in the eyes of women.
+Annotation from annotator: 2
+
+Example 27:
+Text: A man went into a library and asked for a book about how to commit suicide. The librarian said “fuck off, you won’t bring it back”.
+Annotation from annotator: 2
+
+Example 28:
+Text: You don't socialize and put yourself out there enough
+&gt; *"This is why your incel"*
+Annotation from annotator: 2
+
+Example 29:
+Text: THE WORLD
+HATES U
+REMEMBER
+IT HATED ME
+B4IT
+HATED U
+THE WORLD
+WOULD LOVE U
+IF U BELONGED2IT
+BUT U DON'T
+I CHOSE U
+2COME OUT
+OF THE WORLD
+SO IT HATES U
+DON'T U REMEMBER
+WHAT I TOLD U
+A SERVANT IS
+NOT GREATER
+THAN THE MASTER
+SINCE THEY
+PERSECUTE ME
+THEY WILL NATURALLY PERSECUTE U
+Jn15:18-20
+NOTuREPENT
+Annotation from annotator: 0
+
+Example 30:
+Text: You annoyed me every day for months you're a fucking moron
+Annotation from annotator: 2
+
+Human-rated Examples:
+Example 1:
+Text: They sleep on dirty floors in dirty houses with their dirty kids eating off dirty plates driving in dirty cars sitting at dirty tables with their dirty manners and dirty way of talking dirty way of living they wear dirty clothes have dirty smiles and are all-around dirty nasty people .
+Annotation from annotator: 2
+
+Example 2:
+Text: Evasive girl I flirted with online now apparently threatening to publicly shame me and destroy my career (x-post relationships)
+Annotation from annotator: 2
+
+Example 3:
+Text: Fat hoes on Twitter calling themselves Barbies, bitch you ain't no damn Barbie you a damn care bear.
+Annotation from annotator: 2
+
+Example 4:
+Text: Just about anything you could ever dream of can be found HERE Just about everyone agrees on illegal immigration !
+Annotation from annotator: 2
+
+Example 5:
+Text: my thesis is essentially: the opening scene is important bc we see that agamemnon is a dick and achilles is up his own ass
+Annotation from annotator: 2
+
+Example 6:
+Text: I been at school , work , home, do homework, sleep, wake up and do it all over again Monday-Friday ... I need this weekend off &#128553;
+Annotation from annotator: 0
+
+Example 7:
+Text: Whats 6 inches long, pink, and makes girls scream when they see it? A miscarriage
+Annotation from annotator: 2
+
+Example 8:
+Text: Being a bad person doesn't prevent you from getting laid
+For example, look at most of the normans who post here, they're completely terrible people and still get laid.
+Annotation from annotator: 2
+
+Example 9:
+Text: Why do women always say "women are people just like men" when every interaction I've had in my life has taught me that men are more empathetical, understanding, and logical, whereas women are more likely to be hypocritical and irrational and selfish?
+Annotation from annotator: 2
+
+Example 10:
+Text: Homestuckers are *cough* the NFL's whitest team but I get my dick sucked by my stockpile of Franken Berry I have saved for the cold months.
+Annotation from annotator: 2
+
+Example 11:
+Text: This life is all a big comedy sketch that nobody seems to notice
+Can't wait till the next one.
+Annotation from annotator: 0
+
+Example 12:
+Text: Tell her all you told to me , how this is where you wanna be and you can't see ya self living without me &#128524;&#129335;&#127997;‍♀️
+Annotation from annotator: 0
+
+Example 13:
+Text: That is only when they began speaking English as a majority .
+Annotation from annotator: 1
+
+Example 14:
+Text: Should incels officially make a stand against the hate speech towards unattractive men that comes from places such as bluepill?
+Annotation from annotator: 1
+
+Example 15:
+Text: War mongers are so fast to wage war - using someone else's son as cannon fodder.
+Annotation from annotator: 2
+
+Example 16:
+Text: LOOKSISM
+Eating burger as Chad == Manly strong
+
+Eating burger as incel == disgusting slob
+Annotation from annotator: 2
+
+Example 17:
+Text: Now that Citizens United established 1st amendment rights for corporations, the Supreme Court has literally ruled that money is speech.
+Annotation from annotator: 0
+
+Example 18:
+Text: All investigations should include what Obama did /didn't do to stop Russian aggression. Now that everyone is a Russia hawk.
+Annotation from annotator: 0
+
+Example 19:
+Text: Whats a Muslims favorite type of music? Stoner metal.
+Annotation from annotator: 2
+
+Example 20:
+Text: in short, there needs to be a verified that isn't Verified. requiring govt ids will cause probs. unique phone less problematic, not perfect.
+Annotation from annotator: 0
+
+Example 21:
+Text: For anyone Who has never been to Jail
+Or Prison....this is how it is.......
+Get (((booked)))
+Move to population...depending on your identity beliefs.ie tattoos.When you make it up North....Then you realize that RACE MATTERS..NEVER FORGET...because you are a number goy..got it..I KNOW MINE....FOREVER
+Annotation from annotator: 2
+
+Example 22:
+Text: We get attached to temporary things, then wonder why our happiness never lasts. KissWard SUNaKayoNalang
+Annotation from annotator: 0
+
+Example 23:
+Text: What is the opposite of a human being Black
+Annotation from annotator: 2
+
+Example 24:
+Text: It is only when you see people looking ridiculous that you realize just how much you love them. ~ Agatha Christie
+Annotation from annotator: 0
+
+Example 25:
+Text: White coworker:: Why don't you drink? Me:: Because I'm Muslim. White coworker:: Oh, but you know I'm for women's rights. I'm glad you don't dress like those other women we work with (African women who wear hijab). I guess it's good they're allowed to leave the house to work though.
+Annotation from annotator: 2
+
+Example 26:
+Text: Deep inside my Kremlin troll farm HQ fake news on full blast and Omonous Accordians and Organs play cnn fake news
+Annotation from annotator: 2
+
+Example 27:
+Text: Learnt so much Today at #yeco2017. Tnks @akinalabi @Omojuwa @funkeakindele @markessien and the MC too LOLzz #persistencepays
+Annotation from annotator: 0
+
+Example 28:
+Text: i dont know why i decided it was a good idea to watch 13 Reasons, i hate my sisters for letting me watch it after them
+Annotation from annotator: 0
+
+Example 29:
+Text: I see a lot of new people here, introduction to black pill
+Annotation from annotator: 0
+
+Example 30:
+Text: If yall niggas gon be gay, why yall gotta be so over the top? Dressing up in bitch shit that women wouldnt even dare wear. Smh.
+Annotation from annotator: 2
+
+Target Example:
+Text: So, will the French terrorists be heading to Turkey where Erdogan can protect them and send them safely to ISIS? #Islam
+Annotation from annotator:

@@ -1,0 +1,32 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and be shown what the plurality of annotators gave as a label, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: Penis Hehe wieners
+ANSWER: 2
+
+2.
+EXAMPLE: What's the snack that smiles back? A miscarriage
+ANSWER: 2
+
+3.
+EXAMPLE: It sure is weird how I only ever see mean things being attached to the gamergate hashtag.
+ANSWER: 1
+
+4.
+EXAMPLE: Infowars: “Get next week, next month, next years news, today!”
+
+Reality: *links to NBC article*
+ANSWER: 1
+
+Here's how the plurality of annotators labeled the target example:
+1.
+EXAMPLE: Boycott: Popular Washington DC area Radio Station 93.9 running ad openly pushing the core ideology of SJWs (Intersectional Feminism)
+ANSWER: 2
+
+How would the particular annotator annotate the target example?
+EXAMPLE: Boycott: Popular Washington DC area Radio Station 93.9 running ad openly pushing the core ideology of SJWs (Intersectional Feminism)
+ANSWER:

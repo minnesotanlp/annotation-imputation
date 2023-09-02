@@ -1,0 +1,173 @@
+Imputed Examples:
+Example 1:
+Text: Do you really believe that your photograph at the top of the <url> is better than my photograph which you removed? Should Wikipedia have a dedicated sunrise article that does not feature even one single decent image of a red sky?
+Annotation from annotator: 12
+
+Example 2:
+Text: That's reason to expand the treatment to other painters, not to blank this one.  And you didn't think that there would be more articles on van Gogh paintings?
+Annotation from annotator: 11
+
+Example 3:
+Text: Alistair, you have only undone the autoblock; you haven't unblocked the account yet. Could you do that, please?
+Annotation from annotator: 19
+
+Example 4:
+Text: Hi, you recently speedily deleted this image and in your explanation stated that I, the uploader, was informed of this. I was not - please could you tell me why not?
+Annotation from annotator: 20
+
+Example 5:
+Text: Could you please explain <url> to me? I don't see how deleting a person's userpage is correct?
+Annotation from annotator: 15
+
+Example 6:
+Text: And  what did I do wrong???????????????????????
+Annotation from annotator: 10
+
+Example 7:
+Text: This is what you stated from the page <url>.  Can you link to me the policy stating that minimum amount of content in an article, where it's not 'lacking in content,' is needed to be considered undue?
+Annotation from annotator: 15
+
+Example 8:
+Text: Terms like "elected", "responsible" and "designated points-of-contact" imply some sort of delegated authority, I'd have thought.  By omission, is Hornoir saying that the delegate has authority over other aspects of the project?
+Annotation from annotator: 17
+
+Example 9:
+Text: I was just looking again at the April Fool's pranks from this year and came upon <url> to a page you deleted per "housecleaning".  Can we undelete and move it somewhere (the latter only if necessary), tagging with <url> in the process?
+Annotation from annotator: 18
+
+Example 10:
+Text: About your last edit to <url>.  Do you have a source?
+Annotation from annotator: 17
+
+Example 11:
+Text: He keeps coming back, and keeps getting blocked again.... When will they learn?
+Annotation from annotator: 12
+
+Example 12:
+Text: Hi Dirk. Does the two books you cited for the heavy Belgian <url> losses have any info of how many Gladiators the Belgians lost, and perhaps what losses they incurred on the Germans?
+Annotation from annotator: 19
+
+Example 13:
+Text: that hotcat lockup, was like an edit conflict, so i tried a backup and re-enter.  thanks for the assistance, i'm using the old layout, so would the new view affect my hotcat category edits?
+Annotation from annotator: 19
+
+Example 14:
+Text: Hi, I see you voted "support" but in the neutral section. Would you like to move that to the support section?
+Annotation from annotator: 20
+
+Example 15:
+Text: Thanks. Now, if I had to make an infobox on "London" (just ''London'', I know there are many terms: Greater London, City of London etc), would it be correct to include the area/population/density of the territories I mentioned + the city area, or would just the city area suffice?
+Annotation from annotator: 19
+
+Example 16:
+Text: I am planning on changing the <url> to the ICF Flatwater World Championships. Any objections?
+Annotation from annotator: 20
+
+Example 17:
+Text: I wonder, did anyone add new links leading to the portal?  Is there an easy way to check this?
+Annotation from annotator: 18
+
+Example 18:
+Text: It does not appear to have attracted any participants other than Gerda. Perhaps adding a <person> template would draw in more participants?
+Annotation from annotator: 19
+
+Example 19:
+Text: The <url> has a request (header "<url>") left a few hours ago by someone who has pictures of signs in China but can't read them.  Would you please be willing to help?
+Annotation from annotator: 19
+
+Example 20:
+Text: Here's the FFD page: <url>. How do you know that the photograph was made pursuant to a law or ordinance or in connection with the transaction of official business?
+Annotation from annotator: 18
+
+Example 21:
+Text: To me these two bits of TeX look identical after they're rendered.  Can you explain the advantage of the latter format (since you've made a point of changing from the first to the second form in some articles)?
+Annotation from annotator: 14
+
+Example 22:
+Text: Unfortunately, I'm still worried this may not be enough to avoid arguments.  <url> says "A separate rationale must be provided each time the image is used in an article."  Should we just copy the tag for every article using the logo?
+Annotation from annotator: 17
+
+Example 23:
+Text: News coverage would be spotty at best... you would have to go through the stats pages and do it by hand pretty much, so any of the Calgary/Edmonton Sun, Herald or Journal would suffice.  Maybe just send the AJHL an email and ask them?
+Annotation from annotator: 19
+
+Example 24:
+Text: Also, all in all, I think Batman should be changed to <url>, not <url>, as the latter refers to those with superhuman powers or abilities, which he lacks. Thoughts?
+Annotation from annotator: 18
+
+Example 25:
+Text: LOL, I can't believe you reverted Kizzle's deletion of my summary at S & aQ. Did you actually like my summary?
+Annotation from annotator: 13
+
+Example 26:
+Text: Like most users with their articles screwed over by <url>'s new web facelift, I'm at a lost with <url> being dead. Can you help?
+Annotation from annotator: 18
+
+Example 27:
+Text: Question: how do we move the content from the existing page to the new page?  How do we reference the space to the new page?
+Annotation from annotator: 15
+
+Example 28:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 18
+
+Example 29:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 14
+
+Example 30:
+Text: Done. I may have missed a few links when copying them across, so could you please look through it just in case?
+Annotation from annotator: 22
+
+Human-rated Examples: (there may not be any)
+Example 1:
+Text: I noticed that you are the major contributor to the articles. Mind if I nominate <url> at <url>?
+Annotation from annotator: 20
+
+Example 2:
+Text: My problem is that the Style Guide for cities causes several topics for this small village to be repeated somewhat, especially the railroad, Gas Boom, and stockyard.  Any thoughts on this article's organization?
+Annotation from annotator: 9
+
+Example 3:
+Text: I consider <url> to be the single most important edit I have ever made. God, what is happening with The Beatles coverage on Wikipedia?
+Annotation from annotator: 20
+
+Example 4:
+Text: I clean up the <url> article a bit. What do you think?
+Annotation from annotator: 20
+
+Example 5:
+Text: This is incorrect. Have you looked at the article any time after October 2008?
+Annotation from annotator: 8
+
+Example 6:
+Text: Your POV tag justified. Did you get any support for cleaning it up?
+Annotation from annotator: 20
+
+Example 7:
+Text: My rationale for nominating <url> for CSD as promotional was that the show has not yet aired, so an episode summary at this point sounds like a promotional leak. Was I being overzealous?
+Annotation from annotator: 20
+
+Example 8:
+Text: Greetings, sorry to bother you here... I have been using the MissingTopics tool for years, to generate <url> The last time I used it successfully was Nov 16.  Something must have changed in the algorhythms since then, because it will no longer read any page starting with an Amharic character... Is it broke?
+Annotation from annotator: 20
+
+Example 9:
+Text: Thanks for the username change. Now, one last thingu2014since the account 'Dalahxe4st' already exists on Swedish Wikipedia and doesn't appear to have been taken over automatically, where should I go to take care of that?
+Annotation from annotator: 23
+
+Example 10:
+Text: Hey, when do we add games for the EHF Champion League and the Basketball EuroLeague into the portal? And NFL every week?
+Annotation from annotator: 20
+
+Example 11:
+Text: I have attempted to address your concern. Could you take another look at the article?
+Annotation from annotator: 20
+
+Example 12:
+Text: I am having trouble finding evidence of Wacu0142awowo in Avondale. There don't appear to be any sources; is it possible that the spelling is off?
+Annotation from annotator: 20
+
+Target Example:
+Text: Hello, I am interested in helping out with <url> and <url>, but the pages are very very long, which is unmanageable and discouraging. Could you please break them up into (many) smaller subpages?
+Annotation from annotator:

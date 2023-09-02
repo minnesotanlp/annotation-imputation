@@ -1,0 +1,124 @@
+Correct Examples:
+Example 1:
+Text: You shouldn't hit rock bottom.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is okay to be uncomfortable with technology.
+Annotation from annotator: 3
+
+Example 3:
+Text: Fidelity is expected in a relationship.
+Annotation from annotator: 3
+
+Example 4:
+Text: You should feel comfortable sleeping in bed.
+Annotation from annotator: 3
+
+Example 5:
+Text: You shouldn't race if you're tired.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's understandable to expect others to treat your things with respect.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to take your younger relative out to eat.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's fine to be curious about whether you can get attention.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's acceptable to have a complicated relationship with food.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's okay for family to pick sides during a messy divorce
+Annotation from annotator: 2
+
+Example 11:
+Text: It is reasonable to want to hold onto loving memories after losing someone.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's understandable that sometimes people find that there are differences in a relationship that they cannot reconcile.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should tell your partner you don't want to be with them anymore.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is prolific to create several products.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is okay to be confident.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's okay to be sad when you get your old account banned.
+Annotation from annotator: 3
+
+Example 17:
+Text: You should always have a map app downloaded on your phone.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's okay to be worried when your friend takes longer than they said they would.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's expected that bike shops will repair bicycles.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is normal to worry if your mom has cancer.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should open the door when someone knocks on it.
+Annotation from annotator: 2
+
+Example 22:
+Text: These days it's normal to make purchases over the internet.
+Annotation from annotator: 3
+
+Example 23:
+Text: You should confer with your partner before telling others about big events.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's bad to withhold medication from people who need it.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's acceptable to control your own shop.
+Annotation from annotator: 3
+
+Example 26:
+Text: If you know your best friend is shy it is reasonable for them to be scared to give a speech at your wedding.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to remind people that they are lucky.
+Annotation from annotator: 2
+
+Example 28:
+Text: It's okay if you are upset when your coach won't let you play a game.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's comforting to go to a first time experience with a friend.
+Annotation from annotator: 3
+
+Example 30:
+Text: You are supposed to love your pet dog.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should care more about your parent's feelings.
+Annotation from annotator:

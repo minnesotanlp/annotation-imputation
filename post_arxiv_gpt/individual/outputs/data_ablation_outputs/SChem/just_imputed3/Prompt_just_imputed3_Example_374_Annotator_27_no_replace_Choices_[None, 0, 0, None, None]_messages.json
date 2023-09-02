@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "Estimated Examples:\nExample 1:\nText: It is good for couples to communicate their problems and move on when there is tension after a fight.\nAnnotation from annotator: 3\n\nExample 2:\nText: It is ok if you cancel last minute on people due to an illness.\nAnnotation from annotator: 3\n\nExample 3:\nText: Partners are expected to support each other.\nAnnotation from annotator: 4\n\nTarget Example:\nText: It's bad to leave school without letting someone know where you're going.\nAnnotation from annotator:"
+    }
+]

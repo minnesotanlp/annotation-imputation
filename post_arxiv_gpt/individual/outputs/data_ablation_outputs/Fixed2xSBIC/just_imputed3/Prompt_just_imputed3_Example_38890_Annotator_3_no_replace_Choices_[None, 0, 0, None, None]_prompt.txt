@@ -1,0 +1,128 @@
+Estimated Examples:
+Example 1:
+Text: I b fucking all the food up I'm not suppose to eat &#128514;&#128514;&#129335;&#127997;‍♀️
+Annotation from annotator: 0
+
+Example 2:
+Text: Does anyone else have /r/feminism on a comedy multireddit
+Annotation from annotator: 1
+
+Example 3:
+Text: ain't no problem in cutting ppl off. save that space for somebody who'll benefit from u and vice versa
+Annotation from annotator: 0
+
+Example 4:
+Text: You know... Masturbation is basically necrophilia if you're dead inside.
+Annotation from annotator: 1
+
+Example 5:
+Text: Just do your research and as long as you take your time and have some decent shop tools you should be able to do it .
+Annotation from annotator: 0
+
+Example 6:
+Text: I am 20 years old and have never seen a girl naked before
+How pathetic is that?
+Annotation from annotator: 0
+
+Example 7:
+Text: I've always been comfortable and open and extremely honest and truthful about my sexuality that is I absolutely want everyone know who the real me is I'm just a loving caring respectful Bisexual Trump Supporter Atheist
+Annotation from annotator: 0
+
+Example 8:
+Text: .@chicagobulls as a Knicks fan I hate you you stupid idiot you had one job
+Annotation from annotator: 1
+
+Example 9:
+Text: Jeffrey Donaldson talking about IS throwing gays off roofs. Funny how his party doesn't recognise gays as equal in Northern Ireland??????.
+Annotation from annotator: 0
+
+Example 10:
+Text: I liked a @YouTube video from @david9199 https://t.co/OoW3yjSy2L Fast PvP [ Gameplay # 36 ] League of Legends
+Annotation from annotator: 0
+
+Example 11:
+Text: Try to work out first thing in the morning to get the responsibility out of the way.
+Annotation from annotator: 0
+
+Example 12:
+Text: I want Alex to play tomorrow just to see @Steve_Dangle yelling because you just cant ignore the fact that two Nylanders are better than one
+Annotation from annotator: 0
+
+Example 13:
+Text: If we all woke up as women tomorrow, we would all find boyfriends within hours and this sub would cease to exist
+Annotation from annotator: 1
+
+Example 14:
+Text: Just waking up. Holy Christ I sleep alot. Anyways expect a vid next week for sure hope everyone understands.
+Annotation from annotator: 0
+
+Example 15:
+Text: Parents:
+
+If YOU do not teach your children the rich, vibrant, and yes, sometimes controversial, history of your own locale, your region, your State, and your Country, they will be taught the Leftist version...sterilized, false, misleading, twisted, and full of intentional Social Justice overtones
+Annotation from annotator: 1
+
+Example 16:
+Text: RT @olmelonhead: when bitches spread rumors about you ; &#128520; https://t.co/21wOvyB50m
+Annotation from annotator: 0
+
+Example 17:
+Text: With this, #DailySmilingJongup will start tomorrow! Anticipate a daily smiling Jongup photo for everyday's source of energy &#128588;
+Annotation from annotator: 0
+
+Example 18:
+Text: A thought for the day: “Those who cannot change their minds cannot change anything.” — George Bernard Shaw
+Annotation from annotator: 0
+
+Example 19:
+Text: I saw the predator today. Then I snuck in to see the nun. *typical catholic boy
+Annotation from annotator: 1
+
+Example 20:
+Text: I've lost so much hope I don't even care about porn induced ED anymore
+Is this what rock bottom feels like?
+Annotation from annotator: 0
+
+Example 21:
+Text: If a man's response to a guy getting raped is "I wish she raped me," how do you respond?
+Annotation from annotator: 1
+
+Example 22:
+Text: Didnt you just say we 're all going to die off anyway ... but its ok because more White people are going to replace us ?
+Annotation from annotator: 0
+
+Example 23:
+Text: "I have to subtract the number of characters in my name from the allowance of 140 to make my tweets ""re-tweet""able. #GoodTimes"
+Annotation from annotator: 0
+
+Example 24:
+Text: Not only is this case typical of the feral sub humans but it 's a perfect example for our people of how totally out of control they are and that they cannot be allowed to remain among us .
+Annotation from annotator: 1
+
+Example 25:
+Text: if i were to die and be resurrected as an animal id be a howler monkey
+Annotation from annotator: 0
+
+Example 26:
+Text: I saw a woman getting beat up last night at a gas station. I knew these things happened But never before have I had the chance to get a few kicks in while still sober.
+Annotation from annotator: 1
+
+Example 27:
+Text: Can anyone drop the discord channel invite in the comment box?
+Annotation from annotator: 0
+
+Example 28:
+Text: Nigga getcho bitch, treat her how she wanna be treated but I ain't triccin &#128175;
+Annotation from annotator: 1
+
+Example 29:
+Text: How many Jews does it take to fix a lightbulb? Definitely more than 10 cause my basement is now dark with a pile of ash
+Annotation from annotator: 2
+
+Example 30:
+Text: my mommy always told me to eat my vegetables . unfortunately cannibalism is a bit taboo .
+Annotation from annotator: 1
+
+Target Example:
+Text: Man tricks women into aborting a baby she wants but he doesn't, discussion on /r/NotTheOnion
+Annotation from annotator:

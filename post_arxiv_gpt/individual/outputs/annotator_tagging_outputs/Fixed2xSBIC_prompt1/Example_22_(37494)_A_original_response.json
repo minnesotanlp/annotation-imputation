@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7QB96aPC1v8PCLa1eV69ebic7Olsr",
+    "object": "chat.completion",
+    "created": 1686473728,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 607,
+        "completion_tokens": 16,
+        "total_tokens": 623
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Annotator A would likely label this example as 0 (not offensive)."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

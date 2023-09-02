@@ -1,0 +1,245 @@
+Correct Examples:
+Example 1:
+Text: You should find a first aid kit when you injure yourself.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's irresponsible stop taking your medication
+Annotation from annotator: 4
+
+Example 3:
+Text: You should not touch someone without permission.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's good to give people money that are in need.
+Annotation from annotator: 4
+
+Example 5:
+Text: You should always go to the doctor if you're injured.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's bad to pretend to be something you're not.
+Annotation from annotator: 4
+
+Example 7:
+Text: If you don't care about something, you should be honest about it.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's okay to tell your child they can't meet up with their friends.
+Annotation from annotator: 4
+
+Example 9:
+Text: It is okay to show someone that you care by giving them thoughtful gifts.
+Annotation from annotator: 4
+
+Example 10:
+Text: It is okay not to get along with some people
+Annotation from annotator: 4
+
+Example 11:
+Text: It's good to talk about finances with your partner.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's not okay to not be informed about things most people know.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't jaywalk because it's illegal.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is hilarious to make word puns.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is impolite to cuddle at the dinner table.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's okay to be angry when your friend's views don't match your own.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's good to hang out at the amusement park with people.
+Annotation from annotator: 4
+
+Example 18:
+Text: You shouldn't be rude toward restaurant staff.
+Annotation from annotator: 4
+
+Example 19:
+Text: You shouldn't believe in tarot cards because they can't predict the future.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's wrong to assume things about people.
+Annotation from annotator: 4
+
+Example 21:
+Text: You should develop good relations with your extended family.
+Annotation from annotator: 4
+
+Example 22:
+Text: If your friend does not invite you to something, it's okay to feel left out.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's expected that you'll want to keep food cool when picnicking.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's kind to be happy when your ex gets married.
+Annotation from annotator: 4
+
+Example 25:
+Text: You shouldn't milk your parents for money.
+Annotation from annotator: 4
+
+Example 26:
+Text: You should always help people out who are sick or wounded.
+Annotation from annotator: 4
+
+Example 27:
+Text: Parents should treat their children fairly.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's good to ask people's experiences of certain games.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to be able to be honest about who you are.
+Annotation from annotator: 4
+
+Example 30:
+Text: You should thank someone if they help you.
+Annotation from annotator: 4
+
+Imputed Examples:
+Example 1:
+Text: It's admirable to be able to notice your own faults.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's wrong to get into petty arguments with your partner.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's understandable to get lost in an unfamiliar place.j
+Annotation from annotator: 4
+
+Example 4:
+Text: It is rude to withhold an answer to a question.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's important to not beat yourself up over things you can't change.
+Annotation from annotator: 4
+
+Example 6:
+Text: You should be allowed to sell sex with your own body.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's good to invest your money.
+Annotation from annotator: 3
+
+Example 8:
+Text: It is irresponsible to rack up debt.
+Annotation from annotator: 4
+
+Example 9:
+Text: You shouldn't call out your family over petty things.
+Annotation from annotator: 4
+
+Example 10:
+Text: You shouldn't be around people that make fools of themselves.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should obey your parents.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's expected for a trainer to give good advice.
+Annotation from annotator: 4
+
+Example 13:
+Text: If you feel like your brain is degrading, you should see a doctor.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's wrong to be into cuckolding.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's not okay to live a life confused about things.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's good to have something you use for luck to help you out.
+Annotation from annotator: 3
+
+Example 17:
+Text: You shouldn't spend too much time dwelling in the past
+Annotation from annotator: 4
+
+Example 18:
+Text: It's good to help out your ex.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's okay to be bothered by things.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's okay to want to talk to a friend.
+Annotation from annotator: 4
+
+Example 21:
+Text: You should buy things at Ikea to save money if you want cheap furniture.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is wrong to tell people you have done things you have not.
+Annotation from annotator: 4
+
+Example 23:
+Text: You shouldn't judge people based on what they know.
+Annotation from annotator: 4
+
+Example 24:
+Text: You shouldn't discriminate against people because of their income level.
+Annotation from annotator: 4
+
+Example 25:
+Text: You should always carry alternate forms of money to the store in case your card is declined.
+Annotation from annotator: 4
+
+Example 26:
+Text: It is okay to rethink putting your life in danger.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's good to be observant of things you might enjoy.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's wrong to be a creep.
+Annotation from annotator: 4
+
+Example 29:
+Text: It is good to help clean a shared space.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's expected that you pull your car over to the side of the road when an ambulance with flashing lights and a siren is coming.
+Annotation from annotator: 4
+
+Target Example:
+Text: You should remove channels you don't watch from your cable package.
+Annotation from annotator:

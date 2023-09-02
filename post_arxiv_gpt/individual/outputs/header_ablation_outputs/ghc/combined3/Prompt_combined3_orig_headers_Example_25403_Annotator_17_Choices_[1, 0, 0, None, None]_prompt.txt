@@ -1,0 +1,245 @@
+Correct Examples:
+Example 1:
+Text: same way that you know that they are poor victims, just a couple of s’hia hitchicking through the middle east, captured by the sunni taliban and tortured for not being sunni, seems logical
+Annotation from annotator: 0
+
+Example 2:
+Text: The Guardian's fury at Aung San Suu Kyi is LOL. She's 'fallen from grace' and been 'undone' they say, i.e. they thought she was a sappy pro-Islamic leftist like them but actually she's a Myanmari nationalist. https://www.theguardian.com/commentisfree/2018/aug...
+Annotation from annotator: 0
+
+Example 3:
+Text: Spread it fr, spread it wide. THIS is the reality of islam: https://gellerreport.com/2018/09/muslims-knock-out.html/?utm_source=dlvr.it&utm_medium=twitter
+Annotation from annotator: 0
+
+Example 4:
+Text: Most of the cleaners in her laundry will do it, maybe she could use a heater to warm up the bath while shes in it, maybe a quick swerve over a cliff. I'm guessing she's just having an NPC tantrum though... and the really bad part hasn't even started for her yet...
+Annotation from annotator: 0
+
+Example 5:
+Text: Trump's gentry conservative GOP critics seem to be forever concerned that Trump will cause things to happen that have *already happened* while they had their heads in the sand, to wit, the death of civility, the rise of political violence, & the degradation of 'our institutions.'
+Annotation from annotator: 0
+
+Example 6:
+Text: MN Gun grab  MAKE THESE CALLS - SEND THESE EMAILS TODAY 
+Annotation from annotator: 0
+
+Example 7:
+Text: Border Patrol Agents Experience A Sharp Increase Of Families Trying To Cross Illegally 
+Annotation from annotator: 0
+
+Example 8:
+Text: Brian has a right to prove his innocence everybody on #Gab Brian has a Constitutional right to prove that he is not guilty and is innocent because evidence was fabricated against him and everything is contradictory. Even the Prosecutor in Federal Court couldn't even file a response to Brian's facts of innocence and that isn't all facts established.
+Annotation from annotator: 0
+
+Example 9:
+Text: 👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿 three shootings on Saturday but they weren't deadly. That's good news?
+Annotation from annotator: 0
+
+Example 10:
+Text: Wouldn't have even been news if it wasn't another Jewish victim to push.
+Annotation from annotator: 0
+
+Example 11:
+Text: nor is it proper for him:
+Annotation from annotator: 0
+
+Example 12:
+Text: Boris Johnson has written another storming article in the Daily Telegraph which some of you may have read. Not read all of it myself but seen enough to get the gist and it’s a cracker. I have emaild him to show support and it would be good if as many of you as possible could do the same. Let’s show support to all our Brexit MP’s as well as our contempt for the remoaners.
+Annotation from annotator: 0
+
+Example 13:
+Text: That dipshit Jake Tapper said at a paid speech in D.C. that this is the 'Golden Age of Journalism' as he went on trashing the President, calling him a liar and bla bla blaaa. I read a LOT of news articles and REMEMBER EVERYTHING I read (I am weird like that). Imagine me seeing this click-baity article in a South African news site, and seeing a 'journalist' write an article where she cant even...
+Annotation from annotator: 0
+
+Example 14:
+Text: Eid mubarak to all muslims. May peace be upon all of us 🙏
+Annotation from annotator: 0
+
+Example 15:
+Text: The same Limbaugh who did zero during the illegal usurpathon of Obama.  Rush refused to help us Birthers.  Not a word on the major issue of no BC/undoumented   Not a word for 8 yrs.    NOR FAKE POS SEAN HANNITY, LAURA INGRAHAM, MICHELE MALKIN ALL NEO CONS.     Lou Dobbs was the only one who helped us and called out the Illegal Fraud Obama.  Lost his job at CNN for it, & his family received death threats etc.    But no Rush did nothing     not one thing.   The blood of this country is on all their hands.
+Annotation from annotator: 0
+
+Example 16:
+Text: Something Alex Jones has been telling us for years. Oh but he's censored! Chemicals in the water are turning male fish into females... is the same thing happening in humans? https://www.real.video/5823431329001  #Health #Sex #Gender
+Annotation from annotator: 0
+
+Example 17:
+Text: pdf: "The Jewish Revolutionary Spirit", E. Michael Jones 
+Annotation from annotator: 0
+
+Example 18:
+Text: Nice idea. The entire premise of the Fed is to create Paper money from noting. Applying a gold value, while good for America, is BAD for the Rothschild Family. It removes their ability to ROB us at will. 
+Annotation from annotator: 0
+
+Example 19:
+Text: READY now LIVE STREAM today, Thursday, June 28, at 5:00 pm ET (IN 15 MINUTES) on my YouTube channel https://www.youtube.com/live_dashboard ROSENSTEIN & WRAY at House Judiciary; HARD-LEFT INTOLERANCE goes VIOLENT; @realDonaldTrump to replace Justice Kennedy before mid-terms SUBSCRIBE - RETWEET
+Annotation from annotator: 0
+
+Example 20:
+Text: Just felt like reposting some old drawings. ^__^ 
+Annotation from annotator: 0
+
+Example 21:
+Text: Offiziell bestätigt: Deutschland wird Standort für neues NATO-Kommando
+Annotation from annotator: 0
+
+Example 22:
+Text: If you still have an account on FaceBook, Twitter or YouTube then you are aiding and abetting the enemy. btw - moaning you were banned on social media, isn't the red badge of courage you think it is....
+Annotation from annotator: 0
+
+Example 23:
+Text: So much emotion that I came close to tearing. Yet I see the trends on Twitter and women are bitching about Kavanaugh crying. I'd be crying and raging if I got accused of something. Women are such heartless people in 2018.
+Annotation from annotator: 0
+
+Example 24:
+Text: There is nothing #Christian about this lying #crypto Jew:  
+Annotation from annotator: 0
+
+Example 25:
+Text: How much Ford Can a Woodchuck chuck If a Woodchuck could chuck Ford's? Ryan is a Strange animal.
+Annotation from annotator: 0
+
+Example 26:
+Text: So we're arresting people for election meddling now. Hmm...
+Annotation from annotator: 0
+
+Example 27:
+Text: @Penllyn‍ @mjrodksu‍ @Sidephase‍ @RaviCrux‍ @DeadMessenger @John77 @FrLemmen‍ @Sidephase  @sine_injuria  How many people has #ThomasMix  the #VeroBeachCrybuly falsely accuse of being a pedophile or pedophile supporter
+Annotation from annotator: 0
+
+Example 28:
+Text: I know Germany is batshit crazy right now, but it really isn't the nation to fuck with considering they have started all the world wars in history, just saying muslims you might want to tone down your rhetoric.
+Annotation from annotator: 0
+
+Example 29:
+Text: If your only response to my outrage of the disrespect of fallen soldiers who gave their lives at the orders of greedy incompetent sellout politicians is "bye felicia" I DON'T WANT TO KNOW YOU AND YOU DON'T DESERVE TO BE A CITIZEN!! 😡😡😡😡😡
+Annotation from annotator: 0
+
+Example 30:
+Text: If we could start by rubbing out the Jews and all their liberal shabbos goys. Then we can repatriate the negros and make immigration punishable by death. We could have this country back in tip top shape in 20 years 
+Annotation from annotator: 0
+
+Imputed Examples:
+Example 1:
+Text: http://www.breitbart.com/tech/2017/11/20/stonecold... Bunty King, Sam Hyde, Stone Cold Truth
+Annotation from annotator: 0
+
+Example 2:
+Text: Memorial Day http://www.kimdutoit.com/2018/05/28/memorial-day-2...
+Annotation from annotator: 0
+
+Example 3:
+Text: our government should be hanging this bitch
+Annotation from annotator: 0
+
+Example 4:
+Text: @Paraliegance I'm for keeping things at four it's fast enough
+Annotation from annotator: 0
+
+Example 5:
+Text: I was put on notice for posting an ugly slur in a private Facebook group... Well 'private'
+Annotation from annotator: 0
+
+Example 6:
+Text: My avatar is Max Eastman, a fascinating and pivotal figure in both the early 20th century American left, and then in conservative circles from the '40s into the '60s. https://infogalactic.com/info/Max_Eastman
+Annotation from annotator: 0
+
+Example 7:
+Text: So let me see if I got this straight, a bomb goes off at a kids concert and kills a bunch of kids and they respond by singing Oasis songs, but a double agent spy gets killed and suddenly the gloves come flying off, and everybody's favourite boogieman is the culprit... they think we're gullible Af
+Annotation from annotator: 0
+
+Example 8:
+Text: I once was sensitive but not psychologically troubled I miss these days every day Brielle or all that?
+Annotation from annotator: 0
+
+Example 9:
+Text: Live scanner feed of YouTube shooting  37 reported so far for triage  http://www.bbscanner.com/listen.php?id=152
+Annotation from annotator: 0
+
+Example 10:
+Text: I'm not afraid
+Annotation from annotator: 0
+
+Example 11:
+Text: I'm not the one in legal jeopardy who needs to call the police - that'd be you
+Annotation from annotator: 0
+
+Example 12:
+Text: A roth is a roth is a roth  https://www.dailydot.com/layer8/qanon-the-storm/
+Annotation from annotator: 0
+
+Example 13:
+Text: ‪Listening to #Wagman on @KJAZZ881 | @iHeartRadio ‬‪#NothinButTheBlues‬ ‪If you’ve got the blues, #Wagman has the cure‬
+Annotation from annotator: 0
+
+Example 14:
+Text: American lives will be saved when you dis-own Monsanto and Bayer.  Europe doesn't want you. Pollute yourselves with your crap food and shit pesticides. Yours sincerely. LOL Brexit
+Annotation from annotator: 1
+
+Example 15:
+Text: Don't be Surprised...#TheCabal #FollowTheWhiteRabbit #SecretSociety #Pizzagate #HisNameWasSethRich #RIPJusticeScalia #FollowTheWhiteRabbit #ReleaseTheMemo #ObamaGate #WorseThanWatergate #Wikileaks #PodestaEmails #AlabamaSpecialElection #GreatAwakening #GLORIOUS2018 #QAnon #TheStorm #THEFLOOD
+Annotation from annotator: 0
+
+Example 16:
+Text: FBI behaved like common street thugs with access to the world’s most powerful intel collection apparatus.
+Annotation from annotator: 0
+
+Example 17:
+Text: Trump and Shizo   Make the world SAVAGE
+Annotation from annotator: 0
+
+Example 18:
+Text: The discovery was made in 1947 by a deep sea oil drilling company based out of Boston Mass. Name was never mentioned.. They drilled a 1 mile 5x5 hole..took 30 days. they were paid 250K at that time.
+Annotation from annotator: 0
+
+Example 19:
+Text: So, #GabFam, in case you didn't hear, #Facebook tried to censor my new book: https://pjmedia.com/trending/facebook-bans-bestsel... #BigTechCensorship cc: @a
+Annotation from annotator: 0
+
+Example 20:
+Text: We're being invaded by South American walruses! https://youtu.be/5Ido2B4HqFM
+Annotation from annotator: 1
+
+Example 21:
+Text: High points: 1. Jews have extremely high outbreeding rates, on the order of 50%, which makes the idea that they are evolving separately from their host populations hard to support
+Annotation from annotator: 0
+
+Example 22:
+Text: @NeonRevolt 2#2pm Pacific Daylight Time (California) 😩
+Annotation from annotator: 0
+
+Example 23:
+Text: True, since I sent Hogg my copy of Seej
+Annotation from annotator: 0
+
+Example 24:
+Text: QAnon Exposes The Clinton Lynch Tarmac Meeting https://youtu.be/304RvtYWukM via @YouTube
+Annotation from annotator: 0
+
+Example 25:
+Text: Story Ideas litter all our minds. We reject most of them. But maybe someone's trash is someone else's treasure. Feel free to use any of these: https://pcbushi.wordpress.com/2018/04/17/science-f...
+Annotation from annotator: 0
+
+Example 26:
+Text: @realDonaldTrump Sir, why you worry about Harley Davidson?? Those are shito bikes and always break down. Let them go and keep the Vulcan Bikes around. Same sound and hardly ever break down. Real true Bikers know a good bike when they see one. VULCAN BIKES ARE BEST & CHEAPER TOO
+Annotation from annotator: 0
+
+Example 27:
+Text: Hey guys, is it true Soros supposedly had a heart attack??
+Annotation from annotator: 0
+
+Example 28:
+Text: My husky and Gsd (when she was a puppy 🐶) ❤️
+Annotation from annotator: 0
+
+Example 29:
+Text: Hey girl, I'm up in this armored Chevy gettin' googly eyes. It's okay you going to Wal-Mart on Valentine's Day to stock up on cat food.
+Annotation from annotator: 0
+
+Example 30:
+Text: THE FEMINIST LIBERAL SHEEPLE, will finally get it one day very soon ?
+Annotation from annotator: 0
+
+Target Example:
+Text: GOOD MORNING USA CONCENTRATION CAMPERS unelected CFR NSA/CIA members can spy on, target & kill u-RU OK with that? http://www.zerohedge.com/news/2016-04-20/saudi-arabia-admitted-john-kerry-it-created-isis-there-twist
+Annotation from annotator:

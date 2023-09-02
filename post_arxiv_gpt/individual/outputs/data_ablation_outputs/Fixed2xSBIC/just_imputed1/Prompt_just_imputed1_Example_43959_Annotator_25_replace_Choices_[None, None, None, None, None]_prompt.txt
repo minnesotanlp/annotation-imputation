@@ -1,0 +1,131 @@
+Example 1:
+Text: Get the fuck away from me I hate all of you, faithfully This world was never made for me #FTP
+Annotation from annotator: 2
+
+Example 2:
+Text: We've only seen the support online and this is the first day can you imagine how much love he's going to get next week
+Annotation from annotator: 0
+
+Example 3:
+Text: These hoes gettin replaced soon as they start to fuck wit my cheques
+Annotation from annotator: 2
+
+Example 4:
+Text: KNOCK KNOCK.. WHO'S THERE?
+INTERRUPTING COUNTRY CONCERT.
+INTERRUPTING COUNTRY CON..(GUNSHOT NOISES)
+Annotation from annotator: 1
+
+Example 5:
+Text: The ' Civilization ' series narrated by Kenneth Clark is free on Youtube .
+Annotation from annotator: 0
+
+Example 6:
+Text: College is different because for the most part the high schoolers with attitude problems do n't go .
+Annotation from annotator: 0
+
+Example 7:
+Text: I watch fights on gay parade in budapest together with my friends from hungary , we were together on vacation in one croatian island , it was great to watch how hungarian nationalists were smashing gay parade btw I have some hungarian blood , my grandmother was hungarian Kitartas !
+Annotation from annotator: 2
+
+Example 8:
+Text: they want fame. they want it quickly but they really have no urge to do their work, except for fame. - Charles Bukowski
+Annotation from annotator: 0
+
+Example 9:
+Text: If white South Africans start to flee barbery in droves the DNC will 1) be pro-wall and 2) against refugees.
+Annotation from annotator: 2
+
+Example 10:
+Text: I think Katy Perry owns an Ear Wax museum in Wisconsin
+Annotation from annotator: 1
+
+Example 11:
+Text: Sleep falls about the awakened conscious line slipping in to lucid dreams
+
+Hurtling
+Softly 
+untying 
+knots 
+of reason
+Annotation from annotator: 0
+
+Example 12:
+Text: this was the worst night of my life..now into those fucking dizzy feelin
+Annotation from annotator: 0
+
+Example 13:
+Text: I want to thank everyone at GAB for this uncensored and fantastic social media site.
+Annotation from annotator: 0
+
+Example 14:
+Text: That's ghetto!
+Annotation from annotator: 0
+
+Example 15:
+Text: I had been been having a dry spell and Tinder was not helping either ...until I discovered babysitting jobs on Craigslist. 
+What dry spell,again?
+Annotation from annotator: 2
+
+Example 16:
+Text: Julian page is back all his supporters are gone having to start over.. let's give Twitter a merry Christmas big time please go to his page and support him ..Julian is our hero...
+Annotation from annotator: 0
+
+Example 17:
+Text: I like my women how I like my cigars 7 years old and from Cuba
+Annotation from annotator: 2
+
+Example 18:
+Text: What happens when you mix human DNA and monkey DNA Nothing,  Africans already exist
+Annotation from annotator: 2
+
+Example 19:
+Text: And they can't get tiebreaker over Charlotte. Could theoretically beat Charlotte, but lose out and miss the playoffs.
+Annotation from annotator: 0
+
+Example 20:
+Text: A huge thanks to all the Bella's as well as the entire cast and crew of #PitchPerfect for taking us along for this wild ride #pitchperfect3
+Annotation from annotator: 0
+
+Example 21:
+Text: @GlitteredInPink hoe don't tweet me
+Annotation from annotator: 1
+
+Example 22:
+Text: People call India a shithole but you can't deny. Unlike America, they organize protests all over India after a rape To free the rapists.
+Annotation from annotator: 2
+
+Example 23:
+Text: btw, @wadhwa. Pretty sure I'm dealing with more press than you lately. So, if you want any tips on how journalism works, I'm happy to help.
+Annotation from annotator: 0
+
+Example 24:
+Text: That's why black men, like my boyfriend, date us white women. They like REAL hair, real nails, and none of that attitude.  Black girls are way too ghetto and too much work.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's wifey over bitches, but money's over her, cuz money's under nothing, my life is such a blur, it's not the way it has to go...
+Annotation from annotator: 2
+
+Example 26:
+Text: Ivan Ivanovich Shishkin , January 25 , 1832 March 20 , 1898 ( Иван Иванович Шишкин ) Felling of Forest , 1867 Landscape with a Lake At the Seashore , 1890 ( sketch ) Birch Grove , 1896 View at a Neighborhood of Petersburg , 1856 Swiss Landscape , 1866 Forest on the Eve of Thunderstorm , 1872 Oak Forest in a Grey day , 1873 ( sketch ) Swamp .
+Annotation from annotator: 0
+
+Example 27:
+Text: freja is asleep on facetime and she is so precious my heart aches i cANT wait to fall asleep and wake up next to her again soon
+Annotation from annotator: 0
+
+Example 28:
+Text: This flight hasn't even begun and the guy next to me already has his shoes off and nasty ass feet exposed. Flying is awful.
+Annotation from annotator: 1
+
+Example 29:
+Text: PHIVOLCS Director Renato Solidum live on CNN PHL: Re: Magnitude 5.4 quake hits Tingloy Batangas -The intensity 6 recorderd in Batangas City…
+Annotation from annotator: 0
+
+Example 30:
+Text: what 's the worst thing about being told you have alzheimer 's ? it dosen't happen at once
+Annotation from annotator: 1
+
+Text: Being an Addict for 15 Years the money I've spent has only been in the 200 hundred range because I've been blessed and fortunate for others to give me stuff I know it's not a thing to brag about just had this on my mind and wanted to share
+Annotation from annotator:

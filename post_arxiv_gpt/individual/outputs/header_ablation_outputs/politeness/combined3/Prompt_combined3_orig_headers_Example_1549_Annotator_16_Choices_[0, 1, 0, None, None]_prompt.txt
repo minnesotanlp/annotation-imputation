@@ -1,0 +1,173 @@
+Human-rated Examples:
+Example 1:
+Text: Later the same can be done for the other sports. What do you say?
+Annotation from annotator: 13
+
+Example 2:
+Text: Hello-I think you know more about <url> than I do. Want to check it?
+Annotation from annotator: 11
+
+Example 3:
+Text: I've heard about the controversy. What's your take on it?
+Annotation from annotator: 11
+
+Example 4:
+Text: I restored 3 non-piped blue links.  How does that look?
+Annotation from annotator: 16
+
+Example 5:
+Text: Could you please explain <url> to me? I don't see how deleting a person's userpage is correct?
+Annotation from annotator: 11
+
+Example 6:
+Text: And  what did I do wrong???????????????????????
+Annotation from annotator: 4
+
+Example 7:
+Text: This is what you stated from the page <url>.  Can you link to me the policy stating that minimum amount of content in an article, where it's not 'lacking in content,' is needed to be considered undue?
+Annotation from annotator: 11
+
+Example 8:
+Text: Hmm...I was not aware that a year had to pass for ''anyone'' to request an appeal for Everyking. Prior to today, when did they ever say this?
+Annotation from annotator: 10
+
+Example 9:
+Text: I was just looking again at the April Fool's pranks from this year and came upon <url> to a page you deleted per "housecleaning".  Can we undelete and move it somewhere (the latter only if necessary), tagging with <url> in the process?
+Annotation from annotator: 14
+
+Example 10:
+Text: You deleted this, but somehow it still shows up on the parent category's page <url>.  Is this normal and/or can you fix this?
+Annotation from annotator: 12
+
+Example 11:
+Text: I had some problems updating images in the <url> FAC. The images are uploaded both on Wikipedia and on Wikimedia Commons under the same name ... how do I get the links on the page to connect to the Wikimedia images rather than the Wikipedia ones?
+Annotation from annotator: 11
+
+Example 12:
+Text: I see you created a nonsense article yesterday because you were bored. If I unblock you will you disrupt more?
+Annotation from annotator: 6
+
+Example 13:
+Text: that hotcat lockup, was like an edit conflict, so i tried a backup and re-enter.  thanks for the assistance, i'm using the old layout, so would the new view affect my hotcat category edits?
+Annotation from annotator: 14
+
+Example 14:
+Text: Is 10 months sufficient time to relist a AFD?  Not too soon, correct?
+Annotation from annotator: 14
+
+Example 15:
+Text: Thanks, firstly, for the affirmation and work on <url>; it was yesterday's featured article! As a related article, I've been working on <url> - what do you think would be necessary to get it to FA?
+Annotation from annotator: 18
+
+Example 16:
+Text: I am planning on changing the <url> to the ICF Flatwater World Championships. Any objections?
+Annotation from annotator: 15
+
+Example 17:
+Text: I wonder, did anyone add new links leading to the portal?  Is there an easy way to check this?
+Annotation from annotator: 14
+
+Example 18:
+Text: Personally I think (much) longer gallery captions are probably the answer; these are probably easier than working each image into the text. Didn't that work at s***-p*******?
+Annotation from annotator: 12
+
+Example 19:
+Text: btw, do you think we should mention the effect right off the bat of the descripition(seeing as "effect" is listed right above it???
+Annotation from annotator: 12
+
+Example 20:
+Text: Can you help patroling <url> page???
+Annotation from annotator: 13
+
+Example 21:
+Text: That "guest" could have been an undercover Colbert staff member and the whole segment could have been staged. Otherwise, why would Colbert have taken 3 minutes out of his show to talk to someone in the audience?
+Annotation from annotator: 8
+
+Example 22:
+Text: Ok, I accept your claims, although I prefer the official names. Do you have MSN Messenger?
+Annotation from annotator: 13
+
+Example 23:
+Text: News coverage would be spotty at best... you would have to go through the stats pages and do it by hand pretty much, so any of the Calgary/Edmonton Sun, Herald or Journal would suffice.  Maybe just send the AJHL an email and ask them?
+Annotation from annotator: 14
+
+Example 24:
+Text: I wasn't planning on it before I asked you about it. I figured, afterwards, why inquire if the template's really too long as it is?
+Annotation from annotator: 10
+
+Example 25:
+Text: Ok, I'd agree about <url> being better. Should I delete the other one (you could also tag it for speedy deletion as a mistake)?
+Annotation from annotator: 12
+
+Example 26:
+Text: So you're interested in both Amiga computers and BDSM! Are you an atheist too?
+Annotation from annotator: 6
+
+Example 27:
+Text: I've never seen something go beyond AN/I myself, and I find it hard to believe the other two hadn't been tried by now. Or is it a case-by-case thing?
+Annotation from annotator: 7
+
+Example 28:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 13
+
+Example 29:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 9
+
+Example 30:
+Text: I am contemplating a larger article on this very interesting topic. Thoughts?
+Annotation from annotator: 18
+
+Estimated Examples:
+Example 1:
+Text: Well, lyrics are generally frowned upon on Wikipedia, unless the song is old enough that its copyright no longer applies. Could you perhaps link to the article?
+Annotation from annotator: 20
+
+Example 2:
+Text: Your "resolution" was to move it back to "Detective Terry Crowley" again? Why do you keep doing that?
+Annotation from annotator: 6
+
+Example 3:
+Text: My question about the truncation operation is to understand the generic algorithm for applying a ring (or un-ringing) a Dynkin node. What method (code) do you use to get the higher dimensions truncated based on the Coxeter Dynkin ringed nodes?
+Annotation from annotator: 20
+
+Example 4:
+Text: We've got few like this on the horizon and I'm not sure how to approach it. Do we default keep them?
+Annotation from annotator: 11
+
+Example 5:
+Text: Hope you had a good trip. Are you able to take a further look now?
+Annotation from annotator: 16
+
+Example 6:
+Text: Actually it was a compliment. Does that count as an 'issue'?
+Annotation from annotator: 10
+
+Example 7:
+Text: She did so in Switzerland. What makes you think a photo that was deemed not to be a "work" in Switzerland was not a work in the U.S., where the threshold of originality is much lower?
+Annotation from annotator: 11
+
+Example 8:
+Text: Hello? Whom do I speak to to become a <url>?
+Annotation from annotator: 19
+
+Example 9:
+Text: Actually, I was referring to all of the redlinks within the article. Is that not the correct Template to use in that case?
+Annotation from annotator: 13
+
+Example 10:
+Text: According to <url>, links are permissible as part of your signature but be sure to check the "'''Sign my name exactly as shown'''" box.  What happens when you load '''<nowiki><url><url> (<url>)</nowiki>''' into the signature window and check the box?
+Annotation from annotator: 16
+
+Example 11:
+Text: I "voted" weak keep, based on what I've found.  Can you comment?
+Annotation from annotator: 11
+
+Example 12:
+Text: Where is the vandalism? Diffs?
+Annotation from annotator: 5
+
+Target Example:
+Text: Point taken. Would you like to be a mod?
+Annotation from annotator:

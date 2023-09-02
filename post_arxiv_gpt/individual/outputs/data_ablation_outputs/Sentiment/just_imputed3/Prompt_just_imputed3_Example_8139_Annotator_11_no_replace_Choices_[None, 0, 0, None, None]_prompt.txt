@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I think I will give up my oldest email address. 100 spam messages a day is just not much fun anymore...
+Annotation from annotator: 2
+
+Example 2:
+Text: @emilyryandavis People smirked @ my trusty old guy. I love him, but his buttons are dying  Plus, the bulk when traveling SUCKS
+Annotation from annotator: 3
+
+Example 3:
+Text: dude, LUKE is married. Faithfully and happily married. To a very smart young lady. Business major, too  wonder if she's in D-Pi?
+Annotation from annotator: 3
+
+Example 4:
+Text: off to kick it old school at Pro Performance. more tweeting as the night unfolds. If i remember . .
+Annotation from annotator: 1
+
+Example 5:
+Text: @CountryGirlND by the way... happy birthday you old bat  love ya
+Annotation from annotator: 3
+
+Example 6:
+Text: @JGunds I really, really want to! But I already made plans to see some old friends tonight. I can't believe I'm going to miss out on 3eb
+Annotation from annotator: 3
+
+Example 7:
+Text: @themomjen our oldest pit is 13, we are very afraid this is his last summer with us  poor old man. if you have any pit ?'s you can email
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6fwct - Aw. I will miss my old camera  Maybe I
+Annotation from annotator: 3
+
+Example 9:
+Text: doing a little old othing. Going to bed fresh and clean ...my day starts late tomorrow
+Annotation from annotator: 3
+
+Example 10:
+Text: Grateful for the support of an old ally in digging me out of a hole  I owe someone a drink!
+Annotation from annotator: 4
+
+Example 11:
+Text: No more lang with young  imma cry if i don't get her next year.
+Annotation from annotator: 3
+
+Example 12:
+Text: @ehudmh h love that american gladiators uses painted solid colored outlines of people to amplify the number of people there  old school
+Annotation from annotator: 3
+
+Example 13:
+Text: frolicking among a group of recently discovered hot young sailors... basically pretty happy
+Annotation from annotator: 2
+
+Example 14:
+Text: Just cut up some old crappy jeans and made some new trendy ones  they have holes all over them so now I can run faster ;)
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/5ofrr - @ Pila. that's the old St. Anthony of Padua Church .  the first Antonine church in the Philippines.
+Annotation from annotator: 3
+
+Example 16:
+Text: aaah can't beat a bit of nostalgia... watching old kids tv intros. anyone remember the classics like inspector gadget??
+Annotation from annotator: 3
+
+Example 17:
+Text: @Lunie380   @MzKiana it's awesome to see a young married couple with children sold out to Jesus(& enjoying life). Y'all be encouraged
+Annotation from annotator: 2
+
+Example 18:
+Text: @renailemay lol 10yrs older & I'm yet to have a real leather jacket
+Annotation from annotator: 2
+
+Example 19:
+Text: Really need to stop talkin to jugs and slip i'm obviously umm young for them...
+Annotation from annotator: 2
+
+Example 20:
+Text: might have to set up a new email--my old Yahoo nick's acting screwy.
+Annotation from annotator: 2
+
+Example 21:
+Text: We won 2-1 (2 goals from yours truly) but I pulled my calf muscle badly - ouch that's an old man's injury
+Annotation from annotator: 1
+
+Example 22:
+Text: don't ask my why i have a new account...it's cuz twitter is LAME and my old one got deleted somehow.  wah wah wah
+Annotation from annotator: 2
+
+Example 23:
+Text: @BeauGiles since when do you care?  you should look up an old CH10 show called 'Breakers' for the male version
+Annotation from annotator: 2
+
+Example 24:
+Text: my heart hurts  and not on some old lovey dovey sh*t. like literally this joint hurts.
+Annotation from annotator: 1
+
+Example 25:
+Text: looking for a place to donate my old NES games... i'll miss them so much
+Annotation from annotator: 3
+
+Example 26:
+Text: trying to remember the lyrics of a song with the world cinderella... i know is a old song, light rock, but arghh can't remember
+Annotation from annotator: 3
+
+Example 27:
+Text: so dose anyone remember that Ketchup song by Las Ketchup that song is so old but its cool twitter me if u remember it
+Annotation from annotator: 2
+
+Example 28:
+Text: im being depressed cuz i could audition for american idol if i was 8 days older.
+Annotation from annotator: 1
+
+Example 29:
+Text: @tednh went to bed at 8:30 last night after drinking all day at 4 year old birthday party!
+Annotation from annotator: 3
+
+Example 30:
+Text: @helpmefred one of our favorite places Chris and I went to the old Founders Plaza on our first date! Mavis likes it too
+Annotation from annotator: 3
+
+Target Example:
+Text: If older people had written the script, it would have been much different.
+Annotation from annotator:

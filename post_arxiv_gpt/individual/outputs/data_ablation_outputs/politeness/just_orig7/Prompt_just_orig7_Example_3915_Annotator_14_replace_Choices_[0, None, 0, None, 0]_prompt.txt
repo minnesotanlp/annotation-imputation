@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Correct Examples:
+Example 1:
+Text: Its been over a week now and I see you still haven't passed or failed the article. Made a  decision?
+Annotation from annotator: 11
+
+Example 2:
+Text: <url> - You made a bold edit, I reverted and now we discuss. Is there a reason why the Wikipedia editor generated filmography should be deleted and replaced by a link to an outside site?
+Annotation from annotator: 10
+
+Example 3:
+Text: I did not think that was a refinement. How were those categories not appropriate?
+Annotation from annotator: 12
+
+Example 4:
+Text: I don't see that it is necessarily bigoted to dislike certain forms of behaviour - after all, there is a group of people who practice racist behaviour. Is it bigoted to dislike them?
+Annotation from annotator: 13
+
+Example 5:
+Text: I think a bot could come along later and remove those double returns. Is there a way of coding a space into the template itself?
+Annotation from annotator: 15
+
+Example 6:
+Text: <url> is currently an orphaned article. Can you find some articles to link to 'Christa Behmenburg''?
+Annotation from annotator: 13
+
+Example 7:
+Text: I'm confused. Why did I get a user warning relating to this article?
+Annotation from annotator: 12
+
+Example 8:
+Text: Yes, I know what a score ''card'' is, but you wrote "score '''car'''" in the article. Was that a typo, or is there really such a thing as a score "car"?
+Annotation from annotator: 10
+
+Example 9:
+Text: Ping. Are you providing the missing sources or removing the unsourced material, so I can make it pass GA?
+Annotation from annotator: 14
+
+Example 10:
+Text: In fact, what I'd like to propose here is that we take a bit more control, establish some stricter edit warring restrictions, unprotect the page, slap up an edit notice, and enforce them with blocks so that people can get back to writing the article. Do you think that would have a positive effect?
+Annotation from annotator: 16
+
+Example 11:
+Text: If the community decides that you no longer speak on its behalf--if the Wikipedia community decides that this supposed ban does not apply to constructive comments on AfDs on articles for which I am a major contributor, and that I may make such comments without asking for permission beforehand--who are you or anyone else to override that decision?  I'm not saying that anyone has or will make that decision--but if that decision is made, are you claiming that you are entitled to do what you want regardless of community consensus to the contrary?
+Annotation from annotator: 8
+
+Example 12:
+Text: Hi Asbestos! This is kind of weird for me but I see that you are a participant in the photo project and list yourself as a photographer in Edinburgh and I was wondering if there was any possibility that you would be willing to respond to my recent request <url>?
+Annotation from annotator: 23
+
+Example 13:
+Text: Actually, if she is releasing a new single from the debut album, the title "Home Run" wouldn't encompass this. Someone else has changed it to "Debut album" which I think is more suiting, what do you think?
+Annotation from annotator: 15
+
+Example 14:
+Text: Thanks for continuing to look over the article.  Do you know or do you know anyone that knows anything about the <url> or the <url>?
+Annotation from annotator: 18
+
+Example 15:
+Text: Hmm, there was a 7th <url> - but someone deleted him from <url> after removing the Prod. Is that kocher?
+Annotation from annotator: 10
+
+Example 16:
+Text: I notice that, for some reason, you have been undertaking some minor 'modifications' to the article John Musgrave & Sons. Do you have some special interest in Bolton firms, or some particular knowledge on this firm?
+Annotation from annotator: 11
+
+Example 17:
+Text: I think there are specs shown on the Vexilla Mundi website, if that helps. Are you happy for me to bring other such flags to your attention?
+Annotation from annotator: 13
+
+Example 18:
+Text: I think I'll leave it to the Math WikiProject to decide whether the dab page should be at <url> or <url> since they'll be more familiar with the importance of the various functions.  It looks like all of the basic options I was considering are basically OK from the perspective of the DAB project, right?
+Annotation from annotator: 17
+
+Example 19:
+Text: Picking up your challenge. You a big fan of skittles or something?
+Annotation from annotator: 11
+
+Example 20:
+Text: Hi Dan. Is the page <url> still needed/useful?
+Annotation from annotator: 12
+
+Example 21:
+Text: Another article created by Jergens. Is this one legitimate?
+Annotation from annotator: 12
+
+Example 22:
+Text: Sorry Less? What is that last postdirected at?
+Annotation from annotator: 11
+
+Example 23:
+Text: I have, and they have not responded in one week. How long should I give it?
+Annotation from annotator: 17
+
+Example 24:
+Text: I had an editorial dispute with a user called <url><, but I'm not responding to him anymore as it seems to escalate into heated arguments. If he keeps messaging, would it be ok if I got back in touch with you and you had a word with him?
+Annotation from annotator: 19
+
+Example 25:
+Text: I would like to first thank you for coding the afd helper app. Secondly, is it possible it could be changed to work with other XfDs?
+Annotation from annotator: 17
+
+Example 26:
+Text: I have been watching the vote page, but I did not even see your proposal.  What were you suggesting?
+Annotation from annotator: 14
+
+Example 27:
+Text: I did a CC sharealike 2.0. How is that different from 1.0?
+Annotation from annotator: 12
+
+Example 28:
+Text: Your bot's edits aren't being marked as such; that is, they still appear in my watchlist when I choose to hide bot edits. Could you do something about this?
+Annotation from annotator: 14
+
+Example 29:
+Text: A quick question, I'd like your opinion on something. Do you think I should put <url> GAN on hold or fail it?
+Annotation from annotator: 13
+
+Example 30:
+Text: Is it really a hoax?  While I don't doubt it in the least, could you provide other AfD voters with the evidence that led you to this conclusion?
+Annotation from annotator: 13
+
+Target Example:
+Text: I tried <url> and it worked for me. What articles did you try using it on?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

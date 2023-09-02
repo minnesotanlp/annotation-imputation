@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: People shouldn't make others lose their appetites with their crappy eating habits.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's nice to let pets indoors when it is cold.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's good to help out your partner.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's rude to ignore someone in a relationship.
+Annotation from annotator: 4
+
+Example 5:
+Text: You should stand your ground and try to rebuild your reputation.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's normal for people to want to share a meal with those they care about.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's okay to feel bad for someone who is begging to play a game.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's okay to change your mind after you like something on social media.
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't lie about drug use.
+Annotation from annotator: 4
+
+Example 10:
+Text: You should always throw out food that is burned because it's not pleasant to eat.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's understandable if you're hurt when your partner doesn't like your cooking.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's okay to lose romantic feelings for someone over time.
+Annotation from annotator: 4
+
+Example 13:
+Text: It is satisfying to get stronger from something you eat.
+Annotation from annotator: 4
+
+Example 14:
+Text: It goes against office etiquette to take food that belongs to co-workers.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's considered rude to badmouth friends' significant others.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's expected that couples will break up.
+Annotation from annotator: 3
+
+Example 17:
+Text: Getting a kiss on the cheek can make you feel good.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's ok to have a glass of wine with dinner.
+Annotation from annotator: 3
+
+Example 19:
+Text: You should be thankful when someone gives you money.
+Annotation from annotator: 4
+
+Example 20:
+Text: Friends are expected to give each other advice.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's dishonest to stay in a loveless relationship.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's not okay to go places where you are not invited.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's bad to get people to smoke.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's pathetic to betray something intimate told to you in confidence.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to be concerned when someone is doing something harmful.
+Annotation from annotator: 4
+
+Example 26:
+Text: It is good to celebrate friendship.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's understandable to want to share some things with others.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's good to give your heart and soul to others.
+Annotation from annotator: 3
+
+Example 29:
+Text: You should go to bed when you are falling asleep on the couch.
+Annotation from annotator: 3
+
+Example 30:
+Text: Both people should work equally in a relationship.
+Annotation from annotator: 4
+
+Target Example:
+Text: You should divorce someone that cheats on you.
+Annotation from annotator:

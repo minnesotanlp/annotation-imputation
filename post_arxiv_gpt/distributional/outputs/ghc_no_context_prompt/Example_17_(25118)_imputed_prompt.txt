@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "Example 14939\nText: There's a New Sheriff In Town and his name is; PRESIDENT DONALD J. TRUMP ! He was on POINT and on FIRE !\u00a0 GOD BLESS PRESIDENT TRUMP ! #StopTheBias#MAGA#GabVets#GabFam\nSoft labels:\n100.00% of responsive annotators labeled the text with 0\n0.00% of responsive annotators labeled the text with 1\n\nExample 13245\nText: @TexasRancher45\u200d\u00a0 \nSoft labels:\n44.44% of responsive annotators labeled the text with 0\n55.56% of responsive annotators labeled the text with 1\n\nExample 5420\nText: Rod Rosenstein\u2019s wife is Clinton attorney\nSoft labels:\n100.00% of responsive annotators labeled the text with 0\n0.00% of responsive annotators labeled the text with 1\n\nExample 21456\nText: When I joined this group I was the 420th member. \nSoft labels:\n100.00% of responsive annotators labeled the text with 0\n0.00% of responsive annotators labeled the text with 1\nTarget Text: It must have hurt the fake news to have to report this \nSoft labels:"
+    }
+]

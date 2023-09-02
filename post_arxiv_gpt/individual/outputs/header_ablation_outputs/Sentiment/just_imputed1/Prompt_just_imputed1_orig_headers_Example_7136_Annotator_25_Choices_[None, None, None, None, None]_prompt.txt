@@ -1,0 +1,122 @@
+Example 1:
+Text: I think i am in love all over again...w/ the Backstreet Boys and *Nsync...i love watching/listening to their old music!
+Annotation from annotator: 4
+
+Example 2:
+Text: @eminiwizard good morning young lad!
+Annotation from annotator: 3
+
+Example 3:
+Text: duuuude!!! i cant wait for the 90210 finale! jim walsh is dying!! i miss the old 90210
+Annotation from annotator: 2
+
+Example 4:
+Text: off to lunch with an old friend
+Annotation from annotator: 3
+
+Example 5:
+Text: @CourtKP they arrived last weekend...but maybe not with all their stuff, I do think they have a youngn
+Annotation from annotator: 3
+
+Example 6:
+Text: @JMIKE3 U no that little prob with ur twitter that happen @ that old pep resteraunt! mayb this will help u fix it
+Annotation from annotator: 3
+
+Example 7:
+Text: @thepatbrown Is there anyway i can get my hand on The Semester's old tracks? No more myspace downloads and lost all my music recently
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6pa1n - old pic, but cute. i miss my hair
+Annotation from annotator: 2
+
+Example 9:
+Text: don't ask my why i have a new account...it's cuz twitter is LAME and my old one got deleted somehow.  wah wah wah
+Annotation from annotator: 2
+
+Example 10:
+Text: Great day seeing old friends and catching up
+Annotation from annotator: 4
+
+Example 11:
+Text: Noooo! Goodbye my rain boots. They are too young to die...
+Annotation from annotator: 2
+
+Example 12:
+Text: @ejwc @trimurls I heart tr.im. How do I view older tr.im URLs past 250? Want to delete some but can't see 'em.  Thx in advance.
+Annotation from annotator: 2
+
+Example 13:
+Text: gah!!! i am so confused i sent my class schedule to the wrong lady  oops but the new lady sent it to the old one and the old one wants to
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished playing CS Source on a LAN (network cafe) with 5 friends. Ahh..  the good old days
+Annotation from annotator: 3
+
+Example 15:
+Text: http://twitpic.com/67rzo the new http://twitpic.com/4unxw the old one   going to go walk them and have dinner..will be back
+Annotation from annotator: 2
+
+Example 16:
+Text: acsvxdcbgfn soccer now. shall see young phoebe after D: I don't want her dressed up though
+Annotation from annotator: 2
+
+Example 17:
+Text: @Luvschweetheart Work and laundry here today so no need for sun.  And the youngest goes to the sitters so solitude awaits me.
+Annotation from annotator: 3
+
+Example 18:
+Text: @retrofreak94 no i didntt but that show is just not as good as their older stuff.. /: but theyre still adorable / hilariouss
+Annotation from annotator: 3
+
+Example 19:
+Text: Reconnected with old pal from high school. Whoa. Great fun. Good night New York. Thank you.
+Annotation from annotator: 4
+
+Example 20:
+Text: miley's concert is in december i wanna go!  is anyone else secretly a 12 year old girl and wanna come with me? @lil_miss_sneha?  c'mooon
+Annotation from annotator: 3
+
+Example 21:
+Text: Weekend over, back to work once again  I'll be updating the old blog later on this week, probably around Wednesday when I'll have news...
+Annotation from annotator: 3
+
+Example 22:
+Text: dont miss the new tom hanks one "Angels and demons" guys! what a great movie... he looks much more older, but still 1 of my fav. actors
+Annotation from annotator: 2
+
+Example 23:
+Text: @Beautyfix LOL  What's that old quote/story about getting older and going to bed with Ben Gay?
+Annotation from annotator: 1
+
+Example 24:
+Text: my knee is sore today  is this what old age feels like haha im falling apart!!
+Annotation from annotator: 2
+
+Example 25:
+Text: looking forward to celebrating my dads 65th with family tonight (wow, am I old enough to have a 65 yr old dad lol) and Star Trek 2morrow
+Annotation from annotator: 4
+
+Example 26:
+Text: trying to pick out a profile pic with the help of @dfpcmaia but whenever i like one he says it's bad. 12 yr olds are stupid
+Annotation from annotator: 1
+
+Example 27:
+Text: so dose anyone remember that Ketchup song by Las Ketchup that song is so old but its cool twitter me if u remember it
+Annotation from annotator: 2
+
+Example 28:
+Text: im gonna miss that halo-halo man in my old school.  the ube on top.yum.
+Annotation from annotator: 2
+
+Example 29:
+Text: @ternoman I'll look around. I think have old pics of the Au Go Go guijo gigs. Lek (the bassist) also has some old posters
+Annotation from annotator: 2
+
+Example 30:
+Text: @helsinkiwinner Yes, I think tonight I'll close the door and place her bed outside. She's not even 9 weeks old, so it's heartbreaking.
+Annotation from annotator: 1
+
+Text: Has recently gotten into Flight Sim' games - has spent about ten hours playing the older Blazing Angels games. meh, who needs sleep
+Annotation from annotator:

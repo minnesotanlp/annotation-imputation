@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: My contribution tried to show the impression to others I'am only trying to improve spelling. What's the difference between personel and persona?
+Annotation from annotator: 15
+
+Example 2:
+Text: Thanks for the alert.  By the way, how's Granny doing?
+Annotation from annotator: 20
+
+Example 3:
+Text: On a more practical note: One either does or doesn't agree to take part in mediation. Which is it, please?
+Annotation from annotator: 8
+
+Example 4:
+Text: My latest film is<url>. DO you rhink if it is referenced it is good enough?
+Annotation from annotator: 14
+
+Example 5:
+Text: It would be even funnier if you did attend the rally but weren't the giant tea bag guy I added to your user page. Did you?
+Annotation from annotator: 12
+
+Example 6:
+Text: Greetings, the Province of Alberta, through legislation, has designated a future highway that has an alignment and an assigned number, but has yet to be constructed. Is it premature to create an article on such a highway?
+Annotation from annotator: 15
+
+Example 7:
+Text: What about the whole "Heroes as personal feifdom" trip? Or are you ok with that?
+Annotation from annotator: 10
+
+Example 8:
+Text: re: <url> edit. Then let me ask you, what exactly was offensive about them?
+Annotation from annotator: 8
+
+Example 9:
+Text: I'm tempted to close this as a withdrawn GAN since it's been open nearly 2 months and nobody wants to touch it. What think?
+Annotation from annotator: 14
+
+Example 10:
+Text: Speaking of FPC closures, is it common practice to close the likes of the Emu feeding video or the White Ibis, which had nothing but weak supports and supports (not enough total votes, but that was all) as "Not Promoted"? Isn't that what the "Nominations 7 days or older - Decision Time" section is for?
+Annotation from annotator: 9
+
+Example 11:
+Text: I was aware of that part of <url>, but I don't see its relevance here. Do you say that considering the audience is an arbitrary standard?
+Annotation from annotator: 11
+
+Example 12:
+Text: I don't like the idea of switching the order halfway through, especially as you would you have to decide an arbitrary cut-off point. Perhaps you should raise this on <url>, and see what people think?
+Annotation from annotator: 14
+
+Example 13:
+Text: If you have something to say for keeping that picture, say it here and I'll copy it over to the FFD page. But, frankly, if you can't even be bothered to check out the <url> rules to find out about why the Zguri image isn't acceptable, how do you expect to be able to make any relevant argument about the other one?
+Annotation from annotator: 6
+
+Example 14:
+Text: I've been meaning to add soundclips to the Suede and Stone Roses articles (3u20134 for each). I can get to it over the weekend; suggestions?
+Annotation from annotator: 16
+
+Example 15:
+Text: Don't you think you should remove the welcoming plate of cookies you left at User:Dococe page???
+Annotation from annotator: 3
+
+Example 16:
+Text: There was a CSD:A7 judgement (no assertion of notability) for <url>, http://www.google.com/search?q=%22Moderation+Management%22 , an alcohol management program that we talk a lot about over at the (highly chatty) talk pages for <url>. Any chance you could roll back the deletion, so I could add some text on why this is notable?
+Annotation from annotator: 14
+
+Example 17:
+Text: ahhh... so 'Wikipediholic' is preferred to 'Wikipediaddiction' ... so the malady is at least recognised, good.  Where can one obtain help to fight this insidious addiction?
+Annotation from annotator: 13
+
+Example 18:
+Text: And I'm asking for YOUR help, DrachenFyre, to control this vandal <url>'s changes to <url> and <url>.  What do we do with this nut?
+Annotation from annotator: 11
+
+Example 19:
+Text: See my comment on the talk page. How did this ever get to DYK?
+Annotation from annotator: 11
+
+Example 20:
+Text: OK, that one actually was a mistake, I will fix it.  Does "sool" mean "sic" in Aussiespeak ?
+Annotation from annotator: 13
+
+Example 21:
+Text: I understand, it could be quite time consuming. Maybe we could do a collab for an article related to Thalia (once I'm finished with some work)?
+Annotation from annotator: 18
+
+Example 22:
+Text: As for restoring the image, no I will not. Did you consider that you are asking me to put up an image for which I know the "fair use" claim to be bogus, and that this is illegal?
+Annotation from annotator: 7
+
+Example 23:
+Text: Hiya FFM, I want to update the <url> page to make it a proper article and perhaps get it to FA status; I know it's unusual to be part of one's own organization editing, but it is possible -- if we work on a draft in userspace and have friends/colleagues helping update the article proper.  Are you interested in working on this in the coming week or so?
+Annotation from annotator: 14
+
+Example 24:
+Text: Could you please block me indefinitely. If you can't then what do I need to do to get blocked indefinitely?
+Annotation from annotator: 11
+
+Example 25:
+Text: I see you added a <person> licence to the image but I don't see any evidence from the source provided that this licence is proper to the image. Where do you see that this is the correct copyright licence for the image?
+Annotation from annotator: 11
+
+Example 26:
+Text: Can I ask why you deleted this AfD as "A3: Article has no meaningful, substantive content"?  It obviously did have meaningful content; was there any reason it couldn't simply be closed like any other AfD?
+Annotation from annotator: 9
+
+Example 27:
+Text: Do you live in the US? How excited are people about the album?
+Annotation from annotator: 16
+
+Example 28:
+Text: Thank you for getting to all those WikiProject Canada assessements so quickly! Question, is it ''useful'' what I'm doing, adding the template even to what I know will be relative low importance articles?
+Annotation from annotator: 20
+
+Example 29:
+Text: Hello, '''Burzmali.''' I don't largely object to this edit...<url>...that you made to the <url> article, but would you mind explaining why you see that addition as non-notable?
+Annotation from annotator: 14
+
+Example 30:
+Text: I'm relatively new here. Short of totally protecting the pages, what strong-arm tactics do my colleagues have in mind?
+Annotation from annotator: 13
+
+Target Example:
+Text: Yeah, and it will still have been the third to pass the full bit string tests, instead of just the byte tests. :)   What's the significance of 2042?
+Annotation from annotator:

@@ -1,0 +1,225 @@
+Estimated Examples:
+Example 1:
+Text: It's wrong to do drugs with your partner.
+Annotation from annotator: 3
+
+Example 2:
+Text: Relationships are expected to have clear communication.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't be hypocritical.
+Annotation from annotator: 3
+
+Example 4:
+Text: You shouldn't think ill of your family.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's understandable to not want to contribute work to a group project.
+Annotation from annotator: 1
+
+Example 6:
+Text: It's responsible to take part in rearing a younger sibling.
+Annotation from annotator: 3
+
+Example 7:
+Text: You can't expect someone to pay off their loans immediately.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's not okay to abuse things like drugs.
+Annotation from annotator: 3
+
+Example 9:
+Text: You should never do anything that may cause your children to despise you.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's wrong to talk to your friends about sensitive topics.
+Annotation from annotator: 1
+
+Example 11:
+Text: It is ok if you cancel last minute on people due to an illness.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's okay to say the n word if it's in a textbook.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's okay if you are tired at work if you want to ask to go home.
+Annotation from annotator: 2
+
+Example 14:
+Text: Families should be able to talk out their problems with each other.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 3
+
+Example 16:
+Text: You shouldn't expect your ex to not have sex after the relationship is over.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's important to let people know when they are acting in ways that upset you.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's bad to not trust your significant other.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's fine to ban anyone you want to from an online account.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is good for couples to communicate their problems and move on when there is tension after a fight.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't get pissed off at your siblings.
+Annotation from annotator: 2
+
+Example 22:
+Text: It is mean to get involved in an affair with someone in a relationship.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't accept money from someone you don't want to date.
+Annotation from annotator: 2
+
+Example 24:
+Text: You should let your ex go.
+Annotation from annotator: 3
+
+Example 25:
+Text: Not everyone wants their images on social media, so you should respect it if they ask you not to share them.
+Annotation from annotator: 3
+
+Human-rated Examples:
+Example 1:
+Text: It's okay to be upset with a friend.
+Annotation from annotator: 4
+
+Example 2:
+Text: It is dangerous for a grandparent to risk a fall.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't play pranks on people.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's wrong to take pennies from a wishing fountain.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's wrong to lash out at someone.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's okay to start your life over again if you have to.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's bad to make big purchases behind your significant other's back.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 4
+
+Example 9:
+Text: It is ok to live with a roommate of the opposite sex if you are just friends.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's good to have something in your life that you love with every fiber of your being.
+Annotation from annotator: 3
+
+Example 11:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's important to have trust in a romantic relationship in order to have a healthy relationship.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's not okay for parents to be emotionally attached to their kids personal lives.
+Annotation from annotator: 2
+
+Example 14:
+Text: You should not emotionally abandon your partner.
+Annotation from annotator: 3
+
+Example 15:
+Text: You can't expect your team to always win their game.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wise to never let yourself get embarrassed by your significant other.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's good to find proof of cheating you perceive to be happening.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's hurtful to hate somebody close to you.
+Annotation from annotator: 3
+
+Example 19:
+Text: You should treat a person with a disability the same as you would anyone else.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's bad to be divorced with children.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's good to be happy for your friends.
+Annotation from annotator: 3
+
+Example 22:
+Text: It’s important to have hobbies.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's hurtful for  a parent to enroll a child in classes without permission.
+Annotation from annotator: 2
+
+Example 24:
+Text: You shouldn't have second thoughts about having kids if your wife gets pregnant because it's too late by then.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's important to respect the culture of other people.
+Annotation from annotator: 2
+
+Example 26:
+Text: It is understandable for parents to want to take care of their child when they are in need.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's good to like your job.
+Annotation from annotator: 2
+
+Example 28:
+Text: You shouldn't be with someone who sleeps with your kids.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's rude to be ashamed of people that love you.
+Annotation from annotator: 2
+
+Example 30:
+Text: You shouldn't wear a nightdress if you're male.
+Annotation from annotator: 1
+
+Target Example:
+Text: It's good to get a job after high school for a while to learn some responsibility.
+Annotation from annotator:

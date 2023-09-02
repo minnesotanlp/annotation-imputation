@@ -1,0 +1,132 @@
+Estimated Examples:
+Example 1:
+Text: Women are like stars Easier to see with a telescope
+Annotation from annotator: 1
+
+Example 2:
+Text: How about a brief Radical Agenda Christmas Eve Special?
+Annotation from annotator: 0
+
+Example 3:
+Text: I'm so pissed because as soon as I get to work they don't have me on the fucking floor chart
+Annotation from annotator: 0
+
+Example 4:
+Text: As predicted this morning, the battle has begun  
+
+the correction needed...
+
+go, girl...
+
+little house cleaning is good for the future
+
+
+Annotation from annotator: 1
+
+Example 5:
+Text: doggy <allcaps> licks <allcaps> q : why does a dog lick himself ? a : he ca n't make a fist .
+Annotation from annotator: 1
+
+Example 6:
+Text: Check out CBSN On Assignment on CBS at 9pm they are gonna tell moslem kids its not right to cut peoples heads off... could be funny
+Annotation from annotator: 2
+
+Example 7:
+Text: Why should we stop giving black people golds? Because slaves shouldn't be paid.
+Annotation from annotator: 2
+
+Example 8:
+Text: What do you call it when a Jew rides his bike into a Gestapo checkpoint? A kike accident.
+Annotation from annotator: 2
+
+Example 9:
+Text: Former cult members often have fascinating insights, this is a great read: An ex-Feminist's thoughts on academia and the tactics of third-wave Feminism
+Annotation from annotator: 0
+
+Example 10:
+Text: Lol Robert De Nialo is an embarrassment I can't believe he's the same dude from Taxi Driver...
+Annotation from annotator: 2
+
+Example 11:
+Text: I'm shook I spoke to my professor for the first time since the semester started &amp; he basically knew my whole life
+Annotation from annotator: 0
+
+Example 12:
+Text: I am not a sexist, sexism is wrong. And being wrong is for women.
+Annotation from annotator: 2
+
+Example 13:
+Text: Is your dick black? Of course it is, that’s why you beat it.
+Annotation from annotator: 2
+
+Example 14:
+Text: Swear on my life some fucking body puts me in a bad fucking mood every day of my damn life.
+Annotation from annotator: 0
+
+Example 15:
+Text: As an enforcer of international law the UN is useless. A lot of blowhard hyperbole with what for actions? #wednesdaywisdom
+Annotation from annotator: 0
+
+Example 16:
+Text: Did you hear about the tragedy in Las Vegas Over 500 hitmarkers but only 50 kills
+Annotation from annotator: 2
+
+Example 17:
+Text: Why don't you just dye your hair?
+Annotation from annotator: 0
+
+Example 18:
+Text: I still can't believe the bnha kids are like 15/16 and ripped as fuck. Also: looks @ momo's figure &amp; looks back @ mine lmfao where
+Annotation from annotator: 0
+
+Example 19:
+Text: I know how to decrease the unemployment rate substantially Reinstate the 3/5ths compromise
+Annotation from annotator: 2
+
+Example 20:
+Text: if the solution is to give Jerusalem International status.. just pump it full of immigrants like the Jew bastards have done to all our Cities - if it's everyone's      then no one will fight over it..
+Annotation from annotator: 2
+
+Example 21:
+Text: I would like to say this law holds no difference in what we already deal with but in fact it is a future of issues of 2018 and all it will take is a major cause of act that will take over American free speech and will Democercy Belifes being pushed from Germany new law over our own constitution.
+Annotation from annotator: 0
+
+Example 22:
+Text: what is the hardest part about eating bald pussy ? putting the diaper back on .
+Annotation from annotator: 2
+
+Example 23:
+Text: why do black people like the pokemon anime ? because they can relate to the main character 's fatherlessness .
+Annotation from annotator: 2
+
+Example 24:
+Text: Those two songs also seem to be the basis of 70% of Wild Nothing songs. Not really an insult since Wild Nothing is one of my favorite bands
+Annotation from annotator: 0
+
+Example 25:
+Text: Trans MtF are just strict followers of if you can't beat em join em
+Annotation from annotator: 2
+
+Example 26:
+Text: What's the difference between a jew and harry potter? Harry made it out of the chamber.
+Annotation from annotator: 2
+
+Example 27:
+Text: The Bloodbath in New York has given me an idea: Could a Prime Minister be removed from office for being insane?
+Annotation from annotator: 1
+
+Example 28:
+Text: It won't work if you don't smile!
+Annotation from annotator: 0
+
+Example 29:
+Text: I don't even like Ghostbusters but I will see the HELL out of this movie to spite misogynists.
+Annotation from annotator: 0
+
+Example 30:
+Text: Nazi is code word for white male, regardless of mixed ethnicity.
+Annotation from annotator: 2
+
+Target Example:
+Text: What’s the problem with an Asian pet store? There’s always a kitchen in the back
+Annotation from annotator:

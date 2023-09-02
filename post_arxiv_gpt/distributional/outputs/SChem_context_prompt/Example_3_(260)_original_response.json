@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVlf5hUi9A6tFF8IU2DwlKOqdUbN",
+    "object": "chat.completion",
+    "created": 1686314671,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 550,
+        "completion_tokens": 132,
+        "total_tokens": 682
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n10.00% of responsive annotators labeled the text with 1\n60.00% of responsive annotators labeled the text with 2\n28.00% of responsive annotators labeled the text with 3\n2.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels provided, it seems that the statement \"It's okay to enjoy powdered milk\" is considered controversial by a majority of the raters, with 60% labeling it as such. Therefore, my prediction for the soft label of this text would be 2."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

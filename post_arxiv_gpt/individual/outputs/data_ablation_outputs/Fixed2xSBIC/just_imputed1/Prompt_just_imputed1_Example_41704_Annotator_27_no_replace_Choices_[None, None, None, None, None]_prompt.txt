@@ -1,0 +1,133 @@
+Example 1:
+Text: What’s the difference between blowjobs and economic jobs? Kids aren’t supposed to have economic jobs
+Annotation from annotator: 2
+
+Example 2:
+Text: System deployments went until 5.30 AM due to some complications. Had to get up at 7.30 to take kid to Daham school. Now sleepy AF.
+Annotation from annotator: 0
+
+Example 3:
+Text: The bosses have been on vacation. Even though he's been here at his desk, pretty sure my coworker's been on vacation for the last 3 days too
+Annotation from annotator: 0
+
+Example 4:
+Text: if you listen to September in the morning there's a 100% chance that the rest of your day is gonna be amazing
+Annotation from annotator: 0
+
+Example 5:
+Text: We're paying full fees for our daughter to go to school, and they still ask us to donate our time! And I just think, why not ask these families on financial aid who are only paying a couple thousand bucks!? If you can't give your money, you should give your time, you know?
+Annotation from annotator: 1
+
+Example 6:
+Text: Would be nice to pin posts on #gab in future.
+Annotation from annotator: 0
+
+Example 7:
+Text: Is it me or does the Spanish Guardia Civil remind anyone of AntiFa?
+Annotation from annotator: 0
+
+Example 8:
+Text: Trump is going to have dinner at the WH with Pelosi/Schumer despite GOP being in control of the Senate, House, WH, SCOTUS, & 35 States
+
+So when democrats are in control, they do whatever they want
+
+Now that the GOP is in control, it's time for bipartisanship 👍🏻
+
+They're just controlled opposition
+Annotation from annotator: 2
+
+Example 9:
+Text: BTW, it was a 4.5 magnitude earthquake that hit the bay area.
+Annotation from annotator: 0
+
+Example 10:
+Text: Women would rather be skinned alive than date incels
+Thats the way I see it.
+Annotation from annotator: 2
+
+Example 11:
+Text: What do pictures and gay men in saudi arabia have in common Both are framed then hanged immediately
+Annotation from annotator: 2
+
+Example 12:
+Text: Matthew 1:18   Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
+Annotation from annotator: 0
+
+Example 13:
+Text: Arab men hate transgenders but they have one thing in common They both wear dresses
+Annotation from annotator: 2
+
+Example 14:
+Text: More than 100 people were just killed in #Idlib.Get up, come out, demand justice for the people of Syria wherever you are. Justice. justice.
+Annotation from annotator: 0
+
+Example 15:
+Text: After seeing all these pictures of Mohammed lately, I've finally figured out why he was so against his image being shown -
+
+He was an ugly cunt.
+Annotation from annotator: 2
+
+Example 16:
+Text: Ex-president Obama has stated it is in Britain's best interest to stay in Europe, while president Trump said he wasn't even aware Britain had even left the United States.
+Annotation from annotator: 0
+
+Example 17:
+Text: My jokes are like the poor population. Ignored by most people.
+Annotation from annotator: 2
+
+Example 18:
+Text: I once had a pet fish... Then it died.
+Annotation from annotator: 0
+
+Example 19:
+Text: Women will literally complain and whine about being complimented too much
+How the fuck can they actually call themselves opressed?
+Annotation from annotator: 2
+
+Example 20:
+Text: #MoreAcceptableThors: Thorldemort, Racist Uncle Thor, Smells-Like-Roofing-Tar Thor, Cocky Lifeguard Thor, DMV Employee Thor
+Annotation from annotator: 0
+
+Example 21:
+Text: I like you, you're cool. But some others, you know, why do they have to shove it in our face?
+Annotation from annotator: 0
+
+Example 22:
+Text: How long have you been in Canada for?
+Annotation from annotator: 0
+
+Example 23:
+Text: It only take one geniune affection from a girl to save all of us
+Yet here we are a lot kiled themselves , i hope that yu are proud of yourself femoids
+Annotation from annotator: 2
+
+Example 24:
+Text: What do you call a white person? Plz help I’m confused
+Annotation from annotator: 0
+
+Example 25:
+Text: What do you do when you don’t have a slinky You push a blind orphan down the stairs
+Annotation from annotator: 2
+
+Example 26:
+Text: It's friday, so I was going to order a pizza. Delivery time: 133-133 minutes. UH.
+Annotation from annotator: 0
+
+Example 27:
+Text: .@willylevy29 @Elygutierrez19 Stupid idiot her strength Just behind screens In front of the camera do not know speech
+Annotation from annotator: 2
+
+Example 28:
+Text: yes RoadHog i did check into j and g they sound good , im hoping i will find one on the shelf soon tho , the mosin
+Annotation from annotator: 0
+
+Example 29:
+Text: cause I have hella feelings for you I act like I don't fucking care like they ain't even there
+Annotation from annotator: 1
+
+Example 30:
+Text: when you get home from work expecting to crawl back into bed with your man but he forgot to tell you he has work &#128580;
+Annotation from annotator: 0
+
+Text: Why is there a bite in the Apple logo? Well the child workers need to eat _something._
+Annotation from annotator:

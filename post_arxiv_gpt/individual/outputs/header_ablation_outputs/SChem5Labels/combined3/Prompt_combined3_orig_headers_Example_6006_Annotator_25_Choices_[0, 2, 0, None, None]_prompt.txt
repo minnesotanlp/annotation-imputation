@@ -1,0 +1,245 @@
+Human-Rated Examples:
+Example 1:
+Text: It is unpatriotic to avoid enlisting in the army.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's normal to want affection from loved ones.
+Annotation from annotator: 3
+
+Example 3:
+Text: Parents should involve children in their problems
+Annotation from annotator: 2
+
+Example 4:
+Text: You cannot be forced to love someone you do not.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's okay to break up with your significant other.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should always heed someone's words of warning.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is good to communicate when something is wrong.
+Annotation from annotator: 3
+
+Example 8:
+Text: It is okay to grieve.
+Annotation from annotator: 3
+
+Example 9:
+Text: You should always show up to a play date.
+Annotation from annotator: 3
+
+Example 10:
+Text: You should tell your boss if your coworker uses a racial slur.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's bad to have an overly pessimistic world view.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's understandable if you're disappointed when your spouse is going on a trip and you can't go with them.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should flunk students who do poorly on assignments.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's good to take charge of things.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is distrustful to keep someone at a distance.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's good to change to a career that you find challenging.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's okay to be honest with your friends.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is expected that a car wreck can cause someone to be late.
+Annotation from annotator: 3
+
+Example 19:
+Text: You shouldn't fight with your friends over your love life.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't break someone's heart.
+Annotation from annotator: 3
+
+Example 21:
+Text: Not telling your girlfriend that you no longer want to see one another is rude.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's fine to judge someone's social media post.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's excellent to participate in your local democracy.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good to give yourself a new look.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's okay to not want to be friends with someone you still love.
+Annotation from annotator: 3
+
+Example 26:
+Text: If you don't like yourself and your identity, you should make some changes to your life.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is okay to be upset when someone reveals they have been lieing to you.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should keep interviews professional.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay to start your life over again if you have to.
+Annotation from annotator: 3
+
+Example 30:
+Text: You should not pursue a relationship with someone much younger than you.
+Annotation from annotator: 3
+
+Estimated Examples:
+Example 1:
+Text: It's okay to ask your partner not to smoke.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's normal to come to a realization after thinking things over.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should wear a seatbelt when riding in a car.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good to admit things to people.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's okay to be disgusted by men targeting young girls.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's okay to not always get along with your parents.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to research new things.
+Annotation from annotator: 3
+
+Example 8:
+Text: You should talk to your friend about what is annoying you about them.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's difficult to attend a graduation when you won't be graduating.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's rude to dislike your best friend's boyfriend.
+Annotation from annotator: 2
+
+Example 11:
+Text: You shouldn't be sad over things that can be replaced
+Annotation from annotator: 3
+
+Example 12:
+Text: It is wrong to touch something that isn't yours.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't cut out your best friend from your life.
+Annotation from annotator: 3
+
+Example 14:
+Text: If you need something fixed, you should ask someone for help.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is bad to be negative.
+Annotation from annotator: 2
+
+Example 16:
+Text: If you don't want to pay for something, you should tell the company in charge.
+Annotation from annotator: 3
+
+Example 17:
+Text: You should respect a present that someone else gifted you.
+Annotation from annotator: 3
+
+Example 18:
+Text: You should always pay for someone's service.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is good to work hard.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's wrong and dangerous to leave the oven on and forget about it
+Annotation from annotator: 4
+
+Example 21:
+Text: It is good to help others.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to call out bad behavior of bullies.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's not right to hit strangers, even if you're annoyed with them.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's okay to be scared of childbirth.
+Annotation from annotator: 2
+
+Example 25:
+Text: It is expected that students come to class alert and able to pay attention.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's understandable if you like to pretend to climb mountains with your friends.
+Annotation from annotator: 2
+
+Example 27:
+Text: It's wrong to change clothes in front of your kid's friends.
+Annotation from annotator: 4
+
+Example 28:
+Text: You should talk things over with others instead of getting mad.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay to feel lost when in new places.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's normal to worry about your partner when something is wrong with them.
+Annotation from annotator: 3
+
+Target Example:
+Text: If you need to contact Uber, you should call them on your phone.
+Annotation from annotator:

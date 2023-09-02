@@ -1,0 +1,9 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+
+
+Target Example:
+Text: how do you turn a fag into a vegetable break his legs
+Annotation from annotator:
+The only valid output is a single integer.

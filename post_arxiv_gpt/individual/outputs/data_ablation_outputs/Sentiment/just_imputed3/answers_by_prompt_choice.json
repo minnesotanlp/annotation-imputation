@@ -1,0 +1,2138 @@
+{
+    "just_orig7_replace": {
+        "[0, None, 0, None, 0]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                0,
+                1,
+                -1,
+                -1,
+                -1,
+                -1,
+                0,
+                -1,
+                -1,
+                0,
+                -1,
+                -1,
+                1,
+                1,
+                -1,
+                -1,
+                -1,
+                3,
+                3,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "classification_report": {
+                "-1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0.0
+                },
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1.0
+                },
+                "1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 5.0
+                },
+                "2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 17.0
+                },
+                "3": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 6.0
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1.0
+                },
+                "accuracy": 0.0,
+                "macro avg": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 30.0
+                },
+                "weighted avg": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 30.0
+                }
+            }
+        },
+        "[4, None, 0, None, 1]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                -1,
+                -1,
+                0,
+                0,
+                -1,
+                -2,
+                -1,
+                1,
+                -1,
+                1,
+                0,
+                -1,
+                0,
+                -1,
+                -1,
+                0,
+                0,
+                -1,
+                1,
+                2,
+                -2,
+                2,
+                -1,
+                3,
+                2,
+                -1,
+                -1,
+                2,
+                -2,
+                -1
+            ],
+            "classification_report": {
+                "-2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0
+                },
+                "-1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0
+                },
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 0.25,
+                    "recall": 0.058823529411764705,
+                    "f1-score": 0.09523809523809523,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "accuracy": 0.03333333333333333,
+                "macro avg": {
+                    "precision": 0.03571428571428571,
+                    "recall": 0.008403361344537815,
+                    "f1-score": 0.013605442176870748,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.14166666666666666,
+                    "recall": 0.03333333333333333,
+                    "f1-score": 0.05396825396825397,
+                    "support": 30
+                }
+            }
+        }
+    },
+    "just_orig7_no_replace": {
+        "[0, None, 0, None, 0]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -2,
+                0,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "classification_report": {
+                "-2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0.0
+                },
+                "-1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0.0
+                },
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1.0
+                },
+                "1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 5.0
+                },
+                "2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 17.0
+                },
+                "3": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 6.0
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1.0
+                },
+                "accuracy": 0.0,
+                "macro avg": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 30.0
+                },
+                "weighted avg": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 30.0
+                }
+            }
+        },
+        "[4, None, 0, None, 1]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -2,
+                -1,
+                1,
+                -1,
+                3,
+                -1,
+                -1,
+                0,
+                0,
+                -1,
+                0,
+                1,
+                -2,
+                1,
+                1,
+                -2,
+                -1,
+                0,
+                4,
+                4,
+                2,
+                -2,
+                2,
+                -2,
+                -1
+            ],
+            "classification_report": {
+                "-2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0
+                },
+                "-1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0
+                },
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 0.5,
+                    "recall": 0.058823529411764705,
+                    "f1-score": 0.10526315789473684,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 0.16666666666666666,
+                    "f1-score": 0.2857142857142857,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "f1-score": 0.6666666666666666,
+                    "support": 1
+                },
+                "accuracy": 0.1,
+                "macro avg": {
+                    "precision": 0.2857142857142857,
+                    "recall": 0.1750700280112045,
+                    "f1-score": 0.1510920157536699,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.5,
+                    "recall": 0.1,
+                    "f1-score": 0.1390142021720969,
+                    "support": 30
+                }
+            }
+        }
+    },
+    "just_orig6_replace": {
+        "[None, None, 0, None, 0]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                -1,
+                -1,
+                1,
+                -1,
+                -1,
+                -1,
+                -1,
+                1,
+                -1,
+                0,
+                0,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -2,
+                -1,
+                -1,
+                -1,
+                0,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                1,
+                -1,
+                -1
+            ],
+            "classification_report": {
+                "-2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0.0
+                },
+                "-1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0.0
+                },
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1.0
+                },
+                "1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 5.0
+                },
+                "2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 17.0
+                },
+                "3": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 6.0
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1.0
+                },
+                "accuracy": 0.0,
+                "macro avg": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 30.0
+                },
+                "weighted avg": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 30.0
+                }
+            }
+        }
+    },
+    "just_orig6_no_replace": {
+        "[None, None, 0, None, 0]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                -1,
+                -1,
+                1,
+                -1,
+                -1,
+                -1,
+                -1,
+                1,
+                -1,
+                0,
+                0,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -2,
+                -1,
+                -1,
+                -1,
+                0,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                1,
+                -1,
+                -1
+            ],
+            "classification_report": {
+                "-2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0.0
+                },
+                "-1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0.0
+                },
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1.0
+                },
+                "1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 5.0
+                },
+                "2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 17.0
+                },
+                "3": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 6.0
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1.0
+                },
+                "accuracy": 0.0,
+                "macro avg": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 30.0
+                },
+                "weighted avg": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 30.0
+                }
+            }
+        }
+    },
+    "just_orig5_replace": {
+        "[None, None, 0, 1, 0]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -2,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                1,
+                -1,
+                -2,
+                -1,
+                -1,
+                2,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "classification_report": {
+                "-2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0
+                },
+                "-1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0
+                },
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 1.0,
+                    "recall": 0.058823529411764705,
+                    "f1-score": 0.1111111111111111,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "accuracy": 0.03333333333333333,
+                "macro avg": {
+                    "precision": 0.14285714285714285,
+                    "recall": 0.008403361344537815,
+                    "f1-score": 0.015873015873015872,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.5666666666666667,
+                    "recall": 0.03333333333333333,
+                    "f1-score": 0.06296296296296296,
+                    "support": 30
+                }
+            }
+        },
+        "[None, None, 0, 1, 1]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                -1,
+                -1,
+                1,
+                -1,
+                0,
+                -2,
+                -1,
+                1,
+                -1,
+                0,
+                1,
+                1,
+                0,
+                -1,
+                -1,
+                1,
+                0,
+                -1,
+                1,
+                -1,
+                -2,
+                0,
+                -1,
+                2,
+                1,
+                -1,
+                -1,
+                1,
+                -1,
+                -1
+            ],
+            "classification_report": {
+                "-2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0
+                },
+                "-1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0
+                },
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 1.0,
+                    "recall": 0.058823529411764705,
+                    "f1-score": 0.1111111111111111,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "accuracy": 0.03333333333333333,
+                "macro avg": {
+                    "precision": 0.14285714285714285,
+                    "recall": 0.008403361344537815,
+                    "f1-score": 0.015873015873015872,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.5666666666666667,
+                    "recall": 0.03333333333333333,
+                    "f1-score": 0.06296296296296296,
+                    "support": 30
+                }
+            }
+        }
+    },
+    "just_orig5_no_replace": {
+        "[None, None, 0, 1, 0]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -2,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                1,
+                -1,
+                -2,
+                -1,
+                -1,
+                2,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "classification_report": {
+                "-2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0
+                },
+                "-1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0
+                },
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 1.0,
+                    "recall": 0.058823529411764705,
+                    "f1-score": 0.1111111111111111,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "accuracy": 0.03333333333333333,
+                "macro avg": {
+                    "precision": 0.14285714285714285,
+                    "recall": 0.008403361344537815,
+                    "f1-score": 0.015873015873015872,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.5666666666666667,
+                    "recall": 0.03333333333333333,
+                    "f1-score": 0.06296296296296296,
+                    "support": 30
+                }
+            }
+        },
+        "[None, None, 0, 1, 1]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                -1,
+                -1,
+                1,
+                -1,
+                0,
+                -2,
+                -1,
+                1,
+                -1,
+                0,
+                1,
+                1,
+                0,
+                -1,
+                -1,
+                1,
+                0,
+                -1,
+                1,
+                -1,
+                -2,
+                0,
+                -1,
+                2,
+                1,
+                -1,
+                -1,
+                1,
+                -1,
+                -1
+            ],
+            "classification_report": {
+                "-2": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0
+                },
+                "-1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 0
+                },
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 1.0,
+                    "recall": 0.058823529411764705,
+                    "f1-score": 0.1111111111111111,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "accuracy": 0.03333333333333333,
+                "macro avg": {
+                    "precision": 0.14285714285714285,
+                    "recall": 0.008403361344537815,
+                    "f1-score": 0.015873015873015872,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.5666666666666667,
+                    "recall": 0.03333333333333333,
+                    "f1-score": 0.06296296296296296,
+                    "support": 30
+                }
+            }
+        }
+    },
+    "combined3_replace": {
+        "[1, 0, 0, None, None]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                0,
+                1,
+                3,
+                1,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                3,
+                2,
+                1,
+                1,
+                2,
+                2,
+                2,
+                0,
+                2,
+                3,
+                1,
+                3,
+                1,
+                4,
+                2,
+                3,
+                2,
+                3,
+                2,
+                2
+            ],
+            "classification_report": {
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.375,
+                    "recall": 0.6,
+                    "f1-score": 0.4615384615384615,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 0.6666666666666666,
+                    "recall": 0.47058823529411764,
+                    "f1-score": 0.5517241379310345,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.5714285714285714,
+                    "recall": 0.6666666666666666,
+                    "f1-score": 0.6153846153846153,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "accuracy": 0.5,
+                "macro avg": {
+                    "precision": 0.3226190476190476,
+                    "recall": 0.3474509803921569,
+                    "f1-score": 0.3257294429708223,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.554563492063492,
+                    "recall": 0.5,
+                    "f1-score": 0.5126436781609195,
+                    "support": 30
+                }
+            }
+        },
+        "[2, 0, 0, None, None]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                0,
+                1,
+                3,
+                1,
+                2,
+                1,
+                3,
+                2,
+                1,
+                3,
+                3,
+                2,
+                1,
+                1,
+                2,
+                2,
+                2,
+                0,
+                2,
+                3,
+                1,
+                3,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                2
+            ],
+            "classification_report": {
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.375,
+                    "recall": 0.6,
+                    "f1-score": 0.4615384615384615,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 0.6666666666666666,
+                    "recall": 0.47058823529411764,
+                    "f1-score": 0.5517241379310345,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.375,
+                    "recall": 0.5,
+                    "f1-score": 0.42857142857142855,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "accuracy": 0.4666666666666667,
+                "macro avg": {
+                    "precision": 0.2833333333333333,
+                    "recall": 0.3141176470588235,
+                    "f1-score": 0.2883668056081849,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.5152777777777777,
+                    "recall": 0.4666666666666667,
+                    "f1-score": 0.47528104079828215,
+                    "support": 30
+                }
+            }
+        }
+    },
+    "combined3_no_replace": {
+        "[1, 0, 0, None, None]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                1,
+                1,
+                2,
+                1,
+                3,
+                1,
+                2,
+                2,
+                1,
+                3,
+                4,
+                3,
+                3,
+                1,
+                2,
+                3,
+                2,
+                1,
+                2,
+                3,
+                1,
+                3,
+                1,
+                4,
+                4,
+                2,
+                2,
+                3,
+                1,
+                1
+            ],
+            "classification_report": {
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.36363636363636365,
+                    "recall": 0.8,
+                    "f1-score": 0.5000000000000001,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 0.625,
+                    "recall": 0.29411764705882354,
+                    "f1-score": 0.4,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.5,
+                    "recall": 0.6666666666666666,
+                    "f1-score": 0.5714285714285715,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.3333333333333333,
+                    "recall": 1.0,
+                    "f1-score": 0.5,
+                    "support": 1
+                },
+                "accuracy": 0.4666666666666667,
+                "macro avg": {
+                    "precision": 0.3643939393939394,
+                    "recall": 0.552156862745098,
+                    "f1-score": 0.3942857142857143,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.5258838383838385,
+                    "recall": 0.4666666666666667,
+                    "f1-score": 0.440952380952381,
+                    "support": 30
+                }
+            }
+        },
+        "[2, 0, 0, None, None]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                1,
+                1,
+                2,
+                1,
+                3,
+                1,
+                2,
+                2,
+                1,
+                3,
+                1,
+                2,
+                3,
+                1,
+                2,
+                3,
+                2,
+                1,
+                2,
+                3,
+                1,
+                3,
+                2,
+                4,
+                4,
+                2,
+                2,
+                3,
+                1,
+                2
+            ],
+            "classification_report": {
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.4,
+                    "recall": 0.8,
+                    "f1-score": 0.5333333333333333,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 0.7272727272727273,
+                    "recall": 0.47058823529411764,
+                    "f1-score": 0.5714285714285714,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.5714285714285714,
+                    "recall": 0.6666666666666666,
+                    "f1-score": 0.6153846153846153,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "f1-score": 0.6666666666666666,
+                    "support": 1
+                },
+                "accuracy": 0.5666666666666667,
+                "macro avg": {
+                    "precision": 0.4397402597402598,
+                    "recall": 0.5874509803921568,
+                    "f1-score": 0.47736263736263734,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.6097402597402597,
+                    "recall": 0.5666666666666667,
+                    "f1-score": 0.557997557997558,
+                    "support": 30
+                }
+            }
+        }
+    },
+    "just_imputed1_replace": {
+        "[None, None, None, None, None]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                1,
+                2,
+                2,
+                1,
+                2,
+                0,
+                2,
+                2,
+                1,
+                2,
+                3,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                1,
+                3,
+                1,
+                3,
+                1,
+                4,
+                2,
+                3,
+                2,
+                2,
+                3,
+                2
+            ],
+            "classification_report": {
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.3333333333333333,
+                    "recall": 0.4,
+                    "f1-score": 0.3636363636363636,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 0.4117647058823529,
+                    "recall": 0.4117647058823529,
+                    "f1-score": 0.4117647058823529,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.2,
+                    "recall": 0.16666666666666666,
+                    "f1-score": 0.1818181818181818,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "accuracy": 0.3333333333333333,
+                "macro avg": {
+                    "precision": 0.18901960784313726,
+                    "recall": 0.19568627450980391,
+                    "f1-score": 0.19144385026737967,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.3288888888888889,
+                    "recall": 0.3333333333333333,
+                    "f1-score": 0.3303030303030303,
+                    "support": 30
+                }
+            }
+        }
+    },
+    "just_imputed1_no_replace": {
+        "[None, None, None, None, None]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                1,
+                1,
+                2,
+                1,
+                3,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                2,
+                1,
+                2,
+                3,
+                1,
+                3,
+                2,
+                3,
+                3,
+                2,
+                1,
+                2,
+                1,
+                2
+            ],
+            "classification_report": {
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.3,
+                    "recall": 0.6,
+                    "f1-score": 0.4,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 0.6428571428571429,
+                    "recall": 0.5294117647058824,
+                    "f1-score": 0.5806451612903226,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.5,
+                    "recall": 0.5,
+                    "f1-score": 0.5,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "accuracy": 0.5,
+                "macro avg": {
+                    "precision": 0.2885714285714286,
+                    "recall": 0.32588235294117646,
+                    "f1-score": 0.29612903225806453,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.5142857142857143,
+                    "recall": 0.5,
+                    "f1-score": 0.4956989247311828,
+                    "support": 30
+                }
+            }
+        }
+    },
+    "just_imputed3_replace": {
+        "[None, 0, 0, None, None]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                0,
+                2,
+                3,
+                3,
+                1,
+                2,
+                1,
+                3,
+                1,
+                3,
+                3,
+                3,
+                2,
+                1,
+                2,
+                2,
+                2,
+                0,
+                1,
+                3,
+                1,
+                3,
+                1,
+                3,
+                3,
+                3,
+                2,
+                2,
+                2,
+                2
+            ],
+            "classification_report": {
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.42857142857142855,
+                    "recall": 0.6,
+                    "f1-score": 0.5,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 0.8,
+                    "recall": 0.47058823529411764,
+                    "f1-score": 0.5925925925925927,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.36363636363636365,
+                    "recall": 0.6666666666666666,
+                    "f1-score": 0.4705882352941177,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "accuracy": 0.5,
+                "macro avg": {
+                    "precision": 0.31844155844155847,
+                    "recall": 0.3474509803921569,
+                    "f1-score": 0.3126361655773421,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.5974891774891776,
+                    "recall": 0.5,
+                    "f1-score": 0.5132534495279594,
+                    "support": 30
+                }
+            }
+        }
+    },
+    "just_imputed3_no_replace": {
+        "[None, 0, 0, None, None]": {
+            "true_answers": [
+                2,
+                0,
+                3,
+                1,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                2,
+                2,
+                4,
+                2,
+                2,
+                3,
+                2,
+                2
+            ],
+            "model_answers": [
+                1,
+                1,
+                2,
+                1,
+                4,
+                1,
+                3,
+                2,
+                1,
+                3,
+                1,
+                3,
+                3,
+                2,
+                2,
+                2,
+                1,
+                1,
+                2,
+                3,
+                1,
+                3,
+                3,
+                4,
+                4,
+                2,
+                1,
+                2,
+                1,
+                2
+            ],
+            "classification_report": {
+                "0": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1-score": 0.0,
+                    "support": 1
+                },
+                "1": {
+                    "precision": 0.2727272727272727,
+                    "recall": 0.6,
+                    "f1-score": 0.37499999999999994,
+                    "support": 5
+                },
+                "2": {
+                    "precision": 0.5555555555555556,
+                    "recall": 0.29411764705882354,
+                    "f1-score": 0.3846153846153846,
+                    "support": 17
+                },
+                "3": {
+                    "precision": 0.2857142857142857,
+                    "recall": 0.3333333333333333,
+                    "f1-score": 0.30769230769230765,
+                    "support": 6
+                },
+                "4": {
+                    "precision": 0.3333333333333333,
+                    "recall": 1.0,
+                    "f1-score": 0.5,
+                    "support": 1
+                },
+                "accuracy": 0.36666666666666664,
+                "macro avg": {
+                    "precision": 0.2894660894660894,
+                    "recall": 0.4454901960784314,
+                    "f1-score": 0.31346153846153846,
+                    "support": 30
+                },
+                "weighted avg": {
+                    "precision": 0.42852332852332853,
+                    "recall": 0.36666666666666664,
+                    "f1-score": 0.3586538461538461,
+                    "support": 30
+                }
+            }
+        }
+    }
+}

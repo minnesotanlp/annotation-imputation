@@ -1,0 +1,122 @@
+Example 1:
+Text: Can you respond to the comments I left on the S&M PR page please. If you are satisfied with the changes, can you tell me if it is qualifiable for FAN and if not for FAN, then for A class status?
+Annotation from annotator: 14
+
+Example 2:
+Text: Please sign comments using four tildes, as I'm not sure who you are...? Which article are you speaking about?
+Annotation from annotator: 17
+
+Example 3:
+Text: Thanks terribly for looking it up. Would it be alright for me to use the new source in Europe, economy section then?
+Annotation from annotator: 21
+
+Example 4:
+Text: To be quite frank it doesn't matter that the quotes don't appear any other place on the internet, the point is that they violate policy by being here and you could always set up a personal website to host them where all you'd have to worry about is fair use and not Wikipedia's stricter requirements. Are there more of these quote/source pages than <url>, <url> and <url>?
+Annotation from annotator: 13
+
+Example 5:
+Text: This is just too confusing...how can a team be an affiliate of the NHL team but not the AHL team?  Especially in a AA hockey league?
+Annotation from annotator: 12
+
+Example 6:
+Text: I don't see any of that in his deletion log.  Would you please find out which one it was as evidence so you're not blindly accusing an admin of deleting something they didn't delete?
+Annotation from annotator: 8
+
+Example 7:
+Text: Sorry, I dont quite remember what we were talking about.  Can you tell me what you were/are confused about?
+Annotation from annotator: 19
+
+Example 8:
+Text: Hi Emily!  Do you have any ideas about a topic yet?
+Annotation from annotator: 22
+
+Example 9:
+Text: Did you notice his recommendation that you do the same?  Let's both take a break, ok?
+Annotation from annotator: 15
+
+Example 10:
+Text: I see you have a BugZilla account. How do you make it so it doesn't show your email to everybody?
+Annotation from annotator: 12
+
+Example 11:
+Text: Yeah, but playtime is over.  Find some articles to edit, yes?
+Annotation from annotator: 8
+
+Example 12:
+Text: That sounds like it may be an improvement. What are those six articles?
+Annotation from annotator: 16
+
+Example 13:
+Text: I just did some edits on it.  Feedback?
+Annotation from annotator: 19
+
+Example 14:
+Text: Ok, that seems acceptable. Did I remove something like that?
+Annotation from annotator: 15
+
+Example 15:
+Text: I've deleted the diagram from the <url> article because, as Curtis Clark points out in <url>, the diagram does not represent the results of the reference it purports to represent. Can't we reproduce an actual diagram from a published reference as "fair use" as long as we properly label & attribute it?
+Annotation from annotator: 14
+
+Example 16:
+Text: I actually went to the long term abuse page right now, and tried to block them, but it seems that those accounts don't exist. Have they been listed incorrectly?
+Annotation from annotator: 13
+
+Example 17:
+Text: It states on the page that it features her, they sample the song, and were going to try and get her to take part in the video... Surely this counts as being featured on the single?
+Annotation from annotator: 13
+
+Example 18:
+Text: Hey, I see you've been contributing! Time to lose the "leaving Wikipedia" box?
+Annotation from annotator: 19
+
+Example 19:
+Text: Also, how does the "revert all edits" function work?  Mainly, what do I put in the box for the secondary confirmation?
+Annotation from annotator: 10
+
+Example 20:
+Text: What would the recommended sequencing be, then?... GAR, then FAR?
+Annotation from annotator: 17
+
+Example 21:
+Text: I wasn't planning on it before I asked you about it. I figured, afterwards, why inquire if the template's really too long as it is?
+Annotation from annotator: 14
+
+Example 22:
+Text: Sorry, almost forgot. After calling me a "child" "uneducated" and making remarks to the effect of "shouldn't be allowed to post on edit Wikipedia" what grounds have you got to stand on to say I've made personal attacks against you by suggesting vandalism?
+Annotation from annotator: 5
+
+Example 23:
+Text: I am the bot owner, and I replied just above your comment, explaining the situation. Is there some other problem, or some other comment I didn't respond to?
+Annotation from annotator: 17
+
+Example 24:
+Text: Thank you, Cremepuff222, for the kind words. :) How have you been?
+Annotation from annotator: 20
+
+Example 25:
+Text: He's back with yet another IP, leaving abusive and harassing messages on my personal talk page as well as here. Is there anything that can be done to end his disruption for good?
+Annotation from annotator: 9
+
+Example 26:
+Text: What a great Marine and patriot. Is he in the L"ist of historically famous Marines"?
+Annotation from annotator: 19
+
+Example 27:
+Text: Richiez, if you are a surgeon, there's a good chance that Intuitive Surgical would bring a robot to your home or office for free so that you could test drive it without further obligation.  What have you got to lose?
+Annotation from annotator: 9
+
+Example 28:
+Text: I don't like the idea of switching the order halfway through, especially as you would you have to decide an arbitrary cut-off point. Perhaps you should raise this on <url>, and see what people think?
+Annotation from annotator: 17
+
+Example 29:
+Text: Yes, ''kaen chokugeki hou'' is exactly right.  Do you have that same NTSC Hong Kong DVD that I do?
+Annotation from annotator: 17
+
+Example 30:
+Text: Mou017ce dawniej sekundnik w ogxf3le nie istniau0142?  A "naciu0105g" czy nie byu0142 rxf3wnieu017c uu017cywany do ''nastawiania''<person>nie tylko do "nakru0119cania" ("''winding''")<person>zegarka?
+Annotation from annotator: 12
+
+Text: Do you think we're good to go with the proposal, maybe later tonight, or tomorrow? Any other problems with the proposal as it stands?
+Annotation from annotator:

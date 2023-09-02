@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Correct Examples:
+Example 1:
+Text: I believe in previous versions of the article, the title of that section was "Left-libertarianism in political philosophy".  If it were changed back to something like that and moved to the top, would that be satisfactory?
+Annotation from annotator: 12
+
+Example 2:
+Text: So argument that "''Note: many Moldovans declared themselves as Romanians or Russians.''" is wrong because NO Moldovians declared themselves as russian?
+Annotation from annotator: 12
+
+Example 3:
+Text: No problem, done. What's your connection to Casey?
+Annotation from annotator: 15
+
+Example 4:
+Text: I've been "busy" (all day today in Death Valley admiring the spring bloom), and I would like to get at least partial buyin from HG if possible. Not a big hurry to rename, right?
+Annotation from annotator: 12
+
+Example 5:
+Text: So you are still sidestepping the question.  Please answer it directly:  please answer my question, clearly:  are you saying is that you cannot use the wiki to edit cooperatively with other people on the same text, or are you saying that you can use the wiki as it was intended and edit a single text cooperatively?
+Annotation from annotator: 8
+
+Example 6:
+Text: I'd be glad to help, if you like. How should we divide it, by section or by criteria?
+Annotation from annotator: 18
+
+Example 7:
+Text: Hey, what was with the fact tag? Do you dispute its name?
+Annotation from annotator: 9
+
+Example 8:
+Text: You may need to enable your own setting to allow E-mail too; I'm not sure. If so, maybe you can turn it on temporarily, so that you can send me one e-mail?
+Annotation from annotator: 15
+
+Example 9:
+Text: I see you have a BugZilla account. How do you make it so it doesn't show your email to everybody?
+Annotation from annotator: 12
+
+Example 10:
+Text: Hope that you don't mind, I modified your comment in the Craig intro, using a nice new template that I found.  Check it out: what do you think?
+Annotation from annotator: 14
+
+Example 11:
+Text: Hmmm, Dev, Jet123's nom doesn't really count as your second one, right? I can overwrite it?
+Annotation from annotator: 15
+
+Example 12:
+Text: I have not seen quotation sections on any other Australian politician page. Also, who chose these "quotations?" What qualifies as a quotation?
+Annotation from annotator: 8
+
+Example 13:
+Text: Thank you for the links and the explanation. I'd like to help with the project, what did you have in mind?
+Annotation from annotator: 20
+
+Example 14:
+Text: Hmm. Over?
+Annotation from annotator: 8
+
+Example 15:
+Text: I know ''shin'' is one letter in the Hebrew alphabet, but the "sh" in English is a diphtong and there should be no need to transliterate the shin to SH. Have you seen this convention in any other articles?
+Annotation from annotator: 13
+
+Example 16:
+Text: Thanks; I expected a decline, despite my extensive comments at <url>. As there is nothing more to this article than listings of bylines in non-notable publications, minor book acknowledgments, uncredited movie extra roles, blog comments, paid directory listings, and unsubstantiated claims about wildly over-the-top PR accomplishments, what exactly do you consider to be the examples of "credible notability"?
+Annotation from annotator: 5
+
+Example 17:
+Text: Why nominate this for deletion? It was obviously created by someone who didn't know how to use redirects, so would it not be best to just correct it?
+Annotation from annotator: 9
+
+Example 18:
+Text: So, I'm a "deletion fanatic"? Why don't you refrain from uncivil remarks and focus on adding sources to your unsourced stubs - help the encyclopedia rather than pissing off people?
+Annotation from annotator: 3
+
+Example 19:
+Text: That's nice. May I ask why you noticed this?
+Annotation from annotator: 5
+
+Example 20:
+Text: I was thinking more of making the line longer so that the team's name can fit on it. Is that doable?
+Annotation from annotator: 16
+
+Example 21:
+Text: I agree with Deb. Is there anything else you are interested in besides city planning?
+Annotation from annotator: 15
+
+Example 22:
+Text: I removed that second paragraph entirely, since the information is covered in the article.  Do you feel that the lead should be larger?
+Annotation from annotator: 14
+
+Example 23:
+Text: You had problems with both versions? Do you have cookies enabled in <url>?
+Annotation from annotator: 10
+
+Example 24:
+Text: Unfortunately for those who like railroads, it's been closed again! DOn't you people have better things to do?
+Annotation from annotator: 4
+
+Example 25:
+Text: Thanks for your additional categorizing. :) I guess I could just look at your contributions, but before catting, what "work" were you doing previously?
+Annotation from annotator: 13
+
+Example 26:
+Text: Meh - perhaps not, and they will most likely be closed as renames, but I figured another week to allow anyone who wants to to comment wouldn't hurt anything since you as the nominator were the only one who had commented so far. Is there something I missed, or a hurry to get these quickly renamed?
+Annotation from annotator: 12
+
+Example 27:
+Text: Sure thing, you've been doing great work so far. Would it help to maybe translate the whole article first as it is, and then over the course of time you can play around with the sections and add stuff that you find?
+Annotation from annotator: 18
+
+Example 28:
+Text: Interesting; I thought I was fairly familiar with Wikipedia rules. Which rules exactly did I violate by closing an AfD (allegedly) without reading the underlying article?
+Annotation from annotator: 14
+
+Example 29:
+Text: It appears that that article was deleted because not enough info was found on the person. Doesn't the new article have enough info?
+Annotation from annotator: 11
+
+Example 30:
+Text: Unless you provide a wikipedia article, with solid references od proof of notability of the term, I am going to delist it. I ave no doubts that there was a dilike of Portugals (like any other major nation), but was this word in notable circulation?
+Annotation from annotator: 9
+
+Target Example:
+Text: Thanks a lot for clearing that up. Do you also happen to know about the age of consent in Thailand, and why he could be charge with child sex offenses even though she was 17 years old?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

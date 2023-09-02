@@ -1,0 +1,165 @@
+Estimated Examples:
+Example 1:
+Text: That's the British English spelling. American English wins out on a lot of stuff on Wikipedia, so why not give a cookie to the Brits now and then?
+Annotation from annotator: 7
+
+Example 2:
+Text: Just had a look at <url>, and oh dear god. Any interest?
+Annotation from annotator: 10
+
+Example 3:
+Text: Cool. ''(sound of ruffling wiki-pages back and forth)'' "Looking forward" on which talk page?
+Annotation from annotator: 10
+
+Example 4:
+Text: Don't threaten me as that is not vandalism. What is wrong with a nude photo of Barack's mom?
+Annotation from annotator: 5
+
+Example 5:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation from annotator: 5
+
+Example 6:
+Text: Hello StuRat I'm mickey 63 please excuse me if I get the etiquette wrong I'm new to this type of discussion. I asked a question yesterday(18 March)if it was possible to transform desert into arable farmland,I received various answers one of which was interesting because it goes along with my own train of thought.Firstly, to construct a man made hole in a suitable place and then tow an iceberg to that place to make a lake.You would of course need a canal system to get the iceberg to the hole and for distribution,but is it possible?
+Annotation from annotator: 11
+
+Example 7:
+Text: All right, I'll bite. Is honorary membership in the Justice League not criteria enough for being listed in that category?
+Annotation from annotator: 8
+
+Example 8:
+Text: I'm sorry, but I'm unlikely to have time to help. Maybe try <url>?
+Annotation from annotator: 13
+
+Example 9:
+Text: You've contributed a lot to Puget Sound area articles.  Would you be willing to take a look at the debate I'm having at <url> and do whatever you think is best?
+Annotation from annotator: 18
+
+Example 10:
+Text: The <url> page said that <url> will be shown on the <url> subchannels 26.5 and 26.6, and also on analog channel 48. It is also expected that The U Too will displace Me Too from analog channel 48. If that's the case, then, where do you suppose Me Too will end up? What new channel in Chicago will it be shown on?
+Annotation from annotator: 13
+
+Example 11:
+Text: Back on topic Jigglyfidders; I totally agree with Deconstructhis on this one. What will you do to address this issue?
+Annotation from annotator: 8
+
+Example 12:
+Text: At <url>, your 'outside comment' contains the statement "You don't go deleting things with a consensus, and then blast those who have the nerve to reprimand you. "  This seems self-contradictory: did you mean to type 'without'?
+Annotation from annotator: 10
+
+Example 13:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 9
+
+Example 14:
+Text: No, just admire them from a distance of a couple of centuries! You?
+Annotation from annotator: 9
+
+Example 15:
+Text: Hi, I'm looking for a clerk that would be willing to act as my trainer. Would you be available to do so?
+Annotation from annotator: 15
+
+Example 16:
+Text: If you have time could you look at <url><url> on the <url> article. I'm wondering what your thoughts are in terms whether it should go or stay?
+Annotation from annotator: 14
+
+Example 17:
+Text: I'm not sure how I caught this, but <url> made the same edits to <url> that blocked <url> made several years ago to <url> (which I have redir'ed because it is almost the same as the plastic pipework article).  Can the former be blocked for quacking despite a lack of recent activity?
+Annotation from annotator: 11
+
+Example 18:
+Text: I'm not sure what you mean by the old factory farming discussion. Is something missing?
+Annotation from annotator: 11
+
+Example 19:
+Text: He's stumped about what the block is for, and so am I. Could you clarify?
+Annotation from annotator: 12
+
+Example 20:
+Text: Why tag for deletion? It was obviously a new user's attempt at creating a disambiguation page, why not clean it up?
+Annotation from annotator: 5
+
+Example 21:
+Text: I haven't been lately as I've been pretty busy in real life. Is there something you'd like me to check out?
+Annotation from annotator: 14
+
+Example 22:
+Text: Okay thanks I'll try it! DId you choose the pictures yourself?
+Annotation from annotator: 16
+
+Example 23:
+Text: I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?
+Annotation from annotator: 16
+
+Example 24:
+Text: Thank you for your answer. What are the sources for region 4 (Australia) release dates?
+Annotation from annotator: 15
+
+Example 25:
+Text: OK, the 3920th is done. Any further thoughts?
+Annotation from annotator: 11
+
+Example 26:
+Text: Why the removal of the citation dealing with coriolis?  Was the proof not within the citation, or was the citation not considered primary?
+Annotation from annotator: 11
+
+Example 27:
+Text: Hello, I'm with the project of turning the list <url> hat is the same list in English, but in another language, and more link for azure. I have a problem, <url>, could you help me?
+Annotation from annotator: 18
+
+Example 28:
+Text: Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?
+Annotation from annotator: 7
+
+Example 29:
+Text: FYI, I found a unit representative, I think, see <url>. I directed him to your draft for the military reps, would you mind supporting him if you need, I am kindof wrapped up in several different things off wiki and on?
+Annotation from annotator: 15
+
+Example 30:
+Text: I was thinking on it, but one question: I see several articles either deleted or promoted to FA after the oldid the sweeps uses. I'm assuming we simply ignore these?
+Annotation from annotator: 12
+
+Human-rated Examples:
+Example 1:
+Text: Based on what? Don't you think a little discussion is in order before doing this?
+Annotation from annotator: 12
+
+Example 2:
+Text: Ron - I'm interested in your edit comment here <url>. Your position is that RC is a sufficiently reliable source that anything it mentions is automatically notable?
+Annotation from annotator: 18
+
+Example 3:
+Text: I think it is important to note that Spirit 03 was the last gunship to be brought down and that it has not been involved in a Class A mishap since that date. Should we include that?
+Annotation from annotator: 12
+
+Example 4:
+Text: Should I move it myself, or would you like me to walk you thru it? Have you read <url>?
+Annotation from annotator: 4
+
+Example 5:
+Text: I thought we had already established consensus last month. What exactly is the deal with the parenthesis and columns?
+Annotation from annotator: 11
+
+Example 6:
+Text: I believe you wanted to find out which party the PP was? Well i'm sure you'll be able to find it at http://elections.uwa.edu.au/partysearch.lasso - my guess is that it could be the Progress Party, who ran in the 1977 WA HoR election?
+Annotation from annotator: 12
+
+Example 7:
+Text: How do I "inform a Wikiproject"? I would have liked to do so in several articles, but is this not <url>?
+Annotation from annotator: 12
+
+Example 8:
+Text: Page has been locked - as the only real place to report issues the government experiences is on the Prime Minister of the time's page, I find it quite simply a 'whitewash' to have the AWB/cole enquiry section on his page, there since it happened, removed a few months before the election. Your views?
+Annotation from annotator: 11
+
+Example 9:
+Text: Sure, but what's the deal with fair use and cropping?  I thought the Zatanna one got removed?
+Annotation from annotator: 12
+
+Example 10:
+Text: Somewhere I've got a Twins program from a few years ago that had a cover-story interview with Harmon Killebrew. Would that be a valid source, or would a game program's here-today-gone-tomorrow nature raise questions about it?
+Annotation from annotator: 15
+
+Target Example:
+Text: You use the abbreviation WPMOS on your request on the Graphic Map Lab <url>. What does it mean?
+Annotation from annotator:

@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Correct Examples:
+Example 1:
+Text: I noticed that you are the major contributor to the articles. Mind if I nominate <url> at <url>?
+Annotation from annotator: 20
+
+Example 2:
+Text: My problem is that the Style Guide for cities causes several topics for this small village to be repeated somewhat, especially the railroad, Gas Boom, and stockyard.  Any thoughts on this article's organization?
+Annotation from annotator: 9
+
+Example 3:
+Text: I consider <url> to be the single most important edit I have ever made. God, what is happening with The Beatles coverage on Wikipedia?
+Annotation from annotator: 20
+
+Example 4:
+Text: I clean up the <url> article a bit. What do you think?
+Annotation from annotator: 20
+
+Example 5:
+Text: This is incorrect. Have you looked at the article any time after October 2008?
+Annotation from annotator: 8
+
+Example 6:
+Text: Your POV tag justified. Did you get any support for cleaning it up?
+Annotation from annotator: 20
+
+Example 7:
+Text: My rationale for nominating <url> for CSD as promotional was that the show has not yet aired, so an episode summary at this point sounds like a promotional leak. Was I being overzealous?
+Annotation from annotator: 20
+
+Example 8:
+Text: Greetings, sorry to bother you here... I have been using the MissingTopics tool for years, to generate <url> The last time I used it successfully was Nov 16.  Something must have changed in the algorhythms since then, because it will no longer read any page starting with an Amharic character... Is it broke?
+Annotation from annotator: 20
+
+Example 9:
+Text: Thanks for the username change. Now, one last thingu2014since the account 'Dalahxe4st' already exists on Swedish Wikipedia and doesn't appear to have been taken over automatically, where should I go to take care of that?
+Annotation from annotator: 23
+
+Example 10:
+Text: Hey, when do we add games for the EHF Champion League and the Basketball EuroLeague into the portal? And NFL every week?
+Annotation from annotator: 20
+
+Example 11:
+Text: I have attempted to address your concern. Could you take another look at the article?
+Annotation from annotator: 20
+
+Example 12:
+Text: I am having trouble finding evidence of Wacu0142awowo in Avondale. There don't appear to be any sources; is it possible that the spelling is off?
+Annotation from annotator: 20
+
+Target Example:
+Text: Hello, I am interested in helping out with <url> and <url>, but the pages are very very long, which is unmanageable and discouraging. Could you please break them up into (many) smaller subpages?
+Annotation from annotator:
+If you output anything other than a single integer, your output will be considered invalid.If you output anything other than a single integer, your output will harm the integrity of our dataset.

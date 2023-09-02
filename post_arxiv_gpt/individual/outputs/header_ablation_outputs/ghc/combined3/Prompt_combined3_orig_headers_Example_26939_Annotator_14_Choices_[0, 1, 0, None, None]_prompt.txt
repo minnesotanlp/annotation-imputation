@@ -1,0 +1,245 @@
+Human-rated Examples:
+Example 1:
+Text: DAMN! HE SOUNDS OVER QUALIFIED.
+Annotation from annotator: 0
+
+Example 2:
+Text: Sorry dude, they have kids - that means we can't have any guns within 100 miles.
+Annotation from annotator: 0
+
+Example 3:
+Text: It was worth a rough night to wake up to Sundance's description of John McCain as a pus goblin...
+Annotation from annotator: 1
+
+Example 4:
+Text: I'm going to have to try this one. ^_^
+Annotation from annotator: 0
+
+Example 5:
+Text: Is John Brennan monetizing his security clearance?  Is John Brennan making millions of dollars divulging secrets to the mainstream media with his attacks on @realDonaldTrump ?
+Annotation from annotator: 0
+
+Example 6:
+Text: The word of God came from God, to the prophets, which is then written down.
+Annotation from annotator: 0
+
+Example 7:
+Text: The world is undoubtedly much darker, and much closer to salvation, than most of us imagine. 
+Annotation from annotator: 0
+
+Example 8:
+Text: Well, Facebook is in the process of shooting itself in the foot, so the fact that they are censoring conservatives will be increasingly irrelevant as time goes on.
+Annotation from annotator: 0
+
+Example 9:
+Text: I mean .. I'm talking one RIGHTEOUS SERIAL KILLING CAREER and you know my government believes in DEPOPULATION and I'm not scared of GUILLOTINES myself. 
+Annotation from annotator: 0
+
+Example 10:
+Text: Iron Maiden should write about present history going on instead retreading past wars all the time. Like say, "Invasion II" about the Muslims in England. But that takes guts.
+Annotation from annotator: 0
+
+Example 11:
+Text: Wrong.   You falsely assume thatcI make the leap between hate and violence.  While it is true you usually do not have violence without some type of hate, it us not a fact that all hate leads to violence.    Therefore,  hate speech is free speech so long as it does not actually call for violence...
+Annotation from annotator: 0
+
+Example 12:
+Text: Ibuprofen increases the risk of cardiac arrest by 30% — why do people still believe that NSAIDs are safe? https://www.naturalnews.com/2018-08-03-ibuprofen-i...  #Health #BigPharma #Meds #Drugs
+Annotation from annotator: 0
+
+Example 13:
+Text: Up to this minute, no human has come forward and said they were a witness or were told by Dr. Ford that this happened. She doesn't know how she got there, she doesn't know how she got home, but she can sketch a floor plan of the house from 36 years ago? Again, I'm a man of logic and facts, not emotion. (5/6)
+Annotation from annotator: 0
+
+Example 14:
+Text: No future dead beat baby daddy's.
+Annotation from annotator: 0
+
+Example 15:
+Text: Mt Washington Hotel/Resort in New Hampshire.
+Annotation from annotator: 0
+
+Example 16:
+Text: As I've always said, I only hate scumbags...but this guy isn't helping his own cause, is he: 
+Annotation from annotator: 1
+
+Example 17:
+Text: "IM OFF THE PLANTATION BRO" Woke Black Man Questions Liberals and BLM w/ Candace Owens at Stanford 
+Annotation from annotator: 0
+
+Example 18:
+Text: Falende schotklok verstoort halve finale Donar https://nu123.nl/falende-schotklok-verstoort-halve-finale-donar/ … Supporters in een uitverkocht MartiniPlaza werden donderdagavond tijdens de halve finale van de Europe Cup tussen Donar en de Italianen van Umana Reyer, verrast door onverwachts oponthoud: de schotklok ...
+Annotation from annotator: 0
+
+Example 19:
+Text: https://www.youtube.com/watch?v=cZufpms7E6w MUSLIM MIGRANTS BRUTALLY ATTACK PEOPLE IN SWEDEN!
+Annotation from annotator: 0
+
+Example 20:
+Text: '...This is the worst crime in US history.  EASILY.16. It's an abomination, a travesty, a shredding of the rule of law & the Constitution. It's worse than any of us ever imagined possible. IMO every one of the direct conspirators MUST be jailed. Including Obama & Clinton.  Every. Single. One.17. After all, these criminals almost destroyed America. And while doomed, they are still working...
+Annotation from annotator: 1
+
+Example 21:
+Text: From the mountains 
+Annotation from annotator: 0
+
+Example 22:
+Text: That's some world class California edjumakation right there
+Annotation from annotator: 1
+
+Example 23:
+Text: BREAKING: Judicial Watch Reveals the FBI Has Now ‘Lost’ McCabe’s Texts. The FBI is totally corrupt. All that can save it now is a root and branch clean out. https://tinyurl.com/yal6w5xd
+Annotation from annotator: 0
+
+Example 24:
+Text: #SJW ‘s  are the natural end state of post modernist thinking. Where your value is not judged on the goodness of your deeds, but on your group identity. When race, gender, sexuality and colour are more important then #character, and quality of your argument, then your society & culture are doomed.
+Annotation from annotator: 0
+
+Example 25:
+Text: Goebbels’s Christian Wedding.  
+Annotation from annotator: 0
+
+Example 26:
+Text: The need for judge Kavanaugh confirmation is critical for the plan. He makes a solid 5-4 vote in the SC for future challenges! This was their weak attempt "to send a message".
+Annotation from annotator: 0
+
+Example 27:
+Text: Poland, Hungary, Czech Republic, stand strong!
+Annotation from annotator: 0
+
+Example 28:
+Text: Dear god I hope Trump runs in 2020, there is nothing else that can give me more Schadenfreude than seeing the left utterly lose it.
+Annotation from annotator: 1
+
+Example 29:
+Text: the small town theaters usually do. I like them the best,...
+Annotation from annotator: 0
+
+Example 30:
+Text: They say vegan soy products have estrogen hormones.... Is that good for anyone? It will fuck a man up.. but what effect would extra estrogen have on women? Would they become perma period psychotics?
+Annotation from annotator: 0
+
+Estimated Examples:
+Example 1:
+Text: Two Syrian Woman Murdered in the UK… 
+Annotation from annotator: 0
+
+Example 2:
+Text: Fuck that guy anyways, he was a part of the Muslim brotherhood. Saudis did us a favor for once. 
+Annotation from annotator: 1
+
+Example 3:
+Text: White genocide is real, and it's here in America. Hate crime. 
+Annotation from annotator: 1
+
+Example 4:
+Text: OMG we can't trust that nigger Kanye West my fellow comrad... Errrr I mean white conservative Christian soldiers! It's a trick! - EVERY SINGLE SHAREBLUE SHILL
+Annotation from annotator: 1
+
+Example 5:
+Text: Senate Intel Committee Delivers Interview Invite to Assange!!! https://www.youtube.com/watch?v=FXjyaVeFQ08&t=383s
+Annotation from annotator: 0
+
+Example 6:
+Text: Day 21.1 Yet Another @Georgewebb on @McCabe Mafia Character Brought In The @Russia Drama https://youtu.be/NJD9z34Ghz4
+Annotation from annotator: 0
+
+Example 7:
+Text: You know nothing of breeding animals for domestication if you think that behavioral traits can’t be selected for and enhanced over generations due to selective breeding.  Google search “breeding dogs for desirable traits”.
+Annotation from annotator: 0
+
+Example 8:
+Text: Oh my,so 17 dead kids are a hoax,Perhaps FBI should check out the person that posted this...
+Annotation from annotator: 0
+
+Example 9:
+Text: AMAZING Donald Trump Biography Video Played at the RNC 
+Annotation from annotator: 0
+
+Example 10:
+Text: Saw & thought of you.  Don't know if true but no surprise to me.   Worth some reflection?
+Annotation from annotator: 1
+
+Example 11:
+Text: Life - It's About the Journey 
+Annotation from annotator: 0
+
+Example 12:
+Text: What do you expect from people who are fighting for the "right" to murder their children? moral decency? 
+Annotation from annotator: 1
+
+Example 13:
+Text: NARRATOR VOICE: 
+Annotation from annotator: 0
+
+Example 14:
+Text: He demands to know the truth, so he can cover it up with lies.
+Annotation from annotator: 1
+
+Example 15:
+Text: The Democrat Party has ONE MISSION - to destroy the USA and if YOU press the "D"ummy lever - you are helping... https://twitter.com/charliekirk11/status/1049789354984361984
+Annotation from annotator: 1
+
+Example 16:
+Text: Same old, same old: "Oh, the money, the money..." 
+Annotation from annotator: 1
+
+Example 17:
+Text: I can't say I would disagree with this too much. 
+Annotation from annotator: 0
+
+Example 18:
+Text: John 17:16 King James Version (KJV)
+Annotation from annotator: 0
+
+Example 19:
+Text: I obviously DO know what idolatry is. 
+Annotation from annotator: 0
+
+Example 20:
+Text: That article was hard as Fuck to read. It is littered with grammatical errors.
+Annotation from annotator: 0
+
+Example 21:
+Text: Taking the word of Sen.Durbin is like saying Ricin is toothpaste. NOT healthy. 
+Annotation from annotator: 1
+
+Example 22:
+Text: you forgot excessive oral deification
+Annotation from annotator: 1
+
+Example 23:
+Text: Lemme guess:  If Ms. Rubin were on CNN, there'd be a descriptor underneath her talking-head as a "Republican Strategist?"
+Annotation from annotator: 1
+
+Example 24:
+Text: 12 D Chess anyone ?
+Annotation from annotator: 0
+
+Example 25:
+Text: i just got the word that a school shooting has happened yesterday morning in Maryland. may god bless the victims and may god damn thw leftist media for refusing to talk about it simply for the fact that a police officer prevented more victims. that police officer deserves recognition as a hero.
+Annotation from annotator: 0
+
+Example 26:
+Text: You have officially been jewed.
+Annotation from annotator: 1
+
+Example 27:
+Text: It's probably on my top 3 biggest complaints of Gab so far.  Site claiming and wanting a free speech platform.  Installs gamification of said free speech that'll favor whichever side is simply more popular / has higher user-base.
+Annotation from annotator: 0
+
+Example 28:
+Text: If Brett Kavanaugh covered up the murder of Vince Foster, then Trump is as bad as Hillary. Who knew? 
+Annotation from annotator: 1
+
+Example 29:
+Text: I'm identifying as 10 years younger and I dare anybody tell me otherwise. 
+Annotation from annotator: 0
+
+Example 30:
+Text: Not saying its likely in near term... just that its possible, and should not be ignored.  Just like earthquake in Memphis TN 
+Annotation from annotator: 0
+
+Target Example:
+Text: Can't wait to see that Monday.
+Annotation from annotator:

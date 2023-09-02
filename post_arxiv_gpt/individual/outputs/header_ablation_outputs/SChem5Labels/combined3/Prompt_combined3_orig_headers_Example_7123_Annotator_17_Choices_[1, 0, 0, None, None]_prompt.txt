@@ -1,0 +1,245 @@
+Correct Examples:
+Example 1:
+Text: It's good to have an advanced education.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to eat breakfast every day since it's the most important meal of the day.
+Annotation from annotator: 3
+
+Example 3:
+Text: It is expected people will not want to hang out with someone who has a contagious illness.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's bad to miss class and have to study extra to catch up
+Annotation from annotator: 3
+
+Example 5:
+Text: You should share food with others.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't toy with people's emotions
+Annotation from annotator: 3
+
+Example 7:
+Text: It's important not to disrupt a wedding
+Annotation from annotator: 3
+
+Example 8:
+Text: It's wrong to wish your child was never born.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's okay to love and hate something at the same time.
+Annotation from annotator: 3
+
+Example 10:
+Text: You shouldn't pressure someone to have sex.
+Annotation from annotator: 4
+
+Example 11:
+Text: It is good to be generous
+Annotation from annotator: 4
+
+Example 12:
+Text: It's not safe to drive if you can't see
+Annotation from annotator: 4
+
+Example 13:
+Text: You have the right to date anyone you choose.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's good to learn something that can improve your health.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's admirable to be able to admit your faults.
+Annotation from annotator: 3
+
+Example 16:
+Text: If you're afraid of food, you should get help.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's fun to play with your friends.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's okay to dislike babies.
+Annotation from annotator: 2
+
+Example 19:
+Text: You shouldn't be friends with an adult of the opposite sex if you're a minor.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's wrong to be romantically interested in your parent's friends.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should always dress down when you're going out with friends.
+Annotation from annotator: 2
+
+Example 22:
+Text: You should apologize if you push someone into a pool.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's wrong to play pranks on people that are upset
+Annotation from annotator: 3
+
+Example 24:
+Text: It's fun to share a cabin with your friends.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is hurtful to imply that your partner was not your first choice.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's good to have something in life that you are proud of.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's okay to apply for food stamps if you're having a hard time making ends meet
+Annotation from annotator: 3
+
+Example 28:
+Text: It's rude to tell your significant other that you don't like talking to them on the phone.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to be honest with friends.
+Annotation from annotator: 3
+
+Example 30:
+Text: Is good to care about other people
+Annotation from annotator: 4
+
+Imputed Examples:
+Example 1:
+Text: You should go to bed when you are falling asleep on the couch.
+Annotation from annotator: 2
+
+Example 2:
+Text: It is rude to be unappreciative of gifts.
+Annotation from annotator: 4
+
+Example 3:
+Text: You should hang out with people you know from the past sometimes.
+Annotation from annotator: 2
+
+Example 4:
+Text: You shouldn't drive drunk.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is ok to choose not to get pregnant.
+Annotation from annotator: 3
+
+Example 6:
+Text: If you perform well on a test it is acceptable to be happy with yourself.
+Annotation from annotator: 4
+
+Example 7:
+Text: Sometimes you need to put in extra work to get things done.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's okay to want to hang out with people close to your ex.
+Annotation from annotator: 2
+
+Example 9:
+Text: You should expect customers to pay for their items.
+Annotation from annotator: 4
+
+Example 10:
+Text: You should always help out your customers when they have a problem.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's fun to take your parents to a sports game.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's fine to be angry when someone hits you with an umbrella.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's good to check the weather before leaving for the day.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's great to give things to people that will mean something to them
+Annotation from annotator: 4
+
+Example 15:
+Text: It's not okay to bother others who don't need or want it.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's rude to ignore your friends.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is expected that some people might have a harder time earning money.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is okay to be concerned for a friend.
+Annotation from annotator: 4
+
+Example 19:
+Text: You should tell your coworkers the truth.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's rude to ditch your friend for someone else.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's wrong to try to scam someone.
+Annotation from annotator: 4
+
+Example 22:
+Text: It is good be together as a family.t
+Annotation from annotator: 3
+
+Example 23:
+Text: You should exercise to stay healthy.
+Annotation from annotator: 4
+
+Example 24:
+Text: It is good to be with someone you love.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's good to admit things to people.
+Annotation from annotator: 2
+
+Example 26:
+Text: It is expected most people will enjoy time with their grandparents.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is bad to scream at others.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to decorate your house to make it feel more like a home.
+Annotation from annotator: 4
+
+Example 29:
+Text: Is good to help family members when they need it
+Annotation from annotator: 3
+
+Example 30:
+Text: It's good to help family when they can't do something on their own.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's good to spend time to learn something new.
+Annotation from annotator:

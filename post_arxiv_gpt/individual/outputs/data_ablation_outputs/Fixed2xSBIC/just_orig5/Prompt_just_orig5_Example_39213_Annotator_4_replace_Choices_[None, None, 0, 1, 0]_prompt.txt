@@ -1,0 +1,7 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Target Example:
+Text: finally listening to bae @KodakBlack1k 's album, its FIRE #nosurprise @IamJess_CA you should take a listen :p
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

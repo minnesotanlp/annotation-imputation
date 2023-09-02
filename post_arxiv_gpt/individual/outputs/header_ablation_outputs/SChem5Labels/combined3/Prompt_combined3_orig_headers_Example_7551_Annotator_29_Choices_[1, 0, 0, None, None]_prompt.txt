@@ -1,0 +1,245 @@
+Correct Examples:
+Example 1:
+Text: It is wrong to discriminate against people because of their language or place of origin
+Annotation from annotator: 3
+
+Example 2:
+Text: It's understandable secretly want things.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's good for grandkids to play with their grandparents.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good to take a stand and lead things.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's good to ask a potential employer about what benefits they offer.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't listen to the communist manifesto because it's wrong.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's fine to be amused when someone jokes about AI overlords.
+Annotation from annotator: 3
+
+Example 8:
+Text: You shouldn't see sad movies if they always upset you.
+Annotation from annotator: 3
+
+Example 9:
+Text: Parents should join their children in activities that are just for fun.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is awkward to have somebody as a friend who sees you in a romantic light.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's normal to be hurt when people make fun of your appearance.
+Annotation from annotator: 3
+
+Example 12:
+Text: You should always follow the traffic rules.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should fire someone who sexually harasses their coworkers.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's expected that people give proper notice when moving out of a home.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to be proud of your cooking.
+Annotation from annotator: 3
+
+Example 16:
+Text: If something gives you a shock, you should stop doing it.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is good to complete your work.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to give of your resources to help loved ones.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's rude to manipulate others.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is okay to take some risks.
+Annotation from annotator: 2
+
+Example 21:
+Text: Receiving constructive criticism is an essential skill to have.
+Annotation from annotator: 3
+
+Example 22:
+Text: If you eat someone's food, you should let them know.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good to expand your horizons.
+Annotation from annotator: 3
+
+Example 24:
+Text: It is okay if you are not the best at everything.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is normal for parents to want to help their children
+Annotation from annotator: 3
+
+Example 26:
+Text: It's expected that people can't control who they're attracted to.
+Annotation from annotator: 3
+
+Example 27:
+Text: If you can't empathize with people, you should get some therapy.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should be up front with people about why you are rejecting them as dates.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's good to care about others.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's wrong to think that you are a failure.
+Annotation from annotator: 3
+
+Imputed Examples:
+Example 1:
+Text: It's okay to break up with your partner if the relationship is not salvageable.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to offer money for a share in a company.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's good to take your date out places.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good to help yourself out.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's bad to destroy someone's belongings.
+Annotation from annotator: 4
+
+Example 6:
+Text: It is good to be polite.
+Annotation from annotator: 4
+
+Example 7:
+Text: It is good to apologize to someone if you stole something from them.
+Annotation from annotator: 4
+
+Example 8:
+Text: It is good to be included in a group.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is okay to tell small white lied to people you don't know very well.
+Annotation from annotator: 2
+
+Example 10:
+Text: You should always try to be understanding of others and their confessions.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's understandable to truly enjoy sleep after staying up very late.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's wrong to give up on something important to you.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's good to turn your homework in on time.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's okay to go against social norms.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's good to give yourself a new look.
+Annotation from annotator: 2
+
+Example 16:
+Text: You should always charge your electronics before you go somewhere so the battery doesn't die.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's rude to lie to your family about applying for jobs.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's fun to go to the drive-in with your partner.
+Annotation from annotator: 2
+
+Example 19:
+Text: You shouldn't rack up large amounts of student loan debt.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's good to take care of your possessions so they don't get lost.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's rude to burp in public really loudly.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's not okay to judge something just because you tried it once.
+Annotation from annotator: 2
+
+Example 23:
+Text: Popular items frequently sell out, so it's best to pre-order them.
+Annotation from annotator: 2
+
+Example 24:
+Text: You should always do what your partner requests.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's wrong and dangerous to leave the oven on and forget about it
+Annotation from annotator: 4
+
+Example 26:
+Text: It's bad to be unprepared for weather.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is wrong to have sex with your partner's friends.
+Annotation from annotator: 4
+
+Example 28:
+Text: People shouldn't make others lose their appetites with their crappy eating habits.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's bad to travel without planning a known route.
+Annotation from annotator: 2
+
+Example 30:
+Text: You shouldn't pester people with music they hate.
+Annotation from annotator: 3
+
+Target Example:
+Text: Friends are expected to give each other advice.
+Annotation from annotator:

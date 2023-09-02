@@ -1,0 +1,122 @@
+Example 1:
+Text: <url>, whom you indefblocked almost a year ago, is requesting another chance and seems penitent. Have you any comments?
+Annotation from annotator: 16
+
+Example 2:
+Text: Thank you for taking the time to dig up the references. Are you planning on integrating them into the article sometime soon?
+Annotation from annotator: 20
+
+Example 3:
+Text: Hi! How u find out my article:)?
+Annotation from annotator: 16
+
+Example 4:
+Text: While watching the contribs I noticed that the bot blanked <url> which has already been checked and is listed at <url>. Isn't that supposed to be the thing that these lists of MRGs were supposed to prevent?
+Annotation from annotator: 12
+
+Example 5:
+Text: I noticed you delinked 1993 in the MGM Grand Las Vegas article <url>.  What is MoS?
+Annotation from annotator: 12
+
+Example 6:
+Text: I wouldn't know where to put it. I know Record Charts is for charts etc and the certifications but where would I put a discography question?
+Annotation from annotator: 16
+
+Example 7:
+Text: I am not sure why <url> is not just in the article <url> as a straight table. Is there some chance the template might be used on another article?
+Annotation from annotator: 16
+
+Example 8:
+Text: I noticed you have improved the "human rights" section on the article <url>. Could you update the main article: <url>?
+Annotation from annotator: 16
+
+Example 9:
+Text: ---- Though I thought I would note that you have now exceeded <big>'''500'''</big> edits while on "wikibreak" and that is over less than 10 days, May I ask what kind of break is that???
+Annotation from annotator: 16
+
+Example 10:
+Text: Hi.. I'd actually like to move all images in <url> to the Commons.  Is there a way that I can do it myself?
+Annotation from annotator: 16
+
+Example 11:
+Text: Yeah, at the moment. Unless there are any other dryandras on the cusp of GA-hood....?
+Annotation from annotator: 12
+
+Example 12:
+Text: You also did three reversions. Where are the administrators, meanwhile?
+Annotation from annotator: 12
+
+Example 13:
+Text: hi Mustafaa I have some historical pictures and some sentences written on them which seems to be arabic. Can you tell me if it is arabic or not if i send you a copy?
+Annotation from annotator: 16
+
+Example 14:
+Text: Hi! Could you consider speedy deleting <url>?
+Annotation from annotator: 16
+
+Example 15:
+Text: I'm afraid I don't understand what you are asking. Could you perhaps try to explain it in another way?
+Annotation from annotator: 16
+
+Example 16:
+Text: Name's don't change. I'm going to have say, that his name is to be kept in the article however what about creating a page about Harry Potter characters in fanfiction or something like that?
+Annotation from annotator: 16
+
+Example 17:
+Text: About the arrow pawn: it moves one square per turn (if it's not Persson's variant), right? When it moves two squares in the Persson variant, can it jump?
+Annotation from annotator: 12
+
+Example 18:
+Text: Stephan, I am Deborah Byrd, producer of the Earth & Sky radio series, and I'm looking for a reference for this statement of yours on the discussion page of the article about scientists who oppose the mainstream view of global warming (http://en.wikipedia.org/wiki/Scientists_opposing_the_mainstream_scientific_assessment_of_global_warming) "We are not talking 51% or 60% or 75%, but rather 95%+ (or "near unanimity in the peer reviewed published literature and in official statements by professional scientific organisations"). --Stephan Schulz 08:26, 18 November 2006 (UTC)"  How did you determine that there is 95% agreement in the peer reviewed published literature and in official statements by professional scientific organizations?
+Annotation from annotator: 16
+
+Example 19:
+Text: Okay, so yeah, it's possible that that's his intent, but I even if it were, I don't see why the file has less value. Are interviews with BLP subjects not considered valid EL's general?
+Annotation from annotator: 12
+
+Example 20:
+Text: While editing the COIN page regarding Ciplex, I accidently broke your sig. Since I don't want any more flame, could you please fix it?
+Annotation from annotator: 16
+
+Example 21:
+Text: Thanks for your support! Would you consider commenting on the <url> talk page, saying it has your support (and adding those comments for discussion)?
+Annotation from annotator: 20
+
+Example 22:
+Text: I like yours better, it's less demeaning. This is pretty new to me... should I remove it or leave it?
+Annotation from annotator: 16
+
+Example 23:
+Text: You said that the Category: "Songs Performed on 'Make Your Own Kind Of Music'" might be deleted. Could you explain your reasoning?
+Annotation from annotator: 16
+
+Example 24:
+Text: In instances where there is one major usage of a name and several smaller ones it is conventional to leave the major one in the namespace and have a link in the top to the others (or to <url>. Surely 99.9% of people interested in <url> are going to be looking for the main one, so wouldn't it have made more sense to have left it there rather than making it a redirect?
+Annotation from annotator: 12
+
+Example 25:
+Text: I have noticed that your objection to someone who unilaterally stops a straw poll. What, then, do you think of somebody who unilaterally ''starts'' a straw poll?
+Annotation from annotator: 8
+
+Example 26:
+Text: <url> Is there any way I can convince you to change your mind?
+Annotation from annotator: 16
+
+Example 27:
+Text: Just reminder, but you tagged <url> with the GAreview tag several days ago. Have you completed your review comments yet?
+Annotation from annotator: 16
+
+Example 28:
+Text: Good! By the way, what do you think of merging the recurring animals in <url> to <url> and then getting rid of the rest?
+Annotation from annotator: 16
+
+Example 29:
+Text: Done. I may have missed a few links when copying them across, so could you please look through it just in case?
+Annotation from annotator: 20
+
+Example 30:
+Text: I noticed that (although it's striked through now), you considered opposing <url>'s adminship bid on the grounds that they suffer from auditory hallucinations. For future consideration, may I point you <url>?
+Annotation from annotator: 16
+
+Text: Is <url> what you're referring to??  '''''One''''' autograph page that he deleted almost '''''five months''''' ago and you're now attacking him as if he deleted every single autograph book ever?
+Annotation from annotator:

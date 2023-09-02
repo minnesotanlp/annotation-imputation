@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: Hey, I found <url> and at around 1:10, I think I can see the Backstreet Boys holding platinum discs (or double platinum, I'm not sure) for Backstreet's Back and Millennium. Can you please verify and is it possible to use this as a source for adding South African certifications?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

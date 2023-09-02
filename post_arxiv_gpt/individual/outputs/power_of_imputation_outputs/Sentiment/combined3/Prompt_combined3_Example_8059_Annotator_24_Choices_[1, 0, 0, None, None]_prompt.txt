@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: I think I'm back to my old sleeping habits, which is pretty much not sleeping.
+Annotation from annotator: 1
+
+Example 2:
+Text: @eminiwizard good morning young lad!
+Annotation from annotator: 3
+
+Example 3:
+Text: dutches and 40s of old E means great times.. also its my last night in town for a month.
+Annotation from annotator: 2
+
+Example 4:
+Text: off to spend my morning with 5 year olds...my favorite is the tiny one with the big brown eyes
+Annotation from annotator: 3
+
+Example 5:
+Text: @CosmicMother Ah Russ!  Listening & Loving it! Wish I could go back to those days, love the oldie films & songs! 2 do - Build Time Machine
+Annotation from annotator: 2
+
+Example 6:
+Text: @JKeith1982 Lol no this was at our old house. We WISH we got confidential faxes at News24
+Annotation from annotator: 2
+
+Example 7:
+Text: @theonlyshannon thanks - you too.  we're off to flag football with my six year old already.  it never ends around here!
+Annotation from annotator: 3
+
+Example 8:
+Text: http://twitpic.com/6ix23 - It's a old picture but i like it
+Annotation from annotator: 3
+
+Example 9:
+Text: doing some cleaning in my closet. out with the old, in with the new. aha
+Annotation from annotator: 2
+
+Example 10:
+Text: Great day  I'm so proud of my younger cuzzo. He finally graduated :')
+Annotation from annotator: 3
+
+Example 11:
+Text: No one in West Virginia was afraid of growing young that I could see or sense.
+Annotation from annotator: 2
+
+Example 12:
+Text: @ejwc @trimurls I heart tr.im. How do I view older tr.im URLs past 250? Want to delete some but can't see 'em.  Thx in advance.
+Annotation from annotator: 2
+
+Example 13:
+Text: gah! old people parties are lame! i hate constant fake smiling
+Annotation from annotator: 1
+
+Example 14:
+Text: Just cut up some old crappy jeans and made some new trendy ones  they have holes all over them so now I can run faster ;)
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/61f8v - #rejectprop8 ahhhh young love
+Annotation from annotator: 2
+
+Example 16:
+Text: about to have dinner for my best friends 20th! she is getting old... happy birthday kate!
+Annotation from annotator: 3
+
+Example 17:
+Text: @Luvschweetheart Work and laundry here today so no need for sun.  And the youngest goes to the sitters so solitude awaits me.
+Annotation from annotator: 2
+
+Example 18:
+Text: @residentartist The younger one liked her celery anyway.
+Annotation from annotator: 2
+
+Example 19:
+Text: Really old tv/set top box going to eldest daughter & her boyfriend for when they move out (soon???!!! Pls  )
+Annotation from annotator: 2
+
+Example 20:
+Text: miss good old St James and Green Park, especially when the daffs are out   Have a great show
+Annotation from annotator: 3
+
+Example 21:
+Text: We won 2-1 (2 goals from yours truly) but I pulled my calf muscle badly - ouch that's an old man's injury
+Annotation from annotator: 1
+
+Example 22:
+Text: done with work. off to church, then meeting up with old friends.  cant wait to see everyone...then work tomorrow, golf, bbq, and party!
+Annotation from annotator: 3
+
+Example 23:
+Text: @BeauGiles since when do you care?  you should look up an old CH10 show called 'Breakers' for the male version
+Annotation from annotator: 1
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of an 75 year old!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to having a good old spree in meadowhall with @AniNicholas
+Annotation from annotator: 3
+
+Example 26:
+Text: trying to remember the lyrics of a song with the world cinderella... i know is a old song, light rock, but arghh can't remember
+Annotation from annotator: 2
+
+Example 27:
+Text: so excited to catch up with some old friends tonight!  haven't seen them in a while
+Annotation from annotator: 3
+
+Example 28:
+Text: im getting jealous of the looks of my old friends in mtl  they look amazing and im just.. -- PFFT .
+Annotation from annotator: 1
+
+Example 29:
+Text: @tehlinker it was tough being younger than you for sooo long... thanks for the bday wishes!
+Annotation from annotator: 2
+
+Example 30:
+Text: @heltershelter younglove? Do I like that phrase? Hmmm, yes  x
+Annotation from annotator: 2
+
+Human-rated Examples:
+Example 1:
+Text: @BiGVixXen yea, it's my old gt   ...when I first got on the fd forums you were one of the 1st peeps 2 msg me (cuz I'm Canadian)!
+Annotation from annotator: 2
+
+Example 2:
+Text: @kissability Yeah, KFC stopped giving me shifts, 14 year olds took my jobs  as well as other ethnicity who work cheaper ugh
+Annotation from annotator: 1
+
+Example 3:
+Text: When did I become a law abiding citizen? I just bought a train ticket... Getting old
+Annotation from annotator: 1
+
+Example 4:
+Text: Watching nascar. Jg keeps falling further back. Almost getting lapped. He is getting old!!!  Like me
+Annotation from annotator: 1
+
+Example 5:
+Text: iLOVE: Chelsea Lately || iHATE: that on Saturdays they ALWAYs replay an old episode not a new one
+Annotation from annotator: 1
+
+Example 6:
+Text: @davidmrowe Cheers v much! Got one on Sunday too (goes to show how lame THAT old PB was!) And was top 10 ladies for both - delighted!
+Annotation from annotator: 2
+
+Example 7:
+Text: sanded an old table so i can re-vanish it, very dirty dusk went everywhere
+Annotation from annotator: 1
+
+Example 8:
+Text: @inkswamp No FTP/Browser on the Mac  I may visit an old Mac Lab or Sneakernet with ZIP100s to Kinkos. Anyone with Fetch on a Floppy? DM me
+Annotation from annotator: 2
+
+Example 9:
+Text: ahh. i'm bored. been listening to old stuffs recently and i really do miss local basketball
+Annotation from annotator: 1
+
+Example 10:
+Text: Having lunch  while looking at some old pics my dad just found from the old boxes. Vaca pics, me wore the Airwalk sneakers & short hair!x)
+Annotation from annotator: 2
+
+Example 11:
+Text: anyone drive a newish diesel car? any advice on pros cons? not interested in old diesel cars, need recent model experience, eg SUV
+Annotation from annotator: 2
+
+Example 12:
+Text: Aviation :  Funny ATC Dialogues     some of these are very old but still very amusing http://bit.ly/2HYL4
+Annotation from annotator: 2
+
+Example 13:
+Text: @chicklitgurrl girl i've been sending text to you from yahoo, but it was to your old number .. i'm so dumb
+Annotation from annotator: 2
+
+Example 14:
+Text: a 10 year old kid is a Swine Flu positive here in our country...
+Annotation from annotator: 1
+
+Example 15:
+Text: @helenthornber Just as well, otherwise it'd just give me even more reason to grump about all over the place! Sonic makes me feel old too
+Annotation from annotator: 1
+
+Example 16:
+Text: My ten year old cousin told me i can't be trusted with scissors so he took them off me Lol
+Annotation from annotator: 1
+
+Example 17:
+Text: @Gagaforyou omg I'm old in I days
+Annotation from annotator: 1
+
+Example 18:
+Text: @YoungQ when one of my 3 yr olds saw that pic of ur son on stickam she was like oh look that is my boyfriend...lol I was like HEY no BF's
+Annotation from annotator: 3
+
+Example 19:
+Text: @TTSTylerNelson Hey you. You're such a handsome young man, & it's refreshing to see you put yourself out there in such a positive way!
+Annotation from annotator: 4
+
+Example 20:
+Text: @xxlaurenbeexx good  aww bless 20 isnt old though lol im great thank you  you? xx
+Annotation from annotator: 4
+
+Example 21:
+Text: @DDGriffith Translation: *look* young but *feel* old!
+Annotation from annotator: 0
+
+Example 22:
+Text: @JonathanRKnight LOL...if it were only that easy to get one at BRU...you can get your baby fix with my 5 month old whenever you're in LA
+Annotation from annotator: 3
+
+Example 23:
+Text: @AlanCarr maybe if we leave the 10 year old girl alone now, and go back to picking on grown-ups. It's much funnier that way
+Annotation from annotator: 1
+
+Example 24:
+Text: New phone = amazing but the mac girl deleted everything on my old phone before transfering
+Annotation from annotator: 1
+
+Example 25:
+Text: @marielenh Count yourself lucky. My Sky plus 160 box is apparently so old that i cant get the new Sky EPG guide
+Annotation from annotator: 1
+
+Example 26:
+Text: I love the old song, beautiful soul - jesse mccartney. Awww so sweet
+Annotation from annotator: 3
+
+Example 27:
+Text: @Madhobbit/Eerie,how olds tha building?Whats it used 4?Dyu mind me askn Qs or wud u prefer2 just post ur updates & get on with it? Suz
+Annotation from annotator: 2
+
+Example 28:
+Text: Woo! Singing McFLY Songs  Going back to the oldies =P
+Annotation from annotator: 3
+
+Example 29:
+Text: @inklesstales She wasn't bothered about the storm   Maybe she's just too young to be bothered. We'll see! ..and yes she'll often get wet!
+Annotation from annotator: 3
+
+Example 30:
+Text: Great day in St.Michel - it really is the best part of Paris. So..hip! So..full of great food! So..full of young frenchmen! C'est la vie!
+Annotation from annotator: 4
+
+Target Example:
+Text: I'm on my way to Nicole's to have dinner with her, Andre and an old high school friend.
+Annotation from annotator:

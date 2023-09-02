@@ -1,0 +1,14 @@
+{
+    "no_headers_swap_data_swap_no_replace_none_replaced": {
+        "best accuracy": 0.65,
+        "best weighted avg f1-score": 0.6696969696969697
+    },
+    "no_headers_swap_no_data_swap_replaced_2nd_replaced": {
+        "best accuracy": 0.75,
+        "best weighted avg f1-score": 0.7640692640692641
+    },
+    "no_headers_swap_no_data_swap_no_replace_none_replaced": {
+        "best accuracy": 0.75,
+        "best weighted avg f1-score": 0.7285714285714285
+    }
+}

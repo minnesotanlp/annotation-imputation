@@ -1,0 +1,72 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Just be yourself
+Eww damn creepy guy, stay away from me and never talk to anyone, weirdo
+Annotation from annotator: 2
+
+Example 2:
+Text: In fact, I HOPE it's someone I know, and they see these, because you're a goddamn idiot and I'm just never gonna talk to you again. Fuck you
+Annotation from annotator: 2
+
+Example 3:
+Text: Why did the retarded girl get high? Because she wanted to cure her Down's syndrome.
+Annotation from annotator: 2
+
+Example 4:
+Text: New way to remember North, South, Easy and West
+N'ever 
+S'ex
+W'omen
+E'ver 
+
+Because stacey will run off with chad and make you pay child support
+Annotation from annotator: 2
+
+How annotator B has labeled some examples:
+Example 1:
+Text: What actionable things would you recommend to do to further men's rights?
+Annotation from annotator: 0
+
+Example 2:
+Text: RT @YunGMiGo: &#128557;&#128557;&#128557;&#128514;&#128514;RT @Shane_A1: Can you imagine Tryn yo hardest to stop a bitch frm slutin and still comin up unsuccessful
+Annotation from annotator: 2
+
+Example 3:
+Text: #FollowFriday ✨
+
+@OccamsEpilady
+@FrozenFrog
+@Leamorabito
+@Mbarris01
+@CGMCPO
+@AquaRuby
+@Hippiemamagypsylove
+Annotation from annotator: 0
+
+Example 4:
+Text: I can not believe you think it’s ok for a woman to put her husband and family in financial strain you are not making any sense. Lol you are unbelievable. [...] That makes her a terrible person
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: THEY JUST SAID IT AGAIN. I am dying.
+Annotation from annotator: 0
+
+Example 2:
+Text: I smoked so much once my lungs decided to imitate the twin towers on 9/11 Except only one collapsed and people actually cared
+Annotation from annotator: 2
+
+Example 3:
+Text: what’s the difference between a nigger and a bucket of shit? the Bucket.
+Annotation from annotator: 2
+
+Example 4:
+Text: why was Obama president for 8 years? Black people get longer sentences
+Annotation from annotator: 2
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: the germans set a new world record for stuffing people into a bw beetle two germans in the fromt seat and <number> jews in the ashtray .
+Annotation from annotator:

@@ -1,0 +1,5 @@
+# These should be installed before other dependencies
+matrix-factorization==1.3
+# matrix factorization's numba specifically needs a lower numpy, otherwise it fails
+# if that's the case, then use this or whatever lower numpy works for you:
+# numpy==1.23.0

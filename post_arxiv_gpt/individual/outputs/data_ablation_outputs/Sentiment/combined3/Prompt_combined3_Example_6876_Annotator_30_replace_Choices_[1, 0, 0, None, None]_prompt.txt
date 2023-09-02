@@ -1,0 +1,161 @@
+Estimated Examples:
+Example 1:
+Text: Flipped my 7 month old mattress to relocate the visible-even-under-sheets concave that had formed... under my butt
+Annotation from annotator: 3
+
+Example 2:
+Text: Givin my cuzzin my old size 5 jeans  *sigh*
+Annotation from annotator: 3
+
+Example 3:
+Text: Great morning. 2 yr old put his hand on a burner I'd just turned off. Circular burns all over his palm. I feel sick about it.
+Annotation from annotator: 2
+
+Example 4:
+Text: Have a blessed time of worship today! We're having a graduation party after church for a young man who has graduated from high school.
+Annotation from annotator: 4
+
+Example 5:
+Text: I don't wannnnna go to work tomorrow.   Anyone know any filthy-rich old men looking for someone to take care of?? Lol
+Annotation from annotator: 2
+
+Example 6:
+Text: I just listened to "Very Proud of Ya" by AFI and I must say I miss the old AFI
+Annotation from annotator: 2
+
+Example 7:
+Text: I miss my old Japanese Drama/boy band loving days. I'm slowly getting back into the stream. Ahhh Arashi is my Asian Backstreet Boys
+Annotation from annotator: 3
+
+Example 8:
+Text: I was just informed my son is too old to be my 'baby boy'
+Annotation from annotator: 1
+
+Example 9:
+Text: Tweeting from my new home... I now live in @kelliesimpson's old room... So not woot for me
+Annotation from annotator: 3
+
+Example 10:
+Text: Waning - Green Day <3 Love the oldies.
+Annotation from annotator: 3
+
+Example 11:
+Text: What's happened to my picture? Can't seem to upload new one and old one has disappeared
+Annotation from annotator: 1
+
+Example 12:
+Text: YEAR 3000 .. I know it's old but it's my fave @jonasbrothers song
+Annotation from annotator: 2
+
+Example 13:
+Text: back from collecting youngest son, time for #cuppa then back out at 4pm to get oldest from athletics, then hubby taking them snowboarding
+Annotation from annotator: 3
+
+Example 14:
+Text: had a good night t-total again, looking forward to my birthday bbq today i am now officially 27yrs old
+Annotation from annotator: 4
+
+Example 15:
+Text: has had a rough time, bel had chickenpox and poor honey my 9yr old bunny had to be put down. really really sad right now
+Annotation from annotator: 2
+
+Example 16:
+Text: i gotsa 4 1/2 yr old bf lol. My Science Teachers son said me & my friend Arial were his g/f's lol. thats ADORABLE lol.
+Annotation from annotator: 3
+
+Example 17:
+Text: i miss those days. the old hannah montana songs we used to sing to together, making up stupid songs at 2 in the morning. where'd they go?
+Annotation from annotator: 2
+
+Example 18:
+Text: morning everybody, its raining again  oh and starwars the old republic looks amazing, go to youtube and watch the interviews with bioware
+Annotation from annotator: 3
+
+Example 19:
+Text: oh good, as I'm moving my things to the new machine I'm sent back to the old one for the morning.
+Annotation from annotator: 3
+
+Example 20:
+Text: uploading old diva twit pix. getting sad. reminding me that college is over and done.
+Annotation from annotator: 2
+
+Human-rated Examples:
+Example 1:
+Text: 2 parties tonight & sleeep over with the most amazing 9 year old I know, my cousin Nasia Marie
+Annotation from annotator: 3
+
+Example 2:
+Text: @AquaAHH #ilove everything old school!
+Annotation from annotator: 3
+
+Example 3:
+Text: @DooneyStudio  and crazy white girls drive really old BMW's
+Annotation from annotator: 2
+
+Example 4:
+Text: @DurbinDigital That's what old markers are best for: subtle shading and blending.
+Annotation from annotator: 3
+
+Example 5:
+Text: @TomFelton OMG your new pic is sooo cute!!  How old is it?
+Annotation from annotator: 3
+
+Example 6:
+Text: @ash1111 I do tend to gravitate towards old school everything ...  Unless someone shoves a new song in my face I like.
+Annotation from annotator: 3
+
+Example 7:
+Text: @balkanbeat No, a-ha is unfortunatelly from Norway. We have a big family happening and therefore we need some old hits
+Annotation from annotator: 3
+
+Example 8:
+Text: @marks_voice ah the old isdn/adsl story, looking forward to Bob explaining in 140 characters  Or he could just say "you can't"!!
+Annotation from annotator: 2
+
+Example 9:
+Text: @mikelr75 Oh yes, Cedric. Too bad he died. The good ones always die young. No, Gregg watched it happily, smile on face. I was impressed!
+Annotation from annotator: 2
+
+Example 10:
+Text: @monicasalas ohhhh definitely agreed  Hugh Jackman as well. sexy older men!
+Annotation from annotator: 2
+
+Example 11:
+Text: @nateflynn aww I still watch disney, nick and cartoon network lol  makes me feel better that you're older than me and you still watch it
+Annotation from annotator: 3
+
+Example 12:
+Text: @pcornqueen ohhhh that us sad, he was not that old
+Annotation from annotator: 1
+
+Example 13:
+Text: @postulantk I have to give him back because he can't be around my older one yet. Hasn't had the Feline Leukemia test.
+Annotation from annotator: 2
+
+Example 14:
+Text: @shaysmom I got teriyaki chix ready for the fire!  Shall I bring it up now? and 8 hour old malasadas for dessert.
+Annotation from annotator: 3
+
+Example 15:
+Text: @stresscase Also, should definitely date a muscian. Maybe one older than 16 but yeah! Someone should write me a song too!
+Annotation from annotator: 3
+
+Example 16:
+Text: Awesome. They removed @ryanstar's old stuff from German Itunes which probably means his new stuff won't be added anytime soon.
+Annotation from annotator: 1
+
+Example 17:
+Text: Because ur an old man man my friend.  lol Just kidding.......
+Annotation from annotator: 3
+
+Example 18:
+Text: Chatting with old friends, then off to dinner
+Annotation from annotator: 4
+
+Example 19:
+Text: Daughter and I are both sick. Her first cold at 4 months old.  The big green snot-sucker thing didn't go over so well. I don't blame her.
+Annotation from annotator: 2
+
+Target Example:
+Text: Going to bed before midnight so often lately makes me feel too old.
+Annotation from annotator:

@@ -1,0 +1,245 @@
+Correct Examples:
+Example 1:
+Text: I think I'm going to take a walk to the hunny store and see my old pal Judith!
+Annotation from annotator: 2
+
+Example 2:
+Text: @emjaystar That is cute, well done young lady.
+Annotation from annotator: 2
+
+Example 3:
+Text: dunkin donuts (((: i hope @DanceDancexox doesnt die from the old lady and the nun
+Annotation from annotator: 2
+
+Example 4:
+Text: off to kick it old school at Pro Performance. more tweeting as the night unfolds. If i remember . .
+Annotation from annotator: 2
+
+Example 5:
+Text: @CosmicMother Ah Russ!  Listening & Loving it! Wish I could go back to those days, love the oldie films & songs! 2 do - Build Time Machine
+Annotation from annotator: 2
+
+Example 6:
+Text: @JGunds I really, really want to! But I already made plans to see some old friends tonight. I can't believe I'm going to miss out on 3eb
+Annotation from annotator: 2
+
+Example 7:
+Text: @theotherlily  I hope client    Orrr maybe he's an old buddy of Shawn's dad..that need help?
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6ioe2 - (one week old) 3 months in less than an hour.
+Annotation from annotator: 2
+
+Example 9:
+Text: doing boring old science homework  btw ppl if your going to wag class dont go to another class instead (random ppl)
+Annotation from annotator: 2
+
+Example 10:
+Text: Great day at the races so far, except we had a 12 yr old race get transported to the ER.
+Annotation from annotator: 2
+
+Example 11:
+Text: No ultimate frisbee.  not enough responses. Let's do Friday evening. Any takers?  Come feel young again and enjoy.
+Annotation from annotator: 2
+
+Example 12:
+Text: @elberke12 Lazy Friday? Are those allowed at debtwire?!? Back in the good old days they certainly weren't
+Annotation from annotator: 2
+
+Example 13:
+Text: g'day guys!. its a cyber stab in the back   .got a few old twitter friends very obviously blanking me.
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished AP interview with a young man turning 12 Tues.  He passed.  Waiting for next appt. to show just not sure when he'll come.
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/5okvg - old physics where we use to cram every morning.. haha i quite miss it
+Annotation from annotator: 2
+
+Example 16:
+Text: about to sit down and eat a big old bowl of pineapple!
+Annotation from annotator: 2
+
+Example 17:
+Text: @Lunie380   @MzKiana it's awesome to see a young married couple with children sold out to Jesus(& enjoying life). Y'all be encouraged
+Annotation from annotator: 3
+
+Example 18:
+Text: @residentartist The younger one liked her celery anyway.
+Annotation from annotator: 2
+
+Example 19:
+Text: Recital is over...my body aches all over.  Too old for this...BUT I STILL GOT IT
+Annotation from annotator: 2
+
+Example 20:
+Text: miley's concert is in december i wanna go!  is anyone else secretly a 12 year old girl and wanna come with me? @lil_miss_sneha?  c'mooon
+Annotation from annotator: 2
+
+Example 21:
+Text: Weather z nt changin..itz same old fckin hot weather thn too m sneezing
+Annotation from annotator: 2
+
+Example 22:
+Text: don't you just hate these old drivers on the road that cause accidents...Rubens  #F1
+Annotation from annotator: 1
+
+Example 23:
+Text: @BeautyBlogger Wish my blog qualified.  Not 3 months old yet
+Annotation from annotator: 2
+
+Example 24:
+Text: my knee is sore today  is this what old age feels like haha im falling apart!!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking for old friends,, all i have is names.. and i dont remember faces :S // only found one
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to remember the lyrics of a song with the world cinderella... i know is a old song, light rock, but arghh can't remember
+Annotation from annotator: 2
+
+Example 27:
+Text: so apparently no one is going out friday, so that's a bust, guess I'll go to work instead! Trying to resolve to the life of an old maid
+Annotation from annotator: 2
+
+Example 28:
+Text: im getting jealous of the looks of my old friends in mtl  they look amazing and im just.. -- PFFT .
+Annotation from annotator: 1
+
+Example 29:
+Text: @tellyyy man whatever your just mad cuz you drive like an old lady lol but i love you baby
+Annotation from annotator: 1
+
+Example 30:
+Text: @herathcrush: its a girl. They have 4 girls now  The 2 oldest are teens and the 3rd is 7 yrs old.
+Annotation from annotator: 3
+
+Imputed Examples:
+Example 1:
+Text: @AnnaAntell Oh dear!!! Tell her she'll get all crpey and wrinkly when older, that'll frighten her
+Annotation from annotator: 2
+
+Example 2:
+Text: @hushiefan90 that girl is too young to be so obsessive about babies, if she's serious. I hope she doesn't do something she'll regret
+Annotation from annotator: 2
+
+Example 3:
+Text: Major laptop issues.  And DH deleted the newest image.  So have to go with an old image and spend time reloading all.
+Annotation from annotator: 2
+
+Example 4:
+Text: Listening to amazing old records with Sammy  four minute mile. I'm content
+Annotation from annotator: 2
+
+Example 5:
+Text: i miss my old friends from elementary ans middle school
+Annotation from annotator: 2
+
+Example 6:
+Text: @bobbyllew aaah the good old tidy up of the computer, mine is long overdue! Good luck
+Annotation from annotator: 2
+
+Example 7:
+Text: to be old and wise, you must first be young n stupid, nice quote but i should really be sleepin rite now n that makes me stupid rite??
+Annotation from annotator: 2
+
+Example 8:
+Text: @hotsports You are so right - she is a wonderful young woman! I will miss her lots!
+Annotation from annotator: 2
+
+Example 9:
+Text: OH and btw! the party went.... okay. There werent people at my age. there were only 7 year old girls, or 16 / 18. no one at my age (12).
+Annotation from annotator: 2
+
+Example 10:
+Text: Everyone send @NikolaHalcyone some love! Tis her birthday and she is officially old balls! (per my opinion)
+Annotation from annotator: 2
+
+Example 11:
+Text: eatin string cheese  feel like ima twelve yr old. !! lmaaao
+Annotation from annotator: 2
+
+Example 12:
+Text: @tsarnick Ohhhh I don't know ;) an older mature lady?
+Annotation from annotator: 2
+
+Example 13:
+Text: @bethie138  i looked so bad! and they said Stand By Me. there old band name
+Annotation from annotator: 2
+
+Example 14:
+Text: Nursing bruises from motorbike crash on Wednesday night leaving London workplace. The ground is so much harder the older you get
+Annotation from annotator: 2
+
+Example 15:
+Text: @bookofdavid When I was younger I wanted to be just like Sarah Greene; I was also convinced I was going to grow up & marry @Schofe
+Annotation from annotator: 2
+
+Example 16:
+Text: Is  __ old fasioned? as in medi__val  even
+Annotation from annotator: 2
+
+Example 17:
+Text: @Lee_at_L_Retail You are a youngster...I am 30
+Annotation from annotator: 2
+
+Example 18:
+Text: @bbctms You sound like his mum again  He does bring out that quality though, I'm younger than he is and feel a bit protective.
+Annotation from annotator: 2
+
+Example 19:
+Text: @WoahOhSelena alrighty then :-P well... What can I say? I guess old age is getting to me..
+Annotation from annotator: 2
+
+Example 20:
+Text: @scarletfire I don't know them.  But you know the old church that was on Lincoln? I knew the people who bought it & lived next door.
+Annotation from annotator: 2
+
+Example 21:
+Text: @HeatherShea hey babe!!!! look at me acting all professory w/ the youngs  http://tinyurl.com/ncumvm xoxox
+Annotation from annotator: 2
+
+Example 22:
+Text: @MrsDarkside Doesn't matter as long as it's an older song.
+Annotation from annotator: 2
+
+Example 23:
+Text: "Do you remember when 21 years was old?" Ah, gives me the chills.  Track from the new Phoenix album. ? http://blip.fm/~6t010
+Annotation from annotator: 2
+
+Example 24:
+Text: Is gonna release the music vids from the EP for old times sake.
+Annotation from annotator: 2
+
+Example 25:
+Text: @jewelsmyfav @summerwalker let his old ass stand then I hope that's the only seat available for his entire ride! Smdh... I'm digusted!
+Annotation from annotator: 2
+
+Example 26:
+Text: I maimed my old one. But I love it now! It's perfect.  The best part is I didn't have to spend 20 bucks on a new one.
+Annotation from annotator: 2
+
+Example 27:
+Text: @MyInnerTricia cool....I am hoping it is good then!   I wonder if those weird older ladies will be there?
+Annotation from annotator: 2
+
+Example 28:
+Text: My co worker's 17yr old niece is missing  hope everything works out
+Annotation from annotator: 2
+
+Example 29:
+Text: @fatboy_443 Went looking for pics of you. Realized they were all on my old phone. Sorry hon
+Annotation from annotator: 2
+
+Example 30:
+Text: @zeddessarts In fact, it's the "time between times" as the old celtic people called. The time when it's neither night or day. Magic time.
+Annotation from annotator: 2
+
+Target Example:
+Text: I now have a No.2 folding autographic brownie((really old camera)), stil;l can't find my other polariod tho
+Annotation from annotator:

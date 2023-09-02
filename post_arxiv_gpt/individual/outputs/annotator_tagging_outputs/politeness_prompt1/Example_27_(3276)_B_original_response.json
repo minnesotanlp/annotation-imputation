@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Pa26PpMOrOZIvIhcCf7LFGmsjXe1",
+    "object": "chat.completion",
+    "created": 1686331066,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 604,
+        "completion_tokens": 20,
+        "total_tokens": 624
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "It is impossible to determine the annotation from annotator B for this example as it was not provided."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

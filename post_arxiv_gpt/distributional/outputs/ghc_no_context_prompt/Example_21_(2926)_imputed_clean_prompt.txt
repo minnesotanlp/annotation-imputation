@@ -1,0 +1,25 @@
+Example 14940
+Text: We use a few different databases but primary one is MySQL
+Soft labels:
+100.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+
+Example 13246
+Text: After WMD and Blair, etc people just don't buy this crap any longer but the out of touch ELITES, think people do. Dangerous times, what will their kneejerk reaction be to their obvious loss of POWER?
+Soft labels:
+100.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+
+Example 5421
+Text: 66% of Black households are single parent. This is the problem not racism. Black people must fix the dissolution of the Black nuclear family before any mention of racism. Broken homes in the Black community create all problems race hustlers misrepresent as symptoms of racism.  Wake up Black people! https://www.youtube.com/watch?v=Lg8Oq_Sd3Bw&t=...
+Soft labels:
+66.67% of responsive annotators labeled the text with 0
+33.33% of responsive annotators labeled the text with 1
+
+Example 21457
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Soft labels:
+72.22% of responsive annotators labeled the text with 0
+27.78% of responsive annotators labeled the text with 1
+Target Text: None yet. But, it's better than doing nothing. A few months ago NK was launching missiles over Japan and towards the US.
+Soft labels:

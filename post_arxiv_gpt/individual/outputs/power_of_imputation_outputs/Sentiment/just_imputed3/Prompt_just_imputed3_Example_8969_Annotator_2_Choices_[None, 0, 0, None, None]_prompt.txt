@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I think I will give up my oldest email address. 100 spam messages a day is just not much fun anymore...
+Annotation from annotator: 1
+
+Example 2:
+Text: @elvisduran I totally missed it  My hubbys father in SC was about 56 and his girl is younger than me, I am 28 and they have 2 kids!!!
+Annotation from annotator: 0
+
+Example 3:
+Text: listening to Harout online at http://www.stver.com great song - (we're not going to be 20yrs old anymore
+Annotation from annotator: 1
+
+Example 4:
+Text: off to spend my morning with 5 year olds...my favorite is the tiny one with the big brown eyes
+Annotation from annotator: 2
+
+Example 5:
+Text: @Cortnee4Christ It's like the old myspace days. You gotta go to a specific person's page, and comment to them that way.
+Annotation from annotator: 1
+
+Example 6:
+Text: @JEFFHARDYBRAND legend Jeff! What you reckon to Kat (ECW), old UK mate from York! Olden days
+Annotation from annotator: 1
+
+Example 7:
+Text: @theimpulsivebuy - No! I'm too busy. I'm just going to go buy some.. the old fashioned way. With the store.. and money.
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6oilr - old bolts in the front... new bolts in the back.  I sure hope this works
+Annotation from annotator: 1
+
+Example 9:
+Text: don't ask my why i have a new account...it's cuz twitter is LAME and my old one got deleted somehow.  wah wah wah
+Annotation from annotator: 1
+
+Example 10:
+Text: Great catching up with the guys but feels like a Take That reunion: we're all a lot older,fatter and slower than the 'good old days'
+Annotation from annotator: 1
+
+Example 11:
+Text: No one in West Virginia was afraid of growing old that I could see or sense.
+Annotation from annotator: 2
+
+Example 12:
+Text: @edwintcg yah! im gonna be playing with some old films so the colour is gonna be wacked! cant wait!!  u can try my films too then!
+Annotation from annotator: 2
+
+Example 13:
+Text: digitizing old home movies and tearing up
+Annotation from annotator: 3
+
+Example 14:
+Text: Just cried watching old One Tree Hill episodes. So sad
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/66516 - i got flowers from my neighbor, a 60 yr old lady. she's so friendly
+Annotation from annotator: 3
+
+Example 16:
+Text: is going to bed because hes too old to stay up late twice in a row  *wishes he was watching @mcflymusic now*
+Annotation from annotator: 1
+
+Example 17:
+Text: @LuciusPastime I guess that's why it's considered antique. My dad and I are suckers for old brooms.
+Annotation from annotator: 0
+
+Example 18:
+Text: @refeup New layout is very confusing. I miss the simplicity of the old one
+Annotation from annotator: 1
+
+Example 19:
+Text: Really sad that I have to head to mge  she's a mean old professor who takes pride with mind fucking
+Annotation from annotator: 0
+
+Example 20:
+Text: miss my old days when i'm in 2nd grade
+Annotation from annotator: 2
+
+Example 21:
+Text: Wedding last nightt was crazy fun! I think my little brother has a hangover :-0 (yes, he's 13) NO bueno! Good seeing old friends & fam
+Annotation from annotator: 1
+
+Example 22:
+Text: doesn't understand what twittering is all about, I feel like an old person
+Annotation from annotator: 1
+
+Example 23:
+Text: @BeauGiles since when do you care?  you should look up an old CH10 show called 'Breakers' for the male version
+Annotation from annotator: 1
+
+Example 24:
+Text: not much, man at work, 12yr old up stairs, i'm all alone
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to hearing how u host a 5oth & 2nd year old party in the same day  u r good! @TammyBurnell enjoy the moments
+Annotation from annotator: 1
+
+Example 26:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 27:
+Text: so excited to catch up with some old friends tonight!  haven't seen them in a while
+Annotation from annotator: 2
+
+Example 28:
+Text: im gonna miss that halo-halo man in my old school.  the ube on top.yum.
+Annotation from annotator: 1
+
+Example 29:
+Text: @tearsasmith Nah, you're not old! XD Lots of people don't know what "XD" means. But it's good you know "LOL".
+Annotation from annotator: 0
+
+Example 30:
+Text: @hellohouston Yeah...it came out when I was in college  Now I feel old and I'm soooo not old ;)
+Annotation from annotator: 0
+
+Target Example:
+Text: Morning y'all! Gonna send some old pics to a friend, then get ready to take the cars in for oil changes. Fun.
+Annotation from annotator:

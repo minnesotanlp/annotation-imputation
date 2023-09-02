@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: It's good to be clear when you need space from loved ones.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to like happy songs.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's bad to do poorly in school.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's expected that partners will get each other gifts.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is okay to take some risks.
+Annotation from annotator: 2
+
+Example 6:
+Text: It's important to respect the culture of other people.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's acceptable to shun someone who hates people in your group.
+Annotation from annotator: 1
+
+Example 8:
+Text: You shouldn't cause drama in your family.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's okay not to be interested in something.
+Annotation from annotator: 4
+
+Example 10:
+Text: You should encourage your spouse to see a therapist when they return from combat.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's fine to want to stay with your significant other.
+Annotation from annotator: 4
+
+Example 12:
+Text: You shouldn't scowl at people.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should always make sure you have enough gas before you go somewhere.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's understandable that children feel resentment when they're moved far from their friends.
+Annotation from annotator: 4
+
+Example 15:
+Text: It is wrong to kill a pet.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's fine to want to replace something you own.
+Annotation from annotator: 3
+
+Example 17:
+Text: You don't have to go along with what the crowd is doing if you don't want to.
+Annotation from annotator: 3
+
+Example 18:
+Text: You should be patient when your friend tells you they'll be back.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's understandable to want to have sex with your significant other.
+Annotation from annotator: 4
+
+Example 20:
+Text: It is okay to walk away from a relationship that isn't working.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's good to want to be part of others celbrations.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is impolite to cuddle at the dinner table.
+Annotation from annotator: 3
+
+Example 23:
+Text: If you want to stay young, you should take good care of your health.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't try to hate someone.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is okay to be different.
+Annotation from annotator: 2
+
+Example 26:
+Text: Not telling your girlfriend that you no longer want to see one another is rude.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's good to be concerned for the welfare of animals.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's not okay to think that because you don't need something someone else should have to do with out it.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's expected that people will want to keep their kitchen tidy.
+Annotation from annotator: 3
+
+Example 30:
+Text: You don't have to help out your parents if you don't feel like it.
+Annotation from annotator: 3
+
+Target Example:
+Text: Having fake accounts online is usually reserved for trolls.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

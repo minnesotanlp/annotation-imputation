@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I messed with this problem a bit last week but couldn't come up with anything. Is there a timeline expert that can come in a fix it if we recommend that action be taken?
+Annotation from annotator: 16
+
+Example 2:
+Text: Wait. Unless ''you'' need it repaired and updated quickly ?
+Annotation from annotator: 6
+
+Example 3:
+Text: Yeah, chances are it is. How long do you reckon it will be before he edits a Sydney related article?
+Annotation from annotator: 15
+
+Example 4:
+Text: I'm sorry, I don't know what article you are talking about. Can you please provide the exact name?
+Annotation from annotator: 19
+
+Example 5:
+Text: Where did you get the tracklist for the album? Can you please drop me a messafe with the link?
+Annotation from annotator: 19
+
+Example 6:
+Text: There's no tab at the top of the page with a bold EDIT THIS PAGE on it. Is it just my computer?
+Annotation from annotator: 11
+
+Example 7:
+Text: As I've only ever tagged one page for speedy deletion before (and that was an obvious cut-and-paste copyvio), I just want to make sure I tagged it properly.  Was db-1 the right tag for <url>?
+Annotation from annotator: 19
+
+Example 8:
+Text: Thanks, but I've already read those essays.  Did you have anything to say yourself, personally?
+Annotation from annotator: 6
+
+Example 9:
+Text: Well? What do you think?
+Annotation from annotator: 11
+
+Example 10:
+Text: Iulius! Could you provide exact  reference of article u017dirmu016bnai part ''Demographics'' ethnicity  composition?
+Annotation from annotator: 11
+
+Example 11:
+Text: Something's still not right with me here. Think you can perform one of those cleanups?
+Annotation from annotator: 11
+
+Example 12:
+Text: I have looked back in my archives a year, and cannot find the issue concerned - although I certainly remember the name, your account, and the style. Can you give me the relevant link/diff, so I can refresh my memory and be best informed what action might be appropriate?
+Annotation from annotator: 18
+
+Example 13:
+Text: And individually changing the refs defeats the  purpose, unless the genus is apart of the url, like in nomen.at. Do you think there is any to work with this?
+Annotation from annotator: 15
+
+Example 14:
+Text: Good day, sorry to bother you. Is the 2:00 am news brief called eyewitness news everynite, and if it is do they play move closer to your world?
+Annotation from annotator: 15
+
+Example 15:
+Text: I'm relatively new here. Short of totally protecting the pages, what strong-arm tactics do my colleagues have in mind?
+Annotation from annotator: 14
+
+Example 16:
+Text: Ok well it'd be a great if it could be confirmed that MSNBC HD will be on DirecTV upon launch. Hey by any chance are you "DodgerKing" on any TV forums such as HighDefForums.com, SatelliteGuys.US or DBSTalk.com?
+Annotation from annotator: 15
+
+Example 17:
+Text: I began to make an article for <url> but found that one already existed but was deleted. After reading the deletion log and seeing that it was speedy deleted for a7, I think I can write an article that establishes notability, but am I required to get administration approval before recreating a deleted article or can I just create it on my own?
+Annotation from annotator: 16
+
+Example 18:
+Text: I'm confused. Why did I get a user warning relating to this article?
+Annotation from annotator: 11
+
+Example 19:
+Text: Thank you, it's much appreciated. What do you think of the changes so far?
+Annotation from annotator: 20
+
+Example 20:
+Text: Whoops. How about now?
+Annotation from annotator: 12
+
+Example 21:
+Text: Im sorry to see that you withdrew. Maybe next time?
+Annotation from annotator: 17
+
+Example 22:
+Text: No idea I never visit the page myself :-( . As it's obvious they are socks I figured  why wait?
+Annotation from annotator: 14
+
+Example 23:
+Text: Then why is the article for the monastery in Lhasa as "Ganden" instead of "Gandan"? Do both the monasteries have the same name?
+Annotation from annotator: 15
+
+Example 24:
+Text: Well, I think this is a murder that could do with wide categorisation (as an example of asian-on-white killings, rather than the far more famous white-on-black, not to mention that British does nto automatically=English. If it's merely a matter of preference, do you mind if I put the British one back?
+Annotation from annotator: 9
+
+Example 25:
+Text: I agree with Orlady here; full-protection, a fairly serious position when we're talking about an encyclopedia anyone can edit, is only to be taken out as a last (reasonable) resort. Since both participants to the dispute are now blocked, is there any reason for the protection to be necessary?
+Annotation from annotator: 15
+
+Example 26:
+Text: Having said that, I don't want to drive anyone away just because they can't write well. The question is, where do you begin?
+Annotation from annotator: 8
+
+Example 27:
+Text: i took the photo, and if the kludgy licensing template would allow me to license i would. do you actually fix things or tag spam?
+Annotation from annotator: 13
+
+Example 28:
+Text: I'm with you - it really is a friggin' pain that people refuse to read no matter how big you put the text.  Should we just maybe remove the source entirely?
+Annotation from annotator: 12
+
+Example 29:
+Text: I thought you had done that, and started working on turning it into a disambiguation page.  Could you now graft the history on to the changes I made?
+Annotation from annotator: 14
+
+Example 30:
+Text: It's larger now than the sub-stub previously deleted.  Can sources be added to verify the achievements?
+Annotation from annotator: 16
+
+Target Example:
+Text: In this <url> there was a loss of some info.  Was that intentional?
+Annotation from annotator:

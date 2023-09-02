@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: It's ok to sell things in school.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's expected that you want your friends to live in your city.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't leave your aging and sick parents at home all alone.
+Annotation from annotator: 3
+
+Example 4:
+Text: You shouldn't wear a nightdress if you're male.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's okay to have favorite things that you enjoy.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's nice to host families.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's important to stay hydrated.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's unhealthy to vape.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to give your heart and soul to others.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to want to feel appreciated in life.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's nice to go on dates.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's good to communicate with your spouse.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's understandable that sometimes things happen and we have to hurry to be on time.
+Annotation from annotator: 3
+
+Example 14:
+Text: If you are having trouble in your relationship, you should get some relationship advice.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's understandable if you're offended when your partner breaks up with you because of how you used to get by in life.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to be obsessed with an ex.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's understandable if you're glad when someone is happy to receive your greeting card.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's understandable if you're disappointed when you don't feel welcome in a new social circle.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to book things in advance.
+Annotation from annotator: 3
+
+Example 20:
+Text: Partners are expected to do kind things for each other.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't spend all your time masturbating.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's bad to miss class and have to study extra to catch up
+Annotation from annotator: 3
+
+Example 23:
+Text: It's bad to feel guilty.
+Annotation from annotator: 0
+
+Example 24:
+Text: It's fun to go out fishing with your grandparents.
+Annotation from annotator: 3
+
+Example 25:
+Text: You should be careful to avoid tripping when you're walking.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's not okay for a person not to be able to figure things out on their own.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is reasonable to be anxious about your first kid being born.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's normal to eat peanuts at a bar
+Annotation from annotator: 3
+
+Example 29:
+Text: It's wrong to get divorced.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's good to try new restaurants.
+Annotation from annotator: 3
+
+Target Example:
+Text: Selling body organs is never acceptable.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

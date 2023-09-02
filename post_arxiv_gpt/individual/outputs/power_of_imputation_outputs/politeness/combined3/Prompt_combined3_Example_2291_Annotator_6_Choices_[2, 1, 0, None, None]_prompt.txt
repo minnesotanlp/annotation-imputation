@@ -1,0 +1,165 @@
+Imputed Examples:
+Example 1:
+Text: Need help with EF 175 via email. Mind <url> so we can discuss?
+Annotation from annotator: 15
+
+Example 2:
+Text: Hello Jeffq, I noticed you revert vandalism occasionally. Would you like me to grant your account <url> to help you revert vandalism more easily?
+Annotation from annotator: 22
+
+Example 3:
+Text: I'll have a look (probably just for copyediting duties) once Zag has finished the larger changes. Keep me posted?
+Annotation from annotator: 13
+
+Example 4:
+Text: What about the whole "Heroes as personal feifdom" trip? Or are you ok with that?
+Annotation from annotator: 11
+
+Example 5:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation from annotator: 7
+
+Example 6:
+Text: Thoughts? Preferences?
+Annotation from annotator: 11
+
+Example 7:
+Text: Done. Comments?
+Annotation from annotator: 12
+
+Example 8:
+Text: I'm sorry, but I'm unlikely to have time to help. Maybe try <url>?
+Annotation from annotator: 16
+
+Example 9:
+Text: No, I didn't know that. Where does this "rule" come from?
+Annotation from annotator: 10
+
+Example 10:
+Text: I deleted the redirects <url> and <url> that were a result of the page moves.  Is that all you needed?
+Annotation from annotator: 11
+
+Example 11:
+Text: So, I'm a "deletion fanatic"? Why don't you refrain from uncivil remarks and focus on adding sources to your unsourced stubs - help the encyclopedia rather than pissing off people?
+Annotation from annotator: 7
+
+Example 12:
+Text: Hey, I saw you have re-direcred the 'Cheers' article, and I had a look to see how detailed it is, and saw that it well, wasn't very detailed. But yesterday I created the <url> for it and it has a lot more information about it that the current one, and was wondering if it is notable enough to be re-opened with?
+Annotation from annotator: 16
+
+Example 13:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 11
+
+Example 14:
+Text: I think you're referring to <url>? For example, <url>?
+Annotation from annotator: 14
+
+Example 15:
+Text: Once upon a time (about 6 years ago), you uploaded <url>. Would you happen to remember where you got it from?
+Annotation from annotator: 15
+
+Example 16:
+Text: Regarding <url>: you closed it as no consensus, and I admit its close, but there are four well thought out deletes and only three keeps don't (in my view) present any clear arguments. Do you mind taking another look?
+Annotation from annotator: 12
+
+Example 17:
+Text: As a side note, I'm slightly amused that on the one hand, you caution me not to "encourage" the penguieater troll, explicitly striking out the "mocking" part, but then in the same breath you sign the finding that cites those same penguin diffs as evidence of terrible insults and intimidation. Slightly inconsistent, perhaps?
+Annotation from annotator: 8
+
+Example 18:
+Text: I'm not sure what you mean by the old factory farming discussion. Is something missing?
+Annotation from annotator: 14
+
+Example 19:
+Text: What has this got to do with the article? Is this in the right place?
+Annotation from annotator: 13
+
+Example 20:
+Text: Unless you provide a wikipedia article, with solid references od proof of notability of the term, I am going to delist it. I ave no doubts that there was a dilike of Portugals (like any other major nation), but was this word in notable circulation?
+Annotation from annotator: 9
+
+Example 21:
+Text: Well, OTRS is multilingual, so she could contact OTRS in Turkish and people would be able to deal with the issue there. What was the exact wording of her "release" of the images?
+Annotation from annotator: 13
+
+Example 22:
+Text: Does that mean all the realiable sources are incorrect too? Was the e-mail from a reliable source?
+Annotation from annotator: 14
+
+Example 23:
+Text: On second thought, the mix of pseudo-politeness, vulgarity and threats is...really creepy. Could ya...stop?
+Annotation from annotator: 6
+
+Example 24:
+Text: It appears that that article was deleted because not enough info was found on the person. Doesn't the new article have enough info?
+Annotation from annotator: 12
+
+Example 25:
+Text: I dunno, but this one reeks of that banned user <url> - same mark-as-minor edits, same targets. Care for a look at this?
+Annotation from annotator: 13
+
+Example 26:
+Text: So both of us already broke 3RR.  Do you want to esclate it?
+Annotation from annotator: 11
+
+Example 27:
+Text: Another question: Does "Senn" exist in Japanese? If it does, is it possible to render Sennin as Senn-in?
+Annotation from annotator: 16
+
+Example 28:
+Text: Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?
+Annotation from annotator: 9
+
+Example 29:
+Text: Why are you putting <nowiki><person></nowiki> on several pages related with Yu-musicians? IMO this is a pretty <strike>stup</strike> meaningless stub to have; why not <nowiki><person></nowiki> instead?
+Annotation from annotator: 8
+
+Example 30:
+Text: How did you learn Interlingua?  Was it an online course like lernu, or what?
+Annotation from annotator: 9
+
+Human-Rated Examples:
+Example 1:
+Text: I was checking out the article on the Unitarian Society in Fall River that you contributed to, and there's a lot that was wrong.  I want to reconcile what you know with what I know so we can get this article right... a little help here?
+Annotation from annotator: 8
+
+Example 2:
+Text: Acad, at <url> the article suddenly starts talking about ''Pomone'' without any context - is this a typo?  You're a major contributor - can you clarify?
+Annotation from annotator: 8
+
+Example 3:
+Text: Could you please block me indefinitely. If you can't then what do I need to do to get blocked indefinitely?
+Annotation from annotator: 16
+
+Example 4:
+Text: This is irritating. What browser are you using?
+Annotation from annotator: 4
+
+Example 5:
+Text: As his son (the mayor) was also an MP, this doesn't seem an ideal disambiguation, though I'm not sure what would be better here!  Perhaps we need to resort to using dates?
+Annotation from annotator: 8
+
+Example 6:
+Text: The Hitchin-related hoax claims by <url> seem to have led to a rather precipitate response, considering that he has only been an editor for a few days.  Is there something going on here that isn't obvious?
+Annotation from annotator: 4
+
+Example 7:
+Text: Thanks for continuing to look over the article.  Do you know or do you know anyone that knows anything about the <url> or the <url>?
+Annotation from annotator: 24
+
+Example 8:
+Text: Thank you for your kind comment.   Do you have a suggestion where the portals should be placed in the article?
+Annotation from annotator: 24
+
+Example 9:
+Text: Hello, csloat. What is your response to my suggestion <url>?
+Annotation from annotator: 20
+
+Example 10:
+Text: Thanks for reverting <url> - that was actually me, unlogged in. OK if I re-revert?
+Annotation from annotator: 20
+
+Target Example:
+Text: Hello. Who are you, and when are we to have met or communicated in the past?
+Annotation from annotator:

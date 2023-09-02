@@ -1,0 +1,122 @@
+Example 1:
+Text: <person> is dropping OR on various talk pages, including his own and his userpage - and linking his talk page to his blog. <url> or rather blogs <url> - not run into this sort of linking before, is there any guidance about it somewhere?
+Annotation from annotator: 13
+
+Example 2:
+Text: Lil-Unique told me it with the reasons of what I put in my edit summary, so if you need a better explanation ask him. I left Billboard Hot 100 as Billboard Hot 100 because that's the exact name of the chart?
+Annotation from annotator: 7
+
+Example 3:
+Text: I'm linking this to Fumiyo's. Are <url> and <url> among the bullies too?
+Annotation from annotator: 12
+
+Example 4:
+Text: Maybe the area that is now the Chakma Autonomous District Council was (or is?) located within the Lawngtali district?
+Annotation from annotator: 13
+
+Example 5:
+Text: Great work you've been doing on this. Would you agree with me that International Political Economy should be capitalised?
+Annotation from annotator: 16
+
+Example 6:
+Text: Vaguely connected, because I don't feel like starting a new section. Have you seen <url>?
+Annotation from annotator: 11
+
+Example 7:
+Text: You added partisan colours for the early Chancellors (such as a conservative blue colour for Bismarck); as the early Chancellors were not attached to any political party, and the "party" given is merely an approximate indication of their political leanings, I'm not sure if this is a good idea. Also, why did you remove the partisan colour from the last part of the table (the Republic)?
+Annotation from annotator: 10
+
+Example 8:
+Text: I saw you removed the copyright CSD from Universum University as being "unclear copyright status".  What am I missing?
+Annotation from annotator: 12
+
+Example 9:
+Text: Thank you so much! I hope it's allright if I move it to my front page, at least when the talk has to be archived?
+Annotation from annotator: 17
+
+Example 10:
+Text: I am the third party; <url> was the first to dispute its use.  Why can't you describe the changes in words?
+Annotation from annotator: 10
+
+Example 11:
+Text: Um, I'll check it out, 141.158.210.110, but I haven't had a lot of edits (if any) on that article. In the mean time, why not <url> and join the Wikipedia community?
+Annotation from annotator: 14
+
+Example 12:
+Text: I think it is a great idea to merge my Geraldine Jones article to the flip Wilson show article, but I don't know how to do that. Can you help me?
+Annotation from annotator: 17
+
+Example 13:
+Text: Thanks for approving my request. Should I remove my request?
+Annotation from annotator: 17
+
+Example 14:
+Text: I think I have a general idea what this is supposed to mean, but not nearly close enough to attempt a rewrite by myself. Are we talking about a piano trio sitting around "naming" trios that they might want to play, or record, or just playing the sort of game that parents use to keep young kids amused on a long trip (or did before there were TVs and movies inside cars)?
+Annotation from annotator: 14
+
+Example 15:
+Text: Your "resolution" was to move it back to "Detective Terry Crowley" again? Why do you keep doing that?
+Annotation from annotator: 7
+
+Example 16:
+Text: I guess there's a connection to <url> too. Do you think that's cu worthy?
+Annotation from annotator: 11
+
+Example 17:
+Text: Can you check if there was ever an article for "Kenneth Eng"? It seems to have been deleted, if so could you supply me with an archive of the article?
+Annotation from annotator: 13
+
+Example 18:
+Text: And I'm asking for YOUR help, DrachenFyre, to control this vandal <url>'s changes to <url> and <url>.  What do we do with this nut?
+Annotation from annotator: 11
+
+Example 19:
+Text: See my comment on the talk page. How did this ever get to DYK?
+Annotation from annotator: 11
+
+Example 20:
+Text: Hi Bruce, I normally make only trivial changes, but I've just found it necessary to do two hook rewrites. Could you check, please?
+Annotation from annotator: 16
+
+Example 21:
+Text: Hi, although I agree with you, please check the following <url> in process. Why can't the darn thing work, in the first place?
+Annotation from annotator: 8
+
+Example 22:
+Text: You're right, but loosing it because of Devanampriya, of all users, would be quite a shame for Wikipedia. Don't we have to make a stand against ignorance, partisan POV-pushing and constant incivility?
+Annotation from annotator: 11
+
+Example 23:
+Text: What do you think? Is there a mistake somewhere?
+Annotation from annotator: 15
+
+Example 24:
+Text: Why did you remove those German emigrant cases. Shouldn't we include those cases of people who was born in what was then Germany at the time?
+Annotation from annotator: 11
+
+Example 25:
+Text: Okay, I've read through it, and I'm willing to accept that it's your granddaughter. Shall I delete it?
+Annotation from annotator: 13
+
+Example 26:
+Text: Quite. Do you know why, though?
+Annotation from annotator: 14
+
+Example 27:
+Text: It looks like the current version of <url> has been reworked since when you built it in July 2005 and references have never been provided.  Do you have any references you can add to the article?
+Annotation from annotator: 16
+
+Example 28:
+Text: Thank you for getting to all those WikiProject Canada assessements so quickly! Question, is it ''useful'' what I'm doing, adding the template even to what I know will be relative low importance articles?
+Annotation from annotator: 19
+
+Example 29:
+Text: This is what you wrote: "In the book 'Inventing Elliot' written by Graham Gardener, the book, 1948 is mentioned numerous times." What book, 1948??
+Annotation from annotator: 10
+
+Example 30:
+Text: By the way. Can you edit your own talk page when it is protected?
+Annotation from annotator: 12
+
+Text: You didn't answer about the status of above mentioned image. Are you going to tag that image too?
+Annotation from annotator:

@@ -1,0 +1,245 @@
+Human-Rated Examples:
+Example 1:
+Text: It's good to trust those you care about.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's wrong to want to be a 50's housewife because women back then were oppressed.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's fine to ban anyone you want to from an online account.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's important to give helpful feedback to someone who doesn't pass their driver's license test.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's not okay to think someone is lying to you when it's important.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should not engage in romance with a patient you treat.
+Annotation from annotator: 4
+
+Example 8:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to want someone to do their best.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's good to avoid disturbing animals in the wild.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's wrong to stalk people.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's expected that the husband pay child support.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is good to be yourself.
+Annotation from annotator: 4
+
+Example 14:
+Text: It is good to have moderation in all activities.
+Annotation from annotator: 3
+
+Example 15:
+Text: You should always help out your customers when they have a problem.
+Annotation from annotator: 4
+
+Example 16:
+Text: You can't expect love young to last forever.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's bad for a child to be in danger.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's wrong to be into something that is annoying.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's expected you get into a fight if you're being racist around people
+Annotation from annotator: 2
+
+Example 20:
+Text: It's okay to say the n word if it's in a textbook.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's inappropriate for a parent to help a teenage boy shower.
+Annotation from annotator: 4
+
+Example 22:
+Text: You shouldn't constantly think about death and dying.
+Annotation from annotator: 4
+
+Example 23:
+Text: You should be focused on learning while at school.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's not okay to fake things in a social situation.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's not necessary to be strong
+Annotation from annotator: 3
+
+Example 26:
+Text: Not everyone wants their images on social media, so you should respect it if they ask you not to share them.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's wrong for a parent to do things to make their children loose respect of them.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's expected that family members support each other's milestone events.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's good to wait for gifts from others.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't have second thoughts about having kids if your wife gets pregnant because it's too late by then.
+Annotation from annotator: 3
+
+Estimated Examples:
+Example 1:
+Text: It is good to fill out your own paperwork.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's good to recognize the problems with being attracted to someone much younger than you.
+Annotation from annotator: 3
+
+Example 3:
+Text: Your grandparent would be sad if you broke off contact with them.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is okay to not trust everyone.
+Annotation from annotator: 2
+
+Example 5:
+Text: You shouldn't accept money from someone you don't want to date.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't expect your ex to not have sex after the relationship is over.
+Annotation from annotator: 4
+
+Example 7:
+Text: You should shave your body hair if you're on a swim team or involved in other sports so you look nicer.
+Annotation from annotator: 3
+
+Example 8:
+Text: You shouldn't post inappropriate pictures online.
+Annotation from annotator: 3
+
+Example 9:
+Text: You should expect to get caught when you lie to people.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's frowned upon for people to continue a relationship with a former romantic interest when they've moved on to other relationships.
+Annotation from annotator: 4
+
+Example 11:
+Text: You shouldn't be hypocritical.
+Annotation from annotator: 4
+
+Example 12:
+Text: It is distracting to pin everyone in an admin team on a discord server.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is responsible to look out for the children of the community.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's good to be honest when you give your kids the sex talk.
+Annotation from annotator: 2
+
+Example 15:
+Text: It is wrong to be ashamed of where you have come from.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's understandable to want to get back at someone.
+Annotation from annotator: 2
+
+Example 17:
+Text: You shouldn't do drugs.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's good to be aware of your limits.
+Annotation from annotator: 4
+
+Example 19:
+Text: You shouldn't expect people to do all their chores.
+Annotation from annotator: 2
+
+Example 20:
+Text: You're discouraged from hating others.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's hurtful for parents to get their children involved in crimes.
+Annotation from annotator: 4
+
+Example 22:
+Text: You don't have to be responsible for your cousin's problems.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's fine to get angry if someone doesn't want to do something you want them to do.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's bad to hate babies.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's bad to not trust your significant other.
+Annotation from annotator: 4
+
+Example 26:
+Text: You shouldn't have sex with people if you have herpes.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's understandable that we don't always want to attend family events.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's okay to not want to date someone you are uncomfortable dating.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's bad to be divorced with children.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's understandable that you don't want to be burden by other people's moments in their lives.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's not okay to stray from a relationship.
+Annotation from annotator:

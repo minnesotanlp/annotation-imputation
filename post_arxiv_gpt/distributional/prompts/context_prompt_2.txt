@@ -1,0 +1,8 @@
+A dataset is described as follows:
+{dataset_description}
+
+Existing Soft Labels:
+{soft_label_examples}
+
+Predict Soft Label:
+{prediction_text}

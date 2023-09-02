@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I think I will give up my oldest email address. 100 spam messages a day is just not much fun anymore...
+Annotation from annotator: 2
+
+Example 2:
+Text: @emilylynn_ oh my lil em is growing up!  makes me feel old.   yea for summer registration!
+Annotation from annotator: 2
+
+Example 3:
+Text: dude, my dad just totally gave me his old PDA, which MEANS I can TWAT where ever I want that has wifi, like STARBUCKS. LOVE my life
+Annotation from annotator: 2
+
+Example 4:
+Text: off to lunch with an old friend
+Annotation from annotator: 2
+
+Example 5:
+Text: @Cortnee4Christ It's like the old myspace days. You gotta go to a specific person's page, and comment to them that way.
+Annotation from annotator: 2
+
+Example 6:
+Text: @JEFFHARDYBRAND legend Jeff! What you reckon to Kat (ECW), old UK mate from York! Olden days
+Annotation from annotator: 2
+
+Example 7:
+Text: @themomjen our oldest pit is 13, we are very afraid this is his last summer with us  poor old man. if you have any pit ?'s you can email
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6ix23 - It's a old picture but i like it
+Annotation from annotator: 2
+
+Example 9:
+Text: doing admission on a 26!  year old girl. i wonder what happens in a lifetime that can bring you here, by the time you are 26. sad
+Annotation from annotator: 1
+
+Example 10:
+Text: Great day  I'm so proud of my younger cuzzo. He finally graduated :')
+Annotation from annotator: 2
+
+Example 11:
+Text: No one in West Virginia was afraid of growing old that I could see or sense.
+Annotation from annotator: 2
+
+Example 12:
+Text: @ehudmh h love that american gladiators uses painted solid colored outlines of people to amplify the number of people there  old school
+Annotation from annotator: 2
+
+Example 13:
+Text: fuck being sick...can't even give her a kiss goodbye, and not to mention i feel like an old man
+Annotation from annotator: 2
+
+Example 14:
+Text: Just confiscated a recorder from a young child, feel quite bad
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/61f8v - #rejectprop8 ahhhh young love
+Annotation from annotator: 2
+
+Example 16:
+Text: aah my new headphones are lovely. Nothing is as good as the old broken set however
+Annotation from annotator: 2
+
+Example 17:
+Text: @LuciusPastime I'm going to sound really old-fashioned here, but I still use my dad's old Silver Arrow. Kind of an antique, if you may.
+Annotation from annotator: 2
+
+Example 18:
+Text: @renelle_adams I love Tennessee!!! I used to go there a lot when I was younger. You gotta visit Ripleys it's a lot of fun
+Annotation from annotator: 3
+
+Example 19:
+Text: Really sad 'cause one of my best friends and the singer of my old band is moving away after the summer.
+Annotation from annotator: 2
+
+Example 20:
+Text: miley's concert is in december i wanna go!  is anyone else secretly a 12 year old girl and wanna come with me? @lil_miss_sneha?  c'mooon
+Annotation from annotator: 2
+
+Example 21:
+Text: We're going to start to shoot a pretty, young blonde now
+Annotation from annotator: 3
+
+Example 22:
+Text: don't forget the alcohol, oooh baby, oooh baby! Poor old Milez...
+Annotation from annotator: 2
+
+Example 23:
+Text: @Bearsuitband Saw that yesterday; it's my old Uni and I can't make it  Have a good gig!
+Annotation from annotator: 2
+
+Example 24:
+Text: my knee is sore today  is this what old age feels like haha im falling apart!!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to celebrating my dads 65th with family tonight (wow, am I old enough to have a 65 yr old dad lol) and Star Trek 2morrow
+Annotation from annotator: 3
+
+Example 26:
+Text: trying to make my youngest sleeping
+Annotation from annotator: 2
+
+Example 27:
+Text: so dose anyone remember that Ketchup song by Las Ketchup that song is so old but its cool twitter me if u remember it
+Annotation from annotator: 2
+
+Example 28:
+Text: im falling in love with eddy from pearl jam <3 but he's too old for me   www.myspace.com/Zoe_Suicide
+Annotation from annotator: 2
+
+Example 29:
+Text: @teeeeeef hahahaha!  Oh my God!!!  Can I come eat with you?  I'll cook some good old fashioned mac n' cheese with fancy dijon ketchups.
+Annotation from annotator: 2
+
+Example 30:
+Text: @helpmefred one of our favorite places Chris and I went to the old Founders Plaza on our first date! Mavis likes it too
+Annotation from annotator: 2
+
+Target Example:
+Text: Mommy home. Baby out. Me go sleep. Have to drive nigh crippled old man around for 12 hrs tomorrow. Then work 'til 10.  wah
+Annotation from annotator:

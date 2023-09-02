@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's important to give helpful feedback to someone who doesn't pass their driver's license test.
+Annotation from annotator: 4
+
+Example 2:
+Text: You shouldn't do drugs.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's fine to establish rules for how long your rommates can have company stay.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's wrong to do drugs with your partner.
+Annotation from annotator: 2
+
+Example 5:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't walk around in the rain, you might get sick.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to have people you can use to improve yourself.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's wise to never let yourself get embarrassed by your significant other.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's considered juvenile to hate people without a good reason.
+Annotation from annotator: 3
+
+Example 10:
+Text: Businesses should treat customers with courtesy if they expect them to return.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's important to respect the culture of other people.
+Annotation from annotator: 3
+
+Example 12:
+Text: Partners are expected to want to spend a good amount of time with each other.
+Annotation from annotator: 3
+
+Example 13:
+Text: People shouldn't lie about who they are.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's good for a mom to care about their children.
+Annotation from annotator: 4
+
+Example 15:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to want to kill yourself.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is wrong to value a substance more than your significant other
+Annotation from annotator: 4
+
+Example 18:
+Text: It's understandable that you don't want to be burden by other people's moments in their lives.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's normal to want to clear up space.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's good to want to have the admiration of your peers.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's wrong to be sick of life.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's not okay to expect more than a person can give.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's bad to prematurely quit because of frustration.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's OK to be wrong.
+Annotation from annotator: 3
+
+Example 25:
+Text: You should be able to give criticism to your friends.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's not necessary to be strong
+Annotation from annotator: 2
+
+Example 27:
+Text: It's bad to smoke.
+Annotation from annotator: 4
+
+Example 28:
+Text: You should expect to get caught when you lie to people.
+Annotation from annotator: 3
+
+Example 29:
+Text: You have to do whatever is necessary in an emergency situation.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's responsible to take part in rearing a younger sibling.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's bad to leave school without letting someone know where you're going.
+Annotation from annotator:

@@ -1,0 +1,125 @@
+Example 1:
+Text: Dear @Harry_Styles, thanks for your constantly help. Now there's a survivor so much stronger than he was before. Kindly follow me? — 5,610
+Annotation from annotator: 0
+
+Example 2:
+Text: Notice some comments being heavinly brigaded here
+u/azavii shut it down
+Annotation from annotator: 0
+
+Example 3:
+Text: What did the Muslim guy say before bombing the NYSE Headquarters? "Allahu Stock-Bar!"
+Annotation from annotator: 2
+
+Example 4:
+Text: What was the worst ending to a great show?
+Annotation from annotator: 0
+
+Example 5:
+Text: How do you get 11 million Africans to follow you? Promise you will kill them, after realizing they are black they will want to die.
+Annotation from annotator: 2
+
+Example 6:
+Text: The reason liberals become teachers and social workers is because other occupations are not as accepting towards people who live in the fantasy world of political correctness and non-factual thinking .
+Annotation from annotator: 2
+
+Example 7:
+Text: Chapter one: Women are almost indistinguishable from trolls.
+Annotation from annotator: 2
+
+Example 8:
+Text: what does a k <elong> member say during training i 'm getting the hang of it
+Annotation from annotator: 2
+
+Example 9:
+Text: what does a kid with no hands want for christmas ? to die
+Annotation from annotator: 2
+
+Example 10:
+Text: Huntington Texas where laws change daily, and you do not have be informed. 
+Annotation from annotator: 1
+
+Example 11:
+Text: I'm in fact more ambitious than the Nazis, because I plan on physically removing somewhere around 100 million "people".
+Annotation from annotator: 2
+
+Example 12:
+Text: Weird decision for the SEC to transfer all of their powers to basketball after losing one stinking game to Clemson but that's life I guess
+Annotation from annotator: 0
+
+Example 13:
+Text: What's your favorite #retro gaming console? For me, it's the Game Boy/Color and the NES/N64. Weird how N64 is considered a retro console now
+Annotation from annotator: 0
+
+Example 14:
+Text: why do black people only have nightmares ? because we killed the only one that had a dream .
+Annotation from annotator: 2
+
+Example 15:
+Text: "can I ever just live...every time I do something ""damn u bougie"" you this... you just tryna- BITCH CAN I LIVE &#128514;"
+Annotation from annotator: 2
+
+Example 16:
+Text: RT @ImNeverChillin: Any bitch that tell you "I normally don't do this" get ready for the best head/pussy you've ever got
+Annotation from annotator: 2
+
+Example 17:
+Text: why do octopuses have 8 tentacles? God only had 8 humans on earth at the time
+Annotation from annotator: 1
+
+Example 18:
+Text: Male coworker:: What are you majoring in? Me (queer woman):: Women studies Male coworker:: Oh, I took some women studies courses in college. Our male employer:: HAH!  Oh, I BET you did.  (nudging my coworker and winking) My first day job training as a summer camp art director. Age 21 in Washington. Made me intensely conscious of my body and gender presentation.  Treated as inferior.  Some parts of my identity don't even exist.  I am enraged.
+Annotation from annotator: 1
+
+Example 19:
+Text: Is someone an incel if you have an ugly face but ok body?
+Annotation from annotator: 0
+
+Example 20:
+Text: Where's all my bitches....where did they goooo?
+Annotation from annotator: 1
+
+Example 21:
+Text: Heard about the shooting in Jacksonville? One of my favourite online gamers unfortunately passed away there. Sucks Katz had to kill himself though. Even if he wasn't good at Madden, a K/D ratio of 2/1 would have been fantastic in CS.
+Annotation from annotator: 1
+
+Example 22:
+Text: Need an outlet for your anger? Sometimes have an uncontrollable itch to hit something? Get into boxing! Or get a girlfriend. Same thing.
+Annotation from annotator: 2
+
+Example 23:
+Text: what do nascar <allcaps> and isis <allcaps> have in common ? home depot as a sponsor .
+Annotation from annotator: 1
+
+Example 24:
+Text: If you are white and you are making a mockery of the IfTheyGunnedMeDown tag, STOP. IT DOES NOT BELONG TO YOU. (Not tagging on principle.)
+Annotation from annotator: 2
+
+Example 25:
+Text: I Don't Care Anymore
+Screw it all I'm ugly, there is no point in caring anymore, I will probably end it at some point but for now I LDAR.
+Annotation from annotator: 1
+
+Example 26:
+Text: Women comedians only talk about sex
+It's proof of how much of a joke they are as a human being
+Annotation from annotator: 2
+
+Example 27:
+Text: Daily Reminder Women are So Stupid They will Fuck 50 Guys and then Wonder Why Men don't See Value in Them
+Annotation from annotator: 2
+
+Example 28:
+Text: We dont need to sell arms to the Saudis anymore. They already have plenty in the consul's garden.
+Annotation from annotator: 2
+
+Example 29:
+Text: Calling for more sexism against women in a field because they call out sexism in that field is blowing my fucking mind right now,
+Annotation from annotator: 1
+
+Example 30:
+Text: I'm not the type to fight no bitch over a nigga im the type to say fucc that &amp; take his Bitch &#9995;&#128514;&#128527;
+Annotation from annotator: 2
+
+Text: Those countries are much better under a government of terror made by themselves and for themselves .
+Annotation from annotator:

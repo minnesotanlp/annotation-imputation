@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: What a joke, this player has played league football all his career and some clown has now deleted it off, what kind of rules has this been deleted under then? "May be deleted" seems a bit of a poor excuse to me personally, fancy giving me some information as to why this has been deleted then guys?
+Annotation from annotator: 8.0
+
+Example 2:
+Text: I would advise against creating seperate articles for individual characters and stick to the list. Is this what you'd expect a typical encyclopedia to be covering?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: Hi I noticed you speedied and article but not it's talk page? What's the use of leaving the talk page, discussion or no, if you're going to speedy the article?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: I see your point, but my real issue was wanting to add the 'too much trivia' tag as all these 'minor aspects' need to be integrated into the relevant sections (I'll have a go myself if I get time). Isn't it possible to create a 'pop culture references' section and then siphon it off into a separate page when it gets too big?
+Annotation from annotator: 16.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Hi - there are a few issues that I've pointed out at the nomination page. Also, why does your sign link to the talkpage of <url>?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: "Cactus League", eh? Let's see... what does Liebman have in common with the type of pain you might get from a cactus needle?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: Your first attempt at doing this also added a <nowiki>"<url>"</nowiki> line to the article, and that's what triggered the bot.  Perhaps you should get into the habit of using the 'Show changes button?
+Annotation from annotator: 8.0
+
+Example 4:
+Text: I have to say, I've reviewed the suggestions that "year in x" not be piped, and I vehemently disagree. As I note on the [[Wikipedia talk:Piped link|talk page]], "[s]ee [[Lindsay Lohan]] for a good example of why piping is a good thing (a simple [&#91;2003 in film]] in line would create clunky, hard-to-follow writing&mdash;better to use no links at all)." Comment?
+Annotation from annotator: 12.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: I notice that you added a period to the middle of a sentence in the article about <url>. Why?
+Annotation from annotator: 9.0
+
+Example 2:
+Text: Go to <url> and create it like you would a page: just add a little text by putting in a little explanation at the top and adding categories u2014 see <url> for a basic category of this sort, although on a very different subject.  Let me ask, however: are you planning to categorise articles about schools and/or districts, or articles on the cities where they are based?
+Annotation from annotator: 17.0
+
+Example 3:
+Text: That's OK &mdash; I just wondered if you had a new translation that used "on".  Where are you studying philosophy, by the way?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: If the only page you've been visiting is Wikipedia, then it makes sense the viruses would come from here, but if you've been to other sites, they get thrown into the equation. Again, don't you have any anti-virus software?
+Annotation from annotator: 15.0
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: I really would rather use, in English, the one expression "<url>" instead of "<url>," "marz," "<url>," "khaet," "<url>," "eparchia," "ostan," "khoueng," "faritany," "aimag," "tinh"u2014or "<url>" (aka "<url>").  <url> then why should "<url>" not be also?
+Annotation from annotator:

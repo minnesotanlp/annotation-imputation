@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Can you respond to the comments I left on the S&M PR page please. If you are satisfied with the changes, can you tell me if it is qualifiable for FAN and if not for FAN, then for A class status?
+Annotation from annotator: 14
+
+Example 2:
+Text: Please sign comments using four tildes, as I'm not sure who you are...? Which article are you speaking about?
+Annotation from annotator: 17
+
+Example 3:
+Text: Thanks terribly for looking it up. Would it be alright for me to use the new source in Europe, economy section then?
+Annotation from annotator: 21
+
+Example 4:
+Text: To be quite frank it doesn't matter that the quotes don't appear any other place on the internet, the point is that they violate policy by being here and you could always set up a personal website to host them where all you'd have to worry about is fair use and not Wikipedia's stricter requirements. Are there more of these quote/source pages than <url>, <url> and <url>?
+Annotation from annotator: 13
+
+Example 5:
+Text: This is just too confusing...how can a team be an affiliate of the NHL team but not the AHL team?  Especially in a AA hockey league?
+Annotation from annotator: 12
+
+Example 6:
+Text: I don't see any of that in his deletion log.  Would you please find out which one it was as evidence so you're not blindly accusing an admin of deleting something they didn't delete?
+Annotation from annotator: 8
+
+Example 7:
+Text: Sorry, I dont quite remember what we were talking about.  Can you tell me what you were/are confused about?
+Annotation from annotator: 19
+
+Example 8:
+Text: Hi Emily!  Do you have any ideas about a topic yet?
+Annotation from annotator: 22
+
+Example 9:
+Text: Did you notice his recommendation that you do the same?  Let's both take a break, ok?
+Annotation from annotator: 15
+
+Example 10:
+Text: I see you have a BugZilla account. How do you make it so it doesn't show your email to everybody?
+Annotation from annotator: 12
+
+Example 11:
+Text: Yeah, but playtime is over.  Find some articles to edit, yes?
+Annotation from annotator: 8
+
+Example 12:
+Text: That sounds like it may be an improvement. What are those six articles?
+Annotation from annotator: 16
+
+Example 13:
+Text: I just did some edits on it.  Feedback?
+Annotation from annotator: 19
+
+Example 14:
+Text: Ok, that seems acceptable. Did I remove something like that?
+Annotation from annotator: 15
+
+Example 15:
+Text: I've deleted the diagram from the <url> article because, as Curtis Clark points out in <url>, the diagram does not represent the results of the reference it purports to represent. Can't we reproduce an actual diagram from a published reference as "fair use" as long as we properly label & attribute it?
+Annotation from annotator: 14
+
+Example 16:
+Text: I actually went to the long term abuse page right now, and tried to block them, but it seems that those accounts don't exist. Have they been listed incorrectly?
+Annotation from annotator: 13
+
+Example 17:
+Text: It states on the page that it features her, they sample the song, and were going to try and get her to take part in the video... Surely this counts as being featured on the single?
+Annotation from annotator: 13
+
+Example 18:
+Text: Hey, I see you've been contributing! Time to lose the "leaving Wikipedia" box?
+Annotation from annotator: 19
+
+Example 19:
+Text: Also, how does the "revert all edits" function work?  Mainly, what do I put in the box for the secondary confirmation?
+Annotation from annotator: 10
+
+Example 20:
+Text: What would the recommended sequencing be, then?... GAR, then FAR?
+Annotation from annotator: 17
+
+Example 21:
+Text: I wasn't planning on it before I asked you about it. I figured, afterwards, why inquire if the template's really too long as it is?
+Annotation from annotator: 14
+
+Example 22:
+Text: Sorry, almost forgot. After calling me a "child" "uneducated" and making remarks to the effect of "shouldn't be allowed to post on edit Wikipedia" what grounds have you got to stand on to say I've made personal attacks against you by suggesting vandalism?
+Annotation from annotator: 5
+
+Example 23:
+Text: I am the bot owner, and I replied just above your comment, explaining the situation. Is there some other problem, or some other comment I didn't respond to?
+Annotation from annotator: 17
+
+Example 24:
+Text: Thank you, Cremepuff222, for the kind words. :) How have you been?
+Annotation from annotator: 20
+
+Example 25:
+Text: He's back with yet another IP, leaving abusive and harassing messages on my personal talk page as well as here. Is there anything that can be done to end his disruption for good?
+Annotation from annotator: 9
+
+Example 26:
+Text: What a great Marine and patriot. Is he in the L"ist of historically famous Marines"?
+Annotation from annotator: 19
+
+Example 27:
+Text: Richiez, if you are a surgeon, there's a good chance that Intuitive Surgical would bring a robot to your home or office for free so that you could test drive it without further obligation.  What have you got to lose?
+Annotation from annotator: 9
+
+Example 28:
+Text: I don't like the idea of switching the order halfway through, especially as you would you have to decide an arbitrary cut-off point. Perhaps you should raise this on <url>, and see what people think?
+Annotation from annotator: 17
+
+Example 29:
+Text: Yes, ''kaen chokugeki hou'' is exactly right.  Do you have that same NTSC Hong Kong DVD that I do?
+Annotation from annotator: 17
+
+Example 30:
+Text: Mou017ce dawniej sekundnik w ogxf3le nie istniau0142?  A "naciu0105g" czy nie byu0142 rxf3wnieu017c uu017cywany do ''nastawiania''<person>nie tylko do "nakru0119cania" ("''winding''")<person>zegarka?
+Annotation from annotator: 12
+
+Human-rated Examples:
+Example 1:
+Text: I tried to create a similar map for Canada but couldn't get a usable output from the site you used for the Australia map. Could you create a Canadian one?
+Annotation from annotator: 15
+
+Example 2:
+Text: So you see KV, just in case you missed the point, you are in the naughty chair in the naughty corner because of your own baloney, baloney that you bring yourself.  Now, didn't you like that story?
+Annotation from annotator: 1
+
+Example 3:
+Text: Woohoo--279 hits! Hey Scientist, is that an all-time low?
+Annotation from annotator: 9
+
+Example 4:
+Text: Right, I was demonstrating that one could merge <person> with <person>, that option would not appear on players that were not Dual players.  Did anything actually break?
+Annotation from annotator: 10
+
+Example 5:
+Text: I'm gonna go ahead and do it. Thoughts before I proceed?
+Annotation from annotator: 15
+
+Example 6:
+Text: Steineresque! Shall I have a go, or will you?
+Annotation from annotator: 17
+
+Example 7:
+Text: Bureaucrats require a higher level of trust than administrators. Are you actually familiar with what these tasks entail?
+Annotation from annotator: 7
+
+Example 8:
+Text: This is helpful for automatized transfer scripts. By the way, did I get the location tag right on <url> :-) ?
+Annotation from annotator: 19
+
+Example 9:
+Text: Wow! How did you find this?
+Annotation from annotator: 18
+
+Example 10:
+Text: Thanks from me, too &mdash; cheers! I don't suppose you could put copyright and source information on those images, though?
+Annotation from annotator: 20
+
+Example 11:
+Text: Hi. What was wrong with the Autamata page?
+Annotation from annotator: 14
+
+Example 12:
+Text: Great job. Will it be done by next week?
+Annotation from annotator: 20
+
+Example 13:
+Text: Could you clarify this? You're claiming that Betacommand knew before drama exploded onwiki that you were Pickbothmanlol, but did not share that with the community?
+Annotation from annotator: 12
+
+Example 14:
+Text: That's reason to expand the treatment to other painters, not to blank this one.  And you didn't think that there would be more articles on van Gogh paintings?
+Annotation from annotator: 8
+
+Example 15:
+Text: Girne. Sen?
+Annotation from annotator: 12
+
+Example 16:
+Text: Is the new draft at <url> OK with you? Do you have any comments or suggestions?
+Annotation from annotator: 17
+
+Example 17:
+Text: I would like to nominate you for adminship.  Would you accept now?
+Annotation from annotator: 16
+
+Example 18:
+Text: Will you accept that by renominating the article last night you were essentially discarding Delldot's and my previous review, as well as sidestepping Leevanjackson as the primary contributor to that article? If not, why?
+Annotation from annotator: 15
+
+Example 19:
+Text: You're still missing the point. How do the two sites meet <url>?
+Annotation from annotator: 5
+
+Example 20:
+Text: Awesome! What was I doing wrong in the Italian films?
+Annotation from annotator: 17
+
+Example 21:
+Text: No problem. Have you heard anything new about HRE?
+Annotation from annotator: 18
+
+Example 22:
+Text: its - it's - its - Sheesh !  Thanks for fixing :-)  Scary, huh?
+Annotation from annotator: 16
+
+Example 23:
+Text: What about the whole "Heroes as personal feifdom" trip? Or are you ok with that?
+Annotation from annotator: 15
+
+Example 24:
+Text: I look forward to your genre plan. What do you have in mind?
+Annotation from annotator: 18
+
+Example 25:
+Text: That is the standard ARBMAC (Arbitration related to some Macedonian and other Balkan countries) warning.  Still interested in accepting the deal?
+Annotation from annotator: 12
+
+Example 26:
+Text: Your obfuscation of the real issue is disengenuous; I'm rapidly losing respect for you. Is it not Wikipedia's mission to scornfully snub vandalism, which is done instantly, agressively, mercilessly?
+Annotation from annotator: 2
+
+Example 27:
+Text: I don't know, but that doesn't make any sense to me.  What do you think?
+Annotation from annotator: 17
+
+Example 28:
+Text: I think we're going to just have to agree to disagree on whether it is a sub genre or fusion then! Can we at least agree to leave the three genres on Dookie as they are?
+Annotation from annotator: 15
+
+Example 29:
+Text: I see you reverted another image move back to below the accompanying text. Your summary was "add to discussion" - can you explain?
+Annotation from annotator: 14
+
+Example 30:
+Text: Interesting -- strong support promised without any reference to <url>, <url> and <url>?   Not good form, eh?
+Annotation from annotator: 17
+
+Target Example:
+Text: Do you think we're good to go with the proposal, maybe later tonight, or tomorrow? Any other problems with the proposal as it stands?
+Annotation from annotator:

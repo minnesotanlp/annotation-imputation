@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: |style="vertical-align: middle; padding: 3px;" | I've started the Badfinger wiki amd I need help.  You seem to know a lot about them, could you please help out?
+Annotation from annotator: 13
+
+Example 2:
+Text: I seeu2014yes, those can easily be changed back. Would you rather I start a fresh discussion about these?
+Annotation from annotator: 14
+
+Example 3:
+Text: Please explain how that is a personal attack? You do realise that someone critisizing your actions is not the same as a personal attack don't you?
+Annotation from annotator: 3
+
+Example 4:
+Text: Why nominate this for deletion? It was obviously created by someone who didn't know how to use redirects, so would it not be best to just correct it?
+Annotation from annotator: 20
+
+Example 5:
+Text: I kind of agree.  Are you planning on actually editing Wikipedia, or is your whole purpose here to promote this ... study (or whatever it is)?
+Annotation from annotator: 4
+
+Example 6:
+Text: Are you saying that Scotty was being "hot-headed"?  If so, can you please tell us what Scotty did that was "hot-headed"?
+Annotation from annotator: 14
+
+Example 7:
+Text: Stephen's solution certainly isn't optimal. Fancy giving me a basic rundown on the problem here and I'll see if I can devise a more elegant one?
+Annotation from annotator: 14
+
+Example 8:
+Text: Oh, I see that you removed the redirect from District of Columbia and restored the text.  That has redirected to "Washington DC" for about 4 years now, and I've reverted it - if you have something ambitious in mind, please bring it up on one of the talk pages first, okay?
+Annotation from annotator: 9
+
+Example 9:
+Text: Thanks, can we write an article on that ? do you think it is notable enough ?
+Annotation from annotator: 16
+
+Example 10:
+Text: That's OK &mdash; I just wondered if you had a new translation that used "on".  Where are you studying philosophy, by the way?
+Annotation from annotator: 14
+
+Example 11:
+Text: Then maybe admins should focus on copyright infringements and avoid the leader/educator/cop/parliamentarian roles that they cherish so much.  Could 1000 admins handle this?
+Annotation from annotator: 11
+
+Example 12:
+Text: Thanks.  Is Brazil4Linux doing anything particully bad right now?
+Annotation from annotator: 13
+
+Target Example:
+Text: I removed that second paragraph entirely, since the information is covered in the article.  Do you feel that the lead should be larger?
+Annotation from annotator:
+The only valid output is a single integer.

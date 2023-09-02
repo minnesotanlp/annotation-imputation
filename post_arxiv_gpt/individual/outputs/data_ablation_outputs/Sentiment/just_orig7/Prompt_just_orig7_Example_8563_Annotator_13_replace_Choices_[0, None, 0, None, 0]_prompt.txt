@@ -1,0 +1,83 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: @Izzy_Cullen nope, im the old age of 22  what made you think i was younger?
+Annotation from annotator: 2
+
+Example 2:
+Text: @LEXRAE did you know that in old western movies they used to dress whales up like cowboys & taught them how to raise baby dolphins?!
+Annotation from annotator: 3
+
+Example 3:
+Text: @Reetesh most sites dont keep the old scorecards online  no clue man.
+Annotation from annotator: 1
+
+Example 4:
+Text: @billbeckett you should log into the remember maine myspace, for old times sake
+Annotation from annotator: 2
+
+Example 5:
+Text: @bydesign Yay! Now there will be someone to protect the oldest sister.
+Annotation from annotator: 3
+
+Example 6:
+Text: @karina_escobar yay n0w thatz cleared up..ooh cute?h0w old is your niece?minez is 1
+Annotation from annotator: 3
+
+Example 7:
+Text: @maaalisa yes!!! lol but the youngest jonas brother played chip in the broadway show
+Annotation from annotator: 3
+
+Example 8:
+Text: @ndawnis are you ok? so many of your old animals passing away
+Annotation from annotator: 0
+
+Example 9:
+Text: @prplepokadotcow as long as you'll take the 36 yr old who acts like a 4 yr old
+Annotation from annotator: 1
+
+Example 10:
+Text: @tyme my guess is the older ladies on facebook are Mums keeping tabs on their kids. My parents are both on Facebook for just that reason
+Annotation from annotator: 2
+
+Example 11:
+Text: @yidneth Hey you have actually an account - Pris is a good old friend of mine - we see each other not very often  Hugs Pris!
+Annotation from annotator: 3
+
+Example 12:
+Text: Ah watching movies with old computers, what a big improvement between Mac OS 8 and 10
+Annotation from annotator: 3
+
+Example 13:
+Text: Graduation was amazing!  but reminded me how old am getting
+Annotation from annotator: 1
+
+Example 14:
+Text: I came second  my brother won xD afterwards we went to se the colt at my stable  hes not even a week old, so cute :3
+Annotation from annotator: 4
+
+Example 15:
+Text: I can't believe banana baby food would have that kind of effect on a 6month old's digestive system... PeeeeeeeeeU!!!!
+Annotation from annotator: 2
+
+Example 16:
+Text: I found my old account in myspace and i can switch it to profile editor 1.o Yeahs awesome! so yeah i have myspace now. but it's empty yet
+Annotation from annotator: 1
+
+Example 17:
+Text: I'm clearing through old boxes dating back to 8th grade. Yeah, i'm still a packrat. Oh, good memories.
+Annotation from annotator: 3
+
+Example 18:
+Text: I'm really tired...I feel physically tired because my body aches all over...getting old!
+Annotation from annotator: 0
+
+Example 19:
+Text: If you haven't read the book "The Outsider" You should really check it out!!!!! It may be a old book but I think its really good!!!!!!!
+Annotation from annotator: 4
+
+Target Example:
+Text: Just passed a saab older than hers on the thruway. Vt plates
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

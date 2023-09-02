@@ -1,0 +1,6 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Target Example:
+Text: How long have you been in Canada for?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

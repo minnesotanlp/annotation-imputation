@@ -1,0 +1,30 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and be shown the distributional label of how all annotators have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: offensive joke . well , i hope anyway a little black jewish boy says to his daddy , " dad am i more black or jewish ? " " why do you ask ? " , says the dad . the boy says , " well a guy at school has a bike for sale for $ <number> and i ca n't decide if i want to haggle him down to $ <number> or just steal it . "
+ANSWER: 2
+
+2.
+EXAMPLE: cripples what do you call three people in wheelchairs stacked on top of each other ? a vegetable rack .
+ANSWER: 2
+
+3.
+EXAMPLE: mohammed never actually specified that the . <repeat> <number> virgins would be women .
+ANSWER: 2
+
+4.
+EXAMPLE: a white woman and a black man are dancing at a club and after a while things start to get hot and heavy . after some heavy kissing and petting , the woman makes the suggestion that they return to her apartment for the night . when the couple arrives at the woman ’s apartment , they begin passionately kissing and undressing each other , preparing to have frenzied and unrepentant sex with each other . however , the white woman , curious as she was , asked the black guy as he was taking off his pants , “ before you take them off … .is it true what they say about black guys ? ” with a suave yet sinister look , he looked into her eyes and said “ baby , of course . ” he then proceeded to stab her and ran out with her purse .
+ANSWER: 2
+
+Here's how the distributional label of how all annotators have annotated the target example:
+92.41% of people responded with 0
+7.26% of people responded with 1
+0.33% of people responded with 2
+
+How would the particular annotator annotate the target example?
+EXAMPLE: protesting the national anthem . why do athletes protest the national anthem ? to spread the message of hypocrisy in our government . why did stevie wonder protest the national anthem ? " o say can you see ? "
+ANSWER:

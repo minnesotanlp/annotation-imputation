@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Respectfully, you've replied to the message below mine a day ago now. Could you provide guidance for my request please?
+Annotation from annotator: 16
+
+Example 2:
+Text: I would advise against creating seperate articles for individual characters and stick to the list. Is this what you'd expect a typical encyclopedia to be covering?
+Annotation from annotator: 16
+
+Example 3:
+Text: I don't want to be your enemy. What can I do to help this situation?
+Annotation from annotator: 20
+
+Example 4:
+Text: Not exactly clear what you mean: Wisconsin CDPs are just like CDPs in the rest of the country, and they already have <url>.  Or do you mean something that I'm missing?
+Annotation from annotator: 16
+
+Example 5:
+Text: Huaiwei,  there is this guy HkCaGu who insist that we shouldnt put Tianjin as one of Xiamen Airline's destination from Singapore just because it passes by Xiamen(MF's HUB) however, this is a direct flight from singapore to tianjin via xiamen. what are your views?
+Annotation from annotator: 16
+
+Example 6:
+Text: One deleteable article at a time, please.  This is a <url> G4;  do you agree, and if not, why not?
+Annotation from annotator: 16
+
+Example 7:
+Text: Just wondering, is there any reason why you removed categories from a number of articles and replaced them with the non-existend <url>. Wouldn't <url> have been the better choice, which, as it appears, is a category you yourself created a few days ago?
+Annotation from annotator: 16
+
+Example 8:
+Text: This is what you wrote: "In the book 'Inventing Elliot' written by Graham Gardener, the book, 1948 is mentioned numerous times." What book, 1948??
+Annotation from annotator: 12
+
+Example 9:
+Text: The specific claim of Boyer's that you included and I deleted was that "cauchy based infinitesimals on limits".  Did you see anybody else saying this?
+Annotation from annotator: 12
+
+Example 10:
+Text: I was wondering why I couldn't edit the list of micronations article to correct the alphabetical order. was I blocked?
+Annotation from annotator: 16
+
+Example 11:
+Text: Thank you for deleting the attack page I tagged.  Should <url> be blocked for creating it?
+Annotation from annotator: 20
+
+Example 12:
+Text: Regarding <person>, you've made this a Beta - In Use template since January. Is there any hope of making it live at some point in the near future?
+Annotation from annotator: 15
+
+Example 13:
+Text: Can you help with this user: http://en.wikipedia.org/wiki/Special:Contributions/Wallak I suspect that it is sockpuppet of banned user Bonaparte and he vandalizing various articles related to Romanians and Vlachs. Can we do something about it?
+Annotation from annotator: 16
+
+Example 14:
+Text: Did you notice his recommendation that you do the same?  Let's both take a break, ok?
+Annotation from annotator: 16
+
+Example 15:
+Text: Regarding <url>: <url> seems to say the exact opposite (that links on a dab page should ''not'' be through redirects). The page is at <url>, so shouldn't that be how it's linked on the dab page?
+Annotation from annotator: 12
+
+Example 16:
+Text: What is your take on <url>?  And is there a guideline or policy stated somewhere that covers this?
+Annotation from annotator: 16
+
+Example 17:
+Text: Yes, I have. Did you really need to send me a reminder?
+Annotation from annotator: 8
+
+Example 18:
+Text: Given the comments <url> (saying that Ganglia also should be added to the bypass list), and the fact that there are about 10 WMF projects, wouldn't it be more effective if there was only a "whitelist" for adding the WMF projects (which all have a secure version), such as Wikipedia, Wikiversity, Wikinews, Wiktionary, etc? Or would there be some drawbacks in doing this?
+Annotation from annotator: 12
+
+Example 19:
+Text: "a low straggling house" whose rooms were "pretty and decorated xe0 la franxe7aise" ...two of the 19th-century NYTimes citations you removed are the sources for the quotations cited here ... now the quotations don't have references. Would you please put them back?
+Annotation from annotator: 16
+
+Example 20:
+Text: Erica, I understand you are a figure skating enthusiast. Are you still active in those types of articles?
+Annotation from annotator: 16
+
+Example 21:
+Text: The page is getting smacked literally every half minute or so, and I think the joke's worn thin. Give us a break?
+Annotation from annotator: 8
+
+Example 22:
+Text: Where did you learn English? How come you're taking on a third language?
+Annotation from annotator: 12
+
+Example 23:
+Text: Just wondering why removed death material? Perhaps another article on his death and circumstances- legacy?
+Annotation from annotator: 16
+
+Example 24:
+Text: The logo gallery on the <url> article is acting very strange. Can you help me with this?
+Annotation from annotator: 16
+
+Example 25:
+Text: I'll unblock you if you give me some confirmation you've understood this and you are prepared to discuss the article through the proper channels, calmly and politely. So, cool down please, okay?
+Annotation from annotator: 16
+
+Example 26:
+Text: Hi Emily!  Do you have any ideas about a topic yet?
+Annotation from annotator: 16
+
+Example 27:
+Text: I tried to create a similar map for Canada but couldn't get a usable output from the site you used for the Australia map. Could you create a Canadian one?
+Annotation from annotator: 16
+
+Example 28:
+Text: Question: Is the purpose of the name parameter to show the name of the person as listed at the linked site, or is it to write in whatever the editor thinks he name should be shown as (i.e. damn the sources)?
+Annotation from annotator: 12
+
+Example 29:
+Text: yes, but we are hardly debating that edit that hasnt stood in the last few days anywway and certainly isnt an issue right now. What of that edit do you currently object to with such vehemence?
+Annotation from annotator: 8
+
+Example 30:
+Text: I have noticed that you added the reference to him living in NZ. Do you know anymore?
+Annotation from annotator: 12
+
+Target Example:
+Text: Is <url> what you're referring to??  '''''One''''' autograph page that he deleted almost '''''five months''''' ago and you're now attacking him as if he deleted every single autograph book ever?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

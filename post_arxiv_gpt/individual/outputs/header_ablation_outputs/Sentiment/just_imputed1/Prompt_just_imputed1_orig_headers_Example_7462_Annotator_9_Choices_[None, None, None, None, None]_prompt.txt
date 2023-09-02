@@ -1,0 +1,122 @@
+Example 1:
+Text: I think I'm going to take a walk to the hunny store and see my old pal Judith!
+Annotation from annotator: 2
+
+Example 2:
+Text: @emjaystar That is cute, well done young lady.
+Annotation from annotator: 2
+
+Example 3:
+Text: duuuude!!! i cant wait for the 90210 finale! jim walsh is dying!! i miss the old 90210
+Annotation from annotator: 2
+
+Example 4:
+Text: off to spend my morning with 5 year olds...my favorite is the tiny one with the big brown eyes
+Annotation from annotator: 2
+
+Example 5:
+Text: @CountryGirlND by the way... happy birthday you old bat  love ya
+Annotation from annotator: 2
+
+Example 6:
+Text: @JMIKE3 U no that little prob with ur twitter that happen @ that old pep resteraunt! mayb this will help u fix it
+Annotation from annotator: 2
+
+Example 7:
+Text: @thephatkat I know im old  u dont have to rub it in hee hee
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6pa1n - old pic, but cute. i miss my hair
+Annotation from annotator: 2
+
+Example 9:
+Text: don't ask my why i have a new account...it's cuz twitter is LAME and my old one got deleted somehow.  wah wah wah
+Annotation from annotator: 2
+
+Example 10:
+Text: Great day seeing old friends and catching up
+Annotation from annotator: 3
+
+Example 11:
+Text: No one wants to hang out with an old lady
+Annotation from annotator: 0
+
+Example 12:
+Text: @elberke12 Lazy Friday? Are those allowed at debtwire?!? Back in the good old days they certainly weren't
+Annotation from annotator: 2
+
+Example 13:
+Text: gah!!! i am so confused i sent my class schedule to the wrong lady  oops but the new lady sent it to the old one and the old one wants to
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished balling wit some kids from around my block. I'm officially old lol. SB: someone entertain me - my bff is out of town
+Annotation from annotator: 1
+
+Example 15:
+Text: http://twitpic.com/67rzo the new http://twitpic.com/4unxw the old one   going to go walk them and have dinner..will be back
+Annotation from annotator: 2
+
+Example 16:
+Text: according to this http://bit.ly/b6mPa  I will be 10000 days old in 8 days. time to celectrate  #fb
+Annotation from annotator: 2
+
+Example 17:
+Text: @Luvschweetheart Work and laundry here today so no need for sun.  And the youngest goes to the sitters so solitude awaits me.
+Annotation from annotator: 2
+
+Example 18:
+Text: @revilo2002 nah, she went to bed early and her room is far away from where we were - the older two were awakened only
+Annotation from annotator: 2
+
+Example 19:
+Text: Recently retouched. http://tinyurl.com/ljoboh  Finally got it to work, I think.  An old dog can learn new tricks, see?
+Annotation from annotator: 2
+
+Example 20:
+Text: miss my old days when i'm in 2nd grade
+Annotation from annotator: 2
+
+Example 21:
+Text: Weather z nt changin..itz same old fckin hot weather thn too m sneezing
+Annotation from annotator: 2
+
+Example 22:
+Text: dont miss the new tom hanks one "Angels and demons" guys! what a great movie... he looks much more older, but still 1 of my fav. actors
+Annotation from annotator: 2
+
+Example 23:
+Text: @BeauGiles since when do you care?  you should look up an old CH10 show called 'Breakers' for the male version
+Annotation from annotator: 1
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of an 75 year old!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to hearing how u host a 5oth & 2nd year old party in the same day  u r good! @TammyBurnell enjoy the moments
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 27:
+Text: so early to be up, 7:15, I guess I am getting old! old people can't sleep
+Annotation from annotator: 2
+
+Example 28:
+Text: im gonna miss that halo-halo man in my old school.  the ube on top.yum.
+Annotation from annotator: 2
+
+Example 29:
+Text: @teruist Also, aggravating to know they can make oldschool vkei in PARODY but we struggle to try
+Annotation from annotator: 2
+
+Example 30:
+Text: @herathcrush: its a girl. They have 4 girls now  The 2 oldest are teens and the 3rd is 7 yrs old.
+Annotation from annotator: 3
+
+Text: I feel old  not yet graduated....
+Annotation from annotator:

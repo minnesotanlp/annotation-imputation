@@ -1,0 +1,122 @@
+Example 1:
+Text: It's okay to try and believe in a higher power when going through tough times
+Annotation from annotator: 3
+
+Example 2:
+Text: You don't have to buy your family any gifts if you don't want to.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's potentially deviant to play games that result in outcomes involving physical interaction.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's good to care about seeing someone you care about.
+Annotation from annotator: 3
+
+Example 5:
+Text: People are expected to love their family.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to spend time with your partner.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's understandable if you're hurt when your partner doesn't like your cooking.
+Annotation from annotator: 3
+
+Example 8:
+Text: You shouldn't call people liars
+Annotation from annotator: 3
+
+Example 9:
+Text: It is expected that you put time and effort into your work.
+Annotation from annotator: 3
+
+Example 10:
+Text: You shouldn't listen to the communist manifesto because it's wrong.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's not okay to go overboard trying to impress someone.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's understandable if you're annoyed when your friends sleep in your bed.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's irrational to expect AI to become future overlords.
+Annotation from annotator: 2
+
+Example 14:
+Text: It's okay to be worried about someone you care about.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's nice to make decisions.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's okay to be sad about bad things that have happened to you.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is understandable to want your significant other to work and take care of you.
+Annotation from annotator: 2
+
+Example 18:
+Text: It is not okay to cheat on others.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's not safe to drive if you can't see
+Annotation from annotator: 4
+
+Example 20:
+Text: It's OK to not be attracted to someone based on their race.
+Annotation from annotator: 3
+
+Example 21:
+Text: Family should not interfere with a personal relationships.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to put up an antenna so you can get free TV.
+Annotation from annotator: 3
+
+Example 23:
+Text: You should report someone who sexually harasses you to the police.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's not okay to say things to people that are embarrassing.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's rude to let your bad marriage discourage other people's marriage.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's wrong to cheat on your partner.
+Annotation from annotator: 4
+
+Example 27:
+Text: If you can't empathize with people, you should get some therapy.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's rude to stereotype others because of their national origin.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's expected that you won't throw chemicals in people's eyes.
+Annotation from annotator: 4
+
+Example 30:
+Text: You shouldn't idolize family members.
+Annotation from annotator: 3
+
+Text: It's good to go out and have fun with your kids.
+Annotation from annotator:

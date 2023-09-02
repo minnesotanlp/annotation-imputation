@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "Estimated Examples:\nExample 1:\nText: It's wrong to love people who are engaged.\nAnnotation from annotator: 3\n\nExample 2:\nText: You shouldn't be a dangerous person.\nAnnotation from annotator: 3\n\nExample 3:\nText: It's wrong to tip the bowl of the food item you're giving to your customer to take home.\nAnnotation from annotator: 3\n\nTarget Example:\nText: It's bad to leave school without letting someone know where you're going.\nAnnotation from annotator:"
+    }
+]

@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+How annotator A has labeled some examples:
+Example 1:
+Text: It's not okay for parents to be emotionally attached to their kids personal lives.
+Annotation from annotator: 3.0
+
+Example 2:
+Text: It’s important to have hobbies.
+Annotation from annotator: 3.0
+
+Example 3:
+Text: It's good to find proof of cheating you perceive to be happening.
+Annotation from annotator: 3.0
+
+Example 4:
+Text: You shouldn't play pranks on your classmates.
+Annotation from annotator: 3.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: You should expect people to be scared of you if you're big and muscular.
+Annotation from annotator: 2.0
+
+Example 2:
+Text: It's understandable to want friends and family around when getting a medical operation.
+Annotation from annotator: 3.0
+
+Example 3:
+Text: You should always know why you do things.
+Annotation from annotator: 3.0
+
+Example 4:
+Text: It's rude to support one person more than another.
+Annotation from annotator: 2.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: It is wrong to value a substance more than your significant other
+Annotation from annotator: 3.0
+
+Example 2:
+Text: You should always try to mediate your parent's arguments.
+Annotation from annotator: 0.0
+
+Example 3:
+Text: It's not necessary to be strong
+Annotation from annotator: 2.0
+
+Example 4:
+Text: You shouldn't expect people to do all their chores.
+Annotation from annotator: 1.0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: It is okay to only want to hang out with certain people.
+Annotation from annotator:

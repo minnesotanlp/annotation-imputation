@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It's good to be happy for your friends.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's desirable for people to be understanding in communications to those who speak English as a second language.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should laugh it off when someone does something embarrassing by mistake.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's hurtful when family members cut you out of their lives.
+Annotation from annotator: 3
+
+Example 5:
+Text: If you know that someone is cheating on their spouse, it is sometimes okay to tell the other person.
+Annotation from annotator: 3
+
+Example 6:
+Text: It is foolish to depend on items to make you happy.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's expected that you'll try to find a lost cat's owner.
+Annotation from annotator: 3
+
+Example 8:
+Text: It is normal to not want to be around your girlfriend after she insulted you.
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't do something that would make social services show up.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to do bonding activities with your parents that involve areas of mutual interest
+Annotation from annotator: 3
+
+Example 11:
+Text: It's okay to treat others how they treat you.
+Annotation from annotator: 2
+
+Example 12:
+Text: It is good to try to seek the culprit of the problem.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is rude to ignore someone.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should take control of your love life and find love yourself.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's expected that you ask your mother how to cook things.
+Annotation from annotator: 2
+
+Example 16:
+Text: You should be careful so that you don't encounter dangerous people.
+Annotation from annotator: 3
+
+Example 17:
+Text: You should be hurt if someone does not invite you to their wedding because you are gay.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's nice to have friends.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's okay to be angry at your roommate.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's good to admit that you are wrong.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should tell your coworkers the truth.
+Annotation from annotator: 3
+
+Example 22:
+Text: You should use cups when you don't need a bottle.
+Annotation from annotator: 2
+
+Example 23:
+Text: It is wrong to take video games too seriously.
+Annotation from annotator: 2
+
+Example 24:
+Text: You should take your responsibilities seriously
+Annotation from annotator: 3
+
+Example 25:
+Text: It is unfortunate to go through a divorce if you are still in love.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's rude to tell someone to stop sitting by you.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's acceptable to teach children bad words in a controlled environment.
+Annotation from annotator: 2
+
+Example 28:
+Text: it's important to visit your family.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay to cry at sad movies.
+Annotation from annotator: 3
+
+Example 30:
+Text: It is wrong to lie to people about your sexual identity.
+Annotation from annotator: 2
+
+Human-rated Examples:
+Example 1:
+Text: You shouldn't tell someone what to do.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's okay to mourn.
+Annotation from annotator: 4
+
+Example 3:
+Text: It is good to be yourself.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's wrong to harm your body through the use of substances.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is expected to have a party for your birthday.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't give out any personal information over the phone.
+Annotation from annotator: 2
+
+Example 7:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's understandable to follow knowledgeable advice.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is bad to do drugs.
+Annotation from annotator: 2
+
+Example 10:
+Text: You should not go against someone's wishes for how they want to celebrate their birthday.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should be careful not to drop things.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's wrong to trivialize someone else's health condition.
+Annotation from annotator: 2
+
+Example 13:
+Text: You shouldn't take on a lead role at your ex's funeral since that lead role should be for their family or current partner.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is bad to enjoy pain.
+Annotation from annotator: 2
+
+Example 15:
+Text: You shouldn't dig up someone's awful past.
+Annotation from annotator: 2
+
+Example 16:
+Text: You shouldn't be friends with someone of the opposite sex if you're married.
+Annotation from annotator: 1
+
+Example 17:
+Text: It's fine to join whatever religion you prefer.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's hurtful to pretend to care about someone when you don't.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's okay to miss someone you love.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's good to want to do the things it takes to start a grown up life.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's not okay to not look for something constructive to do.
+Annotation from annotator: 1
+
+Example 22:
+Text: It is important to feel safe.
+Annotation from annotator: 4
+
+Example 23:
+Text: It is surprising when you learn that something you own is very valuable.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good to find common bonds and camaraderie with strangers.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's hurtful to break up with someone.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's expected that work is boring.
+Annotation from annotator: 2
+
+Example 27:
+Text: It's wrong to take unwarranted sick days.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's important to look at the instructions when you get a new kitchen appliance.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's not smart to tell people the things that you don't like about them.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's good to apologize for bad behavior.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's normal to feel affection towards your pet that includes kissing.
+Annotation from annotator:

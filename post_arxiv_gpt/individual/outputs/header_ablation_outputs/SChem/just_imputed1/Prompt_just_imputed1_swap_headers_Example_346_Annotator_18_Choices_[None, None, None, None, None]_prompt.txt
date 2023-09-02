@@ -1,0 +1,122 @@
+Example 1:
+Text: It's understandable if you can't keep your political leanings out of your religion lectures.
+Annotation from annotator: 1
+
+Example 2:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 3
+
+Example 3:
+Text: It is ok to live with a roommate of the opposite sex if you are just friends.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is dangerous for a grandparent to risk a fall.
+Annotation from annotator: 4
+
+Example 5:
+Text: You should be grateful when someone does nice things for you.
+Annotation from annotator: 4
+
+Example 6:
+Text: It is okay to know what you want from a partner.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's expected that families will not get along well with their in-laws.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's bad to make big purchases behind your significant other's back.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's bad to hate your family.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's expected that the husband pay child support.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should always respect your partner's wishes.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's okay to be offended when your partner doesn't want you cooking for their kids.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's wrong to value things over people.
+Annotation from annotator: 4
+
+Example 14:
+Text: You have to do whatever is necessary in an emergency situation.
+Annotation from annotator: 4
+
+Example 15:
+Text: It is good to have friends who are there for you.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's not normal to dislike everybody
+Annotation from annotator: 4
+
+Example 18:
+Text: It is distracting to pin everyone in an admin team on a discord server.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's wrong to be into something that is annoying.
+Annotation from annotator: 2
+
+Example 20:
+Text: You shouldn't expect your ex to not have sex after the relationship is over.
+Annotation from annotator: 4
+
+Example 21:
+Text: You shouldn't care who your friends hook up with.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's expected that girlfriends will want to look out for their boyfriends.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's good to have friends you can joke around with.
+Annotation from annotator: 4
+
+Example 24:
+Text: It is good to have rules.
+Annotation from annotator: 4
+
+Example 25:
+Text: People shouldn't assume it's okay to take something just because it's not nailed down.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's understandable to want to ruin your ex's new relationships.
+Annotation from annotator: 1
+
+Example 28:
+Text: Couple should work together to solve problems
+Annotation from annotator: 4
+
+Example 29:
+Text: It is good to be remorseful and admit when you've done wrong
+Annotation from annotator: 4
+
+Example 30:
+Text: It's wrong to assume someone has a disability because they talk differently.
+Annotation from annotator: 3
+
+Text: It's normal to want to clear up space.
+Annotation from annotator:

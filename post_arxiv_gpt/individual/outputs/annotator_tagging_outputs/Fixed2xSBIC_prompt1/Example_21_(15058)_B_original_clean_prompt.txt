@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Why are new users automatically subscribed to twoxchromosomes but not mensrights also?
+Annotation from annotator: 0
+
+Example 2:
+Text: Clay's mom is annoying and Hannah's Dad is an asshole
+Annotation from annotator: 0
+
+Example 3:
+Text: Here is a synosis I just found on google : There is much more to this as I hope to show when my package arrives .
+Annotation from annotator: 0
+
+Example 4:
+Text: As if both our brothers have been excluded this week for being idiots &#128514;&#128514;@ellieglover_
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Whats difference between victims of 9/11 and peoples that are reading this shit? No one see that coming
+Annotation from annotator: 2
+
+Example 2:
+Text: Girl:: *says something about Gangnam Style and gets Psy's ethnicity incorrect* Me:: Psy is Korean. Girl:: So what? Chinese, Korean, Japanese - they're all the same! Me:: No, they're not. They are three different countries. Girl:: Whatever! I don't care; it doesn't matter. Said by a white girl in English class to me, a Chinese girl. Made me feel frustrated and angry.
+Annotation from annotator: 0
+
+Example 3:
+Text: How many black people does it take to lay a roof? Depends how you slice em’
+Annotation from annotator: 2
+
+Example 4:
+Text: What's an Arabic's favorite bathroom accessory? a bath bomb
+Annotation from annotator: 2
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Do you know why you can’t find a black faced smiley ? It’s because black people are not allowed to have emotions .
+Annotation from annotator: 2
+
+Example 2:
+Text: It is in the nature of Jews to desecrate traditions of all sorts and push our women to make fools of themselves .
+Annotation from annotator: 2
+
+Example 3:
+Text: Pretend assholes callin the women bitches when they know they love em lol..
+Annotation from annotator: 2
+
+Example 4:
+Text: Your manager calls you into the office and you get fired. You leave the office and everyone on the floor is clapping What do you do? &#128514;&#128555;&#129315;
+Annotation from annotator: 0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: which one of these two was hitler 's punchline ? make germany great again or feel the burn ?
+Annotation from annotator:

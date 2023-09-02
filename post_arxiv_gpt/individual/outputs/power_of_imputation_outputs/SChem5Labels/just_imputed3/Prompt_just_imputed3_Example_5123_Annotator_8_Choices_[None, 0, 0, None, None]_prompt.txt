@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's important to accurately reflect the reputation of others.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's ok to be a baker.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should use cups when you don't need a bottle.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's good to have something in your life that you love with every fiber of your being.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's okay to have violent urges if you never act on them.
+Annotation from annotator: 2
+
+Example 6:
+Text: It is normal for parents to want to help their children
+Annotation from annotator: 3
+
+Example 7:
+Text: It is okay to distance yourself from mean people.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's wrong to say mean things about a recently deceased person
+Annotation from annotator: 3
+
+Example 9:
+Text: You should find a new job if you hate your current one.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to be excited about things.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to be prepared
+Annotation from annotator: 3
+
+Example 12:
+Text: It's wrong to share something that someone has told you in confidence.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't ditch your friend for other people.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's bad to snatch money that doesn't belong to you.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's honorable to donate some of your money to charity now and then.
+Annotation from annotator: 3
+
+Example 16:
+Text: You shouldn't let yourself be taken advantage of.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's wrong to steal.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's important to respect the culture of other people.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's normal to put things in order before you die.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's fine to want to replace something you own.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's bad to talk in class.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's wise to save up money if you're able to.
+Annotation from annotator: 3
+
+Example 23:
+Text: You should get a tumor removed so it doesn't grow and spread.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's understandable to be angry when your partner cheats on you.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is uncomfortable to be constantly checked on by your landlord.
+Annotation from annotator: 3
+
+Example 26:
+Text: You shouldn't hate people just because they're women.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's understandable not to want to be friends with someone who lies to you.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's understandable to be upset when someone mocks your favorite sports team.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's expected that people will leave ex partners in the past
+Annotation from annotator: 3
+
+Example 30:
+Text: It's wrong to snoop on people.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's good to be supportive when your ex gets married.
+Annotation from annotator:

@@ -1,0 +1,122 @@
+Example 1:
+Text: It's rude to make baseless accusations against another person.
+Annotation from annotator: 3
+
+Example 2:
+Text: You can't expect people to do the dishes all the time.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's good to avoid disturbing animals in the wild.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good for a parent to want their children to make the best decisions possible.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's normal to block cell signals in certain environments.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's fine to ban anyone you want to from an online account.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 3
+
+Example 8:
+Text: People will think you're a coward if you refuse to help others.
+Annotation from annotator: 2
+
+Example 9:
+Text: If someone forbids you from doing something, you should respect them.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's wrong to want to hide who you really are.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is wrong to be ashamed of where you have come from.
+Annotation from annotator: 2
+
+Example 13:
+Text: Businesses should treat customers with courtesy if they expect them to return.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's good to want kids to be prepared for life.
+Annotation from annotator: 4
+
+Example 15:
+Text: It is wrong to take video games too seriously.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wise to never let yourself get embarrassed by your significant other.
+Annotation from annotator: 2
+
+Example 17:
+Text: You can't expect your family members to support you if you're lazy.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's acceptable to shun someone who hates people in your group.
+Annotation from annotator: 2
+
+Example 19:
+Text: It’s important to have hobbies.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's bad to hate babies.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's okay to be annoyed when someone begs you for something.
+Annotation from annotator: 3
+
+Example 22:
+Text: You should expect to get caught when you lie to people.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's wrong to want to be a 50's housewife because women back then were oppressed.
+Annotation from annotator: 2
+
+Example 24:
+Text: You shouldn't judge people by how they look
+Annotation from annotator: 3
+
+Example 25:
+Text: It's understandable if you don't want your teacher to express their political leanings.
+Annotation from annotator: 3
+
+Example 26:
+Text: You don't need to accept apologies if you're not ready to move on
+Annotation from annotator: 3
+
+Example 27:
+Text: It's responsible to take part in rearing a younger sibling.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's okay to not feel guilty when you cheat.
+Annotation from annotator: 1
+
+Example 29:
+Text: It's understandable that you don't want to be burden by other people's moments in their lives.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's wrong to do drugs with your partner.
+Annotation from annotator: 2
+
+Text: It's good to look forward to things you can do when you grow older.
+Annotation from annotator:

@@ -1,0 +1,7 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Target Example:
+Text: I looked at <url> and at <url>, which says in part '' Contentious material about living persons that is unsourced or poorly sourcedu2014whether the material is negative, positive, neutral, or just questionableu2014should be removed immediately and without waiting for discussion.<url>'' I guess the question is, what is contentious?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

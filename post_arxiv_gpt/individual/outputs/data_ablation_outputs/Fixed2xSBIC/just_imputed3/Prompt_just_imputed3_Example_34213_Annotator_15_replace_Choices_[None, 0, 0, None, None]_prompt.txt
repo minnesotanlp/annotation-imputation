@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: Dark humor is like food Some of you may not understand
+Annotation from annotator: 0
+
+Example 2:
+Text: THAT'S her? She's beautiful! When you said she dated Dave I assumed she'd be a beastly creature!
+Annotation from annotator: 2
+
+Example 3:
+Text: What is the hardest thing about being a pedophile? Washing the blood out of your clown suit.
+Annotation from annotator: 2
+
+Example 4:
+Text: aparrently <number>  of black people enjoy sex in the shower the other <number>  have never been to prison
+Annotation from annotator: 2
+
+Example 5:
+Text: What's the difference between a Jew and water Water comes out of the shower
+Annotation from annotator: 2
+
+Example 6:
+Text: Swear nothing good comes out of a doctors mouth, even the good things sound bad. Like no wonder people hate going to you...
+Annotation from annotator: 2
+
+Example 7:
+Text: "It was an absolute treat to present to the little kiddies about ""Residential School!!"" ....for S.D #75 Sooo cool ❤"
+Annotation from annotator: 0
+
+Example 8:
+Text: How many cops does it take to change a lightbulb None. They just beat the room for being black.
+Annotation from annotator: 2
+
+Example 9:
+Text: What's similar between cooks and trannies They both cut the meat
+Annotation from annotator: 2
+
+Example 10:
+Text: There's no time to discriminate.... Hate every motherfucker that's in your way! &#129303;
+Annotation from annotator: 2
+
+Example 11:
+Text: This is what i observe, why is the artist never text you or chat you back when you chat or text them.they never give attention to us.
+Annotation from annotator: 2
+
+Example 12:
+Text: the kid who i did n't know was autistic . i said this kid 's head looks like a ballsack . this girl tells me " you know that kid 's autistic right ? " and i said , " so why does he talk ? "
+Annotation from annotator: 2
+
+Example 13:
+Text: Plus she made me late this morning cuz she took it to her room and didn't bring it back and I thought I lost it and got pissed for no reason
+Annotation from annotator: 2
+
+Example 14:
+Text: What's the difference between homeless people and rats? Nothing, they both are infestations to big cities
+Annotation from annotator: 2
+
+Example 15:
+Text: I'm so fucking over this and I can't even leave because I'm MCing &#128580;
+Annotation from annotator: 2
+
+Example 16:
+Text: What's green, slimy and smells like pork? Kermit the frogs finger
+Annotation from annotator: 0
+
+Example 17:
+Text: What do you call a muslim girl in a birthday party? Drone target.
+Annotation from annotator: 2
+
+Example 18:
+Text: whenever im stressed or anxious i listen to quran and my playlist really went from surah yunus to the weeknd im going to hell
+Annotation from annotator: 0
+
+Example 19:
+Text: Emily's is so fucking annoying to watch a movie with. Bitch is either talking, making noise, or smacking, like fuck
+Annotation from annotator: 2
+
+Example 20:
+Text: "I've eaten there, I've seen that guy, the old Dago ordering everyone around?" #slurs #fuckthanksgiving
+Annotation from annotator: 2
+
+Example 21:
+Text: California right now is like me on the weekends Blazing it after having some shots
+Annotation from annotator: 0
+
+Example 22:
+Text: everyone is being ugly in OW and I got a shitty loot box,,, it's time to start watching my show
+Annotation from annotator: 2
+
+Example 23:
+Text: Why are catholic priests called father? Coz calling them "Daddy" would be too obvious.
+Annotation from annotator: 2
+
+Example 24:
+Text: What do you call a non violent black person ? Mixed race
+Annotation from annotator: 2
+
+Example 25:
+Text: How to make a Black Man kill himself Tell him KFC is closed
+Annotation from annotator: 2
+
+Example 26:
+Text: 10 flights of stairs to KFC... Niggas be trippin
+Annotation from annotator: 2
+
+Example 27:
+Text: Flash flood warning til 3 am and more heavy rain and wind for tonight. If you must drive, slow and steady for safety☔️
+Annotation from annotator: 0
+
+Example 28:
+Text: what 's the difference between a black man and a park bench ? one can support a family .
+Annotation from annotator: 2
+
+Example 29:
+Text: Dear Utah Polynesians: Again, stop acting black and speaking ghetto. Speak FOB, you ain't no ghetto niggaz.
+Annotation from annotator: 2
+
+Example 30:
+Text: A businesb has to be involving, it has to be fun, and it has to exercise yo r creative instincts. Richard Branson
+Annotation from annotator: 0
+
+Target Example:
+Text: what 's the difference between a jew and a pizza ? a pizza does n't scream in the oven .
+Annotation from annotator:

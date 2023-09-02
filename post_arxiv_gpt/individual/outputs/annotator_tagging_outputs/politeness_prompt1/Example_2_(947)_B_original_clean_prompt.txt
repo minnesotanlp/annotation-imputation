@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Ack, hit the wrong button?  How do you manage that?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: I think the <url> would be more precise and accurate as <url>. What sayest thou?
+Annotation from annotator: 14.0
+
+Example 3:
+Text: Why would one want to re-create GNAA??
+Annotation from annotator: 11.0
+
+Example 4:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation from annotator: 10.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: thank you. any clue what happened?
+Annotation from annotator: 20.0
+
+Example 2:
+Text: I noticed your "Original Research" notation for the section on weights and measures in the article in Liberia. Could you explain in more detail your concern and how it might be remedied?
+Annotation from annotator: 13.0
+
+Example 3:
+Text: Hey, i noiced that the special number in the Quran is 19, and worship is also on the 19th baha'i month. Did i just discover a Baha'i prophecy?
+Annotation from annotator: 12.0
+
+Example 4:
+Text: Greetings, sorry to bother you here... I have been using the MissingTopics tool for years, to generate <url> The last time I used it successfully was Nov 16.  Something must have changed in the algorhythms since then, because it will no longer read any page starting with an Amharic character... Is it broke?
+Annotation from annotator: 20.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: What a joke, this player has played league football all his career and some clown has now deleted it off, what kind of rules has this been deleted under then? "May be deleted" seems a bit of a poor excuse to me personally, fancy giving me some information as to why this has been deleted then guys?
+Annotation from annotator: 8.0
+
+Example 2:
+Text: I would advise against creating seperate articles for individual characters and stick to the list. Is this what you'd expect a typical encyclopedia to be covering?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: Hi I noticed you speedied and article but not it's talk page? What's the use of leaving the talk page, discussion or no, if you're going to speedy the article?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: I see your point, but my real issue was wanting to add the 'too much trivia' tag as all these 'minor aspects' need to be integrated into the relevant sections (I'll have a go myself if I get time). Isn't it possible to create a 'pop culture references' section and then siphon it off into a separate page when it gets too big?
+Annotation from annotator: 16.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: Need help with EF 175 via email. Mind <url> so we can discuss?
+Annotation from annotator:

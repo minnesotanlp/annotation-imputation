@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVn7Y6NeNuijRg4gvZaZwiqLVg8U",
+    "object": "chat.completion",
+    "created": 1686314761,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 555,
+        "completion_tokens": 114,
+        "total_tokens": 669
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "10.00% of responsive annotators labeled the text with 0\n15.00% of responsive annotators labeled the text with 1\n50.00% of responsive annotators labeled the text with 2\n25.00% of responsive annotators labeled the text with 3\n0.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels of the other examples, it seems that this text may be considered controversial or common, but not universal or rare. Therefore, I predict a soft label of 2."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

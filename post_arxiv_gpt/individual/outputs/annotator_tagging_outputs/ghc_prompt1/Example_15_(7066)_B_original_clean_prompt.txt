@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: What happened to her? I'm binge listening to her YouTube videos right now!
+Annotation from annotator: 0
+
+Example 2:
+Text: Are they aware how creepy the guy is?
+Annotation from annotator: 0
+
+Example 3:
+Text: This is why we must stand together and pray together ladies and gents... The demontards want us dead... Not happening ! https://youtu.be/dExIK-Z7Z8E
+Annotation from annotator: 0
+
+Example 4:
+Text: Not everyone believes that Jesus rose from the dead. Some say that Jesus fainted on the cross and regained consciousness in the tomb and then escaped. However, he was dead to the satisfaction of those who had wanted him dead - they never questioned his death. The centurion carrying out the crucifixion knew he was dead, presumably because he wasn't moving. Breathing is tortuous for those who are crucified and they are in constant motion as they struggle to breathe. If Jesus had just fainted on the cross he would have died of asphyxiation within minutes. He ceased moving at around 3 o'clock in the afternoon and was taken down from the cross just before sunset in springtime. A soldier pierced his side with a spear and blood and water came out. 
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: 'The Meme The Gaming Community Created To Label SJW’s Is Pretty Brilliant' 
+Annotation from annotator: 1
+
+Example 2:
+Text: WELL it aint very lady like and in this climate I would not be surprised at all . Plus Malcolm Turnbullshit is a bit of a mincer.
+Annotation from annotator: 0
+
+Example 3:
+Text: Jews seeking to betray whites whenever possible...they "hate nazis" but were "inspired by Brexit and French right wing groups". Does any part of this fiction make sense? 
+Annotation from annotator: 1
+
+Example 4:
+Text: Earl Thomas has every right to be mad at the franchise he led as one of the best defenders of his generation.  https://t.co/BhoLPUWocD
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Woops! So much for Trump being racist 
+Annotation from annotator: 0
+
+Example 2:
+Text: Let's ask the #NFL some serious questions! 
+Annotation from annotator: 0
+
+Example 3:
+Text: RT @obarcala: Iowa Supreme Court pretty much nails the result of Whren, Atwater, and Bertine—when law enforcement has unreviewable discretion to stop, arrest, & search vehicles, the 4th Am warrant requirement is a dead letter for anyone who drives https://kek.gg/u/G3T_
+Annotation from annotator: 0
+
+Example 4:
+Text: "Well I'll ask him but I don't think he'll be very keen. He's already got one. You see?."
+Annotation from annotator: 0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: Know it when you see it! May I suggest the TV series Elementary (5/7) stick to procedural drama and not propaganda by comparing Christian Identity with the Taliban to see how many useful idiots it can conjure. 
+Annotation from annotator:

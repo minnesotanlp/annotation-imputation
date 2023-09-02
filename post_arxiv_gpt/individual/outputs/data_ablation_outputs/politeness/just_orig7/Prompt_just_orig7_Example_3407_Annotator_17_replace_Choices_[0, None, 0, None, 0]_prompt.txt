@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Correct Examples:
+Example 1:
+Text: I really like the template you used at <url> but it dosen't seem to exist on the  WP:Vandalism page. Where can I grab it?
+Annotation from annotator: 16
+
+Example 2:
+Text: <url> is up for deletion. Can you find some sources in Belarusian?
+Annotation from annotator: 16
+
+Example 3:
+Text: It seems <url> has tagged the following baiting articles <url> <url> <url> and <url> with a delete tag out of spite.  It there a  way to remedy this type of poor behaviour ?
+Annotation from annotator: 8
+
+Example 4:
+Text: I have the picture (3D) model of a chemical compound made with Accelrys, but I don't have Photoshop. What can I do?
+Annotation from annotator: 16
+
+Example 5:
+Text: I've been going through <url> and replacing the FiveHorizons.com refs (per Quadzilla99's comments). However, refs 39 and 40 don't seem to appear anywhere else; could you perhaps replace them with more reliable sources if you get the chance?
+Annotation from annotator: 16
+
+Example 6:
+Text: I noticed here <url> you mentioned "horing".  Is that just a spelling typo for "honoring"?
+Annotation from annotator: 18
+
+Example 7:
+Text: BTW, as a complete aside, I have wondered for years why Enver Bey/Pasha is at <url>. What do you think?
+Annotation from annotator: 12
+
+Example 8:
+Text: This is a really sore subject, because most of parents of kids with learning difficulties dont agree with the term "retardation" - it is unscientific and also quite abusive. Could you please delete the category or rename it "learning disability organisations ?
+Annotation from annotator: 8
+
+Example 9:
+Text: Keeping a list of everything bad user:XXX did in your user space is neither constructive nor appropriate. Perhaps we should both focus on the many positive things to do rather than the very occasional misbehavior?
+Annotation from annotator: 7
+
+Example 10:
+Text: ...why not try something a bit more proactive? Now, obviously he's using proxies, but are there no rangeblocks that might make his job harder?
+Annotation from annotator: 16
+
+Example 11:
+Text: You see, I expended quite some time on this, referenced it thoroughly, and thereby resolved a confusion between the medieval <url> and the text by Origen. I just don't understand how there can be a problem here?
+Annotation from annotator: 15
+
+Example 12:
+Text: Holy cow! What happened?
+Annotation from annotator: 12
+
+Example 13:
+Text: Hi Darwi. Just to ask you as curiosity, how did that debate ended?
+Annotation from annotator: 16
+
+Example 14:
+Text: does not fit the criterium for quadratic convergence, as one would get &mu;=0; but it does not converge with a faster rate either. What do you think?
+Annotation from annotator: 20
+
+Example 15:
+Text: You and <url> are getting quite close to an edit war. Perhaps you should talk it out?
+Annotation from annotator: 4
+
+Example 16:
+Text: From looking at the talk page archive, I see you you were a voice of moderation at <url> some time ago.  Care to weigh in there again?
+Annotation from annotator: 16
+
+Example 17:
+Text: If you can remember, would you mind giving a bit more information about this photo e.g. where you took it?
+Annotation from annotator: 17
+
+Example 18:
+Text: Have you received the 1972 Encyclopedia of PNG you mentioned during the discussion about <url>? Was there a detailed entry for Dagora?
+Annotation from annotator: 12
+
+Example 19:
+Text: <url>. Or is it just me?
+Annotation from annotator: 12
+
+Example 20:
+Text: Hi Awadewit,  I hope I've started a discussion at <url>?  Would you like to weigh in there?
+Annotation from annotator: 16
+
+Example 21:
+Text: You deleted this, but somehow it still shows up on the parent category's page <url>.  Is this normal and/or can you fix this?
+Annotation from annotator: 16
+
+Example 22:
+Text: Greetings, I ran across your 2008 article <url>, and the footnotes are done manually vice the usual Wiki way.  Any chance you can go back and fix the footnotes?
+Annotation from annotator: 16
+
+Example 23:
+Text: On a more practical note: One either does or doesn't agree to take part in mediation. Which is it, please?
+Annotation from annotator: 8
+
+Example 24:
+Text: How do I sign up to volunteer for the Missing TV encyclopedia articles project? Do I just add my name to the list of "This project is maintained by...", or something else?
+Annotation from annotator: 16
+
+Example 25:
+Text: Hey ! There is a little problem on that image you uploaded from Lambiek : Caran d'Ache is supposed to be 2 years old in 1860, but his ''moustache'' and tallness let me think he is not so young... Do you know where to find the real date of the picture ?
+Annotation from annotator: 16
+
+Example 26:
+Text: I am stuck with the formatting of <url>, especially the ref tags. How can I make the different chapters of my main source book show up correctly?
+Annotation from annotator: 20
+
+Example 27:
+Text: Thanks. And, what about the <url> about "he drowned" not being reflexive in Spanish?
+Annotation from annotator: 20
+
+Example 28:
+Text: sir.. can i still write an article? do you have any facebook account?
+Annotation from annotator: 16
+
+Example 29:
+Text: Because I haven't seen it; I'm not even sure from the discussion whether it's on or off Wikipedia. Can you supply a link or a reference?
+Annotation from annotator: 15
+
+Example 30:
+Text: Hi, Wereon - I'm afraid I'm rather amateur at nominating articles for deletion. Where do I start?
+Annotation from annotator: 16
+
+Target Example:
+Text: Hi Taivo, I'm beginning to have my suspicions that Fellowscientist might be you-know-who from past debates. Am I being paranoid?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

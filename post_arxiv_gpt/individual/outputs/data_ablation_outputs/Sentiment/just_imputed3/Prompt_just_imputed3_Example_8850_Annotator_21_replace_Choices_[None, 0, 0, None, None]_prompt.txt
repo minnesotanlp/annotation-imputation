@@ -1,0 +1,84 @@
+Estimated Examples:
+Example 1:
+Text: Is happy to be  finally hanging out on the couch with her grandparents.  But old age sucks
+Annotation from annotator: 2
+
+Example 2:
+Text: Just kill me now  back into the old routine LOL
+Annotation from annotator: 1
+
+Example 3:
+Text: My baby is just over a year old,, she's 23lb 13 & 80 cm tall  oh yes she's a tall 1
+Annotation from annotator: 2
+
+Example 4:
+Text: My eldest son visiting today and my youngest tomorrow, how great is that
+Annotation from annotator: 4
+
+Example 5:
+Text: Oh no! Trolling Facebook I learned my elementary school art teacher died on my last birthday. Mrs. Morris was great, and young! So sad
+Annotation from annotator: 2
+
+Example 6:
+Text: The Shaun is getting old because he thought he knew what "getting it in" but just realize he doesn't.
+Annotation from annotator: 1
+
+Example 7:
+Text: Time has not been kind to Casey Kasem's voice, has it?  Dick Bartley sounds the same, but he is younger...
+Annotation from annotator: 1
+
+Example 8:
+Text: Well I havn't tweeted in a while  so yeah.. I'm with Court watching old movies <3 . Gotta love disney!
+Annotation from annotator: 3
+
+Example 9:
+Text: another amazing weekend! i love my friends..but i really really miss my old ones
+Annotation from annotator: 3
+
+Example 10:
+Text: exhausted after my day with a four year old and a four month old.. but i miss them
+Annotation from annotator: 2
+
+Example 11:
+Text: got the twilight board game today  good old ebay..
+Annotation from annotator: 2
+
+Example 12:
+Text: hello you mac people.does anyone know a good gmail widget for the dashboard?my old one isn't working anymore  just a number sucks though.
+Annotation from annotator: 1
+
+Example 13:
+Text: im being depressed cuz i could audition for american idol if i was 8 days older.
+Annotation from annotator: 1
+
+Example 14:
+Text: its 8:53 i'm tired and about to go to bed. i feel old  but its too boring to stay awake.
+Annotation from annotator: 1
+
+Example 15:
+Text: just broke 4 bowls from the old house
+Annotation from annotator: 1
+
+Example 16:
+Text: my little bro is 23 today  i feel old lol
+Annotation from annotator: 1
+
+Example 17:
+Text: preparing to go and meet some old friends.. should be exciting
+Annotation from annotator: 4
+
+Example 18:
+Text: some people just love to be mean to the younger people
+Annotation from annotator: 1
+
+Example 19:
+Text: trying to setup XDCMP login from this WinXP thin client to my old Xubuntu workstation.. the display doesn't refresh entirely..
+Annotation from annotator: 2
+
+Example 20:
+Text: wont let me upload a pic, so im going to back to good old myspace;
+Annotation from annotator: 2
+
+Target Example:
+Text: MANface Ramos you're a 33 year old BUM hitting up 20 year old girls on MySpace.com, so shut those dentures up.
+Annotation from annotator:

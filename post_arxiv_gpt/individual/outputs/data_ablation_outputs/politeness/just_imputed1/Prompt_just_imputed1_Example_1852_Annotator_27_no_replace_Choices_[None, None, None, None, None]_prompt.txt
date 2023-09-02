@@ -1,0 +1,122 @@
+Example 1:
+Text: Will you accept that by renominating the article last night you were essentially discarding Delldot's and my previous review, as well as sidestepping Leevanjackson as the primary contributor to that article? If not, why?
+Annotation from annotator: 14
+
+Example 2:
+Text: Your request just slows down users, without changing what they see. Are you sure that is what you want?
+Annotation from annotator: 12
+
+Example 3:
+Text: I'm pretty sure I didn't violate 3RR unless there's another revert I'm missing.  Does replacing the "/" in <tt>&lt;ref name=missingref /></tt> when replacing a deleted reference count as a revert?
+Annotation from annotator: 13
+
+Example 4:
+Text: Ron - I'm interested in your edit comment here <url>. Your position is that RC is a sufficiently reliable source that anything it mentions is automatically notable?
+Annotation from annotator: 14
+
+Example 5:
+Text: <url>. Or is it just me?
+Annotation from annotator: 10
+
+Example 6:
+Text: Hi, I was wondering why it is that <url> only has two articles in it -- and whether it should be kept. Has it ever been more fully populated?
+Annotation from annotator: 14
+
+Example 7:
+Text: If you're talking about the Recycling Troll, I've never blocked him. Why do you think I have?
+Annotation from annotator: 9
+
+Example 8:
+Text: The block seems to no longer be necessary or productive. If I were to bring a motion to get them unblocked, would you support it?
+Annotation from annotator: 14
+
+Example 9:
+Text: Especially considering that it took you ''a lot'' more time to vandalize the page than the two seconds it took us to fix it. What's the point?
+Annotation from annotator: 7
+
+Example 10:
+Text: Thanks; I was confused by the situation (indeed, I still am), so I had no idea what to do.  One more question: why did you protect Highspeed's talk?
+Annotation from annotator: 12
+
+Example 11:
+Text: Finally your good self ? Alternatively have you considered offering yourself to informally review his further editing (I note he has previously specifically rejected formal mentoring on Dutch Wikipedia), but as an admin who has (at least in part) been more supportive of Guido in past discussions, perhaps he would be willing to accept such a role from yourself ?
+Annotation from annotator: 13
+
+Example 12:
+Text: OK, I will do that. But probably we should first set the gallery up on commons - do you know anything about editing/creating there?
+Annotation from annotator: 13
+
+Example 13:
+Text: Looking through the discussion page history, the addition was made by <url> who is still active on wikipedia. Why not try a message on <url>?
+Annotation from annotator: 14
+
+Example 14:
+Text: Thanks for your assistance in the review of the Brian Keith review at the DYK! The user has cited the Internet Movie Database before?
+Annotation from annotator: 16
+
+Example 15:
+Text: These are getting tagged as orphans and stubs. Are they SIAs, do you think?
+Annotation from annotator: 12
+
+Example 16:
+Text: Staeckerbot has notified me five times so far about the same images - see <url> page history. Perhaps it's because the images in question are edit protected?
+Annotation from annotator: 11
+
+Example 17:
+Text: Thats ok, as long as you verify the copyright as by sending an e-mail, or noting the license on the AEK webpage. That wont be a problem, will it?
+Annotation from annotator: 15
+
+Example 18:
+Text: If you can remember, would you mind giving a bit more information about this photo e.g. where you took it?
+Annotation from annotator: 15
+
+Example 19:
+Text: re: <url> edit. Then let me ask you, what exactly was offensive about them?
+Annotation from annotator: 10
+
+Example 20:
+Text: I don't really see that as a problem. If it's a fringe position why not simply state it as such?
+Annotation from annotator: 9
+
+Example 21:
+Text: You added the name Ken Taylor to the <url> page but there is no such person listed on the DOD website as having received that award. Who were you refering to?
+Annotation from annotator: 11
+
+Example 22:
+Text: <url> is one of the three fundamental Wikipedia content policies; why is it a "shame" you have to follow it? What did you mean by "people like you"?
+Annotation from annotator: 10
+
+Example 23:
+Text: I'm sorry, but there is no discussion on the talk page that indicates that there was a debate about renaming, so the keep vote stands, I'm afraid.  There were nine votes to keep, and only one to merge, so I don't understand how a single vote trumps nine others?
+Annotation from annotator: 13
+
+Example 24:
+Text: I've been trying to convince this user that his only problem is his username, but he doesn't seem to fully believe it.  Would you mind popping over and giving a word or two of encouragement?
+Annotation from annotator: 15
+
+Example 25:
+Text: I am a fairly new admin.  When is it appropriate to use such a block as you did with a user I'd blocked?
+Annotation from annotator: 12
+
+Example 26:
+Text: Thanks; what should I do next time to make it easier, quicker?  Just let you know?
+Annotation from annotator: 16
+
+Example 27:
+Text: Reading your help desk comment, I'm totally confused now. Was it 2005 or 2006?
+Annotation from annotator: 9
+
+Example 28:
+Text: It seems you have been investigating this administrator and have brought up several incidents in your evidence based on that. If possible, could you please link to the feedback that Dreadstar has received as an administrator during/after each of those incidents (and if there was no feedback to any of those incidents, could you please let me know in reply to this)?
+Annotation from annotator: 16
+
+Example 29:
+Text: You told me that you couldn't access the page in question, although I had recently changed the link to its new location. Maybe you just didn't bother to check it out?
+Annotation from annotator: 8
+
+Example 30:
+Text: Re your e-mail, there is info there which is not on my talk page. May I add it to my talk page, or would you prefer it stayed off?
+Annotation from annotator: 14
+
+Text: Hello -- I see you changed a couple of entries relating to "PALATINE, the Subject Centre for Dance, Drama and Music of the UK Higher Education Academy".  I don't know (or even care) why that organisation chooses to refer to itself by capitalising the word, but (and I ask for information here) is there a policy that precludes us from respecting that choice?
+Annotation from annotator:

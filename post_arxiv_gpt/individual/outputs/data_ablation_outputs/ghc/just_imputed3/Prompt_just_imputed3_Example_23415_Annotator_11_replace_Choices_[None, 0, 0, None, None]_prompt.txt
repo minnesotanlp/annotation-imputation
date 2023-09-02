@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: Facts are irrelevant when politicians feel the need to virtue signal ;-)
+Annotation from annotator: 0
+
+Example 2:
+Text: I'm currently studying to become a journalist. Check out my political news blog ThePatrioticPerspective.wordpress.com  I regularly send in opinion pieces to Other conservative sites. I've been used as a source for Trump's Nashville rally in 2016, and recent Knoxville Protests.  
+Annotation from annotator: 0
+
+Example 3:
+Text: Wishful thinking. I think the bikers started this rumor in hope that Antifa would go for it.
+Annotation from annotator: 0
+
+Example 4:
+Text: And you've let blacks rape your women for centuries, at epidemic rates, but you somehow forget this! AND do fuck all about it. Nobody is being killed, you all live in a dreamworld.
+Annotation from annotator: 0
+
+Example 5:
+Text: I know exactly where you are. You are 20 mins away. I will swing by to say hi after work
+Annotation from annotator: 0
+
+Example 6:
+Text: all run by dems. arent they so great
+Annotation from annotator: 1
+
+Example 7:
+Text: Hey Goyim, this is family.
+Annotation from annotator: 0
+
+Example 8:
+Text: "What will you do today, to disrupt, disturb, and defy the enemy?"  Ah, good question. Glad you asked. 
+Annotation from annotator: 0
+
+Example 9:
+Text: Hot Dog!  That's a clever twist of words.😂
+Annotation from annotator: 0
+
+Example 10:
+Text: LOL Starbucks Access Negro Video
+Annotation from annotator: 0
+
+Example 11:
+Text: The UK: 
+Annotation from annotator: 1
+
+Example 12:
+Text: https://www.mikemarko.com/wealthy-affiliate-review-scam/: Exactly the information I was after.
+Annotation from annotator: 0
+
+Example 13:
+Text: He looks like a Skinjob to me!
+Annotation from annotator: 0
+
+Example 14:
+Text: In the few (redacted) new Strzok-Page text messages released, 2 new names of COUP D'ÉTAT suspects emerger https://theconservativetreehouse.com/2018/04/27/new-batch-of-peter-strzok-and-lisa-page-messages-released-pdf-included/#more-148572 James Baker, FBI General Counsel, and James Rybicki, Comey Chief-of-Staff @realDonaldTrump #Qanon8chan
+Annotation from annotator: 0
+
+Example 15:
+Text: You are correct. This is why it’s happening.  
+Annotation from annotator: 0
+
+Example 16:
+Text: EVERYONE knows Barry conspired with ALL Big Tech to spy on EVERYONE and give our data to the ChiComs - believing Social Media CENSORSHIP will stop "We the PEOPLE"   The KENYAN paid NO ATTENTION to the 2010/12 & 14 elections when 1042 Dems were WIPED OUT at the ballot box BEFORE Trump was elected   Trump is the LAST STRAW before "We the People" take this country BACK!
+Annotation from annotator: 1
+
+Example 17:
+Text: And now Canadian politicians want to disarm Canadians, dumb fuckers.
+Annotation from annotator: 0
+
+Example 18:
+Text: Big #ShoutOut to USMC ⭐️ Always a Marine · @greg_6551 ⭐️
+Annotation from annotator: 0
+
+Example 19:
+Text: You can sense the panic setting in. The push for censorship and acceptance of pedophilia is happening at an alarming rate. When will someone in the MSM ask POTUS "THE QUESTION?"
+Annotation from annotator: 0
+
+Example 20:
+Text: ‘Where is the coalition?’ Mosul still a corpse-filled ruin months after liberation : https://on.rt.com/8yfc
+Annotation from annotator: 0
+
+Example 21:
+Text: Actors Cold Read Facts on FEMINISM Off of a Teleprompter 
+Annotation from annotator: 0
+
+Example 22:
+Text: www.foxnews.com/politics/2018/01/19/newly-released-clinton-emails-include-classified-messages-show-knowledge-security-problems-watchdog.html     We all know what happened the real question is when is something going to be done about it.
+Annotation from annotator: 0
+
+Example 23:
+Text: What's free about shooting your own protesting citizens and also murdering the journalists covering said shootings?
+Annotation from annotator: 0
+
+Example 24:
+Text: I’d drag my nuts over a mile of broken glass, just to finger flunk your shadow! Hehehe
+Annotation from annotator: 0
+
+Example 25:
+Text: is this guy retarded  fucking hell /bant/ you're better than this
+Annotation from annotator: 1
+
+Example 26:
+Text: Scratch a loud leftist, find a sex pest. One might almost start to believe the moral preening is meant to hide their actual behaviour.
+Annotation from annotator: 1
+
+Example 27:
+Text: Just my opinion, but global governance is not the answer.
+Annotation from annotator: 0
+
+Example 28:
+Text: A nigger lover and traitor to her race.
+Annotation from annotator: 1
+
+Example 29:
+Text: I thought that their job was to kill ISIS terrorists. Of course, Obambam did not want to see his Muslim buddies killed.
+Annotation from annotator: 1
+
+Example 30:
+Text: Franklin Man sentenced to 8 1/2 years in prison for the fake crime of hurting the government's feelings by selling a product to willing customers that the government doesn't want them to have or to ingest, because everyone's body belongs to the government.
+Annotation from annotator: 1
+
+Target Example:
+Text: You talk too much faggot. Quit projecting your insecurities onto others. 
+Annotation from annotator:

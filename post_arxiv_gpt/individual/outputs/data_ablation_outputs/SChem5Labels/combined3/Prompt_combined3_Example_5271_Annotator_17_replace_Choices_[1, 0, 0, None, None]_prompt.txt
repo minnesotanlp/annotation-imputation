@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It's bad when people die.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's okay to enjoy collecting things, but you should try not to care too much about your possessions
+Annotation from annotator: 3
+
+Example 3:
+Text: It's good to take care of your possessions so they don't get lost.
+Annotation from annotator: 4
+
+Example 4:
+Text: People should stop when the cops tell them to so they don't get hurt.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's understandable to be worried about being cheated on.
+Annotation from annotator: 4
+
+Example 6:
+Text: You should be upset when someone chews you out.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's rude to pry.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's nice to look at photos.
+Annotation from annotator: 4
+
+Example 9:
+Text: It is okay to be different.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's wrong to enjoy it when your family isn't happy about something.
+Annotation from annotator: 3
+
+Example 11:
+Text: You shouldn't drive without a driver's license.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's good to take care of a garden and be outside.
+Annotation from annotator: 4
+
+Example 13:
+Text: Siblings are expected to love each other.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's good to find the perfect clothes.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's normal for people to worry about angering their loved ones.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's nice to have a wedding.
+Annotation from annotator: 4
+
+Example 17:
+Text: You should expect a dog to be excited when you give a treat to them.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's okay to be scared of people.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to feel guilty about doing something wrong.
+Annotation from annotator: 4
+
+Example 20:
+Text: You should punish an animal that jumps on furniture.
+Annotation from annotator: 2
+
+Example 21:
+Text: It is okay to be scared.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's good to take charge of your health.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's okay to be uncertain of what you are.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's okay to be upset when you lose your job.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's good to want someone to care about you.
+Annotation from annotator: 4
+
+Example 26:
+Text: People will think you're bad with money if you don't plan ahead for your future.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's expected that not everyone will excel at any profession they choose.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's good to do things with your family.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's understandable that sometimes we have emotions we can't control.
+Annotation from annotator: 4
+
+Example 30:
+Text: You shouldn't mooch off your siblings.
+Annotation from annotator: 4
+
+Human-rated Examples:
+Example 1:
+Text: It is good to be pleasantly surprised.
+Annotation from annotator: 4
+
+Example 2:
+Text: You shouldn't say mean things about liberal people.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's good to take care of your things and keep them clean
+Annotation from annotator: 4
+
+Example 4:
+Text: It is good to not trust someone who broke your trust in the past.
+Annotation from annotator: 4
+
+Example 5:
+Text: If you're injured, you should go to the hospital.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's acceptable to stop working on something.
+Annotation from annotator: 4
+
+Example 7:
+Text: It is wrong to make fun of your parents.
+Annotation from annotator: 4
+
+Example 8:
+Text: You shouldn't make your friends uneasy.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's good to be concerned about your home.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's alarming when the tree limb you're on breaks.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's wrong to assume things about people.
+Annotation from annotator: 4
+
+Example 12:
+Text: You should love someone for who they are not their physical traits.
+Annotation from annotator: 4
+
+Example 13:
+Text: You should be careful when driving so you don't run over animals.
+Annotation from annotator: 4
+
+Example 14:
+Text: Parents are expected to pay for their household finances equally.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's okay to be confused when your friend leaves you.
+Annotation from annotator: 4
+
+Example 16:
+Text: You shouldn't toy with people's emotions
+Annotation from annotator: 4
+
+Example 17:
+Text: It's good to avoid fighting with your friend.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's bad to not be able to pay attention to things.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's good to be there for your kids
+Annotation from annotator: 4
+
+Example 20:
+Text: It is helpful to do chores around the house.
+Annotation from annotator: 4
+
+Example 21:
+Text: If a relationship makes you happy, it's okay to pursue it with your whole being
+Annotation from annotator: 4
+
+Example 22:
+Text: It's rude to yell at your family and friends.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's good to take action against people who break the law.
+Annotation from annotator: 4
+
+Example 24:
+Text: You shouldn't upset people.
+Annotation from annotator: 4
+
+Example 25:
+Text: You should be able to give criticism to your friends.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's okay to grieve for a dead friend.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's allowed to take some time to become savvy with money.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's normal to apply to multiple universities.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's good to do nice things for one's friends.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's rude stomp around.
+Annotation from annotator: 4
+
+Target Example:
+Text: You shouldn't eat foods that are unhealthy.
+Annotation from annotator:

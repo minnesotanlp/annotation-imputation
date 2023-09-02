@@ -1,0 +1,129 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: .@holman @onekingslane yo, i use ruby where are my ladies
+Annotation from annotator: 0
+
+Example 2:
+Text: What's a Jew's favorite book? Gone with the wind.
+Annotation from annotator: 2
+
+Example 3:
+Text: I cant call myself an otaku or a weeb because the definition doesnt suit me, so i'm just a casual anime viewer
+Annotation from annotator: 0
+
+Example 4:
+Text: The amount of poorly written flashbacks in watchmen is fucking annoying
+Annotation from annotator: 0
+
+Example 5:
+Text: You've got to be fucking kidding me. @halletecco @wadhwa @Jason
+Annotation from annotator: 1
+
+Example 6:
+Text: Perks of being an Afghan. You can pick a new date everyday from your yard just showing her a handful of fodder.
+Annotation from annotator: 2
+
+Example 7:
+Text: "You assholes and your janky, ornamental ""fake"" trees. I hate you all. &#128405;&#127995;&#128405;&#127995;&#128405;&#127995;&#128405;&#127995;&#128405;&#127995;&#128405;&#127995;&#128405;&#127995;&#128405;&#127995;"
+Annotation from annotator: 1
+
+Example 8:
+Text: Why does Hillary have Alzheimer's? She forgot what other diseases she is carrying and named one that was convenient to cover her ass.
+Annotation from annotator: 2
+
+Example 9:
+Text: Why are jews so hot? Because they're fresh out of the oven.
+Annotation from annotator: 2
+
+Example 10:
+Text: A message to the guy in the wheelchair who stole my jacket. You can hide, but you can't run.
+Annotation from annotator: 2
+
+Example 11:
+Text: Matthew 12:30   He that is not with me is against me; and he that gathereth not with me scattereth abroad.
+Annotation from annotator: 0
+
+Example 12:
+Text: Why is bottom of the ocean so dark? Coz niggers can't swim
+Annotation from annotator: 2
+
+Example 13:
+Text: Bumping French Montana in the uber omw to the store so I can grab a Pepsi that's how I'm coming this morning
+Annotation from annotator: 0
+
+Example 14:
+Text: Jokes about muslims and refugees arent funny. After all, when you have vermin in your home you call an exterminator, not a clown.
+Annotation from annotator: 2
+
+Example 15:
+Text: Here is the link to our Youth Corps page , just click on the words !
+Annotation from annotator: 0
+
+Example 16:
+Text: Twitter labeled every thing i posted as "sensitive material" even a "I LOVE PUPPIES" meme, thats when i deleted account @ViciousKynd 
+Annotation from annotator: 0
+
+Example 17:
+Text: I don't get how a married woman/man can cheat of their husband/wife. Confused with this generation &#129300;&#129318;&#127995;‍♀️
+Annotation from annotator: 0
+
+Example 18:
+Text: God i fucking hate meeting people who can't joke around
+Annotation from annotator: 0
+
+Example 19:
+Text: Why is there no Muslims in Star trek? Because it's the future
+Annotation from annotator: 2
+
+Example 20:
+Text: Most Nationalists here at Stormfront side with the Axis being they were Nationalists as well whereas the Allied nations were all in some form cultural Marxists .
+Annotation from annotator: 0
+
+Example 21:
+Text: FUCK YOU "@iHeart_youKeish: We have y'all faggots next @80sbaby4life"
+Annotation from annotator: 2
+
+Example 22:
+Text: Please join the discussions first before posting your pictures .
+Annotation from annotator: 0
+
+Example 23:
+Text: I'm pissed at bombing Syria but damn where were all you fucking people when Obama bombed people for 8 years #signofthetimes
+Annotation from annotator: 2
+
+Example 24:
+Text: If women ruled the world My wife "there would be no wars"
+
+Because war takes tactics and logic
+Annotation from annotator: 2
+
+Example 25:
+Text: When I am around young people and rap music or negro culture comes up I make gestures implying the savagery of blacks .
+Annotation from annotator: 1
+
+Example 26:
+Text: I hate clingy ass people. Don't text me 100 times, don't be all over me, just no.
+Annotation from annotator: 1
+
+Example 27:
+Text: Obviously, @scottieottie_ is really only excited about Reese Palmeiro effortlessly being baddest of the bad. &#128579;&#128579;&#128579;
+Annotation from annotator: 0
+
+Example 28:
+Text: Oh fuck off Telltale you piece of shits!! &#128545;&#128545;&#128545; https://t.co/S3sfoXPDZQ
+Annotation from annotator: 2
+
+Example 29:
+Text: Good morning Monday I have my truck money full tank and I didn't do any homework. Your my bitch Monday
+Annotation from annotator: 0
+
+Example 30:
+Text: Another black is now trying to convince me that black slaves were force-fed animal lard through huge tubes and had their hands and feet cut off so they could work in the cotton fields without running away
+Annotation from annotator: 1
+
+Target Example:
+Text: Why is there a bite in the Apple logo? Well the child workers need to eat _something._
+Annotation from annotator:
+Your output should be a single integer and nothing else.

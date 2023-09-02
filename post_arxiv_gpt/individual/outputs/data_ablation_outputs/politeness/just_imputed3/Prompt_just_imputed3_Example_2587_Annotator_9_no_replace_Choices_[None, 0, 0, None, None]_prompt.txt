@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: Woohoo--279 hits! Hey Scientist, is that an all-time low?
+Annotation from annotator: 9
+
+Example 2:
+Text: Helped them do what? Leave Israel?
+Annotation from annotator: 8
+
+Example 3:
+Text: sir.. what is the exact time will it be deleted.. sir.. do you have any facebook account.?
+Annotation from annotator: 10
+
+Example 4:
+Text: I hope this makes my concerns clearer. Perhaps we can work together to resolve them?
+Annotation from annotator: 16
+
+Example 5:
+Text: Why is ''<url>'' a better name for this page than ''<url>'', which has now been made a redirect page?  Is it not standard to speak of "great circle distance"?
+Annotation from annotator: 12
+
+Example 6:
+Text: I don't understand the reason for <url>. Would you please explain it to me?
+Annotation from annotator: 16
+
+Example 7:
+Text: Another thing, I been working on trying to improve the SVG graphics at the Commons. Except for the white color background, does everything else at <url> look decent?
+Annotation from annotator: 15
+
+Example 8:
+Text: |} Thanks! Did you know its one week to Halloween, will you be there?
+Annotation from annotator: 18
+
+Example 9:
+Text: Hi.  Would it be OK to move the timeline to a template, so that all the Mars-related geology pages can point to the same timeline, making updates easier?
+Annotation from annotator: 16
+
+Example 10:
+Text: Third: it's August 31 2010. Please check my userpage for reasons why I really don't feel useful today. Ask another admin, okay?
+Annotation from annotator: 8
+
+Example 11:
+Text: By the way, Hammersoft, I am willing to have a fair view of Delta. So, tell me: What good things has he ever done?
+Annotation from annotator: 11
+
+Example 12:
+Text: That's my understanding as well. So what I'm wondering is, how did you choose where to draw the lines on the map, if there haven't been any agreements?
+Annotation from annotator: 14
+
+Example 13:
+Text: Yes, it is a matter of civility.  Do you think a year would be better?
+Annotation from annotator: 15
+
+Example 14:
+Text: Oops, I also just realized that I probably shouldn't delete this image because I added a comment on the talk page.  Is this correct?
+Annotation from annotator: 14
+
+Example 15:
+Text: Nice tune Modernist <url>. You owe me one back?
+Annotation from annotator: 10
+
+Example 16:
+Text: Hi Hektor. Could you please provide a rationale tag for this image?
+Annotation from annotator: 16
+
+Example 17:
+Text: While editing the COIN page regarding Ciplex, I accidently broke your sig. Since I don't want any more flame, could you please fix it?
+Annotation from annotator: 16
+
+Example 18:
+Text: Take a look at the most recent post to <url>. Can you make a stub out of it?
+Annotation from annotator: 13
+
+Example 19:
+Text: I added mention of the river. The info for <url> says the picture was taken in <url>; is that city located on the river?
+Annotation from annotator: 12
+
+Example 20:
+Text: The benefit of a version of the sentence is that it helps clarify the differences between Lavoisier and Priestley; however, we need to be careful that we don't convey the wrong impression to the reader. How best to do this?
+Annotation from annotator: 16
+
+Example 21:
+Text: I noticed you're setting up s-line for DART but having trouble with the termini. Can I be of help?
+Annotation from annotator: 20
+
+Example 22:
+Text: In the article on <url>, you recently replaced a non-free image with J. Malcolm Greany's ''Ansel Adams and Camera'' on the basis that the latter image is in the public domain. How did you determine that this image is a work of the U.S. government?
+Annotation from annotator: 9
+
+Example 23:
+Text: I have left the Kuznetsov as <url>, because that is the name of the ship, translated, and Admiral of the Fleet is a rank. I wouldn't like being labelled a Captain if I were an Admiral, would you?
+Annotation from annotator: 11
+
+Example 24:
+Text: Just move <url> to <url>. And shouldn't the clean-up parameter be added to <url> also to make it work?
+Annotation from annotator: 9
+
+Example 25:
+Text: Hey i saw you make an edit i have a question do mods only do this? how does this process work?
+Annotation from annotator: 14
+
+Example 26:
+Text: He's still got the youtube link on there even after your reversion. How does once vs. 25 times or so make any difference?
+Annotation from annotator: 11
+
+Example 27:
+Text: Do I get a reference to my comment? Show me where I refuse to provide evidence backing up my changes?
+Annotation from annotator: 6
+
+Example 28:
+Text: Ah, as I recall it was ''you'' who confused me on that one, by adding them to <url> during the GA review ;) What is the preferred display quote? Does one just use blockquote?
+Annotation from annotator: 10
+
+Example 29:
+Text: I never partook in this AfD. Did you leave this on the wrong page?
+Annotation from annotator: 10
+
+Example 30:
+Text: I'm relatively new here. Short of totally protecting the pages, what strong-arm tactics do my colleagues have in mind?
+Annotation from annotator: 13
+
+Target Example:
+Text: Hi, do you mind if I move your hook to go live on 26/27th? The GLAM WIKI conference could do with being highlighed by a non US/UK hook?
+Annotation from annotator:

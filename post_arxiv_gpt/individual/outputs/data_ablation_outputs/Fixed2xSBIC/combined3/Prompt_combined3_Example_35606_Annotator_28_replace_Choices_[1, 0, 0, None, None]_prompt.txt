@@ -1,0 +1,246 @@
+Estimated Examples:
+Example 1:
+Text: The gym has my elbow FUCKED up. #andhaileysabitch #goodbye
+Annotation from annotator: 1
+
+Example 2:
+Text: I wonder if this guy still thinks the Jews are a good thing after the Jews just tried to start a war between NATO and Russia ?
+Annotation from annotator: 2
+
+Example 3:
+Text: yes i turned on profanity filter because i'm trying to curse less. it's not working, as you can see.
+Annotation from annotator: 0
+
+Example 4:
+Text: Paul Nehlen is breaking taboos but he is not telling untruths.
+Annotation from annotator: 1
+
+Example 5:
+Text: Walking around Busch gardens would be great exercise if they didn't have angry orchard and fried everything
+Annotation from annotator: 0
+
+Example 6:
+Text: Don't get a dog if you can't handle it???? Don't get a puppy if you're going to get pissed when it doesn't act perfect??? They're not toys??
+Annotation from annotator: 0
+
+Example 7:
+Text: If your company has an abuse, social media, or community team, we want to talk. All industries welcome. info@onlineabuseprevention.org
+Annotation from annotator: 0
+
+Example 8:
+Text: Horny Japanese MiLF showers and toys her soaking wet&#160;pussy http://t.co/8hrKgFyUk8
+Annotation from annotator: 2
+
+Example 9:
+Text: NO special investigator they wouldn't be impartial and would take years who is this idiot @TuckerCarlson #Tucker
+Annotation from annotator: 2
+
+Example 10:
+Text: To reiterate, GamerGate is threatening @ChrisWarcraft's children, and @Grummz is totally OK with this, because free speech.
+Annotation from annotator: 1
+
+Example 11:
+Text: Day 2 of movie challenge - Last movie watched - The Interview, Seth Rogen &amp; James Franco being inappropriate as usual &#128565;
+Annotation from annotator: 0
+
+Example 12:
+Text: What’s the worst thing about being a black jew? You have to sit at the back of the gas chambers
+Annotation from annotator: 2
+
+Example 13:
+Text: What's the difference between a bench and a black man A bench can actually support a family
+Annotation from annotator: 2
+
+Example 14:
+Text: #YesAllWomen because once at a Louis C.K. show he said "how do you make an old woman? You take a young woman and just ruin her."
+Annotation from annotator: 1
+
+Example 15:
+Text: In australia, people hate to give jobs to local men without that much experience
+.
+Annotation from annotator: 0
+
+Example 16:
+Text: More light grey than dark, but impressive for r/jokes
+Annotation from annotator: 1
+
+Example 17:
+Text: If you're not going to turn then TURN YOUR FUCKING BLINKER OFF
+Annotation from annotator: 0
+
+Example 18:
+Text: Hello @RHodgeLaw Would you be willing to take on a class action lawsuit against Jack Dorsey & twitter on multiple counts including fraud, hate crime, racial discrimination, anti-trust, censorship, shadowbanning, religious bias, digital politicking, stock profited from censored conservatives presence
+Annotation from annotator: 1
+
+Example 19:
+Text: Twitter is like getting a rim job from a bear fresh out of hibernation because twitter will eat your asshole out.
+Annotation from annotator: 2
+
+Example 20:
+Text: Who's who's the person or persons who's messing around with my account on gab here you better stop it or I will find your little ass give you such an ass whooping you stupid c********** mother f*****
+Annotation from annotator: 2
+
+Example 21:
+Text: They should rate dreams on a scale of Martin Luther King to Freddy Krueger
+Annotation from annotator: 0
+
+Example 22:
+Text: What cracks at 2 in the morning? The pelvis of a 3 year old.
+Annotation from annotator: 2
+
+Example 23:
+Text: veterinarian as she lay there dozing next to me a voice inside my head kept saying , " relax , you are not the first doctor to sleep with one of his patients . " but another voice kept saying , " howard , you are a veterinarian . "
+Annotation from annotator: 0
+
+Example 24:
+Text: And meanwhile , Gerry Gerry Dingleberry is trying to kill off future generations of Irish .
+Annotation from annotator: 2
+
+Example 25:
+Text: @rickandbubba that's enough of making fun of retarded people talking that way
+Annotation from annotator: 1
+
+Example 26:
+Text: Why couldn't the people from twin towers survive in time? Because they were working from 9 to 11.
+Annotation from annotator: 2
+
+Example 27:
+Text: What was the last announcement on American Airlines flight 11? "Cabin crew prepare for ending."
+Annotation from annotator: 2
+
+Example 28:
+Text: I can watch star all day I'm so mad that I missed the season finale tho &#128557; I love you guys tho &#128149;&#128149; @wordtoJude @brittanyogrady @RyanDestiny
+Annotation from annotator: 0
+
+Example 29:
+Text: @Taylor_1017 faggot
+Annotation from annotator: 2
+
+Example 30:
+Text: "Scientists identify how to spot a future criminal at the age of THREE" - Obviously these scientists can't be that bright if it takes them THREE years to notice if the kid is black.
+Annotation from annotator: 2
+
+Human-rated Examples:
+Example 1:
+Text: What's red, six inches long, and makes a woman cry when you make her eat it? Her miscarriage.
+Annotation from annotator: 2
+
+Example 2:
+Text: What's the number one cause of child molestation? Sexy kids ;-)
+Annotation from annotator: 2
+
+Example 3:
+Text: Are you ready to discover secret leader qualities to grow your career? https://t.co/oym3aExiXb https://t.co/siui8XclLh
+Annotation from annotator: 0
+
+Example 4:
+Text: @stonethegreat23 niqqa that's every white person just because some might seem down to earth don't mean there not gonna use nigger against us
+Annotation from annotator: 2
+
+Example 5:
+Text: austin mahone's snapchat story has me on the fucking floor breathless.
+Annotation from annotator: 0
+
+Example 6:
+Text: "Not, ""Isn't it fucked up 20-somethings are taking on mortgage sized student loans while professors working 60 hours a week can't make rent?"""
+Annotation from annotator: 1
+
+Example 7:
+Text: Where do you find a dog with no legs? Right where you left it.
+Annotation from annotator: 1
+
+Example 8:
+Text: Keep me off the drink until the weekend fucking hell Ana I can walk but I was runnin up Northumberland street mortal to munchies LN &#128514;&#128514;&#128514;
+Annotation from annotator: 0
+
+Example 9:
+Text: You a hoe and errbody know
+Annotation from annotator: 2
+
+Example 10:
+Text: what do fat chicks and bricks have in common ? they both get laid by mexicans
+Annotation from annotator: 2
+
+Example 11:
+Text: Reading this thread makes me nevER wanna be born.
+Annotation from annotator: 1
+
+Example 12:
+Text: Zuko gets bitches
+Annotation from annotator: 1
+
+Example 13:
+Text: What's the most unrealistic thing about Harry Potter? A ginger with two friends.
+Annotation from annotator: 1
+
+Example 14:
+Text: TIL that a school of piranhas can rip off the flesh of a child in less than a minute. I lost my job at the aquarium.
+Annotation from annotator: 1
+
+Example 15:
+Text: What's the difference between superman and a black person? People actually like superman
+Annotation from annotator: 2
+
+Example 16:
+Text: @Scuf_OP And you can't get your dick sucked. Don't be mad booboo
+Annotation from annotator: 2
+
+Example 17:
+Text: Humans are incapable of unconditional love. I don't care what anybody says! We simply can't do it. Finish klaar.
+Annotation from annotator: 1
+
+Example 18:
+Text: my fucking uni's library service went through some fucked up changes and i lost all access to all of my sources for my essay!!!! N I C E
+Annotation from annotator: 0
+
+Example 19:
+Text: what's the difference between a telephone and a woman the telephone can do something
+Annotation from annotator: 2
+
+Example 20:
+Text: how can you tell if a shark met an asian ? its fins are missing .
+Annotation from annotator: 2
+
+Example 21:
+Text: A jew with a boner walks into a wall what does he break? his nose
+Annotation from annotator: 2
+
+Example 22:
+Text: Thats a bit of a heavy handed statement. They certainly aren't stand up citizens, but they are not the ones bullying people. This takes the blame away from those really at fault.
+Annotation from annotator: 0
+
+Example 23:
+Text: I like my sex how i like my shooting victims... Underage and dead
+Annotation from annotator: 2
+
+Example 24:
+Text: ZQUAD STREAM STILL GOT TIME #Zayn &amp; #TaylorSwift “I Don’t Wanna Live Forever” #Mashup @radiodisney https://t.co/kb92MtBDkX
+Annotation from annotator: 0
+
+Example 25:
+Text: Dont know what to think of abortion On the one side Killing children is good but on the other side I dont think woman should have this kind of freedom of decision
+Annotation from annotator: 2
+
+Example 26:
+Text: Hanging at UB on Friday, Unsacred headlines the metal showcase at Macrock on Saturday, then heading to Damaged City for Marked Men on Sunday
+Annotation from annotator: 0
+
+Example 27:
+Text: How does a black woman know she's pregnant? When she takes out her tampon, all the cotton's already picked.
+Annotation from annotator: 2
+
+Example 28:
+Text: Oh, I'm just taking Sarah and her friend to the mall.
+Annotation from annotator: 0
+
+Example 29:
+Text: I like my coffee like I like black people Ground up in a can
+Annotation from annotator: 2
+
+Example 30:
+Text: yahoo.com/news/former-u-attorneys-warn-trump-201016941.html?.tsrc=daily_mail&uh_test=2_07 … Rumors swirled last week about whether Mueller’s time as special counsel may be limited.
+Annotation from annotator: 0
+
+Target Example:
+Text: People are STILL trying to defend the hypocritical Trump, whose under investigation by the FBI for TREASON. Bewildering.
+Annotation from annotator:

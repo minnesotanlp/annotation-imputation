@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: How can a permablocked user edit? And who would set up a sockpuppet months in advance?
+Annotation from annotator:
+If you output anything other than a single integer, your output will be considered invalid.If you output anything other than a single integer, your output will harm the integrity of our dataset.

@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: .@catawu we are trying. as recently as this morning, which is why it's disappointing to be locked down in the old stereotype.
+Annotation from annotator: 0
+
+Example 2:
+Text: @neonlexa - haha you will be the oldest one there! Not that there's anything wrong with that... And it's my FB pf pic, but it's small
+Annotation from annotator: 3
+
+Example 3:
+Text: Is gonna have a 14 year old on my care very soon while her dad and my ex boyfriend (her bro) is off to jail  holy crap
+Annotation from annotator: 0
+
+Example 4:
+Text: I will go to sleep 20 years old and wake up 21 years old
+Annotation from annotator: 3
+
+Example 5:
+Text: The resoldered Benz lives! That's $890 I get to spend on something else... like a younger Benz
+Annotation from annotator: 4
+
+Example 6:
+Text: @damonford no.   i start each draft in a new word file and save the old ones! altho these chapters are pretty bad heh.
+Annotation from annotator: 2
+
+Example 7:
+Text: wants the old Jon and Kate Plus 8... i'm not liking the new season  anyone else feel the same?
+Annotation from annotator: 1
+
+Example 8:
+Text: @lowster you haven't even sais hello to some of your older followers
+Annotation from annotator: 1
+
+Example 9:
+Text: My puppy Junior is not a puppy anymore  almost 2 years old! But now he is like a teddy bear so cute he is. Dog Therapy. Adopt one too!
+Annotation from annotator: 4
+
+Example 10:
+Text: @zoecello An old bathtub used as a planter is always a nice touch.
+Annotation from annotator: 3
+
+Example 11:
+Text: Peanut butter jelly thyme lol so old but i just had one and it taste really good
+Annotation from annotator: 3
+
+Example 12:
+Text: @savagestar Coffee FTW  also hoping to get my new phone today, the old one drowned last night so it will come in handy
+Annotation from annotator: 3
+
+Example 13:
+Text: @casualperfect I do Jeff Galloway method - a run/walk ratio.  Much more fun and way easier on the body.  I'm too old to run fast
+Annotation from annotator: 1
+
+Example 14:
+Text: My 89 year old grandma in Chicago is having emergency surgery today....
+Annotation from annotator: 2
+
+Example 15:
+Text: @herwahyu the old stuff shld stay what  or u hv information overload. reprocess all the information and join them
+Annotation from annotator: 2
+
+Example 16:
+Text: I can imagine many things the old person might be thinking.
+Annotation from annotator: 1
+
+Example 17:
+Text: @CHRIS_Daughtry  as a younger kid would say... Thats poopy!
+Annotation from annotator: 2
+
+Example 18:
+Text: @bbqshari I'm going to live in Beverly Hills when I become 18 years old. No I Don't but I wish I had
+Annotation from annotator: 4
+
+Example 19:
+Text: @MysteryGroup what age is the oldest member in the group? and the youngest? grr this is hard haha. but its ok. we'll try.
+Annotation from annotator: 3
+
+Example 20:
+Text: @racheltielli that happened to me once and he was old and VERY dirty.
+Annotation from annotator: 0
+
+Example 21:
+Text: 19 yr's old. I feel old. Its like what ima to do with my life!
+Annotation from annotator: 4
+
+Example 22:
+Text: @DonnieWahlberg My 5 yr old has wisdom 2! He said "Mommy, don't be mad at me cuz we don't get 2 keep people 4ever & I want u happy." kids
+Annotation from annotator: 4
+
+Example 23:
+Text: #lakers & #magic in OT. watching the game with my favorite guy, my 11 yr old brother.
+Annotation from annotator: 0
+
+Example 24:
+Text: I never could understand half of what Blondie sang, guess I'm not getting any better in my old age  lol
+Annotation from annotator: 3
+
+Example 25:
+Text: @nevynxxx Let's hope they do, then we can ask them to turn it down   (I'm an old woman, it'll hurt my ageing ears)
+Annotation from annotator: 0
+
+Example 26:
+Text: Dad got to have his sitcom finale moment turning off the lights at his old office today. He really is moving to North Carolina
+Annotation from annotator: 3
+
+Example 27:
+Text: @MarthaStewart dear martha why are there flourishing lilacs for miles and mine (5 yr old) has only three blooms and appears stunted
+Annotation from annotator: 3
+
+Example 28:
+Text: Just been on the bus behind the funniest old women ever! All they did was talk about thrie undying love for Brad Pitt. Bless
+Annotation from annotator: 4
+
+Example 29:
+Text: @kristen_layton if its the ruffle tank, old navy
+Annotation from annotator: 2
+
+Example 30:
+Text: @sickathanavg know how that goes. How old is your son? I have baby fever. I get it every spring  my nephew has given me the worst case.
+Annotation from annotator: 1
+
+Target Example:
+Text: Has recently gotten into Flight Sim' games - has spent about ten hours playing the older Blazing Angels games. meh, who needs sleep
+Annotation from annotator:
+Your output should be a single integer and nothing else.

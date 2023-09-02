@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: @AquaAHH #ilove everything old school!
+Annotation from annotator: 3
+
+Example 2:
+Text: @shaysmom I got teriyaki chix ready for the fire!  Shall I bring it up now? and 8 hour old malasadas for dessert.
+Annotation from annotator: 3
+
+Example 3:
+Text: I was just informed my son is too old to be my 'baby boy'
+Annotation from annotator: 1
+
+Example 4:
+Text: I miss my old Japanese Drama/boy band loving days. I'm slowly getting back into the stream. Ahhh Arashi is my Asian Backstreet Boys
+Annotation from annotator: 3
+
+Example 5:
+Text: has had a rough time, bel had chickenpox and poor honey my 9yr old bunny had to be put down. really really sad right now
+Annotation from annotator: 2
+
+Example 6:
+Text: @monicasalas ohhhh definitely agreed  Hugh Jackman as well. sexy older men!
+Annotation from annotator: 2
+
+Example 7:
+Text: oh good, as I'm moving my things to the new machine I'm sent back to the old one for the morning.
+Annotation from annotator: 3
+
+Example 8:
+Text: @postulantk I have to give him back because he can't be around my older one yet. Hasn't had the Feline Leukemia test.
+Annotation from annotator: 2
+
+Example 9:
+Text: What's happened to my picture? Can't seem to upload new one and old one has disappeared
+Annotation from annotator: 1
+
+Example 10:
+Text: Daughter and I are both sick. Her first cold at 4 months old.  The big green snot-sucker thing didn't go over so well. I don't blame her.
+Annotation from annotator: 2
+
+Example 11:
+Text: back from collecting youngest son, time for #cuppa then back out at 4pm to get oldest from athletics, then hubby taking them snowboarding
+Annotation from annotator: 3
+
+Example 12:
+Text: Because ur an old man man my friend.  lol Just kidding.......
+Annotation from annotator: 3
+
+Example 13:
+Text: @mikelr75 Oh yes, Cedric. Too bad he died. The good ones always die young. No, Gregg watched it happily, smile on face. I was impressed!
+Annotation from annotator: 2
+
+Example 14:
+Text: Waning - Green Day <3 Love the oldies.
+Annotation from annotator: 3
+
+Example 15:
+Text: @nateflynn aww I still watch disney, nick and cartoon network lol  makes me feel better that you're older than me and you still watch it
+Annotation from annotator: 3
+
+Example 16:
+Text: Have a blessed time of worship today! We're having a graduation party after church for a young man who has graduated from high school.
+Annotation from annotator: 4
+
+Example 17:
+Text: @DurbinDigital That's what old markers are best for: subtle shading and blending.
+Annotation from annotator: 3
+
+Example 18:
+Text: @marks_voice ah the old isdn/adsl story, looking forward to Bob explaining in 140 characters  Or he could just say "you can't"!!
+Annotation from annotator: 2
+
+Example 19:
+Text: @balkanbeat No, a-ha is unfortunatelly from Norway. We have a big family happening and therefore we need some old hits
+Annotation from annotator: 3
+
+Example 20:
+Text: Awesome. They removed @ryanstar's old stuff from German Itunes which probably means his new stuff won't be added anytime soon.
+Annotation from annotator: 1
+
+Example 21:
+Text: @DooneyStudio  and crazy white girls drive really old BMW's
+Annotation from annotator: 2
+
+Example 22:
+Text: @TomFelton OMG your new pic is sooo cute!!  How old is it?
+Annotation from annotator: 3
+
+Example 23:
+Text: 2 parties tonight & sleeep over with the most amazing 9 year old I know, my cousin Nasia Marie
+Annotation from annotator: 3
+
+Example 24:
+Text: I don't wannnnna go to work tomorrow.   Anyone know any filthy-rich old men looking for someone to take care of?? Lol
+Annotation from annotator: 2
+
+Example 25:
+Text: @stresscase Also, should definitely date a muscian. Maybe one older than 16 but yeah! Someone should write me a song too!
+Annotation from annotator: 3
+
+Example 26:
+Text: Givin my cuzzin my old size 5 jeans  *sigh*
+Annotation from annotator: 3
+
+Example 27:
+Text: @ash1111 I do tend to gravitate towards old school everything ...  Unless someone shoves a new song in my face I like.
+Annotation from annotator: 3
+
+Example 28:
+Text: Tweeting from my new home... I now live in @kelliesimpson's old room... So not woot for me
+Annotation from annotator: 3
+
+Example 29:
+Text: @pcornqueen ohhhh that us sad, he was not that old
+Annotation from annotator: 1
+
+Example 30:
+Text: Chatting with old friends, then off to dinner
+Annotation from annotator: 4
+
+Target Example:
+Text: Going to bed before midnight so often lately makes me feel too old.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

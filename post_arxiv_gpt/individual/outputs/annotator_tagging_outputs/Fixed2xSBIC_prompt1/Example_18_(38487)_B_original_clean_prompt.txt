@@ -1,0 +1,60 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Congressional Investigators Notice Timing of Susan Rice Unmasking Request and Leak of Trump Associate Name to Media Weeks Later
+—Ace
+Annotation from annotator: 0
+
+Example 2:
+Text: Just remembered the stupid idiots come out tonight since they feel the need to use the dreaded F word during #Wrestlemania...Fake. Screw u
+Annotation from annotator: 2
+
+Example 3:
+Text: I'm Not Ashamed Of The Gospel You Can Mock Or Ridicule Me That Won't Phase Me Because It's Time We Get Back To #SoulWinning
+Annotation from annotator: 0
+
+Example 4:
+Text: I think you should take advantage of the fact you 're in highschool and it 's not really an important place in the long run .
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Girl goads boy into killing himself, found guilty, still no shortage of excuses
+Annotation from annotator: 2
+
+Example 2:
+Text: Really hoping @RealKurtAngle as Raw GM is just a practice for him running for president. #Angleforpresident #President
+Annotation from annotator: 0
+
+Example 3:
+Text: Bring another bitch for a real nigga.
+Annotation from annotator: 2
+
+Example 4:
+Text: Incel music thread
+Post your favourite tracks that feature themes related to inceldom like loneliness and despair.
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Inceldom has made me a theist
+At this point I'm 100% unironically convinced god just enjoys fucking with me
+Annotation from annotator: 2
+
+Example 2:
+Text: After seeing an unwanted dick pic when trying to @ reply someone, I understand even more Don't do that shit guys. Probably wasn't even his
+Annotation from annotator: 2
+
+Example 3:
+Text: Pretend assholes callin the women bitches when they know they love em lol..
+Annotation from annotator: 2
+
+Example 4:
+Text: "@Leesa_Michelle @Mojoman4Real @BrotherOwens @stribs @CaramelAtheist by going ""bhut Christians did the same thing"" isn't helping."
+Annotation from annotator: 1
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: how do you make a dead baby float ? <number> scoop of ice cream , <number> scoops of dead baby
+Annotation from annotator:

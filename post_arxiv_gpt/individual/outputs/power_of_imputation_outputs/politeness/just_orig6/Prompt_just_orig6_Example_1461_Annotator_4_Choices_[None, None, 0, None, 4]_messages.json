@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.\n\nTarget Example:\nText: I noticed that you have a little note at the top saying your status. How do you do that?\nAnnotation from annotator:\nIf you output anything other than a single integer (and absolutely nothing else, including explanatory text), your output will invalidate the dataset."
+    }
+]

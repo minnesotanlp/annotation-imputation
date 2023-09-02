@@ -1,0 +1,84 @@
+Estimated Examples:
+Example 1:
+Text: @milkbun Oh yah! That brings meh to, how do ya make money over the summa if ur a 12 year old girl? I have a kitten too.
+Annotation from annotator: 3
+
+Example 2:
+Text: @owlcity i like the storyline of UP...how old men can have great adventures too.
+Annotation from annotator: 3
+
+Example 3:
+Text: Ahhh found cute boy  too bad hes older....
+Annotation from annotator: 1
+
+Example 4:
+Text: Anyone know of an archive containing old Omni Magazine articles? Google doesn't
+Annotation from annotator: 3
+
+Example 5:
+Text: At tam's wedding!! Gettin older and realizing "my time e coming soon!!!"
+Annotation from annotator: 3
+
+Example 6:
+Text: At the "souk" at Madinat Jumeriah Dubai. Shops, restaurants, man made canals, boats, fake old style Arabian buildings- feels like Vegas
+Annotation from annotator: 1
+
+Example 7:
+Text: Babysitting is FUN with a 2 yr old
+Annotation from annotator: 3
+
+Example 8:
+Text: Creepy old perverts suck
+Annotation from annotator: 1
+
+Example 9:
+Text: Damn yall... Ima be 26 nxt wk. I am old as hell!
+Annotation from annotator: 3
+
+Example 10:
+Text: Finished work, time for a coffee and to listen to some good old music
+Annotation from annotator: 3
+
+Example 11:
+Text: I'm about to sleep twitt, let's start dreaming about.... HIM . god I can't take this anymore, I want the old memories, please  come back.
+Annotation from annotator: 3
+
+Example 12:
+Text: I've messed up my weekend rhythm. I think I've grown old. Well I guess this means I've actually have time to for study today.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's 1AM - and I cant sleep... Why - Cellcom is not going to market the new IPhone!!  Am I gonna get stuck with my old Iphone3G???
+Annotation from annotator: 2
+
+Example 14:
+Text: Its dark and we're going to see the asylum thats all old and crazy looking. Then we're going to the haunted tracks
+Annotation from annotator: 2
+
+Example 15:
+Text: Snoozed-in again thanks to being my own boss  I would get the boot at my old company
+Annotation from annotator: 3
+
+Example 16:
+Text: Some movies just never get old.  watching The Replacements. Hackman is awesome in this one.
+Annotation from annotator: 3
+
+Example 17:
+Text: Those four year olds better be glad i'm tired, or i would tear them up in a hula hooping contest. Thats how we roll in my hood!! Haha.
+Annotation from annotator: 3
+
+Example 18:
+Text: Will my 14 year old son please stop growing - He is now officially taller than me
+Annotation from annotator: 3
+
+Example 19:
+Text: ok, i'm so exhausted. contestants are still up.  i can't keep up with them. i'm an old man.
+Annotation from annotator: 1
+
+Example 20:
+Text: playing at my old school playground still the same except them lame ass got rid of the tire swing
+Annotation from annotator: 2
+
+Target Example:
+Text: @talkingbeans what your poor wife must listen to lol...hello mrs talkingbean& youngin bean!
+Annotation from annotator:

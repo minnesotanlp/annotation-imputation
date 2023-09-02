@@ -1,0 +1,124 @@
+Correct Examples:
+Example 1:
+Text: It's good to want someone to do their best.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's wrong to be jealous of your neighbors.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is okay to show emotions.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's noble to be true to yourself.
+Annotation from annotator: 3
+
+Example 6:
+Text: It is ok to live with a roommate of the opposite sex if you are just friends.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is reasonable to want to hold onto loving memories after losing someone.
+Annotation from annotator: 4
+
+Example 8:
+Text: You shouldn't have sex with people if you have herpes.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 3
+
+Example 10:
+Text: Employers are expected to let employees go when business is down.
+Annotation from annotator: 3
+
+Example 11:
+Text: You can't expect love young to last forever.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's good to find the right partner for yourself.
+Annotation from annotator: 4
+
+Example 13:
+Text: You don't have to help out your parents if you don't feel like it.
+Annotation from annotator: 2
+
+Example 14:
+Text: It's OK to be wrong.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to have friends you can joke around with.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's fine to ban anyone you want to from an online account.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is dangerous for a doctor to misdiagnose a patient.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's expected that friends will play jokes on each other.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to work at home.
+Annotation from annotator: 3
+
+Example 20:
+Text: You should expect people to be scared of you if you're big and muscular.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's good to look forward to things you can do when you grow older.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's bad to feel other people are inferior to you.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's nice to worry about your parents.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's expected that you won't exchange goods and money for sexual photos when you're married.
+Annotation from annotator: 4
+
+Example 25:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 2
+
+Example 26:
+Text: You should be understanding when your parents talk about their family heirlooms.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is mean to get involved in an affair with someone in a relationship.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to get back at a cheating partner.
+Annotation from annotator: 2
+
+Example 29:
+Text: It is bad to let addiction control your life.
+Annotation from annotator: 4
+
+Example 30:
+Text: People shouldn't assume it's okay to take something just because it's not nailed down.
+Annotation from annotator: 4
+
+Target Example:
+Text: People shouldn't lie about who they are.
+Annotation from annotator:

@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: People should avoid getting into cars with strangers.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's understandable if you're frustrated when your ex wants to contribute to your child's wedding.
+Annotation from annotator: 2
+
+Example 3:
+Text: You shouldn't do something you don't want to do.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's okay to like feet.
+Annotation from annotator: 1
+
+Example 5:
+Text: It is common for rabid fans to paint their face.
+Annotation from annotator: 3
+
+Example 6:
+Text: People should abstain from intimate relations while flying.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't have an affair with someone who is married.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's bad to be addicted to drugs.
+Annotation from annotator: 4
+
+Example 9:
+Text: People should refrain from bringing their pets, no matter how cute, to work.
+Annotation from annotator: 3
+
+Example 10:
+Text: Is good to spend time with family
+Annotation from annotator: 3
+
+Example 11:
+Text: It's bad to keep wild animals in cages.
+Annotation from annotator: 3
+
+Example 12:
+Text: If you pay attention in class you should expect to be able to pass your exams.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's allowed to hook-up with someone when you're bored, and not talk to them again.
+Annotation from annotator: 2
+
+Example 14:
+Text: It's bad to let your dog eat things that aren't food.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is normal to be curious about astrology
+Annotation from annotator: 2
+
+Example 16:
+Text: It's understandable to have a relationship end.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's good to shop around for the best price
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to care about someone and not want them to be in trouble.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's rude to occupy the bathroom for too long.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is unattractive to have too much body hair.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's expected that a child will be curious about a parent who they don't know.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to convey your feelings to your partner about having children.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's expected you retire if you've won the lottery
+Annotation from annotator: 2
+
+Example 24:
+Text: It is okay to change your mind about a big life decision.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's good to welcome your children into your home with love.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is expected that attendance is mandatory for certain events.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's rude for a landlord to drop by unannounced.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's understandable that people play pranks sometimes.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's not a good idea to bring a dog to a graveyard.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's wrong to flirt with someone when you're married.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should seek mental help from a professional if you fantasize about your life ending.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

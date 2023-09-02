@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I'm relatively new here. Short of totally protecting the pages, what strong-arm tactics do my colleagues have in mind?
+Annotation from annotator: 15
+
+Example 2:
+Text: I bow to your superior knowledge of Irish :-)  One question - the Irish Wikipedia is called Vikipedia? How so - there's no 'v' in the Irish alphabet?
+Annotation from annotator: 14
+
+Example 3:
+Text: I noticed, that for users warned before, Huggle still uses level 1 warning. Is there anything I can do?
+Annotation from annotator: 17
+
+Example 4:
+Text: I've commented on this on the talk page. Could it be resolved there, rather than both of you just reverting each other?
+Annotation from annotator: 14
+
+Example 5:
+Text: Hardly. Does the <url> exercise executive control over Northern Ireland?
+Annotation from annotator: 11
+
+Example 6:
+Text: See my comment on the talk page. How did this ever get to DYK?
+Annotation from annotator: 14
+
+Example 7:
+Text: I don;t like commons because when i try to link things in the description it never works because it links only to commons. what is that?
+Annotation from annotator: 12
+
+Example 8:
+Text: I saw you removed the copyright CSD from Universum University as being "unclear copyright status".  What am I missing?
+Annotation from annotator: 14
+
+Example 9:
+Text: You recently edited this page. It is my view that this page is just a corporate marketing listing, there are several hundred companies that do the same job yet are not listed in Wikipedia - Do you not think that this is advertorial?
+Annotation from annotator: 12
+
+Example 10:
+Text: Very well I won't contact you anymore. Geez, whatever happen to the spirit of collaboration?
+Annotation from annotator: 6
+
+Example 11:
+Text: I've asked Jza84 if he could have a go at drawing a new plan, he's asking if we have any source material he could work from. The only one I can think of is the plan currently in the article, do you have any others?
+Annotation from annotator: 15
+
+Example 12:
+Text: It's just, what becomes of <url>? Is the mention really there or not?
+Annotation from annotator: 13
+
+Example 13:
+Text: I note that you've edited since this was brought up here. Could you please respond?
+Annotation from annotator: 16
+
+Example 14:
+Text: I had that fixed before you oranged me, I swears it! :) Are you not familiar with the technique of doubling your edit count using typos?
+Annotation from annotator: 13
+
+Example 15:
+Text: Hello. Who are you, and when are we to have met or communicated in the past?
+Annotation from annotator: 15
+
+Example 16:
+Text: How is the copyediting going? Do you still need a copyeditor?
+Annotation from annotator: 16
+
+Example 17:
+Text: The notion that a hunter would kill dozens of birds with a single shot seems outlandish to me.  Do you have a reference for this?
+Annotation from annotator: 14
+
+Example 18:
+Text: That sounds fine, but why would you want somebody who knows nothing about the show to write them? If you are informed about it, wouldn't you be a good person to do it?
+Annotation from annotator: 12
+
+Example 19:
+Text: OK, maybe I only started noticing it after that incident. Do you have diffs for your earlier opinions?
+Annotation from annotator: 15
+
+Example 20:
+Text: This template is misleading since the subject is a motorcycle racer and the template was made for Formula 1 drivers. Will I have to create a new template for motorcycle racers?
+Annotation from annotator: 14
+
+Example 21:
+Text: PS, I would seriously like an answer to my question above. What is your native language and where do you come from?
+Annotation from annotator: 10
+
+Example 22:
+Text: FYI, it appears a "campaign" has begun where people are signing up to Wikipedia for the purpose of saying "Keep" on the James Girvin AfD page (<url>). This is the first time I'm seeing such a movement, if you wish to call it that... :) Have you seen something like this in the past?
+Annotation from annotator: 16
+
+Example 23:
+Text: I thought this problem (non-Latin characters being changed to ??????? when people edit in certain browsers) had been fixed, but maybe there are browsers out there that don't support Unicode even with the fix?
+Annotation from annotator: 14
+
+Example 24:
+Text: Maybe the ip adress is blocked???
+Annotation from annotator: 14
+
+Example 25:
+Text: Which of course is all the more ironic as my initial edits were an attempt to ''improve'' the article per <url>. Who the hell would have predicted all this?
+Annotation from annotator: 10
+
+Example 26:
+Text: Then why is the article for the monastery in Lhasa as "Ganden" instead of "Gandan"? Do both the monasteries have the same name?
+Annotation from annotator: 15
+
+Example 27:
+Text: I have posted a question at <url> which you may be able to answer. Can you please return to that discussion to answer it?
+Annotation from annotator: 18
+
+Example 28:
+Text: Many thanks. I'm afraid I don't know the reel - is it played in your part or the world?
+Annotation from annotator: 20
+
+Example 29:
+Text: Great work you've been doing on this. Would you agree with me that International Political Economy should be capitalised?
+Annotation from annotator: 18
+
+Example 30:
+Text: Thanks, was getting worried there for a moment. Have you though of asking Outriggr for a hand with <url>?
+Annotation from annotator: 16
+
+Target Example:
+Text: Good day, sorry to bother you. Is the 2:00 am news brief called eyewitness news everynite, and if it is do they play move closer to your world?
+Annotation from annotator:

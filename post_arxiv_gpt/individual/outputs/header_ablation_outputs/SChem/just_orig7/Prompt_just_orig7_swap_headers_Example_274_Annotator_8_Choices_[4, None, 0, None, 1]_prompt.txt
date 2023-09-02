@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: It's rude to be ashamed of people that love you.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's good to work at home.
+Annotation from annotator: 2
+
+Example 3:
+Text: You don't have to let other people beat you in a competition.
+Annotation from annotator: 3
+
+Example 4:
+Text: You shouldn't be up and about if you're sick.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's normal to want to clear up space.
+Annotation from annotator: 3
+
+Example 6:
+Text: It is mean to get involved in an affair with someone in a relationship.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's okay to be upset if someone you report to at work lets you take the blame for something you didn't do.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's important to give helpful feedback to someone who doesn't pass their driver's license test.
+Annotation from annotator: 3
+
+Example 9:
+Text: You should only call the cops for emergencies.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is ok to live with a roommate of the opposite sex if you are just friends.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's fine to ban anyone you want to from an online account.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's expected that you'll stay home from work when you are sick.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is understandable for parents to want to take care of their child when they are in need.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should be accepting of having a half-sibling
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to teach children that their boundaries should be respected.
+Annotation from annotator: 3
+
+Example 16:
+Text: It is reasonable to want to hold onto loving memories after losing someone.
+Annotation from annotator: 4
+
+Example 17:
+Text: You should always help out your family with money.
+Annotation from annotator: 2
+
+Example 18:
+Text: It is dangerous for a grandparent to risk a fall.
+Annotation from annotator: 3
+
+Example 19:
+Text: You should not pursue a relationship with someone much younger than you.
+Annotation from annotator: 2
+
+Example 20:
+Text: It is bad to let addiction control your life.
+Annotation from annotator: 4
+
+Example 21:
+Text: You don't need to accept apologies if you're not ready to move on
+Annotation from annotator: 2
+
+Example 22:
+Text: It's wrong to take pennies from a wishing fountain.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's inappropriate to make passes at an underling.
+Annotation from annotator: 4
+
+Example 24:
+Text: You don't owe a partner an explanation of past relationships.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's okay to carry your pet in public as a status symbol
+Annotation from annotator: 3
+
+Example 26:
+Text: You should treat employees well
+Annotation from annotator: 3
+
+Example 27:
+Text: It is immoral for a supervisor to pursue their employees romantically.
+Annotation from annotator: 3
+
+Example 28:
+Text: You shouldn't be with someone you don't love.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's understandable if you can't keep your political leanings out of your religion lectures.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's wrong to love people who are engaged.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

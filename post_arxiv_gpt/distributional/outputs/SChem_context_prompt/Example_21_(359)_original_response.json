@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVmquIvuDdHhv5Dmg1faGtvJ5H3V",
+    "object": "chat.completion",
+    "created": 1686314744,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 549,
+        "completion_tokens": 100,
+        "total_tokens": 649
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n10.00% of responsive annotators labeled the text with 1\n50.00% of responsive annotators labeled the text with 2\n35.00% of responsive annotators labeled the text with 3\n5.00% of responsive annotators labeled the text with 4\n\nPrediction: The soft label for the target text \"It's OK to be wrong\" is 2 (controversial)."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

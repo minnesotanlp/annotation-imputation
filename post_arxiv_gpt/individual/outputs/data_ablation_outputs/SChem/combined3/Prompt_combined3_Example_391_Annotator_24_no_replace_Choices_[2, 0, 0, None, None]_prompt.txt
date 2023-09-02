@@ -1,0 +1,205 @@
+Estimated Examples:
+Example 1:
+Text: You should always know why you do things.
+Annotation from annotator: 2
+
+Example 2:
+Text: Adults are expected to bathe daily.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shoulld not worry about others being jealous when posting things on facebook.
+Annotation from annotator: 3
+
+Example 4:
+Text: You shouldn't constantly think about death and dying.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's fun to go cart racing as long as you're careful.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't clone dinosaurs because that would just cause a lot of problems.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't date a bad partner.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's expected that a parent be polite to their children.
+Annotation from annotator: 4
+
+Example 9:
+Text: It is wrong to want to be humiliated.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's wrong to grow apart from your partner.
+Annotation from annotator: 2
+
+Example 11:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is good to be yourself.
+Annotation from annotator: 4
+
+Example 13:
+Text: It is bad to have arguments.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should feel remorse when you get someone fired.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's okay to hurt somebody who's stealing from you
+Annotation from annotator: 2
+
+Example 16:
+Text: It's good to have something in your life that you love with every fiber of your being.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's wrong to lash out at someone.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's wrong to sleep around.
+Annotation from annotator: 3
+
+Example 20:
+Text: You don't need to accept apologies if you're not ready to move on
+Annotation from annotator: 3
+
+Human-Rated Examples:
+Example 1:
+Text: It's selfish to expect your husband to give you his entire estate.
+Annotation from annotator: 4
+
+Example 2:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 2
+
+Example 3:
+Text: People will think you're a coward if you refuse to help others.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is understandable for parents to want to take care of their child when they are in need.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's good to find proof of cheating you perceive to be happening.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should tell your partner you don't want to be with them anymore.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 4
+
+Example 8:
+Text: You should be able to give criticism to your friends.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's good to recognize the problems with being attracted to someone much younger than you.
+Annotation from annotator: 4
+
+Example 10:
+Text: It’s important to have hobbies.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 3
+
+Example 12:
+Text: You should always help out your family with money.
+Annotation from annotator: 4
+
+Example 13:
+Text: It is good to have rules.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's bad to be only attracted to fictional characters.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's important to give helpful feedback to someone who doesn't pass their driver's license test.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to talk to your friends about sensitive topics.
+Annotation from annotator: 1
+
+Example 17:
+Text: You shouldn't put up an antenna if it's snowing outside.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is ok to live with a roommate of the opposite sex if you are just friends.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's understandable to be uncomfortable with people that are different than you.
+Annotation from annotator: 2
+
+Example 20:
+Text: You should be understanding of your family's decisions when they're weak.
+Annotation from annotator: 4
+
+Example 21:
+Text: You should let your ex go.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's bad to hold a grudge against your parents.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's rude to be ashamed of people that love you.
+Annotation from annotator: 3
+
+Example 24:
+Text: You should not engage in romance with a patient you treat.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's understandable that sometimes people have reasons not to trust someone.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's important to respect the culture of other people.
+Annotation from annotator: 4
+
+Example 27:
+Text: You shouldn't be hypocritical.
+Annotation from annotator: 4
+
+Example 28:
+Text: You should not emotionally abandon your partner.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's bad to be divorced with children.
+Annotation from annotator: 1
+
+Example 30:
+Text: Businesses should treat customers with courtesy if they expect them to return.
+Annotation from annotator: 4
+
+Target Example:
+Text: It's bad to prematurely quit because of frustration.
+Annotation from annotator:

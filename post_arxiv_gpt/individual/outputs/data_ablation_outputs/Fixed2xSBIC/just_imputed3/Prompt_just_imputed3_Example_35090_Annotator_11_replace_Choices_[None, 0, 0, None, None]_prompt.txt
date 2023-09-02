@@ -1,0 +1,126 @@
+Estimated Examples:
+Example 1:
+Text: Jet lag made me wake up at 6:55 am today!! I would like to think this will last but I'm 100% sure I'll go back to my 2 am bedtime tonight.
+Annotation from annotator: 0
+
+Example 2:
+Text: I don't understand the point of being emo.. so stupid. Sick and tired of all this emo bullshit
+Annotation from annotator: 0
+
+Example 3:
+Text: HELL. Now they'll know I've been your sockpuppet all along. @TheQuinnspiracy
+Annotation from annotator: 0
+
+Example 4:
+Text: Looking for #blinds #shutters or #curtains Check out World of Blinds at 60 Seafield Road, #Inverness The North's most trusted name in windo…
+Annotation from annotator: 0
+
+Example 5:
+Text: My account showed wired activity after my last thread
+Sounds like the fbi to me,should i be worried?
+Annotation from annotator: 0
+
+Example 6:
+Text: I love black people What, can't be wholesome here automod?
+Annotation from annotator: 0
+
+Example 7:
+Text: I fucking HATE people that torch my time. $8 community is fucking CANCER!
+Annotation from annotator: 0
+
+Example 8:
+Text: FUCK. YEAH. LET'S DO THIS SHIT. #resist #resistmore #resistagain #FUCKINGRESIST https://t.co/4VVI2T3ZZ3
+Annotation from annotator: 0
+
+Example 9:
+Text: What do you call a failed surgery? An autopsy
+Annotation from annotator: 0
+
+Example 10:
+Text: Two seals walk into a club That's it, they got poached
+Annotation from annotator: 0
+
+Example 11:
+Text: Too bad about all the damn Cubans down there.
+Annotation from annotator: 0
+
+Example 12:
+Text: I heard Avicii has died... Wake me up when its all over.
+Annotation from annotator: 0
+
+Example 13:
+Text: I just assumed you were my nurse.
+Annotation from annotator: 0
+
+Example 14:
+Text: Congratulations, Illinois, on becoming the 15th state to reach marriage equality! #marriageequality #dabears
+Annotation from annotator: 0
+
+Example 15:
+Text: Beta Cuck Paul Ryan is just acting weird because he got a grain of sand in his vagina during his vacation and he's taking it out on his voting base
+Annotation from annotator: 0
+
+Example 16:
+Text: Every time I play a Patapon game and hear the "Ushishi Theme", I think of a beatboxing monkey. "YO YO YO GET UPPA!!!"
+Annotation from annotator: 0
+
+Example 17:
+Text: I don’t want to give psychos any ideas but if you use your imagination it doesn’t take a rocket scientist to come up with ways to commit mass murder without a gun
+#2A
+Annotation from annotator: 0
+
+Example 18:
+Text: #MUFC's V2 rocket style of football is fucking sickening! Shite!
+Annotation from annotator: 0
+
+Example 19:
+Text: .@usdnobody @graphicfire I was sure it was fake...until it went too long...no one works that hard on a Poe...just vapid childish PC trash.
+Annotation from annotator: 0
+
+Example 20:
+Text: How do you make a 4 year old cry twice? Wipe your bloody dick on their teddy bear
+Annotation from annotator: 1
+
+Example 21:
+Text: I think it's pretty telling that the 14-year-old boys on Twitter sound exactly like the grown men (and I use that term loosely).
+Annotation from annotator: 0
+
+Example 22:
+Text: What's the worst type of wish you can get. The type from a foundation.
+Annotation from annotator: 0
+
+Example 23:
+Text: Hey @NBAOfficial the refs in Toronto are fucking trash
+Annotation from annotator: 0
+
+Example 24:
+Text: Amazing trickshot! BREAKING NEWS: A woman standing on a basketball rink after getting V.I.P tickets from an overly-calculating player has had an instant miscarriage moments after hearing them say, "And finally, off that fat woman!"
+Annotation from annotator: 0
+
+Example 25:
+Text: Sex is like Algebra I’m really bad at it but Mr Reed keeps forcing me to do it.
+Annotation from annotator: 0
+
+Example 26:
+Text: My heart just went stone fucking cold — feeling apathetic
+Annotation from annotator: 0
+
+Example 27:
+Text: This world has too many heros, what we need is more heroines... Too bad demi levato took them all
+Annotation from annotator: 1
+
+Example 28:
+Text: Look, the only live action Disney remake I want is the Emperor’s New Groove and I want there to be no CGI
+Annotation from annotator: 0
+
+Example 29:
+Text: So my wife admitted to doing some "questionable" things with the cucumbers... ...no wonder they tasted like her sister.
+Annotation from annotator: 0
+
+Example 30:
+Text: While discussing a slightly crappy hostel a friend and I had just booked for our all-female college sports team... Guy friend:: oh my gosh you guys are going to get raped there, and then laughs. It made me feel like rape is something normalized and generally accepted in our society.  Also like it would be our faults if something so horrible happened because we decided to stay there.
+Annotation from annotator: 0
+
+Target Example:
+Text: #FollowAttack @MemorialRifleRange @Catspajamas @Aphasia @daph @littlebackstory @Laughing_Ginger @Cowboyshepherd @Bikers4Liberty @slabside45 @404 @LionsOmega @dandylionsummer
+Annotation from annotator:

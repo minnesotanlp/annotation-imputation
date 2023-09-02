@@ -1,0 +1,128 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Correct Examples:
+Example 1:
+Text: What supporter was the only thing that couldn't save Stephen Hawking? Life Support.
+Annotation from annotator: 0
+
+Example 2:
+Text: .@MyKeyMoonShine @Grummz i don't think you understand what gaslighting means. but that's adorable.
+Annotation from annotator: 0
+
+Example 3:
+Text: Are there any anticircumcision/restoration organizations in CA, or online that accept volunteers?
+Annotation from annotator: 0
+
+Example 4:
+Text: Yeah my trust all fucked up! Y'all lie for no reason &#129318;&#127997;‍♀️
+Annotation from annotator: 0
+
+Example 5:
+Text: Watching Strong Woman Do Boog Soon during public speaking because I've decided that's a better use of my time
+Annotation from annotator: 0
+
+Example 6:
+Text: Funny how The Weeknd sings about being emotionless but has had a couple of open relationships. Hmmm
+Annotation from annotator: 0
+
+Example 7:
+Text: So yall hoes still surfboard'n in the tub or nah?
+Annotation from annotator: 0
+
+Example 8:
+Text: Why is Mexico so bad at the Olympics? Because every mexican that can run, jump and climb is allready on the U.S.A
+Annotation from annotator: 2
+
+Example 9:
+Text: It's impossible to get excited about anything when you have no friends
+Things that are fun an exciting for normies, holidays and special events, are just suicidal fuel for subhumans.
+Annotation from annotator: 0
+
+Example 10:
+Text: &#8220;@Ashley_J12: Shout out to my momma cuz she didn't raise no hoe! &#128076;&#128079;&#128588;&#8221;
+Annotation from annotator: 0
+
+Example 11:
+Text: Black people are contributors to the society. If someones locks this then they have the BIG GAY
+Annotation from annotator: 0
+
+Example 12:
+Text: What's the difference between a jew and a pizza? The pizza doesn't screems when it gets into the oven
+Annotation from annotator: 2
+
+Example 13:
+Text: When you at a open bar and get 10% beers tryna strategize but end up getting drunk sooner than expected &lt;&lt;
+Annotation from annotator: 0
+
+Example 14:
+Text: """i've got these fucking barney rubbles in my mentions"""
+Annotation from annotator: 0
+
+Example 15:
+Text: Top gilded comment states, in an evasive, manipulative manner, that all men are objectifying her.
+Annotation from annotator: 0
+
+Example 16:
+Text: Condoms don't guarantee full protection I was having sex with this girl and got shot by her boyfriend
+Annotation from annotator: 0
+
+Example 17:
+Text: Ashley: why does Connor match your couch Connor: BECAUSE IM FUCKING COORDINATED YOU UNTALENTED HOOKER
+Annotation from annotator: 0
+
+Example 18:
+Text: Ball is life? No bitch bench is life &#128075;
+Annotation from annotator: 0
+
+Example 19:
+Text: What do you call an expensive Jewish prostitute? A holla cost
+Annotation from annotator: 2
+
+Example 20:
+Text: My grandma keeps telling me to eat my vegetables fresh. But it's kind of hard when they're all praising him for his theories.
+Annotation from annotator: 0
+
+Example 21:
+Text: It's sad to see a bad bitch with a wack ass guy /:
+Annotation from annotator: 0
+
+Example 22:
+Text: Man I hate the sun Hope the guy who created it has to see his son crucified.
+Annotation from annotator: 0
+
+Example 23:
+Text: Hoping to find a sexy guy to have some fun with
+Annotation from annotator: 0
+
+Example 24:
+Text: What do I love the most about my Jewish girlfriend? Dat ash
+Annotation from annotator: 2
+
+Example 25:
+Text: There's so much plastic in this culture that vinyl leopard skin is becoming an endangered synthetic. ― Lily Tomlin
+Annotation from annotator: 0
+
+Example 26:
+Text: RT @KILLSheredon: you the nigga in high school who got shoved into lockers and thrown into trash cans @TvvitterRoasts
+Annotation from annotator: 2
+
+Example 27:
+Text: Chingle changle goes the jew Because of the pennies in his pocket that he stole from you
+Annotation from annotator: 2
+
+Example 28:
+Text: HUGE congrats goes out to @1erinrichardson for winning the @UofT National Scholarship! Couldn't have gone to anyone more deserving!&#128079;&#127881;
+Annotation from annotator: 0
+
+Example 29:
+Text: I got to get the trash out and make breakfast for the Frau and start laundry so y'all be good till I get back. Cracker Out!
+Annotation from annotator: 0
+
+Example 30:
+Text: Slavery shouldn't exist
+Annotation from annotator: 0
+
+Target Example:
+Text: Man tricks women into aborting a baby she wants but he doesn't, discussion on /r/NotTheOnion
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

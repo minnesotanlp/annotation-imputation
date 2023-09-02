@@ -1,0 +1,122 @@
+Example 1:
+Text: <person>, with whom you discussed linkspam in 2006, has returned. Could you offer your views on his talkpage?
+Annotation from annotator: 13
+
+Example 2:
+Text: Hope you get the concerns worked out. Question: Why is the bot using <nowiki><sup>2</sup></nowiki> instead of xb2 ?
+Annotation from annotator: 16
+
+Example 3:
+Text: Hey, Rcej! ;) Would you be up to reviewing <url>?
+Annotation from annotator: 16
+
+Example 4:
+Text: Hope that you don't mind, I modified your comment in the Craig intro, using a nice new template that I found.  Check it out: what do you think?
+Annotation from annotator: 23
+
+Example 5:
+Text: Hi.  Why did you blank the redirect at <url>?
+Annotation from annotator: 12
+
+Example 6:
+Text: Can I ask why you deleted this AfD as "A3: Article has no meaningful, substantive content"?  It obviously did have meaningful content; was there any reason it couldn't simply be closed like any other AfD?
+Annotation from annotator: 10
+
+Example 7:
+Text: Um. Could you remind me again tomorrow if I forget?
+Annotation from annotator: 16
+
+Example 8:
+Text: Delete, who cares. If we're going to delete every fair use image that ''has'' a sufficient rationale, why not change to German Wikipedia image policy already?
+Annotation from annotator: 10
+
+Example 9:
+Text: Other than that I think the artical is ready to go. What say you?
+Annotation from annotator: 14
+
+Example 10:
+Text: Hi, why did you remove <url>, <url>, <url> with <url> ? Do you think we'd better put them into article directly ?
+Annotation from annotator: 14
+
+Example 11:
+Text: It turns out that the Zelda Collection you referred to in <url> didn't include aLttP, reportedly because the GBA remake was still being sold at that time, so that disc included NES and N64 emulation but left out SNES. Do you have another example?
+Annotation from annotator: 12
+
+Example 12:
+Text: The Hitchin-related hoax claims by <url> seem to have led to a rather precipitate response, considering that he has only been an editor for a few days.  Is there something going on here that isn't obvious?
+Annotation from annotator: 10
+
+Example 13:
+Text: Wikipedia is not IMDb, which can easily be used (and is more suited) to providing complete soundtrack listings for pretty much every movie ever made. Would you care to address any of the other points I've brought up?
+Annotation from annotator: 8
+
+Example 14:
+Text: Sorry for the slow reply, something I needed to take care of. <url> is restored- if it is mentioned in such <url>, could you please <url> them in the article?
+Annotation from annotator: 18
+
+Example 15:
+Text: Well, don't everyone talk all at once now. :) Any suggestions for the article ?
+Annotation from annotator: 14
+
+Example 16:
+Text: Maybe you should consider a user name change? To, say, "Sarah 'The Hammer' Ewart"?
+Annotation from annotator: 10
+
+Example 17:
+Text: I can't find a page by that name that has ever existed. Can you please specify the exact name (capitalization is important), or link to the deletion log or discussion?
+Annotation from annotator: 14
+
+Example 18:
+Text: Hi, I was wondering why it is that <url> only has two articles in it -- and whether it should be kept. Has it ever been more fully populated?
+Annotation from annotator: 14
+
+Example 19:
+Text: Speaking of GregU's script, something in your script seems to be messing up the former. Do you know what it is?
+Annotation from annotator: 13
+
+Example 20:
+Text: Well? What do you think?
+Annotation from annotator: 12
+
+Example 21:
+Text: The CLI does not have page numbers for the main sections so you will have to look at 4.1.2.2.  As well, since the linguistic divisions of Iranian are not really disputed, can you give me a source that has these languages as Persian dialects?
+Annotation from annotator: 13
+
+Example 22:
+Text: Hello. Since you have contributed to <url> in the past, could you spare a minute to discuss the fate of <url>?
+Annotation from annotator: 18
+
+Example 23:
+Text: I pretty much agree with <url>, except I would like to know why you modified the see also section to be a hatnote. Doesn't <url> have specific requirements for this?
+Annotation from annotator: 11
+
+Example 24:
+Text: ? What?
+Annotation from annotator: 12
+
+Example 25:
+Text: I'm glad you're pleased with the general appearance.  Before I label all the streets, is the text size, font style, etc OK?
+Annotation from annotator: 23
+
+Example 26:
+Text: Certainly the work is out of copyright, and some of the neighboring volumes in the series are visible on archive.org (and I don't have trouble with other books on google generally).  I wonder if you know of any way, or could suggest any way, that I could get to see the downloaded pdf of Newcomb vol.6?
+Annotation from annotator: 15
+
+Example 27:
+Text: That "guest" could have been an undercover Colbert staff member and the whole segment could have been staged. Otherwise, why would Colbert have taken 3 minutes out of his show to talk to someone in the audience?
+Annotation from annotator: 12
+
+Example 28:
+Text: Aren't you supposed to move a page rather than just copy and paste it, to preserve the edit history for copyright purposes? And don't you have to move the talk page too?
+Annotation from annotator: 11
+
+Example 29:
+Text: Yeah, I thought the anime was first. Would it still make sense to include <url>?
+Annotation from annotator: 15
+
+Example 30:
+Text: Ah! Who said that Wikipedia administrators were not romantics?
+Annotation from annotator: 14
+
+Text: I tried <url> and it worked for me. What articles did you try using it on?
+Annotation from annotator:

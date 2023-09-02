@@ -1,0 +1,122 @@
+Example 1:
+Text: You shouldn't take it too personally if someone leaves you out of their plans
+Annotation from annotator: 3
+
+Example 2:
+Text: You should treat employees well
+Annotation from annotator: 3
+
+Example 3:
+Text: It's good to want to be able to back up your words.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's bad to make patrons of a business feel unwelcome.
+Annotation from annotator: 3
+
+Example 5:
+Text: You shouldn't call out your family over petty things.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's okay to be offended when your partner doesn't want you cooking for their kids.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is understandable to call the police when you know someone is committing a crime.
+Annotation from annotator: 3
+
+Example 8:
+Text: You shouldn't post inappropriate pictures online.
+Annotation from annotator: 3
+
+Example 9:
+Text: You can't expect everyone to like you.
+Annotation from annotator: 3
+
+Example 10:
+Text: You shouldn't clone dinosaurs because that would just cause a lot of problems.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's expected that kids will do things to help out their parents.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's expected that you'll stay home from work when you are sick.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is okay to not trust everyone.
+Annotation from annotator: 3
+
+Example 14:
+Text: Throwing unused cardboard in the garbage is wasteful.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is okay to not want to go to a party.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's good to socialize with others at school.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is wrong to be jealous of the success of your sibling.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's rude to dislike your best friend's boyfriend.
+Annotation from annotator: 2
+
+Example 19:
+Text: It is good to have friends who are there for you.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is understandable for parents to want to take care of their child when they are in need.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's okay to feel ashamed about behavior you know is self-destructive.
+Annotation from annotator: 3
+
+Example 22:
+Text: You should treat a person with a disability the same as you would anyone else.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's important to take advice of your parents.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's noble to be true to yourself.
+Annotation from annotator: 3
+
+Example 25:
+Text: If you don't want to crash, you shouldn't drive recklessly.
+Annotation from annotator: 3
+
+Example 26:
+Text: You should be happy when someone wants to invest in your company.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's wrong to think you're responsible for somebody else's life
+Annotation from annotator: 2
+
+Example 28:
+Text: It's nice to worry about your friends.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's wrong to grow apart from your partner.
+Annotation from annotator: 3
+
+Example 30:
+Text: Friendships ought to be valued over material possessions.
+Annotation from annotator: 3
+
+Text: You shouldn't play your music really loudly because it's rude and annoying.
+Annotation from annotator:

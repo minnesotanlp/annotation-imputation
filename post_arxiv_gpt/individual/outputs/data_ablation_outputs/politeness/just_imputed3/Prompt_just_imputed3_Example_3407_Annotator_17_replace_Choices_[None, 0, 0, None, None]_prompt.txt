@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I suppose I should not have used rollback. I was aware of the problem, but you had not solved it, had you?
+Annotation from annotator: 5
+
+Example 2:
+Text: you need a copy, you say... by that you mean a translation, or one which has been reconstructed to meet en. wiki coding?
+Annotation from annotator: 8
+
+Example 3:
+Text: The image is only used on ONE page - the site of the film.  What is the problem here, and how does it violate wikipedia policy?
+Annotation from annotator: 8
+
+Example 4:
+Text: Hello Roman! If you have time, could you add a <url> infobox (with census data) for <url>?
+Annotation from annotator: 16
+
+Example 5:
+Text: SuaveArt has edited his post on the Wikipedia Review and is now lying about me. Did you see the actual post there before he changed it so you can back up my cut-n-paste of what it said?
+Annotation from annotator: 5
+
+Example 6:
+Text: Yesterday you undid an edit of mine (on the <url> article). What did you mean by "a COI link"?
+Annotation from annotator: 15
+
+Example 7:
+Text: Concerning <url>, I must say I am a bit confused: isn't the article's title "Austria<span style="color:red">u2013</span>Hungary" (where, incidentally, it was moved after an "Austria<span style="color:red">-</span>Hungary" period)? It's really no big deal, but how can something be both correct and incorrect, and which standard are we at long last supposed to follow?
+Annotation from annotator: 12
+
+Example 8:
+Text: I have addressed many of the points that you had brought up at the FAC, as well as many of the comments from other editors, some of whom have changed their sentiment recently to "Support".  Perhaps you could reevaluate your stance on the article, and see if you feel you could change your position in the current FAC?
+Annotation from annotator: 17
+
+Example 9:
+Text: Where are the actual findings of fact and sanctions in Haiduc's case? Do they need to be tweaked?
+Annotation from annotator: 16
+
+Example 10:
+Text: Number of articles on South Slavic languages is now pretty high and I'd like to add '''Category:South Slavic languages''' as subcategory to '''Category:Slavic languages''', possibly with subcategories on individual languages. The catch is, I don't know how :-) -- could you point me to relevant Wiki links or start the job yourself and let me finish it?
+Annotation from annotator: 20
+
+Example 11:
+Text: ????????????
+Annotation from annotator: 4
+
+Example 12:
+Text: Thank you for correcting the error on my user page. I have a question how does one go about archiving his talk history?
+Annotation from annotator: 18
+
+Example 13:
+Text: The Nyan Cat is a flying cat with a toast instead of its body. Isn't quite similar?
+Annotation from annotator: 8
+
+Example 14:
+Text: Jitse, quick question. When a user is blocked, is their IP address blocked also?
+Annotation from annotator: 20
+
+Example 15:
+Text: Can you check if there was ever an article for "Kenneth Eng"? It seems to have been deleted, if so could you supply me with an archive of the article?
+Annotation from annotator: 16
+
+Example 16:
+Text: Hi Carnildo, I've just noticed the <url> stopped working last week. Could you advise whether it's going to be restarted, or whether I should manually remove red links from articles for the last weeek?
+Annotation from annotator: 7
+
+Example 17:
+Text: I just reverted your edits to the <url> page, because you seemed to make a number of major changes without providing an explanation for them, except the word 'Infobox' in your edit summary. Can you provide any references for the changes?
+Annotation from annotator: 16
+
+Example 18:
+Text: Just move <url> to <url>. And shouldn't the clean-up parameter be added to <url> also to make it work?
+Annotation from annotator: 7
+
+Example 19:
+Text: Sure. A redirect how though?
+Annotation from annotator: 16
+
+Example 20:
+Text: Regarding <url>, <url> says not to redlink in See also (asking people to also see something non-existing would be strange). Are you planning an article or misspelled an existing article?
+Annotation from annotator: 16
+
+Example 21:
+Text: Thank you for catching Known for Know.  How did you happen to look at the article?
+Annotation from annotator: 16
+
+Example 22:
+Text: I'd like not to receive any notices from this bot on my talk page. Is there a way to do this?
+Annotation from annotator: 8
+
+Example 23:
+Text: The page is getting smacked literally every half minute or so, and I think the joke's worn thin. Give us a break?
+Annotation from annotator: 4
+
+Example 24:
+Text: Hi, I see you were involved in creating the ship infobox. Would you be interested in creating an infobox for windmills so that I could use it on individual windmill articles?
+Annotation from annotator: 20
+
+Example 25:
+Text: Im interested in where you got the information you added stating woodlands house was closed in 2003. As far as i can see your wording was taken from one website, the milesfaster one. Should you not cite the website you quoted rather than look for a couple of others?
+Annotation from annotator: 8
+
+Example 26:
+Text: ''You wrote:'' I'm not trying to be obtuse, but is what you're saying in essence that if we cannot tell whether an award is utterly trivial then that uncertainty becomes sufficient assertion of notability to not apply A7? So if an assumption needs to be made, or discretion employed, A7 doesn't apply because the assertion of notability has been made?
+Annotation from annotator: 8
+
+Example 27:
+Text: Hello. I was wondering if any of the books you have can shed much more light on <url>?
+Annotation from annotator: 16
+
+Example 28:
+Text: I was unaware of <url> when prodding the article.  However, bearing the <person> tag on <url>, is this list really usefull?
+Annotation from annotator: 8
+
+Example 29:
+Text: I see you've given her a code name in <url>. Where did you run across this tidbit?
+Annotation from annotator: 8
+
+Example 30:
+Text: These two factors make me think that Indian ice-cream is a better name for the article than sxusem.  What are your thoughts on this?
+Annotation from annotator: 16
+
+Target Example:
+Text: Hi Taivo, I'm beginning to have my suspicions that Fellowscientist might be you-know-who from past debates. Am I being paranoid?
+Annotation from annotator:

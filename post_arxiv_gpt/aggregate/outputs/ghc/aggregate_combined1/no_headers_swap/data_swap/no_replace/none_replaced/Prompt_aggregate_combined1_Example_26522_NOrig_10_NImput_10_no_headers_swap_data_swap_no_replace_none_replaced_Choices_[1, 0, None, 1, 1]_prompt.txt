@@ -1,0 +1,83 @@
+Human-Labeled Majority-voted Examples:
+Example 1:
+Text: Those who talk about taking action won't do it themselves. I won't. 
+Annotation: 0
+
+Example 2:
+Text: After Booker slamming Pompeo on gays to turn around and vote against Grenell to be the US Ambassador to Germany, I guess the communist resistance figured they needed a woman to dump on Haspel.
+Annotation: 0
+
+Example 3:
+Text: Gym sign upsets fat people! 
+Annotation: 0
+
+Example 4:
+Text: I'm moving so not worried about self doxing... thats down the street from where I live rn. I live just off the college campus here. Its niggerville. I call it Detroit Jr.
+Annotation: 0
+
+Example 5:
+Text: Hundreds of innocent bystanders have their jobs taken from them over a joke Roseanne tweeted & the number of Americans calling this censorship "justice" makes me want to puke. 
+Annotation: 0
+
+Example 6:
+Text: Time to look for a new beer. Bud tastes like shit now.
+Annotation: 0
+
+Example 7:
+Text: Republican students should take their enrollment elsewhere. Berkeley is no longer a prestigious university and has been discredited as high standard academic institution. This decline in enrollment and withdrawal of Republican alumni support will hurt it where it counts: its hip pocket, Remember what happened to University of Southern Mississippi.
+Annotation: 0
+
+Example 8:
+Text: Seriously, that's not 12 weeks?
+Annotation: 0
+
+Example 9:
+Text: https://www.weeklystandard.com/benjamin-weinthal/iran-still-on-the-hunt-for-nuclear-weapons-technology-across-germany 
+Annotation: 0
+
+Example 10:
+Text: Deer do not understand private property rights.
+Annotation: 0
+Example 1:
+Text: There's a New Sheriff In Town and his name is; PRESIDENT DONALD J. TRUMP ! He was on POINT and on FIRE !  GOD BLESS PRESIDENT TRUMP ! #StopTheBias#MAGA#GabVets#GabFam
+Annotation: 0
+
+Example 2:
+Text: @TexasRancher45‍  
+Annotation: 1
+
+Example 3:
+Text: Rod Rosenstein’s wife is Clinton attorney
+Annotation: 0
+
+Example 4:
+Text: When I joined this group I was the 420th member. 
+Annotation: 0
+
+Example 5:
+Text: 100% correct. Not many years ago, they would have been hung.
+Annotation: 0
+
+Example 6:
+Text: I guess Jimmy Garoppolo never disappoints the 49ers after their win over the Cowboys tonight. Their upcoming regular season looks promising though, and the Cowboys did have a strong showing like always when it comes to scoring first. Richard Sherman might be great again whenever he's healthy-ready.
+Annotation: 0
+
+Example 7:
+Text: https://youtu.be/VhHaocfJGiA 
+Annotation: 0
+
+Example 8:
+Text: Thoughts and ideas on Philippians 2https://www.youtube.com/watch?v=lAum4V4B7oI  Share and subscribe!#Christianity #MAGA #Prayer #HolyBible #God #Jesus #KJV
+Annotation: 0
+
+Example 9:
+Text: They choose illegals over everybody. It’s their voter base.
+Annotation: 0
+
+Example 10:
+Text: Trump Refuses to Back Down on Mexico Paying for Wall, Mexican President's Trip to White House Called Off http://bit.ly/2CI2nPc
+Annotation: 0
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Text: Rush is right, 98% of the time over the last 28 years or so...wake , america, wake to this fuk government. we are one half inch from tyranny
+Annotation:
+Your output should be a single integer and nothing else.

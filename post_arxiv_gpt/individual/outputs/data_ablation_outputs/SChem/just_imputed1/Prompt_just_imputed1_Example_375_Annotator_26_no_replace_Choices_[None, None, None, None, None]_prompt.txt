@@ -1,0 +1,18 @@
+Example 1:
+Text: You should feel remorse when you get someone fired.
+Annotation from annotator: 3
+
+Example 2:
+Text: You shouldn't try to get sympathy from people just because you're in the hospital.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't be with someone who sleeps with your kids.
+Annotation from annotator: 4
+
+Example 4:
+Text: You shouldn't get upset at your partner.
+Annotation from annotator: 2
+
+Text: It's bad to feel other people are inferior to you.
+Annotation from annotator:

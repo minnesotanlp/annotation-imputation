@@ -1,0 +1,1 @@
+It is difficult to predict exactly how annotator C would label this example, but based on their previous annotations, it is likely to be around 12-16.0.

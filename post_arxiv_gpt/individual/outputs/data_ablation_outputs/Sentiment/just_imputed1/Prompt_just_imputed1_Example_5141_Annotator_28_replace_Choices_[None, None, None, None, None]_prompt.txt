@@ -1,0 +1,82 @@
+Example 1:
+Text: @salandpepper  so so so sad that you're lovely  old pic has gone, today was a grey monday without having lost your gorgeous blue sky!
+Annotation from annotator: 2
+
+Example 2:
+Text: @shnjhnsn You are technically old enough to be eaten up. You can't hide behind that apron string anymore.
+Annotation from annotator: 2
+
+Example 3:
+Text: @waterrose you see,I am too sleepy  I found you on your webpage! You look lovely! Too young to have grown up kids!
+Annotation from annotator: 3
+
+Example 4:
+Text: Brought my 2 year old son "EZ" to do construction @ the offices with me today. This could either be a disaster or a very special moment
+Annotation from annotator: 2
+
+Example 5:
+Text: I completely _Á_« looking back at old photos.. Shows you how far you have come
+Annotation from annotator: 2
+
+Example 6:
+Text: I just saw a guy get handcuffed. it was so sad cause all his 6 year old son could do was watch him  i wanna cry for him
+Annotation from annotator: 2
+
+Example 7:
+Text: I suddenly feel like getting a new guitar. My guitars are really ugly. Because they're old!
+Annotation from annotator: 2
+
+Example 8:
+Text: In the book department was a man who appeared to be quite old.
+Annotation from annotator: 2
+
+Example 9:
+Text: It has been confirmed that i am indeed horrible at putt putt!  had a blast seein my bestie & all the old boys tho! its been too long...
+Annotation from annotator: 3
+
+Example 10:
+Text: Pray for the family of mattie joe moore. She passed away at barely a month old.  It's heartbreaking.
+Annotation from annotator: 1
+
+Example 11:
+Text: This one I ordered last friday and tomorrow I am away the whole day, buahaha  Planned to bring my old Pro to the service for repair.
+Annotation from annotator: 2
+
+Example 12:
+Text: Uh uhhh seee these lil girls r nayasty acting. no no...protect the babies...thats y 13 yr olds havin lil baebaes..
+Annotation from annotator: 2
+
+Example 13:
+Text: Watching PLATO Courseware and wondering if and how to make it work for  3-7 year olds for the Kidoscomputer.com - anyone?  Any ideas?
+Annotation from annotator: 2
+
+Example 14:
+Text: When I started the book I thought all I needed to have a meaningful and healthy old age was to eat better and exercise.
+Annotation from annotator: 1
+
+Example 15:
+Text: While both men and women do hit that barrier when suddenly they're "too young" to be hired, or paid attention to, or be respected as effective agents... women hit it harder, and earlier.
+Annotation from annotator: 2
+
+Example 16:
+Text: i was reading old blogs, and it made me remember all the pain i was going through  wowww boys sometimes...
+Annotation from annotator: 2
+
+Example 17:
+Text: i'll meet yuuki soon~  today's class is just bored. but i like old Germany movies! ))
+Annotation from annotator: 2
+
+Example 18:
+Text: merging gmail contacts / kitties are getting old
+Annotation from annotator: 2
+
+Example 19:
+Text: oww im turning a year older tomorrow, happy birthday to me  btw, JAPAN IS AWESOME!!!! fuji is just breathtaking phew!
+Annotation from annotator: 3
+
+Example 20:
+Text: well, me and my friend were attacked by about 20, 5-8 year olds today that tried to lift up my dress and spat on me. LOVELY KIDS THEY ARE
+Annotation from annotator: 1
+
+Text: @sidhe77 I know!  now it's an oldies rock station. You were a DJ right? good times!
+Annotation from annotator:

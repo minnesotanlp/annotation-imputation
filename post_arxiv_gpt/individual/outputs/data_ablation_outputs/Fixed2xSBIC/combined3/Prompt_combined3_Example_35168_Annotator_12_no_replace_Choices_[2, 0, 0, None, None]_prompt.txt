@@ -1,0 +1,259 @@
+Estimated Examples:
+Example 1:
+Text: If you don't respect my right to exist, I won't respect yours.
+Annotation from annotator: 1
+
+Example 2:
+Text: You white Republican atheists who stayed home will pay the price...you can forget your tax break now!
+Annotation from annotator: 2
+
+Example 3:
+Text: Who the fuck puts a block of cheese in they room without a refrigerator ghetto ass niggas eases, like that's just the thing to do wrong.
+Annotation from annotator: 1
+
+Example 4:
+Text: how many emo kids does it take to change a light bulb ? i do n't know they keep crying on their hands and sticking them in the socket .
+Annotation from annotator: 2
+
+Example 5:
+Text: Life, liberty, and the pursuit of standing in a circle with your favorite people laughing at your own idiocy &#128525;.
+Annotation from annotator: 0
+
+Example 6:
+Text: I swear to god I never should have fucked with her... ooouuu toodaloo
+Annotation from annotator: 1
+
+Example 7:
+Text: "RT @s8n: Hate when people say ""not today Satan"". Fuck you. Yes, today."
+Annotation from annotator: 1
+
+Example 8:
+Text: Mittens' name should be herpes because you cannot get rid of him.
+Annotation from annotator: 1
+
+Example 9:
+Text: Got uh bitch dat set it off like Jada Pickett &#128130;&#128176;&#128176;&#128293;&#128299;&#128299;
+Annotation from annotator: 2
+
+Example 10:
+Text: I've never even met a native American!
+Annotation from annotator: 0
+
+Example 11:
+Text: This is the closest we'll get to normies admitting to being blackpilled.
+Annotation from annotator: 0
+
+Example 12:
+Text: People be so angry tonight on dis here tweeter. It hard for a colored man to see all dis anger. Like bein in a waffle house in Mississippi
+Annotation from annotator: 2
+
+Example 13:
+Text: I made a joke about freedom North Koreans didn't get it
+Annotation from annotator: 2
+
+Example 14:
+Text: Congratulations to @msstate Women's Basketball Team for stunning victory over UCONN last night. Good luck tomorrow to @UofSC &amp; @msstate!!!
+Annotation from annotator: 0
+
+Example 15:
+Text: My mom should’ve actually been on one of the planes that crashed on 9/11. I think.
+Annotation from annotator: 1
+
+Example 16:
+Text: Are there any good analyses of the racial makeup of the accusers and the accused in Title IX kangaroo court cases post Dear Colleague letter?
+Annotation from annotator: 0
+
+Example 17:
+Text: I'm guessing that you are not from Ireland as then you would know how well organised AFA are .
+Annotation from annotator: 0
+
+Example 18:
+Text: What’s Stephen Hawking’s favourite food? His shoulders.
+Annotation from annotator: 2
+
+Example 19:
+Text: Fat ass hoe holding up the machine
+Annotation from annotator: 2
+
+Example 20:
+Text: What do you call 100000 African refugees swimming in the sea? Great Mediterranean Garbage Patch
+Annotation from annotator: 2
+
+Example 21:
+Text: Boss walks in w/ Duke shirt on..I almost quit, but then I realized I need this job and we just won the title lol #WeGood
+Annotation from annotator: 0
+
+Example 22:
+Text: What's the worst thing about feeding your dead grandmother raw oysters? Sucking them from her cunt afterwards.
+Annotation from annotator: 2
+
+Example 23:
+Text: What really happened when Cinderella got to the ball? She gagged.
+Annotation from annotator: 1
+
+Example 24:
+Text: Hey /baph I've said MANY times that I hate chocolate and bread. Plz do better. I like skittles tho.
+Annotation from annotator: 0
+
+Example 25:
+Text: Could do with a bit of luck in my life sick as fuck &#128580;
+Annotation from annotator: 1
+
+Example 26:
+Text: Congratulations to @Niagara2021! Your world-class sports venues will be the backdrop to inspiring performances at the @CanadaGames!
+Annotation from annotator: 0
+
+Example 27:
+Text: "I almost posted ""stay in love"" to a friend's post in IG. But then I realized how rude it was, like it was an order or a challenge."
+Annotation from annotator: 0
+
+Example 28:
+Text: i wonder if you know that sometimes he thinks we're safe here ... well, that's just how it is, i suppose
+Annotation from annotator: 0
+
+Example 29:
+Text: What’s the difference between a white man and a snake? One is an evil, cold-blooded, often venomous, slimy creature of Satan
+
+And the other one did the Holocaust
+Annotation from annotator: 2
+
+Example 30:
+Text: will never see a dog being high as funny. your dog looks like he's in pain. it does not look fun. please stop trying to get your pets high.
+Annotation from annotator: 0
+
+Human-Rated Examples:
+Example 1:
+Text: Man on /r/AskReddit responds to a woman who asks why men don't see themselves as sexy
+Annotation from annotator: 0
+
+Example 2:
+Text: Cybernetics should be given to all those who wish to evolve humanity.My visions for humanity are evolutionary.
+Annotation from annotator: 0
+
+Example 3:
+Text: I am not prejudice, I hate everybody equally Whats group for that 
+ 
+Annotation from annotator: 0
+
+Example 4:
+Text: Kiss and make up kids , the real enemy is on our streets raping our women .
+Annotation from annotator: 1
+
+Example 5:
+Text: A customer made me lose my temper in front of my work crush today and I hope they know I put a fucking hex on them. #brujeria
+Annotation from annotator: 2
+
+Example 6:
+Text: Life begins at orgasm... That baby will remember that day for the rest of her life.
+Annotation from annotator: 1
+
+Example 7:
+Text: Out of Curiosity, Are There Any Lesbian MRAs in This Sub?
+Annotation from annotator: 0
+
+Example 8:
+Text: I dnt think I'm ready for a relationship...My nerves get too bad too easy, ppl be pissing me off and ion have time for the BS. I'll pass &#128080;&#127998;
+Annotation from annotator: 0
+
+Example 9:
+Text: They will never get anywhere , they 're just as bad if not worse than the BNP in respect to how stigmatized their name is .
+Annotation from annotator: 0
+
+Example 10:
+Text: what 's the most awesome part of having shower sex with a <number> year old ? slick her hair back and she looks six
+Annotation from annotator: 1
+
+Example 11:
+Text: im kind of curious what all of you think .
+Annotation from annotator: 0
+
+Example 12:
+Text: Safe havens for ILLEGAL immigrants is absolute nonsense. The left are protecting their voting base by harboring criminals. Citizens b damned
+Annotation from annotator: 2
+
+Example 13:
+Text: Any adequate incels to cope this ldar friday in discord chat or elsewhere?
+Annotation from annotator: 0
+
+Example 14:
+Text: False, Scotland is almost as bad as England and Scottish females have an obsession with negro males , well the ones i know do anyway .
+Annotation from annotator: 2
+
+Example 15:
+Text: Wow, don't get the Muslim mad guys! We don't want to come to a blown up school tomorrow!
+Annotation from annotator: 2
+
+Example 16:
+Text: Quick Hit List of imo solidly Red Pill books every maul-righter should read:
+farewell to alms
+10,000 year explosion
+albion's seed
+human accomplishment
+culture of critique
+the nurture assumption
+Annotation from annotator: 0
+
+Example 17:
+Text: I found out that my mom lied to me my whole childhood.
+Annotation from annotator: 0
+
+Example 18:
+Text: If a penguin sold you his Camero and you drove it to Reno to visit your old lady, would you give her a bouquet of fresh parsley, or would you stop smoking crack on tuesdays? 
+Annotation from annotator: 0
+
+Example 19:
+Text: Breaking the rules :) What happened to the turtle when it died?
+
+It went to hell because turtles fucking suck
+Annotation from annotator: 2
+
+Example 20:
+Text: Got interviewed by a normie got wrekt
+She treated me like shit and made fun of me its ogre
+Annotation from annotator: 0
+
+Example 21:
+Text: what do my uncle steve and the mcdonalds cashier have in common? they both love putting the white stuff on my buns and meat.
+Annotation from annotator: 2
+
+Example 22:
+Text: 9/11 jokes aren't funny They are just plane mean
+Annotation from annotator: 2
+
+Example 23:
+Text: Job interview Employer: Why do you want to work for us?
+Me: Because I want to be free.
+Annotation from annotator: 2
+
+Example 24:
+Text: what do you call a group of emo kids? Suicide squad
+Annotation from annotator: 2
+
+Example 25:
+Text: How white is your husband and how black is your son? My son got shot by his dad.
+I'm my womb.
+Annotation from annotator: 2
+
+Example 26:
+Text: No, the picture thread took care of that !
+Annotation from annotator: 0
+
+Example 27:
+Text: What’s the difference between a broccoli and a dick? None. Even with butter, they hate them but still need to put them in their mouth until it’s finished.
+Annotation from annotator: 2
+
+Example 28:
+Text: Kurt Cobain walks into a bar... He orders two shots
+Annotation from annotator: 0
+
+Example 29:
+Text: One thing is for sure.You cannot be a 100% American Patriot & hate jews.Israel is our greatest ally.
+Annotation from annotator: 1
+
+Example 30:
+Text: After watching these photos I got strange feeling they remind me somehow of nazi wehrmacht old photos .
+Annotation from annotator: 1
+
+Target Example:
+Text: What do you call a smiling black man? Snigger
+Annotation from annotator:

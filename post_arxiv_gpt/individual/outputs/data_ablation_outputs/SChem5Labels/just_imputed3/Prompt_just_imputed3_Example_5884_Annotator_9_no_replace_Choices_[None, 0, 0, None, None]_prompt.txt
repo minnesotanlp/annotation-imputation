@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It is expected that people who do not own a home will not lock a homeowner out of their own house.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is bad to buy things if they are out of your budget.
+Annotation from annotator: 3
+
+Example 3:
+Text: It is ok to be upset if you broke your leg.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's understandable to be jealous of people who have something or someone new in their life.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's okay to be upset if someone teases you for something that's a part of who you are.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's understandable to feel hurt when someone you care about doesn't tell you about their big life changes.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to experience new things.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's wrong to dump all your problems on your young child
+Annotation from annotator: 3
+
+Example 9:
+Text: There is no obligation to save parking sports for other people.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to call your mother.
+Annotation from annotator: 3
+
+Example 11:
+Text: It is bad to keep secrets.
+Annotation from annotator: 2
+
+Example 12:
+Text: You should never do anything that may cause your children to despise you.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's good to look out for your family.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's mean to reject people.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to try to give your pet medicine when they need it.
+Annotation from annotator: 3
+
+Example 16:
+Text: Keeping others late when they should have left already is rude.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is bad to be cheap and stingy
+Annotation from annotator: 3
+
+Example 18:
+Text: It's expected that you replace the toilet paper if you use it up.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's rude to talk over someone.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't let your kids milk you.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's kind to use your skills  to help someone's artistic endeavor.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's ok to feel excited about voting for the first time.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's wrong to share someone else's secrets.
+Annotation from annotator: 3
+
+Example 24:
+Text: Men are expected to keep their emotions to themselves.
+Annotation from annotator: 2
+
+Example 25:
+Text: Stealing is wrong.
+Annotation from annotator: 3
+
+Example 26:
+Text: You should be there for the people you care about when they are not feeling well.
+Annotation from annotator: 3
+
+Example 27:
+Text: People will think you're promiscuous if they find out you cheat on your partner.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should tell people when you have to leave early.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't let your partner's parents get mad at you.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's good to get gifts for people.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should seek mental help from a professional if you fantasize about your life ending.
+Annotation from annotator:

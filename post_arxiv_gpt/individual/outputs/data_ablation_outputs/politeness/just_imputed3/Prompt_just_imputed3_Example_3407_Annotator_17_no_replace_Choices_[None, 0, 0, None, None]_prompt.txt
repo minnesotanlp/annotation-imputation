@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: What should we write, then? Do we make note of the split-up around 1917 and omit the mention of 1931, or do we make note of the split-up around 1917 and mention that the marriage (may have) lasted until 1931?
+Annotation from annotator: 16
+
+Example 2:
+Text: Funny, you could not tell it was me... who else would it be??
+Annotation from annotator: 10
+
+Example 3:
+Text: You said: "I am just upset that you are harassing a person who seems to be trying to better himself and his relationship with fellow wikipedians."  First, I'm harrassing no-one, and it would be better if you didn't make such accusations.  Secondly, what evidence do you see that SS is trying to do anything of the kind?
+Annotation from annotator: 11
+
+Example 4:
+Text: Hi, I think that you do a fantastic job on DELSORT. However, I was just wondering if, when you add to Schools, whether you would be good enough to add them to the appropriate section, please?
+Annotation from annotator: 19
+
+Example 5:
+Text: Senta.jpg was garbled or empty or some such, so I deleted it. You might want to try re-uploading?
+Annotation from annotator: 12
+
+Example 6:
+Text: ..to Giggy's RfA. Did you mean to remove 2,066 bytes of replies?
+Annotation from annotator: 10
+
+Example 7:
+Text: You've violated <url> on <url>, with 2 reverts in half an hour. Would you like to revert yourself to avoid being blocked again?
+Annotation from annotator: 12
+
+Example 8:
+Text: Hope that you don't mind, I modified your comment in the Craig intro, using a nice new template that I found.  Check it out: what do you think?
+Annotation from annotator: 18
+
+Example 9:
+Text: I noticed you added the Arabic for <url>'s name. Do you know the <url>?
+Annotation from annotator: 14
+
+Example 10:
+Text: Also, all in all, I think Batman should be changed to <url>, not <url>, as the latter refers to those with superhuman powers or abilities, which he lacks. Thoughts?
+Annotation from annotator: 14
+
+Example 11:
+Text: With all due respect, that is going to take ages. How can one create a 'Bot' to do all this for me for <url>, <url>, <url>, <url> and <url>?
+Annotation from annotator: 18
+
+Example 12:
+Text: For one phonological citation I need an uppercase "I", as in "Italy", with _serifs_ to distinguish it from lowercase L.  You advised "The Classic skin uses a serifed font, if you can accept a personal solution."  I'm sorry, I don't catch your meaning.  Where do I find the Classic skin, what is a personal solution, and why wouldn't I accept it?
+Annotation from annotator: 11
+
+Example 13:
+Text: Thank you, Cremepuff222, for the kind words. :) How have you been?
+Annotation from annotator: 19
+
+Example 14:
+Text: Re: your comment at <url>,. I suppose you know there's a list at <url>?
+Annotation from annotator: 12
+
+Example 15:
+Text: In addition to xe1 xe2 xe3 xe0 xe7 xe9 xea xed xf3 xf4 xf5 xfa, I noticed that Portuguese uses - in the middle of words. When do you use -?
+Annotation from annotator: 13
+
+Example 16:
+Text: Yes, nearly every church category seems messed up, going either up or down. It seems a major task to do the whole lot - would it make sense simply to move the Catholics (say) out of the primate tree (by an edit) or is this bypassing the cfd process in some sneaky fashion?
+Annotation from annotator: 13
+
+Example 17:
+Text: Hi Skully, I've been keeping an eye on your edits over the past few weeks, and I think you should be a admin. Is it alright if I nominated you to be an admin?
+Annotation from annotator: 19
+
+Example 18:
+Text: Self-follow-up: Also, while sometimes the status quo should be maintained, by supporting it in this case, you're also supporting a "revert-first, ask questions later" approach to dealing with good faith edits. Is that really what you want?
+Annotation from annotator: 9
+
+Example 19:
+Text: You may need to enable your own setting to allow E-mail too; I'm not sure. If so, maybe you can turn it on temporarily, so that you can send me one e-mail?
+Annotation from annotator: 17
+
+Example 20:
+Text: Rxe9nyi leaves out the other gruesome details and adds the context of the fortress.  Do you know which details are in the most widespread and/or original version of this tale?
+Annotation from annotator: 14
+
+Example 21:
+Text: Hi there again, just reminding you that the review must be archived over at WP:Biography as well, not only marked as such in the article Talk page. Do you think Markus's last concern was addressed to his satisfaction?
+Annotation from annotator: 15
+
+Example 22:
+Text: MONGO, today you speedied this article as a non notable character.  Surely you know the non notable speedy criteria is for real people, not characters?
+Annotation from annotator: 11
+
+Example 23:
+Text: Wassat? LeaveVissToYou?
+Annotation from annotator: 9
+
+Example 24:
+Text: OK I've created the following test page: <url>. Tell me if you have a problem with it?
+Annotation from annotator: 16
+
+Example 25:
+Text: i took the photo, and if the kludgy licensing template would allow me to license i would. do you actually fix things or tag spam?
+Annotation from annotator: 12
+
+Example 26:
+Text: yeah that's what I mean. how do i get the .ogg file from Audacity into the actual article?
+Annotation from annotator: 15
+
+Example 27:
+Text: Okay, I think I finally might "get it" well enough to leave this side discussion and take it back to the QD talk page. Meet me there?
+Annotation from annotator: 14
+
+Example 28:
+Text: Reverted again, you need to create your own subpage at Template talk:Did you know/Article name. If you need some help, I could nominate it for you?
+Annotation from annotator: 15
+
+Example 29:
+Text: This came up for discussion on <url>. What is the last word on it?
+Annotation from annotator: 16
+
+Example 30:
+Text: Your bot runs awfully fast. How come there isn't "using AWB" in the edit summary?
+Annotation from annotator: 12
+
+Target Example:
+Text: Hi Taivo, I'm beginning to have my suspicions that Fellowscientist might be you-know-who from past debates. Am I being paranoid?
+Annotation from annotator:

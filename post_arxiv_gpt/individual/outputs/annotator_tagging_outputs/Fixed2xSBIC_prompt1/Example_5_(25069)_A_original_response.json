@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7QB8BgfLftoRPxzjh8i9ERxzOyVHu",
+    "object": "chat.completion",
+    "created": 1686473671,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 661,
+        "completion_tokens": 52,
+        "total_tokens": 713
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to predict how annotator A might label this example as it does not contain any offensive language or content. However, based on the previous examples labeled by annotator A, it is likely that they would label this example as not offensive (0)."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

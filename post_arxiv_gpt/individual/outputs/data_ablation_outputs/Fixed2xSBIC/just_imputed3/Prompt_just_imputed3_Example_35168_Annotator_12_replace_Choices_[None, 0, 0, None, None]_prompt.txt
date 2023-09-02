@@ -1,0 +1,126 @@
+Estimated Examples:
+Example 1:
+Text: This is an absolute disgrace , they think they are entitled to everything on a plate and that is out of order .
+Annotation from annotator: 0
+
+Example 2:
+Text: I know I would stick up for a white girl any day .
+Annotation from annotator: 1
+
+Example 3:
+Text: Now THAT'S how you bust up a bunch of SJW having a #StupidParty!
+Annotation from annotator: 0
+
+Example 4:
+Text: cause I have hella feelings for you I act like I don't fucking care like they ain't even there
+Annotation from annotator: 0
+
+Example 5:
+Text: Narrrrrr Get Out has fucked my head, what an insane movie &#129318;&#127995;‍♀️
+Annotation from annotator: 0
+
+Example 6:
+Text: I wish you didn't have to miss out on dating boys. Boys are fun.
+Annotation from annotator: 1
+
+Example 7:
+Text: i want a dyke clique
+Annotation from annotator: 1
+
+Example 8:
+Text: My boyfriend annoying ass always want somebody to cook for him &#128580;
+Annotation from annotator: 0
+
+Example 9:
+Text: See bitches ruin sports kobe don't play no damn football. Either you was looking to be mentioned for stupidity or ya momma a hoe. Or both.
+Annotation from annotator: 2
+
+Example 10:
+Text: Im always mystified by the way that those most set on getting rid of partition are always those who want to have nothing at all to do with the PUL community in the north .
+Annotation from annotator: 0
+
+Example 11:
+Text: The Matrix is shit
+I'd take the fucking blue pill Jesus god
+Annotation from annotator: 1
+
+Example 12:
+Text: Whats bigger than a black persons dick? His lips
+Annotation from annotator: 2
+
+Example 13:
+Text: What do you get when a black guy knocks up a Mexican woman? 3/5 of a kid that's to lazy to steal.
+Annotation from annotator: 2
+
+Example 14:
+Text: "@radicalhearts this reminds me of when my kid's dad ""joked"" he put our son on the bus and I literally got in my car to stab him"
+Annotation from annotator: 0
+
+Example 15:
+Text: Days like this even though I might had a rocky childhood like all of us I consider myself Blessed for growing up to classics and old country music
+Annotation from annotator: 0
+
+Example 16:
+Text: Makes one wonder how we managed to stop the Armada.. ?
+Annotation from annotator: 0
+
+Example 17:
+Text: i am a damn good white woman. perhaps u are looking in all the wrong places. we are not hard to find. and if u treat us right , we usually stick around for a while .
+Annotation from annotator: 0
+
+Example 18:
+Text: my parents fucked my weekend so i cancelled their trip i'm paying for to mississippi for the family reunion &#128522; oh well
+Annotation from annotator: 0
+
+Example 19:
+Text: - HEARING THEIR BEAUTIFUL VOICES CAN MAKE ME FEEL SO MUCH BETTER EVEN ON THE WORST OF DAYS @LiveSmart #SmartMusicLive #SmartFifthHarmony
+Annotation from annotator: 0
+
+Example 20:
+Text: Well here'es the thing neither of us really created the thumbnail I just used thegames cover art initially because I didn't (and can't) make proper thumbnails, he however had originally just used an image from his video and again I know this because his video was one I checked when I searched for a guide. Since the comments appeared though I noticed he used the exact same cover art image I used (which is fine it's out there people will use it) added a title to it but then also changed his title so it was the same as mine. [...] You ar right I should take a step back, it isn't a massive deal but it's hard when it feels someone is targeting my channel.
+Annotation from annotator: 0
+
+Example 21:
+Text: Fucking hate sneezing and what has set me off I have no idea&#128580;&#128580;&#128580;&#128580;
+Annotation from annotator: 0
+
+Example 22:
+Text: Marijuana, hydro, pussy hoe, ass titties
+Annotation from annotator: 2
+
+Example 23:
+Text: What happened to the dead Texas students? They were blasted, lmao
+Annotation from annotator: 2
+
+Example 24:
+Text: Just got turned on to a website from a friend of mine .
+Annotation from annotator: 0
+
+Example 25:
+Text: Dermal fillers are often a kind of soft tissue designed to enable injection into the skin for purposes of improving appearance. #Wrinkles
+Annotation from annotator: 0
+
+Example 26:
+Text: Why are we here, just to suffer.....
+Incels can't reproduce because no one will have sex with us so we can't pass on our DNA, employers will promote chads over incels because "he looks like a leader" so we can't really accomplish anything, so why are we here, is it all some cruel twisted joke.
+Annotation from annotator: 0
+
+Example 27:
+Text: Bobby bitch&gt;Hot nigga
+Annotation from annotator: 2
+
+Example 28:
+Text: Why did the chicken cross the road? There was too many black people on the side he was on.
+Annotation from annotator: 2
+
+Example 29:
+Text: Why work when you know you will never have future , family and kids?
+Annotation from annotator: 0
+
+Example 30:
+Text: 1. Oh my LORD @SaveSoulAfrica @PRM_yoshoshela let's be honest to ourselves and Africa. What have we done post apartheid and colonialisation?
+Annotation from annotator: 0
+
+Target Example:
+Text: What do you call a smiling black man? Snigger
+Annotation from annotator:

@@ -1,0 +1,222 @@
+Here's a description of a dataset:
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 49 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: It's good to be honest when you give your kids the sex talk.
+ANSWER: 3
+
+2.
+EXAMPLE: It's good to want others to celebrate your joys with you.
+ANSWER: 3
+
+3.
+EXAMPLE: It's bad for a child to be in danger.
+ANSWER: 4
+
+4.
+EXAMPLE: It's expected that families will not get along well with their in-laws.
+ANSWER: 2
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+2.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+3.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+4.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+5.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+6.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+7.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+8.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+9.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+10.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+11.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+12.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+13.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+14.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+15.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+16.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+17.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+18.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+19.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+20.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+21.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+22.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+23.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+24.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+25.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+26.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+27.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+28.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+29.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+30.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+31.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+32.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+33.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+34.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+35.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+36.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+37.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+38.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+39.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+40.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+41.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+42.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+43.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+44.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+45.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+46.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+47.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 3
+
+48.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 2
+
+49.
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER: 4
+
+How would the particular annotator annotate the target example?
+EXAMPLE: It is bad to let addiction control your life.
+ANSWER:

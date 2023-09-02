@@ -1,0 +1,161 @@
+Estimated Examples:
+Example 1:
+Text: I really want a car/learn to drive but I can't afford the insurance  anyone know the cheapest/cheap car to insure for an 18 yr old?
+Annotation from annotator: 2
+
+Example 2:
+Text: I'm on the proses or rewatching the old kimura takuya dorama..love generation here I come
+Annotation from annotator: 2
+
+Example 3:
+Text: Just had an impomptu visit with my grandma and 2 nephews. Chase told me, "it's ok to fart."  The wisdom of a 4 year old
+Annotation from annotator: 2
+
+Example 4:
+Text: Love all of those subjects, with the exception of maths, but I'll be okay. Don't worry about dear old me  x Night tweers (peers!! Get it?)
+Annotation from annotator: 2
+
+Example 5:
+Text: O wow i just found an old binder with my old friends signature on it  now im sad.
+Annotation from annotator: 2
+
+Example 6:
+Text: OK, I need ideas for a fathers day gift for my dad.  I had bought him a bunch of old jazz records but they got left in my old car
+Annotation from annotator: 2
+
+Example 7:
+Text: Spy an assistant trying to sell an old granny on 800 a month a current account plus.They have no shame the co op
+Annotation from annotator: 2
+
+Example 8:
+Text: The waiters called me "air" at every verbal exchange. Christ I feel old
+Annotation from annotator: 2
+
+Example 9:
+Text: There is this younger black couple in here, I think they are so cute. In this area you rarely see something like this, they make me smile
+Annotation from annotator: 2
+
+Example 10:
+Text: This economic collapse has been disastrous for too many old people.
+Annotation from annotator: 2
+
+Example 11:
+Text: Todays a new day. & a exciting day at that, I am a new young woman.out w/ the old & in w/ the new.
+Annotation from annotator: 2
+
+Example 12:
+Text: Why can't I get any whitening products to work lately!  Grr.. my teeth look like they belong to a 90 year old
+Annotation from annotator: 2
+
+Example 13:
+Text: Work tomorrow  I'm thinking abt cleaning out my closet tomorrow___out w the old! I wonder if @kyddange wants to help?
+Annotation from annotator: 2
+
+Example 14:
+Text: http://twitpic.com/6q4o2 my friend ryan dates 18yr olds...so this bday present seemed proper for him.
+Annotation from annotator: 2
+
+Example 15:
+Text: i dont want to go to work at have  20 year olds be mean to me for seven hours
+Annotation from annotator: 2
+
+Example 16:
+Text: i love 'we are the young', mcfly should play it on concerts
+Annotation from annotator: 2
+
+Example 17:
+Text: its my bday!!! I'm gettin older!
+Annotation from annotator: 2
+
+Example 18:
+Text: just re-arranged my desktop and read a really old msn convo with curtis wowww. like WOOW. i have changed to much. time has soured me
+Annotation from annotator: 2
+
+Example 19:
+Text: playing with my little one. Almost a year old  Went too fast
+Annotation from annotator: 2
+
+Example 20:
+Text: ridiculous as fuck. i went to Tokyo Discount and got a boat load of goodies!!  ahahaha. and tons of pictures. and talking about being old.
+Annotation from annotator: 1
+
+Human-rated Examples:
+Example 1:
+Text: @Cath_B I love all animals, I want to take them all home, even the old and smelly ones
+Annotation from annotator: 2
+
+Example 2:
+Text: @CynthiaBuroughs damn. I'm getting older every day.
+Annotation from annotator: 2
+
+Example 3:
+Text: @DudeLIAwesome i agree!! the adverts now are just old people  bring back phil!
+Annotation from annotator: 2
+
+Example 4:
+Text: @InaHurryMama Why thank you  He's pretty ol' too! 12. His name was given by my older brother! I think it from the Hardy Boys.
+Annotation from annotator: 2
+
+Example 5:
+Text: @JackPierce they knocked down my old school years ago  housing development FTL!
+Annotation from annotator: 2
+
+Example 6:
+Text: @JonathanRKnight lost my oldest brother dec 27, 2008 i dont wish that pain on anyone   gotta live it up 2morrow is not promised
+Annotation from annotator: 2
+
+Example 7:
+Text: @Mahogany85  how old is he now ?
+Annotation from annotator: 2
+
+Example 8:
+Text: @ZTZCheese No more lurching for you, young lady! You're supposed to be resting your back, remember?
+Annotation from annotator: 2
+
+Example 9:
+Text: @andypiper Finally makes it to BR from HD-DVD  Great film, is it really 10 years old already ?!!
+Annotation from annotator: 2
+
+Example 10:
+Text: @aplusk You are right, and I am glad I took the time, I've got a nearly 17 year old & she is a dream
+Annotation from annotator: 2
+
+Example 11:
+Text: @kimierk Please do. Your reply is so old, I don't remember what the original tweet was.
+Annotation from annotator: 2
+
+Example 12:
+Text: @lewisking Haha, that's old.  Funny how they moved the pin just a tad to make it not so obvious!
+Annotation from annotator: 2
+
+Example 13:
+Text: Aldi's reusable grocery bags = strong enough 2 hold my 18mo old lol. Ur groceries won't drop 2 the floor & it's environmentally friendly
+Annotation from annotator: 2
+
+Example 14:
+Text: Dedicated 64mb grapics card was @jasonbradbury 's big custom PC selling point, this episode is old school
+Annotation from annotator: 2
+
+Example 15:
+Text: Drinking coffe with Richard, he___s a nice looking guy. To young for anyone and not singel
+Annotation from annotator: 2
+
+Example 16:
+Text: FYI, on my way 2 becoming a great auntie for the 4th time tonight.... that means I'm getting old   but it's ok.  ;-)
+Annotation from annotator: 2
+
+Example 17:
+Text: Found an old computer game I used to love to play called Yoda Stories... great fun! Can't make myself get to bed!
+Annotation from annotator: 2
+
+Example 18:
+Text: I dont even eat pizza and I just bought a pizza fundraising card from a 5 year old little girl because she said "Please" ...I'm a sucker!
+Annotation from annotator: 2
+
+Example 19:
+Text: I love hearing songs on oldies radio that I haven't heard since I was 7
+Annotation from annotator: 2
+
+Target Example:
+Text: Just IMDB'd Moonwalker; had no idea a young @MoTancharoen was a dancer in the movie   Awesome sauce!
+Annotation from annotator:

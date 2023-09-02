@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: You should not let one person break your trust in others.
+Annotation from annotator: 3
+
+Example 2:
+Text: You should always dress appropriately for the situation.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's criminal to inflict sexual trauma on someone else.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's bad to act overly aggressive over sports.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's okay to be angry at a significant other if they wronged you.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's expected that a first date will be awkward.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is rude to stare at people.
+Annotation from annotator: 3
+
+Example 8:
+Text: It is expected that you respect your professor.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to be supportive of your family when they come out.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to want to take care of your children.
+Annotation from annotator: 4
+
+Example 11:
+Text: You shouldn't catfish people.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's understandable to be confused.
+Annotation from annotator: 4
+
+Example 13:
+Text: You shouldn't redecorate someone else's living area.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is okay to know what you want from a partner.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's wrong to leave your family and friends behind just to get an education.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's good to be want to know things that could be important.
+Annotation from annotator: 3
+
+Example 17:
+Text: People should follow the rules.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good for people to offer advice and guidance to their younger relatives.
+Annotation from annotator: 3
+
+Example 19:
+Text: It’s okay for single parents to get back into the dating scene
+Annotation from annotator: 4
+
+Example 20:
+Text: You should always support your family when they have medical issues.
+Annotation from annotator: 3
+
+Example 21:
+Text: It is understandable to want your significant other to work and take care of you.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's okay to be scared of childbirth.
+Annotation from annotator: 4
+
+Example 23:
+Text: You shouldn't force people to do things
+Annotation from annotator: 3
+
+Example 24:
+Text: It's understandable to be wary in a relationship due to past experiences.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's ok to miss your deceased family members.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's good to keep in contact with your grandparents.
+Annotation from annotator: 3
+
+Example 27:
+Text: Partners are expected to share their life history with each other.
+Annotation from annotator: 2
+
+Example 28:
+Text: It is expected people will tell each other about their sexual identities and be honest up front.
+Annotation from annotator: 3
+
+Example 29:
+Text: You can be expected to go above and beyond when the beneficiaries are children.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's normal to be confused by a mystery.
+Annotation from annotator: 4
+
+Target Example:
+Text: You should appreciate your stepmother on Mother's Day.
+Annotation from annotator:

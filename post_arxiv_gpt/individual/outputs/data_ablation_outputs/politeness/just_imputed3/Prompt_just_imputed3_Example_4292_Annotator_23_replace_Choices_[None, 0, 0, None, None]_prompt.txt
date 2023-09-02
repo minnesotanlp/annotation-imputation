@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: if you think "Sheffer Stroke" is less common than "Logical NAND"??
+Annotation from annotator: 12
+
+Example 2:
+Text: I just occurred to me yesterday (while playing with the Bushnell 7x50 Marine binocs I got for my birthday), that the <url> section on rangefinding reticles might be worth its own article, if for no other reason than that rangefinding reticles are used on other optics, such as said binoculars (which have a compass and 5 milliradian graduated reticle) and some other specialized items, such as golf rangefinding monoculars, which use the standardized height of the flag as the known size item.  So what do you think--is there enough content in the rangefinding section to make a standalone article, and do I provide enough argument to justify pulling it out, and adding links from <url> and <url>?
+Annotation from annotator: 12
+
+Example 3:
+Text: I have unexplained pain. What do you think of this <url>?
+Annotation from annotator: 16
+
+Example 4:
+Text: I am not familiar with the credit card / porn star identity incident you mentioned in AnonEMouse's RFA, but I would like to take a closer look at it.  Could you provide some more direct diffs related to Mouse's involvment?
+Annotation from annotator: 20
+
+Example 5:
+Text: The notion that a hunter would kill dozens of birds with a single shot seems outlandish to me.  Do you have a reference for this?
+Annotation from annotator: 12
+
+Example 6:
+Text: Hey Nick, thanks for writing the book reviews! Would you like me to run one or both of them?
+Annotation from annotator: 24
+
+Example 7:
+Text: I have created a Neutral section for those who agree with the premise but not the method, or some other aspect, which may be altered following talkpage discussion. Perhaps you would wish to review your !vote under the changed circumstances?
+Annotation from annotator: 8
+
+Example 8:
+Text: Not sure if you are saying that I am beating a dead horse in raising the inclusion criteria problem again... or if Doncram is doing so in objecting to my doing so again.  Or is it both?
+Annotation from annotator: 0
+
+Example 9:
+Text: Hi Finell: I have filed an RfC at <url>. Could you take a look at this matter and proffer some advice?
+Annotation from annotator: 16
+
+Example 10:
+Text: A question has come up whether <url> was Jewish (see <url>).  Do you have any references that might help?
+Annotation from annotator: 16
+
+Example 11:
+Text: Thanks for the alert.  By the way, how's Granny doing?
+Annotation from annotator: 16
+
+Example 12:
+Text: Concerning <url>, I must say I am a bit confused: isn't the article's title "Austria<span style="color:red">u2013</span>Hungary" (where, incidentally, it was moved after an "Austria<span style="color:red">-</span>Hungary" period)? It's really no big deal, but how can something be both correct and incorrect, and which standard are we at long last supposed to follow?
+Annotation from annotator: 0
+
+Example 13:
+Text: Hi, I just had a look at the <url> article and spotted that the link <url> goes to a dab page, are any of the options there the right one?
+Annotation from annotator: 12
+
+Example 14:
+Text: Could you please check over the article of <url>. I edited a couple of things and added a few images..could you reply your opinion please?
+Annotation from annotator: 24
+
+Example 15:
+Text: You've contributed a lot to Puget Sound area articles.  Would you be willing to take a look at the debate I'm having at <url> and do whatever you think is best?
+Annotation from annotator: 24
+
+Example 16:
+Text: Hi, J.delanoy, I was just wondering why you did <url>. If in your opinion that text shouldn't be there, why not just delete it completely?
+Annotation from annotator: 4
+
+Example 17:
+Text: In <url>, I think I screwed up and I bit the newcomer in my first post (<url>). What do you think?
+Annotation from annotator: 12
+
+Example 18:
+Text: I think it is a great idea to merge my Geraldine Jones article to the flip Wilson show article, but I don't know how to do that. Can you help me?
+Annotation from annotator: 24
+
+Example 19:
+Text: Why isn't <url> included there? Is it possible there's a redirect in it's place?
+Annotation from annotator: 12
+
+Example 20:
+Text: Thanks for your help on <url>.  Any advice on edits we should make to get it up the quality scale?
+Annotation from annotator: 16
+
+Example 21:
+Text: These are my numbers: 7 years in Wikipedia, 6 years as an admin, 570+ articles, 4 featured articles, 1 featured list, 21 Good articles, 60 DYK's - After six years as an admin. I recently made some mistakes and I can understand if I am placed in some type of probation were I am monitored and forbidden to use my tools maybe for a year, but do I really merit the removal of my adminship?
+Annotation from annotator: 4
+
+Example 22:
+Text: Hi there, it looks like the moving editor has added a bunch of references to the talk page supporting the fact Toto is no longer formally referred to as Moorland Totilas.  Do you think if we added one or more of the refs he's added on the talk page to the article we could move it back?
+Annotation from annotator: 20
+
+Example 23:
+Text: I'm see about the new Version 0.7 - which stated should FINALLY be published soon... When the exact date it published? Is there anything that I can help?
+Annotation from annotator: 12
+
+Example 24:
+Text: I had no idea that I was such a rogue admin. Are you seriously suggesting that I need to be kicked off the project for closing a deletion debate?
+Annotation from annotator: 0
+
+Example 25:
+Text: Okay Murgh, I userfied only your revisions of Sore Thumbs to your user space, <url>.  Did you want the associated talk page or can I delete that?
+Annotation from annotator: 20
+
+Example 26:
+Text: Hey, i saw you added <person> some time ago to the pic page. I'm just curious, why do you want it to still be available here?
+Annotation from annotator: 24
+
+Example 27:
+Text: This Latvian Scout image has Zemgale in the name, but the Latvian name is 6000 miles away buried in storage. Would it be enough to call it the Zemgale Regional SO?
+Annotation from annotator: 8
+
+Example 28:
+Text: What articles are you currently working on improving and/or writing? Anything?
+Annotation from annotator: 8
+
+Example 29:
+Text: Just wondering, is there any reason why you removed categories from a number of articles and replaced them with the non-existend <url>. Wouldn't <url> have been the better choice, which, as it appears, is a category you yourself created a few days ago?
+Annotation from annotator: 4
+
+Example 30:
+Text: Hello. Regarding <url>, could you tell me what supports this being a free image?
+Annotation from annotator: 12
+
+Target Example:
+Text: I was wondering where you got your information for the dice statistics you recently added/changed in <url>.  Can you add a source to those tables?
+Annotation from annotator:

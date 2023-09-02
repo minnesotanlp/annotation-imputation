@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVlaZrDhuhvwxaA3H87TYjjvI6c4",
+    "object": "chat.completion",
+    "created": 1686314666,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 554,
+        "completion_tokens": 170,
+        "total_tokens": 724
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n2.00% of responsive annotators labeled the text with 1\n30.00% of responsive annotators labeled the text with 2\n50.00% of responsive annotators labeled the text with 3\n18.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels provided by the raters, it seems that the statement \"It's good to find proof of cheating you perceive to be happening\" is somewhat controversial, with 30% of the raters labeling it as such. However, a majority of the raters (50%) labeled it as a common belief, while 18% labeled it as a universal belief. Therefore, my prediction for the soft label of this text would be 3 (common)."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

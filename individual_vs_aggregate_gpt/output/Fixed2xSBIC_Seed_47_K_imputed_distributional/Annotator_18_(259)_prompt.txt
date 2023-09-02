@@ -1,0 +1,30 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and be shown the distributional label of how all annotators have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: What do you call a retard in a sauna? A steamed vegetable
+ANSWER: 2
+
+2.
+EXAMPLE: Boeser with the Sedins on the PP doesn't fit. Everything goes through the twins and doesn't allow Boeser to be an option to use his shot.
+ANSWER: 0
+
+3.
+EXAMPLE: Why aren't you a part of the LGBTQ community? You don't want to hang out with people like you?
+ANSWER: 0
+
+4.
+EXAMPLE: Yeah but these coaches come with players already in mind, and will have had time to assess the squad by now. It will be obvious to a manager of Koeman's quality where we need improvements, how good a player in a certain role is and that will have been relayed onto Walsh as soon as he signed. [...] Again, completely agree there is a LOT of BS out there, we're linked to everyone, but I think Koeman specifically and Walsh through relay have to be in a position to recognising what needs to be done.
+ANSWER: 0
+
+Here's how the distributional label of how all annotators have annotated the target example:
+0.33% of people responded with 0
+11.55% of people responded with 1
+88.12% of people responded with 2
+
+How would the particular annotator annotate the target example?
+EXAMPLE: But there's a difference between black people" and "niggers". You shouldn't deny that until you've been to the South and have seen the difference."
+ANSWER:

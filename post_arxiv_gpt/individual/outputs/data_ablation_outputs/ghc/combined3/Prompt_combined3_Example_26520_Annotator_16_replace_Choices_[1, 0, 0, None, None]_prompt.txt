@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Good  morning , 3 horses! This is great!😂😂😂😂
+Annotation from annotator: 0
+
+Example 2:
+Text: But, but, we are the Electoral Commission, we are "impartial" and "unbiased". <<< The horse sh*t from these #Remoaners is unbelievable. 
+Annotation from annotator: 0
+
+Example 3:
+Text: If enrichment means the shit we're in right now, I hate to see what fucking up a country looks like.  Did George Soros write this speech?
+Annotation from annotator: 0
+
+Example 4:
+Text: I have property in the Keys.... 
+Annotation from annotator: 0
+
+Example 5:
+Text: I stopped using fb several months ago.  My husband can't give up arguing with idiots.
+Annotation from annotator: 0
+
+Example 6:
+Text: Double standards on truth telling. 
+Annotation from annotator: 0
+
+Example 7:
+Text: "in the domain of spirituality, religion, and world view, everything Semitic, and above all everything Jewish, has a specific character that is repulsive to other peoples of the white race." 
+Annotation from annotator: 0
+
+Example 8:
+Text: https://steemit.com/review/@cheah/manga-review-yagyu-renya-legend-of-the-sword-master 
+Annotation from annotator: 0
+
+Example 9:
+Text: Just great...Gun thefts are happening many places it seems.
+Annotation from annotator: 0
+
+Example 10:
+Text: How is that one post not illegal? He is calling for someone to commit a specific crime or he will do it himself. 
+Annotation from annotator: 0
+
+Example 11:
+Text: And the leadership, since they are more equal than everyone else, will live in walled dachas, have armed guards, chauffeurs, and housekeepers.  
+Annotation from annotator: 0
+
+Example 12:
+Text: @support @a   I'm trying to get some help with billing issues but no is is available, apparently?  Doesn't make me want to continue my business relationship with you.  #Support #Infrastructure #AltTech #NewBeginning #FreeSpeech #Billing #Funding #TechnicalSupport
+Annotation from annotator: 0
+
+Example 13:
+Text: The highest prelate of the Synagogue in Israel confirms that it is true. Imagine a non-Jewish prelate who dares to say the reverse? Who would dare to say that Jews were created to serve non-Jews?
+Annotation from annotator: 1
+
+Example 14:
+Text: Bank worker texted suspects ‘go signal’ before attempted $75K robbery:  cops https://nypost.com/2018/08/23/bank-worker-texted-suspects-go-signal-before-attempted-75k-robbery-cops/
+Annotation from annotator: 0
+
+Example 15:
+Text: Why would anyone who supports Trump believe in a LARP from a porn site?  Oh yeah, NO TRUMP SUPPORTER WOULD!  Now it makes sense.
+Annotation from annotator: 0
+
+Example 16:
+Text: Not to worry. All traveling essentials are onboard. I also put 4 more cases of ammo for the ARs in the trunk. I suspect we'll eventually need it. Another short delay involves the external sound system for the car, so we can be blaring Mariachi music as we roll, merrily along. Larger speakers or order.
+Annotation from annotator: 0
+
+Example 17:
+Text: Wow! Were you there just to take pictures or did you live there? That was a terrible flood!
+Annotation from annotator: 0
+
+Example 18:
+Text: When it comes to entertainment, wether it’s sports or Hollywood, we are the organ grinders and you are our monkeys.  If you don’t perform for us and stop entertaining us, we can always find another monkey.
+Annotation from annotator: 0
+
+Example 19:
+Text: Ironically it’s exactly what will happen. Honey, get the popcorn ready,it’s going to be comedy hour.
+Annotation from annotator: 0
+
+Example 20:
+Text: Then, he slobbed a negro schlong and got stank breath.   
+Annotation from annotator: 0
+
+Example 21:
+Text: https://www.businessinsider.in/tech/happy-birthday-facebook-the-secret-ims-revealing-the-mark-zuckerberg-of-2004/slidelist/29883234.cms THIS IS VERY TELLING ABOUT ZUCKERBURG THE CROOK DATA MINING FROM THE BEGINNING. HOW CAN THE SENATE COME AGAINST TRUMP AFTER THIS. SPREAD THE WORD THIS NEEDS TO BE TOLD! PLEASE REPOST!
+Annotation from annotator: 0
+
+Example 22:
+Text: You truly have a way with words😊 Snugglebunny is a lucky woman
+Annotation from annotator: 0
+
+Example 23:
+Text: American commercials/advertising are trash. Partly because of how expensive airtime is, but also because of the attention-span and ambient IQ/EQ of the average citizen.
+Annotation from annotator: 0
+
+Example 24:
+Text: Zimbabwe all over again. In 11-12 years they'll be crying and beggin' the whites to come back and farm again.
+Annotation from annotator: 1
+
+Example 25:
+Text: You work at FedEx with Angie’s, soon to be ex husband, Christopher Hutchins? Leave the detective work to the big kids you cunt. @Grock‍
+Annotation from annotator: 0
+
+Example 26:
+Text: Trump’s Plan to Leave a Major Arms Treaty with Russia Might Actually Be About China https://foreignpolicy.com/2018/10/22/trumps-plan-to-leave-a-major-arms-treaty-with-russia-might-actually-be-about-china/
+Annotation from annotator: 0
+
+Example 27:
+Text: These people just kill me w/their trying to make sense!! And that look on her face!!! LOL 🤣🤣
+Annotation from annotator: 0
+
+Example 28:
+Text: Gross. This is one of many reasons it is SO easy to vote against the left.
+Annotation from annotator: 0
+
+Example 29:
+Text: I have Black friends but no nigger friends. I have white friends but no honky friends, I have Asian friends but no Jap or chink friends. I have friends from many countries who moved to the USA for freedom. I just keep good company. Gab is my best friend.
+Annotation from annotator: 1
+
+Example 30:
+Text: OK ignorant, I pinned what you don't know. Now fuck off!
+Annotation from annotator: 1
+
+Human-rated Examples:
+Example 1:
+Text: What a freakin' soap opera. Smoke and mirrors, distraction.
+Annotation from annotator: 0
+
+Example 2:
+Text: a simple fear of no alternatives essentially suffices in all cases. the only solution to this is an underlying guarantee. this seems painfully obvious. sure, there are distortions and pressures introduced, but that is largely the point. they are not unintended, but intended. employment acquisition must be a fluid, continuous infrastructure along the
+Annotation from annotator: 0
+
+Example 3:
+Text: Repost. I wrote it last night. I truly think we need a return to better music than we are fed.  
+Annotation from annotator: 0
+
+Example 4:
+Text: Are they planning to start a family?
+Annotation from annotator: 0
+
+Example 5:
+Text: Probably a good photographer also...... pardon my omission.
+Annotation from annotator: 0
+
+Example 6:
+Text: Psalms 35:1   Plead my cause, O LORD, with them that strive with me: fight against them that fight against me.
+Annotation from annotator: 0
+
+Example 7:
+Text: How did they manage to find her? 
+Annotation from annotator: 0
+
+Example 8:
+Text: none before Constantine   The Way  first actual Church       
+Annotation from annotator: 0
+
+Example 9:
+Text: luv Max, his rants are infectious.
+Annotation from annotator: 0
+
+Example 10:
+Text: Guy drove into pedestrian in front of parliament in UK. Cultural inrichment continues!
+Annotation from annotator: 0
+
+Example 11:
+Text: Ah yes the eternal slut. The death of nations
+Annotation from annotator: 0
+
+Example 12:
+Text: Mass migrations may be natural but what is also natural is that peoples slaughtering every single one of the fuckers who step foot on their land. Unless that migration of people is stronger they are going to be slapped the fuck down
+Annotation from annotator: 1
+
+Example 13:
+Text: You can "yeah no" all that day long, but never will you be right. You simply don't get American politics from an adult's viewpoint because likely you do not understand the system under which you live.  Good luck!
+Annotation from annotator: 0
+
+Example 14:
+Text: Well maybe she'll  pull in the Hollywood crowd. 
+Annotation from annotator: 0
+
+Example 15:
+Text: GAB re-filed GAB ICO with the SEC on the 22nd of June 2018  Torba suggested that the ICO would be approved by March, the latest.  They need the GAB ICO cash to pay celebrities to promote GAB.   No ICO, No Cash. No Cash, No E-celebs.
+Annotation from annotator: 0
+
+Example 16:
+Text: it is coming amazing how the awakening is happening
+Annotation from annotator: 0
+
+Example 17:
+Text: Who are you trying to convince?  Me or you?
+Annotation from annotator: 0
+
+Example 18:
+Text: https://www.youtube.com/watch?v=ZUYNAV7GOGc - I was glad I found the site.
+Annotation from annotator: 0
+
+Example 19:
+Text: No, no one gives a shit about the conservative message. And there isn't even a conservative message. It stands for nothing. It surrenders on everything. She's a good example of someone who surrenders on everything. It's just a gimic. And you like it that way.
+Annotation from annotator: 1
+
+Example 20:
+Text: Being Serb myself, I thank you, even though it was not me who made this post... so we should both thank Robert as well :)
+Annotation from annotator: 0
+
+Example 21:
+Text: iI believe the word you are looking for is Christian. 2 John: 12-17
+Annotation from annotator: 0
+
+Example 22:
+Text: 48 Parliamentary Petitions related to the freeing of Tommy Robinson rejected from being enacted page 03
+Annotation from annotator: 0
+
+Example 23:
+Text: Now THAT is a damn shame. And true, I do not doubt.
+Annotation from annotator: 0
+
+Example 24:
+Text: Meanwhile, MI6 poisoned spies, faked gas attacks, and manipulate that brown wave March....truly that generation's parents were right when they rolled their eyes, and said, "Theresa, Donald, Em: each time I consider how the world could wind up in your treacherous little hands, it keeps me from dying in peace."
+Annotation from annotator: 0
+
+Example 25:
+Text: FULL Nikolas Cruz confession to Stoneman Douglas shooting, Parkland Florida 
+Annotation from annotator: 0
+
+Example 26:
+Text: I'm Pro-choice so that women who have abortions will self-select out of the gene pool
+Annotation from annotator: 1
+
+Example 27:
+Text: The Pope will grovel at the feet of Muslims yet again. #Genoa bells
+Annotation from annotator: 0
+
+Example 28:
+Text: Last time I had to housesit that stupid cunt of a cat was 2015 when I got lumped with her and the owners come live with me while they built their new house. I had the cat for two weeks while they got to travel. My Russian Blue Thompson didn't like her at all.  Good riddance she's dead. 
+Annotation from annotator: 0
+
+Example 29:
+Text: It is not the Muslim. Nor is it the mestizo or the negro or even their Jewish handler that is the greatest enemy of the white race. The white race's greatest and most dedicated enemy is the white female.
+Annotation from annotator: 1
+
+Example 30:
+Text: Are you a Property Agent or Broker? Have you thought about https://www.goodreads.com/user/show/87695554-rico
+Annotation from annotator: 0
+
+Target Example:
+Text: It comes in a shot also.
+Annotation from annotator:

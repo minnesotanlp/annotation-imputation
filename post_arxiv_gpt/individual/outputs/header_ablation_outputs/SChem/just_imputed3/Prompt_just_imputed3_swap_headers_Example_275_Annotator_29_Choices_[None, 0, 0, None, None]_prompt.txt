@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It is gross to put candy in your pocket if it might melt.
+Annotation from annotator: 3
+
+Example 2:
+Text: You shouldn't do drugs.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's rude to support one person more than another.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's important to give helpful feedback to someone who doesn't pass their driver's license test.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's nice to worry about your parents.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is ok to live with a roommate of the opposite sex if you are just friends.
+Annotation from annotator: 3
+
+Example 8:
+Text: You shouldn't have sex with people if you have herpes.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to want someone to do their best.
+Annotation from annotator: 4
+
+Example 10:
+Text: You should be focused on learning while at school.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's wrong to stalk people.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's okay to feel ashamed about behavior you know is self-destructive.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's wrong to not understand sometimes peoples situation isn't the best.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's expected that you'll stay home from work when you are sick.
+Annotation from annotator: 4
+
+Example 15:
+Text: It is normal for students to pass notes
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong for a person to cheat on their significant other.
+Annotation from annotator: 4
+
+Example 17:
+Text: It is dangerous for a doctor to misdiagnose a patient.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's okay to hurt somebody who's stealing from you
+Annotation from annotator: 2
+
+Example 19:
+Text: You shouldn't wear a nightdress if you're male.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's wrong to be mad at your friends for petty reasons.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's inappropriate for a parent to help a teenage boy shower.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's wrong to think people who can't pay for healthcare don't deserve it because everyone deserves healthcare.
+Annotation from annotator: 3
+
+Example 23:
+Text: Throwing unused cardboard in the garbage is wasteful.
+Annotation from annotator: 3
+
+Example 24:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's understandable to want friends and family around when getting a medical operation.
+Annotation from annotator: 4
+
+Example 26:
+Text: You shouldn't have second thoughts about having kids if your wife gets pregnant because it's too late by then.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to help yourself get over your depression.
+Annotation from annotator: 4
+
+Example 28:
+Text: You should never do anything that may cause your children to despise you.
+Annotation from annotator: 4
+
+Example 29:
+Text: It is bad to let addiction control your life.
+Annotation from annotator: 4
+
+Example 30:
+Text: It’s encouraged that parents make time for their kids outside of work and school
+Annotation from annotator: 4
+
+Target Example:
+Text: It's fun to go cart racing as long as you're careful.
+Annotation from annotator:

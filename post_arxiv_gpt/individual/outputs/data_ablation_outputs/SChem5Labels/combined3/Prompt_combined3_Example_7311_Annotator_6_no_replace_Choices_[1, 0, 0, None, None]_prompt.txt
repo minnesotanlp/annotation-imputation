@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It's wrong to say things to a person that could hurt their feelings.
+Annotation from annotator: 3
+
+Example 2:
+Text: You should always make an effort to park properly.
+Annotation from annotator: 3
+
+Example 3:
+Text: If you're unhappy with sex in your marriage, you should probably divorce.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's bad to go through a depressive episode.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's frustrating when others don't share the same enthusiasm for a holiday as you do.
+Annotation from annotator: 3
+
+Example 6:
+Text: It is good to love tacos.
+Annotation from annotator: 2
+
+Example 7:
+Text: It is clingy to sleep at your boyfriend/girlfriend's place too much.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's important to practice good oral hygiene
+Annotation from annotator: 4
+
+Example 9:
+Text: You shouldn't lie just to reject date offers.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's rude to be impolite towards people.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's wrong to buy candy.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's okay to have your feeling about other people change.
+Annotation from annotator: 3
+
+Example 13:
+Text: If your friends are excluding you, it's okay to be angry.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's okay to lose romantic feelings for someone over time.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is wrong to be happy about an event that has killed many plants animals and humans.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's good to not want to talk about things that can cause conflict.
+Annotation from annotator: 3
+
+Example 17:
+Text: You should balance relationships and friendships.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's wrong to damage someone's property.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's rude to do things that prevent other's from being happy.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's understandable if you're upset when you get into a car accident.
+Annotation from annotator: 3
+
+Example 21:
+Text: It is rude to make noise that might disturb the neighbors.
+Annotation from annotator: 3
+
+Example 22:
+Text: Children should be supervised while using electronics.
+Annotation from annotator: 3
+
+Example 23:
+Text: You do not have to take parenting advice from doctors.
+Annotation from annotator: 2
+
+Example 24:
+Text: It's allowed to do what you like in your own backyard.
+Annotation from annotator: 3
+
+Example 25:
+Text: You should help out with your family member's wedding if you have a certain skill they could use.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's wrong to abuse your spouse.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to mend relationships with people.
+Annotation from annotator: 3
+
+Example 29:
+Text: You should be polite if you need to decline a gift.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's okay to be angry.
+Annotation from annotator: 3
+
+Human-rated Examples:
+Example 1:
+Text: It's okay to want to keep your home the way you want to keep your home.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's expected you mind your business when others are doing things
+Annotation from annotator: 2
+
+Example 3:
+Text: It is obnoxious to partake in a showy wedding ritual.
+Annotation from annotator: 2
+
+Example 4:
+Text: You should respect the privacy of others.
+Annotation from annotator: 3
+
+Example 5:
+Text: You shouldn't get mad if someone asks your age because they may not know any better.
+Annotation from annotator: 2
+
+Example 6:
+Text: Sugary foods are expected to cause weight gain.
+Annotation from annotator: 4
+
+Example 7:
+Text: You're supposed to report it to someone if you see something shady going on.
+Annotation from annotator: 3
+
+Example 8:
+Text: If a friend is dating someone who treats them badly, it's good to encourage them to break up with them.
+Annotation from annotator: 2
+
+Example 9:
+Text: You can't go online if the router is down.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's wrong to be cheap.
+Annotation from annotator: 2
+
+Example 11:
+Text: You should buy your own laptop.
+Annotation from annotator: 2
+
+Example 12:
+Text: You're expected to keep your mouth shut about what happens at a stag.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's okay to be annoyed with someone who is bothering you at home.
+Annotation from annotator: 4
+
+Example 14:
+Text: You should always answer someone's question if they are concerned about you.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's bad to feel down about your abilities.
+Annotation from annotator: 3
+
+Example 16:
+Text: It is expected that pregnant women be emotional.
+Annotation from annotator: 4
+
+Example 17:
+Text: It is wrong to bully others.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to want to be a better parent.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's okay to wish you had your old account on social media.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's good to want to honor your vows with your spouse.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's allowed to solicit the attention of members of the gender you're attracted to.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is good to see a therapist if you are feeling depressed.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's good for a parent to do things for their adult children.
+Annotation from annotator: 3
+
+Example 24:
+Text: It is good to go to counseling.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's wrong not to support your family.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's good to learn about people's mental or physical disability.
+Annotation from annotator: 2
+
+Example 27:
+Text: It's evil to kill people and distribute their belongings.
+Annotation from annotator: 4
+
+Example 28:
+Text: It is okay not to settle.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's wrong to romanticize unhealthy relationships.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's fine to judge someone's social media post.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's good to budget your spending.
+Annotation from annotator:

@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: @Cuppycake143 lol sounds like me when I was chillin with Jerson. Gotta love them old school jams.
+Annotation from annotator: 3
+
+Example 2:
+Text: @peekinpete23 Channeling your inner 10 year old, I see.  Sounds great, I wanna see Up too!
+Annotation from annotator: 3
+
+Example 3:
+Text: Was invited to see Star Trek w favorite little old lady customer. I dont get off in time.
+Annotation from annotator: 1
+
+Example 4:
+Text: Twitter in the Bay!! Ready for old friends reunion!
+Annotation from annotator: 3
+
+Example 5:
+Text: im currently LOVING my job  become waitresses people & you get to have old guys hitting on you ;) woooo!
+Annotation from annotator: 1
+
+Example 6:
+Text: @jtdachtler Price Is Right was my 22-year-old son's favorite program when he was 4 years old.
+Annotation from annotator: 3
+
+Example 7:
+Text: thanks for all of your time and tunes hot young one  a great show as always Sand-Man !!!
+Annotation from annotator: 3
+
+Example 8:
+Text: @ondubuu I am at least 15!  In about 6 months. I look older than Mary ;__;. IDK ARE YOU 20?
+Annotation from annotator: 1
+
+Example 9:
+Text: has found that old familiar feeling again.
+Annotation from annotator: 3
+
+Example 10:
+Text: For @azlanmalek http://tr.im/nHdh. I love you  A stone's throw away from being a year old!
+Annotation from annotator: 3
+
+Example 11:
+Text: home after spending a day catching up with my old pals
+Annotation from annotator: 3
+
+Example 12:
+Text: @tygr20 Here ya go .... http://bit.ly/hLkDQ   Just a little old
+Annotation from annotator: 1
+
+Example 13:
+Text: @jennettemccurdy U R TURNING 17 OMFG!!! I thought u were my ge or 1yr older now im upset
+Annotation from annotator: 3
+
+Example 14:
+Text: but i still miss my old friends...
+Annotation from annotator: 1
+
+Example 15:
+Text: @kathtrinder they don't remind you of sitting out in SL in the old days? mine do....
+Annotation from annotator: 3
+
+Example 16:
+Text: My old kitty has cat scratch fever  I didn't even know that was a real thing! Everyone, vaccinate your animals!
+Annotation from annotator: 3
+
+Example 17:
+Text: @Mell49 Wow, what a big family! How big they are already! I feel old now.
+Annotation from annotator: 3
+
+Example 18:
+Text: @jadiefever  i think you are older and i am smaller,but i dont belong to your country
+Annotation from annotator: 1
+
+Example 19:
+Text: @dommerghz Definitely, once my old computer is set up again.  All my good ATL shit is on it. Oh, & you're in luck! You just WON the game!
+Annotation from annotator: 3
+
+Example 20:
+Text: @swifty7 old before you time!
+Annotation from annotator: 1
+
+Example 21:
+Text: @EmmaEclipse i know its probs gonna be the last season  but it is getting a bit silly in it's old age lol its still the best show ever!
+Annotation from annotator: 3
+
+Example 22:
+Text: @OprahFan I can't say my 6month old is talented just yet but he IS the most beautiful child you'd ever see!!!  ppl stop just to comment!!!
+Annotation from annotator: 3
+
+Example 23:
+Text: @ work laughing my ass off ! There's a 55 year old woman dancing her ass off to DROP and give me 50! Bustin it WIDE OPEN! Lmao
+Annotation from annotator: 3
+
+Example 24:
+Text: Ohh Fudge! My hair is so short already  Waahaa I feel like I look old :| (
+Annotation from annotator: 1
+
+Example 25:
+Text: @rjreid I'm up because my 3 year old son told me to be!  ...like he does everyday!
+Annotation from annotator: 1
+
+Example 26:
+Text: I'm tired. I think I'm becoming too old to go out.
+Annotation from annotator: 1
+
+Example 27:
+Text: @bunnybell i can't get over how my my pup looks like bunnybell as he's getting older  i loved to view all your pictures.
+Annotation from annotator: 3
+
+Example 28:
+Text: Watching Reservoir Dogs in bed. Hard to believe its almost 20 years old. Steve Buscemi and Tarrantino looks so young  #movies
+Annotation from annotator: 1
+
+Example 29:
+Text: @michaelgrainger lol, I know!  But I have an 11 year old who is holding me accountable. we're going to gym together too  Should be good
+Annotation from annotator: 3
+
+Example 30:
+Text: Damn I'm mad. Psyche O's label folded now i can't find their old vinyl's
+Annotation from annotator: 1
+
+Target Example:
+Text: Left the itouch in Melinda's purse last night  rocking the 30gig and rediscovering old music like @kacibattaglia 's debut! She ain't  ...
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

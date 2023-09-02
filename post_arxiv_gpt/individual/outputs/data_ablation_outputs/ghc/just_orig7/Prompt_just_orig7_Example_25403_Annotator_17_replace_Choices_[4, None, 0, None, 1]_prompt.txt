@@ -1,0 +1,127 @@
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: http://www.breitbart.com/tech/2017/11/20/stonecold... Bunty King, Sam Hyde, Stone Cold Truth
+Annotation from annotator: 0
+
+Example 2:
+Text: Memorial Day http://www.kimdutoit.com/2018/05/28/memorial-day-2...
+Annotation from annotator: 0
+
+Example 3:
+Text: our government should be hanging this bitch
+Annotation from annotator: 0
+
+Example 4:
+Text: @Paraliegance I'm for keeping things at four it's fast enough
+Annotation from annotator: 0
+
+Example 5:
+Text: I was put on notice for posting an ugly slur in a private Facebook group... Well 'private'
+Annotation from annotator: 0
+
+Example 6:
+Text: My avatar is Max Eastman, a fascinating and pivotal figure in both the early 20th century American left, and then in conservative circles from the '40s into the '60s. https://infogalactic.com/info/Max_Eastman
+Annotation from annotator: 0
+
+Example 7:
+Text: So let me see if I got this straight, a bomb goes off at a kids concert and kills a bunch of kids and they respond by singing Oasis songs, but a double agent spy gets killed and suddenly the gloves come flying off, and everybody's favourite boogieman is the culprit... they think we're gullible Af
+Annotation from annotator: 0
+
+Example 8:
+Text: I once was sensitive but not psychologically troubled I miss these days every day Brielle or all that?
+Annotation from annotator: 0
+
+Example 9:
+Text: Live scanner feed of YouTube shooting  37 reported so far for triage  http://www.bbscanner.com/listen.php?id=152
+Annotation from annotator: 0
+
+Example 10:
+Text: I'm not afraid
+Annotation from annotator: 0
+
+Example 11:
+Text: I'm not the one in legal jeopardy who needs to call the police - that'd be you
+Annotation from annotator: 0
+
+Example 12:
+Text: A roth is a roth is a roth  https://www.dailydot.com/layer8/qanon-the-storm/
+Annotation from annotator: 0
+
+Example 13:
+Text: ‪Listening to #Wagman on @KJAZZ881 | @iHeartRadio ‬‪#NothinButTheBlues‬ ‪If you’ve got the blues, #Wagman has the cure‬
+Annotation from annotator: 0
+
+Example 14:
+Text: American lives will be saved when you dis-own Monsanto and Bayer.  Europe doesn't want you. Pollute yourselves with your crap food and shit pesticides. Yours sincerely. LOL Brexit
+Annotation from annotator: 1
+
+Example 15:
+Text: Don't be Surprised...#TheCabal #FollowTheWhiteRabbit #SecretSociety #Pizzagate #HisNameWasSethRich #RIPJusticeScalia #FollowTheWhiteRabbit #ReleaseTheMemo #ObamaGate #WorseThanWatergate #Wikileaks #PodestaEmails #AlabamaSpecialElection #GreatAwakening #GLORIOUS2018 #QAnon #TheStorm #THEFLOOD
+Annotation from annotator: 0
+
+Example 16:
+Text: FBI behaved like common street thugs with access to the world’s most powerful intel collection apparatus.
+Annotation from annotator: 0
+
+Example 17:
+Text: Trump and Shizo   Make the world SAVAGE
+Annotation from annotator: 0
+
+Example 18:
+Text: The discovery was made in 1947 by a deep sea oil drilling company based out of Boston Mass. Name was never mentioned.. They drilled a 1 mile 5x5 hole..took 30 days. they were paid 250K at that time.
+Annotation from annotator: 0
+
+Example 19:
+Text: So, #GabFam, in case you didn't hear, #Facebook tried to censor my new book: https://pjmedia.com/trending/facebook-bans-bestsel... #BigTechCensorship cc: @a
+Annotation from annotator: 0
+
+Example 20:
+Text: We're being invaded by South American walruses! https://youtu.be/5Ido2B4HqFM
+Annotation from annotator: 1
+
+Example 21:
+Text: High points: 1. Jews have extremely high outbreeding rates, on the order of 50%, which makes the idea that they are evolving separately from their host populations hard to support
+Annotation from annotator: 0
+
+Example 22:
+Text: @NeonRevolt 2#2pm Pacific Daylight Time (California) 😩
+Annotation from annotator: 0
+
+Example 23:
+Text: True, since I sent Hogg my copy of Seej
+Annotation from annotator: 0
+
+Example 24:
+Text: QAnon Exposes The Clinton Lynch Tarmac Meeting https://youtu.be/304RvtYWukM via @YouTube
+Annotation from annotator: 0
+
+Example 25:
+Text: Story Ideas litter all our minds. We reject most of them. But maybe someone's trash is someone else's treasure. Feel free to use any of these: https://pcbushi.wordpress.com/2018/04/17/science-f...
+Annotation from annotator: 0
+
+Example 26:
+Text: @realDonaldTrump Sir, why you worry about Harley Davidson?? Those are shito bikes and always break down. Let them go and keep the Vulcan Bikes around. Same sound and hardly ever break down. Real true Bikers know a good bike when they see one. VULCAN BIKES ARE BEST & CHEAPER TOO
+Annotation from annotator: 0
+
+Example 27:
+Text: Hey guys, is it true Soros supposedly had a heart attack??
+Annotation from annotator: 0
+
+Example 28:
+Text: My husky and Gsd (when she was a puppy 🐶) ❤️
+Annotation from annotator: 0
+
+Example 29:
+Text: Hey girl, I'm up in this armored Chevy gettin' googly eyes. It's okay you going to Wal-Mart on Valentine's Day to stock up on cat food.
+Annotation from annotator: 0
+
+Example 30:
+Text: THE FEMINIST LIBERAL SHEEPLE, will finally get it one day very soon ?
+Annotation from annotator: 0
+
+Target Example:
+Text: GOOD MORNING USA CONCENTRATION CAMPERS unelected CFR NSA/CIA members can spy on, target & kill u-RU OK with that? http://www.zerohedge.com/news/2016-04-20/saudi-arabia-admitted-john-kerry-it-created-isis-there-twist
+Annotation from annotator:
+Your output should be a single integer and nothing else.

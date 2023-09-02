@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: I was about to participate in the Afd on Wooster Greeks.  You've reverted yourself and re-closed it?
+Annotation from annotator: 10
+
+Example 2:
+Text: This photo is part of a series of shots of my boat taken on my camera, for me, by someone (I didn't know who pressed the button) on the chase boat. Suggestions?
+Annotation from annotator: 12
+
+Example 3:
+Text: Why do you have this user name??
+Annotation from annotator: 5
+
+Example 4:
+Text: I don't know what page you are talking about, as this is your only edit. Did you perhaps have another account?
+Annotation from annotator: 11
+
+Example 5:
+Text: <url> needs urdu script for the name of the subject (Bangla script has already been added). Can you help?
+Annotation from annotator: 11
+
+Example 6:
+Text: From the edit history to the template, it appears that your last edit has not been undone so hopefully this issue is resolved. You are both editors of between 1 and 2 years experience here, so perhaps a bit better communications would be a better approach in future?
+Annotation from annotator: 15
+
+Example 7:
+Text: Remember we had the whole edit warring on Edelsten article a while back? I find it curious that a recently created account posted this <url> as their first contribution basically supporting Edelsten's personal website (which when you look would hardly pass <url>, I looked it at this site a while back in research and found some of the positive claims could not be verified) and wanting a complete rewrite of the article... sound familiar?
+Annotation from annotator: 7
+
+Example 8:
+Text: Well, don't everyone talk all at once now. :) Any suggestions for the article ?
+Annotation from annotator: 11
+
+Example 9:
+Text: In fact, I think I remember saying something to that effect during the ArbCom election campaign.  Are you saying something different?
+Annotation from annotator: 12
+
+Example 10:
+Text: You recently edited this page. It is my view that this page is just a corporate marketing listing, there are several hundred companies that do the same job yet are not listed in Wikipedia - Do you not think that this is advertorial?
+Annotation from annotator: 10
+
+Example 11:
+Text: to the Citations missing template. What's the deal?
+Annotation from annotator: 7
+
+Example 12:
+Text: <url> is a bit of a stretch. Do you think you might strike it?
+Annotation from annotator: 11
+
+Example 13:
+Text: I am happy to rewrite it but please explain to me how it is any different from the Warrior Lacrosse and STX pages? They don't have any links except to their own websites?
+Annotation from annotator: 18
+
+Example 14:
+Text: Sovereignty is something a thing, in this case Japan, possesses, hence the apostrophe. So what's the problem?
+Annotation from annotator: 9
+
+Example 15:
+Text: Regarding your time setting, I'm a little unsure what you want to do - there are only two things you can change - the timezone offset from GMT, which you set at the bottom of the screen by selecting the correct offset for your location from the list - I'm guessing Asia/Calcutta would be about right, and the way the date/time is displayed, which you choose from the list of five options at the top of the screen. What problems are you having ?
+Annotation from annotator: 15
+
+Example 16:
+Text: Do your hardback copies of <url> have a dust jacket (mine doesn't).  If so, does it look like the cover of the 1971 paperback pictured in the article?
+Annotation from annotator: 13
+
+Example 17:
+Text: I messed with this problem a bit last week but couldn't come up with anything. Is there a timeline expert that can come in a fix it if we recommend that action be taken?
+Annotation from annotator: 14
+
+Example 18:
+Text: I was thinking about bringing that up.  I wonder if this is the first time someone's beat me to it?
+Annotation from annotator: 11
+
+Example 19:
+Text: That's fine. Question: how did you find that out?
+Annotation from annotator: 13
+
+Example 20:
+Text: Rxe9nyi leaves out the other gruesome details and adds the context of the fortress.  Do you know which details are in the most widespread and/or original version of this tale?
+Annotation from annotator: 12
+
+Example 21:
+Text: <url> is having <url> spelling "<url>".  Perhaps you could help?
+Annotation from annotator: 16
+
+Example 22:
+Text: I was just now leaving a note on Ruhrfisch's talk page, and noticed that you'd left a note there.  I wrote about the <url> the other day, the first time that I've ever created an NRHP article: would you be willing to check it, and to add to the infobox if there's something that can easily be added?
+Annotation from annotator: 17
+
+Example 23:
+Text: Thanks terribly for looking it up. Would it be alright for me to use the new source in Europe, economy section then?
+Annotation from annotator: 13
+
+Example 24:
+Text: What's wrong with having everything look the same, the links are for the Official website of the channel so I don't see the problem??
+Annotation from annotator: 7
+
+Example 25:
+Text: What a mess. Does anything need to be done about it at the moment?
+Annotation from annotator: 8
+
+Example 26:
+Text: Perhaps an essay could clarify this? "Be Assertive, not Aggressive", or "Act like a Professional"?
+Annotation from annotator: 11
+
+Example 27:
+Text: Yes, I do, but Norris is generally better. What points/issues do you think it should also cover?
+Annotation from annotator: 13
+
+Example 28:
+Text: Yeah, chances are it is. How long do you reckon it will be before he edits a Sydney related article?
+Annotation from annotator: 13
+
+Example 29:
+Text: I'm curious how you justify your removal of a link to the Washington Blade newspaper website in the <url> article<url>. The Blade is a valid media outlet - a newspaper dating back to 1969. Is there some bias at work?
+Annotation from annotator: 10
+
+Example 30:
+Text: I note you also removed the statement that "Hurrell had been involved in previous altercations". Why?
+Annotation from annotator: 13
+
+Human-rated Examples:
+Example 1:
+Text: Do you still take photos in Jefferson Parish? If so, would it be alright if I posted some photo requests of some parish high schools?
+Annotation from annotator: 16
+
+Example 2:
+Text: Don't threaten me as that is not vandalism. What is wrong with a nude photo of Barack's mom?
+Annotation from annotator: 4
+
+Example 3:
+Text: I found <url>, which we don't have on en:wiki. Know anyone to do a proper translation?
+Annotation from annotator: 12
+
+Example 4:
+Text: Hello, I am interested in helping out with <url> and <url>, but the pages are very very long, which is unmanageable and discouraging. Could you please break them up into (many) smaller subpages?
+Annotation from annotator: 14
+
+Example 5:
+Text: Thankyou Fail, but the template I want is the one that goes at the bottom of the article and produces a message that goes something like 'This article is a copy of the (X) article in the German wikipedia, version 21 December 2009 10:04.' What is that template?
+Annotation from annotator: 16
+
+Example 6:
+Text: Umm... isn't the template page itself semi-protected? If so, then shouldn't it be in the category?
+Annotation from annotator: 8
+
+Example 7:
+Text: I was just about to create an article on the 2009 Malawian election; the purpose of adding it to the template was to give me a convenient link when I decided to do it. If red linked elections can't go in the template, why don't you delete all the red linked past elections?
+Annotation from annotator: 8
+
+Example 8:
+Text: I see you don't edit the heats from morning session. Will you be here for the finals ?
+Annotation from annotator: 12
+
+Example 9:
+Text: Is there really any serious debate that Mobile IE is remotely comparable to Safari mobile? What source would be acceptable to show this?
+Annotation from annotator: 6
+
+Example 10:
+Text: Question: Is the purpose of the name parameter to show the name of the person as listed at the linked site, or is it to write in whatever the editor thinks he name should be shown as (i.e. damn the sources)?
+Annotation from annotator: 12
+
+Example 11:
+Text: -- Well, it was a repost of a deleted article. What would be a better tag to use?
+Annotation from annotator: 12
+
+Example 12:
+Text: Serouj, you didn't reply to my message and my email. One question: if the church was built after 1700 but later ruin, for instance ruined by Beria order in 30s, can it be considered Contemporary?
+Annotation from annotator: 12
+
+Example 13:
+Text: -- Bit confused by your DYK nom.  Surely the world's first gasoline automobile was created by <url> four years earlier?
+Annotation from annotator: 12
+
+Example 14:
+Text: Saw your edits on <url> - all good - but I have a question. What does "collapse <url>" mean in your edit summary?
+Annotation from annotator: 16
+
+Example 15:
+Text: Hi Leonard G., I just read through your RFA including your reform proposals. Could you take a look at <url>, a proposal I have developed which would give just the rollback tool to people who request it?
+Annotation from annotator: 18
+
+Example 16:
+Text: Tom, that article is ready for publication, was written by someone else, and your changes aren't improving it.  Did MER-C ask you to work on it?
+Annotation from annotator: 4
+
+Example 17:
+Text: I noticed that you are the major contributor to the articles. Mind if I nominate <url> at <url>?
+Annotation from annotator: 15
+
+Example 18:
+Text: Also I noticed you made new Europe and USA maps for this and <url>. Do you think it would be good to have a world map for <url>?
+Annotation from annotator: 14
+
+Example 19:
+Text: Don't you think it's taken too far back to be of any use? Do we have any alternatives?
+Annotation from annotator: 12
+
+Example 20:
+Text: I'm in Outer Mongolia from the 27th till the 10th, UB, Hovsgol, UB. Maybe we can meet?
+Annotation from annotator: 16
+
+Example 21:
+Text: I have noticed that you added the reference to him living in NZ. Do you know anymore?
+Annotation from annotator: 13
+
+Example 22:
+Text: Thanks for pointing out a problem with the image licensing ... I must admit despite being a seasoned contributor I find this image licensing stuff pretty confusing and hard to get right .. are there recommended examples of standard things like book covers, album covers, paintings etc?  Have I done the Jonah cover ok now, or not?
+Annotation from annotator: 20
+
+Example 23:
+Text: I am having trouble finding evidence of Wacu0142awowo in Avondale. There don't appear to be any sources; is it possible that the spelling is off?
+Annotation from annotator: 12
+
+Example 24:
+Text: Thanks for your comment.  What was done wrong in listing the image for deletion?
+Annotation from annotator: 16
+
+Example 25:
+Text: My latest film is<url>. DO you rhink if it is referenced it is good enough?
+Annotation from annotator: 15
+
+Example 26:
+Text: Please put them all back!  Are you on DSL?
+Annotation from annotator: 16
+
+Example 27:
+Text: For the albums chart or the singles? Do you know the formats the albums were released in?
+Annotation from annotator: 12
+
+Example 28:
+Text: ...Ronald Reagan is dead??
+Annotation from annotator: 12
+
+Example 29:
+Text: Excuse me, but <url> seems to have slept through its normal editing period last night. Is it still working?
+Annotation from annotator: 12
+
+Example 30:
+Text: Thank you for taking the time to dig up the references. Are you planning on integrating them into the article sometime soon?
+Annotation from annotator: 20
+
+Target Example:
+Text: I'm wondering why you've removed this category from <url>'s page? Is he no longer part of the council?
+Annotation from annotator:

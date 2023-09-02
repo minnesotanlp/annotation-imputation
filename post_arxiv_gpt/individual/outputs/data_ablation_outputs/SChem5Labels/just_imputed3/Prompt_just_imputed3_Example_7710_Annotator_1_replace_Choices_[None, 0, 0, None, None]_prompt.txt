@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: You shouldn't gossip with your coworkers.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is rude for another event to take over the mind's of wedding guests.
+Annotation from annotator: 2
+
+Example 3:
+Text: You should not engage in tax fraud.
+Annotation from annotator: 4
+
+Example 4:
+Text: It is wrong to be rude to others
+Annotation from annotator: 4
+
+Example 5:
+Text: It's wise to do monthly payments if you can't pay back a loan right away.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's bad to prematurely quit because of frustration.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's okay to dislike babies.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's okay to drink responsibly.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's not okay to be greedy and unappreciative.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's normal for things to sometimes not go as you planned.
+Annotation from annotator: 4
+
+Example 11:
+Text: You shouldn't take advantage of your family members
+Annotation from annotator: 4
+
+Example 12:
+Text: It's good for a goalie to keep an eye on the ball.
+Annotation from annotator: 4
+
+Example 13:
+Text: People should find ways to be happy with themselves.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is expected that some kids might want to get married early in life.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to help someone feel needed.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's expected that people will feel guilty over their misdeeds.
+Annotation from annotator: 2
+
+Example 17:
+Text: You should tell your friend what is bothering you.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to forgive others.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's good to not want your past to bring you down.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's OK not to take life too seriously.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's mean to resent your daughter.
+Annotation from annotator: 3
+
+Example 22:
+Text: Leaving your partner behind can devastate them.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is good to be a good listener
+Annotation from annotator: 4
+
+Example 24:
+Text: It understandable to want to focus on yourself.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's wrong to endanger people.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's unhealthy to hold on to anger for too long.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's understood that not everyone perceives problems to be the same seriousness.
+Annotation from annotator: 4
+
+Example 28:
+Text: It is rude to insult someone.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's understood that some people don't do everything perfectly.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's wrong to exclude others from activities.
+Annotation from annotator: 4
+
+Target Example:
+Text: You should have a good time with you win or lose
+Annotation from annotator:

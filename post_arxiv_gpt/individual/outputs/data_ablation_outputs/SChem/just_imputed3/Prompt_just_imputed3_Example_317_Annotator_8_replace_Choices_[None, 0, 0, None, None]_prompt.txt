@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's rude to be ashamed of people that love you.
+Annotation from annotator: 3
+
+Example 2:
+Text: People should follow the rules.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's expected that parents should discipline their kids.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is wrong to insult your boyfriend and then expect him to want to be around you.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's understandable to want to ruin your ex's new relationships.
+Annotation from annotator: 1
+
+Example 6:
+Text: It's bad to be only attracted to fictional characters.
+Annotation from annotator: 2
+
+Example 7:
+Text: You shouldn't be friends with someone that talks badly about you behind your back.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's bad to lose track of your belongings.
+Annotation from annotator: 3
+
+Example 9:
+Text: There should be trust in a relationship.
+Annotation from annotator: 3
+
+Example 10:
+Text: You shouldn't constantly think about death and dying.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to look forward to things you can do when you grow older.
+Annotation from annotator: 3
+
+Example 12:
+Text: If someone forbids you from doing something, you should respect them.
+Annotation from annotator: 4
+
+Example 13:
+Text: It is good to be remorseful and admit when you've done wrong
+Annotation from annotator: 4
+
+Example 14:
+Text: It's wrong to stalk people.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's good to have something in your life that you love with every fiber of your being.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's normal for married couples to have sexual relations.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's understandable that sometimes people have reasons not to trust someone.
+Annotation from annotator: 3
+
+Example 18:
+Text: People shouldn't lie about who they are.
+Annotation from annotator: 3
+
+Example 19:
+Text: You can't expect everyone to like you.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's good to want others to celebrate your joys with you.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's wrong to take pennies from a wishing fountain.
+Annotation from annotator: 4
+
+Example 22:
+Text: You should expect to get caught when you lie to people.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is normal for students to pass notes
+Annotation from annotator: 3
+
+Example 24:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's wrong to want your girlfriend to leave.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's bad to use sex to get what you want.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's good to find things to help you soften your grief.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's not normal to dislike everybody
+Annotation from annotator: 3
+
+Example 29:
+Text: It is good to be proud of your children.
+Annotation from annotator: 4
+
+Example 30:
+Text: It is bad to have arguments.
+Annotation from annotator: 2
+
+Target Example:
+Text: You should be focused on learning while at school.
+Annotation from annotator:

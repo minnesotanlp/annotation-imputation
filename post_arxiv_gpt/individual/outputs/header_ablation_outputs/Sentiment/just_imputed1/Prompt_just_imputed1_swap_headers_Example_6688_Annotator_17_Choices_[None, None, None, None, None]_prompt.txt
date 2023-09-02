@@ -1,0 +1,122 @@
+Example 1:
+Text: I think i am in love all over again...w/ the Backstreet Boys and *Nsync...i love watching/listening to their old music!
+Annotation from annotator: 3
+
+Example 2:
+Text: @emilycopeland Yeah! I was doing an older version...now I have Extreme, so I just gotta get a yoga matt and a pull up bar then I'll start
+Annotation from annotator: 2
+
+Example 3:
+Text: ear ache.....random! & it hurts like a bitch   SOSOSOSO bored seriously im fifteen years old and it summer; thats fucked up!
+Annotation from annotator: 2
+
+Example 4:
+Text: off to work  i miss being younger
+Annotation from annotator: 2
+
+Example 5:
+Text: @Coralalala good old primark ;D but its only 8 hours
+Annotation from annotator: 2
+
+Example 6:
+Text: @JEFFHARDYBRAND legend Jeff! What you reckon to Kat (ECW), old UK mate from York! Olden days
+Annotation from annotator: 2
+
+Example 7:
+Text: @theotherlily  I hope client    Orrr maybe he's an old buddy of Shawn's dad..that need help?
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6plus - i got dave a new bonsai... his old one died last year  so this is steve jr. (dave named his bonsai steve... ...
+Annotation from annotator: 1
+
+Example 9:
+Text: don't forget the alcohol, oooh baby, oooh baby! Poor old Milez...
+Annotation from annotator: 2
+
+Example 10:
+Text: Great morning!! So happy my daughter is graduating from kindergarden! Dag I just had her 5 years ago......I'm old
+Annotation from annotator: 2
+
+Example 11:
+Text: No! I have an old menu and they already didn't have the wine I wanted to try
+Annotation from annotator: 2
+
+Example 12:
+Text: @eggrollstan Thank you so much.  His fever went down and he was back to his old self, like nothing ever happened.
+Annotation from annotator: 2
+
+Example 13:
+Text: gahh....tiredish...stayed up too late last night .-. oh well...leaving to go out to eat soon  got a new tv so i get the old one
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished AP interview with a young man turning 12 Tues.  He passed.  Waiting for next appt. to show just not sure when he'll come.
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/680to - I also layed in her older sister's room & pet their cat, Baxter.
+Annotation from annotator: 2
+
+Example 16:
+Text: according to this http://bit.ly/b6mPa  I will be 10000 days old in 8 days. time to celectrate  #fb
+Annotation from annotator: 2
+
+Example 17:
+Text: @LuciusPastime I'm going to sound really old-fashioned here, but I still use my dad's old Silver Arrow. Kind of an antique, if you may.
+Annotation from annotator: 2
+
+Example 18:
+Text: @residentartist The younger one liked her celery anyway.
+Annotation from annotator: 2
+
+Example 19:
+Text: Recommended @panacea81 to @MrTweet 'A really nice & generous young woman whose made the art of makeup easier   ' http://cli.gs/baz2UX
+Annotation from annotator: 2
+
+Example 20:
+Text: miss my old days when i'm in 2nd grade
+Annotation from annotator: 2
+
+Example 21:
+Text: Wedding last nightt was crazy fun! I think my little brother has a hangover :-0 (yes, he's 13) NO bueno! Good seeing old friends & fam
+Annotation from annotator: 2
+
+Example 22:
+Text: downloading good old music
+Annotation from annotator: 3
+
+Example 23:
+Text: @Bearsuitband Saw that yesterday; it's my old Uni and I can't make it  Have a good gig!
+Annotation from annotator: 2
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of an 75 year old!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to having a good old spree in meadowhall with @AniNicholas
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 27:
+Text: so far so good new lappy top is working ... old boy PC is no more RIP
+Annotation from annotator: 2
+
+Example 28:
+Text: im hun-ger-eee  ramen gets old after a few dozen packs consumed in a matter of months...;
+Annotation from annotator: 2
+
+Example 29:
+Text: @tellyyy man whatever your just mad cuz you drive like an old lady lol but i love you baby
+Annotation from annotator: 1
+
+Example 30:
+Text: @hellotriciaaaa lol. he's OURS! yay! same old.same old? is that a good thing? did ya do anything fun?
+Annotation from annotator: 2
+
+Text: Feeling old & decrepit after a hard ride on the pony this arvo
+Annotation from annotator:

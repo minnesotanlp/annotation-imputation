@@ -1,0 +1,129 @@
+Estimated Examples:
+Example 1:
+Text: NCI/Frederick Nat Lab looking for Tissues for CPTAC proteogenomic study. Come by Poster 400, Sec. 16, # 26 for details. #AACR17 #NCI by 5:00
+Annotation from annotator: 0
+
+Example 2:
+Text: Crakes description of the deaths of his mother, father and uncle is unnerving. Shows that he's heartless, empty or both. @ENGL1102TechnoC
+Annotation from annotator: 2
+
+Example 3:
+Text: Me: maybe someday fire emblem fans will stop yelling at each other abt their shitty waifus Me, seeing another thread abt camillas tits: huh
+Annotation from annotator: 2
+
+Example 4:
+Text: With the recent upswing in fatcels, we're on the verge of becoming r/fatpeoplehate 2.0
+I'm okay with this 
+
+Fatcel = volcel
+Annotation from annotator: 2
+
+Example 5:
+Text: The entire ad was a mess, from the appropriating the movement to sell soda, to the vague&amp; generic signs the protesters carried #PepsiAdvert
+Annotation from annotator: 0
+
+Example 6:
+Text: I had nothing but polite White Children and their parents come to my door , and I got to meet some of my neighbors .
+Annotation from annotator: 0
+
+Example 7:
+Text: yo having me as a trophy, friend/bestfriend, should consider me as a fucking trophy, because i'm lit asf, boo.
+Annotation from annotator: 0
+
+Example 8:
+Text: "What is better, to be born good, or to overcome your evil nature through great effort?"
+Annotation from annotator: 0
+
+Example 9:
+Text: why did n't the chef want to eat the chicken at his own restaurant ? he did n't want to know what his cum tastes like
+Annotation from annotator: 1
+
+Example 10:
+Text: Why wouldn’t the anti-vaxxer’s three year old child stop crying? It was having a midlife crisis.
+Annotation from annotator: 2
+
+Example 11:
+Text: my mum did n't want me and tried to flush me down the toilet . she totally ruined my <number> h birthday .
+Annotation from annotator: 1
+
+Example 12:
+Text: Cant say over the net what I do EVERY day for our cause but you can bet I do my part .
+Annotation from annotator: 0
+
+Example 13:
+Text: I wonder why you keep thundering,won't you just fucking rain ....
+Annotation from annotator: 0
+
+Example 14:
+Text: This bitch at my job just too ugly to be mad&#128567; like not even all that makeup she wears can help her&#128514;
+Annotation from annotator: 2
+
+Example 15:
+Text: What does a sex offender call their happy trail? The trail of tears
+Annotation from annotator: 2
+
+Example 16:
+Text: "@corbynbesson I would shout out ""MERRY CHRISTMAS"" like I sometimes do to my friends even tho it's not Christmas"
+Annotation from annotator: 0
+
+Example 17:
+Text: What do you say to a black guy in a three piece suit? Will the defendant please rise
+Annotation from annotator: 2
+
+Example 18:
+Text: How many goths does it take to make a tree fall over? Depends where on the tree they hang themselves.
+Annotation from annotator: 1
+
+Example 19:
+Text: """If you knew what I know, you'd understand. No, I can't tell you what I know. You have to believe me"". Trust no one, question everything."
+Annotation from annotator: 0
+
+Example 20:
+Text: Why are rapists nicer than rape victims? It’s better to give than to receive.
+Annotation from annotator: 2
+
+Example 21:
+Text: We're not far from free speech being classified as hate speech.
+Annotation from annotator: 0
+
+Example 22:
+Text: Yes @Eeshmatic!!!! Dem man that only know how to run up their mouth to girls/women...then talk about how tough they think they are!!!
+Annotation from annotator: 1
+
+Example 23:
+Text: Do words such as consciousness, expansion, love, and freedom excite you?
+Annotation from annotator: 0
+
+Example 24:
+Text: I’m contemplating changing gender Just so I can finally know what it feels like to be touched by a woman
+Annotation from annotator: 0
+
+Example 25:
+Text: White knights in /r/mma accuse ref of "creeping" on a female fighter by simply doing his job, get called out by video evidence
+Annotation from annotator: 0
+
+Example 26:
+Text: I #LITMPagtatapat #FPJAPBalikBilibid #MDHKasagutan It Will never change baby MCLISSE IWFIL OnStarMusic
+Annotation from annotator: 0
+
+Example 27:
+Text: Slide in that hoe DM's like &#127938;&#127938;&#127938;
+Annotation from annotator: 0
+
+Example 28:
+Text: What you call a white guy surrounded by 1000 black guys? A warden
+Annotation from annotator: 2
+
+Example 29:
+Text: i respect that i like dont like ur opinion but i do respect it. your not gonna change who i am.. sorry haha i say gay allot and wont have a problem saying it either...
+Annotation from annotator: 1
+
+Example 30:
+Text: The tragedy of John Lennon getting shot...
+
+6 rounds fired and not 1 hit Yoko
+Annotation from annotator: 2
+
+Target Example:
+Text: Feminists keep harassing male student about his "privelege"
+Annotation from annotator:

@@ -1,0 +1,84 @@
+Human-Labeled Majority-voted Examples:
+Example 1:
+Text: We use a few different databases but primary one is MySQL
+Annotation: 0
+
+Example 2:
+Text: After WMD and Blair, etc people just don't buy this crap any longer but the out of touch ELITES, think people do. Dangerous times, what will their kneejerk reaction be to their obvious loss of POWER?
+Annotation: 0
+
+Example 3:
+Text: Rod Rosenstein’s wife is Clinton attorney
+Annotation: 0
+
+Example 4:
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Annotation: 0
+
+Example 5:
+Text: 100% correct. Not many years ago, they would have been hung.
+Annotation: 0
+
+Example 6:
+Text: What a fag, not even a real boy.
+Annotation: 1
+
+Example 7:
+Text: @Patrick_little‍  
+Annotation: 0
+
+Example 8:
+Text: https://www.youtube.com/watch?v=DA_ZrexdabI - Browse around this web-site
+Annotation: 0
+
+Example 9:
+Text: Chinese Face Reading In The News @ http://brothernathanaelchannel.com/watch_video.php?v=1284
+Annotation: 0
+
+Example 10:
+Text: DA! Let's see that #Memo!
+Annotation: 0
+Estimated Majority-voted Examples:
+Example 1:
+Text: #MAGA is winning. And liberals are getting more hysterical with each passing day. The #NeverTrump cucks who feared Trump would be a Cryin’ Chuck Schumer ally are no denigrating POTUS for being “too tough” and a “bully”.😂😂😂
+Annotation: 0
+
+Example 2:
+Text: People need to freaking wake up!
+Annotation: 0
+
+Example 3:
+Text: My Fav. moment in The Tick is Ep6 when they're walking along, smiling and acknowledging praise from passers by (song below).   Superhero stories are so odd. The prize isn't treasure, power, or a girl. It's acceptance from the people you think you're superior to.    https://youtu.be/ACnc6xjsOCw
+Annotation: 0
+
+Example 4:
+Text: I'm moving so not worried about self doxing... thats down the street from where I live rn. I live just off the college campus here. Its niggerville. I call it Detroit Jr.
+Annotation: 1
+
+Example 5:
+Text: Hundreds of innocent bystanders have their jobs taken from them over a joke Roseanne tweeted & the number of Americans calling this censorship "justice" makes me want to puke. 
+Annotation: 0
+
+Example 6:
+Text: Isn't polosi hilarious with her senility?!:)  PRAY GOD BLESS AMERICA with SANITY and SAFETY!!
+Annotation: 0
+
+Example 7:
+Text: This is a test
+Annotation: 0
+
+Example 8:
+Text: LEFTIST, GLOBALIST AND PEDOPHILES. REPORTING TRUTH  
+Annotation: 0
+
+Example 9:
+Text: EUROPE ELIMINATED JESUS. LOOK AT HOW PATHETIC & DANGEROUS EUROPE IS NOW. THE ONLY SAFE COUNTRY IS POLAND WHERE THEY PROCLAIM JESUS IS OUR KING. THE ONLY ONES WHO LAUGH ABOUT JESUS R CRIMINALLY INSANE EVIL SLAVES OF SATAN 
+Annotation: 0
+
+Example 10:
+Text: Deer do not understand private property rights.
+Annotation: 0
+Predict the integer label of the following example:
+Text: 2017-06-05 - PizzaGate Money Trail Leads To John McCain https://youtu.be/9TjGB3lRQQ4 via @YouTube
+Annotation:
+Your output should be a single integer and nothing else.

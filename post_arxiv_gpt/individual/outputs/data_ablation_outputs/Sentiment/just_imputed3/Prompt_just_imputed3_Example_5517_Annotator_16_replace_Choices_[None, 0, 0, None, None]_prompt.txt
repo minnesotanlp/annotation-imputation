@@ -1,0 +1,84 @@
+Estimated Examples:
+Example 1:
+Text: @robday Just done a search through some drawers looking for summit... and have come across some old Moo cards. "Touchbase Computers"!!
+Annotation from annotator: 2
+
+Example 2:
+Text: @theadamshoe Happy birthday, old man   24!!
+Annotation from annotator: 3
+
+Example 3:
+Text: @xNikiEvans greys, do you even have them yet ? X your not old enough
+Annotation from annotator: 2
+
+Example 4:
+Text: Editing my old ehow articles with a horrible headache.  Also trying to link my ehow articles to twitter.  Probably what gave me a headache
+Annotation from annotator: 1
+
+Example 5:
+Text: Had a long day. Buried 1 young man in the afternoon only to loose another a couple of hours later. Life is too short wake up everybody
+Annotation from annotator: 1
+
+Example 6:
+Text: Happy 18th birthday to my little sis!! The older she gets the older I get
+Annotation from annotator: 2
+
+Example 7:
+Text: How do the older ones always act the youngest, it's funny how things turn upside down. I need to hold hands with somebody mature.
+Annotation from annotator: 2
+
+Example 8:
+Text: I miss old jonas days. They're my ringtone. Still In Love With You.
+Annotation from annotator: 3
+
+Example 9:
+Text: I'm becoming lame in my old age everyone else stayed out to party while I went home before midnight like a good little girl
+Annotation from annotator: 1
+
+Example 10:
+Text: I'm too young to vote. I'll be able to, come my junior year in college.
+Annotation from annotator: 2
+
+Example 11:
+Text: Im well bored got bak from me broz bday party 8 screming 8 year old boys whoopee
+Annotation from annotator: 2
+
+Example 12:
+Text: Lame! I'm tired because I'm getting old!
+Annotation from annotator: 0
+
+Example 13:
+Text: Need to get sleep, first test tomorrow  But still need to finish these English summaries! Bah.... well the night is stil young lol
+Annotation from annotator: 2
+
+Example 14:
+Text: On my way to young Hollywood awards and party!
+Annotation from annotator: 3
+
+Example 15:
+Text: Recently retouched. http://tinyurl.com/ljoboh  Finally got it to work, I think.  An old dog can learn new tricks, see?
+Annotation from annotator: 3
+
+Example 16:
+Text: Wondering what to buy 8 year old nephew for his birthday. Any suggestions? Wolverine hands are sold out
+Annotation from annotator: 2
+
+Example 17:
+Text: You were too young to die  .... Rest in Paradise
+Annotation from annotator: 1
+
+Example 18:
+Text: planning on trading in a bunch of my old games for sims 3 tuesday.
+Annotation from annotator: 2
+
+Example 19:
+Text: was really pleased that getting the new WP install to talk to my old database was just a matter of setting the db prefix in wp-config.php
+Annotation from annotator: 3
+
+Example 20:
+Text: wishing i was in my new house, rather than the boring old one. oh, and if i'm dead tomorrow, it was the cats. they're ganging up on me!
+Annotation from annotator: 2
+
+Target Example:
+Text: @tonyrobbins Did you get the new phone?  I updated my old one.  Now I want new one.  Want's vs. Need's
+Annotation from annotator:

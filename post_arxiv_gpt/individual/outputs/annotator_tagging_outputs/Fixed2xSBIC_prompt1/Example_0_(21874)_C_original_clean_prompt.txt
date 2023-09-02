@@ -1,0 +1,58 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Girl goads boy into killing himself, found guilty, still no shortage of excuses
+Annotation from annotator: 2
+
+Example 2:
+Text: Really hoping @RealKurtAngle as Raw GM is just a practice for him running for president. #Angleforpresident #President
+Annotation from annotator: 0
+
+Example 3:
+Text: They say black looks good everywhere. I think it looks best behind steel bars.
+Annotation from annotator: 2
+
+Example 4:
+Text: one is one too many , i bet all the white girls and wiggers go crazy for the young coon , whichever school you are in , wigggers outnumber metalheads or `` normal '' whites
+Annotation from annotator: 2
+
+How annotator B has labeled some examples:
+Example 1:
+Text: r/ForeverAlone is beyond saving (I also got permabanned for this post)
+Annotation from annotator: 0
+
+Example 2:
+Text: But you're so cute! Why do you want to be a boy?
+Annotation from annotator: 1
+
+Example 3:
+Text: having a whore mother sucks
+ruined the whole family dynamic
+Annotation from annotator: 2
+
+Example 4:
+Text: White House sometimes seems unconcerned/in denial about political dynamics and then stung and seemingly surprised by them.
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Do you know why you can’t find a black faced smiley ? It’s because black people are not allowed to have emotions .
+Annotation from annotator: 2
+
+Example 2:
+Text: It is in the nature of Jews to desecrate traditions of all sorts and push our women to make fools of themselves .
+Annotation from annotator: 2
+
+Example 3:
+Text: Pretend assholes callin the women bitches when they know they love em lol..
+Annotation from annotator: 2
+
+Example 4:
+Text: Your manager calls you into the office and you get fired. You leave the office and everyone on the floor is clapping What do you do? &#128514;&#128555;&#129315;
+Annotation from annotator: 0
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: alabama where eharmony and ancestry are the same website .
+Annotation from annotator:

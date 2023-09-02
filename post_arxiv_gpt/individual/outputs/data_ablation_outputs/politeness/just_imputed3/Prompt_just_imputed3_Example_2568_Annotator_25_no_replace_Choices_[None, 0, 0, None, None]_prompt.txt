@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: Thanks for the quick response. Would you have any suggestions on editors who would be interested in this field, or who might have experience with FA reviews?
+Annotation from annotator: 15
+
+Example 2:
+Text: Welcome to WikiProject Austria. I'm wondering if you're willing to coordinate the project for a while?
+Annotation from annotator: 15
+
+Example 3:
+Text: Problem isn't too hard; I'm taking care of it.  Had you discovered <person>?
+Annotation from annotator: 12
+
+Example 4:
+Text: What are your intentions after two months?  Will you continue your previous deletions?
+Annotation from annotator: 12
+
+Example 5:
+Text: I'm looking for a diff by yours where you compared administrator corruption to what happened to students during the <url>. Do you happen to know where is that diff?
+Annotation from annotator: 11
+
+Example 6:
+Text: LOL what did he say in the press???
+Annotation from annotator: 12
+
+Example 7:
+Text: Done, I think. How does that look?
+Annotation from annotator: 13
+
+Example 8:
+Text: On the mediation page you made a number of statements that I said I would like to discuss with you. Would you be willing to do that <url>?
+Annotation from annotator: 16
+
+Example 9:
+Text: I'm sorry, but I don't see the value in having different criteria for two versions of the same list, one sorted by name and one sorted by nationality. Every other list and article on space travel uses the altitude definition, why would the sub-list sorted by nationality be different?
+Annotation from annotator: 11
+
+Example 10:
+Text: Point taken. Would you like to be a mod?
+Annotation from annotator: 14
+
+Example 11:
+Text: Yellowmonkey has told me we need another FAR delegate and recommended you for the job. Is that something you're willing to do?
+Annotation from annotator: 14
+
+Example 12:
+Text: JoJan, not got a picture of one yet, but I notice in you wrote that it is rare. Where did you get that information as I wonder how rare it is?
+Annotation from annotator: 13
+
+Example 13:
+Text: Hey, why do you edit the standings when a game isnxb4t over??
+Annotation from annotator: 10
+
+Example 14:
+Text: Is there any reason that you redirected <url> to <url>? Did this happen as a result of a technical error or something?
+Annotation from annotator: 13
+
+Example 15:
+Text: Unless im making a major mistake here, this article was about a Not for profit organisation which seemed notable enough to give the origional creator at least some time to source it. Are you sure this had to be a speedy?
+Annotation from annotator: 12
+
+Example 16:
+Text: Turbinella is a disambiguation page. Perhaps perform a move to Turbinella (gastropod) ?
+Annotation from annotator: 15
+
+Example 17:
+Text: I didn't have those in <person> because they were already included under the tributaries categories. Is this one of those "basketball player" exceptions?
+Annotation from annotator: 11
+
+Example 18:
+Text: Still, I cannot understand why virtually all boxes related to the EU were removed. What makes this issue more divisive than for example the re-unification of Yugoslavia?
+Annotation from annotator: 10
+
+Example 19:
+Text: Also, how does that vandalism thing on your page work? Do you have to change the count manually, or does it detect vandalism itself?
+Annotation from annotator: 13
+
+Example 20:
+Text: I'm not seeing it. Has it been fixed?
+Annotation from annotator: 10
+
+Example 21:
+Text: On second thought, the mix of pseudo-politeness, vulgarity and threats is...really creepy. Could ya...stop?
+Annotation from annotator: 6
+
+Example 22:
+Text: All right, I'll bite. Is honorary membership in the Justice League not criteria enough for being listed in that category?
+Annotation from annotator: 10
+
+Example 23:
+Text: Thank you for correcting the error on my user page. I have a question how does one go about archiving his talk history?
+Annotation from annotator: 17
+
+Example 24:
+Text: Hi, sorry I think I'm missing something here. Why are you adding a red link to the vandalism page?
+Annotation from annotator: 13
+
+Example 25:
+Text: Fair enough, thanks for assuming good faith, I was merely making the page consistant with the past 2 champions league season articles (<url>, <url>) which use path and non-champions instead of route and league. Should they be changed too or was that what they used to be called?
+Annotation from annotator: 15
+
+Example 26:
+Text: Yes I can. Is it an alternate account?
+Annotation from annotator: 16
+
+Example 27:
+Text: Why are capital letters used in the article title ''<url>''? Is this a proper name of a particular proprietary software package?
+Annotation from annotator: 13
+
+Example 28:
+Text: Incidentally, your username seems familiar. Do you contribute to SPGB-related forums by any chance?
+Annotation from annotator: 13
+
+Example 29:
+Text: I was aware of that part of <url>, but I don't see its relevance here. Do you say that considering the audience is an arbitrary standard?
+Annotation from annotator: 12
+
+Example 30:
+Text: oh, my, how did I get this here twice; trying to do too much at once (what else is new).  Can you copy instead a different color?
+Annotation from annotator: 12
+
+Target Example:
+Text: Greetings, I ran across your 2008 article <url>, and the footnotes are done manually vice the usual Wiki way.  Any chance you can go back and fix the footnotes?
+Annotation from annotator:

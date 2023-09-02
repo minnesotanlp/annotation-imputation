@@ -1,0 +1,7 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Predict the integer label of the following example:
+Target Example:
+Text: I agreed from my very first post on the first subject that it shouldn't be included yet you and the other user continued to misrepresent my position. Would you disagree with that?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

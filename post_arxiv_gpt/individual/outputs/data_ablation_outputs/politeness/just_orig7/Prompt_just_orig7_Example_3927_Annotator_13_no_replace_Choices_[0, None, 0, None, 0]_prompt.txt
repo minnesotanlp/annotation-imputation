@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Correct Examples:
+Example 1:
+Text: Hey, long time no seeing! How's stuff?
+Annotation from annotator: 14
+
+Example 2:
+Text: A quick question: I've noticed that people (including yourself) have been moving links to other wikis from the top of the article to the bottom. If this a good thing to do, then I can do likewise, but I wondered if there was a rationale / convention here?
+Annotation from annotator: 19
+
+Example 3:
+Text: That's a good idea. What about army and corps HQs though?
+Annotation from annotator: 16
+
+Example 4:
+Text: Thanks for your reply. I've tried to incorporate the references into the article; how is it now?
+Annotation from annotator: 16
+
+Example 5:
+Text: Tell me, after your uni starts again, will you not be as present again? And when does it get over?
+Annotation from annotator: 8
+
+Example 6:
+Text: Hullo. How goes it?
+Annotation from annotator: 16
+
+Example 7:
+Text: no, not funny, unless you are a mentally challenged person. Why don't you find a better hobby where you don't post lies and offend the people of Tibet?
+Annotation from annotator: 1
+
+Example 8:
+Text: The standard would be <person> (as we discussed at some length at the proposals page), to avoid the clumsy double plural.  Any objection if I change it back?
+Annotation from annotator: 20
+
+Example 9:
+Text: Huh? Is that a web address or a wikilink?
+Annotation from annotator: 8
+
+Example 10:
+Text: Yes, I'd seen your note, but it looks as though all five of those edits were made by users other than Terra. Do you have any reason to suspect they are his sockpuppets?
+Annotation from annotator: 15
+
+Example 11:
+Text: I am very confused right now. Please make it clearer to me how I vandalized?
+Annotation from annotator: 14
+
+Example 12:
+Text: Well, look again! Does ''<url>'' look like a dictionary-definition page to you?
+Annotation from annotator: 2
+
+Example 13:
+Text: Hi, I meant to do this a long time ago, but I guess I forgot.  You are the "Sandpiper" on the HP wiki right?
+Annotation from annotator: 16
+
+Example 14:
+Text: Mind <url>. Since when one edit after protection expiry is disruptive editing or editwarring?
+Annotation from annotator: 8
+
+Example 15:
+Text: Sure thing. Did you see my note higher up on the page?
+Annotation from annotator: 12
+
+Example 16:
+Text: By the way. Can you edit your own talk page when it is protected?
+Annotation from annotator: 13
+
+Example 17:
+Text: lol thanks. so, australia, huh?
+Annotation from annotator: 16
+
+Example 18:
+Text: ???You wat?
+Annotation from annotator: 2
+
+Example 19:
+Text: You recently attached a <nowiki><person></nowiki> tag to an article about an Azeri poet. May I ask why?
+Annotation from annotator: 20
+
+Example 20:
+Text: That's really nice! Did you decide against seeing vervandelt as dependent on "sich"?
+Annotation from annotator: 9
+
+Example 21:
+Text: Moonriddengirl, is there a specific reason to why they want to use the crop? Is it because there's attribution on it?
+Annotation from annotator: 15
+
+Example 22:
+Text: I'd be more than happy to :) It may take a while as I've got other stuff on, but as long as you're in no immediate hurry all should be well. Do you have any preferences/requirements for the end result?
+Annotation from annotator: 20
+
+Example 23:
+Text: Do you think we're good to go with the proposal, maybe later tonight, or tomorrow? Any other problems with the proposal as it stands?
+Annotation from annotator: 19
+
+Example 24:
+Text: What are your intentions after two months?  Will you continue your previous deletions?
+Annotation from annotator: 16
+
+Example 25:
+Text: Strikehold previously did a <url>.  What do you think about adding it to the template?
+Annotation from annotator: 20
+
+Example 26:
+Text: So, I'm a "deletion fanatic"? Why don't you refrain from uncivil remarks and focus on adding sources to your unsourced stubs - help the encyclopedia rather than pissing off people?
+Annotation from annotator: 4
+
+Example 27:
+Text: And wasting our time as well. I can only repeat: why don't you do constructive work by adding contents about your beloved Makedonia?
+Annotation from annotator: 8
+
+Example 28:
+Text: '''Wiki-star''': Hm? Is there a reason for your sorrow my good man?
+Annotation from annotator: 16
+
+Example 29:
+Text: Why did you "nowiki" the unblock template?  Is it just here for show, or do you want it to be considered?
+Annotation from annotator: 16
+
+Example 30:
+Text: What are your views on <url>? And how can you provide a source for a signature?
+Annotation from annotator: 17
+
+Target Example:
+Text: Interesting.  Would you mind asking at which Sae Gae seminar on what date it was taken?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

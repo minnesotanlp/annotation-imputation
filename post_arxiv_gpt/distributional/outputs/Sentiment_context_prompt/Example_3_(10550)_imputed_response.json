@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PY1sxlAAg7iQ8pwRi2CuB2t9l843",
+    "object": "chat.completion",
+    "created": 1686323364,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 621,
+        "completion_tokens": 128,
+        "total_tokens": 749
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.05% of responsive annotators labeled the text with 0\n23.42% of responsive annotators labeled the text with 1\n75.53% of responsive annotators labeled the text with 2\n0.00% of responsive annotators labeled the text with 3\n0.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels of the given examples, it seems that the majority of the raters tend to rate texts as somewhat positive or very positive. Therefore, I would predict that the soft label for the target text would also be positive, possibly a 2."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

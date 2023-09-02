@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Drank too much wine with dinner.    Feels good man.
+Annotation from annotator: 0
+
+Example 2:
+Text: Anyone Who Isn't Islamic Is Racist? | Religion Of Intolerance. 
+Annotation from annotator: 0
+
+Example 3:
+Text: iTS ok to make money off digital currency in the interim but im telling you the day we go off paper to depend on digital currency for our daily lives is the day we have lost our greatest freedom..  don't fall for it.
+Annotation from annotator: 0
+
+Example 4:
+Text: That's why I love Voat's version of The Red Pill- it's all about self improvement and they don't purity spiral. https://voat.co/v/TheRedPill
+Annotation from annotator: 0
+
+Example 5:
+Text: the privileged one, born rich.  catered to illegal aliens for votes, be damned americans 
+Annotation from annotator: 0
+
+Example 6:
+Text: I'm on an episode of Science Friction (YouTube Ver.)  https://youtu.be/C0RLbd-9mm0
+Annotation from annotator: 0
+
+Example 7:
+Text: Bailey doge 😊 🐕  Beautiful girl! #shotoniPhone
+Annotation from annotator: 0
+
+Example 8:
+Text: What are we drinking this fine evening?
+Annotation from annotator: 0
+
+Example 9:
+Text: Thank you Darling ... I try to be a Southern Gentleman... But mostly a military asshole !  LMAO !!  I love all kinds of music . I don't care for Rap or the overly non understandable words of some Heavy Metal songs. 
+Annotation from annotator: 0
+
+Example 10:
+Text: '“We have to let people come in. They’re going to be guest workers, they’re going to come in, they’re going to work on your farms, we’re going to have the H-2Bs come in, we’re going to have a lot of things happening,” Trump said. 
+Annotation from annotator: 0
+
+Example 11:
+Text: Yeah, this one confused the f*ck out of me.  Been refreshing CDAN all day and have kept up, but this one I can't quite wrap my head around. 
+Annotation from annotator: 0
+
+Example 12:
+Text: Imagine the American economy with no illegal alien labor and only 5-10% of the number of H1-B visas?The IT profession in America has been ruined by H1-B visas.If you are 50+, unless you have a completely unique/hard to find skillset, they will fire you, hire an H1-B to do the job in a crappy and impossible to maintain manner-but, hey, it's cheap+DIVERSITY!
+Annotation from annotator: 0
+
+Example 13:
+Text: Google and Facebook should each be fined $10 million per day until they fix their bias issues. Collectible at the end of every week. And if they don't pay, the executives should immediately be jailed and charged with sedition.
+Annotation from annotator: 0
+
+Example 14:
+Text: Food, music, some exercise and lovely women and video games and solving problems when they arise or come my way.Some people don't know what my secret of my high or my low. Hint it isn't drugs or alcohol or sex.It's mainly food, naps, mental gymnastics and extreme heart pounding adrenaline inducing exercises until I see the color blue and purple in my vision.
+Annotation from annotator: 0
+
+Example 15:
+Text: he has a good point: https://maleenhancementbynuvirile.com/?wpam_id=5
+Annotation from annotator: 0
+
+Example 16:
+Text: SB2: 'Q's first days were not easy. At all.' #MAGA #DJT #CBTS #QANON https://xjaymanx.imgur.com/ | https://d.tube/#!/c/xjaymanx | https://www.reddit.com/r/greatawakening/comments/8...
+Annotation from annotator: 0
+
+Example 17:
+Text: Now smoking an old @HoyoCigars Excalibur Maduro No.1 from 1997.
+Annotation from annotator: 0
+
+Example 18:
+Text: JUST FOUND OUT BLACKS CONTROL THE GOVERNMENT, MEDIA, AND FINANCE THIS IS GREAT NEWS, EXTREMELY PROUD OF HOW FAR THEY'VE COME AFTER YEARS OF OPPRESSION
+Annotation from annotator: 0
+
+Example 19:
+Text: I wonder what background the auth-
+Annotation from annotator: 0
+
+Example 20:
+Text: the dimms have given this whore more air time than the Las Vegas shooting
+Annotation from annotator: 0
+
+Example 21:
+Text: few can wrap their mind around this and its hard to explain to autists without looking like a zionism apologist 
+Annotation from annotator: 0
+
+Example 22:
+Text: Watch "Why Big Oil Conquered The World" on YouTube https://youtu.be/0wlNey9t7hQ 
+Annotation from annotator: 0
+
+Example 23:
+Text: I love Gabs new font. Much easier to read, especially on mobile.
+Annotation from annotator: 0
+
+Example 24:
+Text: President Donald Trump's medical exam 'went exceptionally well,' doctor says   https://www.cnbc.com/2018/01/12/president-donald-t...
+Annotation from annotator: 0
+
+Example 25:
+Text: Steve Bannon Speaks After White House Departure: ‘I’m Going to War for Trump’  http://www.breitbart.com/big-government/2017/08/18...
+Annotation from annotator: 0
+
+Example 26:
+Text: I'll never get tired of seeing pictures from Trump rallies. Never gets old.
+Annotation from annotator: 0
+
+Example 27:
+Text: what if i told you it's possible for the laws of the universe to slowly change throughout the infinite stream that is time?
+Annotation from annotator: 0
+
+Example 28:
+Text: Have you considered your rifle or pistol, your shotgun is first thing your property before it is anything? An investment, representing your wealth you created through your labor? 
+Annotation from annotator: 0
+
+Example 29:
+Text: #shenmue
+Annotation from annotator: 0
+
+Example 30:
+Text: Digisexual relationships will result in men and women bonding with their sex robots. 
+Annotation from annotator: 0
+
+Human-rated Examples:
+Example 1:
+Text: http://www.breitbart.com/tech/2017/11/20/stonecold... Bunty King, Sam Hyde, Stone Cold Truth
+Annotation from annotator: 0
+
+Example 2:
+Text: Memorial Day http://www.kimdutoit.com/2018/05/28/memorial-day-2...
+Annotation from annotator: 0
+
+Example 3:
+Text: our government should be hanging this bitch
+Annotation from annotator: 0
+
+Example 4:
+Text: @Paraliegance I'm for keeping things at four it's fast enough
+Annotation from annotator: 0
+
+Example 5:
+Text: I was put on notice for posting an ugly slur in a private Facebook group... Well 'private'
+Annotation from annotator: 0
+
+Example 6:
+Text: My avatar is Max Eastman, a fascinating and pivotal figure in both the early 20th century American left, and then in conservative circles from the '40s into the '60s. https://infogalactic.com/info/Max_Eastman
+Annotation from annotator: 0
+
+Example 7:
+Text: So let me see if I got this straight, a bomb goes off at a kids concert and kills a bunch of kids and they respond by singing Oasis songs, but a double agent spy gets killed and suddenly the gloves come flying off, and everybody's favourite boogieman is the culprit... they think we're gullible Af
+Annotation from annotator: 0
+
+Example 8:
+Text: I once was sensitive but not psychologically troubled I miss these days every day Brielle or all that?
+Annotation from annotator: 0
+
+Example 9:
+Text: Live scanner feed of YouTube shooting  37 reported so far for triage  http://www.bbscanner.com/listen.php?id=152
+Annotation from annotator: 0
+
+Example 10:
+Text: I'm not afraid
+Annotation from annotator: 0
+
+Example 11:
+Text: I'm not the one in legal jeopardy who needs to call the police - that'd be you
+Annotation from annotator: 0
+
+Example 12:
+Text: A roth is a roth is a roth  https://www.dailydot.com/layer8/qanon-the-storm/
+Annotation from annotator: 0
+
+Example 13:
+Text: ‪Listening to #Wagman on @KJAZZ881 | @iHeartRadio ‬‪#NothinButTheBlues‬ ‪If you’ve got the blues, #Wagman has the cure‬
+Annotation from annotator: 0
+
+Example 14:
+Text: American lives will be saved when you dis-own Monsanto and Bayer.  Europe doesn't want you. Pollute yourselves with your crap food and shit pesticides. Yours sincerely. LOL Brexit
+Annotation from annotator: 1
+
+Example 15:
+Text: Don't be Surprised...#TheCabal #FollowTheWhiteRabbit #SecretSociety #Pizzagate #HisNameWasSethRich #RIPJusticeScalia #FollowTheWhiteRabbit #ReleaseTheMemo #ObamaGate #WorseThanWatergate #Wikileaks #PodestaEmails #AlabamaSpecialElection #GreatAwakening #GLORIOUS2018 #QAnon #TheStorm #THEFLOOD
+Annotation from annotator: 0
+
+Example 16:
+Text: FBI behaved like common street thugs with access to the world’s most powerful intel collection apparatus.
+Annotation from annotator: 0
+
+Example 17:
+Text: Trump and Shizo   Make the world SAVAGE
+Annotation from annotator: 0
+
+Example 18:
+Text: The discovery was made in 1947 by a deep sea oil drilling company based out of Boston Mass. Name was never mentioned.. They drilled a 1 mile 5x5 hole..took 30 days. they were paid 250K at that time.
+Annotation from annotator: 0
+
+Example 19:
+Text: So, #GabFam, in case you didn't hear, #Facebook tried to censor my new book: https://pjmedia.com/trending/facebook-bans-bestsel... #BigTechCensorship cc: @a
+Annotation from annotator: 0
+
+Example 20:
+Text: We're being invaded by South American walruses! https://youtu.be/5Ido2B4HqFM
+Annotation from annotator: 1
+
+Example 21:
+Text: High points: 1. Jews have extremely high outbreeding rates, on the order of 50%, which makes the idea that they are evolving separately from their host populations hard to support
+Annotation from annotator: 0
+
+Example 22:
+Text: @NeonRevolt 2#2pm Pacific Daylight Time (California) 😩
+Annotation from annotator: 0
+
+Example 23:
+Text: True, since I sent Hogg my copy of Seej
+Annotation from annotator: 0
+
+Example 24:
+Text: QAnon Exposes The Clinton Lynch Tarmac Meeting https://youtu.be/304RvtYWukM via @YouTube
+Annotation from annotator: 0
+
+Example 25:
+Text: Story Ideas litter all our minds. We reject most of them. But maybe someone's trash is someone else's treasure. Feel free to use any of these: https://pcbushi.wordpress.com/2018/04/17/science-f...
+Annotation from annotator: 0
+
+Example 26:
+Text: @realDonaldTrump Sir, why you worry about Harley Davidson?? Those are shito bikes and always break down. Let them go and keep the Vulcan Bikes around. Same sound and hardly ever break down. Real true Bikers know a good bike when they see one. VULCAN BIKES ARE BEST & CHEAPER TOO
+Annotation from annotator: 0
+
+Example 27:
+Text: Hey guys, is it true Soros supposedly had a heart attack??
+Annotation from annotator: 0
+
+Example 28:
+Text: My husky and Gsd (when she was a puppy 🐶) ❤️
+Annotation from annotator: 0
+
+Example 29:
+Text: Hey girl, I'm up in this armored Chevy gettin' googly eyes. It's okay you going to Wal-Mart on Valentine's Day to stock up on cat food.
+Annotation from annotator: 0
+
+Example 30:
+Text: THE FEMINIST LIBERAL SHEEPLE, will finally get it one day very soon ?
+Annotation from annotator: 0
+
+Target Example:
+Text: GOOD MORNING USA CONCENTRATION CAMPERS unelected CFR NSA/CIA members can spy on, target & kill u-RU OK with that? http://www.zerohedge.com/news/2016-04-20/saudi-arabia-admitted-john-kerry-it-created-isis-there-twist
+Annotation from annotator:

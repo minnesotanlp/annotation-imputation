@@ -1,0 +1,37 @@
+Example 2162
+Text: @T_Laine ah - acne.  i'm too old for it! a friend gave me some differin, but i haven't seen results over the course of a month, so....
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+58.00% of responsive annotators labeled the text with 1
+41.39% of responsive annotators labeled the text with 2
+0.61% of responsive annotators labeled the text with 3
+0.00% of responsive annotators labeled the text with 4
+
+Example 9373
+Text: Not normally into the blond hair/blue eyes, but old regular Elizabeth is back & looks amazing as ever. Alas, she's going back on tour.
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+0.07% of responsive annotators labeled the text with 1
+6.08% of responsive annotators labeled the text with 2
+92.51% of responsive annotators labeled the text with 3
+1.35% of responsive annotators labeled the text with 4
+
+Example 4374
+Text: @mileycyrus TCA won't let me vote  and i'm 15 years old.. Gawddd
+Soft labels:
+0.00% of responsive annotators labeled the text with 0
+11.28% of responsive annotators labeled the text with 1
+87.64% of responsive annotators labeled the text with 2
+1.08% of responsive annotators labeled the text with 3
+0.00% of responsive annotators labeled the text with 4
+
+Example 8876
+Text: Man it's a weather advisory day. Elderly and young child stay inside today.. Under a fan or AC, my lungs r killing me.  I hate asthma!
+Soft labels:
+0.07% of responsive annotators labeled the text with 0
+34.71% of responsive annotators labeled the text with 1
+63.94% of responsive annotators labeled the text with 2
+1.28% of responsive annotators labeled the text with 3
+0.00% of responsive annotators labeled the text with 4
+Target Text: showed up in montague just as stuff was ending  But enjoyed running around, eating food, and exploring old buildings in the deserted town.
+Soft labels:

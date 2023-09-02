@@ -1,0 +1,82 @@
+Human-Labeled Majority-voted Examples:
+Example 1:
+Text: I haven't uploaded any more to Wiki because they tend to be more detailed and rather more abstruse. Have you had a look at Barry Burnham's book from Oxbow of 2004?
+Annotation: 12
+
+Example 2:
+Text: Yes, that's fine, especially with the smaller sections. Where will they be posting their topic ideas?
+Annotation: 12
+
+Example 3:
+Text: Need help with EF 175 via email. Mind <url> so we can discuss?
+Annotation: 12
+
+Example 4:
+Text: Is there really any serious debate that Mobile IE is remotely comparable to Safari mobile? What source would be acceptable to show this?
+Annotation: 12
+
+Example 5:
+Text: I'm pretty sure there already is a filter (possibly more than one) for this. What page got moved?
+Annotation: 12
+
+Example 6:
+Text: As another aside, they are mostly Germans.  What's up with that?
+Annotation: 3
+
+Example 7:
+Text: i took the photo, and if the kludgy licensing template would allow me to license i would. do you actually fix things or tag spam?
+Annotation: 12
+
+Example 8:
+Text: I reverted <url> as it complicated my normal routine archiving of all the discussions on my talk page.  Could you please refrain from this kind of edit in future?
+Annotation: 16
+
+Example 9:
+Text: Are the remaining IPs on <url> still a problem? If so is Tom dealing with it?
+Annotation: 12
+
+Example 10:
+Text: Okay. Meanwhile, can you think of a good line for a <url> submission?
+Annotation: 16
+Example 1:
+Text: It would be better to have this discussion on the TKD talk page. Why don't you re-post it there?
+Annotation: 14
+
+Example 2:
+Text: No, I didn't know that. Where does this "rule" come from?
+Annotation: 9
+
+Example 3:
+Text: Indef-blocked. Any idea whose sock this is?
+Annotation: 14
+
+Example 4:
+Text: I have reverted your relocation of the images of this fragment - as I think it better if the images and transcripts can be seen side-by-side.  Do you agree?
+Annotation: 17
+
+Example 5:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation: 7
+
+Example 6:
+Text: I just reverted your addition of a fossil range template to <url>, because with only an arrow at the very right it didn't seem to add much useful information. Perhaps we could make a separate template to show only the Cenozoic or so, which would allow us to show more detail in these fossil ranges?
+Annotation: 13
+
+Example 7:
+Text: Done. Comments?
+Annotation: 12
+
+Example 8:
+Text: I'm sorry, but I'm unlikely to have time to help. Maybe try <url>?
+Annotation: 15
+
+Example 9:
+Text: Hello, sorry I probably should have asked first, but I thought it might be a good idea to nominate one of the images you uploaded, <url>, for featured picture. I hope you don't mind me taking the liberty, as it were?
+Annotation: 16
+
+Example 10:
+Text: I deleted the redirects <url> and <url> that were a result of the page moves.  Is that all you needed?
+Annotation: 10
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Text: I see you deleted this page a while back as an attack page.  Any chance that the information originally had anything to do with the John Lamb mentioned in <url>?
+Annotation:

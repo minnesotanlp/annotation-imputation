@@ -1,0 +1,173 @@
+Human-Rated Examples:
+Example 1:
+Text: Grappler-I'm not sure if this article is OK now or not. What do you think?
+Annotation from annotator: 16
+
+Example 2:
+Text: Hello-I think you know more about <url> than I do. Want to check it?
+Annotation from annotator: 14
+
+Example 3:
+Text: Hey Dan, I see you around but we haven't talked in a bit. What are you up to these days?
+Annotation from annotator: 18
+
+Example 4:
+Text: Hi, I've reverted the edits you made to <url> as the flags by the clubs put's the box totally out of sync (on explorer anyway). Can I suggest that you don't add these flags?
+Annotation from annotator: 13
+
+Example 5:
+Text: Hi, although I agree with you, please check the following <url> in process. Why can't the darn thing work, in the first place?
+Annotation from annotator: 9
+
+Example 6:
+Text: I was wondering where you got your information for the dice statistics you recently added/changed in <url>.  Can you add a source to those tables?
+Annotation from annotator: 18
+
+Example 7:
+Text: Heh, thanks. Do you know of any scripts that might come in handy?
+Annotation from annotator: 19
+
+Example 8:
+Text: Your <url> is a brilliant idea! Would you mind if I linked to it from my collection of "Useful things" on my user page?
+Annotation from annotator: 22
+
+Example 9:
+Text: Still wondering and hoping. Rather not?
+Annotation from annotator: 13
+
+Example 10:
+Text: Sorry, I dont quite remember what we were talking about.  Can you tell me what you were/are confused about?
+Annotation from annotator: 19
+
+Example 11:
+Text: He keeps coming back, and keeps getting blocked again.... When will they learn?
+Annotation from annotator: 9
+
+Example 12:
+Text: I see you created a nonsense article yesterday because you were bored. If I unblock you will you disrupt more?
+Annotation from annotator: 8
+
+Example 13:
+Text: Hi Ive been trying to clean the English version of this and the abandoned village to see if they can be on "did you know". Could you check the pages and get back to me?
+Annotation from annotator: 14
+
+Example 14:
+Text: Is 10 months sufficient time to relist a AFD?  Not too soon, correct?
+Annotation from annotator: 16
+
+Example 15:
+Text: Thanks, firstly, for the affirmation and work on <url>; it was yesterday's featured article! As a related article, I've been working on <url> - what do you think would be necessary to get it to FA?
+Annotation from annotator: 20
+
+Example 16:
+Text: Thanks for the response.  May I ask, are you a video gamer?
+Annotation from annotator: 20
+
+Example 17:
+Text: Since the "discussion" was not advertised at the affected pages, it did not involve the "community". Do you not see that?
+Annotation from annotator: 6
+
+Example 18:
+Text: True, tho in reality I should have just blocked the sock tpar from the beginning.  Don't we usually do that to force them to request unblocking on the main account?
+Annotation from annotator: 12
+
+Example 19:
+Text: Excuse me? What are you accusing me of doing?
+Annotation from annotator: 7
+
+Example 20:
+Text: Can you help patroling <url> page???
+Annotation from annotator: 16
+
+Example 21:
+Text: Where did you get the tracklist for the album? Can you please drop me a messafe with the link?
+Annotation from annotator: 19
+
+Example 22:
+Text: <url> needs urdu script for the name of the subject (Bangla script has already been added). Can you help?
+Annotation from annotator: 13
+
+Example 23:
+Text: News coverage would be spotty at best... you would have to go through the stats pages and do it by hand pretty much, so any of the Calgary/Edmonton Sun, Herald or Journal would suffice.  Maybe just send the AJHL an email and ask them?
+Annotation from annotator: 16
+
+Example 24:
+Text: I understand ''your'' position, however I disagree with it, even regarding the spirit. <ins>Mostly because I don't see linking something as modification of the quote, therefore it's a moot point, even when coupled with bracketed additions.</ins> Perhaps we should see<ins>k</ins> comments from additional editors?
+Annotation from annotator: 6
+
+Example 25:
+Text: Sure, but what's the deal with fair use and cropping?  I thought the Zatanna one got removed?
+Annotation from annotator: 12
+
+Example 26:
+Text: Thanks for your reply. I've tried to incorporate the references into the article; how is it now?
+Annotation from annotator: 19
+
+Example 27:
+Text: Why delete the page <url> with no explanation, as an act of deliberate vandalism?  Why did you do it?
+Annotation from annotator: 4
+
+Example 28:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 16
+
+Example 29:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 11
+
+Example 30:
+Text: What is your take on <url>?  And is there a guideline or policy stated somewhere that covers this?
+Annotation from annotator: 15
+
+Estimated Examples:
+Example 1:
+Text: If you keep your eyes focused on the moving toe you can usually catch each instance when you change the rotation direction, I think? Does that tell you anything?
+Annotation from annotator: 16
+
+Example 2:
+Text: ... but when you do things like <url>, I start distancing myself. What made you come to that decision if you did differently on the <url> and <url>?
+Annotation from annotator: 8
+
+Example 3:
+Text: Why the removal of the citation dealing with coriolis?  Was the proof not within the citation, or was the citation not considered primary?
+Annotation from annotator: 16
+
+Example 4:
+Text: Noetica: help! Can you give an opinion <url>?
+Annotation from annotator: 8
+
+Example 5:
+Text: <person> is apparently caught up in that rangeblock. Can you help him out?
+Annotation from annotator: 20
+
+Example 6:
+Text: Why did you just do that? I am being serious - what business was it of yours exactly?
+Annotation from annotator: 4
+
+Example 7:
+Text: right but in this case, the certain artist goes by a different name now, so people would most likely type in ''"diddy"'' instead of the other old one. like if somebody changes their name or alias, and people wont know where theyre listed in?
+Annotation from annotator: 12
+
+Example 8:
+Text: The <url> states that ''Endymion'' was an <person>, and the only one of five actually built. Does Conway mention this?
+Annotation from annotator: 24
+
+Example 9:
+Text: Later the same can be done for the other sports. What do you say?
+Annotation from annotator: 20
+
+Example 10:
+Text: I don't understand how you find it appropriate to talk about your illegal drug use on your user page.  Also, how do you have the right to ban other people's usernames with a name like "'''BONG'''warrior"?
+Annotation from annotator: 4
+
+Example 11:
+Text: Thanks for change to Hugh de Grandmesnil - I am (It is) very short of refs for that article. Could you suggest one for your addition?
+Annotation from annotator: 16
+
+Example 12:
+Text: What is the context that you think is lacking? any suggestions  on what to add?
+Annotation from annotator: 24
+
+Target Example:
+Text: At <url>, your 'outside comment' contains the statement "You don't go deleting things with a consensus, and then blast those who have the nerve to reprimand you. "  This seems self-contradictory: did you mean to type 'without'?
+Annotation from annotator:

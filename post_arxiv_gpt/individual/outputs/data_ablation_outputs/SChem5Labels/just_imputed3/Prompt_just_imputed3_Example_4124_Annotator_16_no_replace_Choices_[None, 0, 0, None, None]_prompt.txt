@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: You should get out of the house.
+Annotation from annotator: 2
+
+Example 2:
+Text: Ignoring someone who has been hurt is selfish.
+Annotation from annotator: 3
+
+Example 3:
+Text: It is wrong to want to be humiliated.
+Annotation from annotator: 3
+
+Example 4:
+Text: You should always make sure you have enough gas before you go somewhere.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's depraved to be a loose woman who'll drop her panties for any old drunk she can find.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's understandable to find a new career challenging.
+Annotation from annotator: 3
+
+Example 7:
+Text: If someone invites you somewhere, you should go with them.
+Annotation from annotator: 2
+
+Example 8:
+Text: It is normal to address your parents as mom and dad.
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't have sex with someone while drunk.
+Annotation from annotator: 2
+
+Example 10:
+Text: It is reasonable to give people space after a parent dies.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's expected that you'll try to find a lost cat's owner.
+Annotation from annotator: 3
+
+Example 12:
+Text: It will hurt your roommates feelings if you kick them out.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's fun to take people out places.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's rude for a landlord to drop by unannounced.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to do what's best for your kids and not expose them to new partners often
+Annotation from annotator: 3
+
+Example 16:
+Text: It is wrong to be stuck on yourself.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's not okay to not deal with your problems with others.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's nice to have friends.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's acceptable to think outside the box when fishing.
+Annotation from annotator: 3
+
+Example 20:
+Text: You should not judge others for their lack of knowledge.
+Annotation from annotator: 3
+
+Example 21:
+Text: It’s good to be in love.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is good to show people that you have matured from the person you used to be.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good to be prepared
+Annotation from annotator: 3
+
+Example 24:
+Text: It's normal to run if you are late for a plane flight.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to apply yourself to your academic work in school.
+Annotation from annotator: 3
+
+Example 26:
+Text: If someone is lonely, you should comfort them.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to go to social events with others
+Annotation from annotator: 3
+
+Example 28:
+Text: It's normal to be envious of other's accomplishments.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's okay to put your education before your family at times
+Annotation from annotator: 2
+
+Example 30:
+Text: You should expect to be arrested for assaulting someone.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's understandable to feel annoyed when someone wants attention.
+Annotation from annotator:

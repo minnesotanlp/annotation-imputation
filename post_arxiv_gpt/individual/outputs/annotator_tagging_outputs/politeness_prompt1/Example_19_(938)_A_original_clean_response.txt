@@ -1,0 +1,1 @@
+It is likely that annotator A would label this example as 16.0.

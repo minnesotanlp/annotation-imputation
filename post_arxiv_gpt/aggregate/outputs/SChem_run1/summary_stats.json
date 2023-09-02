@@ -1,0 +1,50 @@
+{
+    "no_headers_swap_data_swap_no_replace_none_replaced": {
+        "best accuracy": {
+            "value": 1.0,
+            "version": "[1, 0, None, 0, 0]"
+        },
+        "best weighted avg f1-score": {
+            "value": 1.0,
+            "version": "[1, 0, None, 0, 0]"
+        },
+        "best valid answer rate": {
+            "value": 1.0,
+            "version": "[0, 0, None, 0, 0]",
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0
+        }
+    },
+    "no_headers_swap_no_data_swap_replaced_2nd_replaced": {
+        "best accuracy": {
+            "value": 1.0,
+            "version": "[0, 1, None, 1, 0]"
+        },
+        "best weighted avg f1-score": {
+            "value": 1.0,
+            "version": "[0, 1, None, 1, 0]"
+        },
+        "best valid answer rate": {
+            "value": 1.0,
+            "version": "[0, 0, None, 0, 0]",
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0
+        }
+    },
+    "no_headers_swap_no_data_swap_no_replace_none_replaced": {
+        "best accuracy": {
+            "value": 1.0,
+            "version": "[0, 1, None, 1, 1]"
+        },
+        "best weighted avg f1-score": {
+            "value": 1.0,
+            "version": "[0, 1, None, 1, 1]"
+        },
+        "best valid answer rate": {
+            "value": 1.0,
+            "version": "[0, 0, None, 0, 0]",
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0
+        }
+    }
+}

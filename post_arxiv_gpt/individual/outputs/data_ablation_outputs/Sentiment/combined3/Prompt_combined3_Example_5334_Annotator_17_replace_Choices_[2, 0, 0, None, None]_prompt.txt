@@ -1,0 +1,161 @@
+Estimated Examples:
+Example 1:
+Text: @popyXluvsXmcfly Thanx me too but he's really old and the people who found him took him to the rspca cuz he wasn't well  x
+Annotation from annotator: 3
+
+Example 2:
+Text: @stephanie04 lol! I really left! But not from a lack of @RyanStar ;-) Im a mom foremost, and a 5 yr old can only take so much  Oh wel ...
+Annotation from annotator: 2
+
+Example 3:
+Text: @waynooooo I always hope they will die out but then i see the the old ones and it makes me sad
+Annotation from annotator: 2
+
+Example 4:
+Text: At the Wynn pool with Stephanie.  old friends FTW.
+Annotation from annotator: 3
+
+Example 5:
+Text: Awesome awesome time at my elementary school reunion! Good to see old faces
+Annotation from annotator: 4
+
+Example 6:
+Text: Enjoying some old music  my favorite!
+Annotation from annotator: 3
+
+Example 7:
+Text: I need a bathingsuit! @jessicashops do you have any suggestions? No good ones at target or old navy
+Annotation from annotator: 1
+
+Example 8:
+Text: Kinda need a new laptop. Birthday's coming up so am praying that someone has an old/spare one or a lot of money
+Annotation from annotator: 2
+
+Example 9:
+Text: Oh, I feel soooo old!  my daugther graduated from 10. grade today..
+Annotation from annotator: 3
+
+Example 10:
+Text: Our dog in capiz died. He was 14 years old.
+Annotation from annotator: 0
+
+Example 11:
+Text: Project of the weekend: Scanning all my old photos and finally getting rid of these boxes sitting around. Been putting it off for years.
+Annotation from annotator: 3
+
+Example 12:
+Text: Spending some time w my great granny. Things old ppl appreciate: new pill boxes. I got her a few and she's thrilled
+Annotation from annotator: 3
+
+Example 13:
+Text: Took my daughter to the ER today she might have a torn ligament  4 years old my poor baby girl!!
+Annotation from annotator: 1
+
+Example 14:
+Text: Wolfed down a burger with loads of sauteed onions for dinner. Am now very sleepy, and wanting to go to bed like an old person, but can't.
+Annotation from annotator: 1
+
+Example 15:
+Text: had fun with the family...especially wrestling in matalan with my younger brothers...wasnt pretty
+Annotation from annotator: 3
+
+Example 16:
+Text: i won a keytar on ebay  its a Yamaha SHS-10s and its really old and ugly but at least i can learn it now. wanna go pro!
+Annotation from annotator: 3
+
+Example 17:
+Text: playing old cdrom games that i played when i was little. having so much fun aha. i miss bein little
+Annotation from annotator: 3
+
+Example 18:
+Text: restored my old ipod! yay
+Annotation from annotator: 3
+
+Example 19:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 20:
+Text: wants a new face, because the old one will soon fall off. thanks
+Annotation from annotator: 1
+
+Human-Rated Examples:
+Example 1:
+Text: @ASHATL Actually I probably won't make it tonight either  An old friend is in town so... Monday! #lost #wftb
+Annotation from annotator: 2
+
+Example 2:
+Text: @BinkleyOnStyle 55+ - No Problem! My battle axe is a boomer older than my mom! Hey, I love 'em aged like a French cheese or fine wine
+Annotation from annotator: 1
+
+Example 3:
+Text: @BoffleSpoffle Maybe that will be my birthday present to myself. Obviously I'm getting old if I'm giving myself kitchen appliances!
+Annotation from annotator: 3
+
+Example 4:
+Text: @Jonasbrothers i bet all those old people are going to tell their kids about being on a plane with you  <3 see youuu sooooon!
+Annotation from annotator: 3
+
+Example 5:
+Text: @Kimli bleach if white, lots of hot hot water if not. If stain is old get oxyclean. I work in a bakery I know
+Annotation from annotator: 2
+
+Example 6:
+Text: @LOVEandPEACE001 I love it too, but only the old episodes!
+Annotation from annotator: 3
+
+Example 7:
+Text: @MervLukeba I actually just turned 20 last night  I'm so old i'm like halfway dead. haha
+Annotation from annotator: 2
+
+Example 8:
+Text: @Momto3blessings ohhhh .. the night is still young .. you def need some company
+Annotation from annotator: 2
+
+Example 9:
+Text: @YoshimiKiosha thats exactly the point! we were talking bout this bein oldskool and wefigures the younger gen wouldnt be hip to it.
+Annotation from annotator: 1
+
+Example 10:
+Text: @bradhfh heeeey, that's not nice. i still have some of your old stuff on my ipod! haha. still haven't visited me in perth bradley
+Annotation from annotator: 1
+
+Example 11:
+Text: @busch18baby Awww Im sorry..   it will get better, I SWEAR..  not til you get older, but it will get better.. MWAH!!
+Annotation from annotator: 3
+
+Example 12:
+Text: @crystoth Was watching my old videos. Became nostalgic, sad, lost   Drinks didnt help. I'm getting lost in past now-a-days.
+Annotation from annotator: 3
+
+Example 13:
+Text: @danaschurer yess the old line up. i miss them boys
+Annotation from annotator: 2
+
+Example 14:
+Text: @lilyish haha. Yeah thank god were all too young for abba. Ugh
+Annotation from annotator: 1
+
+Example 15:
+Text: @mckinneykelsey yeah, she's older than you were when I met you guys.
+Annotation from annotator: 2
+
+Example 16:
+Text: @mileyraysupport or england  when i am older i want to go to cornwall  have you ever been there? ... there's beatiful  and london
+Annotation from annotator: 3
+
+Example 17:
+Text: @oleolefootball The younger Stevie G is so adorable!
+Annotation from annotator: 3
+
+Example 18:
+Text: @paularosales basta!  it's an old song by the carpenters.
+Annotation from annotator: 2
+
+Example 19:
+Text: @paulshadwell I keep looking at the Apple page waiting to see a similar deal for the old 3G as in the states but no joy
+Annotation from annotator: 1
+
+Target Example:
+Text: @susie130 yeah, I dont get it. It worked again with the last vid,but I cant change the old ones info
+Annotation from annotator:

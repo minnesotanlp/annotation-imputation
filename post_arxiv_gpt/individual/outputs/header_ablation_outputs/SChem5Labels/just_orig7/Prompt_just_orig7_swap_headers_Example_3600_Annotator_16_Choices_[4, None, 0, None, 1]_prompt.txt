@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: You shouldn't rely on your friends to do things for you.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's okay to be distraught at the death of a marriage partner.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's good to help people out during catastrophic events.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's okay to feel frustrated when someone you just had sex with kicks you out.
+Annotation from annotator: 3
+
+Example 5:
+Text: You shouldn't expect your boyfriend to do your own obligations for you.
+Annotation from annotator: 3
+
+Example 6:
+Text: Being abusive  to your children is always wrong.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's rude to ignore someone in a relationship.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's okay to not like certain foods
+Annotation from annotator: 3
+
+Example 9:
+Text: It's okay to want to shut down an acquaintance if you have good reason.
+Annotation from annotator: 3
+
+Example 10:
+Text: You shouldn't move in with your partner.
+Annotation from annotator: 1
+
+Example 11:
+Text: It's bad to play mean jokes on someone.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's bad to tell on other people.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's important for parents to monitor with your children do online
+Annotation from annotator: 3
+
+Example 14:
+Text: It's wrong to get married too young because marriages frequently don't work out at young ages.
+Annotation from annotator: 2
+
+Example 15:
+Text: You should be grateful for gifts from other people.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's bad to hold a grudge about your relationship without talking about it.
+Annotation from annotator: 3
+
+Example 17:
+Text: You shouldn't try to break up others.
+Annotation from annotator: 4
+
+Example 18:
+Text: You shouldn't kick people out.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's best to hide certain sensitive information if it might offend the other person.
+Annotation from annotator: 2
+
+Example 20:
+Text: You should always forgive and forget.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's not okay to set yourself up for problems.
+Annotation from annotator: 3
+
+Example 22:
+Text: You should explain to a friend why you cannot give them money if you cannot.
+Annotation from annotator: 2
+
+Example 23:
+Text: You shouldn't reject your family's gift.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's wrong to not let a significant other do things they think are fun.
+Annotation from annotator: 3
+
+Example 25:
+Text: You shouldn't let drunk people stay in your place.
+Annotation from annotator: 2
+
+Example 26:
+Text: It is thoughtful to honor those who served in the armed forces.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's wrong to exclude your family from your life.
+Annotation from annotator: 3
+
+Example 28:
+Text: You shouldn't keep in contact with your ex.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's rude to be too loud.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's understandable to not like eating vegetables.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's nice to invite your friend to your graduation.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

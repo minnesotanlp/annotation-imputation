@@ -1,0 +1,271 @@
+Estimated Examples:
+Example 1:
+Text: A title bragging about getting laid plot twist about her age/consent
+Annotation from annotator: 1
+
+Example 2:
+Text: Nerd followers: I'm monitoring hashtag/mentions and sending a statsd incr call for each one.
+Annotation from annotator: 0
+
+Example 3:
+Text: What is the KKK's favorite coffee? Dark Roast
+Annotation from annotator: 2
+
+Example 4:
+Text: How many potatoes does it take to kill an Irishman? 0
+Annotation from annotator: 2
+
+Example 5:
+Text: Right I'm sleeping so good night! I hope jackson's doing ok, that bam gets to Korea safely and for all of got7 to stay healthy ✊
+Annotation from annotator: 0
+
+Example 6:
+Text: What's a black person's favorite plant? Plantation
+Annotation from annotator: 2
+
+Example 7:
+Text: Tell them hoes come here , cause it look like they forgot bout me , but the fact that they aint seen me , that should say alot bout me
+Annotation from annotator: 1
+
+Example 8:
+Text: Why do gay people hate being called Homo? Because Latin is the Devil's least favorite language.
+Annotation from annotator: 2
+
+Example 9:
+Text: Would love to name/shame but can't be bothered with inevitable @Twitter troll pile-on. He definitely shouldn't have been in bike lane though
+Annotation from annotator: 0
+
+Example 10:
+Text: ALSO I FORGOT JULIETTE BINOCHE WAS IN IT I ALMOST FUCKING SCREAMED
+Annotation from annotator: 0
+
+Example 11:
+Text: It's not fair that you have to hit rock bottom to get help when you were inches away from cloud nine
+Annotation from annotator: 0
+
+Example 12:
+Text: Can't believe Swansea have bottled this. Fucking hell.
+Annotation from annotator: 0
+
+Example 13:
+Text: Bad bitch with me got thunder thighs and her mother's eyes https://t.co/BPuGasYODB
+Annotation from annotator: 2
+
+Example 14:
+Text: I'm so excited about this. We're already doing some great things, and I can't wait until I'm able to tell you more.
+Annotation from annotator: 0
+
+Example 15:
+Text: They gave me the worst teammates in the fucking world
+Annotation from annotator: 1
+
+Example 16:
+Text: I thank God I lived to see the day CNN got brutally destroyed by shitposters.
+Annotation from annotator: 1
+
+Example 17:
+Text: Every time when I am about to completely snap and lose it, I remember countries like Iran and Saudi Arabia exist, thank god.
+Annotation from annotator: 1
+
+Example 18:
+Text: “A shithole country is what it is because its shit citizens are what they are” - Plato
+Annotation from annotator: 1
+
+Example 19:
+Text: On stage at @DALLASIFF tonight, got to bring #Robert Benton out to give award to #FayeDunaway. That likely will be highlight of my year.
+Annotation from annotator: 0
+
+Example 20:
+Text: Went To The Gym
+Seeing people's faces contort in disgust in reaction to mine made me realize I am subhuman trash and that death is my only option.
+Annotation from annotator: 0
+
+Example 21:
+Text: Of the billions of women in the world, I would bet my life that not a single one of them would find me sexually attractive
+Obviously counting out children, lesbians, etc.
+Annotation from annotator: 0
+
+Example 22:
+Text: How many babies does it take to paint a wall? Depends how hard you can throw
+Annotation from annotator: 2
+
+Example 23:
+Text: Should the Oxford dictionary change definiton of "Hypocrisy" to "HOLLYWOOD"
+Annotation from annotator: 2
+
+Example 24:
+Text: I AM SO HORNY AND ALONE AND MASTURBATING MAKES ME ANGRY CAUSE IT REMINDS ME I AM ALONE
+Annotation from annotator: 1
+
+Example 25:
+Text: Why are gorillas so pissed off all the time? Cause they know in a million years they turn into niggers.
+Annotation from annotator: 2
+
+Example 26:
+Text: #rakhi sawant nude kerala girls nude fucking pic https://t.co/84jJ130zsY
+Annotation from annotator: 0
+
+Example 27:
+Text: #YesAllWomen have been let down by men they thought wouldn't disappoint them at a crucial moment
+Annotation from annotator: 0
+
+Example 28:
+Text: Which fictional character do you relate to the most?
+Annotation from annotator: 0
+
+Example 29:
+Text: Acquaintance a conversation about gay marriage:: I'm all for it! The more gay guys there are, the less guys I have to compete with to get laid! I'm an 18 year-old gay man at a college party hosted by me and my friends. Made me feel upset and angry for the fact that I couldn't respond because I would be going against a "positive response" to my sexuality.
+Annotation from annotator: 2
+
+Example 30:
+Text: Why did the black person cross the road Segregation
+Annotation from annotator: 2
+
+Human-rated Examples:
+Example 1:
+Text: r/ForeverAlone is beyond saving (I also got permabanned for this post)
+Annotation from annotator: 0
+
+Example 2:
+Text: But you're so cute! Why do you want to be a boy?
+Annotation from annotator: 1
+
+Example 3:
+Text: having a whore mother sucks
+ruined the whole family dynamic
+Annotation from annotator: 2
+
+Example 4:
+Text: The Men's Right Book Club: Down The Rabbit Hole Of Cultural Misandry - Week 001
+Annotation from annotator: 1
+
+Example 5:
+Text: I watched a romance anime
+Now the suicidal thoughts are back again
+Annotation from annotator: 1
+
+Example 6:
+Text: What is my favorite thing about transexuals ? Their suiscide rate
+Annotation from annotator: 2
+
+Example 7:
+Text: Daily reminder: if femaloids weren't used for reproduction, they would have been extinted by now
+They are a weaker and less intelligent specie than men.
+Annotation from annotator: 2
+
+Example 8:
+Text: #WWE Brock Lesnar vs Braun Stroman VS Kane at the Royal Rumble
+Annotation from annotator: 0
+
+Example 9:
+Text: im fucking over today and practically over tomorrow. someone wake me up when it's sunday.
+Annotation from annotator: 0
+
+Example 10:
+Text: @sleepe21 these hoes gay thats why
+Annotation from annotator: 1
+
+Example 11:
+Text: RT @baeElectronica: this is genius &#128221; RT @PhilthyCleo: "You fat" 
+
+"Nigga so is this pussy since we statin facts" &#128557;
+Annotation from annotator: 1
+
+Example 12:
+Text: RT @Jazzy_Blow: i can't never keep no bitch cause i put them hoes out
+Annotation from annotator: 2
+
+Example 13:
+Text: Read this book, heed its warnings and perhaps you can avoid its dire predictions.
+Annotation from annotator: 0
+
+Example 14:
+Text: Our schools are horrible , all they teach is telling kids to be liberal and respect people of all races and take no pride in your own .
+Annotation from annotator: 2
+
+Example 15:
+Text: @HonchoPikasoe lmao hell yea.. I love thick bitches &amp; thick bitches love fat niggas.
+Annotation from annotator: 1
+
+Example 16:
+Text: henny cups on all that ice bitch i'm froze up
+Annotation from annotator: 0
+
+Example 17:
+Text: Good thinking I hear you say. Sadly not. The elastic had gone in the waistband &amp; they fell down (mid plank/sit up combination) thus exposing
+Annotation from annotator: 0
+
+Example 18:
+Text: #DayAndNight by @GHReaLMc prod by @drraybeat drops at 10:00am today the 7th of April. Share to reach the masses.
+Annotation from annotator: 0
+
+Example 19:
+Text: The majority of them are as stupid as real Negroes .
+Annotation from annotator: 2
+
+Example 20:
+Text: Maybe you could live on Mars and help us all out. @TheDanielNorton I'm not sexist, but if I hear a woman's voice on the radio I turn it
+Annotation from annotator: 2
+
+Example 21:
+Text: Finally someone comes out and tells a portion of the truth !
+Annotation from annotator: 0
+
+Example 22:
+Text: Sleepytime peach tea with lavender infused honey, you complete me.
+Annotation from annotator: 0
+
+Example 23:
+Text: IQ by race:
+Ashkenazi Jews 115
+E Asians 106
+Whites 102
+Inuits and Eskimos 91
+American Indians 87
+Non-White Hispanics 86
+Koko (a western lowland gorilla) 85
+American Blacks 85 (average 24% White admixture)
+African Blacks 67 (only 2% of Whites score this low)
+Australian Aborigines 62
+Congo Pygmies 54
+Annotation from annotator: 0
+
+Example 24:
+Text: RT @marleylowkey_: &#8220;@_100D: All These hoes sooo average &#128553;&#128533;&#8221; of course
+Annotation from annotator: 2
+
+Example 25:
+Text: The fly on the wall,
+By the stairs, down the hall
+Is a drone with a camera,
+Making a visual phone call.
+Annotation from annotator: 0
+
+Example 26:
+Text: GRAVIS: ALABAMA
+-Roy Moore is losing independents 67% to 28%
+-Roy Moore only has 73% of Republicans and 14% of Republicans will vote for Doug Jones
+-Roy Moore only has 52% of Whites and 10% are uncertain
+-18% of Evangelicals are still uncertain
+-17% of High School Graduates are uncertain
+Annotation from annotator: 0
+
+Example 27:
+Text: I noticed the crime stats for Kalispell are a little higher than average .
+Annotation from annotator: 0
+
+Example 28:
+Text: Men just aren't funny! @DammitBoden how many men does it take to mop a floor? None, that's women's work. #notsexist
+Annotation from annotator: 2
+
+Example 29:
+Text: For some reason the closer Christmas gets here the more pissed off I am getting...  ;)
+Annotation from annotator: 0
+
+Example 30:
+Text: How could you begin to tell people that all this multi cultural stuff is wrong without being hated on by our fellow people ?
+Annotation from annotator: 0
+
+Target Example:
+Text: Being an Addict for 15 Years the money I've spent has only been in the 200 hundred range because I've been blessed and fortunate for others to give me stuff I know it's not a thing to brag about just had this on my mind and wanted to share
+Annotation from annotator:

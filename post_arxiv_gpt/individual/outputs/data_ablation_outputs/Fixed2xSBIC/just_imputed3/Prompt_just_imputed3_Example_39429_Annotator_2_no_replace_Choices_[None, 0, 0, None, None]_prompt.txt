@@ -1,0 +1,137 @@
+Estimated Examples:
+Example 1:
+Text: Somene was telling me somewhere that he has put in a claim about having been abused in an orphanage by one of the religious orders .
+Annotation from annotator: 0
+
+Example 2:
+Text: the sad comideian what do you hear after a sad comedian's joke
+
+bum dum BANG
+Annotation from annotator: 1
+
+Example 3:
+Text: Any joke can be funny with the right delivery. Except Abortion jokes, because there is no delivery.
+Annotation from annotator: 1
+
+Example 4:
+Text: What's the best part about gays? They can't spread the horrendous disease know as homosexuality
+Annotation from annotator: 2
+
+Example 5:
+Text: What is the difference between a Zombie and a Black ? Zombie used to be a human .
+Annotation from annotator: 2
+
+Example 6:
+Text: Wind 15.5 mph NW. Barometer 1029.9 mb, Rising slowly. Temperature 9.7 °C. Rain today 1.4 mm. Humidity 88%
+Annotation from annotator: 0
+
+Example 7:
+Text: The media wants to bury the story because they care more about homo killers not getting their sick fetish for young boys fufilled .
+Annotation from annotator: 2
+
+Example 8:
+Text: You are NOT invisible to women
+Many incels think that women are just indifferent to them, like they dont see you, this is not the case however
+
+Women actively HATE men who are geneticly weak, the mere presence of you bothers them deeply
+
+In public they will usually still show basic politeness, but really they are just praying that Chad will beat the fucking shit out of you, they hate you just for existing
+Annotation from annotator: 2
+
+Example 9:
+Text: Roll up with the windows up, I'm still sippin' whiskey from the solo cup. She down for whatever, 'cause she know what's up. &#128406;&#127926; @G_Eazy
+Annotation from annotator: 0
+
+Example 10:
+Text: Damn it, I made $35 on tinder from stupid dudes and now I'm banned :-(
+Annotation from annotator: 1
+
+Example 11:
+Text: .@IAHouseGOP Hi @IAHouseGOP I would like to know if you have ever taken a FUCKING BIOLOGY CLASS in your terrible petty lives
+Annotation from annotator: 2
+
+Example 12:
+Text: I was the nicest thing to you and was nothing but honest, yet you still did me dirty? You're at the top of the ain't shit list lmao
+Annotation from annotator: 2
+
+Example 13:
+Text: "@SamsungUK still got a year warranty and you refused to repair cause ""it was my fault it burnt the fucking house you cunts. &#128405;&#128405;&#128405;&#128405;"
+Annotation from annotator: 1
+
+Example 14:
+Text: #Photography #Plane flying over buildings by Zong Qin https://t.co/GHxgRTuPIH https://t.co/iN81eRMONn
+Annotation from annotator: 0
+
+Example 15:
+Text: Anyone else find it sexist that trans women can't have children?
+Annotation from annotator: 1
+
+Example 16:
+Text: it 's so hard working as a rape therapist err , at least my dick is .
+Annotation from annotator: 2
+
+Example 17:
+Text: God damn I hate that self entitled spoiled bullshit &#128528;
+Annotation from annotator: 0
+
+Example 18:
+Text: Can I tell them??!! She's a lesbian too!
+Annotation from annotator: 1
+
+Example 19:
+Text: Sex is like multiplication It's easier if it's under 12.
+Annotation from annotator: 2
+
+Example 20:
+Text: Then q&amp;a for both of us keynote speakers got hijacked to show harassment happening live. Both of us talked about diff aspects of harassment.
+Annotation from annotator: 0
+
+Example 21:
+Text: Anyone else feel its hypocritical feminists complain about being demonized for being labeled as feminists but they go nuts on someone who's an MRA?
+Annotation from annotator: 1
+
+Example 22:
+Text: @JenTurnek Hey. The University of Washington is conducting a study that you may be eligible to participate in for up to $320! Interested?
+Annotation from annotator: 0
+
+Example 23:
+Text: Life is either a daring adventure or nothing. Security is mostly a superstition. It does not exist in nature. Nice weekend
+Annotation from annotator: 0
+
+Example 24:
+Text: do you know what a jihadist 's favorite phone is ? samsung galaxy note <number>
+Annotation from annotator: 2
+
+Example 25:
+Text: I do know one thing though, bitches they come they go.
+Annotation from annotator: 2
+
+Example 26:
+Text: Report: BMW developing self-driving cars that tailgate, never use indicators and drive like cunts.
+Annotation from annotator: 2
+
+Example 27:
+Text: RT @salomanizor: Kick her in the cunt
+Annotation from annotator: 2
+
+Example 28:
+Text: Apparently we don't like girls having fun and just want to see boobs
+Annotation from annotator: 2
+
+Example 29:
+Text: RT @Fit4LifeMike: @Whitecholo23 @chanelisabeth true i need to sleep to make them Gainz bruh!! So all the hoes stay Mirin ;p 
+Alright, later&#8230;
+Annotation from annotator: 2
+
+Example 30:
+Text: Knock, Knock.. Who's there? Gestapo! Gestapo who?
+
+No, no.. Ve vil ask ze questions.
+Annotation from annotator: 0
+
+Target Example:
+Text: #Boeing's secret plane debut:
+There goes your taxpayers money...
+
+Let's hope a simple #EMP wave won't cripple it 🤔!
+Annotation from annotator:

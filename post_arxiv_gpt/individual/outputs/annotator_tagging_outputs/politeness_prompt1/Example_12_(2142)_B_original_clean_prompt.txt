@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: I notice that you added a period to the middle of a sentence in the article about <url>. Why?
+Annotation from annotator: 9.0
+
+Example 2:
+Text: Go to <url> and create it like you would a page: just add a little text by putting in a little explanation at the top and adding categories u2014 see <url> for a basic category of this sort, although on a very different subject.  Let me ask, however: are you planning to categorise articles about schools and/or districts, or articles on the cities where they are based?
+Annotation from annotator: 17.0
+
+Example 3:
+Text: That's OK &mdash; I just wondered if you had a new translation that used "on".  Where are you studying philosophy, by the way?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: If the only page you've been visiting is Wikipedia, then it makes sense the viruses would come from here, but if you've been to other sites, they get thrown into the equation. Again, don't you have any anti-virus software?
+Annotation from annotator: 15.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: I believe in previous versions of the article, the title of that section was "Left-libertarianism in political philosophy".  If it were changed back to something like that and moved to the top, would that be satisfactory?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: So argument that "''Note: many Moldovans declared themselves as Romanians or Russians.''" is wrong because NO Moldovians declared themselves as russian?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: No problem, done. What's your connection to Casey?
+Annotation from annotator: 15.0
+
+Example 4:
+Text: I've been "busy" (all day today in Death Valley admiring the spring bloom), and I would like to get at least partial buyin from HG if possible. Not a big hurry to rename, right?
+Annotation from annotator: 12.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Greetings, the Province of Alberta, through legislation, has designated a future highway that has an alignment and an assigned number, but has yet to be constructed. Is it premature to create an article on such a highway?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: The article <url> is vandalism. Could you please delete it?
+Annotation from annotator: 20.0
+
+Example 3:
+Text: The text of your warning <url> made me smile. Did you really think that if China got a new Prime Minister as of today, and a female one at that, it wouldn't be all over the news, and the link to this person would be red?
+Annotation from annotator: 4.0
+
+Example 4:
+Text: Can you give me a link to "We Are Defiance" ? And what do you mean by "remove" : 1) moving to the main space or 2) deleting the article ?
+Annotation from annotator: 8.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: I don't see you around much these days. Busy with non wiki life?
+Annotation from annotator:

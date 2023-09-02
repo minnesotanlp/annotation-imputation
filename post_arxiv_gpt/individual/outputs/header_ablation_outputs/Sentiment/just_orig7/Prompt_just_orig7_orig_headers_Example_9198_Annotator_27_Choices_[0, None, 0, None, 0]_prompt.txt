@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Estimated Examples:
+Example 1:
+Text: @GPforhire Cheap old pair of foam beach loafers, bought in 97, still wear them now, still as comfy as ever
+Annotation from annotator: 2
+
+Example 2:
+Text: @tommcfly @tommcfly why dont you log into good old myspace and write a blog telling us how the Amesterdam gig was? that would be nice
+Annotation from annotator: 2
+
+Example 3:
+Text: Wondering how to make this Twitter dealie work properly. God, I feel old
+Annotation from annotator: 1
+
+Example 4:
+Text: Will be 21 in a week :O im getting old
+Annotation from annotator: 1
+
+Example 5:
+Text: helped out an old friend in need tonight, made me feel good. she needed it, bad shit goin on in her life,i kept her laughing for 8hrs.
+Annotation from annotator: 3
+
+Example 6:
+Text: @joecox406 Depends how quickly all the data can be transferred. We're at the mercy of the old hard drive..
+Annotation from annotator: 2
+
+Example 7:
+Text: there's an ambulance next door - a little old lady lives there by herself, oh noes
+Annotation from annotator: 1
+
+Example 8:
+Text: @sofiesunshine hahaha yes!! same old, same old, at least we have good seats though, near the front wooooo  xxx
+Annotation from annotator: 2
+
+Example 9:
+Text: damn i miss my old friends
+Annotation from annotator: 3
+
+Example 10:
+Text: My 17 yr. old she is leaving for basic training today...
+Annotation from annotator: 4
+
+Example 11:
+Text: drying my hair listening to some good old rascal flatts. lovin 'here comes goodbye' atm
+Annotation from annotator: 2
+
+Example 12:
+Text: I missed #bsgrewind at 7p and a YIM chat conference with some old friends at 8p.
+Annotation from annotator: 2
+
+Example 13:
+Text: @garretjiroux http://twitpic.com/7lpd8 - Wow that's one sweet car u got there! I can't drive till i'm 18  how old r u btw?  Just wonde ...
+Annotation from annotator: 4
+
+Example 14:
+Text: ame optimized a lot! no lagg on old computers and it is very fast, yet still low CPU usage  Tech-demo: http://www.stick-legends-game.tk
+Annotation from annotator: 2
+
+Example 15:
+Text: @mssensible ha! As if! Was up early with youngest... as always!!
+Annotation from annotator: 2
+
+Example 16:
+Text: Sesame Street must be paying off. My 22 mo. old can identify and say "W" on my keyboard.
+Annotation from annotator: 2
+
+Example 17:
+Text: @Syncereatl Oh how I miss my young girl party days in Atlanta. I bet Dreams with tons of fun  miss u much muuuah!!
+Annotation from annotator: 1
+
+Example 18:
+Text: @ericalindsay riiiight? i definitely lost that old one
+Annotation from annotator: 1
+
+Example 19:
+Text: @che3 worse part is, as you get older it sometimes gets worse.
+Annotation from annotator: 0
+
+Example 20:
+Text: Here we go again. Same old same old.
+Annotation from annotator: 2
+
+Example 21:
+Text: @Kezxx yeah he's a bit of a baby face alright!!! but we're all gettin old now  !
+Annotation from annotator: 1
+
+Example 22:
+Text: @Valerie4012 well get all of the rest while you can.  I have a 4 yr old and a 10 month old and sleep is what I missed the most!
+Annotation from annotator: 2
+
+Example 23:
+Text: @24z http://meta.wops.de/twunes -- works, although it's an old version that uses NSTimer.  I'm working on a NotificationCenter version...
+Annotation from annotator: 2
+
+Example 24:
+Text: Thanks for all my bday wishes! I felt very loved!!!! And while working out this morning I feel very old
+Annotation from annotator: 1
+
+Example 25:
+Text: @williamtprice We start recording tomorrw  but we are recording at quad studios where neil young recorded harvest. I may shit myself.
+Annotation from annotator: 1
+
+Example 26:
+Text: My mom and I just helped an old mom, i feel so good right now!
+Annotation from annotator: 3
+
+Example 27:
+Text: @boiwonder aw,so you just had a birthday  how old are you now?
+Annotation from annotator: 2
+
+Example 28:
+Text: You know what fucking sucks? Putting down your 16 year old dog. Miss you Indy boy
+Annotation from annotator: 0
+
+Example 29:
+Text: @shaesallthat I would agree that 21 is too young.. I was a mom at 21 and it was hard. but I wouldn't change a thing
+Annotation from annotator: 2
+
+Example 30:
+Text: In 22:15 minutes any illusions I've harbored about being young will be gone forever
+Annotation from annotator: 1
+
+Target Example:
+Text: My old chinese stagiaire is graduating.  - http://mobypicture.com/?bvaumo
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

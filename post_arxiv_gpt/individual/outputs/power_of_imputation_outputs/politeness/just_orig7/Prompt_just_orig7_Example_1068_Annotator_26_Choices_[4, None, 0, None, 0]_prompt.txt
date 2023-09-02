@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Hi Asbestos! This is kind of weird for me but I see that you are a participant in the photo project and list yourself as a photographer in Edinburgh and I was wondering if there was any possibility that you would be willing to respond to my recent request <url>?
+Annotation from annotator: 20
+
+Example 2:
+Text: Additionally I would like to ask the proponents of a unified citation style to answer this: Which wikipedia policy is this proposal based in? Which of the five pillars does it work to bolster?
+Annotation from annotator: 12
+
+Example 3:
+Text: I would like to first thank you for coding the afd helper app. Secondly, is it possible it could be changed to work with other XfDs?
+Annotation from annotator: 16
+
+Example 4:
+Text: I am trying to retag all the Soviet-PD images. Can you identify there the image came from?
+Annotation from annotator: 12
+
+Example 5:
+Text: Lemme just remember, who's going to be mentioned first? Snyder, or the failed projects?
+Annotation from annotator: 12
+
+Example 6:
+Text: In fact, what I'd like to propose here is that we take a bit more control, establish some stricter edit warring restrictions, unprotect the page, slap up an edit notice, and enforce them with blocks so that people can get back to writing the article. Do you think that would have a positive effect?
+Annotation from annotator: 12
+
+Example 7:
+Text: Incidentally, your username seems familiar. Do you contribute to SPGB-related forums by any chance?
+Annotation from annotator: 16
+
+Example 8:
+Text: I apologise, I didn't actually see the message on my talk page, I assumed you meant the article talk page. If you are concerned that the "free" image has been uploaded under a false license, then perhaps you could nominate it for deletion?
+Annotation from annotator: 16
+
+Example 9:
+Text: Yes, I know what a score ''card'' is, but you wrote "score '''car'''" in the article. Was that a typo, or is there really such a thing as a score "car"?
+Annotation from annotator: 9
+
+Example 10:
+Text: Oops.  Hmm...yeah...that sounds like a good idea...why not go ahead?
+Annotation from annotator: 11
+
+Example 11:
+Text: Maybe you can clarify what you meant by "legal action" then? Perhaps you just meant as opposed to illegal actions?
+Annotation from annotator: 12
+
+Example 12:
+Text: I think that if you use an example paragraph, and show the options in a nowiki tag, it will make it easier for people to "vote" for the method they like. Make sense?
+Annotation from annotator: 8
+
+Target Example:
+Text: Depends; do you care deeply about image policy? Or are you an incurable masochist?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

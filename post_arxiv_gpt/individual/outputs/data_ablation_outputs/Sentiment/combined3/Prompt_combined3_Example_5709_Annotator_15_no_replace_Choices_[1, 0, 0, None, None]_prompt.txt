@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: I think kids are programmed to wake up at 6 am on weekends before they are 10 yrs old! Oh well coffee time
+Annotation from annotator: 2
+
+Example 2:
+Text: @emilylynn_ oh my lil em is growing up!  makes me feel old.   yea for summer registration!
+Annotation from annotator: 2
+
+Example 3:
+Text: duuuude!!! i cant wait for the 90210 finale! jim walsh is dying!! i miss the old 90210
+Annotation from annotator: 2
+
+Example 4:
+Text: off to work  i miss being younger
+Annotation from annotator: 2
+
+Example 5:
+Text: @CosmicMother Ah Russ!  Listening & Loving it! Wish I could go back to those days, love the oldie films & songs! 2 do - Build Time Machine
+Annotation from annotator: 3
+
+Example 6:
+Text: @JGunds I really, really want to! But I already made plans to see some old friends tonight. I can't believe I'm going to miss out on 3eb
+Annotation from annotator: 2
+
+Example 7:
+Text: @thephatkat I know im old  u dont have to rub it in hee hee
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6plus - i got dave a new bonsai... his old one died last year  so this is steve jr. (dave named his bonsai steve... ...
+Annotation from annotator: 2
+
+Example 9:
+Text: don't ask my why i have a new account...it's cuz twitter is LAME and my old one got deleted somehow.  wah wah wah
+Annotation from annotator: 2
+
+Example 10:
+Text: Green Day look so old
+Annotation from annotator: 2
+
+Example 11:
+Text: No! I have an old menu and they already didn't have the wine I wanted to try
+Annotation from annotator: 2
+
+Example 12:
+Text: @ehudmh h love that american gladiators uses painted solid colored outlines of people to amplify the number of people there  old school
+Annotation from annotator: 2
+
+Example 13:
+Text: gahh....tiredish...stayed up too late last night .-. oh well...leaving to go out to eat soon  got a new tv so i get the old one
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished playing CS Source on a LAN (network cafe) with 5 friends. Ahh..  the good old days
+Annotation from annotator: 3
+
+Example 15:
+Text: http://twitpic.com/680to - I also layed in her older sister's room & pet their cat, Baxter.
+Annotation from annotator: 2
+
+Example 16:
+Text: acsvxdcbgfn soccer now. shall see young phoebe after D: I don't want her dressed up though
+Annotation from annotator: 2
+
+Example 17:
+Text: @LuinLuLand you have sooo been hustled...gotta watch out for the 5 yr old's...they know there stuff alright
+Annotation from annotator: 2
+
+Example 18:
+Text: @residentartist The younger one liked her celery anyway.
+Annotation from annotator: 3
+
+Example 19:
+Text: Recently retouched. http://tinyurl.com/ljoboh  Finally got it to work, I think.  An old dog can learn new tricks, see?
+Annotation from annotator: 3
+
+Example 20:
+Text: miss my old hair.  http://tinyurl.com/pqpvsl http://plurk.com/p/z0kyf
+Annotation from annotator: 2
+
+Example 21:
+Text: Weekend is over, back at work   Finally all moved out of the old apartment. Still need better cable and internet in the new one.
+Annotation from annotator: 3
+
+Example 22:
+Text: dont miss the new tom hanks one "Angels and demons" guys! what a great movie... he looks much more older, but still 1 of my fav. actors
+Annotation from annotator: 2
+
+Example 23:
+Text: @BeautyBlogger Wish my blog qualified.  Not 3 months old yet
+Annotation from annotator: 2
+
+Example 24:
+Text: my laptop is getting fixed (again), so i'm on this old, super slow one  it's driving me crazzzy
+Annotation from annotator: 2
+
+Example 25:
+Text: looking into socialization classes for Oreo... If any old dog can learn new tricks, it's him.
+Annotation from annotator: 3
+
+Example 26:
+Text: trying to remember the lyrics of a song with the world cinderella... i know is a old song, light rock, but arghh can't remember
+Annotation from annotator: 2
+
+Example 27:
+Text: so excited to catch up with some old friends tonight!  haven't seen them in a while
+Annotation from annotator: 3
+
+Example 28:
+Text: im in a chill mood. feelin like watchin sum oldskoo movies like boys n the hood or bullet.
+Annotation from annotator: 2
+
+Example 29:
+Text: @teruist Also, aggravating to know they can make oldschool vkei in PARODY but we struggle to try
+Annotation from annotator: 2
+
+Example 30:
+Text: @helpmefred one of our favorite places Chris and I went to the old Founders Plaza on our first date! Mavis likes it too
+Annotation from annotator: 3
+
+Human-rated Examples:
+Example 1:
+Text: 30 minute break. eating chinese food and watching this old country guitar group play in the food court
+Annotation from annotator: 3
+
+Example 2:
+Text: @mrheywire Oh blast! It's not in a young adult size
+Annotation from annotator: 2
+
+Example 3:
+Text: I call myself young because, at almost 64, what else fits?
+Annotation from annotator: 3
+
+Example 4:
+Text: Hanging out with my sister and her friends. Oh to be underage  i feel old
+Annotation from annotator: 3
+
+Example 5:
+Text: Will be hitting the charity shops to find me some old school gear for Glasto
+Annotation from annotator: 2
+
+Example 6:
+Text: @janek85 The old 3G ones are going cheap now the 3GS has been announced. Free 8Gb on a $58 plan on voda... http://is.gd/12hTX
+Annotation from annotator: 2
+
+Example 7:
+Text: just gotten out of bed, I hope I start feeling some life in the old girl soon, gonna go and tackle my 16 year olds bedroom in a mo  smell
+Annotation from annotator: 2
+
+Example 8:
+Text: @mileycyrus dang it! they're playing an old hannah montana again! i thought sundays were for premieres   oh well i like this episode
+Annotation from annotator: 2
+
+Example 9:
+Text: Tonight was awesome. Almost like old times.
+Annotation from annotator: 3
+
+Example 10:
+Text: @tedmurphy Honey is good, especially in tea! My 2 year old would put it on EVERYTHING.Wonder if he likes the stickiness?
+Annotation from annotator: 2
+
+Example 11:
+Text: Very old, really nice song. Sad one   ? http://blip.fm/~6966v
+Annotation from annotator: 3
+
+Example 12:
+Text: @sexontheflag Very sad  He was a good friend until I started seeing him revert back to his old patterns. Months later, he's in jail again.
+Annotation from annotator: 1
+
+Example 13:
+Text: @gabbler oo okay though it may automatically switch itself to an older one. as i tried to alter it and it did nothing..i suspect delay
+Annotation from annotator: 2
+
+Example 14:
+Text: Just repainted an old piece of art, recorded everything I did. Currently recoding the vid, will share
+Annotation from annotator: 2
+
+Example 15:
+Text: @jsykk Thanks a lot bro. She's a week old tomorrow. Crazy! I'm just an obsessed new Dad throwing pics up every chance I get.
+Annotation from annotator: 4
+
+Example 16:
+Text: BOUT TO GO GET CHINESE!!!! lil sisters r at my old sisters apt so it jus me an the mama!!!!!!  n champ lol
+Annotation from annotator: 3
+
+Example 17:
+Text: @Scobleizer hey rather than throw your old Mac out for the Dell Z, I'll gladly take it as my 6yo Mac PB just died
+Annotation from annotator: 2
+
+Example 18:
+Text: @dopeydee shame, lovely sun here, almost pool party day again! bit burnt in garden yest  fact 20 on, worse by using it - maybe old stuff
+Annotation from annotator: 2
+
+Example 19:
+Text: @danypepin Sounds cool. Sadly, won't be able to record anything. My laptop is busted, & the old desktop I'm on has busted sound card.
+Annotation from annotator: 1
+
+Example 20:
+Text: @serenaalfaro well hopefully I can keep you entertained   yeah @jenniferohjenni has been one of my oldest and truest friends.  I'm blessed
+Annotation from annotator: 4
+
+Example 21:
+Text: @GarageGlamorous omg - sir sounds so old - i'm only 33!
+Annotation from annotator: 2
+
+Example 22:
+Text: @alexalbrecht i can't my dad died when i was 2 years old  im 43 now
+Annotation from annotator: 2
+
+Example 23:
+Text: 24 today!! I'm getting old  I've half a head of grey hairs that I disguise with hair gel.
+Annotation from annotator: 3
+
+Example 24:
+Text: Chriiiiiiiiiiiist i'm tired...too old for this shizzit nowadays!  think will go get a cup of joe to wake me up
+Annotation from annotator: 2
+
+Example 25:
+Text: @muncher Nothing yet - sad to see your old boy score the goal that looks to be keeping you out of the playoffs
+Annotation from annotator: 3
+
+Example 26:
+Text: @websoup why can't anyone get soup / web soup new / old designations right! i just missed it because it was labeled as a repeat
+Annotation from annotator: 2
+
+Example 27:
+Text: @bryankannowski haha, i see how that sounds now. b&h for new canon lenses, not old russian ones.
+Annotation from annotator: 2
+
+Example 28:
+Text: I do have to say, it is way better today than yesterday except for the shot clinic. Poor lil 4 year olds getting their shots today.
+Annotation from annotator: 2
+
+Example 29:
+Text: @kalindria  http://bit.ly/yZAxq  There you go. Proof we train'm too young over here.
+Annotation from annotator: 3
+
+Example 30:
+Text: @supsunshine YES! SO excited too! I got tix for an outside pre-showing in this old castle down in Oslo on July 15th -- CANNOT wait!
+Annotation from annotator: 2
+
+Target Example:
+Text: @wyndwitch It will never be off charge again! Storm and curve have very poor batteries compared with older models.
+Annotation from annotator:

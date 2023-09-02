@@ -1,0 +1,245 @@
+Imputed Examples:
+Example 1:
+Text: Relationships are expected to have clear communication.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's expected that the husband pay child support.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's wrong for a person to cheat on their significant other.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's important to give helpful feedback to someone who doesn't pass their driver's license test.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's wise to never let yourself get embarrassed by your significant other.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should always help out your customers when they have a problem.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's wrong to be gluttonous.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's frowned upon for people to continue a relationship with a former romantic interest when they've moved on to other relationships.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's expected that parents should discipline their kids.
+Annotation from annotator: 4
+
+Example 10:
+Text: Employers are expected to let employees go when business is down.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's good for children to be physically active.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's nice to worry about your parents.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should care about your siblings.
+Annotation from annotator: 4
+
+Example 15:
+Text: People shouldn't lie about who they are.
+Annotation from annotator: 4
+
+Example 16:
+Text: You shouldn't have sex with people if you have herpes.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's hurtful for  a parent to enroll a child in classes without permission.
+Annotation from annotator: 3
+
+Example 18:
+Text: You shouldn't take it too personally if someone leaves you out of their plans
+Annotation from annotator: 3
+
+Example 19:
+Text: It's wrong to be into something that is annoying.
+Annotation from annotator: 2
+
+Example 20:
+Text: It is good to have rules.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is dramatic to run to the doctor everytime your child feels sick.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's rude to support one person more than another.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's expected that family members support each other's milestone events.
+Annotation from annotator: 4
+
+Example 25:
+Text: It is dangerous for a doctor to misdiagnose a patient.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's normal for siblings to play pranks
+Annotation from annotator: 3
+
+Example 27:
+Text: It is good to have moderation in all activities.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to have people you can use to improve yourself.
+Annotation from annotator: 3
+
+Example 29:
+Text: It is bad to be addicted to things.
+Annotation from annotator: 4
+
+Example 30:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 3
+
+Correct Examples:
+Example 1:
+Text: It's good to be in control of your sexuality.
+Annotation from annotator: 4
+
+Example 2:
+Text: You shouldn't touch other people.
+Annotation from annotator: 3
+
+Example 3:
+Text: If you are uncomfortable with your partner feeding your kids, you should not let your partner watch your children.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's wrong to want to be a 50's housewife because women back then were oppressed.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's not normal to dislike everybody
+Annotation from annotator: 4
+
+Example 6:
+Text: People are expected to want to be close to their family.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's good to get help when you need it.
+Annotation from annotator: 4
+
+Example 8:
+Text: It is wrong to be ashamed of where you have come from.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's responsible to take part in rearing a younger sibling.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's wrong to want to kill yourself.
+Annotation from annotator: 4
+
+Example 12:
+Text: You don't have to help out your parents if you don't feel like it.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's okay to be upset with a friend.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's understandable that we don't always want to attend family events.
+Annotation from annotator: 4
+
+Example 15:
+Text: There should be trust in a relationship.
+Annotation from annotator: 4
+
+Example 16:
+Text: You should only call the cops for emergencies.
+Annotation from annotator: 4
+
+Example 17:
+Text: You shouldn't constantly think about death and dying.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's bad to have an overly pessimistic world view.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to show solidarity with family members in the face of adversity.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't care who your friends hook up with.
+Annotation from annotator: 3
+
+Example 21:
+Text: Families should try to work out problems with each other.
+Annotation from annotator: 4
+
+Example 22:
+Text: You shouldn't be friends with someone that talks badly about you behind your back.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good to have things in common with your partner's parents.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't have to stay at a place you don't like.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's expected that you won't exchange goods and money for sexual photos when you're married.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's understandable to not want to contribute work to a group project.
+Annotation from annotator: 1
+
+Example 27:
+Text: It is good to be yourself.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's wrong to love people who are engaged.
+Annotation from annotator: 4
+
+Example 29:
+Text: You shouldn't date a bad partner.
+Annotation from annotator: 3
+
+Example 30:
+Text: People are expected to love their family.
+Annotation from annotator: 4
+
+Target Example:
+Text: It's rude to make baseless accusations against another person.
+Annotation from annotator:

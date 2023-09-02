@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.\n\nTarget Example:\nText: I very much disagree that the article that was deleted was advertising; I have never bought anything from his store as a matter of fact, but I do know that his is one of the most used online Judaica shops out there. What can I do to make the article acceptable?\nAnnotation from annotator:\nThe only valid output is a single integer."
+    }
+]

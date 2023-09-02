@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: Sometimes you have to wait for people to grow up to be friends with them.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's understandable to not want kids even though others want or have them.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's wrong not to let someone show off that they are pregnant.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good to have someone help you when you need it.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's fine to want a nubile young woman for a romantic partner.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's wrong to sell your body for money.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's wrong to ogle young women.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's comforting to go to a first time experience with a friend.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's good to be educated in life.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's juvenile to use April 20th to signify marijuana use.
+Annotation from annotator: 3
+
+Example 11:
+Text: It is expected that you support your kids
+Annotation from annotator: 4
+
+Example 12:
+Text: It is silly to base a relationship on zodiac signs
+Annotation from annotator: 3
+
+Example 13:
+Text: it's good to participate in band in middle school.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is good to help someone park their car if they need help.
+Annotation from annotator: 4
+
+Example 15:
+Text: It is wrong to do things that upset others.
+Annotation from annotator: 4
+
+Example 16:
+Text: It is wrong to be misleading.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's good to clean your driveway if it's dirty.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's admirable when people try to learn from past mistakes.
+Annotation from annotator: 4
+
+Example 19:
+Text: It is fun to play a sport even if you aren't good at it.
+Annotation from annotator: 4
+
+Example 20:
+Text: It is heartbreaking to miss a date because you are sick.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's bad to rely on someone else to work so you don't have to.
+Annotation from annotator: 4
+
+Example 22:
+Text: You shouldn't change the locks on something that you share with someone else.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's not okay to bother someone when they wouldn't want you to.
+Annotation from annotator: 4
+
+Example 24:
+Text: You should keep trying new things until you find what you want to do.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's acceptable to remove toxic people from your life.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's wrong to judge people based on their entertainment choices.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's good to talk with people on the phone.
+Annotation from annotator: 4
+
+Example 28:
+Text: It is good to learn how to play left and right handed.
+Annotation from annotator: 3
+
+Example 29:
+Text: People are expected to look out for their friends.
+Annotation from annotator: 4
+
+Example 30:
+Text: You should keep your possessions in good order.
+Annotation from annotator: 4
+
+Target Example:
+Text: You shouldn't eat foods that are unhealthy.
+Annotation from annotator:

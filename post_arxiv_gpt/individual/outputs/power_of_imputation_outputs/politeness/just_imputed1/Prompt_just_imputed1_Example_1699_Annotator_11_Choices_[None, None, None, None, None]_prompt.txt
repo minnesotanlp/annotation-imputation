@@ -1,0 +1,122 @@
+Example 1:
+Text: Do you really believe that your photograph at the top of the <url> is better than my photograph which you removed? Should Wikipedia have a dedicated sunrise article that does not feature even one single decent image of a red sky?
+Annotation from annotator: 9
+
+Example 2:
+Text: That's reason to expand the treatment to other painters, not to blank this one.  And you didn't think that there would be more articles on van Gogh paintings?
+Annotation from annotator: 8
+
+Example 3:
+Text: Alistair, you have only undone the autoblock; you haven't unblocked the account yet. Could you do that, please?
+Annotation from annotator: 18
+
+Example 4:
+Text: Actually it was a compliment. Does that count as an 'issue'?
+Annotation from annotator: 12
+
+Example 5:
+Text: Could you please explain <url> to me? I don't see how deleting a person's userpage is correct?
+Annotation from annotator: 14
+
+Example 6:
+Text: And  what did I do wrong???????????????????????
+Annotation from annotator: 7
+
+Example 7:
+Text: Hi.  Why did you blank the redirect at <url>?
+Annotation from annotator: 12
+
+Example 8:
+Text: Another proposal: since this about the EP why don't we just mention those that have more than 3 MEPs? VB & LN?
+Annotation from annotator: 16
+
+Example 9:
+Text: I understand your point about MJ being very close and having competent editors, but do you not think those of us who understand the source problems, etc. that the Reagan page is having should try and explain them to those editors (that is, try to educate them)?
+Annotation from annotator: 11
+
+Example 10:
+Text: That's basically what our members have said, not necessarily my opinion. Anything I miss?
+Annotation from annotator: 12
+
+Example 11:
+Text: Could you please explain to me what the buttons do? How do you "Not accept" a change, that's what...you revert it, don't you...?
+Annotation from annotator: 13
+
+Example 12:
+Text: Hi Dirk. Does the two books you cited for the heavy Belgian <url> losses have any info of how many Gladiators the Belgians lost, and perhaps what losses they incurred on the Germans?
+Annotation from annotator: 18
+
+Example 13:
+Text: On the third reading... Why not include an edit summary that tells me this? Why not revert my revert?
+Annotation from annotator: 12
+
+Example 14:
+Text: Hi, I see you voted "support" but in the neutral section. Would you like to move that to the support section?
+Annotation from annotator: 19
+
+Example 15:
+Text: Thanks. Now, if I had to make an infobox on "London" (just ''London'', I know there are many terms: Greater London, City of London etc), would it be correct to include the area/population/density of the territories I mentioned + the city area, or would just the city area suffice?
+Annotation from annotator: 18
+
+Example 16:
+Text: The file above does not meet the <url> so as to be copyrighted or eligible for fair use, as I had stated so on <url> when I first moved it there. What issues should be resolved?
+Annotation from annotator: 13
+
+Example 17:
+Text: Did you mean to also remove the Breitbart reference from the "Incidents" section?  Have I missed a meeting?
+Annotation from annotator: 16
+
+Example 18:
+Text: It does not appear to have attracted any participants other than Gerda. Perhaps adding a <person> template would draw in more participants?
+Annotation from annotator: 18
+
+Example 19:
+Text: The <url> has a request (header "<url>") left a few hours ago by someone who has pictures of signs in China but can't read them.  Would you please be willing to help?
+Annotation from annotator: 18
+
+Example 20:
+Text: Here's the FFD page: <url>. How do you know that the photograph was made pursuant to a law or ordinance or in connection with the transaction of official business?
+Annotation from annotator: 16
+
+Example 21:
+Text: I took a quick look and I'm not up to reading through it properly at the moment. :) I'll be back on here tomorrow morning and I'll have a look then, if that's OK?
+Annotation from annotator: 17
+
+Example 22:
+Text: Unfortunately, I'm still worried this may not be enough to avoid arguments.  <url> says "A separate rationale must be provided each time the image is used in an article."  Should we just copy the tag for every article using the logo?
+Annotation from annotator: 16
+
+Example 23:
+Text: Hello. Since you have contributed to <url> in the past, could you spare a minute to discuss the fate of <url>?
+Annotation from annotator: 20
+
+Example 24:
+Text: Also, all in all, I think Batman should be changed to <url>, not <url>, as the latter refers to those with superhuman powers or abilities, which he lacks. Thoughts?
+Annotation from annotator: 16
+
+Example 25:
+Text: LOL, I can't believe you reverted Kizzle's deletion of my summary at S & aQ. Did you actually like my summary?
+Annotation from annotator: 11
+
+Example 26:
+Text: Thank you for removing the "Speedy Deletion" from my post. I realise that I still need to do more work on the post itself, but are the sources that I am using acceptable?
+Annotation from annotator: 20
+
+Example 27:
+Text: I've never seen something go beyond AN/I myself, and I find it hard to believe the other two hadn't been tried by now. Or is it a case-by-case thing?
+Annotation from annotator: 10
+
+Example 28:
+Text: Hi Asbestos! This is kind of weird for me but I see that you are a participant in the photo project and list yourself as a photographer in Edinburgh and I was wondering if there was any possibility that you would be willing to respond to my recent request <url>?
+Annotation from annotator: 23
+
+Example 29:
+Text: The review has been up there for something like six weeks, I notice. Think you'll be able to take care of those last couple of things?
+Annotation from annotator: 10
+
+Example 30:
+Text: Done. I may have missed a few links when copying them across, so could you please look through it just in case?
+Annotation from annotator: 21
+
+Text: Katy, good buddy.  Is <url> your lost article?
+Annotation from annotator:

@@ -1,0 +1,124 @@
+Correct Examples:
+Example 1:
+Text: 100 guys? Yeah, we can barely wrangle up ten to do anything ever since the Bundy's got laughed out of town, twice, for standing up and doing something. No one wants to get laughed at by their "friends" while they rot in jail with no support. That's why none of us make a move. We don't receive the support from "our side", whatever the hell we call ourselves this week.
+Annotation from annotator: 0
+
+Example 2:
+Text: Hey Puerto Rico, take some fucking responsibility! I get that mother nature buttfucked you, but it's past time to move on.  Stop blaming Trump and get off your ass. Get YOUR politicians to move their asses!  https://www.nytimes.com/interactive/2018/09/20/us/puerto-rico-hurricane-maria-housing.html
+Annotation from annotator: 0
+
+Example 3:
+Text: How about the Jewish Question, did you answer that one yet?
+Annotation from annotator: 0
+
+Example 4:
+Text: I used to be a member and donated lots of money over the years. Trouble is, the NRA turned out to be a pack of pantywaist cucks no better than the GOP. Gun Owners of America was the only outfit with backbone.
+Annotation from annotator: 0
+
+Example 5:
+Text: @a‍ is #Gab under heavy load again? Things seem sluggish at times. Been wondering if it's another DOS-ing?
+Annotation from annotator: 0
+
+Example 6:
+Text: Even Gab can't let them follow you once you pass away though
+Annotation from annotator: 0
+
+Example 7:
+Text: Today's worst buy was $DWT which was bought at 11:09 AM EST for $11.09 (-1.98%). Today's buys +2.48% overall. All buys: @cholle on steemit.
+Annotation from annotator: 0
+
+Example 8:
+Text: Atomized moderns tend to forget that, for most of human history, sex ed was conducted by live & kicking human beings, frequently by both of whom one was immediately related.
+Annotation from annotator: 0
+
+Example 9:
+Text: Hi all, can anyone help me with confirming these statements are correct and sources confirming them thanks 1) Brennan has said the Russian hacking started in 2016 and probaby included the dnc email hack 2) did Brennan warn the dnc abt interference 3) did brennan warn dnc of hacking 4) did brennan warn RNC of interference continued
+Annotation from annotator: 0
+
+Example 10:
+Text: Texas is up first in the saddle Monday Jan 8th 2018 at SCOTUS...  https://www.oyez.org/cases/2017/22o141
+Annotation from annotator: 0
+
+Example 11:
+Text: It's a well established fact that many staff employed in private hospitals are also NHS employees. Nothing illegal in that, unless they're on a sickie from their NHS job. Some have even been caught working in one NHS trust, while on sick leave and on full salary from another.  Of course, few are ever prosecuted, but it does happen , occasionally.
+Annotation from annotator: 0
+
+Example 12:
+Text: I don’t matter what you invent history is on my side when you get an ignorant shit to restate imaginary history even if he is a British numbnut good for you
+Annotation from annotator: 0
+
+Example 13:
+Text: #AntifaFaggot UNC Professor Dwayne Dixon, charged with two misdemeanors for bringing a semi-automatic rifle to a rumored KKK rally. He will be charged with causing the death of Heather Heyer at CVille as well.The faggot's email is dedixon@email.unc.edu 
+Annotation from annotator: 0
+
+Example 14:
+Text: UBERMENSCHEIT: HEALTH PROTOCOLS 
+Annotation from annotator: 0
+
+Example 15:
+Text: YOU ARE FREE TV - SPACEFORCE: PART 1-Trump Back Doors Disclosure & Dumps H2O Agenda 21
+Annotation from annotator: 0
+
+Example 16:
+Text: @e looks pretty good to me. Thanks for finally getting to this. It will make the platform much easier for people like me to use.
+Annotation from annotator: 0
+
+Example 17:
+Text: Wil try find it on showbox tonight.
+Annotation from annotator: 0
+
+Example 18:
+Text: Starting on billionaire at the barricades the populist revolution from Reagan to trump by Laura ingraham
+Annotation from annotator: 0
+
+Example 19:
+Text: Continuing to make plans for the release of Earnest the Writing Mouse. So excited! #GabWriters
+Annotation from annotator: 0
+
+Example 20:
+Text: Hi Gab! Just stopping by to drop off some SLAYER for you bloodthirsty #Metal heads \m/ Enjoy! https://www.youtube.com/watch?v=mN2NXfeVQvQ
+Annotation from annotator: 0
+
+Example 21:
+Text: Knock knock, it's the F.B.I. 
+Annotation from annotator: 0
+
+Example 22:
+Text: Whats his name?  Where does he live? 
+Annotation from annotator: 0
+
+Example 23:
+Text: Just remember it was not beauty that killed King Kong it was Hollywood
+Annotation from annotator: 0
+
+Example 24:
+Text: WHY ARE YOU ALL SUCH MASSIVE SWEDISH HOMOSEX'S?
+Annotation from annotator: 1
+
+Example 25:
+Text: 'crugwell only do pragmatic fbi informing but nao whole tribe mad at crugwell'
+Annotation from annotator: 0
+
+Example 26:
+Text: So is #JurassicWorld : Fallen Kingdom dinosaur approved, #GabFam? Check out my review to find out. (Also be warned, I had to go into a little more detail on the plot than I normally would so there may be a few minor spoilers.) https://youtu.be/7qQMzoKXv5Q
+Annotation from annotator: 0
+
+Example 27:
+Text: maxine waters is not insane, she's a hateful old bitch. maxine needs her grill fired up.
+Annotation from annotator: 0
+
+Example 28:
+Text: KYLE IS A BADASS ! 
+Annotation from annotator: 0
+
+Example 29:
+Text: Kanye West; Alt Right Darling; https://youtu.be/kxSk4QYltVs
+Annotation from annotator: 0
+
+Example 30:
+Text: Girl Flowers Yellow Beauty Nature Summer Woman
+Annotation from annotator: 0
+
+Target Example:
+Text: And you are a liar ,I hate no one race , every race has it's good and bad .
+Annotation from annotator:

@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: You shouldn't use too many filters on your photos since you're basically lying about how you look.
+Annotation from annotator: 2
+
+Example 2:
+Text: Expressing feeling is best with someone you trust.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should keep interviews professional.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's understandable to feel sad when your relative hates you.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's good for a mom to care about their children.
+Annotation from annotator: 3
+
+Example 6:
+Text: It is ok to be bloated at times.
+Annotation from annotator: 3
+
+Example 7:
+Text: Is doesn't feel great to be abandoned by those who you love.
+Annotation from annotator: 3
+
+Example 8:
+Text: It is harmful to stay quiet.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's expected that partners care about the health of the person they're with.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's understandable that people go through difficult times in life.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's unexpected that there will be a mistake with your paycheck.
+Annotation from annotator: 3
+
+Example 12:
+Text: You should become comfortable with someone before you call them things that might upset them
+Annotation from annotator: 3
+
+Example 13:
+Text: You should be patient with others and realize we all move at our own pace.
+Annotation from annotator: 3
+
+Example 14:
+Text: You shouldn't talk badly about someone behind their back.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's bad to be passive aggressive in a relationship.
+Annotation from annotator: 3
+
+Example 16:
+Text: You should always keep in touch with your real parents.
+Annotation from annotator: 3
+
+Example 17:
+Text: You don't have to greet anyone that you don't want to.
+Annotation from annotator: 2
+
+Example 18:
+Text: If you're busy, you should let people know.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to call out someone's abuse.
+Annotation from annotator: 3
+
+Example 20:
+Text: You are expected to eat healthy foods.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's bad to let trivial things ruin a friendship.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to take charge of things.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't support lazy people.
+Annotation from annotator: 2
+
+Example 24:
+Text: It is normal to not communicate with people who aren't your friends.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's bad to not be honest with friends.
+Annotation from annotator: 3
+
+Example 26:
+Text: You should keep your pets indoors to keep them safe.
+Annotation from annotator: 2
+
+Example 27:
+Text: It is good to consider better educational opportunities.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's not okay to dictate what others can do with their lives.
+Annotation from annotator: 3
+
+Example 29:
+Text: It is unattractive to have too much body hair.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's encouraged not to be attached to an arbitrary location, especially if it's a public place.
+Annotation from annotator: 2
+
+Target Example:
+Text: You shouldn't surprise people.
+Annotation from annotator:

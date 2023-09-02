@@ -1,0 +1,2104 @@
+
+
+
+STARTED NEW IMPUTATION PROCESS AT 2023-04-12 11:34:35.162763
+
+Training models...
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6429604512135505
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5926801964642762
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5624564388145056
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7697190675857594
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7440268409624945
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7066975758505434
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7995297034680103
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7958016361552758
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7886762021275692
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0726546630637508
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8944514102055839
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7769487124059349
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.231040469437644
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2206246335983182
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.192984317253426
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2387380713210203
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2379526961849756
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.23633105687556
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1323340652427694
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1096941905451492
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.046138369096884
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1489565945133733
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1472561360120372
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1437506103139827
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1504582017734588
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1502926694829567
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1499606184558704
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6435891479695831
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.593433410372176
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5632329511486451
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7701481881127954
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.744511857802925
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7072557131978104
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7998932313904559
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7961735263539689
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7890640477138368
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.9497992542518578
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8465994405102137
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7959973013909329
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.226550807631659
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2047173752704587
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1395989449793535
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2405176387347094
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.239183263195639
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2363621886895033
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1322871057686625
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1096292908715917
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0460353726533338
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1489230602235228
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1472212759513385
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1437130084405216
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1504258355798016
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1502601750144357
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1499278665632064
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6423543013609048
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.592346825446389
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5624514314122088
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7689448216738809
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7432660888250561
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7059655255070367
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7987437787296559
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7950170309651311
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.787894191617809
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8826475478027433
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7995723844480164
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7656848128378643
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2214119033458302
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1772583490218984
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0666392129600173
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.246598700412228
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.244446659780061
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.239710879072914
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1322302652136544
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1095718490494595
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0459746267503889
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1488670401150058
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1471651660779534
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1436567283372299
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.150369899073177
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1502042292137193
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1498719022620165
+The best model was: <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Recreating the best model...
+Done recreating the best model
+Recomputing RMSE on validation set...
+Computing RMSE on test set...
+Best model results:
+Model:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Validation RMSE:
+    0.5624514314122088
+Test RMSE:
+    0.5678512407368893
+Getting imputed data...
+Finished imputation.
+
+
+
+STARTED NEW IMPUTATION PROCESS AT 2023-04-12 11:36:40.366240
+
+Training models...
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6337681507081157
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5859920701053265
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.555324671619176
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7626741831572748
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7366051947395795
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6988808894953447
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7928702765016236
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7891223294709268
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7819525876509945
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0508126731975886
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8702266877038128
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7514815261241664
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2271731048281522
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2157830692998357
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1859508286528597
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2356889779877027
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2348156945074986
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.233015628077125
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1319289599120286
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1090187490982857
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.044614064461273
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1487619839045258
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.14704009386157
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1434905613295452
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1502826375676238
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1501150057338068
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.149778744705532
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6332587647858575
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5853621379119253
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5546641290022173
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7623933597217405
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7362813101629975
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6984904112024602
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7926342704006898
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7888810543193497
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7817010148720203
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.9097910956034138
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7917625071363631
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7496977322531714
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2251467020891054
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2013200607709311
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1319221185150652
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2404754894628756
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.239019164501754
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.235933925823917
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1320042883751782
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1091222887726542
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0448024641410991
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.148818189019696
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1470982201548612
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.143552698645686
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1503371612658206
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1501697144094947
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1498338249156572
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6330930005551911
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5852558862868256
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5544027984752129
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.762241590598705
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.736140937868053
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6983634772693399
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7924736633170502
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7887215983040198
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7815438137766024
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8583005818383586
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7869075233894687
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7659899205312627
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2057334416139263
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1554904513933324
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0409084062090532
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.236750443273343
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2339704001175504
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2279192360968203
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1319687035708823
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1090792065521342
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0447358782002674
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1487882334366057
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.147067688765474
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1435209873949146
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1503077157759045
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1501402126982536
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.149804210493013
+The best model was: <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Recreating the best model...
+Done recreating the best model
+Recomputing RMSE on validation set...
+Computing RMSE on test set...
+Best model results:
+Model:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Validation RMSE:
+    0.5544027984752129
+Test RMSE:
+    0.5697932491618363
+Getting imputed data...
+Finished imputation.
+
+
+
+STARTED NEW IMPUTATION PROCESS AT 2023-04-12 11:39:05.483627
+
+Training models...
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6547508026684885
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.602697626005189
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5721461517745191
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7870738531065177
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7609736358239306
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7222919448973228
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8168889191501408
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8131985046311865
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8061233150808486
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0711069792770327
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8893007287011154
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7820406636839703
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2289017959968218
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.219580681667021
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.195073397981438
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2359370012884667
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2352113027053195
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2337190712841262
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.132196346974355
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.109900982544761
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.047182835659571
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1485675309125183
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.146892802516008
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1434400899052175
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1500464513346556
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1498834192304792
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1495563815745846
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6544827181525487
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6023004539448191
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5717566044949434
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7870987339352679
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7609375846685749
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7221627385652603
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8169739774954455
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8132765631006182
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8061876293307018
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.9482739162636759
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8326916864738125
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7646248465621202
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.219313236583245
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1939084620178215
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1279407243681003
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2363044196838286
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2346742874573484
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2312263619560786
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1322934354158556
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1100121975538115
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0473348131260443
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1486553649582552
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1469815791569558
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1435308386924188
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1501334632083575
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1499705216951814
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1496436660288596
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6547701875628005
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6027285599468108
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5723271336578047
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7871431907766471
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7610062831300757
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7222747563943217
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8169949924691539
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8133000510314907
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8062159538567986
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8647204903057794
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.797449528721317
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7725560139557772
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2123567544295648
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1660805947321606
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0501733842077576
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2406640436659069
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2381833526899706
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2327347562403952
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1323050025972716
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1100196200436905
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0473292343492866
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1486690654265341
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.14699509386445
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1435439509489174
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1501473207389952
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1499843621997847
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1496574722042567
+The best model was: <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Recreating the best model...
+Done recreating the best model
+Recomputing RMSE on validation set...
+Computing RMSE on test set...
+Best model results:
+Model:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Validation RMSE:
+    0.5717566044949434
+Test RMSE:
+    0.5738451127881915
+Getting imputed data...
+Finished imputation.
+
+
+
+STARTED NEW IMPUTATION PROCESS AT 2023-04-12 11:39:58.997964
+
+Training models...
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6049618183050409
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5603922556784658
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5435689496100451
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7352030532840835
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7082072094802223
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6693606164257233
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7665277736632378
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7626373027092277
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7551952852354076
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0533481935473061
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8584528689408001
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7381485680310896
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2256134999774615
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2139106575284535
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1836891783659471
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2343772792550254
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2334797500272383
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2316289389714195
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1278800850730606
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.104439285081221
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0386273389475214
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1451125860652984
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1433492326094787
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1397146644923728
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1466699461385523
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.146498262580259
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1461538781183593
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6039337755275767
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.559108759840637
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5420627263071844
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.734454245834091
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7074281701683758
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6685188094509564
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7658007893160655
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7619081401225927
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7544616146608851
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8905399659861465
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7598429875180279
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7003106314104701
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.222236327604976
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1983534979591313
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1269080432227865
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.237786352377901
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2362925661142505
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2331401240563187
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1277763915976688
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1043037799998137
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.038400470700865
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.145031637663585
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1432660002818018
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1396267101986437
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1465910089532951
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1464191041075895
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.146074275613389
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6038973890745939
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5591276352956367
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5422281735088165
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7343057460453855
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7072821677101135
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6683876427953572
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7656558095625118
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7617623030683188
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7543143572710566
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8231337997295018
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.733731858677997
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7177967584749626
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2155886953156385
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1705397330658507
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0587268543106587
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2426918598599281
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2402884509727672
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2350470979031487
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1278254344600152
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1043767006345775
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0385501711507654
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1450646563530462
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1433005960869653
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1396646091698455
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1466226479465782
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1464508946217582
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1461063705561132
+The best model was: <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Recreating the best model...
+Done recreating the best model
+Recomputing RMSE on validation set...
+Computing RMSE on test set...
+Best model results:
+Model:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Validation RMSE:
+    0.5420627263071844
+Test RMSE:
+    0.5549825582685681
+Getting imputed data...
+Finished imputation.
+
+
+
+STARTED NEW IMPUTATION PROCESS AT 2023-04-12 11:40:37.023805
+
+Training models...
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6443790606383504
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5955162717365575
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5623286199113252
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7599141661037794
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7372193216752541
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7036161528497508
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7859529468784117
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7827104438793289
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7765060613360297
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0684482823408394
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8949265212412564
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7734045621334482
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2206739373429125
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.210508539616673
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1841924335207104
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2283143001542332
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2275292512967884
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2259121998233686
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1229123911490533
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1009215019938197
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0401239034156888
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1391962656078394
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1375254110304895
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1340848823604766
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1406728258154109
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.140510009027197
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1401834414686434
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.64306745786728
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5942205224124263
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5609459001639056
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7587036981216707
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7359984253852706
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7023633260355824
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7847446995610681
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7815028306778653
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7752990619465019
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.9199878018573909
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.79474021298648
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7349165272810932
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2085527811130758
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1846567660889666
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1198229130060193
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2247943508177337
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2232098206379234
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2198826575833712
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1227840233285478
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1007649853857193
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.039879848613152
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.139086785591364
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1374140950057106
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.133969727480118
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.140564952989364
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.140401959873568
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.140075038112759
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.644032107050518
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5951504518781217
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5619232051080926
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7595995448063259
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7369218697032319
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7033116060551658
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7855944989675678
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7823587189029529
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7761662080156436
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8447639423230704
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7781393950671163
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.75353391458933
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2051845426991297
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1601066638515374
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.047532229991345
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.232108569929122
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2296610219769877
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2243837767508838
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1229346498885777
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1009353534401949
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0401081854888625
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1392231341521588
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1375519002615342
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1341105443252244
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1407000177544009
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1405371661236046
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1402105282614945
+The best model was: <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Recreating the best model...
+Done recreating the best model
+Recomputing RMSE on validation set...
+Computing RMSE on test set...
+Best model results:
+Model:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Validation RMSE:
+    0.5609459001639056
+Test RMSE:
+    0.5586594083729228
+Getting imputed data...
+Finished imputation.
+
+
+
+STARTED NEW IMPUTATION PROCESS AT 2023-04-12 11:41:19.427136
+
+Training models...
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6195036587177696
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5760027174249034
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5558819161407511
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7380024005117588
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7135877563888136
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6781982528277617
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7663075138278287
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7627874494999539
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7560542355047887
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0329150138844758
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8486703195044444
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7434103729316152
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2056129310760508
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1947824946064396
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1662359521344432
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2136990533312688
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2128706842454162
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2111629917231095
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1066854462614582
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.08332852142177
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0178749417571265
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.123858280964565
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.122100596945723
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1184774196569762
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1254105459062023
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1252394215954187
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1248961556499326
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6199870790791565
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5759454569560019
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5553690005276872
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7388837248853425
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7144292297376895
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6789474169262238
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7672098639741529
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7636877379004997
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.756949993631619
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8932345579715077
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7788340312069811
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7190297637764437
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2034706023393726
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1804843994402325
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.109415913106156
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2182304299928013
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.216818523070188
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2138343732252974
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.106664111604496
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0833123471305632
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0178770305943339
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.123833584910247
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1220762395975756
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1184537851871048
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.125385555723993
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1252144637815056
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1248712629967754
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6197897217365673
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5758981676036405
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5554218089351468
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7383705202714272
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7139705657995169
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6785784815071203
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7666427866938881
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7631268810163738
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7564013967931161
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8376774094470538
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7547757159903283
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7224664646806231
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1930417546189855
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.145071216209026
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0283074900535278
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.22145866345706
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2190324123924523
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2136657885788562
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1065616807529894
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0831917128519888
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0177103806168768
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1237445848332408
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1219858828005227
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1183606241551263
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1252977520388285
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.125126528413
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.124783063395136
+The best model was: <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Recreating the best model...
+Done recreating the best model
+Recomputing RMSE on validation set...
+Computing RMSE on test set...
+Best model results:
+Model:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Validation RMSE:
+    0.5553690005276872
+Test RMSE:
+    0.5656952297527391
+Getting imputed data...
+Finished imputation.
+
+
+
+STARTED NEW IMPUTATION PROCESS AT 2023-04-12 11:42:44.919179
+
+Training models...
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6464273203539941
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5973817201937127
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5642890780884217
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7704147480621224
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7464825144878269
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7110973693925513
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7980644888690829
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7946399375974439
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7880868998429489
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0459379312730854
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8664351963656063
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7690186234840555
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.223393014694504
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2120438455617482
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1823545381899383
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.231911691437938
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.231036665876081
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.229234506863734
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1307799961154712
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1077087855937529
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0429795203115797
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.147730312060251
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1459967587818516
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.142422924699112
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.149261198085565
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1490924419114155
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1487539228098407
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6463875964097274
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5975631084458352
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5645211901427212
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7701614528410741
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7462606624158991
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7109313091378308
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7977830480619422
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7943616959891804
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.78781498542372
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.9128670987377581
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8037349318640058
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7615529026636847
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.217021554994346
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1940141764882346
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.126230927221554
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2323539795361849
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2308617763781649
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2277285051656706
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1308859253221886
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1078205018521854
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0430985125726175
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1478307809310926
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1460978365678753
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.142525230823223
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1493611218070685
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1491924261426871
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1488540281857544
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6468944106261099
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5979403912602849
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5648309894206857
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7710800862434379
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7471258273070213
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.711697247001554
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7987521342162726
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7953253986934838
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7887677944379586
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8881072261716698
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7978632487754065
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7725710052229551
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2170186627538466
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1694925587395517
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0624494103062225
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2463458654162625
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2438458825310799
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.238298847876694
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.13114165603577
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1080996693585914
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.04343434757247
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.148068410661041
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1463373770255088
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1427686837357014
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1495970584859452
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.149428549970189
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1490905271919563
+The best model was: <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Recreating the best model...
+Done recreating the best model
+Recomputing RMSE on validation set...
+Computing RMSE on test set...
+Best model results:
+Model:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Validation RMSE:
+    0.5642890780884217
+Test RMSE:
+    0.5534644732117501
+Getting imputed data...
+Finished imputation.
+
+
+
+STARTED NEW IMPUTATION PROCESS AT 2023-04-12 11:46:30.264549
+
+Training models...
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6225149853429216
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5761260021968247
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5495382777560123
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7401602116190285
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7170231031795021
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6835456037270301
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7673090543677419
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7639227687644918
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7574619248886486
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0491964847974697
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8751837171551936
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7581512858373736
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2042534681032993
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1944743860418672
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1687787264795173
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2115936340710431
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.210839036535435
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.209285420888831
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1047115883591054
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0827810058272969
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0220401022150758
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1209380148003016
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.119273222844496
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.115844820920643
+Validation RMSE:
+    <Model: factors=4 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1224091106604337
+Validation RMSE:
+    <Model: factors=4 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1222468980610503
+Validation RMSE:
+    <Model: factors=4 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.121921539073897
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6225410543692048
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5761650914778715
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5493573168682528
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7405231160476291
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7173118630650901
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6837215182538288
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7677562368314377
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7643598155759842
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7578792340932007
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.922792708432173
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.8032984507490571
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7526666618058181
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2028175974264634
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1813498939891895
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.120239172750472
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2168708094141976
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2155238062696454
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2126774455535418
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1047539492996241
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.082836769156457
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0221331657158128
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1209715871252166
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.119307668969567
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.115881107667078
+Validation RMSE:
+    <Model: factors=2 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.122441922557613
+Validation RMSE:
+    <Model: factors=2 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1222797935247804
+Validation RMSE:
+    <Model: factors=2 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1219546025406415
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6226716051769573
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5763674628233699
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.5497380628072496
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7402805202641413
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7171242549771468
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.6836282831518876
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7674593307641818
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7640689374295674
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7576003638276334
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.862224423248605
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7915782717358476
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 0.7653668274377926
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1844325617301947
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1346693985435128
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0353253579517212
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2162362991950721
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.213485569410621
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=rbf gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.2074153529887968
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1046740414808964
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0827545029665295
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.0220558306874037
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1208948792575075
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1192305818815549
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1158032860758074
+Validation RMSE:
+    <Model: factors=1 epochs=1 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.122365561004164
+Validation RMSE:
+    <Model: factors=1 epochs=2 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1222033933338678
+Validation RMSE:
+    <Model: factors=1 epochs=4 kernel=sigmoid gamma=auto reg=0.01 lr=0.0001 init_mean=0 init_sd=0.1 seed=85>
+    RMSE: 1.1218781252755632
+The best model was: <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Recreating the best model...
+Done recreating the best model
+Recomputing RMSE on validation set...
+Computing RMSE on test set...
+Best model results:
+Model:
+    <Model: factors=2 epochs=4 kernel=linear gamma=auto reg=0.01 lr=0.01 init_mean=0 init_sd=0.1 seed=85>
+Validation RMSE:
+    0.5493573168682528
+Test RMSE:
+    0.6072948988286886
+Getting imputed data...
+Finished imputation.

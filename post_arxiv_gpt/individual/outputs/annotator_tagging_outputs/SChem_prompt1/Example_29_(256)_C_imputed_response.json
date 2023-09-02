@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PZecLhqwvnwOI9oYSXqX1hjpz0BS",
+    "object": "chat.completion",
+    "created": 1686329610,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 510,
+        "completion_tokens": 73,
+        "total_tokens": 583
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to predict how annotator C might label this example, as their previous annotations do not provide a clear pattern. However, based on the wording of the statement, it is possible that annotator C may label it as a 3.0 (common), as many people may agree that it is good to have something they love deeply in their life."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

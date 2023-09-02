@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: You shouldn't accuse your parents of doing things.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's not okay to make someone feel worthless.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should not pursue a relationship with someone much younger than you.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's okay to be angry and file a complaint against a supervisor making sexual advances towards you.
+Annotation from annotator: 3
+
+Example 5:
+Text: You shouldn't do something that would make social services show up.
+Annotation from annotator: 4
+
+Example 6:
+Text: You shouldn't jaywalk because it's illegal.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's understandable to be scared to change and try new things
+Annotation from annotator: 3
+
+Example 8:
+Text: You have the right to date anyone you choose.
+Annotation from annotator: 3
+
+Example 9:
+Text: You can't expect people to own up to their mistakes.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's wrong to tell your partner they are selfish.
+Annotation from annotator: 2
+
+Example 11:
+Text: You should know your own physical limits.
+Annotation from annotator: 3
+
+Example 12:
+Text: You're expected to talk to your roommate.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't write fake confessions online.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's wrong to demand special attention from people who aren't your spouse.
+Annotation from annotator: 3
+
+Example 15:
+Text: You should always try to be understanding of others and their confessions.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's ok to break up with someone who cheated on you.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to avoid people who hate you.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's expected that people feel satisfied when they do too much of some things, which is why they continue to do them past the point of safety.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's rude to tell someone to stop sitting by you.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's fine to not want to get involved with family fighting.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's bad to do illegal drugs.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is expected that there will be disagreements in a relationship.
+Annotation from annotator: 3
+
+Example 23:
+Text: Sometimes people need a dose of their own medicine.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's bad to arrive to work dishevelled.
+Annotation from annotator: 3
+
+Example 25:
+Text: You shouldn't ignore someone talking to you to look at your phone.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's good to have someone's favorite food with them.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's rude to decline food that a host offers you.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's important to prioritize your own mental health.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's not okay to not deal with your emotional problems.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't yell at your roommates.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's good to help your kids with homework.
+Annotation from annotator:

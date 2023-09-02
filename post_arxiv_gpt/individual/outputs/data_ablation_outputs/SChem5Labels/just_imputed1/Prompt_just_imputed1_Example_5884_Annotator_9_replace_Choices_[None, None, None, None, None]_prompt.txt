@@ -1,0 +1,122 @@
+Example 1:
+Text: You shouldn't judge a restaurant you haven't eaten at.
+Annotation from annotator: 2
+
+Example 2:
+Text: It is expected that people don't break their bones on purpose.
+Annotation from annotator: 4
+
+Example 3:
+Text: It is good to have good hygiene.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's not okay to kill a living creature.
+Annotation from annotator: 2
+
+Example 5:
+Text: It bad to abuse others.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to help people learn about themselves.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's allowed to take some time to become savvy with money.
+Annotation from annotator: 2
+
+Example 8:
+Text: You should masturbate in private and not in public.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is okay to not be able to control who you are attracted to.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's understandable to not like eating vegetables.
+Annotation from annotator: 2
+
+Example 11:
+Text: You should always be there for someone who is suicidal.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's understandable to be scared when presented with a new situation.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's kind to support a person going thru a medical crisis.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is good to talk to other people who are similar to you if you do not like something about youself.
+Annotation from annotator: 3
+
+Example 15:
+Text: It can be unsafe to allow your dog to lick you.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's good to want to be student of the month when you're a kid.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's good to go running every day so you can get healthy.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is expected that you pay your taxes
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to be there for your ex's funeral.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's not okay to let yourself feel childish.
+Annotation from annotator: 2
+
+Example 21:
+Text: You should get more formal clothes if all you wear are casual clothes.
+Annotation from annotator: 2
+
+Example 22:
+Text: You shouldn't hold onto the past if it interferes with your family life.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's bad to hate all people.
+Annotation from annotator: 3
+
+Example 24:
+Text: It can be difficult to get over a breakup.
+Annotation from annotator: 3
+
+Example 25:
+Text: You shouldn't waste your time.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's ok to stand up to a parent with they do you wrong.
+Annotation from annotator: 2
+
+Example 27:
+Text: You should apologize if you assault someone.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's good to be honest about your situation at work.
+Annotation from annotator: 3
+
+Example 29:
+Text: If you think you will be helping them it is acceptable to tell on your sibling for using drugs
+Annotation from annotator: 2
+
+Example 30:
+Text: It's OK to keep your emotions in check.
+Annotation from annotator: 3
+
+Text: You should seek mental help from a professional if you fantasize about your life ending.
+Annotation from annotator:

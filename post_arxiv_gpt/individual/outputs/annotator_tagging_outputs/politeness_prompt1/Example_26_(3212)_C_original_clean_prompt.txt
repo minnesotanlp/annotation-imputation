@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: I was trying to be sarcastic, ok??
+Annotation from annotator: 8.0
+
+Example 2:
+Text: "Cactus League", eh? Let's see... what does Liebman have in common with the type of pain you might get from a cactus needle?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: Very strange, how come I can see all the other posts? How do I clear the cache - do you know?
+Annotation from annotator: 12.0
+
+Example 4:
+Text: I added mention of the river. The info for <url> says the picture was taken in <url>; is that city located on the river?
+Annotation from annotator: 12.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: That looks better. I think I'm about done now, but old Theobald's still at FAC isn't he?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: I notice you are still contributing to Wikipedia, but have not responded to my argument. Do you now agree with the argument I suggested?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: I have started to fix it.  Can you help?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: Also, 'topological proof'? Isn't 'proof' a bit strong?
+Annotation from annotator: 12.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Respectfully, you've replied to the message below mine a day ago now. Could you provide guidance for my request please?
+Annotation from annotator: 16.0
+
+Example 2:
+Text: I would advise against creating seperate articles for individual characters and stick to the list. Is this what you'd expect a typical encyclopedia to be covering?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: I don't want to be your enemy. What can I do to help this situation?
+Annotation from annotator: 20.0
+
+Example 4:
+Text: I see your point, but my real issue was wanting to add the 'too much trivia' tag as all these 'minor aspects' need to be integrated into the relevant sections (I'll have a go myself if I get time). Isn't it possible to create a 'pop culture references' section and then siphon it off into a separate page when it gets too big?
+Annotation from annotator: 16.0
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: The Gestalt Prayer (and it's modified version missing the last line, as the article explained) is of cultural and historical importance. Why was it removed?
+Annotation from annotator:

@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: @FL_Studio a cleaner look... and remove the old "pattern playlist". And only have the "track/song playlist"... And new plugins
+Annotation from annotator: 3
+
+Example 2:
+Text: @isaacboy aw man that sucks, apparently its worse when you get older!  X
+Annotation from annotator: 1
+
+Example 3:
+Text: Many young people feel that way.
+Annotation from annotator: 2
+
+Example 4:
+Text: I'm such an old lady
+Annotation from annotator: 0
+
+Example 5:
+Text: catching up with an old friend
+Annotation from annotator: 4
+
+Example 6:
+Text: @TheIrishGuy thanks for #ff sorry 4got i'm old
+Annotation from annotator: 1
+
+Example 7:
+Text: sitting at my sisters house, playing with my 4 month year old niece
+Annotation from annotator: 4
+
+Example 8:
+Text: @eyrae the one by my house or old town? And what do you mean WE?!!!
+Annotation from annotator: 2
+
+Example 9:
+Text: Not so much a dance classic.... but a definite old skool track!!    'NKOTB - Hangin Tough 1990'   __ http://blip.fm/~7t9x5
+Annotation from annotator: 3
+
+Example 10:
+Text: @lessig happy birthday old man  have a beautiful day.
+Annotation from annotator: 4
+
+Example 11:
+Text: This is beyond terrible...my friends 18 yr old daughter jumped off the skyway bridge this morning. She was a beautiful girl...such a loss
+Annotation from annotator: 0
+
+Example 12:
+Text: @jorjafoxonline well i spose she IS getting older...but....all through csi she had straight hair...im kinda used to it
+Annotation from annotator: 1
+
+Example 13:
+Text: @TheEngTeacher young man... love it. Feeling ancient at the moment. Good night
+Annotation from annotator: 1
+
+Example 14:
+Text: My whole life is full of problems and I only wish to live a new one and to escape from the old...
+Annotation from annotator: 0
+
+Example 15:
+Text: @demios101 she won't let me T_T it's really old and pilly
+Annotation from annotator: 1
+
+Example 16:
+Text: Going to my old school
+Annotation from annotator: 4
+
+Example 17:
+Text: @Jozz_WildChild yey!!! I miss my old cat!!  won't be able to have one for at least another two years, gutted!
+Annotation from annotator: 1
+
+Example 18:
+Text: @SingleSyllable You can win a hamper of Body thrill products  by entering a little old short story competition running on my blog
+Annotation from annotator: 4
+
+Example 19:
+Text: @SVP_CO_UK  only 1 delivery option for making 7 total for 1p kite? I miss the old SVP
+Annotation from annotator: 1
+
+Example 20:
+Text: @jordanknight P.S. our 2 yr. old son is the same way, he dances to EVERYTHING. Maybe we have the start of ABDC of 2029!
+Annotation from annotator: 4
+
+Example 21:
+Text: @JEFFHARDYBRAND legend Jeff! What you reckon to Kat (ECW), old UK mate from York! Olden days
+Annotation from annotator: 3
+
+Example 22:
+Text: @MerlottesBar okay..it's 'the old' then   driving when you can't see over the steering wheel, swerving down the road....
+Annotation from annotator: 1
+
+Example 23:
+Text: @ChrisMiller38 well i just think you a bit too old for me  lol thats all.
+Annotation from annotator: 1
+
+Example 24:
+Text: Got a new phone at last. Just in time, my mums obsessing about finding my old one  Many pics to follow.
+Annotation from annotator: 3
+
+Example 25:
+Text: @jaxn You gotta hit the 0day sites for hours old warez content. I used to run a warez ftp site when I was 17.
+Annotation from annotator: 1
+
+Example 26:
+Text: @swfmaster I know man that is the sad part  .... and im not sure if another story gonna be as fun as the old one .
+Annotation from annotator: 1
+
+Example 27:
+Text: @Michela_Fleury I'm getting old! I'm not hip anymore  haha
+Annotation from annotator: 3
+
+Example 28:
+Text: My 13 year old broke his arm last night at a B-day party. ER's at 1:00am are scary. Bummer. And he was to drum at church tomorrow.
+Annotation from annotator: 0
+
+Example 29:
+Text: @drop_d Thanks Daniel.  That's my Nabi. She's a deaf white cat, and I got her as an orphan when she was 6 days old.
+Annotation from annotator: 3
+
+Example 30:
+Text: @kimgoss i been saying that the past 2 weeks that i miss playing spades and drinkin chillin.. the good old days.. let me know baby
+Annotation from annotator: 1
+
+Target Example:
+Text: @tommcfly @gfalcone601 awh its like the older kids are meeting the new baby for the first time! Definitely a big day in ur house today
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

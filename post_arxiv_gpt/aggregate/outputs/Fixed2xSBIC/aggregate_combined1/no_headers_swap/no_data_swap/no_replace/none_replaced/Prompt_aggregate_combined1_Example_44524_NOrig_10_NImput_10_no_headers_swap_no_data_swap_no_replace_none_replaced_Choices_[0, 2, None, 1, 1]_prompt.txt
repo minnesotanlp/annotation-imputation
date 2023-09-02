@@ -1,0 +1,83 @@
+Example 1:
+Text: Now that person has been doxxed on 8chan. And despite this being the person who posted my &amp; others' home address, suddenly he sees a problem
+Annotation: 0
+
+Example 2:
+Text: bar results are coming out tomorrow(ish) and i literally can't fucking breathe.
+Annotation: 0
+
+Example 3:
+Text: When I have a big challenge, I'm inspired by Ayrton Senna.... Then I die halfway.
+Annotation: 0
+
+Example 4:
+Text: I need to be careful with the decoy breakfast choices I offer. Not sure how long my kid will believe the store was out of grilled bear.
+Annotation: 0
+
+Example 5:
+Text: What did hitler say to his soldiers? Shoot for the stars
+Annotation: 2
+
+Example 6:
+Text: Women are now against the draft since women will be included soon
+Annotation: 1
+
+Example 7:
+Text: Japanese people are bad pilots They always crash into ships
+Annotation: 2
+
+Example 8:
+Text: Thank you all so much for following  @Crackamachakka  @TheRealAlt-Right @kekistanid  @RockstarTobi  @Ultranationalist @anax @Catherine  @Clarice4Trump  @Lee1948  @Moonman888  @jflippo1327
+Annotation: 0
+
+Example 9:
+Text: I went to buy gars and this random nigga gone ask if I wanna match......nigga no! don't know you
+Annotation: 0
+
+Example 10:
+Text: &gt;he doesn't know threads are automatically removed unless you're approved
+Annotation: 0
+Imputed Majority-voted Examples:
+Example 1:
+Text: RT @hates_cole97: Omgggggg yes you already fucking no &#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128557;&#128557;&#128557;&#128557;&#128557;&#128557;&#128557;&#128557; https://t.co/fKDHBCwEfa
+Annotation: 0
+
+Example 2:
+Text: YOU FUCKING GO SHIVA.AAAAA. YOU FUCKING GOOOOOOO #thewalkingdeaduk
+Annotation: 0
+
+Example 3:
+Text: RT @LocalEmoMom: pennywise, sweetie. im so sorry. im so sorry that a ugly ass bitch like this would even say that, oh my god. https://t.co/…
+Annotation: 2
+
+Example 4:
+Text: U ever seen a bitch talk shit about another bitch then U see them hanging together?
+Annotation: 2
+
+Example 5:
+Text: You have to admit that they look like a scrawny desert chicken hence my use of that name over Roadrunner .
+Annotation: 0
+
+Example 6:
+Text: Why do you listen to 'Chinese music?' You don't even understand and they all look the same anyways.
+Annotation: 2
+
+Example 7:
+Text: lots of people do n't know that many free blacks owned slaves before the slaves were freed . apparently . <repeat> indifference to black - on - black crime is not a new thing .
+Annotation: 1
+
+Example 8:
+Text: So excited for the latest series of @RuPaulsDragRace. Love all the contestants​ so far. Minus Trinity. Really not feeling her &#128567;
+Annotation: 0
+
+Example 9:
+Text: Passion love? Not dreaming anymore, You cant give me my dreams they are mine anyway. I'd been lost I'd been found but I dont feel down.
+Annotation: 0
+
+Example 10:
+Text: @chrisrmz95 dude was a bitch nigga and took off running
+Annotation: 1
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Text: Why was 6 afraid of 7? Because 7 αte 9, that's fucking why
+Annotation:
+Your output should be a single integer and nothing else.

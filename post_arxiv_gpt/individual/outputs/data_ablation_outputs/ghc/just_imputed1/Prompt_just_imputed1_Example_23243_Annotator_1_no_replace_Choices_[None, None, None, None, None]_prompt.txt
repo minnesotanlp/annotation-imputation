@@ -1,0 +1,122 @@
+Example 1:
+Text: I hope she has time ti campaign for more democrats ;-) //Hillary Clinton Viewed as 'Kiss of Death' for Democratic Candidates | Breitbart https://www.breitbart.com/politics/2018/10/13/hillary-clinton-viewed-as-kiss-of-death-for-democratic-candidates/
+Annotation from annotator: 0
+
+Example 2:
+Text: Why are you claiming it is in bad faith? 
+Annotation from annotator: 0
+
+Example 3:
+Text: Turchin also expects a spike in violence using different model/data to arrive at similar conclusion 
+Annotation from annotator: 0
+
+Example 4:
+Text: The only snake I have liked at first sight https://www.youtube.com/watch?v=eMop3wyGC_Y
+Annotation from annotator: 0
+
+Example 5:
+Text: This was definitely not a coydog, much too large, and the features were to different, it almost looked like a mildy retarded wolf?
+Annotation from annotator: 0
+
+Example 6:
+Text: Bowl Drawing for Control of VA House RSBN.TV #DrainTheSwamp #RSBN #MAGA https://youtu.be/tzurmeZWqUc
+Annotation from annotator: 0
+
+Example 7:
+Text: They are the next Cloward and Piven. Just... you... watch.
+Annotation from annotator: 0
+
+Example 8:
+Text: I think they used to call it a double standard/
+Annotation from annotator: 0
+
+Example 9:
+Text: Hello, there you are lol! Yes, enjoy the Q :-) @RhiHu
+Annotation from annotator: 0
+
+Example 10:
+Text: https://files.catbox.moe/1a0bss.png Gary Webb died for the Sins of the government
+Annotation from annotator: 0
+
+Example 11:
+Text: Not sure what date afterwards we went from constitutional republic to a corporation, primarily owned/ran by Britain. It is why it is so hard to rid our "gov" of all the lawyers/politicians. Most think we have been a "free" country all of this time. Few even will look into the truth, let alone believe all of the documentation out there to see..
+Annotation from annotator: 0
+
+Example 12:
+Text: You hate Hitler? Alright cool. Was looking for something we could agree on. Found it.
+Annotation from annotator: 0
+
+Example 13:
+Text: I love how these slimeballs start every one of their brain farts with a little condescending catchphrase. In the end takes like this just show you how heartless and void of any redeeming value they are.
+Annotation from annotator: 0
+
+Example 14:
+Text: @RedPillMedia‍ this double photo. If photo 1 was posted some time ago and photo 2 recently with both photos being almost identical, then I can only come to only ONE CONCLUSION: Q comes or gets info from the future: The Future Proves The Past. How often has Q told us to EXPAND our thinking?
+Annotation from annotator: 0
+
+Example 15:
+Text: Some are blessings, some are lessons
+Annotation from annotator: 0
+
+Example 16:
+Text: I have a better idea. Let's disband the TSA and allow law-abiding citizens to carry concealed on airplanes. Time and time again it has been proven that when criminals suspect they might be challenged by deadly force at a location, they avoid those places. Or, make everyone fly in bathing suits, including Muslims. http://bit.ly/2HhzvjB
+Annotation from annotator: 1
+
+Example 17:
+Text: There are so many people that need to see this.  This is absolutely insane!
+Annotation from annotator: 0
+
+Example 18:
+Text: This is total BULL SHIT..http://www.breitbart.com/tech/2018/01/02/germany-to-begin-enforcing-hate-speech-laws-on-social-media-sites/
+Annotation from annotator: 1
+
+Example 19:
+Text: Graphic depiction of obvious 'Libtardation' in a percentage the deluded population#Humor #Politics #Libtardation
+Annotation from annotator: 1
+
+Example 20:
+Text: @amy spring rains are here, tell the hubby I am gonna one up him this year. Building a green house. :D
+Annotation from annotator: 0
+
+Example 21:
+Text: Waking up to this shit. Gahhhh!!!!
+Annotation from annotator: 0
+
+Example 22:
+Text: Hundreds of innocent bystanders have their jobs taken from them over a joke Roseanne tweeted & the number of Americans calling this censorship "justice" makes me want to puke. 
+Annotation from annotator: 0
+
+Example 23:
+Text: When did people's private lives become fodder for the masses! Shes said it wasnt inappropriate! Its nobodies business what grown adults do. All this shit is just to distract from the real stuff happening. 
+Annotation from annotator: 0
+
+Example 24:
+Text: Tabarnak! He should crawl back into his swamp.
+Annotation from annotator: 1
+
+Example 25:
+Text: All these people we have listed in the last few minutes have a connection to the clowns
+Annotation from annotator: 0
+
+Example 26:
+Text: KWS interdicts two rangers who were on duty when 12-year-old black rhino was killed at Lake Nakuru National Park; hunt for poachers ongoing.
+Annotation from annotator: 0
+
+Example 27:
+Text: My apologies I am just reading this 
+Annotation from annotator: 0
+
+Example 28:
+Text: Hmm, there's some detail left out in her left shoe.  Uh, uh, I mean yes!  Fanservice!  Me likey!
+Annotation from annotator: 0
+
+Example 29:
+Text: The war is afoot, we must end voter fraud the cia and fbi should be scattered tothe four winds
+Annotation from annotator: 0
+
+Example 30:
+Text: Firefox: will block 3rd party trackers in the upcoming. 
+Annotation from annotator: 0
+
+Text: @support tried uploading multiple trailers for my film but they haven't listed. You know what the issue might be?
+Annotation from annotator:

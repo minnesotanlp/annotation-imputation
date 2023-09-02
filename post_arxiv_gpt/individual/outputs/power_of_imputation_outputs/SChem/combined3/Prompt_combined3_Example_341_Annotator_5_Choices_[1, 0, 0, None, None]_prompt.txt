@@ -1,0 +1,233 @@
+Estimated Examples:
+Example 1:
+Text: You shouldn't expect others to pick up the tab for your mistakes.
+Annotation from annotator: 3
+
+Example 2:
+Text: You should not pursue a relationship with someone much younger than you.
+Annotation from annotator: 2
+
+Example 3:
+Text: You shouldn't want to be tortured.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good to trust those you care about.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's rude to support one person more than another.
+Annotation from annotator: 2
+
+Example 6:
+Text: You shouldn't rat out other people.
+Annotation from annotator: 2
+
+Example 7:
+Text: There should be trust in a relationship.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good for kids to have friends they can play with.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's wrong to lash out at someone.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's wrong to think you're responsible for somebody else's life
+Annotation from annotator: 2
+
+Example 11:
+Text: You shouldn't call out your family over petty things.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's understandable to not want to contribute work to a group project.
+Annotation from annotator: 1
+
+Example 13:
+Text: It's wrong to want to hide who you really are.
+Annotation from annotator: 2
+
+Example 14:
+Text: You shouldn't try to get sympathy from people just because you're in the hospital.
+Annotation from annotator: 2
+
+Example 15:
+Text: Relationships are expected to have clear communication.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to be mad at your friends for petty reasons.
+Annotation from annotator: 3
+
+Example 17:
+Text: People will think you're a coward if you refuse to help others.
+Annotation from annotator: 2
+
+Example 18:
+Text: You should tell your partner you don't want to be with them anymore.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to give advice to your friends.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't care who your friends hook up with.
+Annotation from annotator: 2
+
+Example 21:
+Text: It is distracting to pin everyone in an admin team on a discord server.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's wrong to value things over people.
+Annotation from annotator: 3
+
+Example 23:
+Text: Parents should involve children in their problems
+Annotation from annotator: 1
+
+Example 24:
+Text: It's wrong to assume someone has a disability because they talk differently.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to recognize the problems with being attracted to someone much younger than you.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 3
+
+Example 27:
+Text: You're supposed to date for love and not looks.
+Annotation from annotator: 2
+
+Example 28:
+Text: You shouldn't be a dangerous person.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't wear a nightdress if you're male.
+Annotation from annotator: 2
+
+Example 30:
+Text: If you eat someone's food, you should let them know.
+Annotation from annotator: 3
+
+Human-rated Examples:
+Example 1:
+Text: It is common for there to be conflicts with your in-laws.
+Annotation from annotator: 2
+
+Example 2:
+Text: It is good to give your kids life advice.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's understandable if you're suspicious when a widower in your family gets together with a widower soon after their spouse's died.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's good to find proof of cheating you perceive to be happening.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's selfish to expect your husband to give you his entire estate.
+Annotation from annotator: 2
+
+Example 6:
+Text: It's wrong for people that care about each other to argue.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's good for a mom to care about their children.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's okay to have sex on camera.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's okay to be suspicious when your friend is keeping secrets.
+Annotation from annotator: 3
+
+Example 10:
+Text: You shouldn't let people who claim to be fashion police criticize your clothes.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good for a parent to want their children to make the best decisions possible.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's not okay to teach kids things they aren't ready for.
+Annotation from annotator: 2
+
+Example 13:
+Text: You shouldn't get involved in family drama.
+Annotation from annotator: 2
+
+Example 14:
+Text: People shouldn't betray the trust of those they're close to.
+Annotation from annotator: 4
+
+Example 15:
+Text: You should not emotionally abandon your partner.
+Annotation from annotator: 3
+
+Example 16:
+Text: You don't owe a partner an explanation of past relationships.
+Annotation from annotator: 2
+
+Example 17:
+Text: You shouldn't have second thoughts about having kids if your wife gets pregnant because it's too late by then.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's okay to not know how to drive.
+Annotation from annotator: 3
+
+Example 19:
+Text: You shouldn't worry your family.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's wrong to spend other people's money.
+Annotation from annotator: 2
+
+Example 21:
+Text: You can't expect everyone to like you.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's irresponsible to have a lot of dust in your home.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's bad to feel other people are inferior to you.
+Annotation from annotator: 3
+
+Example 24:
+Text: You should be happy when someone wants to invest in your company.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's noble to be true to yourself.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's not okay to have to rely on special tools when they aren't really needed.
+Annotation from annotator: 2
+
+Example 27:
+Text: It is dramatic to run to the doctor everytime your child feels sick.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's okay to be annoyed when someone begs you for something.
+Annotation from annotator:

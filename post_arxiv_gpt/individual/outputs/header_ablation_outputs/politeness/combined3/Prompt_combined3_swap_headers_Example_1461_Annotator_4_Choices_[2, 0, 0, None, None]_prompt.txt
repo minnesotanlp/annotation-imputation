@@ -1,0 +1,157 @@
+Estimated Examples:
+Example 1:
+Text: Hey i saw you make an edit i have a question do mods only do this? how does this process work?
+Annotation from annotator: 10
+
+Example 2:
+Text: Hello, I've written a page about the <url>, shamelessly copying the style from your CCT/FoFC lists. In the process, have I missed anything out?
+Annotation from annotator: 12
+
+Example 3:
+Text: Hi, I've added a question to your RfA. Also, could you elaborate on how you will ''prevent'' vandalism?
+Annotation from annotator: 13
+
+Example 4:
+Text: Looking through the discussion page history, the addition was made by <url> who is still active on wikipedia. Why not try a message on <url>?
+Annotation from annotator: 11
+
+Example 5:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation from annotator: 3
+
+Example 6:
+Text: So why then does the lead stat in Christianity need a reference? Isn't it being contained in the article good enough?
+Annotation from annotator: 4
+
+Example 7:
+Text: Inch es gartsum? <url>...do you have email by the way?
+Annotation from annotator: 10
+
+Example 8:
+Text: The article <url> doesn't give any sources we can check to prove that it's true. I checked on google and I could find almost nothing about him, is it possible that you could <url> a website or a printed source like a book or newspaper report which discusses him?
+Annotation from annotator: 11
+
+Example 9:
+Text: Did you see JzG <url> James Cantor that his alleged COI prohibits him from editing any BLPs related to his academic field?  Didn't the AN discussion after the last round actually repudiate JzG's stance on this?
+Annotation from annotator: 6
+
+Example 10:
+Text: How are recognizing and not recognising defined in this context? The country has explicitly and officially stated that they do or do not recognise the State of Palestine?
+Annotation from annotator: 6
+
+Example 11:
+Text: I guess I sent you something about the <url> project and Welsh data. But you were also somehow silent on lists like gnome-i18n, weren't you?
+Annotation from annotator: 6
+
+Example 12:
+Text: So these are facts, and they are true. Is there some sort of guideline for using direct personal evidence?
+Annotation from annotator: 9
+
+Example 13:
+Text: Hello Sirmyles, I noticed a puzzling section on <url> that could only have been written by you (about the parallels with Shiite law). I would appreciate if you could identify a source that could possibly support this assertion?
+Annotation from annotator: 12
+
+Example 14:
+Text: just wondering how the chapters were going. you think they are notable enough to have their own article?
+Annotation from annotator: 8
+
+Example 15:
+Text: Since the "discussion" was not advertised at the affected pages, it did not involve the "community". Do you not see that?
+Annotation from annotator: 2
+
+Example 16:
+Text: What do you mean by "not a derivative of Formula 3 article"? Why did you feel compelled to remove the link to the main F3 article off the top of all the F3 sub-articles?
+Annotation from annotator: 3
+
+Example 17:
+Text: Hi. I would argue that a consensus is far from being reached, so I'm wondering why you have went ahead and starting changing links?
+Annotation from annotator: 4
+
+Example 18:
+Text: Dougweller, I still don~t understand. Are you saying Antonio Rumeu de Armas is a primary source BUT Samuel Elliot Morison is not a primary source?
+Annotation from annotator: 8
+
+Example 19:
+Text: <url>.. it doesn't really explain what the issue was. Can you word it better?
+Annotation from annotator: 6
+
+Example 20:
+Text: Your bot runs awfully fast. How come there isn't "using AWB" in the edit summary?
+Annotation from annotator: 7
+
+Example 21:
+Text: You mean "the higher solubility in the ocean"? Solubility of what?
+Annotation from annotator: 4
+
+Example 22:
+Text: I think if we did it that way, it would add a lot of possibilities to the page, enabling us to give breakdowns of other wars and major events in separate tables as well, in addition to alternative listings, which I think would be quite useful. Because there are a lot of events with different aspects to them that could be covered in more detail IMO, what do you think?
+Annotation from annotator: 13
+
+Example 23:
+Text: The editor that made this <url> is arguing that another article includes more than 10 reviews, therefore this one can. What is the name of policy/guideline about not referring to other articles, so that I can refer to it in explaining to him why his argument is wrong?
+Annotation from annotator: 9
+
+Example 24:
+Text: Somebody keeps moving the Shannan Prefecture to Lhoka Prefecture. What is your view on this?
+Annotation from annotator: 8
+
+Example 25:
+Text: I am out of YUBC (I wonder myself how can I even post here). Could you do it?
+Annotation from annotator: 8
+
+Example 26:
+Text: Seems like the troll committed suicide this morning. I don't know why; perhaps not enough fun?
+Annotation from annotator: 3
+
+Example 27:
+Text: I noticed you've been adding the template <person> to pages - I'm sure there's a good reason but I'm totally puzzled as to why. Can you explain what it does?
+Annotation from annotator: 11
+
+Example 28:
+Text: If you live in Oslo, you probably know this better than me, but I took a look at <url> at trafikanten.no and it seems that line 1 still operates to Bergkrystallen during the rush hour. Can you check this out and if necessary restore the line 1 links to the affected station articles?
+Annotation from annotator: 10
+
+Example 29:
+Text: Creating and improving images, or just placing them in articles/making sure they have the right copyrights/etc.?
+Annotation from annotator: 7
+
+Example 30:
+Text: Hi, we worked on a few Australian-related articles together. May be you want to make a look on my <url>?
+Annotation from annotator: 11
+
+Human-Rated Examples:
+Example 1:
+Text: The film noir edits are continuing. Given the sockpuppetry, is WP:AIV appropriate without further warnings?
+Annotation from annotator: 12
+
+Example 2:
+Text: Among the measures you described, it sounds as if the next thing to try is option-command-start and rebuild the desktop. Does rebuilding the desktop mean I'd get a blank and have to restore all the icons?
+Annotation from annotator: 12
+
+Example 3:
+Text: Thank you. Do you have any tips on the Kathy Dunderdale article to improve it?
+Annotation from annotator: 16
+
+Example 4:
+Text: There's an interesting discussion here: <url>. Care to explain?
+Annotation from annotator: 6
+
+Example 5:
+Text: I must be missing something here.  Would you mind clarifying for me the nature of your extensive work on <url>?
+Annotation from annotator: 5
+
+Example 6:
+Text: The history section appears to be copied and pasted directly from somewhere. Is this a copyvio issue?
+Annotation from annotator: 12
+
+Example 7:
+Text: You said a user can't be blocked until their last warning. Who has the authority to give a last warning?
+Annotation from annotator: 7
+
+Example 8:
+Text: Thanks for the tip.  How come I sometimes come across pages where the trailing 's' is left off (or am I confusing that with the 's situation)?
+Annotation from annotator: 11
+
+Target Example:
+Text: I noticed that you have a little note at the top saying your status. How do you do that?
+Annotation from annotator:

@@ -1,0 +1,7 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Target Example:
+Text: I want to send you a private message, but you don't have an e-mail address registered with your Wikipedia account. How could I contact you?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

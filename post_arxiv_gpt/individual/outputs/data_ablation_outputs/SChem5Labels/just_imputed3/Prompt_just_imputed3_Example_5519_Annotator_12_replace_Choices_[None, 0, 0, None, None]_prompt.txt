@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's rude to leave your shoes laying around.
+Annotation from annotator: 2
+
+Example 2:
+Text: You shouldn't bribe people.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's expected that people you associate with will learn your name.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's good to want to take care of your children.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's rude to spy on people through Facebook.
+Annotation from annotator: 3
+
+Example 6:
+Text: You're expected to stand by your friend if they are depressed.
+Annotation from annotator: 4
+
+Example 7:
+Text: It is good to apologize to people you have harmed
+Annotation from annotator: 3
+
+Example 8:
+Text: It's fun to play sports with your friends.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's okay to be unsure what you want to do in the future.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's fine to eat anything you want.
+Annotation from annotator: 3
+
+Example 11:
+Text: You shouldn't idolize family members.
+Annotation from annotator: 2
+
+Example 12:
+Text: It is good to turn someone down if they want to date and they are your best friends ex.
+Annotation from annotator: 4
+
+Example 13:
+Text: You should always demand respect for your things.
+Annotation from annotator: 3
+
+Example 14:
+Text: People should say kind things about themselves, to themselves.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's okay to splurge when you find something that you want.
+Annotation from annotator: 3
+
+Example 16:
+Text: Children are expected to speak in a respectful manner to their parents.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is lazy to ignore text because of the way it is formatted.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's impolite to make premature assumptions about people.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's okay to end a relationship if it isn't working for you.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's wrong to scam people over the phone.
+Annotation from annotator: 4
+
+Example 21:
+Text: You shouldn't lie just to reject date offers.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is okay to move on in life.
+Annotation from annotator: 4
+
+Example 23:
+Text: It is wrong to hide your sexuality from your significant other.
+Annotation from annotator: 4
+
+Example 24:
+Text: It is good to make sure people abide by laws and ordinances
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to get a spot of exercise when possible.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's expected that some people crave the attention of the masses.
+Annotation from annotator: 2
+
+Example 27:
+Text: When you retire, it's good to buy your dream home.
+Annotation from annotator: 2
+
+Example 28:
+Text: If you don't like something, you should tell other people so they don't get the wrong idea.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay to be annoyed when you're waiting on someone who keeps changing their outfit.
+Annotation from annotator: 3
+
+Example 30:
+Text: Purchasing black market organs is not okay.
+Annotation from annotator: 4
+
+Target Example:
+Text: It is good to tell the truth.
+Annotation from annotator:

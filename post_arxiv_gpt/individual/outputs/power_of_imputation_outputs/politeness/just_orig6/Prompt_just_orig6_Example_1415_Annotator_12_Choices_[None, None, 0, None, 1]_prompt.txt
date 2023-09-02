@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: I removed that second paragraph entirely, since the information is covered in the article.  Do you feel that the lead should be larger?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

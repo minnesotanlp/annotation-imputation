@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: European Resistance News 
+Annotation from annotator: 0
+
+Example 2:
+Text: Things are blooming and booming! 😊 Thank you
+Annotation from annotator: 0
+
+Example 3:
+Text: Patriots here in the land of the free, should set aside a day, like Aug 21st.... 
+Annotation from annotator: 0
+
+Example 4:
+Text: https://www.InternetBusinessSolutions.com - This site had the information I was looking for. #ibs #internet_business_solutions
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: http://www.breitbart.com/tech/2017/11/20/stonecold... Bunty King, Sam Hyde, Stone Cold Truth
+Annotation from annotator: 0
+
+Example 2:
+Text: Memorial Day http://www.kimdutoit.com/2018/05/28/memorial-day-2...
+Annotation from annotator: 0
+
+Example 3:
+Text: our government should be hanging this bitch
+Annotation from annotator: 0
+
+Example 4:
+Text: @Paraliegance I'm for keeping things at four it's fast enough
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: What a freakin' soap opera. Smoke and mirrors, distraction.
+Annotation from annotator: 0
+
+Example 2:
+Text: a simple fear of no alternatives essentially suffices in all cases. the only solution to this is an underlying guarantee. this seems painfully obvious. sure, there are distortions and pressures introduced, but that is largely the point. they are not unintended, but intended. employment acquisition must be a fluid, continuous infrastructure along the
+Annotation from annotator: 0
+
+Example 3:
+Text: Repost. I wrote it last night. I truly think we need a return to better music than we are fed.  
+Annotation from annotator: 0
+
+Example 4:
+Text: Are they planning to start a family?
+Annotation from annotator: 0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: Explaining my thought process when crap like this happens. I try to be consistent
+Annotation from annotator:

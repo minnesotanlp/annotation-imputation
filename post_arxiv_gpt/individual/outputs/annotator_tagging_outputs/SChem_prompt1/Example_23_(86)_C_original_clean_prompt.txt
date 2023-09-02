@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+How annotator A has labeled some examples:
+Example 1:
+Text: It's selfish to expect your husband to give you his entire estate.
+Annotation from annotator: 4.0
+
+Example 2:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 2.0
+
+Example 3:
+Text: It's expected that you'll stay home from work when you are sick.
+Annotation from annotator: 4.0
+
+Example 4:
+Text: It is understandable for parents to want to take care of their child when they are in need.
+Annotation from annotator: 4.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: You shouldn't stop suddenly when someone is right behind you.
+Annotation from annotator: 4.0
+
+Example 2:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation from annotator: 4.0
+
+Example 3:
+Text: You don't owe a partner an explanation of past relationships.
+Annotation from annotator: 3.0
+
+Example 4:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 2.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: It's wrong to spend other people's money.
+Annotation from annotator: 3.0
+
+Example 2:
+Text: You should be grateful when someone does nice things for you.
+Annotation from annotator: 3.0
+
+Example 3:
+Text: It is good to have moderation in all activities.
+Annotation from annotator: 3.0
+
+Example 4:
+Text: It's wrong to use another person for their resources.
+Annotation from annotator: 3.0
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: You should not emotionally abandon your partner.
+Annotation from annotator:

@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: 'The Meme The Gaming Community Created To Label SJW’s Is Pretty Brilliant' 
+Annotation from annotator: 1
+
+Example 2:
+Text: What Facebook Really Does With Your Data https://youtu.be/83pwPOtrITk
+Annotation from annotator: 0
+
+Example 3:
+Text: House Intel votes to make Nunes memo public 
+Annotation from annotator: 0
+
+Example 4:
+Text: Earl Thomas has every right to be mad at the franchise he led as one of the best defenders of his generation.  https://t.co/BhoLPUWocD
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Now if they showed up with American FLags, MAGA Hats chanting "I Love the USA" ...then they might get sympathy as they would at least APPEAR to want to be here but flying the flag of another country is the dumbest thing they could do!
+Annotation from annotator: 0
+
+Example 2:
+Text: So...people wouldn't mind if I...
+Annotation from annotator: 0
+
+Example 3:
+Text: Hopefully they lock up all of these young army men. The Government alienating itself from the Army is something I like...but I'll stop talking, pretty sure I just broke some sort of treason law.
+Annotation from annotator: 1
+
+Example 4:
+Text: https://www.InternetBusinessSolutions.com - This site had the information I was looking for. #ibs #internet_business_solutions
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: YEP mccain IS EVIL TRAITOR TRASH
+Annotation from annotator: 0
+
+Example 2:
+Text: may be we just need a few more  illegals hanging around to deter these invades from coming.
+Annotation from annotator: 0
+
+Example 3:
+Text: https://www.minds.com/blog/view/846882148932845568 - I wish I knew about this site earlier!  I wouldn't have wasted time with all the other useless ones.
+Annotation from annotator: 0
+
+Example 4:
+Text: Failure to show empathy - Up to 6 months in jail or an unlimited fine. 
+Annotation from annotator: 0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: Tonight’s video from Home Chef is the Orange Chicken Lettuce Wraps W/ Roasted Peanuts recipe. 
+Annotation from annotator:

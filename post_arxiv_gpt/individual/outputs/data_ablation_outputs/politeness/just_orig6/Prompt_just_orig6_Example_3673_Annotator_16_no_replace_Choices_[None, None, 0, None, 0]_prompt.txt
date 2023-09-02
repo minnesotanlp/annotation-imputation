@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: I'm wondering why you've removed this category from <url>'s page? Is he no longer part of the council?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

@@ -1,0 +1,132 @@
+Estimated Examples:
+Example 1:
+Text: I got hoes in different area codes
+Annotation from annotator: 2
+
+Example 2:
+Text: A Mexican and an American jump off a skyscraper at the same time. Who hits the ground first? The American because the Mexican has to clean the windows on the way down
+Annotation from annotator: 2
+
+Example 3:
+Text: Non Whites hate White people plain and simple.They are taught from birth that White people are the cause of all the problems in the world and every bad thing that happens is because of evil racist White people .
+Annotation from annotator: 2
+
+Example 4:
+Text: How do Muslim terrorist make bomb? Through their bomb manual, The Quran.
+Annotation from annotator: 2
+
+Example 5:
+Text: Obama is like cancer. McCain couldn't beat him.
+Annotation from annotator: 2
+
+Example 6:
+Text: Would it bother you if I called you nigger?
+Annotation from annotator: 2
+
+Example 7:
+Text: You don't even have to change a damn thing with the character. You just make him fucking villainous.
+Annotation from annotator: 0
+
+Example 8:
+Text: @sandeep_mayekar @Ravi64350330 @vineeta0202 @mayankgandhi04 @TimesNow @AamAadmiParty @ArvindKejriwal Arvind is most innovative CM.
+Annotation from annotator: 0
+
+Example 9:
+Text: Omg or Slab!!!! I hate it when they say slab! And it's usually a pencil dick muhfucka https://t.co/G0Byoc93rp
+Annotation from annotator: 2
+
+Example 10:
+Text: Sometimes I watch TWD and start thinking how we would be fucked bc in this country we don't have guns and baseball bats laying everywhere..
+Annotation from annotator: 0
+
+Example 11:
+Text: Did you know that the Jews invented flight? They call it... 
+The Chimney
+Annotation from annotator: 2
+
+Example 12:
+Text: Barça in Liga have always scored in their games against Sevilla (seven games) &amp; Lucho's won every single home game against them (W3). [opta]
+Annotation from annotator: 1
+
+Example 13:
+Text: "@GraysonDolan ""I just wish I filmed it"" are you fucking kiding me"
+Annotation from annotator: 2
+
+Example 14:
+Text: JEWS RUN THE MEDIA
+JEWS RUN HOLLYJEWSTEINWOOD
+JEWS RUN ACADEMIA 
+JEWS RUN THE FED..........
+
+ANY QUESTIONS ?
+Annotation from annotator: 2
+
+Example 15:
+Text: TRP may be dumb most of the time, but damn to they nail it on why females are so awful
+Annotation from annotator: 2
+
+Example 16:
+Text: What’s the difference between alive and dead people? It has always been easier to get more bones out of a dead person.
+Annotation from annotator: 1
+
+Example 17:
+Text: What can you say to rebute "the patriarchy" statements?
+Annotation from annotator: 1
+
+Example 18:
+Text: Where are you from? Where were you from before that? Before that?
+Annotation from annotator: 0
+
+Example 19:
+Text: So what was your fap material today
+Just curious, neeed ideas :)))
+Annotation from annotator: 1
+
+Example 20:
+Text: Some people think say your life no go dey kampe if they leave. My blooda you had better carry yourself and ipako dey move&#128514;. You no be Jesus.
+Annotation from annotator: 0
+
+Example 21:
+Text: When you realize a bear did not eat you today then your day does not seem so bad
+Annotation from annotator: 0
+
+Example 22:
+Text: Why couldn't the police catch the human trafficker? He was hauling ass
+Annotation from annotator: 2
+
+Example 23:
+Text: Friend set me up on a blind date. It was awful. The girl ended up being a burn victim by the end of the night.
+Annotation from annotator: 2
+
+Example 24:
+Text: why was the pedophile late for his meeting ? he was loli gagging .
+Annotation from annotator: 2
+
+Example 25:
+Text: After seeing all these cute picture of children in heritage garb, it makes me wonder if we can't start a style trend moving that direction.
+Annotation from annotator: 0
+
+Example 26:
+Text: It's going to get bad when this comes out .
+Annotation from annotator: 0
+
+Example 27:
+Text: I do n't know why people associate Southern Europeans with light brown/olive skin .
+Annotation from annotator: 1
+
+Example 28:
+Text: what 's the worst way to get the money from atm ? <allcaps> if you have to swallow .
+Annotation from annotator: 2
+
+Example 29:
+Text: Volcels are OK as long as they are unhapphy
+The distinction between incels and volcels is often completely irrelevant.
+Annotation from annotator: 1
+
+Example 30:
+Text: My girlfriend smokes after sex So we started using lube.
+Annotation from annotator: 2
+
+Target Example:
+Text: I never saw the Skipper skip once on Gilligan's Island
+Annotation from annotator:

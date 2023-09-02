@@ -1,0 +1,127 @@
+Example 1:
+Text: Thank's, Ill put together a post over on the B & H site in the next couple of days to let people know about the PLE ideas and ask about adding a PLE forum over there .
+Annotation from annotator: 0
+
+Example 2:
+Text: Have you ever been to any sporting event at ANY level in your life? @sammythechink (Not sexist but lads don't tend to scream)
+Annotation from annotator: 1
+
+Example 3:
+Text: There are things we can do to stop the rapes that occur when blacks and other non whites con white women and girls into getting in cars with them etc For a start teach our women to respect themselves .
+Annotation from annotator: 1
+
+Example 4:
+Text: What’s the difference between Fortnite and 9/11 
+In one people expected towers to go down and they didn’t and in the other no one expected towers to go down and they did
+Annotation from annotator: 2
+
+Example 5:
+Text: will <allcaps> durst : <allcaps> nixon , <allcaps> carter <allcaps> and <allcaps> kennedy <allcaps> on a boat <allcaps> nixon , carter , kennedy are on a boat . the boat 's going down . carter says , ' women and children first . ' nixon says , ' screw them . ' kennedy says , ' do you think we have time ? '
+Annotation from annotator: 1
+
+Example 6:
+Text: So if I call him boo &#128527; just know he the fucking truth &#128521;
+Annotation from annotator: 1
+
+Example 7:
+Text: What is the difference between god and Hitler Nothing, they Just burn people who they didn't like
+Annotation from annotator: 2
+
+Example 8:
+Text: I love fucking german girls ... but I hate how they always are screeming their age
+Annotation from annotator: 2
+
+Example 9:
+Text: Make £45 today #BookieBashing! Follow our easy instructions &amp; start earning NOW SEE @ukbookiebash for #FREE sign up #workfromhome #RT
+Annotation from annotator: 0
+
+Example 10:
+Text: RT @_FreeMax_: &#128514;&#128514;&#128514;&#128557; skitdaddle wit that shit hoe http://t.co/BXsLCSHjHE
+Annotation from annotator: 1
+
+Example 11:
+Text: Women know nothing about cars.
+Annotation from annotator: 2
+
+Example 12:
+Text: What's the difference between a ferrari and a bucket of dead babies? I don't have a ferrari in my garage.
+Annotation from annotator: 2
+
+Example 13:
+Text: The other day I accidentally sent a dick pic to all my contacts It cost me a small fortune in stamps.
+Annotation from annotator: 0
+
+Example 14:
+Text: Whore fails at life, but there is always a beta cuck that will do anything for a woman, even if he won't get anything in return for it.
+Annotation from annotator: 2
+
+Example 15:
+Text: Surveying gender is easy because there's only male and female.
+Annotation from annotator: 2
+
+Example 16:
+Text: What do you say when you see a black guy being arrested again? Black at it again!
+Annotation from annotator: 2
+
+Example 17:
+Text: What's the difference between my mum and cancer? My mum didn't beat cancer
+Annotation from annotator: 2
+
+Example 18:
+Text: Yo @wadhwa, we're going to save the world - and social media - from people like *YOU*. #stopwadhwa2015
+Annotation from annotator: 0
+
+Example 19:
+Text: What’s do you call a white girl that can run faster than her brothers? A redneck virgin
+Annotation from annotator: 2
+
+Example 20:
+Text: That Liquid Plumber commercial with the ass cracks to me is gross...All I think of is the smell of their nasty asse's.They probably need the Liquid Plumber stuffed up their butts.Anyway..I think the commercial sucks.JMO.
+Annotation from annotator: 1
+
+Example 21:
+Text: Pakistan is like GoT U get to bang ur sister
+Any piece of shit can rule the empire
+People die every day
+Annotation from annotator: 2
+
+Example 22:
+Text: TFW you wake up early as fuck after sleeping late, only getting like a few hours of sleep, and not being to sleep.
+Annotation from annotator: 0
+
+Example 23:
+Text: So TIRED of being ugly
+Everything I do having to be reminded I am a repelent of females is so taxing on my mind, as if that is not enough hearing girls talk about cute guys they like or catching them stare at some guy in class is just heart breaking man...
+Annotation from annotator: 0
+
+Example 24:
+Text: say hello to me like just say hello or what's up just please fucking say something
+Annotation from annotator: 0
+
+Example 25:
+Text: Just thought, apart from being the only mania match with decent build, is this Big Match John's best Mania feud?
+Annotation from annotator: 0
+
+Example 26:
+Text: Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
+Annotation from annotator: 0
+
+Example 27:
+Text: Cousins looking for bitches I hope RT @TheOnlyReed: THE FUCK IS THIS? http://t.co/jLrApkDlYs
+Annotation from annotator: 1
+
+Example 28:
+Text: If there was a Nazi state today, women would be hired in the race and gene hygiene department
+Annotation from annotator: 2
+
+Example 29:
+Text: New day, new week and new month on the biggest frequency ever @y1025fm #RYSENSHYNE with @nydjlive waking up the city with @mariokenz #YArmy
+Annotation from annotator: 0
+
+Example 30:
+Text: "The world doesnt owe you anything"
+Yes it does, i never asked to be born
+Annotation from annotator: 0
+
+Text: If you're interested in working on solutions, we'd love to have your help. However, I can spot a flail for media attention from a mile away.
+Annotation from annotator:

@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Estimated Examples:
+Example 1:
+Text: It's expected to save a pet that is in danger.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's hurtful to never return to someone's home.
+Annotation from annotator: 3
+
+Example 3:
+Text: Stealing is considered a taboo.
+Annotation from annotator: 4
+
+Example 4:
+Text: You shouldn't abandon your pets.
+Annotation from annotator: 4
+
+Example 5:
+Text: You shouldn't expect customers to do you favors.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should communicate with your partner about your expectations when you're dating.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should want your baby to look like both you and the other parent.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's okay to be goofy around your friends.
+Annotation from annotator: 4
+
+Example 9:
+Text: You should talk to your boss before you make decisions at work.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to be clear when you need space from loved ones.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to tell your ex your true feelings.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's bad to crave attention.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's bad to look to old.
+Annotation from annotator: 2
+
+Example 14:
+Text: It's fine to like a show.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's fine to make your own choice about what path you want to take.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's understandable when past trauma informs your future actions.
+Annotation from annotator: 2
+
+Example 17:
+Text: You shouldn't let your partner tell you what to do.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is wrong to betray your family
+Annotation from annotator: 3
+
+Example 19:
+Text: You're expected to work in order to earn money.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's wrong to tell a woman what to do.
+Annotation from annotator: 2
+
+Example 21:
+Text: It is irresponsible to quit a job.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's understandable to be angry about injustice.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is wrong to abandon a friend.
+Annotation from annotator: 3
+
+Example 24:
+Text: You are expected to tell someone if a family member is dying.
+Annotation from annotator: 3
+
+Example 25:
+Text: People are expected to act out of character when grieving a death
+Annotation from annotator: 2
+
+Example 26:
+Text: It's good to exercise so you can lose weight.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is rude to cut in line.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's good to question an officer in court to help your case.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's wrong not to share with your partner.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't intentionally ruin the joy of others.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should care more about your parent's feelings.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

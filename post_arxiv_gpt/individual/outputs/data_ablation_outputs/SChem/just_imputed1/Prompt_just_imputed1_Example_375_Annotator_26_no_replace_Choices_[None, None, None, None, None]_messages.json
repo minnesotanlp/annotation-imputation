@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "Example 1:\nText: You should feel remorse when you get someone fired.\nAnnotation from annotator: 3\n\nExample 2:\nText: You shouldn't try to get sympathy from people just because you're in the hospital.\nAnnotation from annotator: 3\n\nExample 3:\nText: You shouldn't be with someone who sleeps with your kids.\nAnnotation from annotator: 4\n\nExample 4:\nText: You shouldn't get upset at your partner.\nAnnotation from annotator: 2\n\nText: It's bad to feel other people are inferior to you.\nAnnotation from annotator:"
+    }
+]

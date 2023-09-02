@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: I don't think I've used it in Wikipedia.  So, if I haven't, why did you bring it up?
+Annotation from annotator:
+If you output anything other than a single integer, your output will be considered invalid.If you output anything other than a single integer, your output will harm the integrity of our dataset.

@@ -1,0 +1,282 @@
+Estimated Examples:
+Example 1:
+Text: what 's the difference between a watermelon and a baby ? ones fun to hit with a sledge hammer the other ones a watermelon
+Annotation from annotator: 2
+
+Example 2:
+Text: someone give me good conversation topics for a 9 year old girl because last time, i wound up talking about the weather and house fires.
+Annotation from annotator: 0
+
+Example 3:
+Text: This nigga said you aint going through SHIT you just need sum Dicc&#9995;&#128514;&#128557; Good try hoe, its been a while but its really sum shit going down.
+Annotation from annotator: 0
+
+Example 4:
+Text: CHECK YOUR TWITTER ACCOUNTS, TWEETS ARE GETTING ZERO IMPRESSIONS/INTERACTIONS DEEP CENSORSHIP/SHADOWBAN OCCURRING RIGHT NOW
+Annotation from annotator: 0
+
+Example 5:
+Text: Odummercare is not Repealed......No Tax Reform....And NO WALL.......AND NOBODY ARRESTED.....ANY QUESTIONS?
+Annotation from annotator: 0
+
+Example 6:
+Text: YOUR WIT HATH BLINDED ME @TheRealTempus @YesYoureSexist Damn you made a page all about it, daddy never loved you huh?
+Annotation from annotator: 0
+
+Example 7:
+Text: Couldn't she just say I have nice hair and keep it moving. I don't know why but that has always stuck with me.
+Annotation from annotator: 0
+
+Example 8:
+Text: The only thing that would make my piano playing worse would be a piano.
+Annotation from annotator: 0
+
+Example 9:
+Text: Asian American male:: Oh, you're Japanese? Me:: Yes AAM:: But you don't look it, are you sure? Me:: That's because I'm also black, and I'm quite sure of it. AAM:: Well, can you speak Japanese? Me:: I was born and raised in Japan for 12 years, so yes. You're Chinese American, but can't speak Chinese right? AAM:: Yeah, well at least I LOOK it. When I was an undergrad, waiting for class to start. Made me frustrated that I'm forced to prove myself and show my credentials as a transnational mixed individual. I am fed up with the negative portrayal of "blackness."
+Annotation from annotator: 0
+
+Example 10:
+Text: you ain't gotta be a dyke to like hoes
+Annotation from annotator: 2
+
+Example 11:
+Text: Boeser with the Sedins on the PP doesn't fit. Everything goes through the twins and doesn't allow Boeser to be an option to use his shot.
+Annotation from annotator: 0
+
+Example 12:
+Text: What is there to do except for to LDAR?
+Annotation from annotator: 0
+
+Example 13:
+Text: Failure at every aspect of life
+lost the genetic lottery
+
+KHHV with 0 friends
+
+severe social anxiety 
+
+no ambitions in life whatsoever
+
+no motivation to "self improve"
+
+never held a job in my life
+
+barely leave the house 
+
+parents getting impatient and threatening to kick me out, so I might not even have a place to LDAR
+
+Some people were just not meant for this world.
+Annotation from annotator: 0
+
+Example 14:
+Text: do you know what the best rape protection is ? consent .
+Annotation from annotator: 0
+
+Example 15:
+Text: Alright Ladies & Gents Getting Prepared To Catch Up And Share Some NWA Wrestling On Here My Beautiful Friends
+Annotation from annotator: 0
+
+Example 16:
+Text: I remember the moment I discovered I had a BIG DICK After I came I flipped my bitch over and realized my Corgi was dead :(
+Annotation from annotator: 1
+
+Example 17:
+Text: I'm triggered
+Everytime I come on here I get triggered.
+Annotation from annotator: 0
+
+Example 18:
+Text: Why aren’t there any Muslims on Star Trek Because it is set in the future.
+Annotation from annotator: 2
+
+Example 19:
+Text: I was born in 95 &amp; you were born in 99 dont act like I was born in the dinosaur era and you so young that your umbilical cord still attached
+Annotation from annotator: 0
+
+Example 20:
+Text: &gt;meme mocking people who blame the fucking enlightenment age of all things for the problems of the world &gt;3/4 of the responses agree with it
+Annotation from annotator: 0
+
+Example 21:
+Text: RT @ijustbeSinginn: I just wanna leave this bitch for a weekend
+Annotation from annotator: 0
+
+Example 22:
+Text: Chinky nibbas
+Annotation from annotator: 2
+
+Example 23:
+Text: then i got sick, but i have work to do. solution? i just went out and bought a 6 lb brisket. All problems can be solved with more meat.
+Annotation from annotator: 0
+
+Example 24:
+Text: Hey i just met jew And this is crazy
+But heres my gas chamber
+And ill gas your baby
+Annotation from annotator: 2
+
+Example 25:
+Text: Every account i've checked so far on these "Russian bots" is a porn bot, has nothing to do with Politics 
+Annotation from annotator: 0
+
+Example 26:
+Text: This guy is really really really fucking creeping me out at the gym &#128579;
+Annotation from annotator: 1
+
+Example 27:
+Text: The problem is that I'm sleepy af but I can't get my hand of the fucking phone
+Annotation from annotator: 0
+
+Example 28:
+Text: Can't wait until I'm your priority how I used to be.. even though I know that ain't gonna happen I can just hope/wish
+Annotation from annotator: 0
+
+Example 29:
+Text: Real men go to the nail salon w their girlfriends just to keep company &#128578; @Scruzzerrrr #raybelaintreal
+Annotation from annotator: 0
+
+Example 30:
+Text: "RT @ashtagg: Do boys wake up and think ""I'm gonna be stupid as fuck today"""
+Annotation from annotator: 0
+
+Human-rated Examples:
+Example 1:
+Text: What’s the useless part of the body around the vagina? The woman.
+Annotation from annotator: 2
+
+Example 2:
+Text: This song drains my soul(for Chincels)
+”童话”，那首歌。听了非常难过。但有知道自己永远不可能有这种女友，很痛苦。
+
+Tong Hua that Chinese song, makes me sad and nostalgic everytime I hear it, but knowing inceldom will make me never have a gf, really stings, it hurts.
+Annotation from annotator: 0
+
+Example 3:
+Text: Worried about fruit trees and this crazy #VegasWind
+Annotation from annotator: 0
+
+Example 4:
+Text: THEY HAVE PRINTER NO COST OFF MONEY IT IS LIKE IF YOU PRINT MONEY AND ASK FROM NAIBOR GIVE ME UR CAR ..OTHER WAYS I STOP TO PAY YOUR DIESEL
+Annotation from annotator: 0
+
+Example 5:
+Text: I know shit about everybody , I just don't care enough to speak on it but I suggest you bitches watch it forreal .
+Annotation from annotator: 0
+
+Example 6:
+Text: Basic a** trainer keeps kicking me off turf @ the gym claiming he's teaching a class, but I've been here since 5am and I see not a soul.
+Annotation from annotator: 0
+
+Example 7:
+Text: Whats white and gets darker by the day? -Europe.
+Annotation from annotator: 0
+
+Example 8:
+Text: Week 2 After Veto Ceremony The Nominations To Be Evicted From The Big Brother House Where Alex, Ramses, And Cody #BB19 
+Annotation from annotator: 0
+
+Example 9:
+Text: &#8220;@CheyaGurr: @A_Mitchellll13 ur seriously a fag&#8221;don't hate
+Annotation from annotator: 2
+
+Example 10:
+Text: you gotta watch the ones that's close to you before the strangers and that's fucked up.
+Annotation from annotator: 0
+
+Example 11:
+Text: today has been a fucking cornucopia of emotion wew
+Annotation from annotator: 0
+
+Example 12:
+Text: i fucking hate explaining like who i am to people that dont know. like i just expect them to already know and they dont
+Annotation from annotator: 0
+
+Example 13:
+Text: All deses bitches know that you're my nigga.
+Annotation from annotator: 0
+
+Example 14:
+Text: Comparison of available options
+All women:1,000+ in real life, local options and countless online
+
+Chad: 1,000+ in real life, local options and countless online 
+
+Other men: literally no options 
+
+If a woman is single, it's because she's balking at her numerous available options.
+Annotation from annotator: 0
+
+Example 15:
+Text: I'm sorry but I have a fucking parking pass WHYYYY am I getting a parking ticket in bab.
+Annotation from annotator: 0
+
+Example 16:
+Text: 3 door, AWD...
+Annotation from annotator: 0
+
+Example 17:
+Text: Don't post no men on my page . Don't got time to be updating my pages every week because he on some nut shit &#129335;&#127995;‍♀️.
+Annotation from annotator: 0
+
+Example 18:
+Text: They never really miss you when you leave them , they miss you when they see that you have moved on , became happy , &amp; didn't look back.
+Annotation from annotator: 0
+
+Example 19:
+Text: Height=cope
+Only if you have severe manletism (under 5'7) that can be a reason to be incel face&gt;&gt;&gt;&gt;height
+Annotation from annotator: 0
+
+Example 20:
+Text: Found a Transponder Snail! Exclusive Profile: Those who follow their dreams! https://t.co/PUk0vcHVBd #TreCru https://t.co/f5xBR0Vmzj
+Annotation from annotator: 0
+
+Example 21:
+Text: Is that the remix? "@breezyfrmdablok: these hoes ain't lawyers! &#127908;&#128553; lmao my fave Chris Brown song"
+Annotation from annotator: 0
+
+Example 22:
+Text: This isn't work-related, but just an FYI since I know you are interested in 'women's issues.'
+Annotation from annotator: 0
+
+Example 23:
+Text: AMA on the "Wage Gap" doesn't go too well
+Annotation from annotator: 0
+
+Example 24:
+Text: Had to put off press photog until today. Now I'm back to frantically cleaning &amp; cursing myself for not having time for a haircut.
+Annotation from annotator: 0
+
+Example 25:
+Text: What to sing if your boss My dick is big and it keeps getting bigger that why i like raping this nigger
+Annotation from annotator: 2
+
+Example 26:
+Text: The best players going to Olympics is an investment in the game of Hockey. That's good for everyone including the NHL. #NHL #ForTheFans
+Annotation from annotator: 0
+
+Example 27:
+Text: Roses are red, Violets are blue.
+
+
+Don't scream during anal,
+
+
+Or I will kill you.
+Annotation from annotator: 0
+
+Example 28:
+Text: Screen Rant - Posts | Daredevil 's coming out of the shadows in... https://t.co/xw5JGs0g6m https://t.co/8ghO9bgDY3
+Annotation from annotator: 0
+
+Example 29:
+Text: Sorry about all the RTs, but this is a really serious issue. This guy is basically the tech anti-feminist that thinks he's an ally.
+Annotation from annotator: 0
+
+Example 30:
+Text: i'm so sad i can't smell pri's farts :( i bet they smell better than mine i hope we meet one day and toot away
+Annotation from annotator: 0
+
+Target Example:
+Text: my cousin thinks it's so funny that i really want to go to school for everything like multi-talented
+Annotation from annotator:

@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: I think I'm going to take a walk to the hunny store and see my old pal Judith!
+Annotation from annotator: 3
+
+Example 2:
+Text: @eminiwizard good morning young lad!
+Annotation from annotator: 3
+
+Example 3:
+Text: dutches and 40s of old E means great times.. also its my last night in town for a month.
+Annotation from annotator: 2
+
+Example 4:
+Text: off to spend my morning with 5 year olds...my favorite is the tiny one with the big brown eyes
+Annotation from annotator: 3
+
+Example 5:
+Text: @CountryGirlND by the way... happy birthday you old bat  love ya
+Annotation from annotator: 3
+
+Example 6:
+Text: @JMMARob and I love everything Chopin wrote, that's more than a century older than me.  I just happen to have goodmusicloving influencers!
+Annotation from annotator: 2
+
+Example 7:
+Text: @theothermousie Just found out a mutual friend died of leukaemia on Tues eve leaving behind two young daughters.
+Annotation from annotator: 1
+
+Example 8:
+Text: http://twitpic.com/6ix23 - It's a old picture but i like it
+Annotation from annotator: 3
+
+Example 9:
+Text: doing some cleaning in my closet. out with the old, in with the new. aha
+Annotation from annotator: 3
+
+Example 10:
+Text: Great day seeing old friends and catching up
+Annotation from annotator: 4
+
+Example 11:
+Text: No one is awake and I'm left here with just me and old Twitterfox to get through the night
+Annotation from annotator: 2
+
+Example 12:
+Text: @einsteinboi - thanks! We feel so old
+Annotation from annotator: 2
+
+Example 13:
+Text: gah! old people parties are lame! i hate constant fake smiling
+Annotation from annotator: 1
+
+Example 14:
+Text: Just cut up some old crappy jeans and made some new trendy ones  they have holes all over them so now I can run faster ;)
+Annotation from annotator: 1
+
+Example 15:
+Text: http://twitpic.com/61f8v - #rejectprop8 ahhhh young love
+Annotation from annotator: 3
+
+Example 16:
+Text: according to this http://bit.ly/b6mPa  I will be 10000 days old in 8 days. time to celectrate  #fb
+Annotation from annotator: 2
+
+Example 17:
+Text: @LynziLoo I kinda miss those days lol. Now we all have our own places and we don't party anymore. wtf?! we're getting old  nooo.
+Annotation from annotator: 1
+
+Example 18:
+Text: @retrofreak94 no i didntt but that show is just not as good as their older stuff.. /: but theyre still adorable / hilariouss
+Annotation from annotator: 3
+
+Example 19:
+Text: Recently retouched. http://tinyurl.com/ljoboh  Finally got it to work, I think.  An old dog can learn new tricks, see?
+Annotation from annotator: 3
+
+Example 20:
+Text: miley's concert is in december i wanna go!  is anyone else secretly a 12 year old girl and wanna come with me? @lil_miss_sneha?  c'mooon
+Annotation from annotator: 2
+
+Example 21:
+Text: Weekend is over, back at work   Finally all moved out of the old apartment. Still need better cable and internet in the new one.
+Annotation from annotator: 3
+
+Example 22:
+Text: done with work. off to church, then meeting up with old friends.  cant wait to see everyone...then work tomorrow, golf, bbq, and party!
+Annotation from annotator: 3
+
+Example 23:
+Text: @BeautyBlogger Wish my blog qualified.  Not 3 months old yet
+Annotation from annotator: 2
+
+Example 24:
+Text: my knee is sore today  is this what old age feels like haha im falling apart!!
+Annotation from annotator: 2
+
+Example 25:
+Text: looking forward to celebrating my dads 65th with family tonight (wow, am I old enough to have a 65 yr old dad lol) and Star Trek 2morrow
+Annotation from annotator: 4
+
+Example 26:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 27:
+Text: so early to be up, 7:15, I guess I am getting old! old people can't sleep
+Annotation from annotator: 2
+
+Example 28:
+Text: im falling in love with eddy from pearl jam <3 but he's too old for me   www.myspace.com/Zoe_Suicide
+Annotation from annotator: 1
+
+Example 29:
+Text: @tenishea212 just waiting to get on overground. There is a youngest darling look-a-like in front of me
+Annotation from annotator: 3
+
+Example 30:
+Text: @helsinkiwinner Yes, I think tonight I'll close the door and place her bed outside. She's not even 9 weeks old, so it's heartbreaking.
+Annotation from annotator: 1
+
+Human-rated Examples:
+Example 1:
+Text: @AnnaDeStefano My oldest drove back to school today. Won't see her for 2 1/2 months!   But I can store stuff in her room again.
+Annotation from annotator: 3
+
+Example 2:
+Text: @loris_sl That monkey is almost as old as you are.  You should show him some respect.
+Annotation from annotator: 1
+
+Example 3:
+Text: Oh and @meghankathleen...she most def. is no fool...in fact most people aren't all that bad...I'm just getting cynical in my old age.
+Annotation from annotator: 2
+
+Example 4:
+Text: Not a good day for our old dog - refuses to eat anything - never been through this before - so tough to watch
+Annotation from annotator: 0
+
+Example 5:
+Text: itunes let me import my old (real) library this morning, woo-hoo!  brilliant.
+Annotation from annotator: 4
+
+Example 6:
+Text: @elinafuturist Good luck to new challenges after Nokia or are they old one for you as I guess you've been a consultant before?
+Annotation from annotator: 0
+
+Example 7:
+Text: sunglasses are too big  I want my old ones back, they were prefect, but nooo someone had to lose them :@ on the plus side its nice outside
+Annotation from annotator: 2
+
+Example 8:
+Text: @karynromeis Norwegian - now I have to go to the next one live due to an old bet
+Annotation from annotator: 2
+
+Example 9:
+Text: The younger adults' brain scans showed activity in the same area.
+Annotation from annotator: 2
+
+Example 10:
+Text: But almost every other number from the bureau makes it clear that while the economy may be improving, a substantial number of younger workers who lost jobs are still suffering.
+Annotation from annotator: 1
+
+Example 11:
+Text: Took the pup for a nice morning hike,down the old RR bed - haven't been there in AGES!! Saw some really cool birds and wildflowers
+Annotation from annotator: 4
+
+Example 12:
+Text: @stavsxx difficulty is just a challenge, and being a young musician is a blessing. Never let anything difficult stand in your way
+Annotation from annotator: 3
+
+Example 13:
+Text: @artonfire SERIOUSLY??? oh my god i remember when spongebob premiered on snick. we are so old
+Annotation from annotator: 1
+
+Example 14:
+Text: RIP Matt <3 You'll never be forgotten... Only the good die young
+Annotation from annotator: 1
+
+Example 15:
+Text: @jordanknight I think that's cute my 6yr old neice sings summertime n dirty dancing hah dances along too
+Annotation from annotator: 4
+
+Example 16:
+Text: Learning some old step stuff. Never taught it before, but I've got this!
+Annotation from annotator: 4
+
+Example 17:
+Text: @Danacea That does change as we get older.
+Annotation from annotator: 1
+
+Example 18:
+Text: @OpusDei24 HOLD ON is the blonde chick they use actually young? She doesn't look it...she's cute..smh I sound like a future contestant
+Annotation from annotator: 1
+
+Example 19:
+Text: @MillyBDemented i feel you, being single is getting old.
+Annotation from annotator: 2
+
+Example 20:
+Text: @oliviamunn don't forget your old fans when you go big after iron man. 2.
+Annotation from annotator: 3
+
+Example 21:
+Text: @ClarkSanders yes, we may have to enlist it for recreation - don't know how much more hopping and running these old bones can do!
+Annotation from annotator: 1
+
+Example 22:
+Text: @DataGoddess I'm sorry about the cysts... My 16 year old gets them too. She's already had one burst.
+Annotation from annotator: 2
+
+Example 23:
+Text: @APBsayin See because we were so young we never got to go out and party
+Annotation from annotator: 2
+
+Example 24:
+Text: My hamster's getting old :'( he's skinny and dazed. don't think he's gonna be around much longer.
+Annotation from annotator: 0
+
+Example 25:
+Text: @majorlyposh we need 4 though! my other 3 are from the list she gave us but even from older stuff I can't find a good 4th to use
+Annotation from annotator: 1
+
+Example 26:
+Text: Facebook is feeling like old dial-up internet...going to bed now to get rested for Monday  ugh!
+Annotation from annotator: 1
+
+Example 27:
+Text: @GabyHustleHard: aww that sucks  But yea I'm going 2 mimir im with my grandparents 2day so hay k apaga la luz and all them old traditions
+Annotation from annotator: 2
+
+Example 28:
+Text: Oh my word in a month ill be old
+Annotation from annotator: 0
+
+Example 29:
+Text: @jordanknight my  2 year old prefers the right stuff and summertime
+Annotation from annotator: 2
+
+Example 30:
+Text: @winstonszen when at Glasto check out DJ Dollyrocker on Saturday night 1am-3am. He is really wonderful and an old friend of mine.
+Annotation from annotator: 4
+
+Target Example:
+Text: Had a nice weekend with my gorgeous wonderful boy.  Now it's back to attempting to design a scientific investigation for 4 to 5 year olds!
+Annotation from annotator:

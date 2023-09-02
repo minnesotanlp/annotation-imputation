@@ -1,0 +1,129 @@
+Estimated Examples:
+Example 1:
+Text: The islamic disease is even more dangerous than the more obvious black or yellow disease .
+Annotation from annotator: 2
+
+Example 2:
+Text: Want to bend @sophialares over the desk and fill her with my hot cum before fucking the sexy mouth of @LucieBrooksUK
+Annotation from annotator: 2
+
+Example 3:
+Text: What goes up a hill faster: a black guy or a truck? The black guy, because he had chains
+Annotation from annotator: 2
+
+Example 4:
+Text: Now I wait to see which signed albums I got and the photo cards until I decide if I want to trade any or not.
+Annotation from annotator: 0
+
+Example 5:
+Text: what do you call a performance enhancer that does n't work ? [ removed ]
+Annotation from annotator: 1
+
+Example 6:
+Text: RT @_xMaiya_xMonike: What's the difference between a main &amp; a side bitch ?? Shit y'all both getting feed lies &amp; dick!
+Annotation from annotator: 2
+
+Example 7:
+Text: Geeze I am watching judge Judy and she's very racist LOL she's getting more cranky every day
+Annotation from annotator: 0
+
+Example 8:
+Text: This is one ass extended April fools I pray someone just says it's a bad joke
+Annotation from annotator: 0
+
+Example 9:
+Text: Whats the difference between steak and a baby? I make sure the steak is cooked before eating it.
+Annotation from annotator: 1
+
+Example 10:
+Text: Everyone can comment and post threads again
+I'm back and modding the sub again.
+Annotation from annotator: 0
+
+Example 11:
+Text: i know people shouldnt define once worth but honestly, im so tired of always remembering how awful im as a person
+Annotation from annotator: 0
+
+Example 12:
+Text: Arizona Daily Star should get it 's information from groups other than an organization that makes it 's money off creating the finest spin and hype imaginable .
+Annotation from annotator: 0
+
+Example 13:
+Text: sry ur star athletes made TERRIBLE choices but stop trying to help THEM &amp; start trying to help the victims bc their lives are TRULY AT STAKE
+Annotation from annotator: 2
+
+Example 14:
+Text: RT @1MarsB: I might be ugly but my hoes ain't trippin
+Annotation from annotator: 2
+
+Example 15:
+Text: A female on r/foreveralone turns out to be an actual creep and thought about stalking Chad.
+Annotation from annotator: 1
+
+Example 16:
+Text: What’s the difference between a Jew and a boy scout? One comes home
+Annotation from annotator: 2
+
+Example 17:
+Text: Now my side bitch my main bitch Bc my main hoe ain't feeling me no mo. No mo.
+Annotation from annotator: 1
+
+Example 18:
+Text: What's the differnece between Nelson Mandela and racism? One is dead
+Annotation from annotator: 2
+
+Example 19:
+Text: 12 Let's tweet @notwhat01 @notwhat02 #catbirdcricket and get stuck in your head! Posted on 2017-04-04 18:09:35
+Annotation from annotator: 0
+
+Example 20:
+Text: Waking up the morning after an acid facial looking like tuna sashimi. Forgive my appearance today @tonguetweets
+Annotation from annotator: 0
+
+Example 21:
+Text: System deployments went until 5.30 AM due to some complications. Had to get up at 7.30 to take kid to Daham school. Now sleepy AF.
+Annotation from annotator: 0
+
+Example 22:
+Text: My room is: CO2: 401ppm Pressure: 1012.55hPa Temperature: 19.57°C Humidity: 51.10% Luminosity: 0Lux 2017/04/02-06:02:27
+Annotation from annotator: 0
+
+Example 23:
+Text: I got kicked out from Boy Scouts The scout leader did not like the competition.
+Annotation from annotator: 0
+
+Example 24:
+Text: Who are the fastest readers? The 9/11 jumpers. They went through 93 stories in 5 seconds!
+Annotation from annotator: 2
+
+Example 25:
+Text: Flash flood warning til 3 am and more heavy rain and wind for tonight. If you must drive, slow and steady for safety☔️
+Annotation from annotator: 0
+
+Example 26:
+Text: "RT @RiverCrowson: When I was in the Audience for Jeremy Kyle off camera he said ""we've got a load of fucking idiots on today it should be…"
+Annotation from annotator: 0
+
+Example 27:
+Text: ...and its a wrap.. Fingers crossed. Good luck to all housemates and best of luck to Efe. Confident much? Yes i am. We've got this.#BBNaija
+Annotation from annotator: 0
+
+Example 28:
+Text: Having sex at work was great But then I got fired from the morgue
+Annotation from annotator: 2
+
+Example 29:
+Text: I asked out four women who were at least in their fifties tonight
+They all said no -_-
+Annotation from annotator: 0
+
+Example 30:
+Text: What you say is true but bear in mind that what a person chooses to wear on the outside is a personal statement of what 's on the inside .
+Annotation from annotator: 0
+
+Target Example:
+Text: #Boeing's secret plane debut:
+There goes your taxpayers money...
+
+Let's hope a simple #EMP wave won't cripple it 🤔!
+Annotation from annotator:

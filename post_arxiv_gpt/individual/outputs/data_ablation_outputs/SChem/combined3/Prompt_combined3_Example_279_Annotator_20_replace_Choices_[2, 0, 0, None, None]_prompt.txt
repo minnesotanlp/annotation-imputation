@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: You should expect people to be scared of you if you're big and muscular.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 4
+
+Example 3:
+Text: You're supposed to date for love and not looks.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good to go out and have fun with your kids.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's wrong to think you're responsible for somebody else's life
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't have second thoughts about having kids if your wife gets pregnant because it's too late by then.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's bad to use sex to get what you want.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to find the right partner for yourself.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's not okay for parents to be emotionally attached to their kids personal lives.
+Annotation from annotator: 0
+
+Example 10:
+Text: It's understandable to not want to contribute work to a group project.
+Annotation from annotator: 1
+
+Example 11:
+Text: It's considered juvenile to hate people without a good reason.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's not okay to think someone is lying to you when it's important.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's good to want others to celebrate your joys with you.
+Annotation from annotator: 3
+
+Example 14:
+Text: You have to do whatever is necessary in an emergency situation.
+Annotation from annotator: 4
+
+Example 15:
+Text: You shouldn't get pissed off at your siblings.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's expected that family members support each other's milestone events.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's normal for siblings to play pranks
+Annotation from annotator: 2
+
+Example 18:
+Text: Is wrong to be a pervert
+Annotation from annotator: 2
+
+Example 19:
+Text: You should not get angry when your chronically ill relative needs help.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is good for couples to communicate their problems and move on when there is tension after a fight.
+Annotation from annotator: 4
+
+Example 21:
+Text: It is dangerous for a doctor to misdiagnose a patient.
+Annotation from annotator: 4
+
+Example 22:
+Text: People shouldn't lie about who they are.
+Annotation from annotator: 3
+
+Example 23:
+Text: You should be understanding when your parents talk about their family heirlooms.
+Annotation from annotator: 3
+
+Example 24:
+Text: You can't expect everyone to like you.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's expected you get into a fight if you're being racist around people
+Annotation from annotator: 2
+
+Example 26:
+Text: It's wise to do monthly payments if you can't pay back a loan right away.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's good to have a best friend.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's okay to not know how to drive.
+Annotation from annotator: 1
+
+Example 29:
+Text: It is okay to only want to hang out with certain people.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's good to find things to help you soften your grief.
+Annotation from annotator: 4
+
+Human-Rated Examples:
+Example 1:
+Text: It is reasonable to want to hold onto loving memories after losing someone.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is dangerous for a grandparent to risk a fall.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's wrong to be gluttonous.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good to recognize the problems with being attracted to someone much younger than you.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's okay to say the n word if it's in a textbook.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's okay to park wherever there's room
+Annotation from annotator: 3
+
+Example 7:
+Text: It's normal to want to clear up space.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to get back at a cheating partner.
+Annotation from annotator: 1
+
+Example 9:
+Text: If you eat someone's food, you should let them know.
+Annotation from annotator: 3
+
+Example 10:
+Text: You shouldn't judge people by how they look
+Annotation from annotator: 3
+
+Example 11:
+Text: It is okay to know what you want from a partner.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is good to have rules.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is gross to put candy in your pocket if it might melt.
+Annotation from annotator: 2
+
+Example 14:
+Text: It is good to be yourself.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation from annotator: 3
+
+Example 16:
+Text: You shouldn't be with someone who sleeps with your kids.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's good for a parent to want their children to make the best decisions possible.
+Annotation from annotator: 4
+
+Example 18:
+Text: You should tell your partner you don't want to be with them anymore.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's not okay to stray from a relationship.
+Annotation from annotator: 3
+
+Example 20:
+Text: Friendships ought to be valued over material possessions.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's not okay to fake things in a social situation.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's important to take advice of your parents.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't let people who claim to be fashion police criticize your clothes.
+Annotation from annotator: 3
+
+Example 24:
+Text: Businesses should treat customers with courtesy if they expect them to return.
+Annotation from annotator: 4
+
+Example 25:
+Text: It is distracting to pin everyone in an admin team on a discord server.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's good to be aware of your limits.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's understandable that sometimes people have reasons not to trust someone.
+Annotation from annotator: 4
+
+Example 28:
+Text: You should never do anything that may cause your children to despise you.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's inappropriate to make passes at an underling.
+Annotation from annotator: 4
+
+Example 30:
+Text: If someone forbids you from doing something, you should respect them.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's wrong to have weird sexual fantasies.
+Annotation from annotator:

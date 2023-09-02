@@ -1,0 +1,169 @@
+Imputed Examples:
+Example 1:
+Text: Later the same can be done for the other sports. What do you say?
+Annotation from annotator: 14
+
+Example 2:
+Text: Do you have a link for that?  I assume you mean you're out <url>?
+Annotation from annotator: 10
+
+Example 3:
+Text: I've heard about the controversy. What's your take on it?
+Annotation from annotator: 13
+
+Example 4:
+Text: For one phonological citation I need an uppercase "I", as in "Italy", with _serifs_ to distinguish it from lowercase L.  You advised "The Classic skin uses a serifed font, if you can accept a personal solution."  I'm sorry, I don't catch your meaning.  Where do I find the Classic skin, what is a personal solution, and why wouldn't I accept it?
+Annotation from annotator: 10
+
+Example 5:
+Text: I can certainly suggest to Isarig that 3RR is not an entitlement, and that dicussion is often the better approach. Would you like me to try to mediate the Karsh page?
+Annotation from annotator: 15
+
+Example 6:
+Text: And  what did I do wrong???????????????????????
+Annotation from annotator: 6
+
+Example 7:
+Text: I was about to participate in the Afd on Wooster Greeks.  You've reverted yourself and re-closed it?
+Annotation from annotator: 9
+
+Example 8:
+Text: Terms like "elected", "responsible" and "designated points-of-contact" imply some sort of delegated authority, I'd have thought.  By omission, is Hornoir saying that the delegate has authority over other aspects of the project?
+Annotation from annotator: 14
+
+Example 9:
+Text: Still wondering and hoping. Rather not?
+Annotation from annotator: 12
+
+Example 10:
+Text: You deleted this, but somehow it still shows up on the parent category's page <url>.  Is this normal and/or can you fix this?
+Annotation from annotator: 13
+
+Example 11:
+Text: You are able to read it here <url>. Wondering if this is worthy of sign post?
+Annotation from annotator: 13
+
+Example 12:
+Text: I see you created a nonsense article yesterday because you were bored. If I unblock you will you disrupt more?
+Annotation from annotator: 8
+
+Example 13:
+Text: Just letting you know (since you have mentioned AFDing <url>) that weu2019ve gone to some effort to establish notability with <url>, and have added three reliable, notable, third-party sources to the article.  Do you feel these sources establish <url> as being notable (<url> and all that)?
+Annotation from annotator: 14
+
+Example 14:
+Text: Am I indeed "dishonest" by responding to you?  Is <url>  correct?
+Annotation from annotator: 9
+
+Example 15:
+Text: Thanks, firstly, for the affirmation and work on <url>; it was yesterday's featured article! As a related article, I've been working on <url> - what do you think would be necessary to get it to FA?
+Annotation from annotator: 19
+
+Example 16:
+Text: Thanks for the response.  May I ask, are you a video gamer?
+Annotation from annotator: 18
+
+Example 17:
+Text: I wonder, did anyone add new links leading to the portal?  Is there an easy way to check this?
+Annotation from annotator: 15
+
+Example 18:
+Text: I don't understand the reason for <url>. Would you please explain it to me?
+Annotation from annotator: 17
+
+Example 19:
+Text: Sorry, no clue.  The help desk wasn't helpful, huh?
+Annotation from annotator: 11
+
+Example 20:
+Text: I dislike feuds. What to do?
+Annotation from annotator: 10
+
+Example 21:
+Text: That "guest" could have been an undercover Colbert staff member and the whole segment could have been staged. Otherwise, why would Colbert have taken 3 minutes out of his show to talk to someone in the audience?
+Annotation from annotator: 9
+
+Example 22:
+Text: clear about when the inverse exists.  Is there a formal theorem that would apply?
+Annotation from annotator: 11
+
+Example 23:
+Text: Who is authorized to perform sockpuppet checks? Is there an automated service for doing it?
+Annotation from annotator: 12
+
+Example 24:
+Text: You sure kill educating information. I wounder why?
+Annotation from annotator: 6
+
+Example 25:
+Text: LOL, I can't believe you reverted Kizzle's deletion of my summary at S & aQ. Did you actually like my summary?
+Annotation from annotator: 9
+
+Example 26:
+Text: So you're interested in both Amiga computers and BDSM! Are you an atheist too?
+Annotation from annotator: 8
+
+Example 27:
+Text: Hey, thanks for your contributions here :). Would you mind referencing them to conform with wiki-policy?
+Annotation from annotator: 22
+
+Example 28:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 14
+
+Example 29:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 10
+
+Example 30:
+Text: I am contemplating a larger article on this very interesting topic. Thoughts?
+Annotation from annotator: 19
+
+Human-rated Examples:
+Example 1:
+Text: <url> is based at 340 Laurier Avenue West Ottawa, Ontario K1A 0P9 - It doesn't have a photo posted yet. Is this convenient for you?
+Annotation from annotator: 12
+
+Example 2:
+Text: The thread at <url> ground to a halt. Any way to get this implemented?
+Annotation from annotator: 16
+
+Example 3:
+Text: Who deleted it? Would I be violating due process if I undeleted it?
+Annotation from annotator: 8
+
+Example 4:
+Text: I disagree with your edit of the 21st of November.  Would you object to me inserting a new version based around the word 'Notwithstanding'?
+Annotation from annotator: 20
+
+Example 5:
+Text: I think you made a mistake in merging <url> onto <url> instead of <url>.  Or did you want to do further editing before actually adding the material into <url>?
+Annotation from annotator: 8
+
+Example 6:
+Text: I.m keen to see your recent abbey article on the main page, but there are no references. Can this be fixed?
+Annotation from annotator: 20
+
+Example 7:
+Text: BTW, as a complete aside, I have wondered for years why Enver Bey/Pasha is at <url>. What do you think?
+Annotation from annotator: 8
+
+Example 8:
+Text: an IP user changed Liam's Name into Reim in <url> and i havent seen anyone undo his edit. IS it the official English name?
+Annotation from annotator: 16
+
+Example 9:
+Text: I've been going through <url> and replacing the FiveHorizons.com refs (per Quadzilla99's comments). However, refs 39 and 40 don't seem to appear anywhere else; could you perhaps replace them with more reliable sources if you get the chance?
+Annotation from annotator: 16
+
+Example 10:
+Text: Hi there, what do you think would be a good way to explicitly point out in IPA that a two vowel string is <url> and not a <url>? Can one use the same underdot diacritic used for <url>s, <person>?
+Annotation from annotator: 12
+
+Example 11:
+Text: Where are the actual findings of fact and sanctions in Haiduc's case? Do they need to be tweaked?
+Annotation from annotator: 16
+
+Target Example:
+Text: I plan on getting the page up at some point this weekend, no latter than Monday though for obvious reasons. Why do you ask?
+Annotation from annotator:

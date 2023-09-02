@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVlnalYr2ltyksxFguJtCrHprOLJ",
+    "object": "chat.completion",
+    "created": 1686314679,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 556,
+        "completion_tokens": 133,
+        "total_tokens": 689
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "5.00% of responsive annotators labeled the text with 0\n20.00% of responsive annotators labeled the text with 1\n60.00% of responsive annotators labeled the text with 2\n15.00% of responsive annotators labeled the text with 3\n0.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels provided, it seems that the statement \"It is dangerous for a grandparent to risk a fall\" is considered controversial, with 60% of the raters labeling it as such. Therefore, my prediction for the soft label of this text would be 2."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

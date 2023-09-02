@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: I'm in Outer Mongolia from the 27th till the 10th, UB, Hovsgol, UB. Maybe we can meet?
+Annotation from annotator: 15.0
+
+Example 2:
+Text: I guess there's a connection to <url> too. Do you think that's cu worthy?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: I have listened to the beginning for your recording of Thomas Jefferson and nothing is mentioned that Thomas Jefferson owned slaves or Thomas Jefferson and Sally Hemings. Why?
+Annotation from annotator: 4.0
+
+Example 4:
+Text: #I am still convinced the long page on "prostatitis" (a misnomer in the case of CPPS) is confusing, with too many sections and subsections, and would benefit from restructuring and the creation of separate pages for each area, or at the very least the removal of the CPPS section to its own, in depth page. You were the only editor to object to this going ahead, with this comment: "So, suggest keep this on hold for now, but in principle one might similarly split off other classification categories with this then just umbrella simple introduction." Do you still hold this view?
+Annotation from annotator: 9.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Hello, I've written a page about the <url>, shamelessly copying the style from your CCT/FoFC lists. In the process, have I missed anything out?
+Annotation from annotator: 18.0
+
+Example 2:
+Text: Hi, you recently speedily deleted this image and in your explanation stated that I, the uploader, was informed of this. I was not - please could you tell me why not?
+Annotation from annotator: 20.0
+
+Example 3:
+Text: I've got some. Want any of them?
+Annotation from annotator: 15.0
+
+Example 4:
+Text: Hi. Just out of interest, are you by any chance the same Tom Walker who maintains this <url>?
+Annotation from annotator: 20.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: "The" house arrest? Shouldn't it either be "her" house arrest or just simply "house arrest"?
+Annotation from annotator: 8.0
+
+Example 2:
+Text: Your DYK hook for <url> is missing something. It says "''Frank Bancroft managed the now-defunct Major League Baseball Providence Grays...''" - maybe "'''his''' now-defunct Major League Baseball '''team, the''' Providence Grays,..."?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: <url> has lots of problems, not the least of which is a misspelled title. Do you recommend it be nominated for WP:PROD, or is there a better path to take?
+Annotation from annotator: 20.0
+
+Example 4:
+Text: Let me ask you this.  Assuming we take it that the player might have chosen any door to start with and the host may have opened any unchosen goat-hiding door, why do you not insist that the starting sample space must include all the possible door combinations?
+Annotation from annotator: 12.0
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: Whoever's using the account has requested unblock again and seems penitent. Any comments?
+Annotation from annotator:

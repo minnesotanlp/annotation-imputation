@@ -1,0 +1,122 @@
+Example 1:
+Text: You shouldn't wear a nightdress if you're male.
+Annotation from annotator: 2
+
+Example 2:
+Text: Couple should work together to solve problems
+Annotation from annotator: 3
+
+Example 3:
+Text: It's bad to prematurely quit because of frustration.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's rude to support one person more than another.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's not okay to expect more than a person can give.
+Annotation from annotator: 2
+
+Example 6:
+Text: It's understandable to not want to contribute work to a group project.
+Annotation from annotator: 1
+
+Example 7:
+Text: People shouldn't want others to debase them, as it mars their souls.
+Annotation from annotator: 3
+
+Example 8:
+Text: You shoulld not worry about others being jealous when posting things on facebook.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's expected that friends will play jokes on each other.
+Annotation from annotator: 2
+
+Example 10:
+Text: You can't expect love young to last forever.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's wrong to value things over people.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's wrong to want to hide who you really are.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't expect people to do all their chores.
+Annotation from annotator: 1
+
+Example 14:
+Text: If someone forbids you from doing something, you should respect them.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's normal to block cell signals in certain environments.
+Annotation from annotator: 3
+
+Example 16:
+Text: Partners are expected to want to spend a good amount of time with each other.
+Annotation from annotator: 3
+
+Example 17:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's okay to hurt somebody who's stealing from you
+Annotation from annotator: 1
+
+Example 19:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation from annotator: 3
+
+Example 20:
+Text: Partners are expected to support each other.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's bad to hate babies.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's okay if you are tired at work if you want to ask to go home.
+Annotation from annotator: 2
+
+Example 23:
+Text: It is ok if you cancel last minute on people due to an illness.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's okay to be upset with a friend.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is wrong to want to be humiliated.
+Annotation from annotator: 2
+
+Example 26:
+Text: It's good to take your date out places.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's understandable if you don't want your teacher to express their political leanings.
+Annotation from annotator: 3
+
+Example 28:
+Text: Relationships are expected to have clear communication.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to have a best friend.
+Annotation from annotator: 3
+
+Example 30:
+Text: It is responsible to look out for the children of the community.
+Annotation from annotator: 3
+
+Text: It's not necessary to be strong
+Annotation from annotator:

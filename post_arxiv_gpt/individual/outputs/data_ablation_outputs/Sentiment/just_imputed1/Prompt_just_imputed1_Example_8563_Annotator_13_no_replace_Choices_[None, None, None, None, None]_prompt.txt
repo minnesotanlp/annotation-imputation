@@ -1,0 +1,122 @@
+Example 1:
+Text: I think I had food poisoning 2 days in a row. Yesterday after sushi, and today after eating chicken salad w/ chicken that was a bit old
+Annotation from annotator: 1
+
+Example 2:
+Text: @elwinlaraemie Yes- even when he was 16 years old we called him 'puppy' LOL
+Annotation from annotator: 2
+
+Example 3:
+Text: dunkin donuts (((: i hope @DanceDancexox doesnt die from the old lady and the nun
+Annotation from annotator: 1
+
+Example 4:
+Text: off to spend my morning with 5 year olds...my favorite is the tiny one with the big brown eyes
+Annotation from annotator: 3
+
+Example 5:
+Text: @Coralalala good old primark ;D but its only 8 hours
+Annotation from annotator: 2
+
+Example 6:
+Text: @JEFFHARDYBRAND legend Jeff! What you reckon to Kat (ECW), old UK mate from York! Olden days
+Annotation from annotator: 2
+
+Example 7:
+Text: @theimpulsivebuy - No! I'm too busy. I'm just going to go buy some.. the old fashioned way. With the store.. and money.
+Annotation from annotator: 3
+
+Example 8:
+Text: http://twitpic.com/6geas - At old town with my peabody!
+Annotation from annotator: 2
+
+Example 9:
+Text: doing boring old science homework  btw ppl if your going to wag class dont go to another class instead (random ppl)
+Annotation from annotator: 1
+
+Example 10:
+Text: Grandpa + 88 years old + fall = broken leg. Not good.
+Annotation from annotator: 1
+
+Example 11:
+Text: No one is awake and I'm left here with just me and old Twitterfox to get through the night
+Annotation from annotator: 2
+
+Example 12:
+Text: @efan78 How about you? Oldest or youngest in the class at school?
+Annotation from annotator: 2
+
+Example 13:
+Text: fucking long ass time. Feel like im not good enough or just plain old used. w/e, time to get over him i guess
+Annotation from annotator: 1
+
+Example 14:
+Text: Just confiscated a recorder from a young child, feel quite bad
+Annotation from annotator: 1
+
+Example 15:
+Text: http://twitpic.com/5ofz5 - children playing 'round the old fountain.
+Annotation from annotator: 3
+
+Example 16:
+Text: about to sit down and eat a big old bowl of pineapple!
+Annotation from annotator: 2
+
+Example 17:
+Text: @LuciusPastime I'm going to sound really old-fashioned here, but I still use my dad's old Silver Arrow. Kind of an antique, if you may.
+Annotation from annotator: 3
+
+Example 18:
+Text: @remymoore wish we hung out like the old days
+Annotation from annotator: 2
+
+Example 19:
+Text: Really sad that I have to head to mge  she's a mean old professor who takes pride with mind fucking
+Annotation from annotator: 0
+
+Example 20:
+Text: miss good old St James and Green Park, especially when the daffs are out   Have a great show
+Annotation from annotator: 3
+
+Example 21:
+Text: Weather amazing here. Going to break for some iced tea & company of an old Springer Spaniel.
+Annotation from annotator: 3
+
+Example 22:
+Text: don't you just hate these old drivers on the road that cause accidents...Rubens  #F1
+Annotation from annotator: 1
+
+Example 23:
+Text: @Bearsuitband Saw that yesterday; it's my old Uni and I can't make it  Have a good gig!
+Annotation from annotator: 2
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of a 75 year old!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to having a good old spree in meadowhall with @AniNicholas
+Annotation from annotator: 3
+
+Example 26:
+Text: trying to remember the lyrics of a song with the world cinderella... i know is a old song, light rock, but arghh can't remember
+Annotation from annotator: 2
+
+Example 27:
+Text: so excited to catch up with some old friends tonight!  haven't seen them in a while
+Annotation from annotator: 4
+
+Example 28:
+Text: im getting jealous of the looks of my old friends in mtl  they look amazing and im just.. -- PFFT .
+Annotation from annotator: 1
+
+Example 29:
+Text: @tearsasmith Nah, you're not old! XD Lots of people don't know what "XD" means. But it's good you know "LOL".
+Annotation from annotator: 1
+
+Example 30:
+Text: @hellorachael Yes! Although, you could use most of the old characters as they're in this movie  Into the loft you go :p
+Annotation from annotator: 2
+
+Text: Just passed a saab older than hers on the thruway. Vt plates
+Annotation from annotator:

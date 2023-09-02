@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVmDTSOyv6zpNiymhs9cHTqXqvMl",
+    "object": "chat.completion",
+    "created": 1686314705,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 554,
+        "completion_tokens": 129,
+        "total_tokens": 683
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n2.00% of responsive annotators labeled the text with 1\n20.00% of responsive annotators labeled the text with 2\n60.00% of responsive annotators labeled the text with 3\n18.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels provided, it seems that the statement \"You should be grateful when someone does nice things for you\" is a common belief among the world population, but not quite universal. Therefore, I would predict a soft label of 3 for this text."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

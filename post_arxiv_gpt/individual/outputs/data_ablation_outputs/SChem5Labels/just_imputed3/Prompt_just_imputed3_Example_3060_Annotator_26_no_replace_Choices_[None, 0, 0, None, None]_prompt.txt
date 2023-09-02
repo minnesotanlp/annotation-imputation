@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: You shouldn't be too pushy with your friends or you might scare them away.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's rude not to invite your sibling to your graduation.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's good when things in life go your way.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's understandable to face financial uncertainty.
+Annotation from annotator: 4
+
+Example 5:
+Text: It is good to talk through your feelings.
+Annotation from annotator: 3
+
+Example 6:
+Text: If you keep thinking about death, you should get some help.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should keep your possessions in good order.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's fun to go out fishing with your grandparents.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's frustrating when there's a mistake with your paycheck.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's okay to put your education before your family at times
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to attend college after you graduate from high school.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's not okay to put yourself in a dangerous situation.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's good to reuse items and not buy new ones.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is wrong to value a substance more than your significant other
+Annotation from annotator: 4
+
+Example 15:
+Text: It's okay to feel excited if you almost missed your plane but you made it!
+Annotation from annotator: 4
+
+Example 16:
+Text: You should always wear black to a funeral.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's good to spend time to learn something new.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's okay to be distraught at the death of a marriage partner.
+Annotation from annotator: 4
+
+Example 19:
+Text: You should not offend someone by telling them that their oil is smelly.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's understandable to be upset when one is hungry.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't start arguments with others in public.
+Annotation from annotator: 4
+
+Example 22:
+Text: You should fire someone who sexually harasses their coworkers.
+Annotation from annotator: 4
+
+Example 23:
+Text: You shouldn't catfish people.
+Annotation from annotator: 4
+
+Example 24:
+Text: You shouldn't be with a friend who loves you and you don't love them back.
+Annotation from annotator: 3
+
+Example 25:
+Text: You shouldn't put a friend's ex before them.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's understandable to want your child to involve you in their decision about who to marry.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is expected that you provide for your family
+Annotation from annotator: 4
+
+Example 28:
+Text: It is polite to explain why if you need to decline a gift.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to allow people to have freedom to do what they want.
+Annotation from annotator: 3
+
+Example 30:
+Text: You should understand if someone wants to where something comfortable wherever they choose to.
+Annotation from annotator: 3
+
+Target Example:
+Text: You shouldn't reject your family's gift.
+Annotation from annotator:

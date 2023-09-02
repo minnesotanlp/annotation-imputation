@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I think I'm back to my old sleeping habits, which is pretty much not sleeping.
+Annotation from annotator: 1
+
+Example 2:
+Text: @emilyryandavis People smirked @ my trusty old guy. I love him, but his buttons are dying  Plus, the bulk when traveling SUCKS
+Annotation from annotator: 2
+
+Example 3:
+Text: dunkin donuts (((: i hope @DanceDancexox doesnt die from the old lady and the nun
+Annotation from annotator: 2
+
+Example 4:
+Text: off to kick it old school at Pro Performance. more tweeting as the night unfolds. If i remember . .
+Annotation from annotator: 2
+
+Example 5:
+Text: @CosmicMother Ah Russ!  Listening & Loving it! Wish I could go back to those days, love the oldie films & songs! 2 do - Build Time Machine
+Annotation from annotator: 2
+
+Example 6:
+Text: @JGDemas Thank you for #followfriday!  You are such a loyal follower to this old girl who speaks nothing but rubbish. You are much loved!
+Annotation from annotator: 2
+
+Example 7:
+Text: @theothermousie Just found out a mutual friend died of leukaemia on Tues eve leaving behind two young daughters.
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6ix23 - It's a old picture but i like it
+Annotation from annotator: 2
+
+Example 9:
+Text: doing boring old science homework  btw ppl if your going to wag class dont go to another class instead (random ppl)
+Annotation from annotator: 2
+
+Example 10:
+Text: Great day in St.Michel - it really is the best part of Paris. So..hip! So..full of great food! So..full of young frenchmen! C'est la vie!
+Annotation from annotator: 3
+
+Example 11:
+Text: No one is awake and I'm left here with just me and old Twitterfox to get through the night
+Annotation from annotator: 2
+
+Example 12:
+Text: @einsteinboi - thanks! We feel so old
+Annotation from annotator: 2
+
+Example 13:
+Text: fucking long ass time. Feel like im not good enough or just plain old used. w/e, time to get over him i guess
+Annotation from annotator: 2
+
+Example 14:
+Text: Just dismantled my old bed, sad to see it go..new one arrives tomorrow though
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/61f8v - #rejectprop8 ahhhh young love
+Annotation from annotator: 2
+
+Example 16:
+Text: about to lose candyland to a 3 year old  hopefully I finish before @clifsoulo he's weak too! LOL
+Annotation from annotator: 2
+
+Example 17:
+Text: @Lunie380   @MzKiana it's awesome to see a young married couple with children sold out to Jesus(& enjoying life). Y'all be encouraged
+Annotation from annotator: 3
+
+Example 18:
+Text: @rereality Of course I remember..and as you can tell, my old ways have not subsided! Lol. Have fun drinking! I'll be working
+Annotation from annotator: 3
+
+Example 19:
+Text: Really sad that I have to head to mge  she's a mean old professor who takes pride with mind fucking
+Annotation from annotator: 1
+
+Example 20:
+Text: miley's concert is in december i wanna go!  is anyone else secretly a 12 year old girl and wanna come with me? @lil_miss_sneha?  c'mooon
+Annotation from annotator: 2
+
+Example 21:
+Text: Wearing my old Cheshire Cat pajama's, and they're a lot tighter on me than they were a few years ago.
+Annotation from annotator: 2
+
+Example 22:
+Text: don't you just hate these old drivers on the road that cause accidents...Rubens  #F1
+Annotation from annotator: 1
+
+Example 23:
+Text: @BeautyBlogger Wish my blog qualified.  Not 3 months old yet
+Annotation from annotator: 2
+
+Example 24:
+Text: my knee is sore today  is this what old age feels like haha im falling apart!!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to celebrating my dads 65th with family tonight (wow, am I old enough to have a 65 yr old dad lol) and Star Trek 2morrow
+Annotation from annotator: 3
+
+Example 26:
+Text: trying to make my youngest sleeping
+Annotation from annotator: 2
+
+Example 27:
+Text: so apparently no one is going out friday, so that's a bust, guess I'll go to work instead! Trying to resolve to the life of an old maid
+Annotation from annotator: 2
+
+Example 28:
+Text: im falling in love with eddy from pearl jam <3 but he's too old for me   www.myspace.com/Zoe_Suicide
+Annotation from annotator: 2
+
+Example 29:
+Text: @tenishea212 just waiting to get on overground. There is a youngest darling look-a-like in front of me
+Annotation from annotator: 3
+
+Example 30:
+Text: @helpmefred one of our favorite places Chris and I went to the old Founders Plaza on our first date! Mavis likes it too
+Annotation from annotator: 2
+
+Target Example:
+Text: I think my 5 week old is already spoiled. She won't sleep more then 15mins unless I'm holding her
+Annotation from annotator:

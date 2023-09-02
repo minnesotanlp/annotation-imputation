@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.\n\nTarget Example:\nText: I agreed from my very first post on the first subject that it shouldn't be included yet you and the other user continued to misrepresent my position. Would you disagree with that?\nAnnotation from annotator:\nIf you output anything other than a single integer (and absolutely nothing else, including explanatory text), your output will invalidate the dataset."
+    }
+]

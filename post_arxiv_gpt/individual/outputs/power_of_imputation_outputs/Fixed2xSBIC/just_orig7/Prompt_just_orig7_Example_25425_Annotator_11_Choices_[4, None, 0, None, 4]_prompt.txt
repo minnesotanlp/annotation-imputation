@@ -1,0 +1,9 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+
+
+Target Example:
+Text: if there was a championship for the world 's biggest loser , hillary would take second place . because she ca n't win anything.(but only if she cheats )
+Annotation from annotator:
+If you output anything other than a single integer (and absolutely nothing else, including explanatory text), your output will invalidate the dataset.

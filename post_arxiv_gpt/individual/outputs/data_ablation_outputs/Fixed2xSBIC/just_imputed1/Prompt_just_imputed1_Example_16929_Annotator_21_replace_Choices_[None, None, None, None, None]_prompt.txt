@@ -1,0 +1,128 @@
+Example 1:
+Text: A few people poked me yesterday, but I was up to my eyeballs in meetings. Responding later this morning.
+Annotation from annotator: 0
+
+Example 2:
+Text: What’s the fastest time to leave the World Trade Center? 10 seconds FLAT
+Annotation from annotator: 2
+
+Example 3:
+Text: What's the difference between drugs and schools? I don't shoot up my drugs.
+Annotation from annotator: 2
+
+Example 4:
+Text: || @earthlingLean || &#127800;A QUEEN &#127800;slay &#127800;multi-fandom &#127800;selfies on point &#127800;qtie &#127800;ily &#127800;layout always on point &#127800;UR EDITING SKILLS&#128557;&#128175;
+Annotation from annotator: 0
+
+Example 5:
+Text: My room is: CO2: 486ppm Pressure: 1013.03hPa Temperature: 20.51°C Humidity: 54.23% Luminosity: 0Lux 2017/03/31-02:37:24
+Annotation from annotator: 0
+
+Example 6:
+Text: Journalist here looking to interview a Columbia student regarding the Nungesser/Sulkowicz scandal : columbia cross-post to Columbia U's reddit.
+Annotation from annotator: 0
+
+Example 7:
+Text: Beeline TV - Watch Online TV - Free Internet TV - Live TV Channels This has got a number of Japanese TV links for streaming .
+Annotation from annotator: 0
+
+Example 8:
+Text: Lmao trifling ass bitch!
+Annotation from annotator: 1
+
+Example 9:
+Text: Lillie does my fucking head in, all she does is cry #EOTB
+Annotation from annotator: 2
+
+Example 10:
+Text: Day 3 of #CIFest17 is upon us. Taking this time to consider how to make use of all I've experienced this weekend.
+Annotation from annotator: 0
+
+Example 11:
+Text: Fuck @ATT and every fucking number they have that takes you too a fucking ROBOT!
+Annotation from annotator: 2
+
+Example 12:
+Text: Need skype verification for keybase.io.
+Annotation from annotator: 0
+
+Example 13:
+Text: 791 words on one project and some substantial outlining on another project. Also really good chai. #amwriting #AprWritingChallenge
+Annotation from annotator: 0
+
+Example 14:
+Text: One of my friends has Sun conjunct Neptune. Shes always attracting men who need saving. And her compassionate ass tries to save em like girl
+Annotation from annotator: 0
+
+Example 15:
+Text: SHARE THIS POLL
+
+Why do you think Torba banned weev?
+Annotation from annotator: 0
+
+Example 16:
+Text: &gt; I don't need a gf
+tfw you just fapped and that feel lasts a few minutes
+Annotation from annotator: 0
+
+Example 17:
+Text: if you had told me that mike tyson was better than cosby and OJ in the 90s i would never have believed you
+Annotation from annotator: 0
+
+Example 18:
+Text: #RailaPlanningChaos is the only thing he's good at. You can't be a judge and a respondent at the same time. Choose one!
+Annotation from annotator: 1
+
+Example 19:
+Text: If attorney general who publicly denounced the inconstitutional move,doesn't remove the culprits afterwards, it will mean she is a complicit
+Annotation from annotator: 0
+
+Example 20:
+Text: Your favourite BBN housemate cannot recite the Nigerian national anthem,yet you're soliciting for votes from Nigerians, she's not one of us.
+Annotation from annotator: 1
+
+Example 21:
+Text: Say what you want about WWII but... Whoever killed Hitler is my hero
+Annotation from annotator: 1
+
+Example 22:
+Text: A girl in Syria went to a party She had a blast. Guys were having a tough time picking her up.
+Annotation from annotator: 2
+
+Example 23:
+Text: Always helps to read the pre joining course material. That way you'd find out you have an exam first thing tomorrow.... &#128553;&#128553;&#128580;
+Annotation from annotator: 0
+
+Example 24:
+Text: Man’s marriage proposal inside McDonald’s chicken sandwich isn’t well-received by girlfriend [x-post /r/news]
+Annotation from annotator: 0
+
+Example 25:
+Text: When @MedievalReacts posts 8 fucking betting tweets #unfollow #byefelicia
+Annotation from annotator: 2
+
+Example 26:
+Text: What did the Alabama sheriff say after he saw a black guy with seventeen shotgun blasts in his back? "Worst case of suicide I have ever seen!"
+Annotation from annotator: 2
+
+Example 27:
+Text: Good morning everyone i hope your week is going as planned so fare if not hang in there tomorrow is Friday
+Annotation from annotator: 0
+
+Example 28:
+Text: I just passed Devil ' s Lake , ND where the flooding is .
+Annotation from annotator: 0
+
+Example 29:
+Text: I must have a ugly nigga magnet attached to me somewhere
+Annotation from annotator: 1
+
+Example 30:
+Text: Why can't a t-rex clap? Because it's dead.
+Annotation from annotator: 0
+
+Text: I hope I get shot and killed at work today
+That'd be cool 
+
+No one else has to die but me, either
+Annotation from annotator:

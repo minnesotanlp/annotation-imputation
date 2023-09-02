@@ -1,0 +1,173 @@
+Human-rated Examples:
+Example 1:
+Text: It's wise to never let yourself get embarrassed by your significant other.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's not normal to dislike everybody
+Annotation from annotator: 3
+
+Example 3:
+Text: It's rude to dislike your best friend's boyfriend.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's okay to be upset if someone you report to at work lets you take the blame for something you didn't do.
+Annotation from annotator: 3
+
+Example 5:
+Text: You should always respect your partner's choices.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's wrong to spend other people's money.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't be so scared about getting married.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's wrong to want to hide who you really are.
+Annotation from annotator: 2
+
+Example 9:
+Text: You shouldn't have sex with people if you have herpes.
+Annotation from annotator: 3
+
+Example 10:
+Text: You shouldn't video tape someone without their permission.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should thank someone when they invite tou to thier wedding.
+Annotation from annotator: 3
+
+Example 12:
+Text: You can't expect your family members to support you if you're lazy.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's expected that revealing secrets will lead to trouble.
+Annotation from annotator: 3
+
+Example 14:
+Text: If you are uncomfortable with your partner feeding your kids, you should not let your partner watch your children.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's okay to have sex on camera.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is reasonable to want to hold onto loving memories after losing someone.
+Annotation from annotator: 3
+
+Example 19:
+Text: You shouldn't play pranks on people.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's okay to have an abortion.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's wrong to think you're responsible for somebody else's life
+Annotation from annotator: 2
+
+Example 22:
+Text: You should not get angry when your chronically ill relative needs help.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good to play games of chance where you can win money.
+Annotation from annotator: 2
+
+Example 25:
+Text: Relationships are expected to have clear communication.
+Annotation from annotator: 3
+
+Example 26:
+Text: You shouldn't try to get sympathy from people just because you're in the hospital.
+Annotation from annotator: 2
+
+Example 27:
+Text: You shouldn't be friends with someone that talks badly about you behind your back.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's okay to carry your pet in public as a status symbol
+Annotation from annotator: 1
+
+Example 29:
+Text: It's not okay to be in a romantic relationship with a teacher.
+Annotation from annotator: 3
+
+Example 30:
+Text: You can't expect everyone to like you.
+Annotation from annotator: 3
+
+Estimated Examples:
+Example 1:
+Text: It's good to be honest when you give your kids the sex talk.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's wrong for people that care about each other to argue.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's inappropriate to make passes at an underling.
+Annotation from annotator: 3
+
+Example 4:
+Text: Couple should work together to solve problems
+Annotation from annotator: 3
+
+Example 5:
+Text: It's okay to throw away compostables.
+Annotation from annotator: 2
+
+Example 6:
+Text: It's bad to smoke.
+Annotation from annotator: 3
+
+Example 7:
+Text: You can't expect someone to pay off their loans immediately.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's not necessary to be strong
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't put up an antenna if it's snowing outside.
+Annotation from annotator: 1
+
+Example 10:
+Text: It's good to have a best friend.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's bad to lose track of your belongings.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's not okay to have to rely on special tools when they aren't really needed.
+Annotation from annotator: 2
+
+Target Example:
+Text: People shouldn't betray the trust of those they're close to.
+Annotation from annotator:

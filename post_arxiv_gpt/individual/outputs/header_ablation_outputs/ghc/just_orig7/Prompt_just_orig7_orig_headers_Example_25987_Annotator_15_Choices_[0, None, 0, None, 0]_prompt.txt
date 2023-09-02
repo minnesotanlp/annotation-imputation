@@ -1,0 +1,127 @@
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Estimated Examples:
+Example 1:
+Text: European Resistance News 
+Annotation from annotator: 0
+
+Example 2:
+Text: Things are blooming and booming! 😊 Thank you
+Annotation from annotator: 0
+
+Example 3:
+Text: Patriots here in the land of the free, should set aside a day, like Aug 21st.... 
+Annotation from annotator: 0
+
+Example 4:
+Text: https://www.InternetBusinessSolutions.com - This site had the information I was looking for. #ibs #internet_business_solutions
+Annotation from annotator: 0
+
+Example 5:
+Text: Can't have your communist utopia if free people put up a fight, people can't put up a fight if they don't have firearms. This doesn't seem to difficult to think through, not sure why some don't get it. COME AND TAKE IT!
+Annotation from annotator: 0
+
+Example 6:
+Text: When DB buys the farm, It's all over for Europe.
+Annotation from annotator: 0
+
+Example 7:
+Text: I don't remember anyone on the left calling for a Muslim ban after the Orlando nightclub shooting?
+Annotation from annotator: 0
+
+Example 8:
+Text: I found the live topics a good way of getting started, groups sound a bit facebookish/cliquey but I look forward to my scepticism being proved wrong
+Annotation from annotator: 0
+
+Example 9:
+Text: Former State Senator Sentenced To 15 Years In 'Tragedy Of Your Own Making' - https://t.co/VNzDbqIDK4 https://t.co/BaImIZxjd5
+Annotation from annotator: 0
+
+Example 10:
+Text: Yeah I know, and if you attack jews they'll call you a cultural marxist. I've actually seen it. They claim we want a communist Hitler utopia filled with Muslims. Such idiots
+Annotation from annotator: 1
+
+Example 11:
+Text: In Clown World, vandals are "aerosol artists" paid millions of dollars http://archive.is/EpjMz#40%
+Annotation from annotator: 0
+
+Example 12:
+Text: lol how is this even possible?
+Annotation from annotator: 0
+
+Example 13:
+Text: Fuck off with this bull shit! They were never in any danger, the 'bombs" were fake and nobody got hurt
+Annotation from annotator: 0
+
+Example 14:
+Text: The Awan Brothers: Fallen off the radar 
+Annotation from annotator: 0
+
+Example 15:
+Text: Stop putting bullshit in my peoples brains, they’ve had enough of Jews deceiving them, even if they don’t know it.
+Annotation from annotator: 1
+
+Example 16:
+Text: Europe needs their guns back.
+Annotation from annotator: 0
+
+Example 17:
+Text: How about none of the above?
+Annotation from annotator: 0
+
+Example 18:
+Text: Conservative judges recuse themselves. The left wing judges do not. They are dishonest and corrupt. The judge that found Flynn guilty was friend of Democrats and biased. Recused himself after the trial of Flynn. We have to get rid of the deep state judges. Or we are in same trouble as London England. They now are run by Jews & Muslims and have corrupt judges
+Annotation from annotator: 0
+
+Example 19:
+Text: Twitter banning the Proud Boys but not Antifa is the biggest example of censorship bias against people on the Right to date.
+Annotation from annotator: 0
+
+Example 20:
+Text: Trump doesn't love dreamers. you need to listen to the real truth on why he cut that deal and not just the CNN version.
+Annotation from annotator: 0
+
+Example 21:
+Text: Sounds like trial and long sentence in his future
+Annotation from annotator: 0
+
+Example 22:
+Text: I've been booted out twice today, logged in aight though.
+Annotation from annotator: 0
+
+Example 23:
+Text: Angel Families Demand Politicians Act After Illegal Alien Kills Mollie Tibbetts
+Annotation from annotator: 0
+
+Example 24:
+Text: They sad thing if the two switched positions: the Senate and Kentucky would be better served.  Heck, I bet she could of got the wall funded.  Though, she probably does not personally support the idea.  Looking at her history she is both a team player and gets things done.  Unlike Mitch who cares more about power than actual results.
+Annotation from annotator: 0
+
+Example 25:
+Text: Penalty after Penalty, commercials after commercials. College Football is getting hard to watch. It just isn’t fun to watch.
+Annotation from annotator: 0
+
+Example 26:
+Text: I’m never able to attend the live recording. Most of my random posts are me talking to the screen while I’m catching up on the daily @QuiteFrankly‍ @politicalorgy  
+Annotation from annotator: 0
+
+Example 27:
+Text: Yeah I though that you would love it here when I found it. I thought of your many threads.
+Annotation from annotator: 0
+
+Example 28:
+Text: This is what they call fiction 
+Annotation from annotator: 0
+
+Example 29:
+Text: The Blind can see this is an invasion of Western lands! If we don’t do something we will cease to exist! Any politician who allows it advocates for this is a traitor!
+Annotation from annotator: 1
+
+Example 30:
+Text: Hey guys, there is a gab app for Android.  It is not allowed on GooglePlay.   
+Annotation from annotator: 0
+
+Target Example:
+Text: And you are a liar ,I hate no one race , every race has it's good and bad .
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

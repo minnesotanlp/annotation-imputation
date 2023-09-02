@@ -1,0 +1,138 @@
+Estimated Examples:
+Example 1:
+Text: "But, if I was writing a piece on Pokemon, I would write ""I took my Pokemon to the Pokemon Center."" Because any other way looks wrong."
+Annotation from annotator: 0
+
+Example 2:
+Text: my pet bird hates my kitchen timers, and guess what? i’m beginning to hate them too, always nagging me, “beep beep beep,” stfu bitcj
+Annotation from annotator: 0
+
+Example 3:
+Text: UNITED STATES IS SCREWED 11
+MILLION DOLLARS .....EVERY
+
+DAY.....TO israHELL
+
+BY THE US TAXPAYERS
+
+TELL YOUR CHILDREN .....DAUGHTERS....TO WORK HARDER BITCH.....GET IT FAG
+.....
+
+Annotation from annotator: 2
+
+Example 4:
+Text: Maybe you could live on Mars and help us all out. @TheDanielNorton I'm not sexist, but if I hear a woman's voice on the radio I turn it
+Annotation from annotator: 2
+
+Example 5:
+Text: It's Trans Day of Visibility y'all. I am spending it as a trans ally at the @agendergovuk conference. Looking forward to it! #tdov
+Annotation from annotator: 0
+
+Example 6:
+Text: You cant say black But you can say white, Double standards.
+Annotation from annotator: 1
+
+Example 7:
+Text: Hey can anybody tell me how I can view TRUMP TV and when it's going to be launched and more stuff in general like that I would really appreciate it because I'm getting back into covering Politics
+Annotation from annotator: 0
+
+Example 8:
+Text: "You know Nothing, John Snow"
+"Thanks"
+
+“The only true wisdom is in knowing you know nothing.” 
+― Socrates
+Annotation from annotator: 0
+
+Example 9:
+Text: What is the difference between a priest and a zit? The zit doesn't cum on your faxe until you're a teenager
+Annotation from annotator: 2
+
+Example 10:
+Text: what is hitler 's favorite pókemon ? koffing
+Annotation from annotator: 1
+
+Example 11:
+Text: What's the difference between a chicken and a baby? The chicken is usually dead when I tear it's legs apart and start eating it
+Annotation from annotator: 2
+
+Example 12:
+Text: What did Carrie Fisher's on screen mom and her real life mom have in common? They both died from sadness.
+Annotation from annotator: 2
+
+Example 13:
+Text: I'm all for women's rights and freedom and whatever, as long as they still put out.
+Annotation from annotator: 2
+
+Example 14:
+Text: FUCK MCDONALD'S IN EVERY COUNTRY FOR WHAT THEY SAID ABOUT THE PRESIDENT OF THE UNITED STATES !!!!
+Annotation from annotator: 1
+
+Example 15:
+Text: How to respond to terrorism from Muslims Bomb the Kaaba.
+Annotation from annotator: 2
+
+Example 16:
+Text: "@Layne_Harris956 @LeviKing55 @128_COLBY ""If ur from azle or anywhere else the cops are coming , if not then continue partying!"""
+Annotation from annotator: 0
+
+Example 17:
+Text: What's the best thing about fucking a 7 year old boy? Watching him break down on the witness-stand.
+Annotation from annotator: 2
+
+Example 18:
+Text: Why aren't movies with black people free? Because movies aren't.
+Annotation from annotator: 2
+
+Example 19:
+Text: Book on police corruption which has been pulped due to legal issues.
+Annotation from annotator: 0
+
+Example 20:
+Text: Watching conservacucks slobber all over the Western Wall makes me ill.
+Annotation from annotator: 2
+
+Example 21:
+Text: I'm sure I heard that many Catholic churches in Ireland are experiencing large numbers again thanks to the growing Polish populations .
+Annotation from annotator: 0
+
+Example 22:
+Text: It's like you're in Mexico, but you can drink the water.
+Annotation from annotator: 2
+
+Example 23:
+Text: their report is the very DEFINITION of cherry picking.
+Annotation from annotator: 0
+
+Example 24:
+Text: Drawchester FC! Unbeaten united, fucking cunts #mufc
+Annotation from annotator: 2
+
+Example 25:
+Text: What martial arts type was hitler scared of? jewjitsu
+Annotation from annotator: 2
+
+Example 26:
+Text: What's the difference between a Muslim and a Pedophile? You're telling me there is one?
+Annotation from annotator: 2
+
+Example 27:
+Text: i wish i were like mary . i could be pregnant while my parents still think that i 'm a virgin .
+Annotation from annotator: 0
+
+Example 28:
+Text: ...I'm so exhausted and I need to sleep Or climb the great Divide Or wake up beside myself just to know I'm alive...
+Annotation from annotator: 0
+
+Example 29:
+Text: What does the d in ajit pai stand for? Dead
+Annotation from annotator: 1
+
+Example 30:
+Text: Bisexuals
+I'm curious as to what the consensus is on bisexuality with both males and females here.
+Annotation from annotator: 0
+
+Target Example:
+Text: Make the best of the west coast. Enter to win everything you need to plan an epic drive up the scenic west coast: https://t.co/HpoPJbKdOE
+Annotation from annotator:

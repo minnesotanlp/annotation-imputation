@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Estimated Examples:
+Example 1:
+Text: It's not okay to think someone is lying to you when it's important.
+Annotation from annotator: 4
+
+Example 2:
+Text: You shouldn't post inappropriate pictures online.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's okay to not feel guilty when you cheat.
+Annotation from annotator: 1
+
+Example 4:
+Text: It's not okay to be to happy with a material object.
+Annotation from annotator: 4
+
+Example 5:
+Text: If you have conflict in your marriage, it is expected that you always consider your children's feelings.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's expected that you'll stay home from work when you are sick.
+Annotation from annotator: 4
+
+Example 7:
+Text: Friendships ought to be valued over material possessions.
+Annotation from annotator: 4
+
+Example 8:
+Text: You shouldn't have to stay at a place you don't like.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's expected that you won't exchange goods and money for sexual photos when you're married.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's okay to have an abortion.
+Annotation from annotator: 2
+
+Example 11:
+Text: You shouldn't have sex with people if you have herpes.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's good to give advice to your friends.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's wrong to admire villains.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's fine to establish rules for how long your rommates can have company stay.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's wrong to want to hide who you really are.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's good for a parent to want their children to make the best decisions possible.
+Annotation from annotator: 4
+
+Example 17:
+Text: You should care about your siblings.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's not okay to be in a romantic relationship with a teacher.
+Annotation from annotator: 4
+
+Example 19:
+Text: You don't have to be responsible for your cousin's problems.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's not normal to dislike everybody
+Annotation from annotator: 4
+
+Example 21:
+Text: It is understandable to call the police when you know someone is committing a crime.
+Annotation from annotator: 4
+
+Example 22:
+Text: You shouldn't be a dangerous person.
+Annotation from annotator: 4
+
+Example 23:
+Text: Parents should involve children in their problems
+Annotation from annotator: 2
+
+Example 24:
+Text: It's wrong to want to be a 50's housewife because women back then were oppressed.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is bad to have arguments.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's wrong to be into something that is annoying.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't call out your family over petty things.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's bad to have a drug addiction.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's okay to have sex on camera.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's inappropriate for a parent to help a teenage boy shower.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should feel remorse when you get someone fired.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

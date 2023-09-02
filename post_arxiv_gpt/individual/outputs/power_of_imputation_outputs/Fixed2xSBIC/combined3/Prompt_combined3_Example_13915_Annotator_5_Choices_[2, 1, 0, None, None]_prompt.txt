@@ -1,0 +1,131 @@
+Imputed Examples:
+Example 1:
+Text: #RemoveUnfairPOCSOlaw as promised Government must pay heed to the fake cases being filed against innocents. Stop POCSO Misuse!
+Annotation from annotator: 0
+
+Example 2:
+Text: bar results are coming out tomorrow(ish) and i literally can't fucking breathe.
+Annotation from annotator: 0
+
+Example 3:
+Text: I've always hated deaf jokes. I never heard a good one.
+Annotation from annotator: 1
+
+Example 4:
+Text: I'm about to see my best friend for the first time since like November even though we go to the same college and are 10mins from each other
+Annotation from annotator: 0
+
+Example 5:
+Text: What's the difference between a slave working in a field and a Jew working in a concentration camp? One is ashy, the other one is ashes.
+Annotation from annotator: 2
+
+Example 6:
+Text: Women are now against the draft since women will be included soon
+Annotation from annotator: 1
+
+Example 7:
+Text: Why does the KKK need to be stopped? Coz the keep killing our fuckin slaves
+Annotation from annotator: 2
+
+Example 8:
+Text: 26th Dec 1791birth of Charles Babbage mathematician &philosopher who first put forward the idea of a programmable computer.
+Annotation from annotator: 0
+
+Example 9:
+Text: I went to buy gars and this random nigga gone ask if I wanna match......nigga no! don't know you
+Annotation from annotator: 0
+
+Example 10:
+Text: I am incel because i lost the genetic cointoss
+50/50 chance, and i ended up as a boy :(
+
+I cant help but feel jealous of women, they're lives are incredible compared to mens, its depressing knowing that i will never look in the mirror and see a beautiful woman
+Annotation from annotator: 0
+
+Example 11:
+Text: I dont appreciate u cheatin n then u commentin on the girl u cheated on me with while havin another girl thats jus wrong n no self respect&#128175;
+Annotation from annotator: 0
+
+Example 12:
+Text: No power kule complex and it's almost noon &#128556; my neighbor's party that I didn't get an invite for starts at noon &#128579;
+Annotation from annotator: 0
+
+Example 13:
+Text: What did the nigger get on his SAT's? Watermelon Juice -Kevin Barnett
+Annotation from annotator: 1
+
+Example 14:
+Text: This is not a joke I'm gonna shoot someone this wedding party is so fucking boring I'm not even related to these counts and its huge (insert something about Ethiopia so this post counts as a joke)
+Annotation from annotator: 1
+
+Example 15:
+Text: You nigguhs glorifying pussies
+Annotation from annotator: 2
+
+Example 16:
+Text: Dark humor is like food Not everyone has it.
+Annotation from annotator: 1
+
+Example 17:
+Text: What do work boots and slaves have in common? You buy them darker so you can't see the mud after a day spent in the field.
+Annotation from annotator: 2
+
+Example 18:
+Text: Not looking for FTE outside of my anti-harassment org ;) @sebkha
+Annotation from annotator: 0
+
+Example 19:
+Text: Feminist compares Cologne mass rape to white men raping her with their eyes • /r/european
+Annotation from annotator: 1
+
+Example 20:
+Text: Looks-&gt;Social position=Validation, appreciation-&gt;Positive reinforcement-&gt;Drive and motvation to evolve and live-&gt;More energy-&gt;Success in all areas of life
+My life from the begining to now has been exacty proof of it
+Annotation from annotator: 0
+
+Example 21:
+Text: Gotta love day one college homework. Write 3 interesting facts about yourself? I thought finals were supposed to be hard this is impossible.
+Annotation from annotator: 0
+
+Example 22:
+Text: Going to the career fair made me realize how much I really don't know what I want to do the rest of my life &#128563;
+Annotation from annotator: 0
+
+Example 23:
+Text: Subhuman currycel marries an 8, displays legendary coping skills.
+Annotation from annotator: 2
+
+Example 24:
+Text: What do you get when an Autistic child gets in a car crash? Mashed potatoes.
+Annotation from annotator: 2
+
+Example 25:
+Text: Why did princess Diana cross the road? She forgot her seatbelt.
+Annotation from annotator: 1
+
+Example 26:
+Text: It's being reported by some of the British press who are usually more critical of Israel .
+Annotation from annotator: 0
+
+Example 27:
+Text: It's crazy how bitches make you niggas act like bitches... Get some fucking money
+Annotation from annotator: 2
+
+Example 28:
+Text: Any fucking way. A plane is going over my house and I jumped
+Annotation from annotator: 0
+
+Example 29:
+Text: Sipping coffee, pulling down follower list, running analytics against each of them to create a troll score.
+Annotation from annotator: 0
+
+Example 30:
+Text: what do you call a black man who 'd lost his car ? a prisoner . the car was n't his to begin with .
+Annotation from annotator: 2
+
+Human-Rated Examples:
+
+
+Target Example:
+Text: why ca n't mexicans play uno ? because they steal all the green cards
+Annotation from annotator:

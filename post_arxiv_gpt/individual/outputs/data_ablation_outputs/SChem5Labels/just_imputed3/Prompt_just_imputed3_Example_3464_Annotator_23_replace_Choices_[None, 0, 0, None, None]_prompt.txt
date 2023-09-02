@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: People should endeavor to experience other cultures firsthand.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is scary to think you might lose in a competition.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should not dwell on bad things from the past
+Annotation from annotator: 3
+
+Example 4:
+Text: Social services can make sure that a home is a healthy environment for the people living there.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's difficult to watch people fight and behave in a toxic manner towards each other.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's understandable that it's sometimes hard to follow the examples set by others.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is wrong to hide your sexuality from your significant other.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's okay to be jealous when your stepmom has a new baby.
+Annotation from annotator: 3
+
+Example 9:
+Text: If you want to buy a collectible in mint condition, you should be willing to pay the price it costs.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's understandable for a person to be upset at an image of their deceased loved one.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's rude to always expect rides from other people.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is good to see a therapist if you are feeling depressed.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is normal to get warned about behavior you shouldn't continue.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's not okay to treat children like they are a burden.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's understandable if you're excited when you find the way out of a cave.
+Annotation from annotator: 4
+
+Example 16:
+Text: You are allowed to look at your relationship to see if it is going well.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's ok to tell your student to stop talking in class.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's good to want to take care of your children.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's okay to be upset when things are stressful
+Annotation from annotator: 4
+
+Example 20:
+Text: You should find something to do so you're not bored.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's nice to make decisions.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's wrong to destroy another person's work.
+Annotation from annotator: 4
+
+Example 23:
+Text: It is okay to share.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's okay to be careful when choosing your friends.
+Annotation from annotator: 3
+
+Example 25:
+Text: You should exercise to stay healthy.
+Annotation from annotator: 3
+
+Example 26:
+Text: People who are pregnant are expected to want to keep the baby.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's silly to hurt yourself just to spite somebody
+Annotation from annotator: 4
+
+Example 28:
+Text: It's expected to sometimes want what you can't have.
+Annotation from annotator: 4
+
+Example 29:
+Text: Yelling is rude.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't park your car in an electric charging spot if it's a gas car.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's rude not to return a greeting from someone.
+Annotation from annotator:

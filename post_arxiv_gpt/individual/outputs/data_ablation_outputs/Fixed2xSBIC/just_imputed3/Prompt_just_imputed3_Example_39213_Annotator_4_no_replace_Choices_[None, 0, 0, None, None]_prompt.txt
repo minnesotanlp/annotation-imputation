@@ -1,0 +1,130 @@
+Estimated Examples:
+Example 1:
+Text: What do Gay guys and Santa have in common? They both got a lot of red on them,
+Annotation from annotator: 1
+
+Example 2:
+Text: And before you ask : Yes I bite my lips .
+Annotation from annotator: 0
+
+Example 3:
+Text: If you buy a watermelon, If you buy a watermelon,
+Remember to hit the gas when the fences are black.
+Annotation from annotator: 2
+
+Example 4:
+Text: do you know why snape never taught herbology ? because he could n't keep his lilly alive .
+Annotation from annotator: 0
+
+Example 5:
+Text: What did the cannibal do after dumping his girlfriend? Wipe his ass
+Annotation from annotator: 2
+
+Example 6:
+Text: What's the worst thing to tell a Saudi Arabian interrogator? We need to speed this up, chop-chop.
+Annotation from annotator: 2
+
+Example 7:
+Text: What do you think it would take for society to start taking the issue of inceldom seriously and finding solutions?
+Annotation from annotator: 0
+
+Example 8:
+Text: Greasy food is suppose to be drank with a cold ass soda
+Annotation from annotator: 0
+
+Example 9:
+Text: why did n't the chef want to eat the chicken at his own restaurant ? he did n't want to know what his cum tastes like
+Annotation from annotator: 1
+
+Example 10:
+Text: Maybe We Should Do LSD
+If we force our brains into that state of "enlightenment" we'll stop caring about women and society and find a reason to enjoy life.
+Annotation from annotator: 0
+
+Example 11:
+Text: My mom stormed in my room and said, "I'm sick and tired of washing these stains out of your bedsheets!" So we fucked in her room instead.
+Annotation from annotator: 2
+
+Example 12:
+Text: """Wya"" ""I'm not tellin you"" ""Well Wyd?"" ""Giving a homeless man a dollar"" ""Oh yeah you're on college""&#128514;&#128514;&#128514;"
+Annotation from annotator: 0
+
+Example 13:
+Text: It's not government money , it 's taxpayer money and they should spend it as they see fit .
+Annotation from annotator: 0
+
+Example 14:
+Text: Because femininity is so horrible! @JonnyG313 I'm not sexist but if a dude cries because of a girl in a wedding dress then he has a vagina
+Annotation from annotator: 1
+
+Example 15:
+Text: Have you ever heard about death mask of Franco ?
+Annotation from annotator: 0
+
+Example 16:
+Text: >agree or disagree that overall some people value external validation or internal validation more? and if so, where do you fall? [...] And how does one get those rewards in the first place with no outside input?
+Annotation from annotator: 0
+
+Example 17:
+Text: RT @KyleKallgren: You can't please everyone. And you shouldn't. Nothing good comes from having people who say "faggot" as an insult on your&#8230;
+Annotation from annotator: 1
+
+Example 18:
+Text: did you guys see the ending of super mario odyssey?
+Annotation from annotator: 0
+
+Example 19:
+Text: When they refuse to convert to Islam they will learn at the end .
+Annotation from annotator: 1
+
+Example 20:
+Text: Two jews lock themselves inside a gas chamber by accident, how do the Nazis get their attention? Pssssssst...
+Annotation from annotator: 2
+
+Example 21:
+Text: &#8220;@_BeautifulKeezy: these hoes be playing w/ me like I won't send baby Cain at they niggah !!&#8221;yesss messy.
+Annotation from annotator: 1
+
+Example 22:
+Text: How do you stop a rape? I only have experience doing snuff films.
+Annotation from annotator: 2
+
+Example 23:
+Text: Ok @EfuaIsEnuf: I'm not perfect... Yes I do wrong.. I'm trying my best oo.. But it ain't good enough!!
+Annotation from annotator: 0
+
+Example 24:
+Text: i SEE UTV DID NOT POST MY COMMENTS TYPICAL SPREAD THE WORD THROUGHOUT IRELAND RUN THESE INVADERS OUT GO HOME AFGANIES WOULD YOU SEE US DOING THIS IN YOUR COUNTRY ??????????????????????????????????????????? ??
+Annotation from annotator: 2
+
+Example 25:
+Text: RT @PlainBlack_D: Get these trash ass niggas outta my stadium!!! &#128514;&#128514;&#128514;
+Annotation from annotator: 2
+
+Example 26:
+Text: I cant judge because i dont know them all , plus i think they are all good in their own way , that 's why they are moderators
+Annotation from annotator: 0
+
+Example 27:
+Text: My cousin and her friends are fucking around with a ouija board so it's time for me to move out since my house is about to be haunted
+Annotation from annotator: 0
+
+Example 28:
+Text: What does raping and farting have in common? Let her rip
+Annotation from annotator: 2
+
+Example 29:
+Text: Just saw this fly by on my stats display a few times:
+
+tweetstats.hashtag.gamergate.mention.freebsdgirl.oc
+
+LOL NOPE
+Annotation from annotator: 0
+
+Example 30:
+Text: Writing in David Duke 's name is fine because such a vote will still send the message that white America will not be taken for granted .
+Annotation from annotator: 2
+
+Target Example:
+Text: finally listening to bae @KodakBlack1k 's album, its FIRE #nosurprise @IamJess_CA you should take a listen :p
+Annotation from annotator:

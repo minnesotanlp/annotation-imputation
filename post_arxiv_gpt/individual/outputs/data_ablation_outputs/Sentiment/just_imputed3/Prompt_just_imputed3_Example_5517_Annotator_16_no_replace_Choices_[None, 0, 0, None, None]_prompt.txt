@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I think it would be funny to send my payment of $250 as loose change instead of a boring old check. Gosh, I'm bitter!
+Annotation from annotator: 1
+
+Example 2:
+Text: @emmyvictoria not THAT old!  have you had a good stay in England? What time you going back?
+Annotation from annotator: 3
+
+Example 3:
+Text: eatin string cheese  feel like ima twelve yr old. !! lmaaao
+Annotation from annotator: 2
+
+Example 4:
+Text: off to lunch with an old friend
+Annotation from annotator: 3
+
+Example 5:
+Text: @CourtKP they arrived last weekend...but maybe not with all their stuff, I do think they have a youngn
+Annotation from annotator: 2
+
+Example 6:
+Text: @JULIE_MOORE Glad to hear feeling better. Mine now sometimes last 2 days.  one of the negatives of getting older.
+Annotation from annotator: 2
+
+Example 7:
+Text: @therealdjjelly has no dunk ryders, young cash, or bizzle...  ...atleast hes taking it back, not all futuristic.
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6plus - i got dave a new bonsai... his old one died last year  so this is steve jr. (dave named his bonsai steve... ...
+Annotation from annotator: 1
+
+Example 9:
+Text: don't you just hate these old drivers on the road that cause accidents...Rubens  #F1
+Annotation from annotator: 1
+
+Example 10:
+Text: Great show by the @petshopboys tonight saw them 20yrs ago more or less exactly for 1st time which makes me feel quite old
+Annotation from annotator: 2
+
+Example 11:
+Text: Nooooo, tech support from @SonyPlaystation finally helped merge my old GAP account with my new PSN one.. Uncharted 2 beta invite expired.
+Annotation from annotator: 2
+
+Example 12:
+Text: @elephantshoes75 u have a daughter!! thats very nice  how old is she?
+Annotation from annotator: 2
+
+Example 13:
+Text: garage sale tomorrow! in DIRE need to dispose old stuff.
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished watching Wally with my old man.   Very cute!
+Annotation from annotator: 3
+
+Example 15:
+Text: http://twitpic.com/680to - I also layed in her older sister's room & pet their cat, Baxter.
+Annotation from annotator: 2
+
+Example 16:
+Text: add me and myspace and check out my artwork pwease    ..... about to update old a@@ twitter default pic
+Annotation from annotator: 2
+
+Example 17:
+Text: @Lyssajo You're lucky. My downgraded Motorola Q9M with old Windows Mobile 6 doesn't have a Copy/Paste function.
+Annotation from annotator: 1
+
+Example 18:
+Text: @rhea123 lol yep the good old days they where
+Annotation from annotator: 2
+
+Example 19:
+Text: Recovering from a Seafood mistake, seems old stomach cant handle food on the go..Wanna seefood go?
+Annotation from annotator: 1
+
+Example 20:
+Text: miss good old St James and Green Park, especially when the daffs are out   Have a great show
+Annotation from annotator: 3
+
+Example 21:
+Text: Weekend over, back to work once again  I'll be updating the old blog later on this week, probably around Wednesday when I'll have news...
+Annotation from annotator: 2
+
+Example 22:
+Text: downloading some old rahman songs had almost forgot them
+Annotation from annotator: 2
+
+Example 23:
+Text: @Beautyfix LOL  What's that old quote/story about getting older and going to bed with Ben Gay?
+Annotation from annotator: 1
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of a 75 year old!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to having a good old spree in meadowhall with @AniNicholas
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to pick out a profile pic with the help of @dfpcmaia but whenever i like one he says it's bad. 12 yr olds are stupid
+Annotation from annotator: 1
+
+Example 27:
+Text: so early to be up, 7:15, I guess I am getting old! old people can't sleep
+Annotation from annotator: 1
+
+Example 28:
+Text: im hun-ger-eee  ramen gets old after a few dozen packs consumed in a matter of months...;
+Annotation from annotator: 2
+
+Example 29:
+Text: @texasmommy77 Didn't open pic but praying for this young man
+Annotation from annotator: 2
+
+Example 30:
+Text: @highdigi Facebook?? I'll reativate my old account for the twitter peeps
+Annotation from annotator: 2
+
+Target Example:
+Text: @tonyrobbins Did you get the new phone?  I updated my old one.  Now I want new one.  Want's vs. Need's
+Annotation from annotator:

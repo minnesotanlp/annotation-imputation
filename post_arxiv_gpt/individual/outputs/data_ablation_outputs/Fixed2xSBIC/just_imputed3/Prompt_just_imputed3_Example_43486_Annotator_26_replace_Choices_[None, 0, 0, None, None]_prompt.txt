@@ -1,0 +1,127 @@
+Estimated Examples:
+Example 1:
+Text: A Female Advantage: They have an easier time getting f**ked A Female Disadvantage: They have a harder time getting away while being fucked
+Annotation from annotator: 2
+
+Example 2:
+Text: I like to drive by eating disorder therapy places... And yell, 'raise your hand if you are anorexia', it's funny cause because their bones are to weak to raise their own hand.
+Annotation from annotator: 2
+
+Example 3:
+Text: Did you guys hear about that Madden tournament? It was going great, until a stream sniper ruined everything.
+Annotation from annotator: 0
+
+Example 4:
+Text: idk how anybody can not know A Cruel Angel's Thesis like that is literally the most famous anime opening song of all time
+Annotation from annotator: 0
+
+Example 5:
+Text: ▶@TheVoiceNews: Academy’s very private policy - The academy has faced criticism introducing a ban on the amoun... https://t.co/dW2HSdxtcS
+Annotation from annotator: 0
+
+Example 6:
+Text: If it goes against the official story then that is Holocaust Denial and she must serve time in modern gulag .
+Annotation from annotator: 0
+
+Example 7:
+Text: What happened to the midget when he sneezed? He hit his head to the pavement.
+Annotation from annotator: 0
+
+Example 8:
+Text: Niggas is pure suckas.. If you got a problem with ya mans address that shit, discuss it, &amp; squash it... Only bitches hold grudges.
+Annotation from annotator: 0
+
+Example 9:
+Text: I hate my brother. I despise him. He keeps showing me his horrible poems &amp; fanfictions but, recently he showed me something I wanted to see. His suicide note.
+Annotation from annotator: 2
+
+Example 10:
+Text: I hate when retards on the train take up two seats cause they think it's there living room couch
+Annotation from annotator: 0
+
+Example 11:
+Text: Break me off a piece of that Kit Kat bar Everyone drunk at my gramps b-day party off da wine Couple thoughts equally important
+Annotation from annotator: 0
+
+Example 12:
+Text: If you ain't Stevie J's bitch of course you'll call him the scum of the earth.His bitches hooked while they're upset though.
+Annotation from annotator: 0
+
+Example 13:
+Text: RT @stylish_ap: I deadass wanna fight cuz everybody got me fucked up
+Annotation from annotator: 0
+
+Example 14:
+Text: Why are all women lefty Because they have no rights
+Annotation from annotator: 2
+
+Example 15:
+Text: Why is milk so good? Because it's white
+Annotation from annotator: 2
+
+Example 16:
+Text: If ever I see you smile and know that it is not for me, that is when I will miss you the most. YASNER MOST REQUESTED
+Annotation from annotator: 0
+
+Example 17:
+Text: How do we know Princess Diana had dandruff? They found her head and shoulders in the glove compartment
+Annotation from annotator: 2
+
+Example 18:
+Text: I was looking forward to watching the #boatrace but NOT with fucking @clarebalding commentating.....I'd rather stuck pins in my eyes!&#128544;
+Annotation from annotator: 2
+
+Example 19:
+Text: IF IT WERE NOT FOR IMMIGRANTS, YOU'D HAVE NOTHING BUT YOUR DAUGHTER, OR YOUR FIST TO FUCK !!! MORON !!!
+Annotation from annotator: 2
+
+Example 20:
+Text: What do Nike and the KKK have in common? They both make niggers run faster.
+Annotation from annotator: 2
+
+Example 21:
+Text: These hoes here mane. You are what you let inside you. Remember.
+Annotation from annotator: 0
+
+Example 22:
+Text: Anne frank’s diary is like the porn magazine of the 1940’s 
+
+
+Things in there are so kinky and relateable like hardcore furry porn with 3 jews in a hidden adic makes me hard.
+Annotation from annotator: 2
+
+Example 23:
+Text: Why did Stephen Hawkings die? His wheelchair ran out of batteries.
+Annotation from annotator: 2
+
+Example 24:
+Text: "RT @ajiawhoo: Shocked that I saw Harry Styles and said ""are you fuckin Harry Styles?"" And he said ""Yes, I am Fuckin Harry Styles…"
+Annotation from annotator: 0
+
+Example 25:
+Text: Why are black people fast runners? All the slow ones are in jail
+Annotation from annotator: 2
+
+Example 26:
+Text: Barkada? Cmon i only have like 2-3 real peeps around me and besides i have a social anxiety how could i have a so called barkada
+Annotation from annotator: 0
+
+Example 27:
+Text: I like my coffee the way I like my women Ground up and coming from Brazil in a burlap sack.
+Annotation from annotator: 2
+
+Example 28:
+Text: iggy wanna be black so bad. ur a white widow hoe
+Annotation from annotator: 1
+
+Example 29:
+Text: Many people in Nigeria don't seem to know what impunity is. The Senate has done more for Nigeria than the Executive. Aso Rock is useless.
+Annotation from annotator: 0
+
+Example 30:
+Text: Racism isn't real... Black people are just worse
+Annotation from annotator: 2
+
+Target Example:
+Text: Anyone who comments on this post is a big black nigger ape.
+Annotation from annotator:

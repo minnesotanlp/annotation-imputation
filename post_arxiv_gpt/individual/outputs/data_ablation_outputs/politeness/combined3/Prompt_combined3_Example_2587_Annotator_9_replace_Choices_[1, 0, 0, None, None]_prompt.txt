@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: PS. Is <url> more relevant to explain the analogy?
+Annotation from annotator: 15
+
+Example 2:
+Text: Ah, so next time I don't have to include "Places". Are there more specific categories I could use instead of "Places"?
+Annotation from annotator: 15
+
+Example 3:
+Text: I'm not sure what you are asking here. Admins cannot check IPs but why would you even want the same IP that would be foolish wouldn't it?
+Annotation from annotator: 9
+
+Example 4:
+Text: Ha, you're too kind to me, my old friend. MK one day, promise?
+Annotation from annotator: 17
+
+Example 5:
+Text: We need a visual of some kind. How's the state of your right-brain today?
+Annotation from annotator: 9
+
+Example 6:
+Text: The Indian collaboration of the week will be the <url> next week. Would you be interested in joining us to make it a Featured Article?
+Annotation from annotator: 19
+
+Example 7:
+Text: I don't follow.  Can you address the above with regard to why it ''shouldn't'' be speedily deleted, as a recreation of deleted material, and as a content fork?
+Annotation from annotator: 8
+
+Example 8:
+Text: This is what you wrote: "In the book 'Inventing Elliot' written by Graham Gardener, the book, 1948 is mentioned numerous times." What book, 1948??
+Annotation from annotator: 16
+
+Example 9:
+Text: It was for closure's sake, as to show that the debate was closed and that was the result, the user was '''blocked''' and the userpage was '''deleted'''.  Doesn't that show you the items better?
+Annotation from annotator: 8
+
+Example 10:
+Text: Thank You. What is "The Prince of Santorini" anyway?
+Annotation from annotator: 18
+
+Example 11:
+Text: While you are absolutely free to vote however you choose, FAC requires you lodge actionable objections and your objection as it stands right now is quite vague. Could you please specify it so I can take action and possibly reverse your vote?
+Annotation from annotator: 8
+
+Example 12:
+Text: Not trying to pick a fight - a user that reverts all articles to a version by you is suspect. Any New Year's resolutions Will?
+Annotation from annotator: 8
+
+Example 13:
+Text: I note you also removed the statement that "Hurrell had been involved in previous altercations". Why?
+Annotation from annotator: 8
+
+Example 14:
+Text: I am willing to try to discover the problem. What browser do you use?
+Annotation from annotator: 16
+
+Example 15:
+Text: The answer is "one citation per city". Information must always be verifiable; without verifiable sources for say, Unna, how exactly are we to tell that the article is accurate?
+Annotation from annotator: 10
+
+Example 16:
+Text: Those of us who've been here the whole time are pretty incredulous about it also. :)  We miss your fine editing style and hope you come back sometime -- keep looking in on us now and then, at least?
+Annotation from annotator: 14
+
+Example 17:
+Text: Could you take a look at the article now and see whether your concerns (except the reorganization) have been addressed? If not, what is still missing, and what technical terms do you feel need explaining?
+Annotation from annotator: 16
+
+Example 18:
+Text: Well this seems odd to me. Don't you find it strange that otherwise authoritative sources like Emulex and IBM would be so full of mistakes?
+Annotation from annotator: 7
+
+Example 19:
+Text: TimPF - I don't see the objectives as mutually exclusive, the previous creation of the Suburban Rail stubs by others took the content in a direction which I am reinforcing with these edits which fill out the stubs and bring a bit of consistency within the Suburban parts of RTIL.  PRTIL could fulfill a similar function for mainline services perhaps?
+Annotation from annotator: 15
+
+Example 20:
+Text: I'm glad you made things calculate automatically (and I trust you've tested it!). Shouldn't we update the <url> to not show the unneeded variables, then?
+Annotation from annotator: 12
+
+Example 21:
+Text: Alright, I added my final ideas. <url>?
+Annotation from annotator: 15
+
+Example 22:
+Text: The "standard work" on Introduction to... articles is presently <url>, maybe you could add your thoughts as some kind of appendix/discussion? I don't know what the procedure is for essays, single author of Wiki-style?
+Annotation from annotator: 13
+
+Example 23:
+Text: I have it ready now. Would there be any policy violations if I upload the image over the protected one?
+Annotation from annotator: 16
+
+Example 24:
+Text: What would be needed is for a human to check the list, do various filters, and then suggest values for the missing data. What is the best format to return the data in, having in mind the idea to get a bot to add the data?
+Annotation from annotator: 14
+
+Example 25:
+Text: OK, I'll bite. How is ''Matt "Dirty" Sanchez'' to be construed as anything other than a personal attack?
+Annotation from annotator: 8
+
+Example 26:
+Text: <url> and <url>, both created  by you, seem to be mostly overlapping but are not identical.  Presumably one should be a redir to the other?
+Annotation from annotator: 9
+
+Example 27:
+Text: I remember your commenting on this about seven years ago.  What's your view today?
+Annotation from annotator: 12
+
+Example 28:
+Text: Also, how does that vandalism thing on your page work? Do you have to change the count manually, or does it detect vandalism itself?
+Annotation from annotator: 15
+
+Example 29:
+Text: Thanks for adding stuff to the update. Would you like to help out with the notifications (the real pain of this ... grrr)?
+Annotation from annotator: 15
+
+Example 30:
+Text: Sorry... haven't unblocked many people before. Is it ok now?
+Annotation from annotator: 16
+
+Human-rated Examples:
+Example 1:
+Text: The <url> has a request (header "<url>") left a few hours ago by someone who has pictures of signs in China but can't read them.  Would you please be willing to help?
+Annotation from annotator: 13
+
+Example 2:
+Text: May I say it this way: ''Even if the car always is known to be behind the same door,'' but if you make your decision "at random", ''even then'' your chance is 2/3 to have picked a goat. Okay?
+Annotation from annotator: 9
+
+Example 3:
+Text: Well, actually I wanted to know if there were any errors in my own maps. ;)  Anyway, is the new map at <url> better?
+Annotation from annotator: 15
+
+Example 4:
+Text: Understood. Do you know of any legal expert you could contact to clarify this issue?
+Annotation from annotator: 14
+
+Example 5:
+Text: Well, I haven't seen a lot there, but the pages that I've seen were sourced. Does this mean you consider a sourced article in Wikipedia also unreliable?
+Annotation from annotator: 14
+
+Example 6:
+Text: E-mail me at <url> (just get rid of the spaces in between the letters and numbers) whenever you feel like it. By the way are you a member on any Iranian football forums online?
+Annotation from annotator: 17
+
+Example 7:
+Text: Also, 'topological proof'? Isn't 'proof' a bit strong?
+Annotation from annotator: 7
+
+Example 8:
+Text: Lists like this are a bad idea to begin with, and this one in particular has been deleted via an AfD. Why not try categories instead?
+Annotation from annotator: 10
+
+Example 9:
+Text: I noticed that the A team article for Australia is at <url> instead of <url>.  Is that intentional, or something we should fix with a page move?
+Annotation from annotator: 15
+
+Example 10:
+Text: You're welcome to revert edits, but I'm puzzled as to why you reverted this one - it seems absolutely essential to me the give a summary of Genesis 1. And if you revert Gen1, why leave Gen2?
+Annotation from annotator: 7
+
+Example 11:
+Text: I have indicated on <url> that, should you be desyopped, I will immediately re-nominate you for sysop.  Would you accept the nomination if I did?
+Annotation from annotator: 14
+
+Example 12:
+Text: Well... actually it is <nowiki><!--commented--></nowiki>. Could it be visible?
+Annotation from annotator: 17
+
+Example 13:
+Text: <person>, with whom you discussed linkspam in 2006, has returned. Could you offer your views on his talkpage?
+Annotation from annotator: 14
+
+Example 14:
+Text: User 86.138.232.97 does have a history of malicous edits. Are you then confirming that these malicious edits done by user 86.138.232.97 were done by yourself?
+Annotation from annotator: 9
+
+Example 15:
+Text: My concern about the article above still stands (re: notability). Now that it has been unmerged (against the AfD), will it be merged into the Begin articles as suggested, or will it have to be renominated?
+Annotation from annotator: 14
+
+Example 16:
+Text: I'm a little surprised you haven't responded to my suggestions regarding the GAN yet. Is there some sort of a problem there, or have you just not managed to get around to it yet?
+Annotation from annotator: 7
+
+Example 17:
+Text: I'm sure that this is not a useful place to discuss the merits of your topic ban, which I think would need a wider audience to overturn. Perhaps you could make a request to the arbitration committee?
+Annotation from annotator: 12
+
+Example 18:
+Text: I personally cannot see why it is justified, well not from a quick perusal of his edit history anyway. Can you explain please?
+Annotation from annotator: 10
+
+Example 19:
+Text: I vote that they stay, given that even though they're not "Recurring" in and of themselves, they're part of a recurring phenomenon, which is Stephen doing "Better Know a District" spin-offs. So, maybe we should re-group them under a heading of "Spin-Offs" in the "BKaD" section?
+Annotation from annotator: 14
+
+Example 20:
+Text: I'm always happy to give a second opinion on ID - you're welcome to put images on my talk page to discuss them. Regarding <url>, I would tend to go with ''<url>'', what do you think?
+Annotation from annotator: 15
+
+Example 21:
+Text: Actually, I am concerned that you had completely removed verifiable facts of which I had included the references.  Would you please explain why you had removed the entire section I wrote on Collection Agencies in Canada?
+Annotation from annotator: 7
+
+Example 22:
+Text: Hi Kathleen - It looks OK to me; all I did was change the template wording a bit and add parent cats to the stub category. What problem were you having?
+Annotation from annotator: 10
+
+Example 23:
+Text: Please stop removing properly referenced information that I have added to this article.  This is an article that <b>YOU</b> nominated for deletion, so why are you even editing it?
+Annotation from annotator: 7
+
+Example 24:
+Text: Which of course is all the more ironic as my initial edits were an attempt to ''improve'' the article per <url>. Who the hell would have predicted all this?
+Annotation from annotator: 6
+
+Example 25:
+Text: Wow, thanks for pointing that out. I'm having a bad night, and all the theading... anyway, did I get them all?
+Annotation from annotator: 16
+
+Example 26:
+Text: Hm. Are you asking to be banned?
+Annotation from annotator: 7
+
+Example 27:
+Text: I would specifically appreciate an outside view at the thread <url>.  What do you feel is the appropriate action?
+Annotation from annotator: 15
+
+Example 28:
+Text: I see you created a nonsense article yesterday because you were bored. If I unblock you will you disrupt more?
+Annotation from annotator: 5
+
+Example 29:
+Text: Hey. I'm proposing a <url> - would you be interested in coming along?
+Annotation from annotator: 18
+
+Example 30:
+Text: BTW, I'm amazed that he has the gumption to show his mug after <url>. And do you have the balls (metaphorically or otherwise) to place a hatnote above his article linking to that term?
+Annotation from annotator: 9
+
+Target Example:
+Text: Hi, do you mind if I move your hook to go live on 26/27th? The GLAM WIKI conference could do with being highlighed by a non US/UK hook?
+Annotation from annotator:

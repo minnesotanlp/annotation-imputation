@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.\n\nNow you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:\nTarget Example:\nText: Largest asteroid in a century to 'whiz' past Earth at a close distance of 4.4m miles or 7m kilometres.   https://phys.org/news/2017-08-largest-asteroid-cen...\nAnnotation from annotator:\nYour output should be a single integer and nothing else."
+    }
+]

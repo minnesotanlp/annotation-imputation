@@ -1,0 +1,84 @@
+Estimated Examples:
+Example 1:
+Text: It is a wonderful time in which to grow old.
+Annotation from annotator: 3
+
+Example 2:
+Text: Just fitted a pole dancing pole for my daughter (apparantly its "good exersise") and it's made me feel old and grumpy
+Annotation from annotator: 0
+
+Example 3:
+Text: Just saw this old dude wearing a tshirt...'I'm retired, but l work part time as a pain in the ass'...v funny
+Annotation from annotator: 3
+
+Example 4:
+Text: Kyle just found my old diary
+Annotation from annotator: 2
+
+Example 5:
+Text: Lunch at my parents house.. It's always nice to take a nap in my old bed..
+Annotation from annotator: 3
+
+Example 6:
+Text: Man it's a weather advisory day. Elderly and young child stay inside today.. Under a fan or AC, my lungs r killing me.  I hate asthma!
+Annotation from annotator: 1
+
+Example 7:
+Text: Picking songs for my aunts wedding hope older people like Will and The People & Soft Toy Emergency
+Annotation from annotator: 2
+
+Example 8:
+Text: Shen computer just broke  Time to get the old IBM out...
+Annotation from annotator: 1
+
+Example 9:
+Text: The sauna is such an afrodisiac tho!Hot,glistening bodies,steamy rm,dark,quiet.If only it wasn't hella fat hairy old men up in thr w me!
+Annotation from annotator: 0
+
+Example 10:
+Text: Watched Diversity on Britain's Got Talent final - AMAZING - SO SO GLAD they won - raw British talent - inspiration 2 young kids in UK
+Annotation from annotator: 4
+
+Example 11:
+Text: Watching 10 years younger in 10 days. With a swollen mouth; wisdom tooth extraction. Can't eat solids or open mouth. Soup and water
+Annotation from annotator: 2
+
+Example 12:
+Text: Yeah for Smallville, my late night savior. It's the one where Clark meets young Flash, total awesomeness
+Annotation from annotator: 4
+
+Example 13:
+Text: i come home from an amazing night, to see my older sister sitting on the couch! i havent seen her in like a month im so happy!
+Annotation from annotator: 4
+
+Example 14:
+Text: i miss my old school.......soooooooooo much.
+Annotation from annotator: 1
+
+Example 15:
+Text: i would like my old neighbor back please, this new one plays too much base, i HATE base, it hurts
+Annotation from annotator: 0
+
+Example 16:
+Text: is drinking a tumbler of iced whisky, on his old-fashioned armchair and listening to good old Bob Dylan. Bliss
+Annotation from annotator: 3
+
+Example 17:
+Text: lol nearly got cheated by the old woman at the till today at the charity shop, i mean come on..30 p difference  x
+Annotation from annotator: 0
+
+Example 18:
+Text: my whole family has the cruds  oldest son is over it, youngest is on the mend, and me and hubs have the yucks now.
+Annotation from annotator: 0
+
+Example 19:
+Text: reading Socrates' predecessors on a Saturday night. 23 going on 5,000 years old
+Annotation from annotator: 3
+
+Example 20:
+Text: watching old eps of Cold Case online...it turn out to be a good series
+Annotation from annotator: 3
+
+Target Example:
+Text: Just passed a saab older than hers on the thruway. Vt plates
+Annotation from annotator:

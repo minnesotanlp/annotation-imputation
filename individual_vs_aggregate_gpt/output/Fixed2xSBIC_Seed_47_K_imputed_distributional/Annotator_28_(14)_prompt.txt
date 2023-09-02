@@ -1,0 +1,30 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and be shown the distributional label of how all annotators have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: every man can have a big dick . if he only fucks children .
+ANSWER: 2
+
+2.
+EXAMPLE: the foreigner once there was a man that came from mexico to america , he could nt speak english so he went to choir and learned how to say " me me me me me me . " then he went to the store and saw a little girl say " he stole my dolly " and on his way home he went to get meat from the butcher and learned how to say " big butcher knife big butcher knife . " then he went home and watched an air freshener commercial and learned how to say " plug it in plug it in . " then he went to the store and found the owner , murdered . the police said " who killed this man ? " the foreigner said " me me me me me me me . " the police said " why did you kill him ? " and the man said " he stole my dolly . " the police man said " what did you kill him with ? " the man said " big butcher knife big butcher knife . " then they took him to jail and sentenced him to death . the police man said " any last words ? " and the foreigner said " plug it in plug it in . "
+ANSWER: 2
+
+3.
+EXAMPLE: i bought my mother in law a chair for her <number> h birthday . <repeat> . <repeat> ut the wife wo n't let me plug it in .
+ANSWER: 2
+
+4.
+EXAMPLE: so a mexican guy gets struck by lightning . <repeat> the obituary was titled " refried beaner ! "
+ANSWER: 2
+
+Here's how the distributional label of how all annotators have annotated the target example:
+0.66% of people responded with 0
+58.42% of people responded with 1
+40.92% of people responded with 2
+
+How would the particular annotator annotate the target example?
+EXAMPLE: what 's the similarity between the walking dead and the fast and the furious ? they both have dead walkers in them .
+ANSWER:

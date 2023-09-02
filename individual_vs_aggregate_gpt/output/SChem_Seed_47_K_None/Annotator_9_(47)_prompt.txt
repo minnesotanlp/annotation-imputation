@@ -1,0 +1,222 @@
+Here's a description of a dataset:
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 49 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: It's bad for a child to be in danger.
+ANSWER: 4
+
+2.
+EXAMPLE: It's wrong not to date someone just because of money.
+ANSWER: 0
+
+3.
+EXAMPLE: You shouldn't video tape someone without their permission.
+ANSWER: 4
+
+4.
+EXAMPLE: It's good to be able to be honest about who you are.
+ANSWER: 4
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+2.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+3.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+4.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+5.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+6.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+7.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+8.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+9.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+10.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+11.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+12.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+13.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+14.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+15.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+16.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+17.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+18.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+19.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+20.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+21.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+22.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+23.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+24.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+25.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+26.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+27.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+28.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+29.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+30.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+31.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 1
+
+32.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+33.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+34.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 1
+
+35.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+36.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+37.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+38.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+39.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+40.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+41.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+42.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+43.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+44.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+45.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+46.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+47.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+48.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 3
+
+49.
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER: 2
+
+How would the particular annotator annotate the target example?
+EXAMPLE: You shouldn't be so scared about getting married.
+ANSWER:

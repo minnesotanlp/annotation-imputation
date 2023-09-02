@@ -1,0 +1,65 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: I once knew a girl that was convinced the smurfs set up their village in her pussy
+Annotation from annotator: 0
+
+Example 2:
+Text: moderators - /r/againstmensrights - are they recruiting an army or why all those new mods?
+Annotation from annotator: 0
+
+Example 3:
+Text: i saw it on opp.now i know what your name stands for.congrats you have a nice looking boyfriend.i read opp once and awhile to see if they took my pic off of here yet and put it on there .
+Annotation from annotator: 0
+
+Example 4:
+Text: It was so great meeting all you guys last night i ca n't believe how many of us managed to hook up `` nearly the entire crew '' see you all in a few days ...
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: What actionable things would you recommend to do to further men's rights?
+Annotation from annotator: 0
+
+Example 2:
+Text: RT @YunGMiGo: &#128557;&#128557;&#128557;&#128514;&#128514;RT @Shane_A1: Can you imagine Tryn yo hardest to stop a bitch frm slutin and still comin up unsuccessful
+Annotation from annotator: 2
+
+Example 3:
+Text: #FollowFriday ✨
+
+@OccamsEpilady
+@FrozenFrog
+@Leamorabito
+@Mbarris01
+@CGMCPO
+@AquaRuby
+@Hippiemamagypsylove
+Annotation from annotator: 0
+
+Example 4:
+Text: I can not believe you think it’s ok for a woman to put her husband and family in financial strain you are not making any sense. Lol you are unbelievable. [...] That makes her a terrible person
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: how do you pickup a jewish girl ? broom and dustpan .
+Annotation from annotator: 2
+
+Example 2:
+Text: i tried to have sex with a retarded person they said they were down
+Annotation from annotator: 2
+
+Example 3:
+Text: i heard about what happened last night . <repeat> the actual concert was ok but afterwards it just bombed .
+Annotation from annotator: 1
+
+Example 4:
+Text: what has four legs and a cunt halfway up its back ? a police horse
+Annotation from annotator: 2
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: i overheard the most sarcastic conversation today someone said " black lives matter "
+Annotation from annotator:

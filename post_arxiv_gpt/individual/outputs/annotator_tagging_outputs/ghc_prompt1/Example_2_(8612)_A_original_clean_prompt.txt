@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Now if they showed up with American FLags, MAGA Hats chanting "I Love the USA" ...then they might get sympathy as they would at least APPEAR to want to be here but flying the flag of another country is the dumbest thing they could do!
+Annotation from annotator: 0
+
+Example 2:
+Text: So...people wouldn't mind if I...
+Annotation from annotator: 0
+
+Example 3:
+Text: Hopefully they lock up all of these young army men. The Government alienating itself from the Army is something I like...but I'll stop talking, pretty sure I just broke some sort of treason law.
+Annotation from annotator: 1
+
+Example 4:
+Text: What Harrelson was trying to say is.....he sold his soul to the evil that runs Pedowood!!! 
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: http://www.breitbart.com/tech/2017/11/20/stonecold... @mrbuntyking
+Annotation from annotator: 0
+
+Example 2:
+Text: Memorial Day http://www.kimdutoit.com/2018/05/28/memorial-day-2...
+Annotation from annotator: 0
+
+Example 3:
+Text: our government should be hanging this bitch
+Annotation from annotator: 0
+
+Example 4:
+Text: @Paraliegance I'm for keeping things at four it's fast enough
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: What happened to her? I'm binge listening to her YouTube videos right now!
+Annotation from annotator: 0
+
+Example 2:
+Text: Are they aware how creepy the guy is?
+Annotation from annotator: 0
+
+Example 3:
+Text: Repost. I wrote it last night. I truly think we need a return to better music than we are fed.  
+Annotation from annotator: 0
+
+Example 4:
+Text: Not everyone believes that Jesus rose from the dead. Some say that Jesus fainted on the cross and regained consciousness in the tomb and then escaped. However, he was dead to the satisfaction of those who had wanted him dead - they never questioned his death. The centurion carrying out the crucifixion knew he was dead, presumably because he wasn't moving. Breathing is tortuous for those who are crucified and they are in constant motion as they struggle to breathe. If Jesus had just fainted on the cross he would have died of asphyxiation within minutes. He ceased moving at around 3 o'clock in the afternoon and was taken down from the cross just before sunset in springtime. A soldier pierced his side with a spear and blood and water came out. 
+Annotation from annotator: 0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: CNN Blackmail
+Annotation from annotator:

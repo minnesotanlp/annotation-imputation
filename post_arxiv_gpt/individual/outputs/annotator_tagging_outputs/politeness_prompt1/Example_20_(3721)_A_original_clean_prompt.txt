@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: wants to move from a free nation like th US to a tyrannical country like the UK. Give me an honest opinion Haunted Angel what do you yhink of him?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: Don't you think you should remove the welcoming plate of cookies you left at User:Dococe page???
+Annotation from annotator: 0.0
+
+Example 3:
+Text: I suppose that there is nothing to be done about it, but Jamesd1 just buried a direct question to him, about compromise, under a long discussion about Alice Bailey's supposed religious views  (Bailey was not a Christian) that belong on a Bailey discussion forum, not on this article's talk page. Does not Wikipedia have some way to resolve editing situations in which editors refuse to compromise and end the arguing?
+Annotation from annotator: 12.0
+
+Example 4:
+Text: Who do you think will be the next president? Do you have a favorite yet?
+Annotation from annotator: 12.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Ack, hit the wrong button?  How do you manage that?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: Thanks--can you add the romanization of the Arabic at <url> too? Is it ''jibna baladi''?
+Annotation from annotator: 20.0
+
+Example 3:
+Text: Rod, this guy's ( <url>) talk page as well as the history of vandalism to the <url> page seems to indicate that he's the main perpetrator. Is there some way to ban one particular user from editing a page, based on repeat incidents of vandalism to that page?
+Annotation from annotator: 14.0
+
+Example 4:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation from annotator: 10.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Greetings, the Province of Alberta, through legislation, has designated a future highway that has an alignment and an assigned number, but has yet to be constructed. Is it premature to create an article on such a highway?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: The article <url> is vandalism. Could you please delete it?
+Annotation from annotator: 20.0
+
+Example 3:
+Text: The text of your warning <url> made me smile. Did you really think that if China got a new Prime Minister as of today, and a female one at that, it wouldn't be all over the news, and the link to this person would be red?
+Annotation from annotator: 4.0
+
+Example 4:
+Text: Can you give me a link to "We Are Defiance" ? And what do you mean by "remove" : 1) moving to the main space or 2) deleting the article ?
+Annotation from annotator: 8.0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: I was reading the article reverse overshot wheel, but I can't find anything about the "reverse" part. Can you expand this?
+Annotation from annotator:

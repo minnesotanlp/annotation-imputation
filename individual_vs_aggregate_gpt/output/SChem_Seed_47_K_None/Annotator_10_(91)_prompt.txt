@@ -1,0 +1,222 @@
+Here's a description of a dataset:
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 49 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: You shouldn't expect your ex to not have sex after the relationship is over.
+ANSWER: 3
+
+2.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+3.
+EXAMPLE: You don't need to accept apologies if you're not ready to move on
+ANSWER: 2
+
+4.
+EXAMPLE: It's wrong to be mad at your friends for petty reasons.
+ANSWER: 3
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+2.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+3.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+4.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+5.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+6.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+7.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+8.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+9.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+10.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+11.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+12.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+13.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+14.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+15.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+16.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+17.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+18.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+19.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+20.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+21.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+22.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+23.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+24.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+25.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+26.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+27.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+28.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+29.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+30.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+31.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+32.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 2
+
+33.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+34.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+35.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+36.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+37.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+38.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+39.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+40.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+41.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+42.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+43.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+44.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+45.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+46.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+47.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+48.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 4
+
+49.
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER: 3
+
+How would the particular annotator annotate the target example?
+EXAMPLE: Relationships are expected to have clear communication.
+ANSWER:

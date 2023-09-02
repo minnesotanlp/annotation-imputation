@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Pa1fXJohvjBOfmVyfL87p7KZaQDO",
+    "object": "chat.completion",
+    "created": 1686331039,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 748,
+        "completion_tokens": 57,
+        "total_tokens": 805
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to predict exactly how annotator B would label this example, but based on the given examples, it is likely that they would assign a score between 10 and 20, as the text is somewhat difficult to understand and may come across as impolite or confusing."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

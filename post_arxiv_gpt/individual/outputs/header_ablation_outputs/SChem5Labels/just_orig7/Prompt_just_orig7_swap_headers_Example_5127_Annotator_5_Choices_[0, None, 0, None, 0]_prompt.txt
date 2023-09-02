@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: It is ok to see a doctor if your bloating will not go away.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's wrong to tell people spoilers if they don't want to hear them.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's expected that falling can be dangerous.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's allowed to be happy about the way clothing fits you.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's okay to be addicted to something.
+Annotation from annotator: 2
+
+Example 6:
+Text: It's acceptable to seek to renew a relationship with a former partner.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's understandable to be afraid of things that can hurt you.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to be confident about your appearance.
+Annotation from annotator: 3
+
+Example 9:
+Text: You can be expected to appear to show empathy when others are suffering.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's ok to have clear boundaries with family members.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's ok to have an opinion.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's okay not to eat fast food.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's good to want to spend time with family
+Annotation from annotator: 3
+
+Example 14:
+Text: It is hurtful to appear callous towards others.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's wrong to lead people on.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's okay to feel sad about losing a loved one.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's good not to charge your customers if the service was really bad or something was wrong with their meal.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to have patience with other people
+Annotation from annotator: 3
+
+Example 19:
+Text: It is good to show your partner that you are always thinking about them.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is wrong to kill a pet.
+Annotation from annotator: 4
+
+Example 21:
+Text: You shouldn't let memories from your past scar you.
+Annotation from annotator: 3
+
+Example 22:
+Text: You should be a part of your family's pictures.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good to have a case worker to help you with problems you have.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's rude to prank somebody
+Annotation from annotator: 2
+
+Example 25:
+Text: It's okay to remove yourself from situations which cause you stress.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's not okay to be racist.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's bad to lose your debit card.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's understandable that sometimes we find things distasteful.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's understandable to feel nervous when entering a new relationship.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's okay to miss your ex.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's normal to carry your phone with you.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

@@ -1,0 +1,1 @@
+Based on the previous examples, it is likely that annotator B would label this example as not offensive (0.0).

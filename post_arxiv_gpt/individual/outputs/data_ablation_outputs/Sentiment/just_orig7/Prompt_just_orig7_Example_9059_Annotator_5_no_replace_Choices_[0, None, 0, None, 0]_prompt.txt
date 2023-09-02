@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: @DexterShark but young liars is brilliant
+Annotation from annotator: 2
+
+Example 2:
+Text: @katyperry O! Elmo loves you! lol Follow me! I'm a Katy Perry Fan  11 years old. yup!
+Annotation from annotator: 3
+
+Example 3:
+Text: Still packing in my old appartment...boooooring! I'd rather be with a certain person now...
+Annotation from annotator: 3
+
+Example 4:
+Text: She kept saying to me, "Mommy, we were so happy when he won! It's not fair!" And to a 9 yr old girl, it's not fair.
+Annotation from annotator: 2
+
+Example 5:
+Text: is updating an old ipod...sad...i miss my orange nano
+Annotation from annotator: 3
+
+Example 6:
+Text: @bigsmooth32 im sure it will, it'l have a bunch of sweet stuff. but no hacking  i got dibs on your old one if you get a new one
+Annotation from annotator: 2
+
+Example 7:
+Text: thinks my huey died...any of my photog peeps had one crap out on you?  it's only 2.5 yrs old.
+Annotation from annotator: 2
+
+Example 8:
+Text: @joannasayswhat  My old phone doesn't have a sim card.
+Annotation from annotator: 3
+
+Example 9:
+Text: Woke up w/sore throat. Must b getting old. Immune system isn't what it used to be. Trick knee is also in full effect. Got a limp going on
+Annotation from annotator: 3
+
+Example 10:
+Text: Dreamt about wallpaper with old fashioned etchings of fossils on it.  Now want some and it doesn't exist online
+Annotation from annotator: 3
+
+Example 11:
+Text: is now an old lady. Not good news from the sawbone.
+Annotation from annotator: 2
+
+Example 12:
+Text: Another late night...uploading old vacation pix, checking horoscopes. Oh, wait, it's morning.    ^^ vampire's hours ^^
+Annotation from annotator: 3
+
+Example 13:
+Text: @ashleymead Not cool. I might have to go back to using my old system to avoid my stupidity.
+Annotation from annotator: 2
+
+Example 14:
+Text: Watching old school Smallville. :| I miss old school smallville. I actually like Lana then. And the characters were so chill.
+Annotation from annotator: 3
+
+Example 15:
+Text: @camillagodzilla I'am I wore and old white tshirt to work, and, well I managed to get oil, dirt, and fuel splatered all over me
+Annotation from annotator: 1
+
+Example 16:
+Text: My baby sister is all graduated and everything...  I feel old!!!
+Annotation from annotator: 2
+
+Example 17:
+Text: @NYCgirl814 Good Morning to you too.  You should be sleeping young lady. lol
+Annotation from annotator: 3
+
+Example 18:
+Text: @ThisisDavina Could you tell them to give you more to do? I loved the old style eviction shows BB1-BB4. Links and numbers is NOT ENOUGH.
+Annotation from annotator: 3
+
+Example 19:
+Text: @Shion963  Damn, CLAMP really misses their old style, it seems.  I miss it too
+Annotation from annotator: 2
+
+Example 20:
+Text: @sunrayswench I'm not THAT old!   Thanks for the #followfriday
+Annotation from annotator: 3
+
+Example 21:
+Text: @Melhi HAH!  I would KILL for your figure!  We're both the same age (I think) and I've got the fat saggy old lady thing going already.
+Annotation from annotator: 1
+
+Example 22:
+Text: @PanBishop true, true and yes u do have a bday coming up. U gettin old mister lol jp. I know u gonna have big plans next wkend as well
+Annotation from annotator: 3
+
+Example 23:
+Text: 6 miles @ 9 min pace. Not bad, but would like to run faster. My 3 1/2 year vacation from running left me older, fatter, and out of shape.
+Annotation from annotator: 3
+
+Example 24:
+Text: My love of the Cosby Show makes me feel like I should stay up & watch Bill on Letterman. It might make me sad to see him so old, though
+Annotation from annotator: 3
+
+Example 25:
+Text: @kovshenin What's lame then? Running the latest version of a software, or stick to an old and vulnerable version?
+Annotation from annotator: 2
+
+Example 26:
+Text: Just stopped following Rob Zombie. Heard he gets a bit ticked if you use the word "zombie". Dude, that word is older than you are.
+Annotation from annotator: 3
+
+Example 27:
+Text: @Royal_Flyness oh no so young  positive thoughts and prayers to you and all of his loved ones.
+Annotation from annotator: 3
+
+Example 28:
+Text: Waching old time movies when i was not alive
+Annotation from annotator: 3
+
+Example 29:
+Text: @carebear017 My old school.  I miss you guys ! ><
+Annotation from annotator: 3
+
+Example 30:
+Text: Browsing for vibrators with a chirpy group of younger women offers some eye-opening reminders about aging, sex and camaraderie.
+Annotation from annotator: 3
+
+Target Example:
+Text: My 9 yr old asked "if we have a blackout, will the satellite have one too"? From the mouths of babes
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

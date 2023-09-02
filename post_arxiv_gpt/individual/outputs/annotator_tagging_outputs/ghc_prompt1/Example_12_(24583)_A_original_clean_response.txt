@@ -1,0 +1,1 @@
+Based on the given examples, annotator A would most likely label this example as 0, indicating that there is no hatespeech in the tweet.

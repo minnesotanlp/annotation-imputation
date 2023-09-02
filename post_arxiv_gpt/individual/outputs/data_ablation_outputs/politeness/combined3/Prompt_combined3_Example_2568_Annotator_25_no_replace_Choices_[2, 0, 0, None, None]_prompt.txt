@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Thanks for the quick response. Would you have any suggestions on editors who would be interested in this field, or who might have experience with FA reviews?
+Annotation from annotator: 15
+
+Example 2:
+Text: Welcome to WikiProject Austria. I'm wondering if you're willing to coordinate the project for a while?
+Annotation from annotator: 15
+
+Example 3:
+Text: Problem isn't too hard; I'm taking care of it.  Had you discovered <person>?
+Annotation from annotator: 12
+
+Example 4:
+Text: What are your intentions after two months?  Will you continue your previous deletions?
+Annotation from annotator: 12
+
+Example 5:
+Text: I'm looking for a diff by yours where you compared administrator corruption to what happened to students during the <url>. Do you happen to know where is that diff?
+Annotation from annotator: 11
+
+Example 6:
+Text: LOL what did he say in the press???
+Annotation from annotator: 12
+
+Example 7:
+Text: Done, I think. How does that look?
+Annotation from annotator: 13
+
+Example 8:
+Text: On the mediation page you made a number of statements that I said I would like to discuss with you. Would you be willing to do that <url>?
+Annotation from annotator: 16
+
+Example 9:
+Text: I'm sorry, but I don't see the value in having different criteria for two versions of the same list, one sorted by name and one sorted by nationality. Every other list and article on space travel uses the altitude definition, why would the sub-list sorted by nationality be different?
+Annotation from annotator: 11
+
+Example 10:
+Text: Point taken. Would you like to be a mod?
+Annotation from annotator: 14
+
+Example 11:
+Text: Yellowmonkey has told me we need another FAR delegate and recommended you for the job. Is that something you're willing to do?
+Annotation from annotator: 14
+
+Example 12:
+Text: JoJan, not got a picture of one yet, but I notice in you wrote that it is rare. Where did you get that information as I wonder how rare it is?
+Annotation from annotator: 13
+
+Example 13:
+Text: Hey, why do you edit the standings when a game isnxb4t over??
+Annotation from annotator: 10
+
+Example 14:
+Text: Is there any reason that you redirected <url> to <url>? Did this happen as a result of a technical error or something?
+Annotation from annotator: 13
+
+Example 15:
+Text: Unless im making a major mistake here, this article was about a Not for profit organisation which seemed notable enough to give the origional creator at least some time to source it. Are you sure this had to be a speedy?
+Annotation from annotator: 12
+
+Example 16:
+Text: Turbinella is a disambiguation page. Perhaps perform a move to Turbinella (gastropod) ?
+Annotation from annotator: 15
+
+Example 17:
+Text: I didn't have those in <person> because they were already included under the tributaries categories. Is this one of those "basketball player" exceptions?
+Annotation from annotator: 11
+
+Example 18:
+Text: Still, I cannot understand why virtually all boxes related to the EU were removed. What makes this issue more divisive than for example the re-unification of Yugoslavia?
+Annotation from annotator: 10
+
+Example 19:
+Text: Also, how does that vandalism thing on your page work? Do you have to change the count manually, or does it detect vandalism itself?
+Annotation from annotator: 13
+
+Example 20:
+Text: I'm not seeing it. Has it been fixed?
+Annotation from annotator: 10
+
+Example 21:
+Text: On second thought, the mix of pseudo-politeness, vulgarity and threats is...really creepy. Could ya...stop?
+Annotation from annotator: 6
+
+Example 22:
+Text: All right, I'll bite. Is honorary membership in the Justice League not criteria enough for being listed in that category?
+Annotation from annotator: 10
+
+Example 23:
+Text: Thank you for correcting the error on my user page. I have a question how does one go about archiving his talk history?
+Annotation from annotator: 17
+
+Example 24:
+Text: Hi, sorry I think I'm missing something here. Why are you adding a red link to the vandalism page?
+Annotation from annotator: 13
+
+Example 25:
+Text: Fair enough, thanks for assuming good faith, I was merely making the page consistant with the past 2 champions league season articles (<url>, <url>) which use path and non-champions instead of route and league. Should they be changed too or was that what they used to be called?
+Annotation from annotator: 15
+
+Example 26:
+Text: Yes I can. Is it an alternate account?
+Annotation from annotator: 16
+
+Example 27:
+Text: Why are capital letters used in the article title ''<url>''? Is this a proper name of a particular proprietary software package?
+Annotation from annotator: 13
+
+Example 28:
+Text: Incidentally, your username seems familiar. Do you contribute to SPGB-related forums by any chance?
+Annotation from annotator: 13
+
+Example 29:
+Text: I was aware of that part of <url>, but I don't see its relevance here. Do you say that considering the audience is an arbitrary standard?
+Annotation from annotator: 12
+
+Example 30:
+Text: oh, my, how did I get this here twice; trying to do too much at once (what else is new).  Can you copy instead a different color?
+Annotation from annotator: 12
+
+Human-Rated Examples:
+Example 1:
+Text: I never saw his press conference. Is there a clip of it online?
+Annotation from annotator: 12
+
+Example 2:
+Text: <url>! Shall we greet him as he deserves?
+Annotation from annotator: 12
+
+Example 3:
+Text: I seem to be doing something wrong moving pages to wiktionary, because when I complete a move to <url>, it just stays there as though there were nothing "special" about that move target. What am I doing wrong?
+Annotation from annotator: 12
+
+Example 4:
+Text: I'd be happy to help but I don't speak Ukrainian. What do you need help with?
+Annotation from annotator: 20
+
+Example 5:
+Text: <url>.  Draft beer?
+Annotation from annotator: 12
+
+Example 6:
+Text: Hi, Thank you for closing <url> as "delete", but much of the material immediately re-appeared at <url> (see <url>) so the questionable content hasn't been deleted at all. Can we do something about this?
+Annotation from annotator: 20
+
+Example 7:
+Text: I assume the citation you added recently to <url> was from a website. Can you add the URL, publication date, and access date?
+Annotation from annotator: 12
+
+Example 8:
+Text: <url> seems does not exist. Maybe we can create <url>, which would be subcat of <url>, and include most but not all of its current content?
+Annotation from annotator: 12
+
+Example 9:
+Text: Maybe I'm on crack, but in your edit summaries you're saying "MT" and "Not MT". What is MT an abbreviation for?
+Annotation from annotator: 12
+
+Example 10:
+Text: ...welcome back! Is this permanent, or are you just passing through?
+Annotation from annotator: 20
+
+Example 11:
+Text: I've noticed the Commons message boxes on <url> and find their colours quite interesting. What do you think?
+Annotation from annotator: 14
+
+Example 12:
+Text: Sorry, I didn't know. I added a tag, are you able to delete it?
+Annotation from annotator: 16
+
+Example 13:
+Text: What is the most common way to spell the first paragraph of an intro? is it "lede" or "lead" or something else?
+Annotation from annotator: 12
+
+Example 14:
+Text: Hello...I looked up <url>, and found that this person is a previous vandal. Is this sufficient to block the user, since more vandalism was done on Cold War article?
+Annotation from annotator: 17
+
+Example 15:
+Text: Why did you delete see also section in Puerto Rico? why did you delete the political parties?
+Annotation from annotator: 10
+
+Example 16:
+Text: I am the uploader of the hubble pictures.  What do I put for the author, description, and the other information?
+Annotation from annotator: 12
+
+Example 17:
+Text: It's possible he may not be an english speaker. Do you know of a french version of that warning?
+Annotation from annotator: 12
+
+Example 18:
+Text: You seem to have an agenda of denying that some of the ancients were pedophiles. Why?
+Annotation from annotator: 8
+
+Example 19:
+Text: You and I got different totals for the NRHP sites in Middlesex County u2014 my number was 1300, gained by piling all the listings into a list and putting a # before each one, so the total number would display.  Did you use a different calculation device?
+Annotation from annotator: 12
+
+Example 20:
+Text: ...just vandalized my page again. What level warning is appropriate?
+Annotation from annotator: 12
+
+Example 21:
+Text: What do you mean they are not related to the scope of <url>? Like which articles?
+Annotation from annotator: 12
+
+Example 22:
+Text: I really had intended ot get back to this, and to get out to see it.   How about:   ....that <url> was built from plans found in the <url>'s pocket when he died of a heart attack?
+Annotation from annotator: 12
+
+Example 23:
+Text: does not fit the criterium for quadratic convergence, as one would get &mu;=0; but it does not converge with a faster rate either. What do you think?
+Annotation from annotator: 12
+
+Example 24:
+Text: Yes, this is a nice illustration. I'd love to have a look of the code; is it possible for you to mail it to me?
+Annotation from annotator: 16
+
+Example 25:
+Text: The Daily Mail has republished pages from the manifesto in full, (<url>) including that of his personal data. Is this the ethical jump you need to use the info on Wikipedia?
+Annotation from annotator: 12
+
+Example 26:
+Text: Btw, what's "WPC MOS", and where/when was it decided that we don't use volume indicators? Why is this, and how do we distinguish between different volumes of series when mentioning issue numbers?
+Annotation from annotator: 12
+
+Example 27:
+Text: Glad to see that link go blue. Have you seen the <url> on Google Books?
+Annotation from annotator: 12
+
+Example 28:
+Text: Hi Orlady, I wanted to seek your advice....Information on FIBAA is available in the German language on Wikipedia : http://de.wikipedia.org/wiki/Foundation_for_International_Business_Administration_Accreditation. Is there any chance to have it in English?
+Annotation from annotator: 16
+
+Example 29:
+Text: An article about a craver named <url> needs some work. Can you clean the article up?
+Annotation from annotator: 12
+
+Example 30:
+Text: This means that the pic you supplied is not really appropriate any more. Are you able to provide a new one?
+Annotation from annotator: 12
+
+Target Example:
+Text: Greetings, I ran across your 2008 article <url>, and the footnotes are done manually vice the usual Wiki way.  Any chance you can go back and fix the footnotes?
+Annotation from annotator:

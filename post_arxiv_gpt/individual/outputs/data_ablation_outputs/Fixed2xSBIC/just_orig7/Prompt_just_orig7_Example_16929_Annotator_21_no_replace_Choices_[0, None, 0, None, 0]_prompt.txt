@@ -1,0 +1,137 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Correct Examples:
+Example 1:
+Text: Since we are public again, let me remind all the normalshits about something important
+Nvm we still private bois
+Annotation from annotator: 2
+
+Example 2:
+Text: Suicide claimed 3027 lives 2015 comp'd to 1209 on roads. Why dont we have same invest, education, awareness for suicide as road safety??
+Annotation from annotator: 0
+
+Example 3:
+Text: If a person is white and he is a Christian or a Pagan then i consider him as my brother or sister no matter whatever profession he is into .
+Annotation from annotator: 1
+
+Example 4:
+Text: Literally going to try my best to like and repost almost every Meme in the 2017 Meme Year In Review category that's what I'll be doing
+Annotation from annotator: 0
+
+Example 5:
+Text: Why are there no pharmacies in Africa? You can't take medicine on an empty stomach
+Annotation from annotator: 2
+
+Example 6:
+Text: i fucked a girl with the tightest pussy at work then i got fired.
+
+&amp;#x200B;
+
+apparently being a kindergarten teacher isn't for me.
+Annotation from annotator: 2
+
+Example 7:
+Text: You cannot buy an identity , or even work your balls off for nothing for one .
+Annotation from annotator: 0
+
+Example 8:
+Text: While I 'm happy to see this loser in jail , I think it 's also an excellent OPSEC tutorial : STFU Dip-wad .
+Annotation from annotator: 2
+
+Example 9:
+Text: Once upon a time, in a land far, far away, in the great state of Georgia, yours truly worked with @jcmanous.
+Annotation from annotator: 0
+
+Example 10:
+Text: Heard that Joel @joelmchale has a glandular problem like Andre The Giant. True or False? #thegreatindoors
+Annotation from annotator: 0
+
+Example 11:
+Text: A black man and a Mexican are in a car. Who is driving? The cop.
+Annotation from annotator: 2
+
+Example 12:
+Text: You probably won't send me anything I haven't read before, and I did volunteer work in the multicultural center here in town so... unnecessary.
+Annotation from annotator: 0
+
+Example 13:
+Text: This sub was featured in Pewdiepies video
+Look at his latest video on Rick and Morty timestamp 4.19
+Annotation from annotator: 0
+
+Example 14:
+Text: Deciphering core subliminal along with unstructured electrolyte processes. I am fucking insane. #amwriting
+Annotation from annotator: 0
+
+Example 15:
+Text: yo i shaved my legs so i could wear shorts today bUT ITS FUCKING COLD OUT YO WTF
+Annotation from annotator: 0
+
+Example 16:
+Text: I like the way Blizzard is tackling toxic players in Heroes of the Storm. It's a good first step.
+Annotation from annotator: 0
+
+Example 17:
+Text: Now that you dragged me out.. I will fucking ruin your fucking day.
+Annotation from annotator: 2
+
+Example 18:
+Text: You've heard of elf on the shelf now get ready for I want a divorce
+Annotation from annotator: 0
+
+Example 19:
+Text: I’ve never seen my mom run so fast to meet her twin sister! The dishwasher was at a 40% discount too!
+Annotation from annotator: 2
+
+Example 20:
+Text: Perhaps your emails will make the hardened hearts realize the errors of their ways .
+Annotation from annotator: 0
+
+Example 21:
+Text: How could we have prevented 6 million Jews from dying in the Holocaust? By killing a few more million.
+Annotation from annotator: 2
+
+Example 22:
+Text: i think i need to find a new girlfriend she is starting to learn to talk now
+Annotation from annotator: 2
+
+Example 23:
+Text: Damn it why did @wwe have to put @DashWilderWWE @ScottDawsonWWE on #RAWaftermania and not #SDLive then again of course they did
+Annotation from annotator: 0
+
+Example 24:
+Text: Is there anything we can do to blackpill the whole world?
+Annotation from annotator: 1
+
+Example 25:
+Text: What did the holocaust victim say when he was getting gassed? Aw, schwitz.
+Annotation from annotator: 2
+
+Example 26:
+Text: But even you would agree that it's not medically necessary in the same way as someone who is dying of something.
+Annotation from annotator: 0
+
+Example 27:
+Text: Deep state wants Trump out by the 25 th.admenment and pence has president for they can control him...wake up patriot's..
+
+Annotation from annotator: 0
+
+Example 28:
+Text: My nigga there's a fucking bird in my bathroom I can't fucking sleep to all this chirping
+Annotation from annotator: 0
+
+Example 29:
+Text: The average lifespan of a person with Aids is 40 years. No wonder why Africans are desperate to get it. It would triple their lifespan.
+Annotation from annotator: 2
+
+Example 30:
+Text: Why did the chicken commit suicide? To get to the other side...
+Annotation from annotator: 1
+
+Target Example:
+Text: I hope I get shot and killed at work today
+That'd be cool 
+
+No one else has to die but me, either
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

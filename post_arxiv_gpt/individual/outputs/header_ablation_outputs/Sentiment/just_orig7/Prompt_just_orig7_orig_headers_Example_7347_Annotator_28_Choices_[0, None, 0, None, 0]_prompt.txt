@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Estimated Examples:
+Example 1:
+Text: @Jason_mraz will you marry me?!  Jk...I'm old enuf to be your mom but u inspire me to a better life
+Annotation from annotator: 3
+
+Example 2:
+Text: @shaunjumpnow omg mario kart  all the older games are epic and i miss the n64  lol
+Annotation from annotator: 1
+
+Example 3:
+Text: Smashed my laptop in a parking lot last week  goodbye old laptop  Hello awesome new 13 in macbook pro! YAY!!! great timing mac dude!
+Annotation from annotator: 3
+
+Example 4:
+Text: Pahaha, I'm wearing my mom's old giant shades since I seemingly lost mine somewhere  Also, rocking 50s skirt and sandals.
+Annotation from annotator: 3
+
+Example 5:
+Text: is with Jordan watching old Beastie Boys music videos  uhm, GOON. I have the best friends ever.
+Annotation from annotator: 3
+
+Example 6:
+Text: @danesanders as a kid walked to school by ourselves everyday. Even in the "safe" place we live it's sad I can't let my 6 yr old!
+Annotation from annotator: 1
+
+Example 7:
+Text: took a bike ride with kinsey to my old elementary school and the guy kicked us off the playground  haha
+Annotation from annotator: 1
+
+Example 8:
+Text: @mochomito No, Smushy's a puppy. This is my older dog. She's 15 and they found two tumors yesterday. I've had her since I was 5.
+Annotation from annotator: 1
+
+Example 9:
+Text: Warning: This is *really* disturbing. "They put axe through the heart of a young man" http://bit.ly/FoNhd  #iranelection
+Annotation from annotator: 0
+
+Example 10:
+Text: Had a nice evening yesterday with a friend. The link to shared younger days did much good!
+Annotation from annotator: 3
+
+Example 11:
+Text: i need to move on like really its getting old missing him....
+Annotation from annotator: 1
+
+Example 12:
+Text: @xxcountrygirl12 My favourite part was.. hmm.. when the old lady bit the police man in the neck  Yours?
+Annotation from annotator: 1
+
+Example 13:
+Text: @aplusk We discussed sex with our son as soon as we felt he was old enough to understand (by we I actually mean my husband)
+Annotation from annotator: 3
+
+Example 14:
+Text: The ONE night my 10 year old is out, the 18 year old wants to STAY HOME!!  So much for my plans. Offered cash & the BIG FANCY car. No go
+Annotation from annotator: 1
+
+Example 15:
+Text: @emjaystar That is cute, well done young lady.
+Annotation from annotator: 3
+
+Example 16:
+Text: Last Fact of the Day (#7?) YouTube Sensation Fred, is 2 days older then Vince.  LOL, I know, pointless, but it's interesting, or is it?
+Annotation from annotator: 2
+
+Example 17:
+Text: @LilyLoch My favorite donut is a chocolate old fashioned...graze or not. And after that, a regular old fashioned.
+Annotation from annotator: 3
+
+Example 18:
+Text: @amieewhitney i love the whole entrance bit!, oh sum actor..who i only knew by face not name! old timer, my dad will be sad!
+Annotation from annotator: 2
+
+Example 19:
+Text: @TheRealJordin hey is stacey orrico song! man thats an oldy
+Annotation from annotator: 2
+
+Example 20:
+Text: @thiagi dude, your quizzes turn me into a 6 year old jumping up and down to get it right. Mental regression or something.
+Annotation from annotator: 1
+
+Example 21:
+Text: @JustPlainGeoff @tearsonfire @tianatweets @Loki_ZA I am not in the market for a court case  but it was a stupid issue on an old article
+Annotation from annotator: 1
+
+Example 22:
+Text: @Monicarrrr he sure does  get reivisng maths young lady!
+Annotation from annotator: 2
+
+Example 23:
+Text: @6Daphne6 tear tear  my little old ranger miss that truck
+Annotation from annotator: 1
+
+Example 24:
+Text: My 95 yr old aunt just pasted away  will travel to olympia)
+Annotation from annotator: 1
+
+Example 25:
+Text: @talksalot83 I got to reconnect with an old friend last week. Yay bb! And you have spiffy hair to show off.
+Annotation from annotator: 3
+
+Example 26:
+Text: I WANT A HOT SHOWER! >< :'(  I miss my old lecky one. My folks are morons.
+Annotation from annotator: 0
+
+Example 27:
+Text: @PinkyNKOTB yeah it was great seeing all the old BHOYS in the hoops jersey met Jorge Cadette childhood dream fulfilled  xx
+Annotation from annotator: 3
+
+Example 28:
+Text: The Force save me from grump old cats.
+Annotation from annotator: 2
+
+Example 29:
+Text: @hnrxmcrlover Josh pate...destiny's old boyfriend's little brother. He's so cute lol. Poor kid
+Annotation from annotator: 1
+
+Example 30:
+Text: Back to the daily grind working with other peoples old code is terrible
+Annotation from annotator: 1
+
+Target Example:
+Text: I am tired already and it is only 7:30! I think I am reverting to young age
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

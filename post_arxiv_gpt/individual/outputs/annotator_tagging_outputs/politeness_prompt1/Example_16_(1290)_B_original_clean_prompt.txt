@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: I notice that you added a period to the middle of a sentence in the article about <url>. Why?
+Annotation from annotator: 9.0
+
+Example 2:
+Text: Go to <url> and create it like you would a page: just add a little text by putting in a little explanation at the top and adding categories u2014 see <url> for a basic category of this sort, although on a very different subject.  Let me ask, however: are you planning to categorise articles about schools and/or districts, or articles on the cities where they are based?
+Annotation from annotator: 17.0
+
+Example 3:
+Text: That's OK &mdash; I just wondered if you had a new translation that used "on".  Where are you studying philosophy, by the way?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: If the only page you've been visiting is Wikipedia, then it makes sense the viruses would come from here, but if you've been to other sites, they get thrown into the equation. Again, don't you have any anti-virus software?
+Annotation from annotator: 15.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Jtdirl: Seek primary source mentioning 1845 lightweight tiara made for Gregory XVI. Do you have it?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: I had a quick scan through the <url> article, which while good seems to be to suffer from the negative effects of "summary style" when used on very large topics - namely that while the individual sections are good summaries of what they are describing, the ''overall'' article lacks a coherent flow, a narrative taking the reader from beginning to end. Does that make sense?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: No problem, It was open and shut <url> issue. For your next project can you find something that doesnt make your fanclub at the Wikipedia Review angry?
+Annotation from annotator: 14.0
+
+Example 4:
+Text: Hey, if you took this picture you can release it into the public domain. If not, do you know who took it?
+Annotation from annotator: 12.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Thanks! By the way, have you sent anything to Maggie since you received the email from the photographer?
+Annotation from annotator: 14.0
+
+Example 2:
+Text: Fair nuff. Anyhow, somebody's birthday is coming up, is it not?
+Annotation from annotator: 3.0
+
+Example 3:
+Text: You wrote "speedy keep" for Patrick Bouvier Kennedy.  Should you do it again?
+Annotation from annotator: 10.0
+
+Example 4:
+Text: There's a question about where you got the image of the ''Enterprise''.  Maybe you could clarify?
+Annotation from annotator: 17.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: I know, I looked it up and fixed the article, but it was annoying that you just changed one small thing making the page contradict itself. What's the use changing it if the reader will have no idea what's going on?
+Annotation from annotator:

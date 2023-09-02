@@ -1,0 +1,61 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: What supporter was the only thing that couldn't save Stephen Hawking? Life Support.
+Annotation from annotator: 0
+
+Example 2:
+Text: .@MyKeyMoonShine @Grummz i don't think you understand what gaslighting means. but that's adorable.
+Annotation from annotator: 0
+
+Example 3:
+Text: Man tricks women into aborting a baby she wants but he doesn't, discussion on /r/NotTheOnion
+Annotation from annotator: 0
+
+Example 4:
+Text: Yeah my trust all fucked up! Y'all lie for no reason &#129318;&#127997;‍♀️
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: >be a conservative
+>don't think race plays into the human condition whatsoever even though all people belong to one race or another
+
+muh colorblind 
+Annotation from annotator: 2
+
+Example 2:
+Text: "@LaurenGallaway @nicmanz15 mistake sure you've got a pretty powerful blender...ours didn't work til we tried ""frozen drink"" setting lol"
+Annotation from annotator: 0
+
+Example 3:
+Text: i straight up asked this asian bitch on tinder if i'm ugly
+guess what she said
+Annotation from annotator: 2
+
+Example 4:
+Text: I can not believe you think it’s ok for a woman to put her husband and family in financial strain you are not making any sense. Lol you are unbelievable. [...] That makes her a terrible person
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: What do you call a Chinese woman with one leg? Irene
+Annotation from annotator: 2
+
+Example 2:
+Text: why was the baby born in mangled state because the ( mother 's ) eggs were scrambled .
+Annotation from annotator: 1
+
+Example 3:
+Text: Did you know that pigs can fly? No? Well the warthog is the national bird in Iraq, so you're wrong.
+Annotation from annotator: 1
+
+Example 4:
+Text: which rock band best represent jewish culture ? ashes remain . ps . <allcaps> not good but hey it 's original
+Annotation from annotator: 2
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: why did god invent hinduism ? so he would n't have to deal with indians .
+Annotation from annotator:

@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: You shouldn't reject your family's gift.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is good to be happy for others that are happy.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's understandable if you feel sad when you see animals in cages.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's good to give other people you full attention.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's acceptable to dress however you would like.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should always help out a needy sibling.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't kick people out.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to get help if you're so depressed you can't do anything.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's understandable if you're not sure if you should go to someone's wedding after a fight with them.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's frowned upon to commit fraud.
+Annotation from annotator: 4
+
+Example 11:
+Text: It is ok to be upset if you broke your leg.
+Annotation from annotator: 4
+
+Example 12:
+Text: You don't need to accept apologies if you're not ready to move on
+Annotation from annotator: 3
+
+Example 13:
+Text: It's expected that split bills are miscalculated sometimes.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's understandable to not invite people to a party.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's okay to be self-conscious over poor skills.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's good to open up to people about your feelings.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to call the Coast Guard when they can help you.
+Annotation from annotator: 4
+
+Example 18:
+Text: Exposing people to some bodily functions is considered rude.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's wrong to not let someone you care about have a life.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's okay to be upset when your spouse asks for a divorce.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's good to try to fit in.
+Annotation from annotator: 3
+
+Example 22:
+Text: You shouldn't hold onto the sad past.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is good to attend events held by your friends and family.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's understandable that sometimes, we don't want others in our living space.
+Annotation from annotator: 3
+
+Example 25:
+Text: You don't have to be part of any group that you don't find interesting.
+Annotation from annotator: 3
+
+Example 26:
+Text: You have to do whatever is necessary in an emergency situation.
+Annotation from annotator: 3
+
+Example 27:
+Text: Trying to hide a partner from your parents would be stressful.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should not mislead your partner about your romantic feelings.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's good to hit the ball when you are up to bat.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's good to be honest about your mistakes.
+Annotation from annotator: 3
+
+Human-rated Examples:
+Example 1:
+Text: If you're unhappy with something, you should make some changes.
+Annotation from annotator: 3
+
+Example 2:
+Text: You shouldn't call your friends out.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's good to help out parents.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's expected that you be polite to your neighbors.
+Annotation from annotator: 3
+
+Example 5:
+Text: You can't expect people to always express empathy toward you.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's weird to be happy to leave your friends behind.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should not emotionally abandon your partner.
+Annotation from annotator: 4
+
+Example 8:
+Text: You're not expected to want to be friends with everyone.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's wrong to do things against your partner's wishes.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's understandable that people don't always get along with others.
+Annotation from annotator: 4
+
+Example 11:
+Text: You shouldn't be a dangerous person.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's understandable that people are upset by the death of a loved one.
+Annotation from annotator: 4
+
+Example 13:
+Text: People shouldn't betray the trust of those they're close to.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's okay to support whatever companies you find fit.
+Annotation from annotator: 4
+
+Example 15:
+Text: If you're going through a divorce, you shouldn't mess around with others until it's final.
+Annotation from annotator: 3
+
+Example 16:
+Text: You shouldn't let other people access your accounts
+Annotation from annotator: 4
+
+Example 17:
+Text: It's wrong to spend other people's money.
+Annotation from annotator: 3
+
+Example 18:
+Text: If you have really weird dreams, you should get some therapy.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's bad to cut yourself with a knife.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's nice to make decisions.
+Annotation from annotator: 4
+
+Example 21:
+Text: You should maintain your relationship with your significant others.
+Annotation from annotator: 2
+
+Example 22:
+Text: You should always forgive people no matter what.
+Annotation from annotator: 1
+
+Example 23:
+Text: It is good to follow the law.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's good to be happy about good health.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's rude to judge others based on their online presence.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's good to enjoy yourself.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's okay to like eating certain weird things.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's wrong to kill insects that are helpful to your plants.
+Annotation from annotator: 1
+
+Example 29:
+Text: IT is wrong to separate someone from their pet.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's normal for people who believe in certain religions to send their children to Sunday school.
+Annotation from annotator: 3
+
+Target Example:
+Text: It is good to tell the truth.
+Annotation from annotator:

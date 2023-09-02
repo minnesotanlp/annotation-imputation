@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's wrong to be into something that is annoying.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's expected that people who do illegal acts will have consequences.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's wrong to use another person for their resources.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's acceptable to shun someone who hates people in your group.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's important to take advice of your parents.
+Annotation from annotator: 4
+
+Example 6:
+Text: Is wrong to be a pervert
+Annotation from annotator: 4
+
+Example 7:
+Text: You shouldn't expect other people to be nasty recreational drug users like yourself.
+Annotation from annotator: 4
+
+Example 8:
+Text: You're discouraged from hating others.
+Annotation from annotator: 4
+
+Example 9:
+Text: You shouldn't wear a nightdress if you're male.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's bad to use sex to get what you want.
+Annotation from annotator: 4
+
+Example 11:
+Text: It is ok if you cancel last minute on people due to an illness.
+Annotation from annotator: 4
+
+Example 12:
+Text: You should always respect your partner's wishes.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's expected that girlfriends will want to look out for their boyfriends.
+Annotation from annotator: 4
+
+Example 14:
+Text: People shouldn't date others based solely on their age.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's expected you get into a fight if you're being racist around people
+Annotation from annotator: 3
+
+Example 16:
+Text: You shouldn't be a dangerous person.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's wrong to hate fitness people.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's good to get help when you need it.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's wrong to spy on people through social media.
+Annotation from annotator: 4
+
+Example 21:
+Text: It is understandable to not feel empathy when their situations do not involve you.
+Annotation from annotator: 3
+
+Example 22:
+Text: You should feel remorse when you get someone fired.
+Annotation from annotator: 4
+
+Example 23:
+Text: It is bad to have arguments.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't constantly think about death and dying.
+Annotation from annotator: 4
+
+Example 25:
+Text: You shouldn't clone dinosaurs because that would just cause a lot of problems.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's expected that a parent be polite to their children.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's bad for a child to be in danger.
+Annotation from annotator: 4
+
+Example 28:
+Text: You should always trust your nanny.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's understandable that sometimes people have reasons not to trust someone.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's good to be aware of your limits.
+Annotation from annotator: 4
+
+Target Example:
+Text: It's bad to hold a grudge against your parents.
+Annotation from annotator:

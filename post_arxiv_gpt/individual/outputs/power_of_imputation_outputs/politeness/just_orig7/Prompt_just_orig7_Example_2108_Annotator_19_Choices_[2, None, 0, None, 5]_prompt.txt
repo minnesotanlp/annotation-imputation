@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Human-Rated Examples:
+Example 1:
+Text: I've noticed that you're engaged in several edit wars, with Meliniki, regarding minor alterations to multiple Greek language articles. Perhaps you should consider discussing the changes on Meliniki's <url> instead?
+Annotation from annotator: 10
+
+Example 2:
+Text: In the piece <url> it there's mention of being listed as national historic site, but doesn'' appear to be listed on Hudson or Essex. Any ideas?
+Annotation from annotator: 17
+
+Example 3:
+Text: Hi J.  I'm thinking it might be a bad idea to start linking all unnamed EP recordings to the EP dab page.  Could turn into a very massive list, and maybe not the right use for a dab page?
+Annotation from annotator: 19
+
+Example 4:
+Text: I finished my expansion of the category you created. Any suggestions on how to improve the category?
+Annotation from annotator: 20
+
+Example 5:
+Text: If the llamas of Peru spoke Spanish, and one asked the other, ''xbfCxf3mo se llama?'', would he get confused?
+Annotation from annotator: 14
+
+Example 6:
+Text: In the article on <url>, you recently replaced a non-free image with J. Malcolm Greany's ''Ansel Adams and Camera'' on the basis that the latter image is in the public domain. How did you determine that this image is a work of the U.S. government?
+Annotation from annotator: 14
+
+Example 7:
+Text: I tried to make sense of the CfD rules and procedures as I think this: <url> has no reason to exist, but I decided instead to just bug the first person on the CfD discussions who seemed to know what they are doing, so I come to you.  Could you properly nominate this for deletion?
+Annotation from annotator: 17
+
+Example 8:
+Text: Hello-I think you know more about <url> than I do. Want to check it?
+Annotation from annotator: 17
+
+Example 9:
+Text: Hey, I just went ahead and reverted <url>. I was wondering if you wanted your userpage semi-protected to prevent that happening in the future?
+Annotation from annotator: 19
+
+Example 10:
+Text: I put plural women because in the storylines it states he falls for Detective Graves. He also hits on another older woman <url> but that wasn't notable enough to include.. is it best to keep it singular?
+Annotation from annotator: 17
+
+Example 11:
+Text: I started editing the article <url>, which was a real mess, and added some cited content under the math section.  However, there is all this content under the statistics section that is uncited, and wanted to know if someone would help me find sources for this information, or challenge and remove it?
+Annotation from annotator: 16
+
+Example 12:
+Text: I was wondering why you removed him from Category:Alameda. He's pretty famous around there and it would be notable to have him in the category of Alameda, wouldn't it?
+Annotation from annotator: 19
+
+Target Example:
+Text: I think I have a general idea what this is supposed to mean, but not nearly close enough to attempt a rewrite by myself. Are we talking about a piano trio sitting around "naming" trios that they might want to play, or record, or just playing the sort of game that parents use to keep young kids amused on a long trip (or did before there were TVs and movies inside cars)?
+Annotation from annotator:
+If you output anything other than a single integer (and absolutely nothing else, including explanatory text), your output will invalidate the dataset. So, please only output a single integer.

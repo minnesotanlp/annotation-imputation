@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's okay to drink from a bottle.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's bad to agree to go out with someone because they've bullied you.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's criminal to inflict sexual trauma on someone else.
+Annotation from annotator: 4
+
+Example 4:
+Text: If a new dog is not nice it is ok to dislike it.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's acceptable to break up with someone when you've developed feelings for someone else.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should apologize if you crash into people.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should respect the feelings of your friends.
+Annotation from annotator: 3
+
+Example 8:
+Text: You should find something to do so you're not bored.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's understandable if you're confused when you get a new appliance.
+Annotation from annotator: 3
+
+Example 10:
+Text: You should expect most kids to go to college after high school.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's fun to go out fishing.
+Annotation from annotator: 2
+
+Example 12:
+Text: It is good to discuss your problems with a close friend or family member.
+Annotation from annotator: 3
+
+Example 13:
+Text: People will think you're callous if you abandon a grandparent.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's understandable if you want to retire when you don't have to work.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's normal for people to want to spend time with their loved ones.
+Annotation from annotator: 3
+
+Example 16:
+Text: You shouldn't hurt your friend's feelings.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's wrong to lie to someone paying you for your expertise.
+Annotation from annotator: 3
+
+Example 18:
+Text: You can't expect your partner to always want to take care of your pets.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's okay to be unenthusiastic about your teenage years.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's wrong to hold sexist beliefs.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's normal to be displeased when a partner makes a big decision without you.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's impolite to make premature assumptions about people.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is mean to ignore the needs of a animal.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's understandable if you're frustrated when your relative is diagnosed with a chronic illness.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's ok to feel out of control.
+Annotation from annotator: 2
+
+Example 26:
+Text: It is common for people to try to hide bad habits.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should always keep in touch with your real parents.
+Annotation from annotator: 3
+
+Example 28:
+Text: It is common to confront someone to try to get them to stop smoking.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's okay to not know who you are.
+Annotation from annotator: 3
+
+Example 30:
+Text: Teaching children is a noble choice of profession.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should set alarms if you are prone to oversleeping for work.
+Annotation from annotator:

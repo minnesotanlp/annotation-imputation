@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7QAvS3voo42bmiH2dPyf5l7NxZzIo",
+    "object": "chat.completion",
+    "created": 1686472882,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 744,
+        "completion_tokens": 25,
+        "total_tokens": 769
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Based on the previous examples, it is likely that annotator B would label this example as 0 (no hatespeech)."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

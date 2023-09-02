@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: There is a QB at camp today wearing #1. I saw him in footage on NFL Network. Who is he?
+Annotation from annotator: 12
+
+Example 2:
+Text: Hi Skully, I've been keeping an eye on your edits over the past few weeks, and I think you should be a admin. Is it alright if I nominated you to be an admin?
+Annotation from annotator: 18
+
+Example 3:
+Text: You may want to comment on the A7 to ?2 graph with 4 lines. I suspect it is nonsense - but what are your thoughts on that folding option?
+Annotation from annotator: 17
+
+Example 4:
+Text: Was working, so no. You?
+Annotation from annotator: 13
+
+Example 5:
+Text: Gosh, I didn't realise it was so many. Would that include 20 batches of DYK hooks (totalling 100 total hooks)?
+Annotation from annotator: 13
+
+Example 6:
+Text: I'm sorry, but there is no discussion on the talk page that indicates that there was a debate about renaming, so the keep vote stands, I'm afraid.  There were nine votes to keep, and only one to merge, so I don't understand how a single vote trumps nine others?
+Annotation from annotator: 14
+
+Example 7:
+Text: I created the redirect page "SEAC (computer)" and I think the article chould go there, with redirects from the other two names.  Since you are an administrator, can you do that?
+Annotation from annotator: 14
+
+Example 8:
+Text: I'm not sure if you've changed your opinion of the article's FAC status, but I think you have guided us in a ton of good ideas.  Have you changed your opinion?
+Annotation from annotator: 13
+
+Example 9:
+Text: I've been going through <url> and replacing the FiveHorizons.com refs (per Quadzilla99's comments). However, refs 39 and 40 don't seem to appear anywhere else; could you perhaps replace them with more reliable sources if you get the chance?
+Annotation from annotator: 16
+
+Example 10:
+Text: "''Images with iconic status or historical importance: As subjects of commentary.''". Listen, it's just trivial to look up, could you take the care of actually reading these policies before arguing over them?
+Annotation from annotator: 8
+
+Example 11:
+Text: And can you point me to a statement of that company where they say that they release their images into the <url>? Or can you provide proof that their copyright has expired?
+Annotation from annotator: 14
+
+Example 12:
+Text: While editing the COIN page regarding Ciplex, I accidently broke your sig. Since I don't want any more flame, could you please fix it?
+Annotation from annotator: 17
+
+Example 13:
+Text: Wanted to Email you about Wikimedia Converence Netherlands, but your email is not working. In any case, you could crash at our place?
+Annotation from annotator: 15
+
+Example 14:
+Text: Shane I reverted the edit you made this moring <url> but on second thought I would like some advice.  Is it implied in stub that they do not have references or is it appropriate to mark stubs as requiring a reference?
+Annotation from annotator: 16
+
+Example 15:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 15
+
+Example 16:
+Text: That sounds like they are just "general use" of the word, so in each article delink and (if needed) explain that, in this context, diaphragm means a divider - or just rewrite without the word diaphragm, or use a link to wiktionary. In fact, should linking to wiktionary be a standard way to clear up some of the links to dab pages?
+Annotation from annotator: 13
+
+Example 17:
+Text: I just reverted your edits to the <url> page, because you seemed to make a number of major changes without providing an explanation for them, except the word 'Infobox' in your edit summary. Can you provide any references for the changes?
+Annotation from annotator: 14
+
+Example 18:
+Text: Oh, it's not that big of a deal. Drew, which IP edit did you consider to be "attacking"?
+Annotation from annotator: 11
+
+Example 19:
+Text: I have addressed many of the points that you had brought up at the FAC, as well as many of the comments from other editors, some of whom have changed their sentiment recently to "Support".  Perhaps you could reevaluate your stance on the article, and see if you feel you could change your position in the current FAC?
+Annotation from annotator: 11
+
+Example 20:
+Text: Take a look at the most recent post to <url>. Can you make a stub out of it?
+Annotation from annotator: 14
+
+Example 21:
+Text: M, I think we should put back the section that was archived yesterday. What do you think?
+Annotation from annotator: 15
+
+Example 22:
+Text: Indeed, the New York Times tells us that Iain Hook "''was shot in the back by an Israeli soldier ''". Why did a member of the IDF shoot him?
+Annotation from annotator: 13
+
+Example 23:
+Text: What is your opinion on just having that page deleted?  The spelling differences between that and <url> are more than minimal, as there are 4 differences between the two?
+Annotation from annotator: 14
+
+Example 24:
+Text: What can you say about <url>, some of them are marked as stubs. Is it correct?
+Annotation from annotator: 15
+
+Example 25:
+Text: Latest version (now on  Commons); all placenames included but still needs some tidying up and  tweaking. Comments?
+Annotation from annotator: 13
+
+Example 26:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 12
+
+Example 27:
+Text: As a rough look over, the splits look ok to me (although yes, more discussion before forking is generally a good thing). If you think there are serious problems with them, why not just address it on the talk page?
+Annotation from annotator: 15
+
+Example 28:
+Text: I've had a look at it...I cannot make the height/width of the image any smaller because it will limit the number of towns I can add.  Therefore, is there any point to adding an atlas to wikipedia?
+Annotation from annotator: 13
+
+Example 29:
+Text: Done. Does Adam Hunter need your disambig-style touch?
+Annotation from annotator: 13
+
+Example 30:
+Text: Where is the exception in <url> for "tossing out citations and verifiable in order to make it easier for the reader"?  Who are you to disagree with Nikon's label of "Compact Professional"?
+Annotation from annotator: 4
+
+Target Example:
+Text: <url>  Honestly, I'd like to know if you really are defending <url>.  Do you really believe that they were justified?
+Annotation from annotator:

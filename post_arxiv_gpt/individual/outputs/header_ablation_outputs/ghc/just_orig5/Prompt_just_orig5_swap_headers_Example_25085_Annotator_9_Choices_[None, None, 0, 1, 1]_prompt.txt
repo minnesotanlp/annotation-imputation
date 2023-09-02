@@ -1,0 +1,7 @@
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Target Example:
+Text: There are a lot of examples of politicizing sports, both much more old and much more recent. The latest I'm aware of is all this drama about how American football players should or shouldn't behave when the national anthem is playing. Point is, sports is politics, and it's not possible to separate one from another.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

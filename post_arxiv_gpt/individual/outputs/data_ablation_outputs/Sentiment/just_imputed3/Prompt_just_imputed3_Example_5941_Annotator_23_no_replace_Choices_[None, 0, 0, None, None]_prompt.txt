@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I think I'm old enough to decide what I can eat!
+Annotation from annotator: 2
+
+Example 2:
+Text: @emmhsmfan the dad seems good with kids, but not a lot of access. Ours is only 25 days old
+Annotation from annotator: 2
+
+Example 3:
+Text: dunno why I'm up and still bored. So yeah I just felt like updating my layout on MySpace & songs. haha. It's pretty lame but old-school!
+Annotation from annotator: 2
+
+Example 4:
+Text: off to help some old colleagues (they are young, it's just been a while) with their studio production. early mornings=  , studprods=yay ;)
+Annotation from annotator: 3
+
+Example 5:
+Text: @Cortnee4Christ It's like the old myspace days. You gotta go to a specific person's page, and comment to them that way.
+Annotation from annotator: 2
+
+Example 6:
+Text: @JGunds I really, really want to! But I already made plans to see some old friends tonight. I can't believe I'm going to miss out on 3eb
+Annotation from annotator: 2
+
+Example 7:
+Text: @thephatkat I know im old  u dont have to rub it in hee hee
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6oilr - old bolts in the front... new bolts in the back.  I sure hope this works
+Annotation from annotator: 2
+
+Example 9:
+Text: doing old crappy naxxramas
+Annotation from annotator: 2
+
+Example 10:
+Text: Great morning. 2 yr old put his hand on a burner I'd just turned off. Circular burns all over his palm. I feel sick about it.
+Annotation from annotator: 1
+
+Example 11:
+Text: No one wants to hang out with an old lady
+Annotation from annotator: 1
+
+Example 12:
+Text: @elenasharpn ironically - an 80 year old man probably has the mental age of a teenager...
+Annotation from annotator: 3
+
+Example 13:
+Text: g'day guys!. its a cyber stab in the back   .got a few old twitter friends very obviously blanking me.
+Annotation from annotator: 2
+
+Example 14:
+Text: Just dismantled my old bed, sad to see it go..new one arrives tomorrow though
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/61f8v - #rejectprop8 ahhhh young love
+Annotation from annotator: 2
+
+Example 16:
+Text: accidentally broke a wedding gift bowl while cleaning the house, does anyone know if those old testament safe cities are still in use...?
+Annotation from annotator: 2
+
+Example 17:
+Text: @LuinLuLand you have sooo been hustled...gotta watch out for the 5 yr old's...they know there stuff alright
+Annotation from annotator: 2
+
+Example 18:
+Text: @revilo2002 nah, she went to bed early and her room is far away from where we were - the older two were awakened only
+Annotation from annotator: 2
+
+Example 19:
+Text: Rearranged pretty much the whole house yesterday and now my whole body is sore... Sign of getting old
+Annotation from annotator: 2
+
+Example 20:
+Text: mikes sisters graduation is starting...reminds me of how old i am!
+Annotation from annotator: 2
+
+Example 21:
+Text: Wearing my old Cheshire Cat pajama's, and they're a lot tighter on me than they were a few years ago.
+Annotation from annotator: 2
+
+Example 22:
+Text: done with dinner... love catching up with T.  Just sent a text to an old friend and it is no longer their number... Sadness.
+Annotation from annotator: 2
+
+Example 23:
+Text: @BeauGiles since when do you care?  you should look up an old CH10 show called 'Breakers' for the male version
+Annotation from annotator: 2
+
+Example 24:
+Text: my itunes officially has gone crazy. its like it eliminates everything good and plays only old stuff on shuffle. <3 oh well yay memories.
+Annotation from annotator: 2
+
+Example 25:
+Text: looking for old friends,, all i have is names.. and i dont remember faces :S // only found one
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to pick out a profile pic with the help of @dfpcmaia but whenever i like one he says it's bad. 12 yr olds are stupid
+Annotation from annotator: 2
+
+Example 27:
+Text: so apparently no one is going out friday, so that's a bust, guess I'll go to work instead! Trying to resolve to the life of an old maid
+Annotation from annotator: 2
+
+Example 28:
+Text: im getting jealous of the looks of my old friends in mtl  they look amazing and im just.. -- PFFT .
+Annotation from annotator: 1
+
+Example 29:
+Text: @teruist Also, aggravating to know they can make oldschool vkei in PARODY but we struggle to try
+Annotation from annotator: 2
+
+Example 30:
+Text: @herathcrush: its a girl. They have 4 girls now  The 2 oldest are teens and the 3rd is 7 yrs old.
+Annotation from annotator: 3
+
+Target Example:
+Text: Also still wondering who is going to coach poor old Ajax... with van Basten gone now we need a new good coach...
+Annotation from annotator:

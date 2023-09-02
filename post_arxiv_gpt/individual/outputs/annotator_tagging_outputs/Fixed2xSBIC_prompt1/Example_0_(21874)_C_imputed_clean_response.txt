@@ -1,0 +1,1 @@
+It is impossible to determine how annotator C might label this example as there is no information provided about their labeling behavior for this type of text.

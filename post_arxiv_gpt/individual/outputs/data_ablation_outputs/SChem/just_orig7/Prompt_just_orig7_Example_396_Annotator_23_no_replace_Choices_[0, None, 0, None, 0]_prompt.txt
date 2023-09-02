@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: It's okay to be upset with a friend.
+Annotation from annotator: 4
+
+Example 2:
+Text: It is dangerous for a grandparent to risk a fall.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't play pranks on people.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's wrong to take pennies from a wishing fountain.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's wrong to lash out at someone.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's okay to start your life over again if you have to.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's bad to make big purchases behind your significant other's back.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 4
+
+Example 9:
+Text: It is ok to live with a roommate of the opposite sex if you are just friends.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's good to have something in your life that you love with every fiber of your being.
+Annotation from annotator: 3
+
+Example 11:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's important to have trust in a romantic relationship in order to have a healthy relationship.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's not okay for parents to be emotionally attached to their kids personal lives.
+Annotation from annotator: 2
+
+Example 14:
+Text: You should not emotionally abandon your partner.
+Annotation from annotator: 3
+
+Example 15:
+Text: You can't expect your team to always win their game.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wise to never let yourself get embarrassed by your significant other.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's good to find proof of cheating you perceive to be happening.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's hurtful to hate somebody close to you.
+Annotation from annotator: 3
+
+Example 19:
+Text: You should treat a person with a disability the same as you would anyone else.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's bad to be divorced with children.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's good to be happy for your friends.
+Annotation from annotator: 3
+
+Example 22:
+Text: It’s important to have hobbies.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's hurtful for  a parent to enroll a child in classes without permission.
+Annotation from annotator: 2
+
+Example 24:
+Text: You shouldn't have second thoughts about having kids if your wife gets pregnant because it's too late by then.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's important to respect the culture of other people.
+Annotation from annotator: 2
+
+Example 26:
+Text: It is understandable for parents to want to take care of their child when they are in need.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's good to like your job.
+Annotation from annotator: 2
+
+Example 28:
+Text: You shouldn't be with someone who sleeps with your kids.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's rude to be ashamed of people that love you.
+Annotation from annotator: 2
+
+Example 30:
+Text: You shouldn't wear a nightdress if you're male.
+Annotation from annotator: 1
+
+Target Example:
+Text: It's good to get a job after high school for a while to learn some responsibility.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

@@ -1,0 +1,51 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Human-rated Examples:
+Example 1:
+Text: If you completely disagree then why havn't you required references on other airport pages??
+Annotation from annotator: 4
+
+Example 2:
+Text: I'm the uploader of the hubble pictures.  What do I put for the author, description, and stuff?
+Annotation from annotator: 12
+
+Example 3:
+Text: Hello. Was wondering where you got his Birmingham squad number from?
+Annotation from annotator: 16
+
+Example 4:
+Text: Hm, I was unaware of said threads. Would you mind providing me with a link?
+Annotation from annotator: 12
+
+Example 5:
+Text: Thanks for the various corrections you have made to this article. Do you have a source for the Anglo-Saxon Chronicle date of 921, please?
+Annotation from annotator: 20
+
+Example 6:
+Text: The Italian and English rules are different from the Spanish. But if you think about it, would it make sense to list every reserve player who makes a first team appearance?
+Annotation from annotator: 12
+
+Example 7:
+Text: Make that "copyvio tag". OK if I revert under those conditions?
+Annotation from annotator: 12
+
+Example 8:
+Text: Already past my two "spelling correction" edits ;) (though they are obsessed with defense). I noticed one of them changed a quoted spelling: ''acknowledgment'' to ''acknowledgement'', did you get that one?
+Annotation from annotator: 12
+
+Example 9:
+Text: <url> - You made a bold edit, I reverted and now we discuss. Is there a reason why the Wikipedia editor generated filmography should be deleted and replaced by a link to an outside site?
+Annotation from annotator: 8
+
+Example 10:
+Text: I'm doing the same.  Hey, can you please tell me if <url> has been fixed enough by being stub-ified?
+Annotation from annotator: 16
+
+Example 11:
+Text: Sorry, I will check into this next week. Have you preserved UTF-8 (see comments on top of the wikEd code)?
+Annotation from annotator: 12
+
+Target Example:
+Text: Delete, who cares. If we're going to delete every fair use image that ''has'' a sufficient rationale, why not change to German Wikipedia image policy already?
+Annotation from annotator:
+The only valid output is a single integer.

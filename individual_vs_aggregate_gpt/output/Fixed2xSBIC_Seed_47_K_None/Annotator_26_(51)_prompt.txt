@@ -1,0 +1,38 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 1 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: If you're a cop in a black hood, you'll probably kill a lot of black people If you're a cop in a white hood, you'll still probably kill a lot of black people.
+ANSWER: 2
+
+2.
+EXAMPLE: what 's the excess piece of skin around the vagina called ? the woman .
+ANSWER: 2
+
+3.
+EXAMPLE: What has a dog's head, a cat's tail, a body of a rat, and a chinchilla's face. A zombie leaving the pet store.
+ANSWER: 0
+
+4.
+EXAMPLE: I fucked my girlfriend's best friend I mean she had the nicest ass in kindergarten
+ANSWER: 2
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: Tyrone comes home from school and asks his mom "Momma momma, I have the biggest dick in the 4th grade. Is that because I'm black?"
+
+His mom sighs
+
+"No Tyrone, it's because you're 19 years old!"
+ANSWER: 2
+
+How would the particular annotator annotate the target example?
+EXAMPLE: Tyrone comes home from school and asks his mom "Momma momma, I have the biggest dick in the 4th grade. Is that because I'm black?"
+
+His mom sighs
+
+"No Tyrone, it's because you're 19 years old!"
+ANSWER:

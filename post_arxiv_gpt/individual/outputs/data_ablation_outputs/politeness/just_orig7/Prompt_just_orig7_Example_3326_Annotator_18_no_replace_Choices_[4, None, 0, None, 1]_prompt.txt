@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Should be discussed on-wiki at one of the policy pages. Which one?
+Annotation from annotator: 16
+
+Example 2:
+Text: Cool. Is this something I can invoke with a template on the page or something?
+Annotation from annotator: 11
+
+Example 3:
+Text: Thank you for taking the time to review my nomination of <url> as a featured article candidate. I have responded to the issues you raised in <url> - could you please review my replies and let me know if you're satisfied?
+Annotation from annotator: 21
+
+Example 4:
+Text: Either way, administrators shouldn't be relying on counting how many categories are there for deletion, even if I accept to create the category only one day in advance. Suppose the bot fails to create the category for a day; then, you'll see only five categories and do no deletions on that day?
+Annotation from annotator: 7
+
+Example 5:
+Text: How should we go about doing that?  We can't just take over the group, can we?
+Annotation from annotator: 16
+
+Example 6:
+Text: I'm finding that I'm not able to access any of the DPL-related pages on the Toolserveru2013I get an error message or a blank pageu2013but somehow the Dab Challenge results are still being updated by your bot. Do you know what's going on?
+Annotation from annotator: 12
+
+Example 7:
+Text: I'd be shocked if no one has asked you this yet, but you do an enormous amount of work keeping the bio articles free of vandalism and nonsense as well as filling them up with useful content ;) You seem like you could use a few extra buttons on your toolbar. Are you interested in being nominated for adminship?
+Annotation from annotator: 24
+
+Example 8:
+Text: So it would seem that the ideas underpinning the law of conservation of mass existed at the time (if not previously), Lavoisier and others were formulating the principle, it did not become a verified "law" until the nineteenth century, which subsequently was qualified in the twentieth century. Is that about right?
+Annotation from annotator: 15
+
+Example 9:
+Text: Nice work.  :)  Got anything for <url> or <url>?
+Annotation from annotator: 16
+
+Example 10:
+Text: Vaguely connected, because I don't feel like starting a new section. Have you seen <url>?
+Annotation from annotator: 12
+
+Example 11:
+Text: OK. In the future, can you kindly post a note on your userpage, talkpage, or somewhere else so I know that the bot isn't broken?
+Annotation from annotator: 18
+
+Example 12:
+Text: I asked it before but I'm asking it again: Was it a Basque state? Can we say that?
+Annotation from annotator: 5
+
+Example 13:
+Text: It is the choice of template name as "Shinto2" which seems IMHO poor for use within an article (i.e. the "2" bit), hence suggestion of <nowiki><url></nowiki> (distinct from <nowiki><url></nowiki> currently used for various talk page headers), or if you don't like that as a name then perhaps <nowiki><url></nowiki> (invoked as <person>) ?
+Annotation from annotator: 12
+
+Example 14:
+Text: Thank you for telling me. Can you please revert my deletion, for I do not yet know how to do so?
+Annotation from annotator: 24
+
+Example 15:
+Text: So what do you think they want, anyway? I mean does this boil down to the words ''murder'' and ''kidnapping'' along with ''Brigham did it cuz he looked like a duck and quacked like a duck'' or what?
+Annotation from annotator: 8
+
+Example 16:
+Text: User 86.138.232.97 does have a history of malicous edits. Are you then confirming that these malicious edits done by user 86.138.232.97 were done by yourself?
+Annotation from annotator: 12
+
+Example 17:
+Text: <url>. Congrats, or should I say good luck?
+Annotation from annotator: 16
+
+Example 18:
+Text: About being part of a "collective" author on Wikipedia - about having your writing "edited mercilessly" by others - that sort of thing. I'm "interviewing" a bunch of people over email - can I add you to my list?
+Annotation from annotator: 20
+
+Example 19:
+Text: Yep, I'm definitely free for the whole break. Had fun in your trip?
+Annotation from annotator: 20
+
+Example 20:
+Text: The previous edit made by <url> was sufficient. If she edits the article again, reverting your edit, can we leave it be, for the sake of tranquility?
+Annotation from annotator: 16
+
+Example 21:
+Text: All I'm trying to say is that calling someone you're in a content dispute with a vandal isn't right. Let me ask you this, how do we stop the warring and conflict between users on Wikipedia that have real disputes outside Wikipedia?
+Annotation from annotator: 16
+
+Example 22:
+Text: @Chzz, the coverage in the references provided are a dedicted chapeter and a reproduced artice??
+Annotation from annotator: 12
+
+Example 23:
+Text: Hi, Leandrod - my computer is slow, and your last two edits were made on top of vandalism that needed to be reverted - I can't tell if I reverted legit changes by you or not?  If I did, I'm sorry, can you have a look?
+Annotation from annotator: 20
+
+Example 24:
+Text: Sorry, I completely missed the subsection title.  You think this is Merkey?
+Annotation from annotator: 21
+
+Example 25:
+Text: Are they here? Who?
+Annotation from annotator: 8
+
+Example 26:
+Text: Thanks for the link to the Flag template WikiProject at the MoS discussion. Has there been much discussion at the WikiProject about the limits/usefulness of flag icons?
+Annotation from annotator: 16
+
+Example 27:
+Text: Yes, I do, but Norris is generally better. What points/issues do you think it should also cover?
+Annotation from annotator: 8
+
+Example 28:
+Text: Secondly, please show me where Maynard Smith credits this idea to Haldane.  Have you read the Grafen paper?
+Annotation from annotator: 8
+
+Example 29:
+Text: I'd have done it in half the time if I knew how to format cites, so might have had time to copyedit too. Now I need it moved to the correct title - where's a friendly admin when you need one?
+Annotation from annotator: 16
+
+Example 30:
+Text: I got the same email.  Isn't this a proxy account?
+Annotation from annotator: 12
+
+Target Example:
+Text: Where is the exception in <url> for "tossing out citations and verifiable in order to make it easier for the reader"?  Who are you to disagree with Nikon's label of "Compact Professional"?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

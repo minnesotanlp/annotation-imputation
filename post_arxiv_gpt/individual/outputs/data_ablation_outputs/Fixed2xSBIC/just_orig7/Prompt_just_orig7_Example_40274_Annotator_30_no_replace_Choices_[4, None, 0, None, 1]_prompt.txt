@@ -1,0 +1,129 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: I don’t get why SWAT still use flashbangs It doesn’t work if you’re raiding an Asian’s house!
+Annotation from annotator: 2
+
+Example 2:
+Text: Eisenhower called it the "military industrial complex", Trump calls it the "deep state", but what it really is, is ZOG.
+Annotation from annotator: 0
+
+Example 3:
+Text: So during my conversation with my sister I learned some news that made my whole day.... next tweet because I like suspense...
+Annotation from annotator: 0
+
+Example 4:
+Text: CZ Thing about time travel is, I was on Twitter like an hour ago, but spent last 2 weeks in 1973. Just got back.
+Annotation from annotator: 0
+
+Example 5:
+Text: RT @mytinysonharryy: CANT WAIT TO SEE YOU ALL AT MY FUCKING FUNERAL TOMORROW!!!!!!!
+Annotation from annotator: 0
+
+Example 6:
+Text: VodafoneIN: satish6389 We'll inform the respective team and make sure that your issue has been solved soon. - Rahul
+Annotation from annotator: 0
+
+Example 7:
+Text: @xlMLGGamerlx @brenchong No they couldn't you retard
+Annotation from annotator: 2
+
+Example 8:
+Text: We broke up But she said we could still be cousins
+Annotation from annotator: 2
+
+Example 9:
+Text: Me:: (almost in tears) I've been catcalled, whistled at, and harassed 4 or 5 times today! Boyfriend:: Well in Hispanic culture it's more acceptable to whistle at women. Me:: What does that have to do with anything? Boyfriend:: Well they might not have thought they were being rude. Me:: None of them were Hispanic. Made me feel like the fact that I was feeling hurt and threatened was unimportant.
+Annotation from annotator: 2
+
+Example 10:
+Text: I'm bringing a huge bag of condoms with me to college
+lol
+Annotation from annotator: 2
+
+Example 11:
+Text: Here is another source for 5.56 They are out of stock on the Wolf garbage but have PMC and some Federal in stock .
+Annotation from annotator: 0
+
+Example 12:
+Text: "Stop looking us and go eat some pussy, you yuppie fucks."
+Annotation from annotator: 2
+
+Example 13:
+Text: going to the show over in the third district on saturday im trying to go but probly will need a ride home thanks
+Annotation from annotator: 0
+
+Example 14:
+Text: daily reminder that I love taetae, sarsar, mel, momo, vicky, izzy, bts sooooooooooooooooooo much and I'm so grateful to have them in my life
+Annotation from annotator: 0
+
+Example 15:
+Text: Good article about male DV victim
+I like this article from a local paper showing a male victim and his struggles after.
+Annotation from annotator: 2
+
+Example 16:
+Text: Woman makes extremely sexist assumption about a man with his daughter - All good according to TwoX
+Annotation from annotator: 2
+
+Example 17:
+Text: "The Great and Mighty Warlock murderously drones Ascendant Blast (using a 8th level spell slot) on A Blue letter ""J""!"
+Annotation from annotator: 0
+
+Example 18:
+Text: Twitter has found that nearly 37,000 automated “bot” accounts with Russian links generated 1.4 million tweets that were seen by a potential 288 million people in the three months before the November 8, 2016 presidential election, according to a source familiar with its planned testimony.
+Annotation from annotator: 0
+
+Example 19:
+Text: My son hate wen people trying to feel him &#128514;he be kicking everyone's hands like bitch moveeee
+Annotation from annotator: 2
+
+Example 20:
+Text: I like my wife how I like my fish Battered
+Annotation from annotator: 2
+
+Example 21:
+Text: what do you call a <number> year old girl tied up in a basement ? she says her name is " mmmpmph "
+Annotation from annotator: 2
+
+Example 22:
+Text: I play this same bitch ass garbage akuma player in ranked every night. Gets fucking bodied and starts throwing me to death for oki
+Annotation from annotator: 2
+
+Example 23:
+Text: Tigers wing defence needs some work. That's 3/3 tries to the dragons cause of this #NRLTigersDragons
+Annotation from annotator: 0
+
+Example 24:
+Text: from conversation at that... &#8220;@Blakcocaine_ These hoes be falling too easy. &#128554;&#8221;
+Annotation from annotator: 2
+
+Example 25:
+Text: I caught maybe the last 5 seconds of the MS State upset, but what a time to tune in. Incredible shot.
+Annotation from annotator: 0
+
+Example 26:
+Text: Why do jews have so big noses? Air is free.
+Annotation from annotator: 2
+
+Example 27:
+Text: Ain't naaaan nigga out here that's gonna pass on a tittie whether it be real or fake.
+Annotation from annotator: 2
+
+Example 28:
+Text: Congratulations to @msstate Women's Basketball Team for stunning victory over UCONN last night. Good luck tomorrow to @UofSC &amp; @msstate!!!
+Annotation from annotator: 0
+
+Example 29:
+Text: *looks at my text messages* People are fucking insane
+Annotation from annotator: 0
+
+Example 30:
+Text: $KOSK shipped a trial micro market to a Michigan-based water company w/ over a hundred years of operating history and corporate connections.
+Annotation from annotator: 0
+
+Target Example:
+Text: Make the best of the west coast. Enter to win everything you need to plan an epic drive up the scenic west coast: https://t.co/HpoPJbKdOE
+Annotation from annotator:
+Your output should be a single integer and nothing else.

@@ -1,0 +1,122 @@
+Example 1:
+Text: You shouldn't leave your future up to fate.
+Annotation from annotator: 3
+
+Example 2:
+Text: You should marry anyone you don't want to.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's nice to meet up with your friends.
+Annotation from annotator: 3
+
+Example 4:
+Text: You should never argue over something that does not need to be argued about.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is rational to not want to join the military.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's understandable to not be attracted to people.
+Annotation from annotator: 2
+
+Example 7:
+Text: It is good to educate your children
+Annotation from annotator: 3
+
+Example 8:
+Text: It is bad to be suicidal.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's understandable to be bothered by a pet that is dealing with incontinence.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to cut out people who are toxic to you.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's normal to get frustrated from time to time
+Annotation from annotator: 3
+
+Example 12:
+Text: It's bad to start relationships in the workplace.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is expected that couples are faithful to each other.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's understandable if you're excited when you find the way out of a cave.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's fine to choose who you want as guests at your own wedding.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's normal to have arguments with a partner.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to break up with your partner if the relationship is not salvageable.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to want to be able to back up your words.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to have in-laws that buy you nice things.
+Annotation from annotator: 3
+
+Example 20:
+Text: You are allowed to set boundaries for your spaces.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should always give back to people who give their all to you.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's acceptable to not want to share all your reasons for the opinions you have.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's ok to feel out of control.
+Annotation from annotator: 2
+
+Example 24:
+Text: It is important to respect other people's relationships.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's great to recognize your shortcomings.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is polite to pay half of the rent if you are living with someone.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to have a job to support yourself.
+Annotation from annotator: 3
+
+Example 28:
+Text: You shouldn't say things that call your character into question.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's dangerous to break glass with your hand.
+Annotation from annotator: 3
+
+Example 30:
+Text: It is normal to not communicate with people who aren't your friends.
+Annotation from annotator: 3
+
+Text: It's good to want someone to do their best.
+Annotation from annotator:

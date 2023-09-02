@@ -1,0 +1,82 @@
+Example 1:
+Text: Drinks and dancing with old friends, including @mmac! I'm excited
+Annotation from annotator: 4
+
+Example 2:
+Text: Facebook is feeling like old dial-up internet...going to bed now to get rested for Monday  ugh!
+Annotation from annotator: 1
+
+Example 3:
+Text: Just went to 8 my old high school miss hearing those annoying bells
+Annotation from annotator: 2
+
+Example 4:
+Text: Learning some old step stuff. Never taught it before, but I've got this!
+Annotation from annotator: 4
+
+Example 5:
+Text: My hamster's getting old :'( he's skinny and dazed. don't think he's gonna be around much longer.
+Annotation from annotator: 0
+
+Example 6:
+Text: Need to get to bed. As soon as my three year old does  She just woke up from a nap. WTF. That wasn't suppose to happen.
+Annotation from annotator: 0
+
+Example 7:
+Text: Not a good day for our old dog - refuses to eat anything - never been through this before - so tough to watch
+Annotation from annotator: 0
+
+Example 8:
+Text: Oh and @meghankathleen...she most def. is no fool...in fact most people aren't all that bad...I'm just getting cynical in my old age.
+Annotation from annotator: 2
+
+Example 9:
+Text: Oh my word in a month ill be old
+Annotation from annotator: 0
+
+Example 10:
+Text: RIP Matt <3 You'll never be forgotten... Only the good die young
+Annotation from annotator: 1
+
+Example 11:
+Text: The younger adults' brain scans showed activity in the same area.
+Annotation from annotator: 2
+
+Example 12:
+Text: Today is D-Day...as in Driver's License. Is my oldest boy really going to be legally allowed to drive without me riding shotgun?  Waaa!!
+Annotation from annotator: 3
+
+Example 13:
+Text: Took the pup for a nice morning hike,down the old RR bed - haven't been there in AGES!! Saw some really cool birds and wildflowers
+Annotation from annotator: 4
+
+Example 14:
+Text: Twidroid let me down  back to good old twitteride..
+Annotation from annotator: 2
+
+Example 15:
+Text: itunes let me import my old (real) library this morning, woo-hoo!  brilliant.
+Annotation from annotator: 4
+
+Example 16:
+Text: just got in touch with my old friend zac! and he's taking me to a car meet friday! wooo!!
+Annotation from annotator: 4
+
+Example 17:
+Text: my younger sister partied at embassy superclub last night. now i feel like a loser
+Annotation from annotator: 0
+
+Example 18:
+Text: needs Jake to fully recover.  His old is really getting to him.
+Annotation from annotator: 0
+
+Example 19:
+Text: sunglasses are too big  I want my old ones back, they were prefect, but nooo someone had to lose them :@ on the plus side its nice outside
+Annotation from annotator: 2
+
+Example 20:
+Text: thinking of getting a fake owl to for the balcony. there is a young bird who wakes me up at 5am every morning and then squawks all night.
+Annotation from annotator: 2
+
+Text: Had a nice weekend with my gorgeous wonderful boy.  Now it's back to attempting to design a scientific investigation for 4 to 5 year olds!
+Annotation from annotator:

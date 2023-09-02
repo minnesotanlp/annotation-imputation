@@ -1,0 +1,83 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: @Anthony_y_Tony Since I was three months old.  Went to college, now back for a year now.
+Annotation from annotator: 2
+
+Example 2:
+Text: @CountryGirlND by the way... happy birthday you old bat  love ya
+Annotation from annotator: 2
+
+Example 3:
+Text: @DreeseyBaby what's that ill see what dats bout! N my FAMU friends aint old enuff for the moon on saturdays  lol
+Annotation from annotator: 2
+
+Example 4:
+Text: @HenniBear xD but i think serena is looking too old xD like william in 'about a girl' ya know?
+Annotation from annotator: 1
+
+Example 5:
+Text: @JessicaNorin me too  I love to watch old movies, Brings me back soooo many memories
+Annotation from annotator: 3
+
+Example 6:
+Text: @Jet_Set I've got a similar three year old model if anyone's interested
+Annotation from annotator: 2
+
+Example 7:
+Text: @Pifiz ahihi .. 100yrs old ?.. woah ! try to put off your eyeglasses to look young !
+Annotation from annotator: 2
+
+Example 8:
+Text: @Pifiz ahihi .. so hard to guess !!  around 20-25 yrs old ??
+Annotation from annotator: 2
+
+Example 9:
+Text: @PrncessBri i had to work  sad i couldnt make it! I forgot you lil bro went to Hamady! Man we gettin old..lol
+Annotation from annotator: 1
+
+Example 10:
+Text: @TheRopolitans i figured he go younger after chick from last season...i liked Heather from season 1
+Annotation from annotator: 2
+
+Example 11:
+Text: @andrewgerhart u could gog old school and do cloth diapers, and wash/reuse, theres actual services for that but... ewwwwwwwwww
+Annotation from annotator: 1
+
+Example 12:
+Text: @aravindkumar thanks for tht... i needed to give an old friend feedback abt bing, this'll come in handy
+Annotation from annotator: 2
+
+Example 13:
+Text: @emilylynn_ oh my lil em is growing up!  makes me feel old.   yea for summer registration!
+Annotation from annotator: 2
+
+Example 14:
+Text: @james_massey yeah I'm good dude, been working early lately so havnt been staying put to long. Home in time for bath and bed  such an oldy
+Annotation from annotator: 2
+
+Example 15:
+Text: @jenscloset It sure isn't but it happens more and more as I get older.
+Annotation from annotator: 1
+
+Example 16:
+Text: @lolly_popular I see ur old twitter is working..yayy 4 U
+Annotation from annotator: 3
+
+Example 17:
+Text: @theotherlily  I hope client    Orrr maybe he's an old buddy of Shawn's dad..that need help?
+Annotation from annotator: 2
+
+Example 18:
+Text: @xxmcr_ladyxx just scared for you! youre so young! @chemicalbullets im okay  what you doing?
+Annotation from annotator: 2
+
+Example 19:
+Text: Been in NM for a while. Listening to oldies for singalong purposes
+Annotation from annotator: 3
+
+Target Example:
+Text: I don't mind being young.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

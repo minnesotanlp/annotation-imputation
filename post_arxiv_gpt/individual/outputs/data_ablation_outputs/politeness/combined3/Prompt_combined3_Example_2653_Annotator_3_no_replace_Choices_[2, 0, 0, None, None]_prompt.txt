@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It's archived onto CD; I'll have to search it out. Suggestion on what you'd like to see in the way of resolution?
+Annotation from annotator: 11
+
+Example 2:
+Text: I see your point, but my real issue was wanting to add the 'too much trivia' tag as all these 'minor aspects' need to be integrated into the relevant sections (I'll have a go myself if I get time). Isn't it possible to create a 'pop culture references' section and then siphon it off into a separate page when it gets too big?
+Annotation from annotator: 13
+
+Example 3:
+Text: Sorry to bother you but theres a report on <url> regarding <url> which has been a target for IP vandalism. I'm only asking directly  because the vandalism is continuing and I'm close to not being able to fight it anymore under policy so can I ask if you could please issue the protection and revert the IP's vandalism back to my last revision?
+Annotation from annotator: 19
+
+Example 4:
+Text: Is it referring to a different bank of a similar name? What source is it from?
+Annotation from annotator: 14
+
+Example 5:
+Text: Hi, I was wondering why it is that <url> only has two articles in it -- and whether it should be kept. Has it ever been more fully populated?
+Annotation from annotator: 14
+
+Example 6:
+Text: Your "resolution" was to move it back to "Detective Terry Crowley" again? Why do you keep doing that?
+Annotation from annotator: 5
+
+Example 7:
+Text: Hi Cmadler, I've written a new ALT hook at the <person> that I think addresses your concerns.  Could you sign off on the nomination?
+Annotation from annotator: 16
+
+Example 8:
+Text: <url>???
+Annotation from annotator: 7
+
+Example 9:
+Text: One other question I have is that the ''Wikipedia'' article states that his 1968 paper had been first rejected by American publications before it was accepted by the British one. Would you happen to know why?
+Annotation from annotator: 15
+
+Example 10:
+Text: <url> It would be better if the content was not quite so pejorative. Perhaps a rewording?
+Annotation from annotator: 11
+
+Example 11:
+Text: I'm sorry, I'm having trouble understanding your question. Could you try again?
+Annotation from annotator: 17
+
+Example 12:
+Text: Would you email me with any points/incidents you especially want me to be aware of?  Do you think Jimbo will be willing to pass this to the arbitration committee?
+Annotation from annotator: 16
+
+Example 13:
+Text: If the procedure for afd/copyvio is the same, that could certainly be possible. Can you please provide a link to the appropriate pages/templates in that language?
+Annotation from annotator: 13
+
+Example 14:
+Text: I'll have a look (probably just for copyediting duties) once Zag has finished the larger changes. Keep me posted?
+Annotation from annotator: 11
+
+Example 15:
+Text: ---- Though I thought I would note that you have now exceeded <big>'''500'''</big> edits while on "wikibreak" and that is over less than 10 days, May I ask what kind of break is that???
+Annotation from annotator: 7
+
+Example 16:
+Text: PS I also am wondering about the letter "ll". It seems, like the Welsh <url>, to have a particular (and tricky) pronunciation, but thereu2019s nothing on the <url> or <url> pages about it: Can you shed any light on this?
+Annotation from annotator: 13
+
+Example 17:
+Text: It looks like the category functioning works.  Can we get an alert to render instead of the default missing parameter <nowiki>{{{1}}}}</nowiki> behaviour?
+Annotation from annotator: 10
+
+Example 18:
+Text: It's a possibility, but still leaves the problem that the terms are US Army jargon (at least, I don't recall hearing them anywhere else!). Maybe a transwiki to Wiktionary would be better?
+Annotation from annotator: 13
+
+Example 19:
+Text: I note also that so far you seem to be the sole editor who favors deletion, while several have favored retention of the article, possibly with editing. Could it be that your view does not command consensus?
+Annotation from annotator: 8
+
+Example 20:
+Text: I was about to ask the same question on <url>.  Did you ever find out?
+Annotation from annotator: 13
+
+Example 21:
+Text: Sounds good to me. Should we start preparing for it now just in case the GA reviewer notices that something significant is missing?
+Annotation from annotator: 16
+
+Example 22:
+Text: Congratulations! You are the winner of <url> Round 10. Would you like to prepare the questions for the next Wikifun?
+Annotation from annotator: 18
+
+Example 23:
+Text: I hope Ed's doesn't look like mine. Wait--what is this navbar we're talking about?
+Annotation from annotator: 9
+
+Example 24:
+Text: I just sat through last Sunday's horror show... The less said about that the better. Any idea who Maurice LaMarche voiced so I can update the guest star list?
+Annotation from annotator: 8
+
+Example 25:
+Text: Ha, you're too kind to me, my old friend. MK one day, promise?
+Annotation from annotator: 16
+
+Example 26:
+Text: I seeu2014yes, those can easily be changed back. Would you rather I start a fresh discussion about these?
+Annotation from annotator: 12
+
+Example 27:
+Text: what do you think was the purpose of this Fesselballon? if it wasn't military, what was the point in shooting it down?
+Annotation from annotator: 8
+
+Example 28:
+Text: Helllo?????
+Annotation from annotator: 4
+
+Example 29:
+Text: Like most users with their articles screwed over by <url>'s new web facelift, I'm at a lost with <url> being dead. Can you help?
+Annotation from annotator: 14
+
+Example 30:
+Text: I've made some improvements to <url>, keeping in mind your previous comments about the article. Since you gave its grade before, would you like to see it if it could be reassessed?
+Annotation from annotator: 17
+
+Human-Rated Examples:
+Example 1:
+Text: Wanted to Email you about Wikimedia Converence Netherlands, but your email is not working. In any case, you could crash at our place?
+Annotation from annotator: 10
+
+Example 2:
+Text: I noticed that you twice placed a request for citation on the <url> page,<url> <url>, but it was silently removed by <url> <url>. I've removed the sentence altogether; do you think any other action should be taken at this point?
+Annotation from annotator: 8
+
+Example 3:
+Text: |style="vertical-align: middle; padding: 3px;" | Hi, I wish to understand why you deleted my file. I'm kinda new here, can you help me?
+Annotation from annotator: 18
+
+Example 4:
+Text: I'm trying to figure out what he did differently from any of the other editors continually arguing (for months) about the South Ossetia War. Sure, he argues passionately for his viewpoint, but hasn't everyone that was involved in that article done so, including myself?
+Annotation from annotator: 8
+
+Example 5:
+Text: What a joke, this player has played league football all his career and some clown has now deleted it off, what kind of rules has this been deleted under then? "May be deleted" seems a bit of a poor excuse to me personally, fancy giving me some information as to why this has been deleted then guys?
+Annotation from annotator: 0
+
+Example 6:
+Text: Why did you just do that? I am being serious - what business was it of yours exactly?
+Annotation from annotator: 0
+
+Example 7:
+Text: I was discussing this with Ling.Nut, since I've seen them around before.  What do you think of a founding member userbox for yourself, me and Ling?
+Annotation from annotator: 8
+
+Example 8:
+Text: Hi Dirk. Does the two books you cited for the heavy Belgian <url> losses have any info of how many Gladiators the Belgians lost, and perhaps what losses they incurred on the Germans?
+Annotation from annotator: 19
+
+Example 9:
+Text: re: <url> edit. Then let me ask you, what exactly was offensive about them?
+Annotation from annotator: 0
+
+Example 10:
+Text: I did a little copy editing, added commas and such. Are you bringing it to DYK?
+Annotation from annotator: 20
+
+Example 11:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation from annotator: 4
+
+Example 12:
+Text: The YA article is a right trainwreck, and having had to do much of the exact same work on <url> and <url>, I'm not keen to do it again a third time on <url>, and then defend three separate articles from identical POV pushes. Thoughts?
+Annotation from annotator: 4
+
+Example 13:
+Text: Why doesnt belong there??
+Annotation from annotator: 8
+
+Example 14:
+Text: If you are beccoming a target again do you want semi prot for a while? How much activity is it getting?
+Annotation from annotator: 8
+
+Example 15:
+Text: Stephan, what did you mean by ''"Is English your native language? You seem to fill in a lot of things not said with your assumptions."'' on my talk?
+Annotation from annotator: 4
+
+Example 16:
+Text: Excuse me? What are you accusing me of doing?
+Annotation from annotator: 8
+
+Example 17:
+Text: Okay, so yeah, it's possible that that's his intent, but I even if it were, I don't see why the file has less value. Are interviews with BLP subjects not considered valid EL's general?
+Annotation from annotator: 10
+
+Example 18:
+Text: Thank you ''very much'' for partaking in my effort to have a listing of stable article revisions. How do you suggest we get this project off the ground?
+Annotation from annotator: 24
+
+Example 19:
+Text: The navigation popups will not appear on certain pages in the Wikipedia namespace. Is this a bug?
+Annotation from annotator: 16
+
+Example 20:
+Text: Owing to your status as an active wikipedian, I'm not yet reverting your edit to this article.  But what sense is it to move his birth location from the birthdate position in line one, to the top of (a newly formed) paragraph 2 which then (continues from the former paragraph 1 subject) takes off on a subject entirely unrelated to his birth?
+Annotation from annotator: 4
+
+Example 21:
+Text: "Overmans believes that the figure of 473,000 deaths listed in the 1965 German Church Service study is incomplete and not a definitive accounting of losses in the Expulsions" ? What is "Expulsions" here?
+Annotation from annotator: 16
+
+Example 22:
+Text: Many thanks. I can't resolve "The work represents a summary of themes explored in Bacon's previous paintings", Tony's right - its clunky and unclear; any ideas?
+Annotation from annotator: 22
+
+Example 23:
+Text: How do you know the author/uploader of <url> intended it to be licenced under the copyright licence that you attached to the file with <url> Are you clairvoyant or did the uploader tell you this was his wish?
+Annotation from annotator: 0
+
+Example 24:
+Text: This Latvian Scout image has Zemgale in the name, but the Latvian name is 6000 miles away buried in storage. Would it be enough to call it the Zemgale Regional SO?
+Annotation from annotator: 15
+
+Example 25:
+Text: Do you disagree with this reasoning?. If so, could you explain why?
+Annotation from annotator: 20
+
+Example 26:
+Text: Thanks, looks like <url> needs some fixin'. By the way, are you honestly ok with me bothering you like this?
+Annotation from annotator: 20
+
+Example 27:
+Text: "Book" in question is A4 or thereabouts, and runs to a grand total of 32 pages including covers. It does state that it is a journal of SIAS, No 18 / 1988. There's not much to choose between the two templates though, is there?
+Annotation from annotator: 16
+
+Example 28:
+Text: The 1980s Watchmen roleplaying module "Taking Out the Trash" has a section cowritten by Alan Moore and Ray Winninger; according to this http://www.capnwacky.com/rj/watchmen/noncomic.html it contains additional background info on the characters and additional insight; do you have the modules? Could I cite the modules for this information?
+Annotation from annotator: 12
+
+Example 29:
+Text: Hi old friend! Would you mind unprotecting my user/talkpages please?
+Annotation from annotator: 16
+
+Example 30:
+Text: See email first. Is this coming from somewhere or something particular?
+Annotation from annotator: 2
+
+Target Example:
+Text: I've removed my remark. But if somebody puts words in another's mouth, and that second person states that is not what he meant, and the first person responds that no, that ''is'' what the second person meant, well, wouldn't you say that's a little weird?
+Annotation from annotator:

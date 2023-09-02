@@ -1,0 +1,86 @@
+Example 1:
+Text: #RemoveUnfairPOCSOlaw as promised Government must pay heed to the fake cases being filed against innocents. Stop POCSO Misuse!
+Annotation: 0
+
+Example 2:
+Text: "I feel for him every time we eat Mexican out here&#128514; it kills me every time I tell him ""let's move back n get 24th &amp; mission"""
+Annotation: 0
+
+Example 3:
+Text: I've always hated deaf jokes. I never heard a good one.
+Annotation: 2
+
+Example 4:
+Text: I'm about to see my best friend for the first time since like November even though we go to the same college and are 10mins from each other
+Annotation: 0
+
+Example 5:
+Text: What's the difference between a slave working in a field and a Jew working in a concentration camp? One is ashy, the other one is ashes.
+Annotation: 2
+
+Example 6:
+Text: Women are now against the draft since women will be included soon
+Annotation: 1
+
+Example 7:
+Text: Why does the KKK need to be stopped? Coz the keep killing our fuckin slaves
+Annotation: 2
+
+Example 8:
+Text: 26th Dec 1791birth of Charles Babbage mathematician &philosopher who first put forward the idea of a programmable computer.
+Annotation: 0
+
+Example 9:
+Text: He's making sure if it's ok for the bitches http://t.co/wE7OBTKetB
+Annotation: 1
+
+Example 10:
+Text: I am incel because i lost the genetic cointoss
+50/50 chance, and i ended up as a boy :(
+
+I cant help but feel jealous of women, they're lives are incredible compared to mens, its depressing knowing that i will never look in the mirror and see a beautiful woman
+Annotation: 0
+Estimated Majority-voted Examples:
+Example 1:
+Text: @skitzosir rip follow, but nah its fine, I barely use twitter anyways lmoa, Also dope upload with @mattPFV
+Annotation: 0
+
+Example 2:
+Text: I asked my Muslim friend if there are any bars he's allowed to go to He said only the ALL HO own an AK BAR and then he randomly blew up
+Annotation: 2
+
+Example 3:
+Text: thinking we should make some @KirillWasHere Koozies for you all college fuck heads!!
+Annotation: 0
+
+Example 4:
+Text: These hoes got more bodies than a cemetery&#128056;&#9749;&#65039;.
+Annotation: 2
+
+Example 5:
+Text: All i have to say is none of this crap that is happening in the world is going to change unless people on a large scale actually stand up and say no we have had enough and drag the scum in the streets and deal with them in a most violent way .
+Annotation: 0
+
+Example 6:
+Text: Why do you listen to 'Chinese music?' You don't even understand and they all look the same anyways.
+Annotation: 2
+
+Example 7:
+Text: I have a lot of jokes about black people Sadly none of them work
+Annotation: 2
+
+Example 8:
+Text: Kevin: Ok Nina starting s7 we're going to try bring Stelena back. Nina: Nah man, I'm leaving after s6 bc you're full of shit Nina saved us
+Annotation: 0
+
+Example 9:
+Text: Passion love? Not dreaming anymore, You cant give me my dreams they are mine anyway. I'd been lost I'd been found but I dont feel down.
+Annotation: 0
+
+Example 10:
+Text: @chrisrmz95 dude was a bitch nigga and took off running
+Annotation: 2
+Predict the integer label of the following example:
+Text: I say this with respect: boomer nationalism died today.
+Annotation:
+Your output should be a single integer and nothing else.

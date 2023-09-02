@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: Restaurants should expect their customers to become unruly if they aren't well served.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is important to eat protein.
+Annotation from annotator: 3
+
+Example 3:
+Text: Creepy behavior is unacceptable.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's fine to be curious about whether you can get attention.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's rude to call other people dumb.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's mean to cause your spouse emotional pain.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't cheat on people.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's understandable that people do things that are silly sometimes.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's fine to move on from your ex.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's understandable to feel uncertainty when you think about what you are.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should be proud of yourself when you accomplish something important.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's expected that you won't exchange goods and money for sexual photos when you're married.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't expect your kids to help you out all the time.
+Annotation from annotator: 2
+
+Example 14:
+Text: It's good to end a relationship if the other person is abusive.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is okay to enjoy a compliment.
+Annotation from annotator: 3
+
+Example 16:
+Text: You should be attentive to your stepchildren's needs when you have a new baby.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's expected that you will want someone very creditworthy to sign for a loan before you approve it
+Annotation from annotator: 3
+
+Example 18:
+Text: People shouldn't want others to debase them, as it mars their souls.
+Annotation from annotator: 3
+
+Example 19:
+Text: You shouldn't lend expensive things to coworkers.
+Annotation from annotator: 2
+
+Example 20:
+Text: Popular items frequently sell out, so it's best to pre-order them.
+Annotation from annotator: 3
+
+Example 21:
+Text: People might think you're aloof if you appear lonely.
+Annotation from annotator: 3
+
+Example 22:
+Text: If you can't afford healthcare, you should get some government assistance.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's understandable to want your child to have a father figure.
+Annotation from annotator: 3
+
+Example 24:
+Text: It is nice to help friends out if you can.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's understandable to be upset when somebody is not listening to you.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's understandable that someone times we do or say things without thinking.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is helpful to do chores around the house.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's important not to disrupt a wedding
+Annotation from annotator: 3
+
+Example 29:
+Text: You should be compassionate to others.
+Annotation from annotator: 3
+
+Example 30:
+Text: You should always expect criticism from people for your eating habits.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's understandable to be angry when someone disrespects you.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

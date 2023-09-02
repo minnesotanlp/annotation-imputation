@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7QBW3SBrjNDGwshp8F0MaDQRVYarK",
+    "object": "chat.completion",
+    "created": 1686475151,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 451,
+        "completion_tokens": 72,
+        "total_tokens": 523
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "50.00% of responsive annotators labeled the text with 0\n50.00% of responsive annotators labeled the text with 2\n\nPrediction: The soft label for the target text is likely to be 1 (maybe offensive) as there is an equal split between annotators who labeled it as not offensive and those who labeled it as offensive."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

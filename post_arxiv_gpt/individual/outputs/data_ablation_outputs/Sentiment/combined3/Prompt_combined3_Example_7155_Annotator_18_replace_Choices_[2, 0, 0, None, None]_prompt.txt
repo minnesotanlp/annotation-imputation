@@ -1,0 +1,161 @@
+Estimated Examples:
+Example 1:
+Text: Did a baby massage instruction session with a Mummy & 4week old baby at work today. Makes me realise how big my baby is now
+Annotation from annotator: 3
+
+Example 2:
+Text: Going to treat myself to an early night - Radio 4 and a good book. (Yes I do sound old, no I dont care!  ) xx
+Annotation from annotator: 3
+
+Example 3:
+Text: I feel old laying in the bed rite now... I know I have 2 shows tmrw but I reallly wanna go see @makeupmanmae and them!!! Shit.
+Annotation from annotator: 1
+
+Example 4:
+Text: I know I'm old.  All the songs from the 80's are being used in commercials..
+Annotation from annotator: 2
+
+Example 5:
+Text: It use to be that younger was wiser and better plus respected.
+Annotation from annotator: 1
+
+Example 6:
+Text: It's hard not working with your best friend and seeing old emails and things like that. We worked side be side for almost 5 years.
+Annotation from annotator: 1
+
+Example 7:
+Text: Movies tonight with all the besties  ur nvr to old to watch night at the museum
+Annotation from annotator: 3
+
+Example 8:
+Text: My 11 mo. old, Charlie, has mastered the art of walking. He can almost make it across an entire room. His baby days are coming to an end
+Annotation from annotator: 3
+
+Example 9:
+Text: My poor new school things.  Ruined and messed up. When they're just a few days old. Sad.
+Annotation from annotator: 1
+
+Example 10:
+Text: Playing a flash game for my 8 year old brother
+Annotation from annotator: 2
+
+Example 11:
+Text: Prayers 4 Ken Leatherman whose 4 yr old granddaughter was killed last nite by a TV set falling on her
+Annotation from annotator: 0
+
+Example 12:
+Text: So im sitting here &sriously 75yr old man comes up to me and says,"you're twittering" so impressed by him
+Annotation from annotator: 3
+
+Example 13:
+Text: i missmy old bestfreind/prince robbie
+Annotation from annotator: 3
+
+Example 14:
+Text: i no this is old but i just felt like watching it again.....two of my fave people!!    http://bit.ly/qVO79
+Annotation from annotator: 3
+
+Example 15:
+Text: just said goodbye to 4.5 year old piercings. it was their time to go
+Annotation from annotator: 3
+
+Example 16:
+Text: mourning the loss of my old mac book.  Things haven't been the same since my old hard drive dies & got replaced
+Annotation from annotator: 1
+
+Example 17:
+Text: seems I've abandoned the #dmb hulu gig in favor of some old school #afi, how's that!!  http://www.last.fm/user/scottlenger
+Annotation from annotator: 2
+
+Example 18:
+Text: so waped back to my old kin...they are more friendly and social. At 41,5 atm will i ever see the mines  via http://twib.es/DWP
+Annotation from annotator: 2
+
+Example 19:
+Text: wishes guys would stop playing her like an old strung out violin. also, going back to ithaca regrettably. back to that
+Annotation from annotator: 1
+
+Example 20:
+Text: working on the weekends is starting to get really old
+Annotation from annotator: 0
+
+Human-Rated Examples:
+Example 1:
+Text: @Brian_Hess if I am as old as I behave then I am not over 8 yrs old lol )  I like your thinking! young at heart no matter what....{
+Annotation from annotator: 4
+
+Example 2:
+Text: @KeithUrban hey! Just goin' thru my old pics..and found this when I  met keith in Minnesota in 2000! Much love!!  http://twitpic.com/6v0nq
+Annotation from annotator: 4
+
+Example 3:
+Text: @MEMErryl Haha, now you like Cory! ) To you, is he an older brother? or something else?
+Annotation from annotator: 2
+
+Example 4:
+Text: @MisKoChai am I doing this right!?!? I luuvvv u ms 22 year old
+Annotation from annotator: 4
+
+Example 5:
+Text: @OllieStow I almost wrote a letter of complaint to the council this week! We must be getting old!
+Annotation from annotator: 1
+
+Example 6:
+Text: @ThisisDavina I'm good, but I guess about 50,000 people just told you that. I am a mum of 3. Got an 11yr old, 2yr and a 4 month old
+Annotation from annotator: 4
+
+Example 7:
+Text: @adam9344 yuup it's the old white one with the first isight in it
+Annotation from annotator: 2
+
+Example 8:
+Text: @altenhofen just a quarter inch wider...that makes old accessaries useless  have fun w ur MCAT studying
+Annotation from annotator: 3
+
+Example 9:
+Text: @chellyizastaar hecks yeah i deff plan too  hehe how old r u?
+Annotation from annotator: 2
+
+Example 10:
+Text: @djrise indeed. Same old country, different island  27C,  nature springgreen and lavender smell. Let's meet soon when I return! Andios!
+Annotation from annotator: 3
+
+Example 11:
+Text: @enricoeric Great! It's easy to make and tasty, too. I was just thinking, "gosh, I cook like an old Okinawan lady." Doh!
+Annotation from annotator: 3
+
+Example 12:
+Text: @etlalicorne I wishhhhhh  god I hate being old!!!
+Annotation from annotator: 0
+
+Example 13:
+Text: @franboogie Hahahahaha! He's watching! And he only has 40 followers  Damn that n*gga look old, lol
+Annotation from annotator: 1
+
+Example 14:
+Text: @greenlife182 Damn it, I went out and spotted no rainhats whatsoever. Plenty of oldies, but no rainhats
+Annotation from annotator: 2
+
+Example 15:
+Text: @jesse_la totally! when shes older, and hes still that age. Real cute
+Annotation from annotator: 2
+
+Example 16:
+Text: @nabejero I love this climate.  I do not miss the snow or fall weather.  I love the heat, it keeps my skin nice and young
+Annotation from annotator: 4
+
+Example 17:
+Text: @pennjillette They're only young once,then they,,,grow up
+Annotation from annotator: 4
+
+Example 18:
+Text: @stubbadub fax ... sheeet why not by pager, telex or telegraph. anything to avoid the old face-to-face my friend
+Annotation from annotator: 2
+
+Example 19:
+Text: Damn it, I knew I should have said a different province. I'm stuck with a group singing some old song! I'm out, busy with projects.
+Annotation from annotator: 1
+
+Target Example:
+Text: Have the mobility of a 90 year old after hardcore exercise session yesterday.  Muscles are killing me
+Annotation from annotator:

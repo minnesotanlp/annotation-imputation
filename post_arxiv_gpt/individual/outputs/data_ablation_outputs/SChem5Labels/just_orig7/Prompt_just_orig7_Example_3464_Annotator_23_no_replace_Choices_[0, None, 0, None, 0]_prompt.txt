@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: You should stand up for your family members if they are being treated poorly.
+Annotation from annotator: 3
+
+Example 2:
+Text: You should always forgive people no matter what.
+Annotation from annotator: 2
+
+Example 3:
+Text: It is good to marry one that you love.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's expected that parents sacrifice things for the benefit of their children
+Annotation from annotator: 4
+
+Example 5:
+Text: If you really hate a sports team you are expected to want them to lose .
+Annotation from annotator: 3
+
+Example 6:
+Text: People ought strive to expand the number of friends they have, rather than curtailing them.
+Annotation from annotator: 2
+
+Example 7:
+Text: People are expected to be grateful when someone does something for them.
+Annotation from annotator: 3
+
+Example 8:
+Text: People are expected to want to stay in a relationship.
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't expect a good grade if you didn't follow directions for your assignment.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's great to give things to people that will mean something to them
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to find happiness in marriage, even if it takes multiple times.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's normal to worry about your partner when something is wrong with them.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's good to help someone from far away learn local social customs.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's okay to expect people no matter who they are to obey the law.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's rude to exclude your child from a family picture.
+Annotation from annotator: 4
+
+Example 16:
+Text: It is good to try to seek the culprit of the problem.
+Annotation from annotator: 3
+
+Example 17:
+Text: You are allowed to sexually gratify yourself.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's understandable to have fantasies about people.
+Annotation from annotator: 3
+
+Example 19:
+Text: You should ask a friend for advice about whether your attire is appropriate for an event or not.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's important to express your emotions respectfully
+Annotation from annotator: 3
+
+Example 21:
+Text: It's good to get help when you need it.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to be honest about your mistakes.
+Annotation from annotator: 3
+
+Example 23:
+Text: If you suspect someone is sick, you should talk to them.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's okay to start your life over again if you have to.
+Annotation from annotator: 3
+
+Example 25:
+Text: You shouldn't hit rock bottom.
+Annotation from annotator: 4
+
+Example 26:
+Text: It's nice to show off your personality.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't believe in the 'Elevator Game."
+Annotation from annotator: 3
+
+Example 28:
+Text: It's okay to not be attracted to people.
+Annotation from annotator: 1
+
+Example 29:
+Text: You should always help people out who are sick or wounded.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's expected that people be treated as though innocent until proven guilty in court.
+Annotation from annotator: 4
+
+Target Example:
+Text: It's rude not to return a greeting from someone.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

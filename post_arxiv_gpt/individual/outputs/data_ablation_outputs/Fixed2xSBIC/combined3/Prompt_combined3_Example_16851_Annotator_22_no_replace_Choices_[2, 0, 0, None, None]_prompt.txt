@@ -1,0 +1,261 @@
+Estimated Examples:
+Example 1:
+Text: The fact that Trump is hated by the liberals, RINOs, Muslims, anti-americans, porn peddlers, the moral deviants in Hollywood and Washington, hip hop thugs, and other empty-headed wackjobs, makes me all the more certain that he's the right man for the job.
+Annotation from annotator: 2
+
+Example 2:
+Text: Why asshat @BWilliams still even has a job is beyond me. The definition of fake news and dumbassery!
+Annotation from annotator: 0
+
+Example 3:
+Text: Does he love me? I love my uncle
+But he doesn't stop..
+Annotation from annotator: 2
+
+Example 4:
+Text: Question
+So how come men are "broflakes" when we complain about females invading male only spaces, but its ok for females to shut us out of female only spaces.
+Annotation from annotator: 1
+
+Example 5:
+Text: Bush: 'it's hard to unify the country when the news media is so split up. Remember when the news media mattered a lot more'
+Annotation from annotator: 0
+
+Example 6:
+Text: What do you call a black priest Holy shit.
+Annotation from annotator: 2
+
+Example 7:
+Text: So since the NFL is engaging in partisan politics.... isn't it time to yank their tax exempt status.
+Annotation from annotator: 1
+
+Example 8:
+Text: "Searching" the incredible story of 1 white man's quest to find the ingredients necessary to make Caribbean Jerked Chicken in redneck land
+Annotation from annotator: 1
+
+Example 9:
+Text: How come you act so gay but you're like the straightest guy ever?
+Annotation from annotator: 2
+
+Example 10:
+Text: What do you call a retarded kid with a stomach ache? Leafy Greens
+Annotation from annotator: 2
+
+Example 11:
+Text: Go to my SF thread here for a link to a PDF copy of the book at ...
+Annotation from annotator: 0
+
+Example 12:
+Text: Food and water will obviously be very important , and the means to defend it What a defense force ... they are all haunted ... say hi to Casper in Upington , what a good soul
+Annotation from annotator: 1
+
+Example 13:
+Text: Why do you never see black Asians? Because they need open eyes to watch out for the cops.
+Annotation from annotator: 2
+
+Example 14:
+Text: I am going to name my son retarded so when anyone asks me " Are you fucking retarded?" I will say , yes.
+Annotation from annotator: 2
+
+Example 15:
+Text: Catholics do NOT believe;
+That people should stop funding a corrupt organization that hoards billions of dollars in wealth while taking rapists when they are detected & sending them to prey on unsuspecting boys in new locations.
+Annotation from annotator: 2
+
+Example 16:
+Text: My obsession with my appearance magnifies and multiplies with each passing hour.
+Annotation from annotator: 0
+
+Example 17:
+Text: > The only good argument is personal bodily autonomy. If that's how you feel...what do you want me to say since that's the only good argument? =/
+Annotation from annotator: 0
+
+Example 18:
+Text: A horse came into a bar... No wait.. it was a man!
+
+A horse came into a man..
+Annotation from annotator: 2
+
+Example 19:
+Text: RT @black_taco_: Wtf is boy pussy ? Lmao you atl nigga sick
+Annotation from annotator: 2
+
+Example 20:
+Text: Trump is a syphilis brain addled idiot Jackson dueled for his wife's honor Trump has no respect for his wife or any woman but his daughter
+Annotation from annotator: 1
+
+Example 21:
+Text: Jayda Fransen arrested in London, taken to Northern Ireland over speech given in August. 
+Annotation from annotator: 0
+
+Example 22:
+Text: Most of them dont even work , but I have no doubt that some of them will be pushed into high positions in society .
+Annotation from annotator: 1
+
+Example 23:
+Text: RT @YoShortyMa: I'll kill this bitch no hesitation http://t.co/UxePa9LVi5
+Annotation from annotator: 2
+
+Example 24:
+Text: A Jew runs into a wall with a boner. What breaks first? His nose.
+Annotation from annotator: 2
+
+Example 25:
+Text: What's more useless than a dead guy working as a postman? The nsfw tag on every single joke
+Annotation from annotator: 1
+
+Example 26:
+Text: McNabb, Romo, Garcia, Vick, it doesn't matter, Wentz. But Carson can move up with time. https://t.co/90Kl8vFy8c
+Annotation from annotator: 0
+
+Example 27:
+Text: cadilac bish get your nasty ass off my screen and take annie with u
+Annotation from annotator: 2
+
+Example 28:
+Text: Yesterday incels gained 721 subscribers thanks to the Atomic Blackpill
+Annotation from annotator: 0
+
+Example 29:
+Text: Lor Scoota would have killed that Kodak black - tunnel vision, on god I know he would have bodied it, I can hear his voice in my head&#128553;&#129318;&#127997;‍♀️
+Annotation from annotator: 1
+
+Example 30:
+Text: sure I will take note but I will continue to point out how you refuse to disclose any info that may give away your position on topics relating to WN .
+Annotation from annotator: 0
+
+Human-Rated Examples:
+Example 1:
+Text: Just be yourself
+Eww damn creepy guy, stay away from me and never talk to anyone, weirdo
+Annotation from annotator: 2
+
+Example 2:
+Text: In fact, I HOPE it's someone I know, and they see these, because you're a goddamn idiot and I'm just never gonna talk to you again. Fuck you
+Annotation from annotator: 2
+
+Example 3:
+Text: Why did the retarded girl get high? Because she wanted to cure her Down's syndrome.
+Annotation from annotator: 2
+
+Example 4:
+Text: New way to remember North, South, Easy and West
+N'ever 
+S'ex
+W'omen
+E'ver 
+
+Because stacey will run off with chad and make you pay child support
+Annotation from annotator: 2
+
+Example 5:
+Text: Listening to @twoscooters talk about how harassment is important. And how we are going to help you through it.
+Annotation from annotator: 0
+
+Example 6:
+Text: Using Tinder For Practice
+I've found using the back and forth messaging on tinder is a good way to practice talking to women without having to be face to face.
+Annotation from annotator: 0
+
+Example 7:
+Text: A very insightful post from r/redpill - What MRA's could (and Should) learn from Gamergate (link inside)
+Annotation from annotator: 0
+
+Example 8:
+Text: I don't know where I stand on abortion. I enjoy killing babies, but I hate giving women a choice.
+Annotation from annotator: 2
+
+Example 9:
+Text: Thegambler is a incel xdddddd not a Chad xdddd Do not ban him mods xdddd
+Annotation from annotator: 2
+
+Example 10:
+Text: HELLO IF YOU ARE A Racist white that wants to talk to a 13 year old male ( preferiblly female but i really dont care ) PLEASE E-mail me at [ email protected ] , ............... i need new friends !!
+Annotation from annotator: 2
+
+Example 11:
+Text: Roses are red, violets are blue... 
+ 
+We're having sex tonight, cause I'm stronger than you.
+Annotation from annotator: 2
+
+Example 12:
+Text: Before we met when I first saw your name I thought you were going to be one of those quiet Asians-you know? And my mom was like 'well maybe she'll just spend all her time in the library so you'll have the room to yourself! I'm so glad you're not like that!
+Annotation from annotator: 2
+
+Example 13:
+Text: You cant expect those poor underprivilidged blacks to have to put up with this cold weather .
+Annotation from annotator: 2
+
+Example 14:
+Text: How often go 8+ males get approached
+Say at a party
+Annotation from annotator: 0
+
+Example 15:
+Text: I think that it is fair to say that the National Alliance is a secular organization that has taken a specific stance against multicultural Christianity for political reasons and has also had prominent members who have promoted non-Christian religions or spiritual paths .
+Annotation from annotator: 2
+
+Example 16:
+Text: People come and people go but I don’t ever want to say goodbye to you I only ever want to say goodnight
+Annotation from annotator: 0
+
+Example 17:
+Text: will never see a dog being high as funny. your dog looks like he's in pain. it does not look fun. please stop trying to get your pets high.
+Annotation from annotator: 0
+
+Example 18:
+Text: CAN YOU HEAR ME?
+Annotation from annotator: 0
+
+Example 19:
+Text: I dont drive a Ford but I got a s-10 with a 6 inch lift on it 34 inch mickie thompson swampers rollbar and the kc lights on the rollbar .
+Annotation from annotator: 0
+
+Example 20:
+Text: (Wave) SWELL: 2.3 ft at 11.4 s ESE / WIND WAVE: 1.0 ft at 5.0 s SE / WVHT: 2.3 ft / APD: 5.6 s / MWD: 107° / 2:00a EDT
+Annotation from annotator: 0
+
+Example 21:
+Text: Polls shkw that if the election were held todar...an overwhelming majority of Americans would b very sarprised
+Annotation from annotator: 0
+
+Example 22:
+Text: "daisy just sent me a video of her in a tree that we used to climb at the park in elementary that says ""i love delilah"" carved into it wtf &#128517;&#128579;"
+Annotation from annotator: 0
+
+Example 23:
+Text: Whoever controls the Sirens is Fucking with everybody!! #Sirens #WW3 #Dallas
+Annotation from annotator: 0
+
+Example 24:
+Text: Quantum entanglement would indicate that quanta do `` communicate '' faster than the speed of light .
+Annotation from annotator: 0
+
+Example 25:
+Text: Toast is like parents If it's black, you'll have nothing to eat.
+Annotation from annotator: 2
+
+Example 26:
+Text: Actually, They will be raised by there mother along with their father , the US government .
+Annotation from annotator: 0
+
+Example 27:
+Text: We have seen people nearly destroyed because they wore the "wrong" T-shirt or made a statement that someone else claimed was offensive.
+Annotation from annotator: 0
+
+Example 28:
+Text: Everyone in 13 reasons is fucking dumb why did i watch this when i knew i hated the book&#128514;
+Annotation from annotator: 0
+
+Example 29:
+Text: I will be attending the ass hair hall of fame dinner this August as I do every year
+Annotation from annotator: 2
+
+Example 30:
+Text: My ninjas if ya haven't seen Interstellar with Matthew McConaughey, fucking watch it don't even be smacked cause you'll be lost probably.
+Annotation from annotator: 0
+
+Target Example:
+Text: A thought for the day: “Those who hate rain hate life.” — Dejan Stojanovic
+Annotation from annotator:

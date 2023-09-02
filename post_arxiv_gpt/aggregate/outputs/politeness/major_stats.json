@@ -1,0 +1,548 @@
+{
+    "no_headers_swap_data_swap_no_replace_none_replaced": {
+        "[0, 0, None, 0, 0]": {
+            "accuracy": 0.25,
+            "weighted avg f1-score": 0.23684210526315788,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 0]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2863636363636364,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 0]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 0]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.31500000000000006,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 0]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.288,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 0]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.30000000000000004,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 0]": {
+            "accuracy": 0.05,
+            "weighted avg f1-score": 0.075,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 0]": {
+            "accuracy": 0.2,
+            "weighted avg f1-score": 0.21176470588235294,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 0]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 0]": {
+            "accuracy": 0.2,
+            "weighted avg f1-score": 0.2,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 0]": {
+            "accuracy": 0.25,
+            "weighted avg f1-score": 0.23684210526315788,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 0]": {
+            "accuracy": 0.15,
+            "weighted avg f1-score": 0.15882352941176472,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 0, 1]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3115384615384616,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 1]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 1]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 1]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2739130434782609,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 1]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 1]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 1]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2625,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 1]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2863636363636364,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 1]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.288,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 1]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2739130434782609,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 1]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 1]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.288,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 0, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 2]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.288,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 2]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 2]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.288,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 2]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2625,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.288,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 2]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.2454545454545455,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.288,
+            "valid answer rate": 1.0
+        }
+    },
+    "no_headers_swap_no_data_swap_replaced_2nd_replaced": {
+        "[0, 0, None, 0, 0]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2875,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 0]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.23478260869565215,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 0]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2704545454545455,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 0]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.25200000000000006,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 0]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.25200000000000006,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 0]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.25200000000000006,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 0]": {
+            "accuracy": 0.25,
+            "weighted avg f1-score": 0.19642857142857145,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 0]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.29891304347826086,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 0]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.3654761904761905,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 0]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2704545454545455,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 0]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.28214285714285714,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 0]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2704545454545455,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 0, 1]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 1]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 1]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.25200000000000006,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 1]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 1]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 1]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 1]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 1]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 1]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.225,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 1]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.225,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 1]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.25200000000000006,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 1]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.225,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 0, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 2]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 2]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 2]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 2]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 2]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 2]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 2]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.25200000000000006,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 2]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.25200000000000006,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 2]": {
+            "accuracy": 0.45,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.2769230769230769,
+            "valid answer rate": 1.0
+        }
+    },
+    "no_headers_swap_no_data_swap_no_replace_none_replaced": {
+        "[0, 0, None, 0, 0]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2739130434782609,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 0]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.28421052631578947,
+            "valid answer rate": 0.95
+        },
+        "[0, 1, None, 0, 0]": {
+            "accuracy": 0.2,
+            "weighted avg f1-score": 0.225,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 0]": {
+            "accuracy": 0.2,
+            "weighted avg f1-score": 0.2,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 0]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.2571428571428572,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 0]": {
+            "accuracy": 0.2,
+            "weighted avg f1-score": 0.2,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 0]": {
+            "accuracy": 0.25,
+            "weighted avg f1-score": 0.25,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 0]": {
+            "accuracy": 0.25,
+            "weighted avg f1-score": 0.23684210526315788,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 0]": {
+            "accuracy": 0.2,
+            "weighted avg f1-score": 0.21176470588235294,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 0]": {
+            "accuracy": 0.2,
+            "weighted avg f1-score": 0.2,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 0]": {
+            "accuracy": 0.25,
+            "weighted avg f1-score": 0.25,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 0]": {
+            "accuracy": 0.2,
+            "weighted avg f1-score": 0.17142857142857143,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 0, 1]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2625,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 1]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2863636363636364,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 1]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.28421052631578947,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 1]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 1]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2739130434782609,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 1]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.23478260869565215,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 1]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.30000000000000004,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 1]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.30000000000000004,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 1]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.26999999999999996,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 1]": {
+            "accuracy": 0.25,
+            "weighted avg f1-score": 0.23684210526315788,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 1]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2739130434782609,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 1]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.23478260869565215,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 0, 2]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2625,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.30000000000000004,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 2]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 2]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.30000000000000004,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.288,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.288,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.30000000000000004,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 2]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.2863636363636364,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 2]": {
+            "accuracy": 0.35,
+            "weighted avg f1-score": 0.3,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.30000000000000004,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 2]": {
+            "accuracy": 0.4,
+            "weighted avg f1-score": 0.288,
+            "valid answer rate": 1.0
+        }
+    }
+}

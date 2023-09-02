@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.\n\nNow you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:\nTarget Example:\nText: Hello. Who are you, and when are we to have met or communicated in the past?\nAnnotation from annotator:\nYour output should be a single integer and nothing else."
+    }
+]

@@ -1,0 +1,63 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: I have n't seen music for this floating around but if you have the sheet music for piano I 'd be happy to get to work on a transcription for you if you can send me a pdf or something .
+Annotation from annotator: 0
+
+Example 2:
+Text: Does anyone have a digital camera that could post some pictures of typical public places in any part of scandinavia so that I and others may see the racial makeup of present day scandinavia ???
+Annotation from annotator: 0
+
+Example 3:
+Text: Is it where they grade you based on how cultural marxist you are or do they allow people their own views ?
+Annotation from annotator: 1
+
+Example 4:
+Text: &#8220;@IIXIXIII: Honesty is all I ask for&#8221; you ugly then a hoe then
+Annotation from annotator: 2
+
+How annotator B has labeled some examples:
+Example 1:
+Text: r/ForeverAlone is beyond saving (I also got permabanned for this post)
+Annotation from annotator: 0
+
+Example 2:
+Text: But you're so cute! Why do you want to be a boy?
+Annotation from annotator: 1
+
+Example 3:
+Text: having a whore mother sucks
+ruined the whole family dynamic
+Annotation from annotator: 2
+
+Example 4:
+Text: White House sometimes seems unconcerned/in denial about political dynamics and then stung and seemingly surprised by them.
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: What’s the difference between moms and 9/11 victims? (Sorry if this is a repost) The tone they say “here comes the airplane”.
+Annotation from annotator: 2
+
+Example 2:
+Text: How are a hospital and a refrigerator similar? If you pull the plug, the vegetables start to decompose 
+
+
+
+
+EDIT: If you guys want some funny clothes with stuff you probably all can relate to, check out www.nihilistapparel.com
+Annotation from annotator: 2
+
+Example 3:
+Text: Well they have got to be more aware then the idiots we have over here absorbing all the bs with there little sponge brains .
+Annotation from annotator: 2
+
+Example 4:
+Text: Whats the difference between a prison and a zoo? Zoos have lots of animals, prisons just have monkeys.
+Annotation from annotator: 2
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: water fight the kid next door just challenged me to a water fight , so i thought i 'd post this while i wait for the water to boil .
+Annotation from annotator:

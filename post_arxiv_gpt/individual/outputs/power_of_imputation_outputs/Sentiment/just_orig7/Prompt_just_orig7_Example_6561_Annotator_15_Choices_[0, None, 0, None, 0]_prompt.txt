@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: (via @amy__xx) @tommcfly I sound a cross between an 80 year old who's smoked 40 fags all her life and mr squeeky from toy story 2  htt ...
+Annotation from annotator: 1
+
+Example 2:
+Text: @joshthomas87 believe it or not im too young to be a generation  i think im a gen Z or something..strange..
+Annotation from annotator: 2
+
+Example 3:
+Text: Just bought Wolfenstein 3D on my PS3 ($5). Yes, the old school original. Played a bit & got really nostalgic...then motion sick.
+Annotation from annotator: 3
+
+Example 4:
+Text: I miss my old friends SOO much  i LOVE my current frends to death but idk i juss miss them
+Annotation from annotator: 2
+
+Example 5:
+Text: Why do I have these two ~5 year old Staind songs stuck in my head? They're so freaking good, but I wish 'Epiphany' wasn't so depressing.
+Annotation from annotator: 4
+
+Example 6:
+Text: @babblingbrookie HAPPY BRITHDAY!!!  i dont mean to be rude but how old are you today??
+Annotation from annotator: 2
+
+Example 7:
+Text: random, i was kickin it with my dad the other day, and he was tellin about how Detroit was when he was young...kinda dope
+Annotation from annotator: 3
+
+Example 8:
+Text: @gulpanag woooohoooo...u finally replied! Yayy!mwah...lol ;-) thankuu btw i'm @normaltusker's younger bro
+Annotation from annotator: 4
+
+Example 9:
+Text: My love life is old, far away and collecting dust...
+Annotation from annotator: 1
+
+Example 10:
+Text: A German Shephard Dog   4 months old ...Wanna adopt  "The world not in my shoes"
+Annotation from annotator: 3
+
+Example 11:
+Text: Trying to hook up my old Super Nintendo, but it's not working! Sad.
+Annotation from annotator: 2
+
+Example 12:
+Text: @potatofamine http://twitpic.com/6ar5l - WOW! The close up Astor shot is scary!! You are old.
+Annotation from annotator: 1
+
+Example 13:
+Text: @Yadarfyn Yeah, can't really get inspired by anything, and any old ideas you try to rework just automatically fail
+Annotation from annotator: 1
+
+Example 14:
+Text: My 16 year old cat has gone to the great litter tray in the sky
+Annotation from annotator: 0
+
+Example 15:
+Text: @bookwhore than my body. So, I see boys who hit on me- just boys and nothing else. At work older women don't like being around me
+Annotation from annotator: 1
+
+Example 16:
+Text: Gary a dick no wayyyyyy  ge'ez u sound like me in my younger days LOL
+Annotation from annotator: 1
+
+Example 17:
+Text: @DjFilipino :-/ I ended up eating a taco and falling asleep like a old lady  ashamed
+Annotation from annotator: 1
+
+Example 18:
+Text: @WillKelley your niece just turned 15? Damn Im getting old as shit   Yes play that song on repeat!! no babies pls. lol
+Annotation from annotator: 1
+
+Example 19:
+Text: @Relucs no not harder just different....  and my boys are really young men now where as yours are still boys
+Annotation from annotator: 3
+
+Example 20:
+Text: @perezrevenge what a perfect description - LOL  But who of us isnt scared of our younger photos? I know I am!;)
+Annotation from annotator: 1
+
+Example 21:
+Text: @Alyssa_Milano  cannot believe we are the same age and you look so much younger than me!! **jealous**
+Annotation from annotator: 1
+
+Example 22:
+Text: @Ladyalana you might not believe it from my picture but i'm only three years old
+Annotation from annotator: 2
+
+Example 23:
+Text: #myweakness old magazines full of really cheesy retro ads, and chocolate mints. Not necessarily in that order!
+Annotation from annotator: 3
+
+Example 24:
+Text: I agree that the ads for old people are ageist and only deal ailments.  I often have thought don't older adults buy clothes, electronics, food?
+Annotation from annotator: 1
+
+Example 25:
+Text: @lindsaylou13 Good morning!  Usual comic work for me when I'm not helping my 2 year old build a tent in the living room. XD
+Annotation from annotator: 3
+
+Example 26:
+Text: Damn. Left my headphones in bellingham. Gotta use my old busted ones
+Annotation from annotator: 1
+
+Example 27:
+Text: @MrDarcy_UK It does...tho poor Mills doesn't remember, he was a wee kit of only about 6 weeks old when he was "tutored" via the shelter.
+Annotation from annotator: 2
+
+Example 28:
+Text: Listening to some oldies but goodies  Creed. Vertical Horizon. Aerosmith...
+Annotation from annotator: 3
+
+Example 29:
+Text: @brainstuck You can expect a lot of 'Cutes' and 'Awwws' once you twitpic them  Here's one from me.. one month old pup? awwww.. so cute
+Annotation from annotator: 4
+
+Example 30:
+Text: @rosemaryCNN so touching when reading about neda's story... too bad she's gone too young
+Annotation from annotator: 0
+
+Target Example:
+Text: Drawing my comic 10 hours after deadline. Just like the good old days
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

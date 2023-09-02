@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I noticed you added the Jean Chretien link to the homepage, which is nice, but you didn't put any comment for the changelog and you also didn't bump of the last article, you bumped off the 2nd last article.  Why?
+Annotation from annotator: 10
+
+Example 2:
+Text: That's reason to expand the treatment to other painters, not to blank this one.  And you didn't think that there would be more articles on van Gogh paintings?
+Annotation from annotator: 7
+
+Example 3:
+Text: I've heard about the controversy. What's your take on it?
+Annotation from annotator: 13
+
+Example 4:
+Text: Hi, you recently speedily deleted this image and in your explanation stated that I, the uploader, was informed of this. I was not - please could you tell me why not?
+Annotation from annotator: 18
+
+Example 5:
+Text: Could you please explain <url> to me? I don't see how deleting a person's userpage is correct?
+Annotation from annotator: 12
+
+Example 6:
+Text: And  what did I do wrong???????????????????????
+Annotation from annotator: 7
+
+Example 7:
+Text: Heh, thanks. Do you know of any scripts that might come in handy?
+Annotation from annotator: 18
+
+Example 8:
+Text: Hmm...I was not aware that a year had to pass for ''anyone'' to request an appeal for Everyking. Prior to today, when did they ever say this?
+Annotation from annotator: 11
+
+Example 9:
+Text: I was just looking again at the April Fool's pranks from this year and came upon <url> to a page you deleted per "housecleaning".  Can we undelete and move it somewhere (the latter only if necessary), tagging with <url> in the process?
+Annotation from annotator: 16
+
+Example 10:
+Text: Sorry, I dont quite remember what we were talking about.  Can you tell me what you were/are confused about?
+Annotation from annotator: 18
+
+Example 11:
+Text: He keeps coming back, and keeps getting blocked again.... When will they learn?
+Annotation from annotator: 9
+
+Example 12:
+Text: No, I didn't know that. Where does this "rule" come from?
+Annotation from annotator: 10
+
+Example 13:
+Text: that hotcat lockup, was like an edit conflict, so i tried a backup and re-enter.  thanks for the assistance, i'm using the old layout, so would the new view affect my hotcat category edits?
+Annotation from annotator: 16
+
+Example 14:
+Text: After ''New Jersey'' leaves the mainpage it will be nessicary for us to check all the article linked to USS ''New Jersey'' and ensure that no subtle vandalism crept into them by means of the USS ''New Jersey'' article. Are you willing to help?
+Annotation from annotator: 15
+
+Example 15:
+Text: This is one of those rare situations where I really have no idea what to say. Thanks?
+Annotation from annotator: 13
+
+Example 16:
+Text: I am planning on changing the <url> to the ICF Flatwater World Championships. Any objections?
+Annotation from annotator: 17
+
+Example 17:
+Text: It turns out that the Zelda Collection you referred to in <url> didn't include aLttP, reportedly because the GBA remake was still being sold at that time, so that disc included NES and N64 emulation but left out SNES. Do you have another example?
+Annotation from annotator: 13
+
+Example 18:
+Text: It does not appear to have attracted any participants other than Gerda. Perhaps adding a <person> template would draw in more participants?
+Annotation from annotator: 17
+
+Example 19:
+Text: The <url> has a request (header "<url>") left a few hours ago by someone who has pictures of signs in China but can't read them.  Would you please be willing to help?
+Annotation from annotator: 16
+
+Example 20:
+Text: The Olbermann thing is being discussed on the <url> talk page.  Do you have anything to add?
+Annotation from annotator: 14
+
+Example 21:
+Text: Where did you get the tracklist for the album? Can you please drop me a messafe with the link?
+Annotation from annotator: 18
+
+Example 22:
+Text: Unfortunately, I'm still worried this may not be enough to avoid arguments.  <url> says "A separate rationale must be provided each time the image is used in an article."  Should we just copy the tag for every article using the logo?
+Annotation from annotator: 14
+
+Example 23:
+Text: Hi, I want to query you on moving the RfC on Cebactokpatop. Since the page was created by <url>, who wants an RfC on Cebactokpatop, and I signified my agreement and added to the page, it seems clear that the two-person threshhold has been met?
+Annotation from annotator: 13
+
+Example 24:
+Text: Many people have mentioned this mythical facillity - I've never found it, and assumed it was only available to sysops, which I am not. Is this the case?
+Annotation from annotator: 11
+
+Example 25:
+Text: Sure, but what's the deal with fair use and cropping?  I thought the Zatanna one got removed?
+Annotation from annotator: 12
+
+Example 26:
+Text: Thanks for your reply. I've tried to incorporate the references into the article; how is it now?
+Annotation from annotator: 18
+
+Example 27:
+Text: Question: how do we move the content from the existing page to the new page?  How do we reference the space to the new page?
+Annotation from annotator: 12
+
+Example 28:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 15
+
+Example 29:
+Text: The review has been up there for something like six weeks, I notice. Think you'll be able to take care of those last couple of things?
+Annotation from annotator: 9
+
+Example 30:
+Text: I am contemplating a larger article on this very interesting topic. Thoughts?
+Annotation from annotator: 19
+
+Target Example:
+Text: And wasting our time as well. I can only repeat: why don't you do constructive work by adding contents about your beloved Makedonia?
+Annotation from annotator:

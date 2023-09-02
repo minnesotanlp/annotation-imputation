@@ -1,0 +1,34 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 2 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: @peacebewithus11 @PolitikMasFina See how that worked against the green party's supposed ideals. Now we have a govt… https://t.co/SHh8qgO8Zc
+ANSWER: 0
+
+2.
+EXAMPLE: The U12 B team suffered defeat against @drumanessclg this evening in Assumption. Despite the scoreline they acquitted themselves well!
+ANSWER: 0
+
+3.
+EXAMPLE: I can feel it now: I'm not going to be able to walk tomorrow, or the rest of the week, because of hockey practise. &#128514;&#128514;&#128170;
+ANSWER: 0
+
+4.
+EXAMPLE: my attitude on 1000 today for no reason &amp; im getting attitudes with ppl for no reason &#129318;&#127997;‍♀️&#129335;&#127997;‍♀️ oops
+ANSWER: 0
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: "@1DHQDaily @radiodisney my baby is losing #SteveAoki &amp; #LouisTomlinson ""Just Hold On"" #Mashup @radiodisney"
+ANSWER: 0
+
+2.
+EXAMPLE: "@1DHQDaily @radiodisney my baby is losing #SteveAoki &amp; #LouisTomlinson ""Just Hold On"" #Mashup @radiodisney"
+ANSWER: 0
+
+How would the particular annotator annotate the target example?
+EXAMPLE: "@1DHQDaily @radiodisney my baby is losing #SteveAoki &amp; #LouisTomlinson ""Just Hold On"" #Mashup @radiodisney"
+ANSWER:

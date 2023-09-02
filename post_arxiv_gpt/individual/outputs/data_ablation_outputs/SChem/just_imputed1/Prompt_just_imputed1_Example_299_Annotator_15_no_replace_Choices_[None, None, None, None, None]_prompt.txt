@@ -1,0 +1,122 @@
+Example 1:
+Text: It's not okay to have to rely on special tools when they aren't really needed.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's okay to not want to date someone you are uncomfortable dating.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should be happy when someone wants to invest in your company.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's okay to hurt somebody who's stealing from you
+Annotation from annotator: 2
+
+Example 5:
+Text: It's wrong to want your girlfriend to leave.
+Annotation from annotator: 2
+
+Example 6:
+Text: It's good to be in control of your sexuality.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's rude to dislike your best friend's boyfriend.
+Annotation from annotator: 2
+
+Example 8:
+Text: It is wrong to take video games too seriously.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's hurtful to hate somebody close to you.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's okay to not feel guilty when you cheat.
+Annotation from annotator: 1
+
+Example 11:
+Text: You should let your ex go.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's wrong to grow apart from your partner.
+Annotation from annotator: 2
+
+Example 14:
+Text: You shouldn't get upset at your partner.
+Annotation from annotator: 2
+
+Example 15:
+Text: You shouldn't video tape someone without their permission.
+Annotation from annotator: 3
+
+Example 16:
+Text: You shouldn't be friends with someone that talks badly about you behind your back.
+Annotation from annotator: 3
+
+Example 17:
+Text: You shouldn't let others lead you on.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's rude to mislead people about your health.
+Annotation from annotator: 3
+
+Example 19:
+Text: You don't need to accept apologies if you're not ready to move on
+Annotation from annotator: 2
+
+Example 20:
+Text: It's not okay to think someone is lying to you when it's important.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's rude to support one person more than another.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's good to find proof of cheating you perceive to be happening.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 2
+
+Example 24:
+Text: It's understandable to want to ruin your ex's new relationships.
+Annotation from annotator: 1
+
+Example 25:
+Text: You shouldn't have second thoughts about having kids if your wife gets pregnant because it's too late by then.
+Annotation from annotator: 2
+
+Example 26:
+Text: It's not okay to abuse things like drugs.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't date a bad partner.
+Annotation from annotator: 3
+
+Example 28:
+Text: It is understandable to call the police when you know someone is committing a crime.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to be aware of your limits.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's good to give advice to your friends.
+Annotation from annotator: 3
+
+Text: It's expected that a parent be polite to their children.
+Annotation from annotator:

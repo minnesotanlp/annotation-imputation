@@ -1,0 +1,124 @@
+Correct Examples:
+Example 1:
+Text: You should be more respectful of other people.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's irresponsible stop taking your medication
+Annotation from annotator: 3
+
+Example 3:
+Text: It's good to be there for your kids.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's fine if you're uncomfortable when an older man has a crush on you.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is expected that your respond when someone addresses you
+Annotation from annotator: 3
+
+Example 6:
+Text: It's okay to indulge your sexual fantasies with other consenting adults.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's bad to be passive aggressive in a relationship.
+Annotation from annotator: 3
+
+Example 8:
+Text: You should never steal from your family.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's wrong to get upset at your partner over a party.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's good to see a doctor if you are depressed.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to want to honor your vows with your spouse.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is clever to find ways to get things for free from a restaurant.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's smart to save money by fixing one's own house.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's normal for children to outlive their parents
+Annotation from annotator: 3
+
+Example 15:
+Text: It's okay to not be attracted to people.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's bad to purposely ruin someone's life.
+Annotation from annotator: 3
+
+Example 17:
+Text: If you can't get over your partner's sexual history, it's okay to end the relationship.
+Annotation from annotator: 3
+
+Example 18:
+Text: You shouldn't get pissed off at your siblings.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's morally wrong to be disloyal to your partner.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's fine to join whatever religion you prefer.
+Annotation from annotator: 2
+
+Example 21:
+Text: You should ask questions directly.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's expected that people will pay more for things that make them ahppy.
+Annotation from annotator: 2
+
+Example 23:
+Text: You shouldn't reveal someone's secrets.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's understandable to be worried about being cheated on.
+Annotation from annotator: 2
+
+Example 25:
+Text: People shouldn't feel embarrassed to be the oldest person in a class.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's normal for people to forget things even if they happened very recently.
+Annotation from annotator: 2
+
+Example 27:
+Text: You should keep supporting someone when they are trying to figure out what they want to do.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's unexpected that there will be a mistake with your paycheck.
+Annotation from annotator: 3
+
+Example 29:
+Text: It is wrong to do drugs.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's understandable if you dismiss your child's nightmares.
+Annotation from annotator: 2
+
+Target Example:
+Text: You shouldn't be interested in your ex's friends.
+Annotation from annotator:

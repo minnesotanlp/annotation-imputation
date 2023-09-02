@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It's not selfish to want a baby that looks just like you.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's rude to not believe your best friend.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's bad to invade someone's personal space.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's okay to feel sad when you can't be in a family picture.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's understandable to want to make decisions about your romantic life without consulting anyone.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's normal for someone to be punished more if they commit a transgression under punishment.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's frustrating when there's a mistake with your paycheck.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's wrong to want to cheat on your girlfriend.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's okay to feel disoriented when daylight savings begins.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is expected that children do risky things.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's rude to call someone to keep you company because you're bored.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's wrong to do things that you know will bring harm to others.
+Annotation from annotator: 3
+
+Example 13:
+Text: People will think you're a coward if you refuse to help others.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's normal for affairs to affect the whole family.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's bad to give one of your children more attention than another.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's understandable if you're upset when you realize how bad life was before you got help.
+Annotation from annotator: 3
+
+Example 17:
+Text: When you are injured, it's good to go to the hospital.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to practice your cheer formation with friends.
+Annotation from annotator: 2
+
+Example 19:
+Text: You should be compassionate to others.
+Annotation from annotator: 3
+
+Example 20:
+Text: You should not be a burden on others
+Annotation from annotator: 3
+
+Example 21:
+Text: You should check your couch cushions for sharp objects.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's wrong to wish that your parent passed away.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is okay to stand up for yourself.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good to make decisions as a couple.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's okay to put unexpected toppings on your food.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's rude to give someone an ultimatum.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's okay to feel sad after having a new baby.
+Annotation from annotator: 3
+
+Example 28:
+Text: Birdwatching is a popular hobby for people who enjoy the outdoors.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't have to stay at a place you don't like.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's OK to not be attracted to someone based on their race.
+Annotation from annotator: 1
+
+Human-Rated Examples:
+Example 1:
+Text: It's bad to be passive aggressive in a relationship.
+Annotation from annotator: 3
+
+Example 2:
+Text: You shouldn't be a bad girlfriend or boyfriend.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's wrong to get worried over everything.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's okay to be sad when someone dies.
+Annotation from annotator: 4
+
+Example 5:
+Text: You shouldn't swear at others.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to talk to creative people about their art.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's important to be practical during exercise.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's not alright to miss work just because you don't feel like working.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's fine to date someone.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's fine to live your life based on other people's wants.
+Annotation from annotator: 2
+
+Example 11:
+Text: If you're scared, you should face it head on.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's acceptable to control your own shop.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's bad to be jealous of money.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's OK to let your pet play with anything you like.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's good to trust those you care about.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's accepted that not everyone can keep track of everyone's birthday.
+Annotation from annotator: 2
+
+Example 17:
+Text: If something is making you miserable, you shouldn't do it anymore.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's acceptable to look for bargains when shopping.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is bad to shut down when things bother you.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's normal to feel good when someone complements you.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's good to find the right partner for yourself.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's okay to dislike babies.
+Annotation from annotator: 1
+
+Example 23:
+Text: It's good to have someplace to go where you can get away with things when you're a kid.
+Annotation from annotator: 2
+
+Example 24:
+Text: You should always ask before going out somewhere if you're a kid.
+Annotation from annotator: 3
+
+Example 25:
+Text: You should always be there for your partner and never grow apart.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's okay if you want to move a bird's nest somewhere else.
+Annotation from annotator: 2
+
+Example 27:
+Text: It's bad to arrive to work dishevelled.
+Annotation from annotator: 3
+
+Example 28:
+Text: You're expected to act like an adult after a breakup.
+Annotation from annotator: 3
+
+Example 29:
+Text: People should save up money to buy the things they want.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's rude to ignore people.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's admirable when people try to learn from past mistakes.
+Annotation from annotator:

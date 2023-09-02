@@ -1,0 +1,58 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Most niggas send hate thru the bitches
+Annotation from annotator: 2
+
+Example 2:
+Text: How many Jews does it take to cook a dinner? Two. One in the fire, one above the fire.
+Annotation from annotator: 2
+
+Example 3:
+Text: I ate a banana and an orange but I want something really bad for you. &#128557;
+Annotation from annotator: 0
+
+Example 4:
+Text: How does an Indian student in Hogwarts school cast his spell? "Opuns Bobs and sho Vagenes plss...."
+Annotation from annotator: 2
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Why do people put an x for anything with chris or crys in the word Seems pretty stupid and unnecessary
+Annotation from annotator: 2
+
+Example 2:
+Text: "@BleedingKunai honest. He shared a lot with her yet she couldn't quite trust him. It broke a little.""I believe you.."" He said and scooted-"
+Annotation from annotator: 0
+
+Example 3:
+Text: I was up late watching tv and there it was on CNN , Click on the link Video - Breaking News Videos from CNN.com
+Annotation from annotator: 0
+
+Example 4:
+Text: In the Brexit Candy Mountains, The streets are paved with gold. And you can talk like you own the globe Just like in days of old.
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: i had a dream i had a chihuahua that i carried with me everywhere like i was doin crazy shit in my dream, but the whole time he was w me
+Annotation from annotator: 0
+
+Example 2:
+Text: Self obsessed idiots #selfish #onlythinksofthemself #memyselfandi
+Annotation from annotator: 2
+
+Example 3:
+Text: What's the best part about a Somalian blowjob? You'll know she'll swallow
+Annotation from annotator: 2
+
+Example 4:
+Text: Feminism
+So what’s you people’s opinions on Gloria Steinem?
+Annotation from annotator: 0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: a black woman has seven sons ; jerome , jerome , jerome , jerome , jerome , jerome and jerome . how does she distinguish between them ? by their last names .
+Annotation from annotator:

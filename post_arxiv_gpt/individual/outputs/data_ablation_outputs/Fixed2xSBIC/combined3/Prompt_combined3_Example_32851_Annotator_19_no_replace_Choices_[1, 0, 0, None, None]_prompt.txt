@@ -1,0 +1,256 @@
+Estimated Examples:
+Example 1:
+Text: Women are like stars Easier to see with a telescope
+Annotation from annotator: 1
+
+Example 2:
+Text: How about a brief Radical Agenda Christmas Eve Special?
+Annotation from annotator: 0
+
+Example 3:
+Text: I'm so pissed because as soon as I get to work they don't have me on the fucking floor chart
+Annotation from annotator: 0
+
+Example 4:
+Text: As predicted this morning, the battle has begun  
+
+the correction needed...
+
+go, girl...
+
+little house cleaning is good for the future
+
+
+Annotation from annotator: 1
+
+Example 5:
+Text: doggy <allcaps> licks <allcaps> q : why does a dog lick himself ? a : he ca n't make a fist .
+Annotation from annotator: 1
+
+Example 6:
+Text: Check out CBSN On Assignment on CBS at 9pm they are gonna tell moslem kids its not right to cut peoples heads off... could be funny
+Annotation from annotator: 2
+
+Example 7:
+Text: Why should we stop giving black people golds? Because slaves shouldn't be paid.
+Annotation from annotator: 2
+
+Example 8:
+Text: What do you call it when a Jew rides his bike into a Gestapo checkpoint? A kike accident.
+Annotation from annotator: 2
+
+Example 9:
+Text: Former cult members often have fascinating insights, this is a great read: An ex-Feminist's thoughts on academia and the tactics of third-wave Feminism
+Annotation from annotator: 0
+
+Example 10:
+Text: Lol Robert De Nialo is an embarrassment I can't believe he's the same dude from Taxi Driver...
+Annotation from annotator: 2
+
+Example 11:
+Text: I'm shook I spoke to my professor for the first time since the semester started &amp; he basically knew my whole life
+Annotation from annotator: 0
+
+Example 12:
+Text: I am not a sexist, sexism is wrong. And being wrong is for women.
+Annotation from annotator: 2
+
+Example 13:
+Text: Is your dick black? Of course it is, that’s why you beat it.
+Annotation from annotator: 2
+
+Example 14:
+Text: Swear on my life some fucking body puts me in a bad fucking mood every day of my damn life.
+Annotation from annotator: 0
+
+Example 15:
+Text: As an enforcer of international law the UN is useless. A lot of blowhard hyperbole with what for actions? #wednesdaywisdom
+Annotation from annotator: 0
+
+Example 16:
+Text: Did you hear about the tragedy in Las Vegas Over 500 hitmarkers but only 50 kills
+Annotation from annotator: 2
+
+Example 17:
+Text: Why don't you just dye your hair?
+Annotation from annotator: 0
+
+Example 18:
+Text: I still can't believe the bnha kids are like 15/16 and ripped as fuck. Also: looks @ momo's figure &amp; looks back @ mine lmfao where
+Annotation from annotator: 0
+
+Example 19:
+Text: I know how to decrease the unemployment rate substantially Reinstate the 3/5ths compromise
+Annotation from annotator: 2
+
+Example 20:
+Text: if the solution is to give Jerusalem International status.. just pump it full of immigrants like the Jew bastards have done to all our Cities - if it's everyone's      then no one will fight over it..
+Annotation from annotator: 2
+
+Example 21:
+Text: I would like to say this law holds no difference in what we already deal with but in fact it is a future of issues of 2018 and all it will take is a major cause of act that will take over American free speech and will Democercy Belifes being pushed from Germany new law over our own constitution.
+Annotation from annotator: 0
+
+Example 22:
+Text: what is the hardest part about eating bald pussy ? putting the diaper back on .
+Annotation from annotator: 2
+
+Example 23:
+Text: why do black people like the pokemon anime ? because they can relate to the main character 's fatherlessness .
+Annotation from annotator: 2
+
+Example 24:
+Text: Those two songs also seem to be the basis of 70% of Wild Nothing songs. Not really an insult since Wild Nothing is one of my favorite bands
+Annotation from annotator: 0
+
+Example 25:
+Text: Trans MtF are just strict followers of if you can't beat em join em
+Annotation from annotator: 2
+
+Example 26:
+Text: What's the difference between a jew and harry potter? Harry made it out of the chamber.
+Annotation from annotator: 2
+
+Example 27:
+Text: The Bloodbath in New York has given me an idea: Could a Prime Minister be removed from office for being insane?
+Annotation from annotator: 1
+
+Example 28:
+Text: It won't work if you don't smile!
+Annotation from annotator: 0
+
+Example 29:
+Text: I don't even like Ghostbusters but I will see the HELL out of this movie to spite misogynists.
+Annotation from annotator: 0
+
+Example 30:
+Text: Nazi is code word for white male, regardless of mixed ethnicity.
+Annotation from annotator: 2
+
+Human-rated Examples:
+Example 1:
+Text: Program Analyst II - MassHealth Embedded - Boston, MA, 02133, USA #jobs #Boston pls RT https://t.co/ns6FKl7eSd
+Annotation from annotator: 0
+
+Example 2:
+Text: #ThursdayThoughts: How many other women has @alfranken raped at @nbcsnl @the_USO or @SenateDems
+Annotation from annotator: 2
+
+Example 3:
+Text: Your momma's so old she's got a separate entrance for black dicks
+Annotation from annotator: 2
+
+Example 4:
+Text: @princessamariss but I am neither a child nor parent, so how can this fucking review POSSIBLY gauge what I think???
+Annotation from annotator: 0
+
+Example 5:
+Text: What's Bill Cosby's favourite sex position? The recovery position.
+Annotation from annotator: 2
+
+Example 6:
+Text: Can you give any examples of progress made by skinheads or the Klan ?
+Annotation from annotator: 0
+
+Example 7:
+Text: I'm with you on that one brother. that 's why I suggested in my first post that you use Stormfront as a casual second source. the bulk of the people on here use it as a sort of Dungeons and Dragons our fantasy football league and they have no real interest in being active .
+Annotation from annotator: 0
+
+Example 8:
+Text: Please Watch Out For Black Ice... It looks like regular ice, but when you slip and get back up, your wallet is gone.
+Annotation from annotator: 2
+
+Example 9:
+Text: How is a push-up bra like a bag of chips? As soon as you open it, you realize it’s half empty.
+Annotation from annotator: 2
+
+Example 10:
+Text: One significant result of “Tales of the Untold” is the signing of a petition in support of the Sexual Offences Against Children Bill tht was
+Annotation from annotator: 0
+
+Example 11:
+Text: I think you should take advantage of the fact you 're in highschool and it 's not really an important place in the long run .
+Annotation from annotator: 0
+
+Example 12:
+Text: If the International Drug Cartels are causing so much DEATH and DESTRUCTION in Mexico , then why allow them to just walk across our Border ?
+Annotation from annotator: 0
+
+Example 13:
+Text: Call 811 presents: Can You Dig It? Win prizes, watch out for the pesky gopher, &amp; learn about dirt! https://t.co/VKmcF2Y4Y2 #safediggingmonth
+Annotation from annotator: 0
+
+Example 14:
+Text: My girlfriend is having an abortion and I've decided to make it into a party! If you're interested in coming, it's at the top of the stairs. Don't tell her though, it's a surprise party.
+Annotation from annotator: 2
+
+Example 15:
+Text: I gave head to an old man a couple days ago. While he was driving a limo. Put him to sleep.
+Annotation from annotator: 0
+
+Example 16:
+Text: Jaguars at Patriots at 3 EST
+
+Vikings at Eagles at 6:30 EST
+Annotation from annotator: 0
+
+Example 17:
+Text: What is hairless and 8 people long? 8 patients doing the polonaise in the cancer ward
+Annotation from annotator: 2
+
+Example 18:
+Text: There is a referendum in India to legalize gang rape. The forecasts predict that 9/10 will vote yes.
+Annotation from annotator: 2
+
+Example 19:
+Text: Heart of House Opportunities - Lawry's The Prime Rib - Beverly Hills, CA, , USA #jobs #Beverly Hills pls RT: We are… https://t.co/Y4mHs41X5V
+Annotation from annotator: 0
+
+Example 20:
+Text: Swiss merchant navy celebrates 75th anniversary https://t.co/ZHDOCdGAoO @swissinfo_en @ErSEA_SHIPsCo
+Annotation from annotator: 0
+
+Example 21:
+Text: Why is cocaine white? Because it actually works.
+Annotation from annotator: 2
+
+Example 22:
+Text: Guns are quite useful these days... They help me seperate the blacks from the whites.
+Annotation from annotator: 2
+
+Example 23:
+Text: What’s worse than 100 kids dying in a plane crash? Not being there to witness it.
+Annotation from annotator: 2
+
+Example 24:
+Text: What did the Chinese Muslim say to the depressed suicide bomber as he was leaving for his final assignment? Some ting bomb??
+Annotation from annotator: 2
+
+Example 25:
+Text: @Marina_Sirtis This new justice keeps the same balance in SCOTUS - the one that cemented gay rights...and gave Obamacare a win...
+Annotation from annotator: 0
+
+Example 26:
+Text: I think the whole incident with the monkey stealing his hat is enough for anyone who has played the game.
+Annotation from annotator: 0
+
+Example 27:
+Text: Sarah Huckabee Sanders at WH Press Briefing: James Comey "Gave False Testimony"
+—Ace
+Annotation from annotator: 0
+
+Example 28:
+Text: video deleted reupload please please people make maximum stuff graphics wall painting video and stuff dont let media and internet censorship minimize this affair .
+Annotation from annotator: 0
+
+Example 29:
+Text: Ive never herd of one even actually happening but i would think that it would not last either.if you dont get along you never will. cant force it .
+Annotation from annotator: 0
+
+Example 30:
+Text: Why did the 2 year old African kid start crying? Because there were too many reposts of this shitty meme
+Annotation from annotator: 0
+
+Target Example:
+Text: What’s the problem with an Asian pet store? There’s always a kitchen in the back
+Annotation from annotator:

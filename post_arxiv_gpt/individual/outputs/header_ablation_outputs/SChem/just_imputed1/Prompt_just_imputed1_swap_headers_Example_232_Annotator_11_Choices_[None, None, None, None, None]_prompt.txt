@@ -1,0 +1,122 @@
+Example 1:
+Text: It's good to want kids to be prepared for life.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's good to recognize the problems with being attracted to someone much younger than you.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't call out your family over petty things.
+Annotation from annotator: 3
+
+Example 4:
+Text: Your grandparent would be sad if you broke off contact with them.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's good to have a best friend.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's bad to leave school without letting someone know where you're going.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is normal for students to pass notes
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to have income.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's okay to carry your pet in public as a status symbol
+Annotation from annotator: 2
+
+Example 10:
+Text: People shouldn't want others to debase them, as it mars their souls.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to teach children that their boundaries should be respected.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's good for kids to have friends they can play with.
+Annotation from annotator: 4
+
+Example 13:
+Text: It's not necessary to be strong
+Annotation from annotator: 3
+
+Example 14:
+Text: It's wrong to be sick of life.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's rude for people to give you a fake name because they can't learn your real one.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to admire villains.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's nice to worry about your friends.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's wrong to take pennies from a wishing fountain.
+Annotation from annotator: 4
+
+Example 19:
+Text: You shouldn't scare your coworkers.
+Annotation from annotator: 3
+
+Example 20:
+Text: You should be understanding when your parents talk about their family heirlooms.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should be accepting of having a half-sibling
+Annotation from annotator: 3
+
+Example 22:
+Text: You're discouraged from hating others.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's not okay to teach kids things they aren't ready for.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's understandable if you're suspicious when a widower in your family gets together with a widower soon after their spouse's died.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's wrong to be gluttonous.
+Annotation from annotator: 3
+
+Example 26:
+Text: You should treat a person with a disability the same as you would anyone else.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to get a job after high school for a while to learn some responsibility.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's bad to have an overly pessimistic world view.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's normal for married couples to have sexual relations.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's wrong to hate fitness people.
+Annotation from annotator: 3
+
+Text: It is understandable to not feel empathy when their situations do not involve you.
+Annotation from annotator:

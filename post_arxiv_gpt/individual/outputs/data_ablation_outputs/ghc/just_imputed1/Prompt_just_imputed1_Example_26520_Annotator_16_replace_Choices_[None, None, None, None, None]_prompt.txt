@@ -1,0 +1,122 @@
+Example 1:
+Text: Good  morning , 3 horses! This is great!😂😂😂😂
+Annotation from annotator: 0
+
+Example 2:
+Text: But, but, we are the Electoral Commission, we are "impartial" and "unbiased". <<< The horse sh*t from these #Remoaners is unbelievable. 
+Annotation from annotator: 0
+
+Example 3:
+Text: If enrichment means the shit we're in right now, I hate to see what fucking up a country looks like.  Did George Soros write this speech?
+Annotation from annotator: 0
+
+Example 4:
+Text: I have property in the Keys.... 
+Annotation from annotator: 0
+
+Example 5:
+Text: I stopped using fb several months ago.  My husband can't give up arguing with idiots.
+Annotation from annotator: 0
+
+Example 6:
+Text: Double standards on truth telling. 
+Annotation from annotator: 0
+
+Example 7:
+Text: "in the domain of spirituality, religion, and world view, everything Semitic, and above all everything Jewish, has a specific character that is repulsive to other peoples of the white race." 
+Annotation from annotator: 0
+
+Example 8:
+Text: https://steemit.com/review/@cheah/manga-review-yagyu-renya-legend-of-the-sword-master 
+Annotation from annotator: 0
+
+Example 9:
+Text: Just great...Gun thefts are happening many places it seems.
+Annotation from annotator: 0
+
+Example 10:
+Text: How is that one post not illegal? He is calling for someone to commit a specific crime or he will do it himself. 
+Annotation from annotator: 0
+
+Example 11:
+Text: And the leadership, since they are more equal than everyone else, will live in walled dachas, have armed guards, chauffeurs, and housekeepers.  
+Annotation from annotator: 0
+
+Example 12:
+Text: @support @a   I'm trying to get some help with billing issues but no is is available, apparently?  Doesn't make me want to continue my business relationship with you.  #Support #Infrastructure #AltTech #NewBeginning #FreeSpeech #Billing #Funding #TechnicalSupport
+Annotation from annotator: 0
+
+Example 13:
+Text: The highest prelate of the Synagogue in Israel confirms that it is true. Imagine a non-Jewish prelate who dares to say the reverse? Who would dare to say that Jews were created to serve non-Jews?
+Annotation from annotator: 1
+
+Example 14:
+Text: Bank worker texted suspects ‘go signal’ before attempted $75K robbery:  cops https://nypost.com/2018/08/23/bank-worker-texted-suspects-go-signal-before-attempted-75k-robbery-cops/
+Annotation from annotator: 0
+
+Example 15:
+Text: Why would anyone who supports Trump believe in a LARP from a porn site?  Oh yeah, NO TRUMP SUPPORTER WOULD!  Now it makes sense.
+Annotation from annotator: 0
+
+Example 16:
+Text: Not to worry. All traveling essentials are onboard. I also put 4 more cases of ammo for the ARs in the trunk. I suspect we'll eventually need it. Another short delay involves the external sound system for the car, so we can be blaring Mariachi music as we roll, merrily along. Larger speakers or order.
+Annotation from annotator: 0
+
+Example 17:
+Text: Wow! Were you there just to take pictures or did you live there? That was a terrible flood!
+Annotation from annotator: 0
+
+Example 18:
+Text: When it comes to entertainment, wether it’s sports or Hollywood, we are the organ grinders and you are our monkeys.  If you don’t perform for us and stop entertaining us, we can always find another monkey.
+Annotation from annotator: 0
+
+Example 19:
+Text: Ironically it’s exactly what will happen. Honey, get the popcorn ready,it’s going to be comedy hour.
+Annotation from annotator: 0
+
+Example 20:
+Text: Then, he slobbed a negro schlong and got stank breath.   
+Annotation from annotator: 0
+
+Example 21:
+Text: https://www.businessinsider.in/tech/happy-birthday-facebook-the-secret-ims-revealing-the-mark-zuckerberg-of-2004/slidelist/29883234.cms THIS IS VERY TELLING ABOUT ZUCKERBURG THE CROOK DATA MINING FROM THE BEGINNING. HOW CAN THE SENATE COME AGAINST TRUMP AFTER THIS. SPREAD THE WORD THIS NEEDS TO BE TOLD! PLEASE REPOST!
+Annotation from annotator: 0
+
+Example 22:
+Text: You truly have a way with words😊 Snugglebunny is a lucky woman
+Annotation from annotator: 0
+
+Example 23:
+Text: American commercials/advertising are trash. Partly because of how expensive airtime is, but also because of the attention-span and ambient IQ/EQ of the average citizen.
+Annotation from annotator: 0
+
+Example 24:
+Text: Zimbabwe all over again. In 11-12 years they'll be crying and beggin' the whites to come back and farm again.
+Annotation from annotator: 1
+
+Example 25:
+Text: You work at FedEx with Angie’s, soon to be ex husband, Christopher Hutchins? Leave the detective work to the big kids you cunt. @Grock‍
+Annotation from annotator: 0
+
+Example 26:
+Text: Trump’s Plan to Leave a Major Arms Treaty with Russia Might Actually Be About China https://foreignpolicy.com/2018/10/22/trumps-plan-to-leave-a-major-arms-treaty-with-russia-might-actually-be-about-china/
+Annotation from annotator: 0
+
+Example 27:
+Text: These people just kill me w/their trying to make sense!! And that look on her face!!! LOL 🤣🤣
+Annotation from annotator: 0
+
+Example 28:
+Text: Gross. This is one of many reasons it is SO easy to vote against the left.
+Annotation from annotator: 0
+
+Example 29:
+Text: I have Black friends but no nigger friends. I have white friends but no honky friends, I have Asian friends but no Jap or chink friends. I have friends from many countries who moved to the USA for freedom. I just keep good company. Gab is my best friend.
+Annotation from annotator: 1
+
+Example 30:
+Text: OK ignorant, I pinned what you don't know. Now fuck off!
+Annotation from annotator: 1
+
+Text: It comes in a shot also.
+Annotation from annotator:

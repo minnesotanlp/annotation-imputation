@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Ok, why was it wrong??
+Annotation from annotator: 7
+
+Example 2:
+Text: ChrisO, am I being paranoiac or are you undertaking some kind of campaign against me? What exactly are you referring to this time?
+Annotation from annotator: 7
+
+Example 3:
+Text: I'm doing the same.  Hey, can you please tell me if <url> has been fixed enough by being stub-ified?
+Annotation from annotator: 15
+
+Example 4:
+Text: No problem. Have you seen the <url> article?
+Annotation from annotator: 20
+
+Example 5:
+Text: And  what did I do wrong???????????????????????
+Annotation from annotator: 5
+
+Example 6:
+Text: Again samething with the second site, again outside of taking they're word for it how do we know they are are right.  What is your opinion on the 2 logos in the forum discussion think they were made up?
+Annotation from annotator: 10
+
+Example 7:
+Text: Thanks.  Can you use <url>?
+Annotation from annotator: 16
+
+Example 8:
+Text: I'm sorry, I'm having trouble understanding your question. Could you try again?
+Annotation from annotator: 20
+
+Example 9:
+Text: Indeed, the New York Times tells us that Iain Hook "''was shot in the back by an Israeli soldier ''". Why did a member of the IDF shoot him?
+Annotation from annotator: 12
+
+Example 10:
+Text: Hi. The font-size for the links in this template may be on the small side, but it seems to be floating okay -- or do I need to check more places where it's used?
+Annotation from annotator: 16
+
+Example 11:
+Text: Well perhaps I am "out of touch".  Can you please point me to where a new consensus has formed on this issue?
+Annotation from annotator: 17
+
+Example 12:
+Text: <url> is fooling around with the Rubinstein and Horowitz articles again.  Is there a way to get him banned?
+Annotation from annotator: 14
+
+Example 13:
+Text: It should be deleted. Do you want to nominate it or should I?
+Annotation from annotator: 10
+
+Example 14:
+Text: No-one's saying you can't edit anything, but what we are saying is that introducing grammatically incorrect phrases, POV, weasel words and things discussed and discounted in the numerous PRs and FLCs this article went through is inappropriate.  Buc, stop it please, I'm getting tired of this, why not work on being constructive to articles that aren't at featured status?
+Annotation from annotator: 8
+
+Example 15:
+Text: I couldn't find your "email user" function. What's up?
+Annotation from annotator: 11
+
+Example 16:
+Text: He used it to assert that '''''others''''' had expressed the notion that the process was concluded and that it was time to move on, and used your statement as evidence of this. Since you did not mean that it had been concluded, and since obviously you were only speaking for yourself and no one else, and participants have been continuing to post on the RfC page and its Talk Page to indicate that they do not feel this way at all, how does it serve to support the idea that they have?
+Annotation from annotator: 5
+
+Example 17:
+Text: Note however that <url> does not exist. Which page were you talking about in this case?
+Annotation from annotator: 15
+
+Example 18:
+Text: Wikipedia has a strict rule about ''not'' simultaneously filing an article in both a parent category ''and'' a subcategory of the same parent. Could you please ''not'' add <url> to a category if it's already in <url>, <url> or a country-specific record labels category?
+Annotation from annotator: 10
+
+Example 19:
+Text: OK, I'll bite. How is ''Matt "Dirty" Sanchez'' to be construed as anything other than a personal attack?
+Annotation from annotator: 8
+
+Example 20:
+Text: LOL, I love that movie. So, are you having Chinese food for New Year's Eve?
+Annotation from annotator: 14
+
+Example 21:
+Text: Done. Does Adam Hunter need your disambig-style touch?
+Annotation from annotator: 12
+
+Example 22:
+Text: <url>. Who is Alan climate gore?
+Annotation from annotator: 12
+
+Example 23:
+Text: But in this case, at least there is an actual author making the claim, which is generally where I draw the line.  Is Wood an inappropriate or fringe source, and if so, what makes her so?
+Annotation from annotator: 15
+
+Example 24:
+Text: You are just saying that <math>frac{f(x+h)-f(x)}{h}</math> is continuous at <math>h=0</math>, but that is not the same as saying <math>f'(x)</math> is continuous. Do you have any references?
+Annotation from annotator: 8
+
+Example 25:
+Text: What would the recommended sequencing be, then?... GAR, then FAR?
+Annotation from annotator: 13
+
+Example 26:
+Text: "Provocations"? How is it provoking to suggest to an American-expat that calling people in Taiwan "Taiwanese" is not controversial?
+Annotation from annotator: 7
+
+Example 27:
+Text: Im the same as Hectorian, i had a look on the talk page history and the archive, and i cant see any interaction. Any ideas?
+Annotation from annotator: 15
+
+Example 28:
+Text: Dude, what's going on? Why are you leaving?
+Annotation from annotator: 14
+
+Example 29:
+Text: Some pictures are not mine, but those that I have changed, their own. And you can submit a complaint the owners of those photos?
+Annotation from annotator: 12
+
+Example 30:
+Text: And while I'm on templates, I spotted <url>. Does it affect the ME templates?
+Annotation from annotator: 12
+
+Human-rated Examples:
+Example 1:
+Text: If you were falsely accused of vandalism, the best thing to do is to talk to the user who accused you, and explain why your edit was not vandalism. Which user accused you vandalism?
+Annotation from annotator: 8
+
+Example 2:
+Text: But, before you accuse me of shying away from your second to last question, my PhD is in inorganic chemistry, homogeneous catalysis to be specific, but my latest scientific paper was submitted (still with the reviewers) to ''<url>'': it touches on the metrological consequences of the microscopic quantization of ''Q'', as it happens, although that is not its main thrust. So, do you want to thrash this out among scientists, or would you prefer to waste your time with ArbCom?
+Annotation from annotator: 4
+
+Example 3:
+Text: When we have a GLAM barnstar then you get it ..... just for the Hindi article! I cannot explain why you needed to create a Derby page in Hindi - surely it should be there already?
+Annotation from annotator: 10
+
+Example 4:
+Text: Actually, that's again a misromanization.  Would you ''please'' stop this insanity?
+Annotation from annotator: 4
+
+Example 5:
+Text: I was going to create the list of tallest buildings in Hartford, when I saw that it had been deleted three years ago by you. I don't understand the reason for deletion; can you clarify why?
+Annotation from annotator: 15
+
+Example 6:
+Text: Lol, yes, simply! I would have no objection to something like this "According to ".... Records" the song was sent to mainstream radio as the official third single in may." OR something?
+Annotation from annotator: 16
+
+Example 7:
+Text: I'm an admin, I'd be happy to do it. You want me to do it now?
+Annotation from annotator: 20
+
+Example 8:
+Text: I think that's a good solution.  Should we give it a try?
+Annotation from annotator: 20
+
+Example 9:
+Text: If she's been in a lot of porn movies, doesn't that show she is famous. Can't you undelete it and then let it go to a AfD discussion?
+Annotation from annotator: 9
+
+Example 10:
+Text: I think a separate security section heading is required in <url> article as it gets prime billing in the introduction, but then has references (and criticisms) scattered throughout the rest of the article.  Do you support this?
+Annotation from annotator: 14
+
+Example 11:
+Text: See <url>. I've made them, can you help fill them out and place them in the articles?
+Annotation from annotator: 16
+
+Example 12:
+Text: Ok.  By the way, may I note that is an excellent resource you have there.   I noticed the other day that we had acquired a list at <url> of unproduced scripts/stories - it seems entirely genuine and fits with material I have read elsewhere but was uncited - I wonder if you could help find a source for it?
+Annotation from annotator: 16
+
+Example 13:
+Text: I don't think I've used it in Wikipedia.  So, if I haven't, why did you bring it up?
+Annotation from annotator: 8
+
+Example 14:
+Text: Which seems to be exactly in line with my point about album covers. If you were referring only to logos, could you please qualify why they should be treated differently?
+Annotation from annotator: 19
+
+Example 15:
+Text: Checkuser shows the three users share an ip from time to time. How serious is the problem?
+Annotation from annotator: 10
+
+Example 16:
+Text: Sorry??? Which comment are you referring to?
+Annotation from annotator: 9
+
+Example 17:
+Text: Thank you for your comments. May I refer you to <url>, where I think you will find the sort of criticism section that you are looking for?
+Annotation from annotator: 15
+
+Example 18:
+Text: Wait, what's the COI? Was this on the fringe noticeboards?
+Annotation from annotator: 12
+
+Example 19:
+Text: Somewhat related, shouldn't <url>, be renamed to <url>? I realize that Baha'i forbids sectarianism, but this is what the article is about, no?
+Annotation from annotator: 16
+
+Example 20:
+Text: Ah, I was confused by the fact that your tag was placed on <url>, not on <url>.  Wildbot has visited, & updated the talk page again, so where is the result of the whole exercise?
+Annotation from annotator: 9
+
+Example 21:
+Text: I see you've added <url> to the category "Jewish-Canadians".  What is your source for this?
+Annotation from annotator: 12
+
+Example 22:
+Text: Thanks, I didn't notice the earlier discussion. Would you consider (if you haven't done so yet) adding some indication on either page that these are the same user?
+Annotation from annotator: 16
+
+Example 23:
+Text: I'm going to try and hurry the <url> article through both GA and FA to see if I can get it as the Featured Article on the Main Page in time for its 20-year anniversary on October 18, 2009. Care to help a little or a lot?
+Annotation from annotator: 17
+
+Example 24:
+Text: I don't understand. So then you decide by yourself, and the people who stated their support for the original are ignored?
+Annotation from annotator: 8
+
+Example 25:
+Text: My post above was a helpful hint about following DYK as a whole, not about the nomination process. Would you mind posting your post under a new heading, as it seems to have little to do with what I was saying and seems to be changing the subject?
+Annotation from annotator: 10
+
+Example 26:
+Text: There hasn't been much progress made in the last three days. Is anyone interested in responding?
+Annotation from annotator: 15
+
+Example 27:
+Text: Already past my two "spelling correction" edits ;) (though they are obsessed with defense). I noticed one of them changed a quoted spelling: ''acknowledgment'' to ''acknowledgement'', did you get that one?
+Annotation from annotator: 16
+
+Example 28:
+Text: Make that "copyvio tag". OK if I revert under those conditions?
+Annotation from annotator: 9
+
+Example 29:
+Text: Hi Thunderbrand, thanks for letting me know that the image I uploaded is on IFD. Can I ask though, why is the image being deleted?
+Annotation from annotator: 16
+
+Example 30:
+Text: The Italian and English rules are different from the Spanish. But if you think about it, would it make sense to list every reserve player who makes a first team appearance?
+Annotation from annotator: 11
+
+Target Example:
+Text: You didn't answer about the status of above mentioned image. Are you going to tag that image too?
+Annotation from annotator:

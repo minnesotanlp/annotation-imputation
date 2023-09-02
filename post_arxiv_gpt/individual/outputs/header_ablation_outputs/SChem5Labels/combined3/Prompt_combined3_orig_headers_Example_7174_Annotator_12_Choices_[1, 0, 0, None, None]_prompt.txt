@@ -1,0 +1,245 @@
+Correct Examples:
+Example 1:
+Text: It is hurtful to imply that your partner was not your first choice.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to take action against people who break the law.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's ok to keep a distance to maintain a friendship.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good to keep in touch with your in-laws.
+Annotation from annotator: 3
+
+Example 5:
+Text: It’s wrong to expose young children to a lot of female partners
+Annotation from annotator: 3
+
+Example 6:
+Text: It is important to take care of yourself.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's understandable to want to have a good time at an event.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's understandable to look for your father when he's missing.
+Annotation from annotator: 3
+
+Example 9:
+Text: Sometimes people are not sure if they are doing things correctly
+Annotation from annotator: 3
+
+Example 10:
+Text: It's understandable to hide your drug addiction.
+Annotation from annotator: 3
+
+Example 11:
+Text: You shouldn't get people fired.
+Annotation from annotator: 3
+
+Example 12:
+Text: You don't have to tell a partner anything you don't want them to know.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's good to make requests on social media.
+Annotation from annotator: 2
+
+Example 14:
+Text: Students should make sure to get adequate rest every night.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to learn something that can improve your health.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's inappropriate to follow your daughter on her honeymoon.
+Annotation from annotator: 4
+
+Example 17:
+Text: You shouldn't get drunk around your kids.
+Annotation from annotator: 3
+
+Example 18:
+Text: Is okay to look out for yourself
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to tell customers what they owe when they check out at the store.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's okay to have amicable separation.
+Annotation from annotator: 3
+
+Example 21:
+Text: It is okay to walk away from a relationship that isn't working.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to confront people who are being dishonest
+Annotation from annotator: 3
+
+Example 23:
+Text: It's difficult to raise your children with a proper education.
+Annotation from annotator: 2
+
+Example 24:
+Text: It's wrong to sell people.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's wrong to judge someone based on their sexuality
+Annotation from annotator: 3
+
+Example 26:
+Text: It is wrong to deceive your loved ones
+Annotation from annotator: 3
+
+Example 27:
+Text: It's okay to cut abusive and toxic people out of your life.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's okay to splurge when you find something that you want.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's rude to add extra conditions to gifts.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's bad to abuse your children.
+Annotation from annotator: 4
+
+Imputed Examples:
+Example 1:
+Text: It is rude to show off your talents in front of everyone else.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's not okay to not take care of the important matters in your life.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's good to strive for efficiency when running a company.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's wrong to make fun of someones style choices
+Annotation from annotator: 3
+
+Example 5:
+Text: It's understood that sometimes things don't work out for the best.
+Annotation from annotator: 4
+
+Example 6:
+Text: It's good to be up and about and not be lazy.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should always go to the doctor if you're injured.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to spend time with old people because you can learn a lot from them.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's rude to tell your coworkers something that another colleague told you in confidence.
+Annotation from annotator: 3
+
+Example 10:
+Text: When mistakes are made, it's good to apologize.
+Annotation from annotator: 3
+
+Example 11:
+Text: It is good to talk to people about your problems.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's understandable to feel stress when traveling.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should know your own physical limits.
+Annotation from annotator: 3
+
+Example 14:
+Text: You shouldn't get addicted to things.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's okay to be depressed because of a death.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's good to follow your parent's advice.
+Annotation from annotator: 2
+
+Example 17:
+Text: It is normal for bloating to eventually go away.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's good to want someone to look their best.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's fun to play sports with your friends.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's encouraged you stay in contact when separated from your spouse for a long period of time
+Annotation from annotator: 4
+
+Example 21:
+Text: It's nice to worry about your parents.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's understandable if you rush when you're late to work.
+Annotation from annotator: 4
+
+Example 23:
+Text: Kissing someone on the cheek is a good way to show affection.
+Annotation from annotator: 2
+
+Example 24:
+Text: It is good to seek help if needed.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's bad to not be there emotionally for your kids.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is good to volunteer to help those in need
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to flirt.
+Annotation from annotator: 2
+
+Example 28:
+Text: It's good to be happy for your friends.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's good to refrain from doing something you know is wrong.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't do drugs or else you might die.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's wrong to snoop on people.
+Annotation from annotator:

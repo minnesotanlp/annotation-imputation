@@ -1,0 +1,126 @@
+Estimated Examples:
+Example 1:
+Text: A title bragging about getting laid plot twist about her age/consent
+Annotation from annotator: 1
+
+Example 2:
+Text: Nerd followers: I'm monitoring hashtag/mentions and sending a statsd incr call for each one.
+Annotation from annotator: 0
+
+Example 3:
+Text: What is the KKK's favorite coffee? Dark Roast
+Annotation from annotator: 2
+
+Example 4:
+Text: How many potatoes does it take to kill an Irishman? 0
+Annotation from annotator: 2
+
+Example 5:
+Text: Right I'm sleeping so good night! I hope jackson's doing ok, that bam gets to Korea safely and for all of got7 to stay healthy ✊
+Annotation from annotator: 0
+
+Example 6:
+Text: What's a black person's favorite plant? Plantation
+Annotation from annotator: 2
+
+Example 7:
+Text: Tell them hoes come here , cause it look like they forgot bout me , but the fact that they aint seen me , that should say alot bout me
+Annotation from annotator: 1
+
+Example 8:
+Text: Why do gay people hate being called Homo? Because Latin is the Devil's least favorite language.
+Annotation from annotator: 2
+
+Example 9:
+Text: Would love to name/shame but can't be bothered with inevitable @Twitter troll pile-on. He definitely shouldn't have been in bike lane though
+Annotation from annotator: 0
+
+Example 10:
+Text: ALSO I FORGOT JULIETTE BINOCHE WAS IN IT I ALMOST FUCKING SCREAMED
+Annotation from annotator: 0
+
+Example 11:
+Text: It's not fair that you have to hit rock bottom to get help when you were inches away from cloud nine
+Annotation from annotator: 0
+
+Example 12:
+Text: Can't believe Swansea have bottled this. Fucking hell.
+Annotation from annotator: 0
+
+Example 13:
+Text: Bad bitch with me got thunder thighs and her mother's eyes https://t.co/BPuGasYODB
+Annotation from annotator: 2
+
+Example 14:
+Text: I'm so excited about this. We're already doing some great things, and I can't wait until I'm able to tell you more.
+Annotation from annotator: 0
+
+Example 15:
+Text: They gave me the worst teammates in the fucking world
+Annotation from annotator: 1
+
+Example 16:
+Text: I thank God I lived to see the day CNN got brutally destroyed by shitposters.
+Annotation from annotator: 1
+
+Example 17:
+Text: Every time when I am about to completely snap and lose it, I remember countries like Iran and Saudi Arabia exist, thank god.
+Annotation from annotator: 1
+
+Example 18:
+Text: “A shithole country is what it is because its shit citizens are what they are” - Plato
+Annotation from annotator: 1
+
+Example 19:
+Text: On stage at @DALLASIFF tonight, got to bring #Robert Benton out to give award to #FayeDunaway. That likely will be highlight of my year.
+Annotation from annotator: 0
+
+Example 20:
+Text: Went To The Gym
+Seeing people's faces contort in disgust in reaction to mine made me realize I am subhuman trash and that death is my only option.
+Annotation from annotator: 0
+
+Example 21:
+Text: Of the billions of women in the world, I would bet my life that not a single one of them would find me sexually attractive
+Obviously counting out children, lesbians, etc.
+Annotation from annotator: 0
+
+Example 22:
+Text: How many babies does it take to paint a wall? Depends how hard you can throw
+Annotation from annotator: 2
+
+Example 23:
+Text: Should the Oxford dictionary change definiton of "Hypocrisy" to "HOLLYWOOD"
+Annotation from annotator: 2
+
+Example 24:
+Text: I AM SO HORNY AND ALONE AND MASTURBATING MAKES ME ANGRY CAUSE IT REMINDS ME I AM ALONE
+Annotation from annotator: 1
+
+Example 25:
+Text: Why are gorillas so pissed off all the time? Cause they know in a million years they turn into niggers.
+Annotation from annotator: 2
+
+Example 26:
+Text: #rakhi sawant nude kerala girls nude fucking pic https://t.co/84jJ130zsY
+Annotation from annotator: 0
+
+Example 27:
+Text: #YesAllWomen have been let down by men they thought wouldn't disappoint them at a crucial moment
+Annotation from annotator: 0
+
+Example 28:
+Text: Which fictional character do you relate to the most?
+Annotation from annotator: 0
+
+Example 29:
+Text: Acquaintance a conversation about gay marriage:: I'm all for it! The more gay guys there are, the less guys I have to compete with to get laid! I'm an 18 year-old gay man at a college party hosted by me and my friends. Made me feel upset and angry for the fact that I couldn't respond because I would be going against a "positive response" to my sexuality.
+Annotation from annotator: 2
+
+Example 30:
+Text: Why did the black person cross the road Segregation
+Annotation from annotator: 2
+
+Target Example:
+Text: Being an Addict for 15 Years the money I've spent has only been in the 200 hundred range because I've been blessed and fortunate for others to give me stuff I know it's not a thing to brag about just had this on my mind and wanted to share
+Annotation from annotator:

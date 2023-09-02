@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVmHvIwZaVd9fYTDgb7Kp0VUDUCJ",
+    "object": "chat.completion",
+    "created": 1686314709,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 563,
+        "completion_tokens": 123,
+        "total_tokens": 686
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n2.00% of responsive annotators labeled the text with 1\n30.00% of responsive annotators labeled the text with 2\n50.00% of responsive annotators labeled the text with 3\n18.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels of the given examples, I would predict that the soft label for the target text \"It's ok to tell someone you aren't interested in talking when you're busy at work\" would be 3 (common)."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

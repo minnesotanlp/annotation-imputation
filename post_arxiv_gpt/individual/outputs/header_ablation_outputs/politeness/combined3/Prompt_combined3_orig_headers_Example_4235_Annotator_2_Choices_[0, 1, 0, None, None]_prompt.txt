@@ -1,0 +1,149 @@
+Human-rated Examples:
+Example 1:
+Text: The tag for deletion on <url> has been on far past the requisite five days. Would you be able to delete it?
+Annotation from annotator: 16
+
+Example 2:
+Text: I am the uploader of the hubble pictures.  What do I put for the author, description, and the other information?
+Annotation from annotator: 16
+
+Example 3:
+Text: That's reason to expand the treatment to other painters, not to blank this one.  And you didn't think that there would be more articles on van Gogh paintings?
+Annotation from annotator: 9
+
+Example 4:
+Text: If you are referring to the page blanking, that has been rectified.  What other concerns do have about the content?
+Annotation from annotator: 17
+
+Example 5:
+Text: How exactly is a one-time martial arts tournament, all of whose participants are red-links, notable? Is Wikipedia to have separate articles for every martial arts tournament ever broadcast on television?
+Annotation from annotator: 13
+
+Example 6:
+Text: Thanks for improving the article.  Can you add categories also?
+Annotation from annotator: 23
+
+Example 7:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 13
+
+Example 8:
+Text: you need a copy, you say... by that you mean a translation, or one which has been reconstructed to meet en. wiki coding?
+Annotation from annotator: 14
+
+Example 9:
+Text: You created this template, but it is only used in one article. Do you intend to expand its use, or is it not required?
+Annotation from annotator: 15
+
+Example 10:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation from annotator: 10
+
+Example 11:
+Text: Let's go back to what you want to add now while I find that notice.  Which source gives what specific information you wish to add to the article right now?
+Annotation from annotator: 18
+
+Example 12:
+Text: Hey Alex... I just emailed a United Kingdom professor, intending to email a University of Kentucky professor. If he expresses interest, are you the person he should talk to?
+Annotation from annotator: 21
+
+Example 13:
+Text: I only used approved templates.  If they are not considered polite, why have them?
+Annotation from annotator: 12
+
+Example 14:
+Text: Hello Glacier109, I am contacting you because in golf they put Money not Winnings as the standard on most leaderboards used at the end of tournaments.  I am just wondering why you selected the word winnings?
+Annotation from annotator: 14
+
+Example 15:
+Text: ?????????????????
+Annotation from annotator: 8
+
+Example 16:
+Text: Sorry for the delay in responding. The problems seems to have calmed down at this point, is that correct?
+Annotation from annotator: 21
+
+Example 17:
+Text: Hi SE7 - There's some vandalism coming from your account, see <url>.  As your past history doesn't seem to fit with this, has someoen either hacked your account or a logged-in session?
+Annotation from annotator: 19
+
+Example 18:
+Text: Thank you for your answer about Illustrator.  How does Adobe Illustrator compare with InDesign?
+Annotation from annotator: 19
+
+Example 19:
+Text: I'm not sure what needs doing now, or if there are further modifications required (this is the first article I've ever nominated for GA). Is there anything you can point me in the direction of?
+Annotation from annotator: 16
+
+Example 20:
+Text: Restored history. Can check that I did it all ok?
+Annotation from annotator: 16
+
+Example 21:
+Text: Listen, the reason I put those signs in the code 'break-clear' is because the arrangement of the blocks is ''off-key'', at least when looking through IE or Mozilla. Why are you taking them off?
+Annotation from annotator: 9
+
+Example 22:
+Text: I hardly ever agree with Jimintheatl, but that block was bordering on absurd. Fast on the button much?
+Annotation from annotator: 9
+
+Example 23:
+Text: I'm trying to figure out what he did differently from any of the other editors continually arguing (for months) about the South Ossetia War. Sure, he argues passionately for his viewpoint, but hasn't everyone that was involved in that article done so, including myself?
+Annotation from annotator: 15
+
+Example 24:
+Text: Bob,  Have now actioned the above.  Are there any further railway references that you consider weak or missing?
+Annotation from annotator: 17
+
+Example 25:
+Text: Would you like to elaborate? How are you empowering me exactly?
+Annotation from annotator: 12
+
+Example 26:
+Text: You left some comments at <url>, specifically about referencing. I've added some references to the sections you outlined and was wondering if it addressed your concerns enough for you to give the article your support?
+Annotation from annotator: 18
+
+Example 27:
+Text: Thank you very much for fixing the broken references in <url> and related articles. Are you planning to fix them in <url> as well?
+Annotation from annotator: 23
+
+Example 28:
+Text: if you think "Sheffer Stroke" is less common than "Logical NAND"??
+Annotation from annotator: 15
+
+Example 29:
+Text: You removed the border issue coverage in <url>, and your explanation was that it's covered in another article. Where is it covered?
+Annotation from annotator: 12
+
+Example 30:
+Text: Hm. Am I imagining things, or does <url> seem familiar?
+Annotation from annotator: 15
+
+Estimated Examples:
+Example 1:
+Text: I notice that to the <url> and <url> pages edited '''''Gorka''''' '''Josxe9 Unda Velasco''' and changed it to simply ''Gorka''. Why?
+Annotation from annotator: 12
+
+Example 2:
+Text: That's basically what our members have said, not necessarily my opinion. Anything I miss?
+Annotation from annotator: 8
+
+Example 3:
+Text: The <url> page said that <url> will be shown on the <url> subchannels 26.5 and 26.6, and also on analog channel 48. It is also expected that The U Too will displace Me Too from analog channel 48. If that's the case, then, where do you suppose Me Too will end up? What new channel in Chicago will it be shown on?
+Annotation from annotator: 21
+
+Example 4:
+Text: You make it very hard to believe that you're acting in good faith when you rewrite the <url> article to remove all references to "liberal," but keep the phrase "conservative Independence Institute."  I see POV-pushing when that happens.  If you're so concerned about adjectives, why not edit the articles about AEI or Heritage or Americans for Tax Reform?
+Annotation from annotator: 2
+
+Example 5:
+Text: I pretty much agree with <url>, except I would like to know why you modified the see also section to be a hatnote. Doesn't <url> have specific requirements for this?
+Annotation from annotator: 7
+
+Example 6:
+Text: Certainly the work is out of copyright, and some of the neighboring volumes in the series are visible on archive.org (and I don't have trouble with other books on google generally).  I wonder if you know of any way, or could suggest any way, that I could get to see the downloaded pdf of Newcomb vol.6?
+Annotation from annotator: 22
+
+Target Example:
+Text: You said you were promoting them, but, um... they aren't listed at <url>, they still say they're FPOCs on their talk pages, etc, etc. Should we consider them featured or not?
+Annotation from annotator:

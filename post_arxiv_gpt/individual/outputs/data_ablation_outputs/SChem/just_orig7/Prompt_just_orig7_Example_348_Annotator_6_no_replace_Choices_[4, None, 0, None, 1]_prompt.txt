@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: It is responsible to look out for the children of the community.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's okay to be annoyed when someone begs you for something.
+Annotation from annotator: 4
+
+Example 3:
+Text: You should report someone who sexually harasses you to the police.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is normal for students to pass notes
+Annotation from annotator: 3
+
+Example 5:
+Text: It is bad to let addiction control your life.
+Annotation from annotator: 4
+
+Example 6:
+Text: It is good to be yourself.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's good to help yourself get over your depression.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's bad to be divorced with children.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's wrong to stalk people.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's wrong to want to hide who you really are.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's wrong to want your girlfriend to leave.
+Annotation from annotator: 3
+
+Example 12:
+Text: You shouldn't take it too personally if someone leaves you out of their plans
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't expect other people to be nasty recreational drug users like yourself.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is gross to put candy in your pocket if it might melt.
+Annotation from annotator: 4
+
+Example 15:
+Text: You should trust others to do things for you without getting nervous about it.
+Annotation from annotator: 1
+
+Example 16:
+Text: It's degrading to seek affirmation from people.
+Annotation from annotator: 3
+
+Example 17:
+Text: You shouldn't clone dinosaurs because that would just cause a lot of problems.
+Annotation from annotator: 2
+
+Example 18:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's not okay to stray from a relationship.
+Annotation from annotator: 4
+
+Example 20:
+Text: You can't expect your family members to support you if you're lazy.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should be understanding when your parents talk about their family heirlooms.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to have a best friend.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's important to give helpful feedback to someone who doesn't pass their driver's license test.
+Annotation from annotator: 2
+
+Example 24:
+Text: It's OK to be wrong.
+Annotation from annotator: 4
+
+Example 25:
+Text: You shouldn't call out your family over petty things.
+Annotation from annotator: 3
+
+Example 26:
+Text: You should shave your body hair if you're on a swim team or involved in other sports so you look nicer.
+Annotation from annotator: 2
+
+Example 27:
+Text: It's not okay to rely on technology for health.
+Annotation from annotator: 2
+
+Example 28:
+Text: It's bad to have an overly pessimistic world view.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's irresponsible to have a lot of dust in your home.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't want to be tortured.
+Annotation from annotator: 4
+
+Target Example:
+Text: You shouldn't be up and about if you're sick.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

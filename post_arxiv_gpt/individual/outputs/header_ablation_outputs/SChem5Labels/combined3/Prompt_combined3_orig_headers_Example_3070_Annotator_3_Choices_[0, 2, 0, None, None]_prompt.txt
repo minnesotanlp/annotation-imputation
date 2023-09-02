@@ -1,0 +1,245 @@
+Human-Rated Examples:
+Example 1:
+Text: It is expected that conspiracy theorists might have spouses that believe in the same things.
+Annotation from annotator: 2
+
+Example 2:
+Text: You shouldn't judge people on their looks
+Annotation from annotator: 3
+
+Example 3:
+Text: It's wrong to steal furniture from a store or a house.
+Annotation from annotator: 3
+
+Example 4:
+Text: You should get professional help if you have a dysfunctional family.
+Annotation from annotator: 2
+
+Example 5:
+Text: You shouldn't put up with a rude roommate that tells you what to do.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to care about your health.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is ok to refuse if you don't want to.
+Annotation from annotator: 3
+
+Example 8:
+Text: It is okay to want time to yourself
+Annotation from annotator: 3
+
+Example 9:
+Text: As a parent you're expected to be there to support your child.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's great to recognize your shortcomings.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should get your chores done as soon as possible so that you aren't putting them off till the last minute
+Annotation from annotator: 3
+
+Example 12:
+Text: It's expected that you follow a dress code when you're in a wedding.
+Annotation from annotator: 3
+
+Example 13:
+Text: You must call the police if you learn of an adult having a sexual relationship with a minor.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should try to get along with people even if you don't like them.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to ask why people are in a hurry so you know what is wrong.
+Annotation from annotator: 2
+
+Example 16:
+Text: You should take your child to a therapist when they have night terrors.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's nice to want a family.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to be attracted to someone physically.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's unwise to share a storage unit with others.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's good to change things if they aren't working for you.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's evil to kill people and distribute their belongings.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's wrong to want to be a 50's housewife because women back then were oppressed.
+Annotation from annotator: 2
+
+Example 23:
+Text: You shouldn't make jokes about your mom.
+Annotation from annotator: 3
+
+Example 24:
+Text: You should fine someone if they break the law.
+Annotation from annotator: 2
+
+Example 25:
+Text: It is nice to do things with your granddaughter.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's acceptable to not want to share all your reasons for the opinions you have.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't behave inappropriately with underage people.
+Annotation from annotator: 3
+
+Example 28:
+Text: It is good to reuse and repurpose items.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's wrong to give your child's partner the third degree.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't let yourself be taken advantage of.
+Annotation from annotator: 3
+
+Estimated Examples:
+Example 1:
+Text: It is normal to want to go out if you are sick.
+Annotation from annotator: 1
+
+Example 2:
+Text: It's ok to not do everything with your significant other.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's okay for family not to get along.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's wrong to damage someone else's property.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is wrong to get involved with the ex of a friend.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to understand yourself
+Annotation from annotator: 3
+
+Example 7:
+Text: It's bad to bring things that have gone bad to parties.
+Annotation from annotator: 4
+
+Example 8:
+Text: It is rude to get into other people's business
+Annotation from annotator: 2
+
+Example 9:
+Text: It is clingy to sleep at your boyfriend/girlfriend's place too much.
+Annotation from annotator: 2
+
+Example 10:
+Text: You shouldn't treat your siblings poorly.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to take turns driving.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's understandable to want other's to respect your private office space at work.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's okay that we don't always keep the same opinions that we use to have.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's wrong to do something you know is going to hurt someone.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's understandable to want to spend time with your family.
+Annotation from annotator: 3
+
+Example 16:
+Text: It is expected that a guest will follow house rules even if they are family.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's bad to insult someone without a valid reason.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's unhealthy to smoke.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's okay to be unhappy.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's acceptable to be angry when someone you care about makes poor choices.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's wrong to torture living creatures.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's bad to try to game the system.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's good to buy gifts for people.
+Annotation from annotator: 3
+
+Example 24:
+Text: It is inconsiderate to expect a friend to give you money.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's okay to criticize your significant other when they do immoral things.
+Annotation from annotator: 2
+
+Example 26:
+Text: You should respect your parents more.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's bad to try to control what other people do.
+Annotation from annotator: 3
+
+Example 28:
+Text: You shouldn't associate with alcoholics.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's good to look out for your family.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't try to break up a relationship.
+Annotation from annotator: 3
+
+Target Example:
+Text: You shouldn't destroy someone else's property.
+Annotation from annotator:

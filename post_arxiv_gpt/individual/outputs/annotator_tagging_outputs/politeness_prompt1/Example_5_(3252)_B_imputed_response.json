@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Pa0uuYHuKZjDfypwVYvTioRMwzxV",
+    "object": "chat.completion",
+    "created": 1686330992,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 714,
+        "completion_tokens": 17,
+        "total_tokens": 731
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "It is impossible to determine how annotator B might label this example without additional information."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: <url> is a validly notable topic which has been ruthlessly  suppressed at WP, probably because of egoism rather than religionist POV warriors but possibly both. Can you advise me on how to go about appealling deletions?
+Annotation from annotator: 12
+
+Example 2:
+Text: One question - how come the page is marked as "in dispute"?  The data that is currently posted isn't in dispute, correct?
+Annotation from annotator: 12
+
+Example 3:
+Text: I noticed that you did some work on this article, and would like to expand it to include his recommendation (in ''Can Life Prevail'') that the UN develop hit squads to target large urban population centers (with neutron bombs as I recall), and also the discussion on the 9/11 terrorists being "superior moral human beings" for their actions.  Understanding that this is a BLP, that NPOV is important, and that including secondary sources is nearly impossible as they are difficult (at best) to find, what is your feeling on this?
+Annotation from annotator: 20
+
+Example 4:
+Text: Take a look at the standardisation i've implemented for federal elections 1972-2004 inclusive on <url>... i'm happy with where it's at for now, but that bloody 1990 page sticks out like a sore thumb! How do you reckon I would go about forming a second concensus?
+Annotation from annotator: 12
+
+Example 5:
+Text: I think the story is worth recording, and I could add several more references.  I have to ask... are you related to Boyds, Smileys, or Souters?
+Annotation from annotator: 12
+
+Target Example:
+Text: clear about when the inverse exists.  Is there a formal theorem that would apply?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

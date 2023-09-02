@@ -1,0 +1,254 @@
+Estimated Examples:
+Example 1:
+Text: Since I'm joining the startup scene, it seems like a bad thing that I'm looking forward to season 2 of Silicon Valley. But it looks SO GOOD.
+Annotation from annotator: 0
+
+Example 2:
+Text: It's pretty funny that Georgie claims I harassed her. Never talked to her until last night, ignored the smear "article" she wrote. @sakjur
+Annotation from annotator: 0
+
+Example 3:
+Text: Daddy, why is there a girl here?
+Annotation from annotator: 1
+
+Example 4:
+Text: What sayd the black guy to his friend? Uga uga banana njam njam.
+Annotation from annotator: 2
+
+Example 5:
+Text: What's the difference between Ariana grande and a minefield Not much
+Annotation from annotator: 2
+
+Example 6:
+Text: I just shake my head every time this thread comes to the front page .
+Annotation from annotator: 0
+
+Example 7:
+Text: News that the Nusra terrorists is evacuating its large warehouses in #Khan_Shaykhun and #Sinjar and its vicinity at the same time as the heroes of the Syrian Arab Army are approaching and targeting their movements in the region
+Annotation from annotator: 1
+
+Example 8:
+Text: Whats the difference between a white bank and a black bank? Whites use Fifth Third, Blacks use Three Fifths
+Annotation from annotator: 0
+
+Example 9:
+Text: Tattoo Trends – butterflies flying away ddrawings | Latest Butterfly Tattoos on Wrist… https://t.co/ry4aZ48dMF https://t.co/9nnQaj1JEU
+Annotation from annotator: 0
+
+Example 10:
+Text: white single girl looking for a guy within the state of California ( hopfully someone near or in the city of Los Angeles ) .
+Annotation from annotator: 0
+
+Example 11:
+Text: There are no Saints on this show.......... NONE! Well me, when I'm on it but other than that, NONE! — watching Saints &amp; Sinners
+Annotation from annotator: 0
+
+Example 12:
+Text: My pastor said you guys, like, worship the darkness. Is that true?
+Annotation from annotator: 0
+
+Example 13:
+Text: It is great to hear that there's more women getting involved with #FreeBSD. :) The community is fantastic and has always been supportive.
+Annotation from annotator: 0
+
+Example 14:
+Text: What do black people and drugs have in common? They're illegal to buy and sell but they make you feel happy.
+Annotation from annotator: 2
+
+Example 15:
+Text: The work area under the bridge is on the S sidewalk &amp; must be accessed from above. Workers will keep space for bikes/peds to get by. (2/2)
+Annotation from annotator: 0
+
+Example 16:
+Text: Plus she made me late this morning cuz she took it to her room and didn't bring it back and I thought I lost it and got pissed for no reason
+Annotation from annotator: 0
+
+Example 17:
+Text: Colorblind people must be confused by Orange is the new black.
+Annotation from annotator: 0
+
+Example 18:
+Text: What's she got that stick for if she can read [that book]?
+Annotation from annotator: 0
+
+Example 19:
+Text: Does anyone have an idea for a Reddit bot that could help you in some way?
+Annotation from annotator: 0
+
+Example 20:
+Text: Why was Jesus stripped of his garments? He was going to be nailed right after
+Annotation from annotator: 2
+
+Example 21:
+Text: like ppl on there seem to fucking froth at the mouth when a chance arises to tear down an indie artist, especially women, especially lgbtq
+Annotation from annotator: 0
+
+Example 22:
+Text: It's difficult deciding to call out something as being problematic, because that gives it attention &amp; not many people know about it.
+Annotation from annotator: 0
+
+Example 23:
+Text: Free ride for 4 years without grades involved , State champ band , I know the coons hate that , White boy got ryhtm , !!!!!!!! 3.88 gpa will kick in soon .
+Annotation from annotator: 2
+
+Example 24:
+Text: ":: I have to listen to Con Funk Shun | ""Love's Train LIVE"" from the Live For Ya Ass album every morning .."
+Annotation from annotator: 0
+
+Example 25:
+Text: Hey girl! Come talk to me!
+Annotation from annotator: 1
+
+Example 26:
+Text: You know how rap has always been my phone and my car and I'm awesome and saying my name over and over again and my jewelry and my money?" And it wasn't until Eminem came along that vulnerability was brought to it? He raps about the embarrassing things about his own self instead of posturing."
+Annotation from annotator: 0
+
+Example 27:
+Text: okay but seriously though if you can't donate try talking to some of your relatives because normally someone always wants to help
+Annotation from annotator: 0
+
+Example 28:
+Text: RP #LITMPagtatapat #FPJAPBalikBilibid #MDHKasagutan It Will never change baby MCLISSE IWFIL OnStarMusic
+Annotation from annotator: 0
+
+Example 29:
+Text: You bitches wearing leggings everyday are sick. I know y'all wore the same pair 3 days in a row you can't fool me
+Annotation from annotator: 0
+
+Example 30:
+Text: I have a feeling princess Nokia gonna be on the freshmen list i see her shit on my timeline constantly
+Annotation from annotator: 0
+
+Human-rated Examples:
+Example 1:
+Text: I live in a suburban area with an old spring fed lake that always has water in it .
+Annotation from annotator: 0
+
+Example 2:
+Text: TwoX post from woman that consented to sex with an OkCupid date, most comments telling her to report as rape and press charges because he should have known she wasn't really into it despite verbal and physical consent
+Annotation from annotator: 2
+
+Example 3:
+Text: Which one of you hoes then downloaded that JailMail app....
+Annotation from annotator: 0
+
+Example 4:
+Text: What's 10 inches long, hard as a rock, filled with cum and makes the ladies scream? The sock under my bed
+Annotation from annotator: 2
+
+Example 5:
+Text: Oh man I used focus twice. Don't tweet at 4 am on your way to the airport if you want to maintain your linguistic integrity, kids.
+Annotation from annotator: 0
+
+Example 6:
+Text: Son was doing his math homework. Dad: Do you need any help?
+
+Son: Depends. Do you know anything about simplifying radicals?
+
+Dad: Well I know Muslim radicals get pretty simplified when the bomb vest goes off.
+Annotation from annotator: 2
+
+Example 7:
+Text: Glad that's over, though I can't promise that I won't reply if ever I see another dumbass comment out there about the issue
+Annotation from annotator: 0
+
+Example 8:
+Text: If I said that Rugby is more tougher and more manly than the NFL, would you agree with me?
+Annotation from annotator: 0
+
+Example 9:
+Text: What's 12 inches long and makes women scream all night? Crib death
+Annotation from annotator: 2
+
+Example 10:
+Text: Why isn’t anyone talking about the recent terror attacks? All the twelve year olds that care keep getting raped by Kevin Spacey.
+Annotation from annotator: 2
+
+Example 11:
+Text: Never lending money out AGAIN. Selfish fucking people
+Annotation from annotator: 0
+
+Example 12:
+Text: At the office. Three Jamaican men with dreadlocks are in a meeting in a conference room. The "comedian" white coworker walks by and sticks his head in:: COMEDIAN:: What are you guys, some kind of a club? ATTENDEE:: Yeah, that's it, we're a club. (everyone else rolls their eyes)
+Annotation from annotator: 0
+
+Example 13:
+Text: Hey There I just moved here to Saskatoon and was hoping to hook up with some WN in the city here .
+Annotation from annotator: 0
+
+Example 14:
+Text: Let's stop using that word in stupid, ignorant and derogatory ways. It's use implied subhuman status.
+Annotation from annotator: 0
+
+Example 15:
+Text: Plus another positive about Ending The Drug Wars crime would go down and also it would put The Drug Cartels out of business
+Annotation from annotator: 0
+
+Example 16:
+Text: > We were all once in the womb and I doubt you will find someone wishing they were aborted in the womb. We were all once sperm and I doubt you will find someone wishing they were shot into a sock. That's a faulty perspective, an appeal to emotion, and a false equivocation of a fetus to an adult person.
+Annotation from annotator: 0
+
+Example 17:
+Text: THIS IS WHAT INCELS LOOK FOR IN A WOMEN
+Can breath
+
+Born a woman 
+
+Not obese (even then some incels can settle for this)
+Annotation from annotator: 2
+
+Example 18:
+Text: How much more grievous are the consequences of anger than the causes of it. -Marcus Aurelius MAYMAY ShinesOnShowtime
+Annotation from annotator: 0
+
+Example 19:
+Text: .@trishesdishes US. Canada. UK. France. Switzerland. Germany. India. Every western nation and then some.  Men have less legal rights. Equal?
+Annotation from annotator: 1
+
+Example 20:
+Text: Niggas/bitches cheat cause mf's always think they gettin played
+Annotation from annotator: 0
+
+Example 21:
+Text: What’s the similarity between black men and christians? They visit their imaginary father once a week
+Annotation from annotator: 2
+
+Example 22:
+Text: might be an old joke but it 's still funny feminism
+Annotation from annotator: 2
+
+Example 23:
+Text: What's yellow and mows my lawn? Listen, he's my nigger I'll paint him whatever colour I like.
+Annotation from annotator: 2
+
+Example 24:
+Text: @ICBC_World214 that hoe out now
+Annotation from annotator: 0
+
+Example 25:
+Text: Look, I am certainly not a fan or advocate of node by any stretch of the imagination, but these jokes are getting old.
+Annotation from annotator: 0
+
+Example 26:
+Text: Joan Rivers died the way she lived... Undergoing surgery.
+Annotation from annotator: 2
+
+Example 27:
+Text: "i cannot stand the abbreviation ""merch"" JUST SAY MERCHANDISE OR T-SHIRTS YOU IDIOTS"
+Annotation from annotator: 0
+
+Example 28:
+Text: I have a photo shoot thing tomorrow I guess. I need to clean my apartment and dye my hair and get this dumb code done ughh UGHHHH
+Annotation from annotator: 0
+
+Example 29:
+Text: I have a goatee its clean and short but I used to have a long beard but got sick of it pretty fast
+Annotation from annotator: 0
+
+Example 30:
+Text: Actually Monkeys and Apes are more noble creatures and rarely act violent it really is unfare to the Monkeys and Apes to be compared with subhuman Negroids who are by contrast very murderous .
+Annotation from annotator: 2
+
+Target Example:
+Text: How long have you been in Canada for?
+Annotation from annotator:

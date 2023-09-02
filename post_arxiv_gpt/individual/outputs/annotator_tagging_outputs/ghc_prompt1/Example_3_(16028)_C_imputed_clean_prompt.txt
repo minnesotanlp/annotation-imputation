@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: There's a New Sheriff In Town and his name is; PRESIDENT DONALD J. TRUMP ! He was on POINT and on FIRE !  GOD BLESS PRESIDENT TRUMP ! #StopTheBias#MAGA#GabVets#GabFam
+Annotation from annotator: 0.0
+
+Example 2:
+Text: @TexasRancher45‍  
+Annotation from annotator: 0.0
+
+Example 3:
+Text: Rod Rosenstein’s wife is Clinton attorney
+Annotation from annotator: 0.0
+
+Example 4:
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Annotation from annotator: 0.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: There's a New Sheriff In Town and his name is; PRESIDENT DONALD J. TRUMP ! He was on POINT and on FIRE !  GOD BLESS PRESIDENT TRUMP ! #StopTheBias#MAGA#GabVets#GabFam
+Annotation from annotator: 0.0
+
+Example 2:
+Text: @TexasRancher45‍  
+Annotation from annotator: 0.0
+
+Example 3:
+Text: Rod Rosenstein’s wife is Clinton attorney
+Annotation from annotator: 0.0
+
+Example 4:
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Annotation from annotator: 0.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: There's a New Sheriff In Town and his name is; PRESIDENT DONALD J. TRUMP ! He was on POINT and on FIRE !  GOD BLESS PRESIDENT TRUMP ! #StopTheBias#MAGA#GabVets#GabFam
+Annotation from annotator: 0.0
+
+Example 2:
+Text: @TexasRancher45‍  
+Annotation from annotator: 0.0
+
+Example 3:
+Text: Rod Rosenstein’s wife is Clinton attorney
+Annotation from annotator: 0.0
+
+Example 4:
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Annotation from annotator: 0.0
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: Good Instapundit comment: The media needs a huge dose of humility. They assume they are smarter than us, know more than us, and know what's best for us. None of which is true. Generally they are mediocre intellects good at repeating the lines they are fed, but largely out of touch with the real lives of any Americans of any race, gender or ethnicity.  - dadvocate
+Annotation from annotator:

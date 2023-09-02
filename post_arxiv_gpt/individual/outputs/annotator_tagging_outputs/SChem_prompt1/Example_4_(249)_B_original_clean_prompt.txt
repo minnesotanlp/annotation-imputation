@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+How annotator A has labeled some examples:
+Example 1:
+Text: You should be focused on learning while at school.
+Annotation from annotator: 3.0
+
+Example 2:
+Text: It is dangerous for a doctor to misdiagnose a patient.
+Annotation from annotator: 3.0
+
+Example 3:
+Text: It's understandable if you can't keep your political leanings out of your religion lectures.
+Annotation from annotator: 3.0
+
+Example 4:
+Text: It's okay to hurt somebody who's stealing from you
+Annotation from annotator: 3.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: You shouldn't be with someone you don't love.
+Annotation from annotator: 2.0
+
+Example 2:
+Text: You can't expect someone to pay off their loans immediately.
+Annotation from annotator: 3.0
+
+Example 3:
+Text: It's good for children to be physically active.
+Annotation from annotator: 4.0
+
+Example 4:
+Text: It's understandable to want a partner to wear clothing that appeals to you.
+Annotation from annotator: 3.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: You shouldn't think ill of your family.
+Annotation from annotator: 3.0
+
+Example 2:
+Text: It is wrong to be ashamed of where you have come from.
+Annotation from annotator: 3.0
+
+Example 3:
+Text: It's good to get back at a cheating partner.
+Annotation from annotator: 2.0
+
+Example 4:
+Text: It is common for there to be conflicts with your in-laws.
+Annotation from annotator: 3.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: You shouldn't constantly think about death and dying.
+Annotation from annotator:

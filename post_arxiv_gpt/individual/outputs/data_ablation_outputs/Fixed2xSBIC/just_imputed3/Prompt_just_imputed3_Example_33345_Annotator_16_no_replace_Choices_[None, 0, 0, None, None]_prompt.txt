@@ -1,0 +1,132 @@
+Estimated Examples:
+Example 1:
+Text: what's the difference between my toilet and my uterus? i don't flush my toilet every week.
+Annotation from annotator: 1
+
+Example 2:
+Text: John Lennon was a progressive type, but his wife had a rather narrow view of the world.
+Annotation from annotator: 0
+
+Example 3:
+Text: first joke ever made by man u/N8theGr8
+Annotation from annotator: 0
+
+Example 4:
+Text: can you be quiet for a moment ? [ removed ]
+Annotation from annotator: 0
+
+Example 5:
+Text: I’ve got a Princess Diana setting on my SatNav but I think it’s broken. It keeps on saying “Put your foot down I think we can lose them.”
+Annotation from annotator: 1
+
+Example 6:
+Text: Where did little Becky go during the fire In the ash tray
+Annotation from annotator: 2
+
+Example 7:
+Text: What does the jewish pedophile say? "Wanna buy some candy?"
+Annotation from annotator: 2
+
+Example 8:
+Text: just stumbled upon a tumblr whos owner has a . sneeze kink. they get off on poeple sneezing? and being? sick? okay bro u do u
+Annotation from annotator: 0
+
+Example 9:
+Text: these niggas selling Blow Up Got the feins frustrated
+Annotation from annotator: 0
+
+Example 10:
+Text: Who are the fastest readers in the world? The people in 9/11. They went through 80 stories in a few seconds.
+Annotation from annotator: 1
+
+Example 11:
+Text: Waiting to hear Ada Limon read her wi derfil poetry. https://t.co/rBj64sJcym @ Alley Theatre https://t.co/aYlNK7WDCw
+Annotation from annotator: 0
+
+Example 12:
+Text: RT @KiraLaJasmine: Shout out to my mama cause she ain't raise no hoe
+Annotation from annotator: 2
+
+Example 13:
+Text: Did anyone see that bus crash in China? Whatever she said to the driver certainly drove him over the edge
+Annotation from annotator: 1
+
+Example 14:
+Text: They are n't a band they are a group. like a white pride group. they are pretty big , they 've been on tv quite a few times .
+Annotation from annotator: 0
+
+Example 15:
+Text: im finna be reallll selfish with myself because dont nobody deserve having my time, my love, my loyalty, NONE OF THAT!
+Annotation from annotator: 0
+
+Example 16:
+Text: I was in the library and a black man asked where the colour printer was, I replied, ‘It’s 2018 mate, you can use whatever printer you want’
+Annotation from annotator: 2
+
+Example 17:
+Text: i would never <allcaps> rape a woman children are far too fun to pass up .
+Annotation from annotator: 1
+
+Example 18:
+Text: Its about time we as a nation take matters into our own hands , over throw the government stop the white genocide deport all immigrants and establish a government to help indigenous white Britons rebuild this country .
+Annotation from annotator: 2
+
+Example 19:
+Text: Wind 6.6 mph NNW. Barometer 1029.3 hPa, Falling slowly. Temperature 15.5C, feels like 12.4C. Rain today 0.0 mm. Humidity 51%. f1.
+Annotation from annotator: 0
+
+Example 20:
+Text: guns are like coupons . show one to the cashier and get free stuff !
+Annotation from annotator: 2
+
+Example 21:
+Text: When Jewish people fart do they cry? You know, because of the gas.
+Annotation from annotator: 2
+
+Example 22:
+Text: Whats a jocks favorite type of porn? Homophobic gay porn
+Annotation from annotator: 2
+
+Example 23:
+Text: Was all ready to laugh off Jamiroquai’s return, but must say the 3 tracks I’ve heard are really, really good.
+Annotation from annotator: 0
+
+Example 24:
+Text: what did the isis <allcaps> member say as he entered the gay bar ? free shots for everybody .
+Annotation from annotator: 2
+
+Example 25:
+Text: What's small, red, and sitting in a corner? A kid that's played with a razor. 
+
+What's small, *green*, and sitting in a corner? 
+
+Same kid, one week later.
+Annotation from annotator: 1
+
+Example 26:
+Text: What's the difference between Kevin Spacey and a motorcycle? You have to be at least 16 to ride a Motorcycle.
+Annotation from annotator: 2
+
+Example 27:
+Text: Kids are scroungers. From day one it’s all me, me, me.
+Feed me 
+Clothe me
+Pay for my chemotherapy.
+Annotation from annotator: 2
+
+Example 28:
+Text: If you ain't Stevie J's bitch of course you'll call him the scum of the earth.His bitches hooked while they're upset though.
+Annotation from annotator: 1
+
+Example 29:
+Text: Anyway, things were good until he started talking about purifying her soul and a ceremony he wanted to do with her where she would be naked and he would prepare her.
+
+Annotation from annotator: 0
+
+Example 30:
+Text: Hey guys please go here to help us send the Mexicans back to Mexico .
+Annotation from annotator: 2
+
+Target Example:
+Text: MR POTTER OR WHATEVER HIS NAME IS, HE IS AN AWFUL FUCKING COUNSELOR
+Annotation from annotator:

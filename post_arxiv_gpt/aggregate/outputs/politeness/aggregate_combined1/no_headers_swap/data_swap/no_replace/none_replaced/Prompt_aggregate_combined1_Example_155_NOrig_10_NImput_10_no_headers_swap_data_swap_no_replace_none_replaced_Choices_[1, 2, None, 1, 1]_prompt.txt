@@ -1,0 +1,84 @@
+Human-Labeled Majority-voted Examples:
+Example 1:
+Text: I am assuming that I need libgtkembedmoz.so, but I don't know where to find it. What does that mean?
+Annotation: 12
+
+Example 2:
+Text: I see you created a nonsense article yesterday because you were bored. If I unblock you will you disrupt more?
+Annotation: 8
+
+Example 3:
+Text: The article <url> (written with two s) was rightly deleted as it contained almost no content (Timothy (Tim) Ferriss is the author of The 4-Hour Workweek). I think you mean the science-fiction writer <url> (written wit one s) ?
+Annotation: 13
+
+Example 4:
+Text: When someone tags articles using non-existent criteria, there's no way the articles should be deleted. The deleting admin has restored Reviewmageddon now, so it seems it's sorted out?
+Annotation: 13
+
+Example 5:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation: 7
+
+Example 6:
+Text: Your comments have been extremely helpful. I'd like to put this FAC to bed soon; is there any chance that you might be able to finish off your review of the article this weekend?
+Annotation: 16
+
+Example 7:
+Text: Pat, for someone who has died, you don't say "he is a former professional baseball player", you say "he was a professional baseball player". Okay?
+Annotation: 12
+
+Example 8:
+Text: In <url>, you removed a cartoon image of Wendy Thomas that had been used in the infobox on her article. I'm not very familiar with the NFCC policy you cite, so I was wondering if you thought that giving a rationale on the image for use in that particular article would bring it up to specs?
+Annotation: 14
+
+Example 9:
+Text: Just had a look at <url>, and oh dear god. Any interest?
+Annotation: 12
+
+Example 10:
+Text: Yeah, thank you so much. Can anyone do that or only admins?
+Annotation: 19
+Imputed Majority-voted Examples:
+Example 1:
+Text: Good work maintaining the Tibet page i seems to getting an increasing amount of traffic!!! Is our Chinese friend still persisting?
+Annotation: 12
+
+Example 2:
+Text: I noticed you put "NB" and then the credit for the original picture that I cropped. What does "NB" stand for?
+Annotation: 12
+
+Example 3:
+Text: <url> has been blanked. Is it possible to retrieve this information?
+Annotation: 12
+
+Example 4:
+Text: The template I want is the one that goes at the bottom of the article and produces a message that goes something like 'This article is a copy of the (X) article in the German wikipedia, version 21 December 2009 10:04.' What is that template?
+Annotation: 12
+
+Example 5:
+Text: Either way, administrators shouldn't be relying on counting how many categories are there for deletion, even if I accept to create the category only one day in advance. Suppose the bot fails to create the category for a day; then, you'll see only five categories and do no deletions on that day?
+Annotation: 20
+
+Example 6:
+Text: Third, what picture then should go into the Harrison Ford infobox?  Would this one (Image:Harrison Ford 1) do it?
+Annotation: 12
+
+Example 7:
+Text: Thankyou for the message. Isn't it academic convention to specify which edition one has cited and give the page numbers therefrom?
+Annotation: 15
+
+Example 8:
+Text: <url> is kindxe1 related to the subjects we have been dealing with. Would you mind if I ask you for advice?
+Annotation: 12
+
+Example 9:
+Text: Hi I saw that you make maps and plans. Could you make me some that good plans, of station?
+Annotation: 16
+
+Example 10:
+Text: What you really need to do if you want an article on 'Do Anything Nice' is to establish its notability. Can you find multiple non-trivial mentions in reliable sources that refer to it?
+Annotation: 12
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Text: What is your take on the Simpson's images problem ? Should I remove them from your user page ?
+Annotation:
+Your output should be a single integer and nothing else.

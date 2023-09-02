@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Okay. But in that case, shouldn't the meanings "of" and "from" from some languages be removed from the article as well?
+Annotation from annotator: 16
+
+Example 2:
+Text: Also, If we replace the maps with an image of a monument, then we could eliminate the architecture part. It would also make the article look colourful.Opinions?
+Annotation from annotator: 16
+
+Example 3:
+Text: I think it is important to note that Spirit 03 was the last gunship to be brought down and that it has not been involved in a Class A mishap since that date. Should we include that?
+Annotation from annotator: 21
+
+Example 4:
+Text: You said you were promoting them, but, um... they aren't listed at <url>, they still say they're FPOCs on their talk pages, etc, etc. Should we consider them featured or not?
+Annotation from annotator: 4
+
+Example 5:
+Text: Finally, I checked with articles Plastid, Mitochondria and Mitochondrial genome, and see they all use the term 'genome', and that there is no suggestion that they have 'chromosomes'. So may we at least get rid of that usage on the Chromosome article?
+Annotation from annotator: 20
+
+Example 6:
+Text: Sure, but what's the deal with fair use and cropping?  I thought the Zatanna one got removed?
+Annotation from annotator: 17
+
+Example 7:
+Text: What are they? Where did that offensive photo come from?
+Annotation from annotator: 9
+
+Example 8:
+Text: You added to the Order of Victoria and Albert page that no awards were given out after the death of Queen Victoria.  According to the <url> she became the tSovereign of the Order in 1952.  Is this just because the order was never officially scrapped ?
+Annotation from annotator: 16
+
+Example 9:
+Text: Thanks for your assistance in the review of the Brian Keith review at the DYK! The user has cited the Internet Movie Database before?
+Annotation from annotator: 22
+
+Example 10:
+Text: I posted here rather than to Jon's page because I don't want to embarrass the students; I know Jon watchlists your page and I am sure other NRG editors do too.  Anyway, what do you think?
+Annotation from annotator: 20
+
+Example 11:
+Text: I wasn't aware my statement was supposed to cause worry.  Is there something I'm missing?
+Annotation from annotator: 15
+
+Example 12:
+Text: You make it very hard to believe that you're acting in good faith when you rewrite the <url> article to remove all references to "liberal," but keep the phrase "conservative Independence Institute."  I see POV-pushing when that happens.  If you're so concerned about adjectives, why not edit the articles about AEI or Heritage or Americans for Tax Reform?
+Annotation from annotator: 0
+
+Example 13:
+Text: - This IP has been doing the same to me. There seems to be a remarkable similarity with <url>, could this be a case of sockpuppeting?
+Annotation from annotator: 19
+
+Example 14:
+Text: Hi, thanks for letting me know about my signature not being linked. I tried to save the settings in preferences - did it work?
+Annotation from annotator: 18
+
+Example 15:
+Text: Ron - I'm interested in your edit comment here <url>. Your position is that RC is a sufficiently reliable source that anything it mentions is automatically notable?
+Annotation from annotator: 17
+
+Example 16:
+Text: The history section appears to be copied and pasted directly from somewhere. Is this a copyvio issue?
+Annotation from annotator: 9
+
+Example 17:
+Text: I am puzzled that you just deleted the file 'harry potter stamps'. This file seems to have existed for two years without deletion, so perhaps you could explain the grounds for speedy deletion?
+Annotation from annotator: 16
+
+Example 18:
+Text: What are the numbers <url>? Are they population figures?
+Annotation from annotator: 16
+
+Example 19:
+Text: Anyway, if you feel that strongly about it we should at least add a summary. Whats you think?
+Annotation from annotator: 8
+
+Example 20:
+Text: Hey,saw you had a page in the works in your sandbox. Are you planning to move it to mainspace soon?
+Annotation from annotator: 14
+
+Example 21:
+Text: Notwithstanding the caption, my understanding is that because of the time since the first publication of the photo, the copyright has expired and Iu2019m free scan the figure and upload the image to Wikipedia. Is this correct?
+Annotation from annotator: 19
+
+Example 22:
+Text: Can I use a manga image colored by myself? There won't be any problems with the lisense, right?
+Annotation from annotator: 16
+
+Example 23:
+Text: <url>. Can you tell me if this date is for the arcade or Wii version?
+Annotation from annotator: 13
+
+Example 24:
+Text: I noticed your warning on <url>, this guy has been vandalizing another old cartoon article as well, how can we put a stop to this? Is there a way to tag the IPs (there are 2) so a mod will stop them?
+Annotation from annotator: 18
+
+Example 25:
+Text: Among the measures you described, it sounds as if the next thing to try is option-command-start and rebuild the desktop. Does rebuilding the desktop mean I'd get a blank and have to restore all the icons?
+Annotation from annotator: 16
+
+Example 26:
+Text: Thanks for the heads up. He doesn't know any english?
+Annotation from annotator: 10
+
+Example 27:
+Text: He Colfer, just to let you know I changed the headings in name (I think we should avoid making diaries, but order based on activities), but kept (hopefully) the spirit of your changes in tact. How does it look to you?
+Annotation from annotator: 20
+
+Example 28:
+Text: ...for reverting '''Image:Wpixcw11-1.jpg''' back from the previous incorrect logo uploaded by <url>.  I had tried, but how did you do it?
+Annotation from annotator: 16
+
+Example 29:
+Text: Thanks for the tip.  How come I sometimes come across pages where the trailing 's' is left off (or am I confusing that with the 's situation)?
+Annotation from annotator: 15
+
+Example 30:
+Text: I notice that to the <url> and <url> pages edited '''''Gorka''''' '''Josxe9 Unda Velasco''' and changed it to simply ''Gorka''. Why?
+Annotation from annotator: 2
+
+Target Example:
+Text: <url>  Honestly, I'd like to know if you really are defending <url>.  Do you really believe that they were justified?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

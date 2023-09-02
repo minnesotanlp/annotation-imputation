@@ -1,0 +1,222 @@
+Here's a description of a dataset:
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 49 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: It's not okay to think someone is lying to you when it's important.
+ANSWER: 3
+
+2.
+EXAMPLE: People are expected to want to be close to their family.
+ANSWER: 3
+
+3.
+EXAMPLE: You shouldn't expect your ex to not have sex after the relationship is over.
+ANSWER: 3
+
+4.
+EXAMPLE: You shouldn't try to get sympathy from people just because you're in the hospital.
+ANSWER: 3
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+2.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 4
+
+3.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+4.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+5.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+6.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+7.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+8.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+9.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+10.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+11.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+12.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+13.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+14.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+15.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+16.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+17.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+18.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+19.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+20.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+21.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+22.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+23.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+24.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+25.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+26.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+27.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+28.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+29.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+30.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+31.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+32.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+33.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+34.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 4
+
+35.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+36.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+37.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+38.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 4
+
+39.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+40.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 4
+
+41.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+42.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+43.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+44.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+45.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+46.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+47.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 3
+
+48.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 4
+
+49.
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER: 2
+
+How would the particular annotator annotate the target example?
+EXAMPLE: You're supposed to date for love and not looks.
+ANSWER:

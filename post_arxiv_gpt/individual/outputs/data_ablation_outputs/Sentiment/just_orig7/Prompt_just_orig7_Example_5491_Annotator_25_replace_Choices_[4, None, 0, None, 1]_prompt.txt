@@ -1,0 +1,83 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: @ChrisMiller38 well i just think you a bit too old for me  lol thats all.
+Annotation from annotator: 1
+
+Example 2:
+Text: @FL_Studio a cleaner look... and remove the old "pattern playlist". And only have the "track/song playlist"... And new plugins
+Annotation from annotator: 3
+
+Example 3:
+Text: @JEFFHARDYBRAND legend Jeff! What you reckon to Kat (ECW), old UK mate from York! Olden days
+Annotation from annotator: 3
+
+Example 4:
+Text: @Jozz_WildChild yey!!! I miss my old cat!!  won't be able to have one for at least another two years, gutted!
+Annotation from annotator: 1
+
+Example 5:
+Text: @MerlottesBar okay..it's 'the old' then   driving when you can't see over the steering wheel, swerving down the road....
+Annotation from annotator: 1
+
+Example 6:
+Text: @Michela_Fleury I'm getting old! I'm not hip anymore  haha
+Annotation from annotator: 3
+
+Example 7:
+Text: @SVP_CO_UK  only 1 delivery option for making 7 total for 1p kite? I miss the old SVP
+Annotation from annotator: 1
+
+Example 8:
+Text: @SingleSyllable You can win a hamper of Body thrill products  by entering a little old short story competition running on my blog
+Annotation from annotator: 4
+
+Example 9:
+Text: @TheEngTeacher young man... love it. Feeling ancient at the moment. Good night
+Annotation from annotator: 1
+
+Example 10:
+Text: @TheIrishGuy thanks for #ff sorry 4got i'm old
+Annotation from annotator: 1
+
+Example 11:
+Text: @demios101 she won't let me T_T it's really old and pilly
+Annotation from annotator: 1
+
+Example 12:
+Text: @drop_d Thanks Daniel.  That's my Nabi. She's a deaf white cat, and I got her as an orphan when she was 6 days old.
+Annotation from annotator: 3
+
+Example 13:
+Text: @eyrae the one by my house or old town? And what do you mean WE?!!!
+Annotation from annotator: 2
+
+Example 14:
+Text: @isaacboy aw man that sucks, apparently its worse when you get older!  X
+Annotation from annotator: 1
+
+Example 15:
+Text: @jaxn You gotta hit the 0day sites for hours old warez content. I used to run a warez ftp site when I was 17.
+Annotation from annotator: 1
+
+Example 16:
+Text: @jordanknight P.S. our 2 yr. old son is the same way, he dances to EVERYTHING. Maybe we have the start of ABDC of 2029!
+Annotation from annotator: 4
+
+Example 17:
+Text: @jorjafoxonline well i spose she IS getting older...but....all through csi she had straight hair...im kinda used to it
+Annotation from annotator: 1
+
+Example 18:
+Text: @kimgoss i been saying that the past 2 weeks that i miss playing spades and drinkin chillin.. the good old days.. let me know baby
+Annotation from annotator: 1
+
+Example 19:
+Text: @lessig happy birthday old man  have a beautiful day.
+Annotation from annotator: 4
+
+Target Example:
+Text: @tommcfly @gfalcone601 awh its like the older kids are meeting the new baby for the first time! Definitely a big day in ur house today
+Annotation from annotator:
+Your output should be a single integer and nothing else.

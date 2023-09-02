@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: You shouldn't always respond to people online especially if you have nothing nice to say.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's allowed to be sad about tragedies that occur to other people.
+Annotation from annotator: 4
+
+Example 3:
+Text: You should be respectful and accepting when someone says they would like a certain flavor of food for a new product.
+Annotation from annotator: 2
+
+Example 4:
+Text: You shouldn't go on lavish trips unless you've saved up enough money beforehand.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's good to help people find true love.
+Annotation from annotator: 2
+
+Example 6:
+Text: It is good to be together as a family.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should say thank you when someone sends you a greeting card.
+Annotation from annotator: 2
+
+Example 8:
+Text: You should always see what you did wrong.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to practice art.
+Annotation from annotator: 2
+
+Example 10:
+Text: You should talk to your friend if you want to trade your partner with theirs.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's good to take care of a busted light bulb before you sit down to eat.
+Annotation from annotator: 1
+
+Example 12:
+Text: It's wrong to do something bad to someone just because they did something bad to you.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is good for couples to communicate their problems and move on when there is tension after a fight.
+Annotation from annotator: 2
+
+Example 14:
+Text: It's natural for people to not take playing video games very seriously.
+Annotation from annotator: 4
+
+Example 15:
+Text: If you think you can do something better, you should do it.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's expected you get into a fight if you're being racist around people
+Annotation from annotator: 3
+
+Example 17:
+Text: It's ok to be loving year-round.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's wrong to lie about your age.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to avoid disturbing animals in the wild.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's okay to be surprised when you find out a loved one is addicted to drugs.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's okay to want to spend holidays with the people who are important to you.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's good to spend time with family
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't chew people out.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't let friends stay over at your place unexpectedly.
+Annotation from annotator: 2
+
+Example 25:
+Text: It is okay if you are not popular.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's important to use what you got.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to help yourself out.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's understandable to want to spend holidays with family.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't be up and about if you're sick.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's good to be kind.
+Annotation from annotator: 3
+
+Human-Rated Examples:
+Example 1:
+Text: It is unacceptable to refuse to honor your best friend at their own wedding.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's okay to be angry and file a complaint against a supervisor making sexual advances towards you.
+Annotation from annotator: 4
+
+Example 3:
+Text: It is good to find ways to make more money if you are short.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is okay to want time to yourself
+Annotation from annotator: 3
+
+Example 5:
+Text: If you can't get over your partner's sexual history, it's okay to end the relationship.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to know when something in your life isn't helping you the way you want it.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's wrong to be romantically interested in your parent's friends.
+Annotation from annotator: 2
+
+Example 8:
+Text: You shouldn't hold onto the past if it interferes with your family life.
+Annotation from annotator: 3
+
+Example 9:
+Text: Family members are expected to be supportive of each other.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's okay to choose sides.
+Annotation from annotator: 2
+
+Example 11:
+Text: If you do not want to hang out with someone, it's okay to exclude them.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's understandable that it's sometimes hard to follow the examples set by others.
+Annotation from annotator: 4
+
+Example 13:
+Text: It can make people self conscious to tell them they're eating too much.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's wise to grown one's own food.
+Annotation from annotator: 2
+
+Example 15:
+Text: You shouldn't feel obligated to play host for your partner's ex.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to tell somebody who they can be friends with
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to be frustrated when you forget to turn your clocks back for daylight savings.
+Annotation from annotator: 4
+
+Example 18:
+Text: You shouldn't become overly friendly with a friend's partner.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's okay to be sad when someone breaks up with you based on your past relationships.
+Annotation from annotator: 4
+
+Example 20:
+Text: It is expected that roommates will remain civil throughout their lease.
+Annotation from annotator: 3
+
+Example 21:
+Text: You are expected to be yourself.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's understood that some people don't do everything perfectly.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's good to be happy.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's good to get help from your friends.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's good to have a cultural identity.
+Annotation from annotator: 3
+
+Example 26:
+Text: You can't expect someone to pay off their loans immediately.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good for families to do things that bring them together.
+Annotation from annotator: 4
+
+Example 28:
+Text: It is bad to keep secrets.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's okay to reminisce on good memories.
+Annotation from annotator: 4
+
+Example 30:
+Text: It is disrespectful to curse at others.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's bad to hurt yourself when you're angry.
+Annotation from annotator:

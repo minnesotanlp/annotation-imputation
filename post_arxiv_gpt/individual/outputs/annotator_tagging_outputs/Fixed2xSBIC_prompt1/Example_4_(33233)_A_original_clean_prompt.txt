@@ -1,0 +1,58 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: heil sisters and brothers lit see if this makes it I do n't care about looks I 'm a happy puppy if you are WHITE PRIDE thin you are right. if you are skin or kkkk or A.N or what ever you are We are family in this war for are gods and race stand tall and be proud to be a ARYAN 88 Goldenboy 88
+Annotation from annotator: 2
+
+Example 2:
+Text: Clay's mom is annoying and Hannah's Dad is an asshole
+Annotation from annotator: 0
+
+Example 3:
+Text: Here is a synosis I just found on google : There is much more to this as I hope to show when my package arrives .
+Annotation from annotator: 0
+
+Example 4:
+Text: As if both our brothers have been excluded this week for being idiots &#128514;&#128514;@ellieglover_
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: If you listen to Nick Cave's voice, you can tell he doesn't like going up high. Too bad he didn't pass that on to his son.
+Annotation from annotator: 0
+
+Example 2:
+Text: What's the first thing you take care of after a car crash? The witnesses
+Annotation from annotator: 2
+
+Example 3:
+Text: What do you do when you see your refrigerator floating in the middle of the night? Nothing cause you know it's a big ass nigger
+Annotation from annotator: 2
+
+Example 4:
+Text: Roman beating Undertaker is one thing but that was his fucking retirement match!
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Inceldom has made me a theist
+At this point I'm 100% unironically convinced god just enjoys fucking with me
+Annotation from annotator: 2
+
+Example 2:
+Text: After seeing an unwanted dick pic when trying to @ reply someone, I understand even more Don't do that shit guys. Probably wasn't even his
+Annotation from annotator: 2
+
+Example 3:
+Text: Pretend assholes callin the women bitches when they know they love em lol..
+Annotation from annotator: 2
+
+Example 4:
+Text: Your manager calls you into the office and you get fired. You leave the office and everyone on the floor is clapping What do you do? &#128514;&#128555;&#129315;
+Annotation from annotator: 0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: a nigger walks into a bar with a parrot on his shoulder . bartender asks " nice ! where did you get it from ? " parrot replies " from africa " .
+Annotation from annotator:

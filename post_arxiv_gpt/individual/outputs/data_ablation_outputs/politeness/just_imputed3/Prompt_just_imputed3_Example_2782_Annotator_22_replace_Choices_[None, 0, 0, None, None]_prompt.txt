@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: Oh that's charming, so instead of making a personal attack on a single editor you made it on a class of editors. Does that somehow make it more ok?
+Annotation from annotator: 6
+
+Example 2:
+Text: Please sign comments using four tildes, as I'm not sure who you are...? Which article are you speaking about?
+Annotation from annotator: 15
+
+Example 3:
+Text: I've been called a British unionist, Devolutionist & Irish Nationalist, over the years. Not bad, eh?
+Annotation from annotator: 11
+
+Example 4:
+Text: But if there is no evidence that it has been downgraded, shouldn't it be kept as a Cat. 2?
+Annotation from annotator: 19
+
+Example 5:
+Text: OK, I retract this completely: the IP hopper in question should...well, I'm biting my tongue. Have you reported them for vandalism, with their half a dozen IP addresses?
+Annotation from annotator: 14
+
+Example 6:
+Text: CW, you are aware that Lebanon isn't Hezbollah, right? In the same way that Ireland isn't the IRA?
+Annotation from annotator: 7
+
+Example 7:
+Text: Just noticed that the "time" field is eliminated from the collapsable boxes. Could you make this something that is displayed when the box is expanded?
+Annotation from annotator: 15
+
+Example 8:
+Text: Is it really a hoax?  While I don't doubt it in the least, could you provide other AfD voters with the evidence that led you to this conclusion?
+Annotation from annotator: 15
+
+Example 9:
+Text: Alright, I don't like it but is not worth wasting more time on, but (as you now noticed as well) if it ''really'' had been deleted for <url>, it would have been truly problematic. Can I just ask: ''if'' Mephistophelian would return, are we allowed to undelete it?
+Annotation from annotator: 15
+
+Example 10:
+Text: O RLY? And what does it do there?
+Annotation from annotator: 0
+
+Example 11:
+Text: A long time ago, you deleted this article. How can I see the content previously in the discussion page?
+Annotation from annotator: 20
+
+Example 12:
+Text: Other than that I think the artical is ready to go. What say you?
+Annotation from annotator: 23
+
+Example 13:
+Text: My edit on <url> was written by me, not copied from a forum. Out of curiousity, which forum copied my post on Wikipedia?
+Annotation from annotator: 14
+
+Example 14:
+Text: Figures as much. What's wrong with it?
+Annotation from annotator: 15
+
+Example 15:
+Text: |style="vertical-align: top; border-top: 1px solid gray;" | For creating an article on a relatively obscure bridge with interesting information that remains in the current article, which has become the focus of the world for all the wrong reasons, I hereby award you this oddball barnstar. Who knew all this could happen?
+Annotation from annotator: 6
+
+Example 16:
+Text: thank you very much for your patience and for listening. how do you think is the best way to resolve these issues?
+Annotation from annotator: 24
+
+Example 17:
+Text: As a rough look over, the splits look ok to me (although yes, more discussion before forking is generally a good thing). If you think there are serious problems with them, why not just address it on the talk page?
+Annotation from annotator: 19
+
+Example 18:
+Text: I don't play club anymore (I stopped this year), I have just been too busy this year, but I will probably start again soon-ish. Where abouts do you play?
+Annotation from annotator: 24
+
+Example 19:
+Text: Indeed. I trust you have already watchlisted this editor?
+Annotation from annotator: 24
+
+Example 20:
+Text: Can I ask: was this really the implication that you intended in making this change?  And do you really think the RfC expressed consensus support for such a position?
+Annotation from annotator: 8
+
+Example 21:
+Text: Are you calling me a vandal for visiting your user page?  Or am I just <url>?
+Annotation from annotator: 15
+
+Example 22:
+Text: No worries - the only thing I see holding up promotion is whether the ejectionsite website qualifies as a <url> or not. Can you tell me if the author's work has been cited elsewhere (like in books) or he is considered to be an expert in the field?
+Annotation from annotator: 18
+
+Example 23:
+Text: Just asking one quick question since it'll probably be asked at RfA. Do you know the difference between a block and a ban?
+Annotation from annotator: 15
+
+Example 24:
+Text: Yes, I posted a link to the history. I was asking/thinking where you stepped into the discussion and if you were editing as an IP and that would put a different slant on your 3rr warning to Bbb23?, have you been recently editing the article was the simple question?
+Annotation from annotator: 16
+
+Example 25:
+Text: Further, one may ask why there is no proto-tumour-suppressor. Could it be because tumour-suppressors were discovered later, when mechanisms were better understood?
+Annotation from annotator: 19
+
+Example 26:
+Text: Most of the editors who would care about the deletion of KiK's threads are the ones who would agree with him, so it's pointless to warn them.  Hell ... come to think of it, hasn't KiK been all over their talk pages, with them high-fiving each other?
+Annotation from annotator: 2
+
+Example 27:
+Text: Cool, Thanks, do you want to add it to their list? or can I?
+Annotation from annotator: 24
+
+Example 28:
+Text: I thought this problem (non-Latin characters being changed to ??????? when people edit in certain browsers) had been fixed, but maybe there are browsers out there that don't support Unicode even with the fix?
+Annotation from annotator: 20
+
+Example 29:
+Text: I thought that, when some informations are mentioned about in ''desperate housewives'', it is a reliable source? So, in your way of thinking, Susan Mayer maiden name is not Bremmer or something like that?
+Annotation from annotator: 12
+
+Example 30:
+Text: I'm sorry, but I don't have time at the moment - my dissertation is calling my name. Have you tried any of the other <url>?
+Annotation from annotator: 16
+
+Target Example:
+Text: Leon Liebgold played a rabbi. Was he a rabbi?
+Annotation from annotator:

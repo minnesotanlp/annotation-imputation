@@ -1,0 +1,256 @@
+Estimated Examples:
+Example 1:
+Text: So I raped a girl a few months back, and now I have AIDS. Where the fuck does a 7 year old get AIDS.
+Annotation from annotator: 2
+
+Example 2:
+Text: cancer . <repeat> cheaper then weight watchers
+Annotation from annotator: 2
+
+Example 3:
+Text: What was Kavanaugh's biggest mistake? Not giving Christine Ford her 5 dollars.
+Annotation from annotator: 2
+
+Example 4:
+Text: Why are gays and Anne Frank related They both went to a camp
+Annotation from annotator: 2
+
+Example 5:
+Text: "Is that an albino Mexican?"
+"No dad, he's Asian."
+Annotation from annotator: 2
+
+Example 6:
+Text: Twitter has found that nearly 37,000 automated “bot” accounts with Russian links generated 1.4 million tweets that were seen by a potential 288 million people in the three months before the November 8, 2016 presidential election, according to a source familiar with its planned testimony.
+Annotation from annotator: 0
+
+Example 7:
+Text: RT @why13reason: this fucked me up &#128557;&#128557; https://t.co/xWvJM5jF4W
+Annotation from annotator: 0
+
+Example 8:
+Text: I help run a small group to help wrongly imprisoned boys in Africa, AMA.
+Annotation from annotator: 0
+
+Example 9:
+Text: Roy Moore 	Republican 	205,763 	52.3%
+Doug Jones 	Democrat 	182,224 	46.3
+Total Write-Ins 	— 	5,240 	1.3
+Annotation from annotator: 0
+
+Example 10:
+Text: What's the differences between St Jude's and My Basement? Cancer and AIDS are two different things.
+Annotation from annotator: 2
+
+Example 11:
+Text: What's the best thing about twenty four year olds? Twenty of them.
+Annotation from annotator: 1
+
+Example 12:
+Text: What’s the difference between a dollar and a Jew I’d be disappointed to lose 6 million dollars
+Annotation from annotator: 2
+
+Example 13:
+Text: what ’s black and screams ? stevie wonder answering the iron .
+Annotation from annotator: 1
+
+Example 14:
+Text: well hey as a skinhead of the holy war myself you have no need to start a gruop just join up with the out law church of the creator. : attack
+Annotation from annotator: 1
+
+Example 15:
+Text: New sub opposed to hate subs lists mensrights, theredpill and Kotakuinaction as hate subs...because straw-men.
+Annotation from annotator: 0
+
+Example 16:
+Text: More light grey than dark, but impressive for r/jokes
+Annotation from annotator: 0
+
+Example 17:
+Text: What did the jew say when he got on a bus? More gas (this joke works way better in finnish)
+Annotation from annotator: 2
+
+Example 18:
+Text: what 's another name for a white slave ? whipped cream .
+Annotation from annotator: 1
+
+Example 19:
+Text: If these hoes ain't lying about being fat they hiding a backpage profile some where...
+Annotation from annotator: 2
+
+Example 20:
+Text: So I was raping this 9 year old the other day and she gave me aids, so I realized man my sister has been hanging around with the wrong crowd
+Annotation from annotator: 2
+
+Example 21:
+Text: The other day I asked to a girl if she wanted to play the "rape game", she said no. And I said "That's the spirit!"
+Annotation from annotator: 2
+
+Example 22:
+Text: "Buhari spent our tax payers money on his ""personal"" health, yet he has the gut to say he cannot disclose how he spent our money. BIG INSULT"
+Annotation from annotator: 1
+
+Example 23:
+Text: &#8220;@jjusmaxx: Thot bitches wanna be wined &amp; dined like a wife but don't know how to earn it &#128564;&#8221;
+Annotation from annotator: 1
+
+Example 24:
+Text: What’s the best way to fund projects while also distracting the masses? SpaceX, the landing was fake.
+Annotation from annotator: 0
+
+Example 25:
+Text: I heard Avicii has died... Wake me up when its all over.
+Annotation from annotator: 1
+
+Example 26:
+Text: Sex with me is like a race. Who will cum first?
+
+Me or the police?
+Annotation from annotator: 2
+
+Example 27:
+Text: i have been talking about it for years. the filthy muslims putting their sight on africa. in some ways they are worst then blacks .
+Annotation from annotator: 2
+
+Example 28:
+Text: REMINDER: When Taylor Swift sings: “He's so tall, and handsome as hell / He's so bad but he does it so well” she means she loves her balding Indian manlet boyfriend for his PERSONALITY
+Annotation from annotator: 0
+
+Example 29:
+Text: I get why people bitch about "work not being done on the wall", but it is actually pretty remarkable by government standards to release multiple solicitations and review proposals for a multi-billion dollar program in 5 months.
+Annotation from annotator: 0
+
+Example 30:
+Text: I had a vasectomy so my wife wouldn't get pregnant, but apparently all it does is change the colour of your baby.
+Annotation from annotator: 1
+
+Human-rated Examples:
+Example 1:
+Text: THEY JUST SAID IT AGAIN. I am dying.
+Annotation from annotator: 0
+
+Example 2:
+Text: I smoked so much once my lungs decided to imitate the twin towers on 9/11 Except only one collapsed and people actually cared
+Annotation from annotator: 2
+
+Example 3:
+Text: Dear @espn: Please gag the Commisioner. Has he ever watched a game? Just admitted he'd never been to St. Louis? Walk him out. @NiseiLounge
+Annotation from annotator: 0
+
+Example 4:
+Text: why was Obama president for 8 years? Black people get longer sentences
+Annotation from annotator: 2
+
+Example 5:
+Text: @mel0_yell0w ain't that a bitch.
+Annotation from annotator: 2
+
+Example 6:
+Text: What's the difference between boomerangs and black dads? The boomerangs actually come back.
+Annotation from annotator: 2
+
+Example 7:
+Text: Reminder: Technology evolves at an exponential rate so hang in there incels, realistic VR waifus and AI are coming.
+Annotation from annotator: 0
+
+Example 8:
+Text: Why are black men good at basketball? The whole point is to run, shoot and steal. Oh and their knee grows.
+Annotation from annotator: 2
+
+Example 9:
+Text: Poor Guy On Suicide Watch About to Get Divorce Raped, The Future of Beta Cucks
+Annotation from annotator: 0
+
+Example 10:
+Text: Comparison w/ the anime/manga and other films is inevitable. The hero's journey back from product to person is worth a look.
+Annotation from annotator: 0
+
+Example 11:
+Text: I failed my biology test today. The teacher asked me 'What do you find in cells most often?'
+
+Apparently 'Black people' isnt an answer!
+Annotation from annotator: 2
+
+Example 12:
+Text: I miss my ex wife Now i have fallen deep deep into depression and am tieing a noose as you read
+Annotation from annotator: 0
+
+Example 13:
+Text: Thanks for the super effective advertising for the need for #ggautoblocker, I guess.
+Annotation from annotator: 0
+
+Example 14:
+Text: How do you stop a baby from crawling in circles? You nail its other hand to the floor.
+Annotation from annotator: 2
+
+Example 15:
+Text: The Music I Will Only Be Posting Is As Follow Rock,Metal,Country,Bluegrass, And Some Gospel Plus I Do Enjoy Hick Hop But The Only Hick Hop Artist I Enjoy Is Ryan Upchurch
+Annotation from annotator: 0
+
+Example 16:
+Text: """It's your responsibility to report on what the Labour Party are saying!"" Yeah, that's one of the fucking problems Jeremy!"
+Annotation from annotator: 0
+
+Example 17:
+Text: why do homeless people sleep with newspapers ? because your mother is dead .
+Annotation from annotator: 2
+
+Example 18:
+Text: I wonder if one of the victims opened the door to their apartment for some reason .
+Annotation from annotator: 0
+
+Example 19:
+Text: i love this web site cause i can be free to do what i want on other socal sites i feel the squeeze its like a police state
+Annotation from annotator: 0
+
+Example 20:
+Text: Pissed tf off nd irritated x100, Lord please watch over me so I don't do anything stupid because I swear the devil is tryin me nd I cant.&#128591;&#128591;
+Annotation from annotator: 0
+
+Example 21:
+Text: This is precisely the frustration that brings any White person round to white nationalism , so obviously you are in exactly the right place .
+Annotation from annotator: 0
+
+Example 22:
+Text: Incels get fucked in the ass
+Time to start pitching for the other team tbh
+Annotation from annotator: 2
+
+Example 23:
+Text: Makeup save you hoes
+Annotation from annotator: 0
+
+Example 24:
+Text: @sramirez07943 you're failing at that and you don't know where I live faggot
+Annotation from annotator: 2
+
+Example 25:
+Text: I am offended by the grammar. :|  @Laralyn
+Annotation from annotator: 0
+
+Example 26:
+Text: What was Hitler’s favorite Yu-Gi-Oh Card? Blue eyes white dragon
+Annotation from annotator: 2
+
+Example 27:
+Text: What is the hardest part of a vegetable to eat? (Read first no ban :() The root.
+Annotation from annotator: 0
+
+Example 28:
+Text: I think my dad is dyslexic. Whenever he wants to say "Son I love you".
+
+He blurts out "You are a fucking disappointment."
+Annotation from annotator: 2
+
+Example 29:
+Text: What does a Syrian chef like to cook? Grenades.
+Annotation from annotator: 2
+
+Example 30:
+Text: Need link to story
+I'm attempting to find the article about the two women who raped the 4 boys and didn't serve any jail time...Google and Bing seem to just not have this story at all can someone send it 2 me please?
+Annotation from annotator: 0
+
+Target Example:
+Text: All the bitches in Shameless are straight bugoutsss
+Annotation from annotator:

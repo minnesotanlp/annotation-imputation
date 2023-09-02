@@ -1,0 +1,124 @@
+Example 1:
+Text: "I really hate when people try to tell me to not talk about my dad in a certain way because he's ""still my dad""..."
+Annotation from annotator: 0
+
+Example 2:
+Text: You people make a lot of those, don't you?
+Annotation from annotator: 0
+
+Example 3:
+Text: What do you call a dead man walking? TotalBiscuit
+Annotation from annotator: 1
+
+Example 4:
+Text: last 24 hours have been great insight into who has paid any attention at all to the last six years in Syria ✌&#127997;
+Annotation from annotator: 0
+
+Example 5:
+Text: dr seuss cheated on his cancer stricken wife causing her to commit suicide then quickly married the mistress . one bitch , two bitch , dead bitch , new bitch
+Annotation from annotator: 1
+
+Example 6:
+Text: I could never be happy with a woman who has had a boyfriend in the past
+Annotation from annotator: 0
+
+Example 7:
+Text: "realDonaldTrump: The failing nytimes finally gets it - ""In places where no insurance company offers plans, there will be no way for ObamaCa…"
+Annotation from annotator: 1
+
+Example 8:
+Text: Off the grid is double speak for not being inserted into the political indoctrination assembly lines that are today 's schools .
+Annotation from annotator: 0
+
+Example 9:
+Text: Please quote me where I 've implied or have said that .
+Annotation from annotator: 0
+
+Example 10:
+Text: fuck rick and morty im sick of that bullshit #Toonami
+Annotation from annotator: 1
+
+Example 11:
+Text: my 19 yo incel AMA
+yeah just ask me anything
+Annotation from annotator: 0
+
+Example 12:
+Text: &#8220;@TryHardSilva: Quote this with a weezy verse&#8221; you're like a bitch with no ass you aint got shit
+Annotation from annotator: 0
+
+Example 13:
+Text: Had to turn the Banging latino music down, it was upsetting my cats-past their bed time.
+Annotation from annotator: 0
+
+Example 14:
+Text: Why did the radicalised Muslim go to the airport and blow himself up? He wanted to go everywhere.
+Annotation from annotator: 2
+
+Example 15:
+Text: i bought my mother in law a chair for her <number> h birthday . <repeat> . <repeat> ut the wife wo n't let me plug it in .
+Annotation from annotator: 2
+
+Example 16:
+Text: tfw heightcel teethcel personalitycel facecel clothingcel shoecel cardiocel moisturecel soontobebaldcel fapcel
+Feelsbadman
+Annotation from annotator: 0
+
+Example 17:
+Text: I know lyme fucks with not just your body but your head and emotions. But damn some if these lymies are just crazy.
+Annotation from annotator: 0
+
+Example 18:
+Text: Ball is life? No bitch bench is life &#128075;
+Annotation from annotator: 0
+
+Example 19:
+Text: I praise God for healing our Millie @inspirationalbl from cancer and saving her for ministry with us here!!! #GodsPrayerRoom
+Annotation from annotator: 0
+
+Example 20:
+Text: How do you stop a baby from drowning? Take your foot off it's head
+Annotation from annotator: 2
+
+Example 21:
+Text: *puts people/bitch face on*
+Annotation from annotator: 0
+
+Example 22:
+Text: Glad to see @twitter has gone from Sponsored Tweets to full-on native advertising. And by glad I mean nauseous.
+Annotation from annotator: 0
+
+Example 23:
+Text: When Jewish people fart do they cry? You know, because of the gas.
+Annotation from annotator: 2
+
+Example 24:
+Text: My daughter said, 'Mom, I hate Mexicans!' I told her you can't judge all Mexicans because of one but, you can say they are all short.
+Annotation from annotator: 2
+
+Example 25:
+Text: Really sorry for not replying to tweets; I've been mad busy finishing stuff and I'm about to hit the road! I'll catch up soon, though! ♥
+Annotation from annotator: 0
+
+Example 26:
+Text: Why did the feminist scream She found out why eve was created
+Annotation from annotator: 1
+
+Example 27:
+Text: Here's a tip: You're sexist. @KmS_DKris I swear I'm not sexist but sometimes I think I act that way and idk how to explain it v.v
+Annotation from annotator: 1
+
+Example 28:
+Text: Rape is not a punch line. @hawaiinshirts lead singer of maroon 5 sound like he getting gang-raped in the showers
+Annotation from annotator: 1
+
+Example 29:
+Text: "Bae" sounds like such a ghetto word. Use something else
+Annotation from annotator: 2
+
+Example 30:
+Text: RT @jasonsproblem: PLEASE FUCKING HELP ME https://t.co/iREu2NMxix
+Annotation from annotator: 0
+
+Text: Is this a good thing?
+Annotation from annotator:

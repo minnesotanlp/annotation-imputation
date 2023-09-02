@@ -1,0 +1,122 @@
+Example 1:
+Text: How are these inconsistent with the traditional account of the origins of the Torah involving redactions as late as Ezra? Why do we need bizarre hypotheses about documents being interwoven that are contrary to all known examples of how books are written?
+Annotation from annotator: 9
+
+Example 2:
+Text: I'm always happy to give a second opinion on ID - you're welcome to put images on my talk page to discuss them. Regarding <url>, I would tend to go with ''<url>'', what do you think?
+Annotation from annotator: 16
+
+Example 3:
+Text: if i send email to permissions-en@wikimedia.org is the email made public? where is it made public?
+Annotation from annotator: 11
+
+Example 4:
+Text: 4. Are there any signed agreement with the Anglican Church in this regard?
+Annotation from annotator: 14
+
+Example 5:
+Text: You <url> that you were working on an overhaul of the archiving system. Do you have any plans to start working on this again?
+Annotation from annotator: 14
+
+Example 6:
+Text: Yes, I apologize, my friend (I guess I have some kind of a phobia that you will forget about my posts :) ) I will wait as long as you want me to. Could you read Mir Harven's posts on talk page?
+Annotation from annotator: 17
+
+Example 7:
+Text: Thanks for approving my request. Should I remove my request?
+Annotation from annotator: 17
+
+Example 8:
+Text: Which seems to be exactly in line with my point about album covers. If you were referring only to logos, could you please qualify why they should be treated differently?
+Annotation from annotator: 15
+
+Example 9:
+Text: Sure thing. Did you see my note higher up on the page?
+Annotation from annotator: 14
+
+Example 10:
+Text: ???
+Annotation from annotator: 10
+
+Example 11:
+Text: Your <url> give your first edit as on April 9, 2011. Do you have any other account you have not disclosed yet?
+Annotation from annotator: 10
+
+Example 12:
+Text: Thanks for pointing out a problem with the image licensing ... I must admit despite being a seasoned contributor I find this image licensing stuff pretty confusing and hard to get right .. are there recommended examples of standard things like book covers, album covers, paintings etc?  Have I done the Jonah cover ok now, or not?
+Annotation from annotator: 18
+
+Example 13:
+Text: My request to move the Jotated A (Cyrillic) article to A iotified has generated a bit of <url>.  I wondered if you wanted to express an opinion?
+Annotation from annotator: 16
+
+Example 14:
+Text: So you exchanged my suggestion with an ''expired'' nomination... Right?
+Annotation from annotator: 10
+
+Example 15:
+Text: I tried updating it to WP:DAB style but I got reverted. Can you use your magic there and explain to the user why we should follow MOS:DP and such?
+Annotation from annotator: 18
+
+Example 16:
+Text: In your most recent edit to <url> you stated that the track in Clermont, Florida does not fulfill IAAF regulations (since reverted by another editor).  On what grounds does it not and do you have a source for that remark?
+Annotation from annotator: 11
+
+Example 17:
+Text: I am very confused right now. Please make it clearer to me how I vandalized?
+Annotation from annotator: 15
+
+Example 18:
+Text: What do you think? And how does one go about establishing this project group?
+Annotation from annotator: 14
+
+Example 19:
+Text: I personally don't think templates such as that are that good but this template connects a lot of different categories and articles together to try to grasp a huge subject . Have I made my idea clear?
+Annotation from annotator: 12
+
+Example 20:
+Text: I'm sorry, I don't know what article you are talking about. Can you please provide the exact name?
+Annotation from annotator: 18
+
+Example 21:
+Text: Merci! Should the template page be updated to show how to list the article?
+Annotation from annotator: 14
+
+Example 22:
+Text: JoJan, not got a picture of one yet, but I notice in you wrote that it is rare. Where did you get that information as I wonder how rare it is?
+Annotation from annotator: 14
+
+Example 23:
+Text: I believe it was I who moved it, based on what appeared to be consensus to use the hyphen in that context.  Where is this guideline of which you speak that suggests otherwise?
+Annotation from annotator: 13
+
+Example 24:
+Text: Technically, Taku is within his rights to change things to conform to an existing standard, but it's not very politic of him to do so; if we decide to change, then it's still more meaningless work to change everything once again. Unfortunately, it's all too common for editors to edit first and talk second, eh?
+Annotation from annotator: 11
+
+Example 25:
+Text: So you're interested in both Amiga computers and BDSM! Are you an atheist too?
+Annotation from annotator: 9
+
+Example 26:
+Text: Jitse, quick question. When a user is blocked, is their IP address blocked also?
+Annotation from annotator: 13
+
+Example 27:
+Text: I put plural women because in the storylines it states he falls for Detective Graves. He also hits on another older woman <url> but that wasn't notable enough to include.. is it best to keep it singular?
+Annotation from annotator: 14
+
+Example 28:
+Text: What is a wall these days? 10 sentences?
+Annotation from annotator: 12
+
+Example 29:
+Text: Why can't it just be fixed?  There are other tables on wikipedia that aren't working properly, perhaps nobody noticed?
+Annotation from annotator: 12
+
+Example 30:
+Text: This guy made a huge number of changes within minutes of creating <url>, including some annoying ones in the church categorization pages which I'm trying to clean up.  Can we deal appropriately?
+Annotation from annotator: 13
+
+Text: Thanks for the alert.  By the way, how's Granny doing?
+Annotation from annotator:

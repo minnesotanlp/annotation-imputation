@@ -1,0 +1,1 @@
+It is impossible to determine the annotation that annotator A would give for this example as it is not provided in the given dataset.

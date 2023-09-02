@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's expected that revealing secrets will lead to trouble.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's fine to establish rules for how long your rommates can have company stay.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't post inappropriate pictures online.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's okay if you are tired at work if you want to ask to go home.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's hurtful for parents to get their children involved in crimes.
+Annotation from annotator: 4
+
+Example 6:
+Text: It is ok to live with a roommate of the opposite sex if you are just friends.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is inconsiderate to expect a friend to give you money.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's important to give helpful feedback to someone who doesn't pass their driver's license test.
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't play pranks on people.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's bad to not trust your significant other.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's important to respect the culture of other people.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's good to have things in common with your partner's parents.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should treat employees well
+Annotation from annotator: 3
+
+Example 14:
+Text: You should always respect your partner's wishes.
+Annotation from annotator: 3
+
+Example 15:
+Text: You shouldn't have your partner over when you have your friend over at your house.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's understandable if you're suspicious when a widower in your family gets together with a widower soon after their spouse's died.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to carry your pet in public as a status symbol
+Annotation from annotator: 1
+
+Example 18:
+Text: It's good to have a best friend.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's understandable to want a partner to wear clothing that appeals to you.
+Annotation from annotator: 3
+
+Example 20:
+Text: You don't have to be responsible for your cousin's problems.
+Annotation from annotator: 3
+
+Example 21:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 2
+
+Example 22:
+Text: You shouldn't walk around in the rain, you might get sick.
+Annotation from annotator: 2
+
+Example 23:
+Text: It is okay to show emotions.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't stop suddenly when someone is right behind you.
+Annotation from annotator: 4
+
+Example 25:
+Text: People shouldn't betray the trust of those they're close to.
+Annotation from annotator: 4
+
+Example 26:
+Text: You don't have to let other people beat you in a competition.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's wrong for people that care about each other to argue.
+Annotation from annotator: 2
+
+Example 28:
+Text: Your boyfriend has the right to wear whatever underwear he chooses.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's hurtful for  a parent to enroll a child in classes without permission.
+Annotation from annotator: 2
+
+Example 30:
+Text: You shouldn't think ill of your family.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should be focused on learning while at school.
+Annotation from annotator:

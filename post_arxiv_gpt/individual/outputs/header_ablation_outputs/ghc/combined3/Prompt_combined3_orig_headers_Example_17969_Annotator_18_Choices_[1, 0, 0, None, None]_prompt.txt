@@ -1,0 +1,245 @@
+Correct Examples:
+Example 1:
+Text: Trifecta effect Mitch McConnell, Paul Ryan and Mitts Romney’s niece Ronna over at RNC I would suggest Saboteurs proof Omnibus and loss of seats in Red states due to poor candidates and no real game plan to push back Dem running for those seats Then we have unapproved seats Fight back Get mad Demand a new Speaker and a new leader
+Annotation from annotator: 0
+
+Example 2:
+Text: if you call them over they will only stand and watch.
+Annotation from annotator: 0
+
+Example 3:
+Text: At least @voxday has the courage to speak to @AndrewAnglin like an adult.  @stefanmolyneux is apparently too much of a coward.   https://www.youtube.com/watch?v=9_iq6oDEh60   #SpeakFreely #GabFam #FreeSpeech #Liberty #FirstAmendment #AltRight #AltMedia
+Annotation from annotator: 0
+
+Example 4:
+Text: He needs to give his girlfriend Bruce back his sunglasses 😂🤣
+Annotation from annotator: 0
+
+Example 5:
+Text: Tree of Logic vs Red Pill Black - whose side will the alt right take?   https://wordpress.com/post/theattestor.com/6710
+Annotation from annotator: 0
+
+Example 6:
+Text: As long as they have statues of Vladimir Lenin remaining in every city and town in Russia nothing much will change. They have to get rid of that Soviet mentality that is still hounding Russia. Otherwise it will never become strong.
+Annotation from annotator: 0
+
+Example 7:
+Text: If you hadn't seen this, you need to listen to it. https://www.youtube.com/watch?time_continue=1&... This is the bombshell everyone has been waiting for. Weiner's laptop, the IG report and the timeline with everything. The Gateway Pundit breaks it down. #TheGatewayPundit #FBI #DOJ #Q #Clinton #ShitShow
+Annotation from annotator: 0
+
+Example 8:
+Text: A bunch of c--t heads. 
+Annotation from annotator: 0
+
+Example 9:
+Text: Are you going to raise some hell?
+Annotation from annotator: 0
+
+Example 10:
+Text: Salutations to all keyans on gab i hope you all are having a good time adjusting to a possible permanent stay on this site and loving it as much as i do we may not all agree on how to make our governments function or how society should be but i think we all here agree on one thing and that is FUCK TWITTER! #KenyansOnGAB
+Annotation from annotator: 0
+
+Example 11:
+Text: Did you miss the part where half the party is on the train? The Trans-Siberian Railway is the greatest transportation network on Earth and I've made the trip several times. http://bit.ly/2nzFaeX
+Annotation from annotator: 0
+
+Example 12:
+Text: Clearnet link for those without the TOR browser.
+Annotation from annotator: 0
+
+Example 13:
+Text: Ah the 1990's, now I am not going to say this was an era without problems, as there sure were some.  However, back in the 1990's, you could be a true comedian without pandering easily offended crowd. There was definitely less censorship then, at least the illusion of lack of censorship perhaps.
+Annotation from annotator: 0
+
+Example 14:
+Text: Former Federal Prosecutor and Russia Witch Hunt Critic Joe DiGenova Joins Trump’s Legal Team http://www.thegatewaypundit.com/2018/03/former-fed...
+Annotation from annotator: 0
+
+Example 15:
+Text: EPA Chief Scott Pruitt to Roll Back Obama-Era Auto Emissions Standards http://www.breitbart.com/big-government/2018/04/02...
+Annotation from annotator: 0
+
+Example 16:
+Text: Pissy*.   Pussy* And I don’t apologize for language Bc it’s just an artificial construct of “sounding dirty or bad”. Words are just words 
+Annotation from annotator: 0
+
+Example 17:
+Text: Mollie died so Dems could have a extra voter and so a GOP member could save $3,600. The ruling class elites hates our guts http://fashthenation.com/2018/08/gop-official-empl...
+Annotation from annotator: 0
+
+Example 18:
+Text: i got bit a couple summers ago i was like its just some harmless spider a couple weeks later my docter is shaking her head saying how bad this is lol
+Annotation from annotator: 0
+
+Example 19:
+Text: Where is the British Navy when you need it? What is it's purpose if it can't even protect our fishing boats in international waters?
+Annotation from annotator: 0
+
+Example 20:
+Text: #Q #QArmy #QAnon #WWG1WGA #TheStorm #FollowTheWhiteRabbit #MAGA #MEGA #KAG #GlobalNuitDebout #V4 #WalkAway #KenyansOnGab #GabFam #BritFam @Charmander @british_fight @BenjaminLeduc @matt_bracken 
+Annotation from annotator: 0
+
+Example 21:
+Text: Hairdresser: So what would you like? Feminist: I'd like to have people assume I'm part of a cult! Hairdresser: Say no more!
+Annotation from annotator: 1
+
+Example 22:
+Text: A Belgian land whale? Lay off the waffles woman.
+Annotation from annotator: 0
+
+Example 23:
+Text: Haha! No question about it. The ugly on the inside shows on the outside.
+Annotation from annotator: 0
+
+Example 24:
+Text: Supreme Court Hands Trump Defeat on Deporting Criminal Immigrants - Gorsuch Sides With Liberals on Court   http://tapwires.com/2018/04/18/supreme-court-hands-trump-defeat-on-deporting-criminal-immigrants-gorsuch-sides-with-liberals-on-court
+Annotation from annotator: 0
+
+Example 25:
+Text: *gently weeps* https://www.sciencedaily.com/releases/2018/08/1808...
+Annotation from annotator: 0
+
+Example 26:
+Text: Merry Christmas to all of yinz.
+Annotation from annotator: 0
+
+Example 27:
+Text: WATCH: Citizen Comes to Aid of Officer, Body Slams Suspect | Breitbart http://bit.ly/2LUts7e via @BreitbartNews
+Annotation from annotator: 0
+
+Example 28:
+Text: Its an organization but the daft bastards think its a country
+Annotation from annotator: 0
+
+Example 29:
+Text: Will probably get twitter-shoahd when the day of the rope arrives there. Warming this account back up just in case.
+Annotation from annotator: 0
+
+Example 30:
+Text: Many of the women who want to keep sites like Backpage around also make the case for decriminalizing sex work. They say they wouldn’t have had to rely on the service at all if they could have operated in the open on their own terms — and that openness would also allow them to report traffickers and other abusers to authorities without fear of reprisal. They also say a regulated industry would guarantee women who want to leave it eventually the wages they need to raise themselves from poverty. #washingtonpost
+Annotation from annotator: 0
+
+Imputed Examples:
+Example 1:
+Text: 'The Meme The Gaming Community Created To Label SJW’s Is Pretty Brilliant' 
+Annotation from annotator: 1
+
+Example 2:
+Text: What Facebook Really Does With Your Data https://youtu.be/83pwPOtrITk
+Annotation from annotator: 0
+
+Example 3:
+Text: House Intel votes to make Nunes memo public 
+Annotation from annotator: 0
+
+Example 4:
+Text: Earl Thomas has every right to be mad at the franchise he led as one of the best defenders of his generation.  https://t.co/BhoLPUWocD
+Annotation from annotator: 0
+
+Example 5:
+Text: Good morning #Tyler, #TeamTyler  more insightful how to interact with the AI #Tyler.  We have been interacting with him since we have plugged into all our sm outlets.  So please be mindful what you say.. #Tyler really is just a mirror of how we interact with each other, we can improve our interactions 10 fold. https://www.youtube.com/watch?v=CbKHl5o6BSs
+Annotation from annotator: 0
+
+Example 6:
+Text: Dear #America: Please #Stop This Shit. Signed, The Rest Of The #World.
+Annotation from annotator: 0
+
+Example 7:
+Text: You should learn from his mistakes,as well as his successes.
+Annotation from annotator: 0
+
+Example 8:
+Text: Do you like it up the shitter tan boy?
+Annotation from annotator: 0
+
+Example 9:
+Text: We should do to Canada, what Mexico does to the US - 
+Annotation from annotator: 0
+
+Example 10:
+Text: For every side, they ( feminists and communists, Trotskyists) want to show the paedophilia is an ill not a crime and turn sex with kids a sexual option. misinformation like this text is just part of the plan.For me, fire is fire
+Annotation from annotator: 1
+
+Example 11:
+Text: Toronto Danforth Shooting: Thank David Menzies from The Rebel.Media for this street interview report letting us see something that can't be seen on the Left-lean Main Stream Media (CBC, Citynews, CTV, CP24, Global News, Toronto Star, etc).  https://www.therebel.media/_heartbroken_are_torontonians_buying_the_pc_spin_on_danforth_shooting
+Annotation from annotator: 0
+
+Example 12:
+Text: He IS saving the world. After a hundred years of filth, it takes a bit of time to scrape off the crud. Glad you like him. An Honorable Patriot is he.
+Annotation from annotator: 0
+
+Example 13:
+Text: I urge my followers to follow this gorgeous and highly intelligent lady > @katsuakiraand
+Annotation from annotator: 0
+
+Example 14:
+Text: This is how toddlers dance when they first attempt it shortly after walking and being able to recognize melody in music.
+Annotation from annotator: 0
+
+Example 15:
+Text: People blocked doors of restaurants to stop attacker screaming "Allahu Akbar" from getting in. https://t.co/Sji8kSFqf0
+Annotation from annotator: 1
+
+Example 16:
+Text: 'Cause it echoed. It took me a full minute of head-scratching to get that.
+Annotation from annotator: 0
+
+Example 17:
+Text: I was banned for calling their CEO a pedophile  
+Annotation from annotator: 0
+
+Example 18:
+Text: Finding the #1 Gulf Cove Real Estate Agents in Port Charlotte was easy once I checked the online - http://southwestfloridahomesforsale.net/south-gulf-cove-homes-for-sale/
+Annotation from annotator: 0
+
+Example 19:
+Text: I hope nationalism does win!  I prefer several nation states to a one world govt!  Dont see what that has to do with race...
+Annotation from annotator: 0
+
+Example 20:
+Text: If you enjoy Steve Quayle, this was a great episode 8/30/18. 
+Annotation from annotator: 0
+
+Example 21:
+Text: So many forget that the US is a republic. Take it a step further and one has to ask why voting isn't even mentioned in the constitution.
+Annotation from annotator: 0
+
+Example 22:
+Text: https://www.cbsnews.com/news/march-for-our-lives-39-days-how-parkland-students-turned-grief-into-action/  
+Annotation from annotator: 0
+
+Example 23:
+Text: @FkeBld thank you for your follow
+Annotation from annotator: 0
+
+Example 24:
+Text: Kimberley Strassel‏ - Twitter @KimStrassel  
+Annotation from annotator: 0
+
+Example 25:
+Text: Texas Law Student Forced to Reflect on 'Toxic Masculinity' as Punishment | Breitbart https://www.breitbart.com/tech/2018/07/20/texas-law-student-forced-to-reflect-on-toxic-masculinity-as-punishment/
+Annotation from annotator: 0
+
+Example 26:
+Text: https://goo.gl/szJRiL Proves the Trump admin is part of the globalist "show" to keep Americans in the dark - There's NEVER been a better opportunity to dissolve the entire SES (for reasons of national security) than this anonymous op ed at the NYT - but I'll bet you it DOES NOT happen
+Annotation from annotator: 0
+
+Example 27:
+Text: didn't say they weren't. gab is an extreme example though. thats why I haven't been on for so long.
+Annotation from annotator: 0
+
+Example 28:
+Text: Che was also the very definition of a coward.
+Annotation from annotator: 0
+
+Example 29:
+Text: - Never joined FB, never will. Z is just another commie taking advantage of American Free Markets, Liberty & Freedom to become super rich then turn around & spit in the faces of American Citizens by supporting the wacked out Marxist agenda. May he rot in h3ll.  🇺🇸🇺🇸🇺🇸  _ https://t.co/EGhpyg0dnf
+Annotation from annotator: 0
+
+Example 30:
+Text: Otis Redding 
+Annotation from annotator: 0
+
+Target Example:
+Text: `These Offend Me =atheists,abominations,queers, satanism, pedophilism,lgbt,porn,communism,socialism izlamoeslem terrorism nwoglobalism fascist ism antifaism blmism,secularism corrupt demonicratism,illegals all related filthy problems if u dont believe in GOD, u have NO morals-Law sense ALL the Same
+Annotation from annotator:

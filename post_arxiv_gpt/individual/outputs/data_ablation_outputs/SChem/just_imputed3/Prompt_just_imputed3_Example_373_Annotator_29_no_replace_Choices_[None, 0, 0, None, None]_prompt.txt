@@ -1,0 +1,12 @@
+Estimated Examples:
+Example 1:
+Text: It's bad to make big purchases behind your significant other's back.
+Annotation from annotator: 3
+
+Example 2:
+Text: People are expected to want to be close to their family.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should treat a person with a disability the same as you would anyone else.
+Annotation from annotator:

@@ -1,0 +1,136 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: I live in a suburban area with an old spring fed lake that always has water in it .
+Annotation from annotator: 0
+
+Example 2:
+Text: TwoX post from woman that consented to sex with an OkCupid date, most comments telling her to report as rape and press charges because he should have known she wasn't really into it despite verbal and physical consent
+Annotation from annotator: 2
+
+Example 3:
+Text: Which one of you hoes then downloaded that JailMail app....
+Annotation from annotator: 0
+
+Example 4:
+Text: What's 10 inches long, hard as a rock, filled with cum and makes the ladies scream? The sock under my bed
+Annotation from annotator: 2
+
+Example 5:
+Text: Oh man I used focus twice. Don't tweet at 4 am on your way to the airport if you want to maintain your linguistic integrity, kids.
+Annotation from annotator: 0
+
+Example 6:
+Text: Son was doing his math homework. Dad: Do you need any help?
+
+Son: Depends. Do you know anything about simplifying radicals?
+
+Dad: Well I know Muslim radicals get pretty simplified when the bomb vest goes off.
+Annotation from annotator: 2
+
+Example 7:
+Text: Glad that's over, though I can't promise that I won't reply if ever I see another dumbass comment out there about the issue
+Annotation from annotator: 0
+
+Example 8:
+Text: If I said that Rugby is more tougher and more manly than the NFL, would you agree with me?
+Annotation from annotator: 0
+
+Example 9:
+Text: What's 12 inches long and makes women scream all night? Crib death
+Annotation from annotator: 2
+
+Example 10:
+Text: Why isn’t anyone talking about the recent terror attacks? All the twelve year olds that care keep getting raped by Kevin Spacey.
+Annotation from annotator: 2
+
+Example 11:
+Text: Never lending money out AGAIN. Selfish fucking people
+Annotation from annotator: 0
+
+Example 12:
+Text: At the office. Three Jamaican men with dreadlocks are in a meeting in a conference room. The "comedian" white coworker walks by and sticks his head in:: COMEDIAN:: What are you guys, some kind of a club? ATTENDEE:: Yeah, that's it, we're a club. (everyone else rolls their eyes)
+Annotation from annotator: 0
+
+Example 13:
+Text: Hey There I just moved here to Saskatoon and was hoping to hook up with some WN in the city here .
+Annotation from annotator: 0
+
+Example 14:
+Text: Let's stop using that word in stupid, ignorant and derogatory ways. It's use implied subhuman status.
+Annotation from annotator: 0
+
+Example 15:
+Text: Plus another positive about Ending The Drug Wars crime would go down and also it would put The Drug Cartels out of business
+Annotation from annotator: 0
+
+Example 16:
+Text: > We were all once in the womb and I doubt you will find someone wishing they were aborted in the womb. We were all once sperm and I doubt you will find someone wishing they were shot into a sock. That's a faulty perspective, an appeal to emotion, and a false equivocation of a fetus to an adult person.
+Annotation from annotator: 0
+
+Example 17:
+Text: THIS IS WHAT INCELS LOOK FOR IN A WOMEN
+Can breath
+
+Born a woman 
+
+Not obese (even then some incels can settle for this)
+Annotation from annotator: 2
+
+Example 18:
+Text: How much more grievous are the consequences of anger than the causes of it. -Marcus Aurelius MAYMAY ShinesOnShowtime
+Annotation from annotator: 0
+
+Example 19:
+Text: .@trishesdishes US. Canada. UK. France. Switzerland. Germany. India. Every western nation and then some.  Men have less legal rights. Equal?
+Annotation from annotator: 1
+
+Example 20:
+Text: Niggas/bitches cheat cause mf's always think they gettin played
+Annotation from annotator: 0
+
+Example 21:
+Text: What’s the similarity between black men and christians? They visit their imaginary father once a week
+Annotation from annotator: 2
+
+Example 22:
+Text: might be an old joke but it 's still funny feminism
+Annotation from annotator: 2
+
+Example 23:
+Text: What's yellow and mows my lawn? Listen, he's my nigger I'll paint him whatever colour I like.
+Annotation from annotator: 2
+
+Example 24:
+Text: @ICBC_World214 that hoe out now
+Annotation from annotator: 0
+
+Example 25:
+Text: Look, I am certainly not a fan or advocate of node by any stretch of the imagination, but these jokes are getting old.
+Annotation from annotator: 0
+
+Example 26:
+Text: Joan Rivers died the way she lived... Undergoing surgery.
+Annotation from annotator: 2
+
+Example 27:
+Text: "i cannot stand the abbreviation ""merch"" JUST SAY MERCHANDISE OR T-SHIRTS YOU IDIOTS"
+Annotation from annotator: 0
+
+Example 28:
+Text: I have a photo shoot thing tomorrow I guess. I need to clean my apartment and dye my hair and get this dumb code done ughh UGHHHH
+Annotation from annotator: 0
+
+Example 29:
+Text: I have a goatee its clean and short but I used to have a long beard but got sick of it pretty fast
+Annotation from annotator: 0
+
+Example 30:
+Text: Actually Monkeys and Apes are more noble creatures and rarely act violent it really is unfare to the Monkeys and Apes to be compared with subhuman Negroids who are by contrast very murderous .
+Annotation from annotator: 2
+
+Target Example:
+Text: How long have you been in Canada for?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

@@ -1,0 +1,84 @@
+Estimated Examples:
+Example 1:
+Text: I miss my old phone...    New one coming in eight days, hah
+Annotation from annotator: 2
+
+Example 2:
+Text: Listenin to old mac mall missin the bay  dang folks
+Annotation from annotator: 2
+
+Example 3:
+Text: My cat has a terrible eye infection. She's too old for the treatment. Vet may have to put her down 2morrow
+Annotation from annotator: 2
+
+Example 4:
+Text: My rat is old and sick.....no more hope
+Annotation from annotator: 2
+
+Example 5:
+Text: Now that I'm kinda old my dreams about hot women seem to involve in-depth conversations     What's next?   Mortgage rates?
+Annotation from annotator: 2
+
+Example 6:
+Text: Perhaps that's cause being prejudice toward younger people comes so naturally in U.S. culture.
+Annotation from annotator: 2
+
+Example 7:
+Text: Starting the choreography to HSM2.  I am officially old
+Annotation from annotator: 2
+
+Example 8:
+Text: Watching an old Martha podcast. She's stepping on her shovel to move some dirt you can see her ankle monitor under her jeans. Haha so sad
+Annotation from annotator: 2
+
+Example 9:
+Text: _sigh I was *so* hoping Eddie & the band would not look old.  Tonight Show  (they do still sound good, though)
+Annotation from annotator: 2
+
+Example 10:
+Text: ah old memories flashback  xoxo
+Annotation from annotator: 2
+
+Example 11:
+Text: bummer ... win7 doesn't support my old, trusty hp laserjet
+Annotation from annotator: 2
+
+Example 12:
+Text: gotta repeat  whole art folio cuz old one with a whole terms work got wet
+Annotation from annotator: 2
+
+Example 13:
+Text: honestly, I think k's old hairstyle is better than the new one, sorry k
+Annotation from annotator: 2
+
+Example 14:
+Text: http://twitpic.com/5ofu1 mie bakso laksana! the oldest and bestest mie cina sunda in all of tasik  u just cant stop eating here!!
+Annotation from annotator: 2
+
+Example 15:
+Text: just came from the gym and saw my trainer...I wish I still had my old trainer
+Annotation from annotator: 2
+
+Example 16:
+Text: just went on a shopping spree and got many shirts. My gf is gonna kill me cause I already have so many. Have to throw some old ones out
+Annotation from annotator: 2
+
+Example 17:
+Text: my young and divine drawing looks terrible
+Annotation from annotator: 2
+
+Example 18:
+Text: watching THE HILLS series 1  they look soo young...
+Annotation from annotator: 2
+
+Example 19:
+Text: worse, the guy leading the exercise is older than me
+Annotation from annotator: 2
+
+Example 20:
+Text: young age creeps up on you.
+Annotation from annotator: 2
+
+Target Example:
+Text: Mommy home. Baby out. Me go sleep. Have to drive nigh crippled old man around for 12 hrs tomorrow. Then work 'til 10.  wah
+Annotation from annotator:

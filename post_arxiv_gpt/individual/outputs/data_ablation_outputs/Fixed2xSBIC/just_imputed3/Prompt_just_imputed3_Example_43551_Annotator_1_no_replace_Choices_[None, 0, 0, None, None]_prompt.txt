@@ -1,0 +1,128 @@
+Estimated Examples:
+Example 1:
+Text: I'm actually so broke but yes I'm gonna drive 5 hours this weekend for alcohol who tf do you think I am?
+Annotation from annotator: 0
+
+Example 2:
+Text: Report for my station at 6:00 pm Temperature: 10→ Relative humidity: 91↑ Pressure: 1,015.4→ Wind: 0↓ from the S. Daily rain: 0.8.
+Annotation from annotator: 0
+
+Example 3:
+Text: How do you know when your sister is on the rag? Your dad's dick tastes funny.
+Annotation from annotator: 2
+
+Example 4:
+Text: I just noticed the atomic blackpill post got gilded twice lol
+Annotation from annotator: 0
+
+Example 5:
+Text: Over 4k upvotes in /r/nottheonion about Bahar Mustafa, comment section is completely deleted and closed.
+Annotation from annotator: 0
+
+Example 6:
+Text: Which super saiyan character from dragon ball z was stephen hawking? -Vegita
+
+Nah jk white ppl aren't monkeys
+Annotation from annotator: 1
+
+Example 7:
+Text: My daughter, the man.
+Annotation from annotator: 1
+
+Example 8:
+Text: Im organizing a Massive BLACK LIVES MATTER march... It will start at Miami Beach, Florida 10am tomorrow morning.
+Annotation from annotator: 0
+
+Example 9:
+Text: THIS IS FUCKING BRITNEY JEAN SPEARS @Boeing7G7 @simonologue https://t.co/yUY7dPbUne
+Annotation from annotator: 0
+
+Example 10:
+Text: After sex, my GF and I shared a cigarette. When she suddenly started coughing, I said: "Didn't I tell you smoking is no good for a 5 years old?"
+Annotation from annotator: 2
+
+Example 11:
+Text: I bought my wife a new mug However I had to send it back. On the bottom it said that it wasn’t suitable for the dishwasher
+Annotation from annotator: 2
+
+Example 12:
+Text: A beautiful and very proper Czech Christmas song featuring the great Marta Kubisova who was silenced for standing up to communists in 1971 .
+Annotation from annotator: 0
+
+Example 13:
+Text: 2 condoms walk by a gay bar The other one looks at the other and asks "Hey, you wanna go get shitfaced?"
+Annotation from annotator: 2
+
+Example 14:
+Text: What's a cancer patient's favourite movie? Finding Chemo.
+Annotation from annotator: 2
+
+Example 15:
+Text: Why do the handicapped make poor lawyers? Their cases don’t have a leg to stand on
+Annotation from annotator: 2
+
+Example 16:
+Text: the sad comideian what do you hear after a sad comedian's joke
+
+bum dum BANG
+Annotation from annotator: 2
+
+Example 17:
+Text: @Benny_Balboa tell that boy he a hoe i just called him
+Annotation from annotator: 2
+
+Example 18:
+Text: It's not fair that my son has to compete with illegal immigrants for college admissions.
+Annotation from annotator: 2
+
+Example 19:
+Text: reach hands to ceiling alt reach left hand higher / right hand higher; keeping hands lifted bend at waist to left / to right; 30 x's ea
+Annotation from annotator: 0
+
+Example 20:
+Text: .@eaballesty @dileted @tim_geelen Those women are not exploited.  They make a calculated choice to use sex to advance careers.
+Annotation from annotator: 2
+
+Example 21:
+Text: Russian warships enroute toward US destroyers is true news, or fake news? I think we'll soon find out. Nobody is acknowledging the report.
+Annotation from annotator: 0
+
+Example 22:
+Text: Down to catch a body bitch!
+Annotation from annotator: 1
+
+Example 23:
+Text: Why can't Paralympians be Cold War politicians? Because they can't compete in an arm's race
+Annotation from annotator: 2
+
+Example 24:
+Text: yup yup, i found a combo of body wash and deodorant that has been working for me for years. I've talked to a few of my exs over the years and i've had a couple of them tell me after we ended things that they bought a bottle of my wash just to have the smell around. 
+Annotation from annotator: 0
+
+Example 25:
+Text: What do you call a black person with a roof over his head? A convict
+Annotation from annotator: 2
+
+Example 26:
+Text: I hate it when I burn my lip while im smoking. I be catching a full blown attitude tryna put the blunt out lol
+Annotation from annotator: 0
+
+Example 27:
+Text: McCourt the brother of that lier who wrote that book full of lies is running on a gay anti war platform in New York.From a video of his speech the Limerick blogger has it on youtube .
+Annotation from annotator: 2
+
+Example 28:
+Text: Ok Guys, we are going draw straws to see who wins the chance to tell Kim that 'Band' is not an olympic event.
+Annotation from annotator: 0
+
+Example 29:
+Text: What's black and sits on top of a staircase? Stephen Hawking after a house fire.
+Annotation from annotator: 1
+
+Example 30:
+Text: This truth applies to other subjects we discuss on this board .
+Annotation from annotator: 0
+
+Target Example:
+Text: "Just saw a trailer for #ghostinashell and they said ""you've never seen anything like it"".. BITCH YOU DONT KNOW WHAT DA FUCK IVE SEEN!!"
+Annotation from annotator:

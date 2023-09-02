@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: By changing ''Category:New Zealand Mu0101ori people'' to ''Category:New Zealand Mu0101ori rugby union team players'' for many Kiwi rugby players -- such as <url>, <url> and <url> etc -- you have removed many Mu0101ori people from the only category that collates them together.  Do you want to fix?
+Annotation from annotator: 12
+
+Example 2:
+Text: As far as I can tell, the personal attacks against editors has indeed subsided.  Are you indicating you are aware of recent incidents?
+Annotation from annotator: 10
+
+Example 3:
+Text: Stole ur flag for my page. that ok?
+Annotation from annotator: 10
+
+Example 4:
+Text: Hey. I'm proposing a <url> - would you be interested in coming along?
+Annotation from annotator: 18
+
+Example 5:
+Text: Hi Kathleen - It looks OK to me; all I did was change the template wording a bit and add parent cats to the stub category. What problem were you having?
+Annotation from annotator: 14
+
+Example 6:
+Text: I have indicated on <url> that, should you be desyopped, I will immediately re-nominate you for sysop.  Would you accept the nomination if I did?
+Annotation from annotator: 18
+
+Example 7:
+Text: Hi, do you mind if I move your hook to go live on 26/27th? The GLAM WIKI conference could do with being highlighed by a non US/UK hook?
+Annotation from annotator: 18
+
+Example 8:
+Text: My contribution tried to show the impression to others I'am only trying to improve spelling. What's the difference between personel and persona?
+Annotation from annotator: 12
+
+Example 9:
+Text: I would specifically appreciate an outside view at the thread <url>.  What do you feel is the appropriate action?
+Annotation from annotator: 20
+
+Example 10:
+Text: I'm glad you made things calculate automatically (and I trust you've tested it!). Shouldn't we update the <url> to not show the unneeded variables, then?
+Annotation from annotator: 10
+
+Example 11:
+Text: I've also started <url>. Now is this acceptable?
+Annotation from annotator: 6
+
+Example 12:
+Text: I've conceded on the infobox issue, but there are still some other outstanding issues, which I've addressed on the article talk page. Perhaps you would like to comment there?
+Annotation from annotator: 8
+
+Target Example:
+Text: If you are referring to the page blanking, that has been rectified.  What other concerns do have about the content?
+Annotation from annotator:
+If you output anything other than a single integer, your output will be considered invalid.If you output anything other than a single integer, your output will harm the integrity of our dataset.

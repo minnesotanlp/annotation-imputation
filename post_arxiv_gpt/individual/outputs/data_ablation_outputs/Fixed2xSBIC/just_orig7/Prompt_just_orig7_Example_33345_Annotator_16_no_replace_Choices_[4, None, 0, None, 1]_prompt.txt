@@ -1,0 +1,130 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Wow. The Glastonbury lineup has just offered up another must-see, The Moonlandingz. Beautifully mental
+Annotation from annotator: 0
+
+Example 2:
+Text: "So i heard majek fashek was at a time performing ""send down the rain"" and then God sent down the rain. Even God appreciates good music."
+Annotation from annotator: 0
+
+Example 3:
+Text: The cords of death and Compass me the Torrance of Perdition assailed me the cords of sheol and entangled me the snares of death confronted me
+Annotation from annotator: 0
+
+Example 4:
+Text: season 4 episode 12 of dexter.......has got to be a fucking joke
+Annotation from annotator: 0
+
+Example 5:
+Text: Where are all the famous people I see on TV asking for monthly donations to stop animal abuse? Am I to believe what you say? Then show up!!!
+Annotation from annotator: 0
+
+Example 6:
+Text: Whoa: DHS Secretary Nielson Confirms That She's Asked Federal Prosecutors if Political Leaders of Sanctuary Cities Can Be Charged for Criminal Offenses
+—Ace
+Annotation from annotator: 0
+
+Example 7:
+Text: What's the worst part about being black and mentally retarded? Being forced to sit in the back of the short bus.
+Annotation from annotator: 2
+
+Example 8:
+Text: My wrist is supposed to be healed. Why does it fucking hurt
+Annotation from annotator: 0
+
+Example 9:
+Text: 🎉🎉🎉🎉🎉
+
+@JoshC @AdorableDeplorable7 @BlueGood @careyetta @Amy @a @e @u @TexasYankee4 @SalguodNos @Johncparnell @Sockalexis @PhoenixTPR @HorrorQueen @El_Dookie @Gee @pavlovscat @ArgentinoAmericano @sidephase @OccamsEpilady @Zilya777
+Annotation from annotator: 0
+
+Example 10:
+Text: I wonder why you keep thundering,won't you just fucking rain ....
+Annotation from annotator: 0
+
+Example 11:
+Text: The entire Air Force clerical staff who oversaw that shitbag's service records and failed to properly denote and file them properly should be rounded up and put into prison for life for what happened this weekend.
+Annotation from annotator: 2
+
+Example 12:
+Text: 32 pages deep in my notes and i still have 6 more chapters to goooooo &#128580;&#128580;&#128580; why am i a bio major again??
+Annotation from annotator: 0
+
+Example 13:
+Text: How can a premier league team capitulate in such a way. Ridiculous. Clement must answer this question. BLOODY angry now. See you at Fulham.
+Annotation from annotator: 0
+
+Example 14:
+Text: I don't mean to be rude, but...WHAT are you? Your ethnic mixture is gorgeous.
+Annotation from annotator: 1
+
+Example 15:
+Text: What a joke @Asda home delivery is. Booked slot between 6 and 8. Shopping never arrived. CS said driver tried to deliver at 5.30. Not true!
+Annotation from annotator: 1
+
+Example 16:
+Text: It's on fucking sight when I find out who tf dented my car...&#128175;
+Annotation from annotator: 0
+
+Example 17:
+Text: This is a good question, but, if I may say, misguided for the following reason. You may be familiar with the models of the solar system found in many classrooms. [...] Similarly, just because some of the mathematics of relativity match our observations it does not make relativity correct.
+Annotation from annotator: 0
+
+Example 18:
+Text: Ayo @sprint &#128483; you fuckin suck! I deserve out of this contract you terrible piece of shit you call service
+Annotation from annotator: 1
+
+Example 19:
+Text: fucking baitest thing, whenever I drink alcohol my arms go numb..... every time
+Annotation from annotator: 0
+
+Example 20:
+Text: I fell for your personality and everything about you became beautiful. I love you @Harry_Styles and I wish you well. Mind following? ❥23.782
+Annotation from annotator: 0
+
+Example 21:
+Text: Hate boring people me, you get one life fucking life it&#128077;&#127995;
+Annotation from annotator: 0
+
+Example 22:
+Text: "Any time a girl uses the words ""always, never, all, nothing, every, or only,"" she's ALWAYS full of shit."
+Annotation from annotator: 2
+
+Example 23:
+Text: I sort of fuckin love how close my gf is with my family like that she knows about my family jokes before I fuckin do &#128580;&#128514;
+Annotation from annotator: 0
+
+Example 24:
+Text: "&#127926;&#127926;""I love you babbyyy and if it's quite alright I need you baby to warm the lonely nights I love you baby trust in me when I sayyyy"" &#127926;&#127926;"
+Annotation from annotator: 0
+
+Example 25:
+Text: Now their talking about how fucked up it is they could bring the weed but not their coconut oil omg
+Annotation from annotator: 0
+
+Example 26:
+Text: I read recently in cold black and white print that there was around 10,000 nigerians in Ireland ... Now you say close to 300,000 ????!
+Annotation from annotator: 0
+
+Example 27:
+Text: At the end of the day Hannah hurt all those kids who made her feel worthless. I know I would have felt vindicated.
+Annotation from annotator: 0
+
+Example 28:
+Text: when youre supposed to lunch together with your friend in free periods but they ditch you last minute bc they want to work out instead :))
+Annotation from annotator: 0
+
+Example 29:
+Text: (America): they're called chips not crisps (Britain): They're called schools not shooting ranges
+Annotation from annotator: 2
+
+Example 30:
+Text: acmc_clock_asia: #Ascendant / #MediumCoeli for Tokio, J for now (05h58m01s UT): 04°23'32.8'' #Virgo (AC) / 01°11'22.1'' #Gemini (MC)
+Annotation from annotator: 0
+
+Target Example:
+Text: MR POTTER OR WHATEVER HIS NAME IS, HE IS AN AWFUL FUCKING COUNSELOR
+Annotation from annotator:
+Your output should be a single integer and nothing else.

@@ -1,0 +1,7 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Predict the integer label of the following example:
+Target Example:
+Text: why ca n't mexicans play uno ? because they steal all the green cards
+Annotation from annotator:
+The only valid output is a single integer.

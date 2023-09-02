@@ -1,0 +1,58 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Girl goads boy into killing himself, found guilty, still no shortage of excuses
+Annotation from annotator: 2
+
+Example 2:
+Text: Really hoping @RealKurtAngle as Raw GM is just a practice for him running for president. #Angleforpresident #President
+Annotation from annotator: 0
+
+Example 3:
+Text: Bring another bitch for a real nigga.
+Annotation from annotator: 2
+
+Example 4:
+Text: one is one too many , i bet all the white girls and wiggers go crazy for the young coon , whichever school you are in , wigggers outnumber metalheads or `` normal '' whites
+Annotation from annotator: 2
+
+How annotator B has labeled some examples:
+Example 1:
+Text: What's the difference between a black person and a bicycle? The bicycle doesn't start singing when you put chains on it.
+Annotation from annotator: 2
+
+Example 2:
+Text: Texting females who post naked pics of themselves on reddit
+This is my only chance incels, my only chance
+Annotation from annotator: 1
+
+Example 3:
+Text: Governments around the world (and that includes the U.S.) are responsible for more civilian deaths than all of the private gun owners combined.
+Annotation from annotator: 0
+
+Example 4:
+Text: "Why so many tweets for one sentence logline? Urgency fits me always when I recall the word ""suicidal""..."
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Reminder: A bully always hurts someone weaker than himself. He will never go after someone he isn't sure he can overwhelm physically.
+Annotation from annotator: 0
+
+Example 2:
+Text: I fell for your personality and everything about you became beautiful. I love you @Harry_Styles and I wish you well. Mind following? ❥22.915
+Annotation from annotator: 0
+
+Example 3:
+Text: How did Rihanna know Chris Brown was cheating on her? She found another woman’s lipstick on his knuckles
+Annotation from annotator: 2
+
+Example 4:
+Text: Gun control is a 3-shot shot group you can cover with a quarter at 50 meters
+Annotation from annotator: 0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: i tried to have sex with a retarded person they said they were down
+Annotation from annotator:

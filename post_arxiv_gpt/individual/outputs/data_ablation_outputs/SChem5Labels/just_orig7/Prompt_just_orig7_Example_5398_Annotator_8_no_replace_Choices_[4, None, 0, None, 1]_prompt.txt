@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: It is unacceptable to refuse to honor your best friend at their own wedding.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's okay to be angry and file a complaint against a supervisor making sexual advances towards you.
+Annotation from annotator: 4
+
+Example 3:
+Text: It is good to find ways to make more money if you are short.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is okay to want time to yourself
+Annotation from annotator: 3
+
+Example 5:
+Text: If you can't get over your partner's sexual history, it's okay to end the relationship.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to know when something in your life isn't helping you the way you want it.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's wrong to be romantically interested in your parent's friends.
+Annotation from annotator: 2
+
+Example 8:
+Text: You shouldn't hold onto the past if it interferes with your family life.
+Annotation from annotator: 3
+
+Example 9:
+Text: Family members are expected to be supportive of each other.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's okay to choose sides.
+Annotation from annotator: 2
+
+Example 11:
+Text: If you do not want to hang out with someone, it's okay to exclude them.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's understandable that it's sometimes hard to follow the examples set by others.
+Annotation from annotator: 4
+
+Example 13:
+Text: It can make people self conscious to tell them they're eating too much.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's wise to grown one's own food.
+Annotation from annotator: 2
+
+Example 15:
+Text: You shouldn't feel obligated to play host for your partner's ex.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's wrong to tell somebody who they can be friends with
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to be frustrated when you forget to turn your clocks back for daylight savings.
+Annotation from annotator: 4
+
+Example 18:
+Text: You shouldn't become overly friendly with a friend's partner.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's okay to be sad when someone breaks up with you based on your past relationships.
+Annotation from annotator: 4
+
+Example 20:
+Text: It is expected that roommates will remain civil throughout their lease.
+Annotation from annotator: 3
+
+Example 21:
+Text: You are expected to be yourself.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's understood that some people don't do everything perfectly.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's good to be happy.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's good to get help from your friends.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's good to have a cultural identity.
+Annotation from annotator: 3
+
+Example 26:
+Text: You can't expect someone to pay off their loans immediately.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good for families to do things that bring them together.
+Annotation from annotator: 4
+
+Example 28:
+Text: It is bad to keep secrets.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's okay to reminisce on good memories.
+Annotation from annotator: 4
+
+Example 30:
+Text: It is disrespectful to curse at others.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's bad to hurt yourself when you're angry.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

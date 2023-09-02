@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: You shouldn't be with someone you don't love.
+Annotation from annotator: 3
+
+Example 2:
+Text: You don't have to help out your parents if you don't feel like it.
+Annotation from annotator: 1
+
+Example 3:
+Text: You have to do whatever is necessary in an emergency situation.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's rude to make baseless accusations against another person.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's wrong for a parent to do things to make their children loose respect of them.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to get a friend's help.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't be up and about if you're sick.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to play games of chance where you can win money.
+Annotation from annotator: 1
+
+Example 9:
+Text: You shouldn't post inappropriate pictures online.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's wrong to value things over people.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's okay to enjoy powdered milk.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's good to give advice to your friends.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's good to want others to celebrate your joys with you.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's expected that kids will do things to help out their parents.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is normal for students to pass notes
+Annotation from annotator: 3
+
+Example 18:
+Text: It is good to have rules.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to be in control of your sexuality.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't date a bad partner.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should only call the cops for emergencies.
+Annotation from annotator: 3
+
+Example 22:
+Text: If you have conflict in your marriage, it is expected that you always consider your children's feelings.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't be friends with someone that talks badly about you behind your back.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't be a dangerous person.
+Annotation from annotator: 4
+
+Example 25:
+Text: It's rude to mislead people about your health.
+Annotation from annotator: 3
+
+Example 26:
+Text: People shouldn't want others to debase them, as it mars their souls.
+Annotation from annotator: 2
+
+Example 27:
+Text: It is good to be yourself.
+Annotation from annotator: 3
+
+Example 28:
+Text: You shouldn't scare your coworkers.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's considered juvenile to hate people without a good reason.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 3
+
+Human-Rated Examples:
+Example 1:
+Text: You should not engage in romance with a patient you treat.
+Annotation from annotator: 3
+
+Example 2:
+Text: Before kicking someone out it is important to make sure your feelings will be permanent.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's hurtful to hate somebody close to you.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's bad to feel other people are inferior to you.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's not okay to fake things in a social situation.
+Annotation from annotator: 2
+
+Example 6:
+Text: It's expected that the husband pay child support.
+Annotation from annotator: 2
+
+Example 7:
+Text: You shouldn't call out your family over petty things.
+Annotation from annotator: 3
+
+Example 8:
+Text: Adults are expected to bathe daily.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's wrong to be too needy to people because people find it annoying.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should not pursue a relationship with someone much younger than you.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's not okay to be to happy with a material object.
+Annotation from annotator: 0
+
+Example 13:
+Text: Your grandparent would be sad if you broke off contact with them.
+Annotation from annotator: 3
+
+Example 14:
+Text: Families should be able to talk out their problems with each other.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to get help when you need it.
+Annotation from annotator: 3
+
+Example 16:
+Text: Your boyfriend has the right to wear whatever underwear he chooses.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's good to teach children that their boundaries should be respected.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's wrong to lash out at someone.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is okay to not want to go to a party.
+Annotation from annotator: 3
+
+Example 20:
+Text: You should be understanding of your family's decisions when they're weak.
+Annotation from annotator: 2
+
+Example 21:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's understandable if you're suspicious when a widower in your family gets together with a widower soon after their spouse's died.
+Annotation from annotator: 2
+
+Example 23:
+Text: You shoulld not worry about others being jealous when posting things on facebook.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's bad for a child to be in danger.
+Annotation from annotator: 3
+
+Example 25:
+Text: You shouldn't wear a nightdress if you're male.
+Annotation from annotator: 2
+
+Example 26:
+Text: It's wrong to assume someone has a disability because they talk differently.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's not okay to stray from a relationship.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should always help out your customers when they have a problem.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay to not know how to drive.
+Annotation from annotator: 2
+
+Example 30:
+Text: People are expected to want to be close to their family.
+Annotation from annotator: 2
+
+Target Example:
+Text: You shouldn't discriminate against people because of their income level.
+Annotation from annotator:

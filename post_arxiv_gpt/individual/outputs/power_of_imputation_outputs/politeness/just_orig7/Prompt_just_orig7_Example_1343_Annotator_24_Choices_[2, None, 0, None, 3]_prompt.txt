@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Human-Rated Examples:
+Example 1:
+Text: Since I have no purpose I don't need to use wikipedia, so can you change my username to <url> (<url>)???
+Annotation from annotator: 8
+
+Example 2:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation from annotator: 0
+
+Example 3:
+Text: I have a quick question for you (I'm asking now since I am sure that this is going to be brought up either at the ACR or the FAC, when I finally get there): you've added a "pp." for the citation given for the national defense authorization act of 2007, but the rest of the article makes use of the "p." system. Shouldn't the "pp." be changed to a "p." for conformity, or is the use of the "pp." correct from the perspective of citation guidelines?
+Annotation from annotator: 13
+
+Example 4:
+Text: All my edits to clear Lloyd George disappeared from the running count. They haven't been undone, is this a bug?
+Annotation from annotator: 13
+
+Example 5:
+Text: 4. I had once felt that the Euroleague, Italian and Greek leagues were the top leagues. If I were to choose selected European leagues from this page <url>, do you have any thoughts on which ones are important?
+Annotation from annotator: 20
+
+Example 6:
+Text: I noticed that you twice placed a request for citation on the <url> page,<url> <url>, but it was silently removed by <url> <url>. I've removed the sentence altogether; do you think any other action should be taken at this point?
+Annotation from annotator: 8
+
+Example 7:
+Text: Hello -- I see you changed a couple of entries relating to "PALATINE, the Subject Centre for Dance, Drama and Music of the UK Higher Education Academy".  I don't know (or even care) why that organisation chooses to refer to itself by capitalising the word, but (and I ask for information here) is there a policy that precludes us from respecting that choice?
+Annotation from annotator: 4
+
+Example 8:
+Text: Hi, you've done a lot of work on comparing FA country articles. Are you aware of any country that got special praise for the selection of images in the article?
+Annotation from annotator: 13
+
+Example 9:
+Text: I think this is a clear case of <url> . What do you think?
+Annotation from annotator: 8
+
+Example 10:
+Text: I think I'm gonna request a free image from a Wikipedia biography subject by following <url>. I was wondering, if I'm planning to upload the image to Commons and the subject doesn't speak English to understand the e-mail, what should I do?
+Annotation from annotator: 1
+
+Example 11:
+Text: What?!  Why did you resolve this without dealing with the User I mentioned?
+Annotation from annotator: 3
+
+Example 12:
+Text: Hi, noticed you removed categories on defunct/renamed schools. Why do you think them unnecessary?
+Annotation from annotator: 13
+
+Target Example:
+Text: See email first. Is this coming from somewhere or something particular?
+Annotation from annotator:
+If you output anything other than a single integer, your output will be considered invalid.If you output anything other than a single integer, your output will harm the integrity of our dataset.

@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: Hi, do you mind if I move your hook to go live on 26/27th? The GLAM WIKI conference could do with being highlighed by a non US/UK hook?
+Annotation from annotator: 15
+
+Example 2:
+Text: Thanks terribly for looking it up. Would it be alright for me to use the new source in Europe, economy section then?
+Annotation from annotator: 16
+
+Example 3:
+Text: Hey, I just tried to link to Marat Ayin and it came up as a red link. Do you know if we have an article on it and I'm just not using the right transliteration or do we really not have an article?
+Annotation from annotator: 16
+
+Example 4:
+Text: Are you really denying that you brought Giano and Bishonen's names into this? Seriously?
+Annotation from annotator: 8
+
+Example 5:
+Text: The admin says he thinks it should be renamed, but someone else is trying to pull the "but it happened in the same area nonsense". Was I clear enough in explaining where the pictures are listed?
+Annotation from annotator: 16
+
+Example 6:
+Text: You lost me J. I did the edits because I remember you telling me that repeating things that are already in the wiki-link is unneeded and/or redundant. Do you not recall that instance?
+Annotation from annotator: 15
+
+Example 7:
+Text: Help how? Do you mean disambiguating links like this:<url>?
+Annotation from annotator: 16
+
+Example 8:
+Text: But the main question was that would it be a bad idea to make more articles about characters, orginizations and etc. in a book?
+Annotation from annotator: 13
+
+Example 9:
+Text: I'm with you - it really is a friggin' pain that people refuse to read no matter how big you put the text.  Should we just maybe remove the source entirely?
+Annotation from annotator: 4
+
+Example 10:
+Text: I apologize if I have misunderstood.  Are you not an acknowledged devotee of Prem Rawat?
+Annotation from annotator: 20
+
+Example 11:
+Text: WHADDAFUCK YA GONNA DO TO ME, HUH BITCH!?????????
+Annotation from annotator: 0
+
+Example 12:
+Text: AnonEMouse, I have noticed today that there are many recent comments on the <url> talk page that do not show in "history". How can that happen?
+Annotation from annotator: 16
+
+Example 13:
+Text: Especially considering that it took you ''a lot'' more time to vandalize the page than the two seconds it took us to fix it. What's the point?
+Annotation from annotator: 7
+
+Example 14:
+Text: I'm glad you made things calculate automatically (and I trust you've tested it!). Shouldn't we update the <url> to not show the unneeded variables, then?
+Annotation from annotator: 16
+
+Example 15:
+Text: I looked at all the provinces and regencies listed on <url> - so that trick is mostly played out. I'm going down the alphabet now and I'm at the R's - if you want to work, maybe you could start at the end of the alphabet so we don't interfere with each other, meet in the middle?
+Annotation from annotator: 19
+
+Example 16:
+Text: I don't see the references anywhere. Do you mean the "glimcher website" and "official website" links?
+Annotation from annotator: 12
+
+Example 17:
+Text: It is disputed among admins regarding the protection of userpages, although the policy says that users can have their user/user sub-pages (but not the talks) semi-protected if the user requests it. Are there other subpages of yours that you'd like protecting?
+Annotation from annotator: 20
+
+Example 18:
+Text: It just doesn't make sense (to me) that we use a manga spelling for one name but a Simmons' spelling for another. Can't we just go along with Simmons on this one?
+Annotation from annotator: 13
+
+Example 19:
+Text: Well, lyrics are generally frowned upon on Wikipedia, unless the song is old enough that its copyright no longer applies. Could you perhaps link to the article?
+Annotation from annotator: 19
+
+Example 20:
+Text: Halfling may be another name for Hobbit, but the model for the Hobbit encouraged the creation of other Halflings. Nevertheless it is a Halfling, is it not?
+Annotation from annotator: 15
+
+Example 21:
+Text: Your bot runs awfully fast. How come there isn't "using AWB" in the edit summary?
+Annotation from annotator: 14
+
+Example 22:
+Text: I couldn't find your "email user" function. What's up?
+Annotation from annotator: 11
+
+Example 23:
+Text: Yet you did violate <url> and could be blocked right now. If that edit recurred, would you revert it again?
+Annotation from annotator: 12
+
+Example 24:
+Text: APS = <url>. You lost me, which plant are you referring to above?
+Annotation from annotator: 16
+
+Example 25:
+Text: In the summer (June-July) I am going to work on the ''Messiah'' article. Would you like to be in on this?
+Annotation from annotator: 13
+
+Example 26:
+Text: I have just reported a high level of Vandalism at the page <url>. Is it possible to impose a temporary protection to the page?
+Annotation from annotator: 16
+
+Example 27:
+Text: What is your objection?  Would a split address your concerns?
+Annotation from annotator: 20
+
+Example 28:
+Text: That's a <url>-length rant. Still, be nice and AGF, okay?
+Annotation from annotator: 8
+
+Example 29:
+Text: Do you understand now what was wrong with your edits? What do you intend to do if unblocked?
+Annotation from annotator: 12
+
+Example 30:
+Text: I believe it was I who moved it, based on what appeared to be consensus to use the hyphen in that context.  Where is this guideline of which you speak that suggests otherwise?
+Annotation from annotator: 13
+
+Target Example:
+Text: Good day, sorry to bother you. Is the 2:00 am news brief called eyewitness news everynite, and if it is do they play move closer to your world?
+Annotation from annotator:

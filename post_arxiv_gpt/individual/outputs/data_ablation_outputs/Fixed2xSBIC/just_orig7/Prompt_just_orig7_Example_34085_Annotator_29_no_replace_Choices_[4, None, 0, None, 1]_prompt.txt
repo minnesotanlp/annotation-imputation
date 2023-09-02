@@ -1,0 +1,127 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: RT @dnumberbefore_2: She used to be more fun as a hoe ..this new you is to positive
+Annotation from annotator: 2
+
+Example 2:
+Text: I guess Avicii got his wish He got to stay forever this young.
+Annotation from annotator: 2
+
+Example 3:
+Text: We just launched missiles at Syria?!?! Are we going to war?! WHAT THE F*CK?!? This idiot has been in office for a couple months and ALREADY?
+Annotation from annotator: 2
+
+Example 4:
+Text: My white friend was told by the priest that he was born in the light of God He then turned to a black guy and said "You were born in the shadow"
+Annotation from annotator: 2
+
+Example 5:
+Text: Why are people gay? Because they can't spell straight.
+Annotation from annotator: 2
+
+Example 6:
+Text: Genital Mutilation only matters when it happens to women, and why it's all men's fault.
+Annotation from annotator: 2
+
+Example 7:
+Text: Why do girls always say "why are you doing this to me?" whenever we have sex 
+Annotation from annotator: 2
+
+Example 8:
+Text: """Save me from the nothing I've become."" Well, I became something, actually. Something undesirable, that is."
+Annotation from annotator: 0
+
+Example 9:
+Text: RINO trash like @SpeakerBoehner, @KarlRove, @FrankLuntz see conservatives as the Democrat Party see blacks. As their slave property. #tcot
+Annotation from annotator: 2
+
+Example 10:
+Text: Just stop being a hoe God dammit bitch it ain't that hard
+Annotation from annotator: 2
+
+Example 11:
+Text: $60 torch down the drain cause either I was to high and lost it or one of my "niggas" finessed that hoe fuckkkkk ittt
+Annotation from annotator: 1
+
+Example 12:
+Text: What manner of black folk take their kids riding in the ghetto to point out misplaced youth and victimized &amp; cursed brethren and say:
+Annotation from annotator: 2
+
+Example 13:
+Text: A muslim calls the suicide hotline in Syria The agent picks up and asks: That's great to hear you want to commit suicide. Could you also drive a truck?
+Annotation from annotator: 2
+
+Example 14:
+Text: What's black white and red all over An emo kid cutting himself.
+Annotation from annotator: 2
+
+Example 15:
+Text: Why did the Jews go into the shower? Because it had no bad reviews
+Annotation from annotator: 2
+
+Example 16:
+Text: "@LODYCASH: dry pussy bitches always blame it on the condom&#128514;"&#128079;&#128514;&#128079;&#128514;
+Annotation from annotator: 2
+
+Example 17:
+Text: There was a blackout in my street last night So I shot him.
+Annotation from annotator: 2
+
+Example 18:
+Text: How many people died during WW2? Don't worry we don't know either, the Jews usually take care of the numbers.
+Annotation from annotator: 2
+
+Example 19:
+Text: From what I know they 're almost exclusively Nigerian asylum seekers .
+Annotation from annotator: 1
+
+Example 20:
+Text: gotta learn to say no because in the end i always end up getting fucked somehow
+Annotation from annotator: 0
+
+Example 21:
+Text: Are you? Don’t be racist, racism is a crime, and crime is for black people.
+Annotation from annotator: 2
+
+Example 22:
+Text: Guy on bus, talking to his friend, sitting beside me, a woman:: Look at that sign.  Women's basketball. His friend:: That shouldn't even be a sport. Made me feel invisible, sad & angry.
+Annotation from annotator: 0
+
+Example 23:
+Text: Cry me a fucking river is one of my favourite responses to whining but the whiners don't like it *shrugs*
+Annotation from annotator: 2
+
+Example 24:
+Text: So the stupid me decided to take a first step n send a stupid message askin about a stupid general thing with a warm n happy heart n soul
+Annotation from annotator: 0
+
+Example 25:
+Text: What's the difference between boy scouts and jews? Boy scouts come back from camp.
+Annotation from annotator: 2
+
+Example 26:
+Text: I hate the idea people wanting to miss with things that not there well just keep adding more security to my home..😂
+Annotation from annotator: 1
+
+Example 27:
+Text: Wanna here a life hack Go up to a baby and eat it
+Annotation from annotator: 2
+
+Example 28:
+Text: an arabian man was riding a camel in the desert one day the man got horny and decided to fuck the camel but when he is about to start the camel looked into his eyes and arabian man pitied it . after several times of this man saw an oasis in the middle of the desert . and there was a big lake in the middle of it . in this lake a beautiful woman was drowning and shouting for help . man hurries to the lake and saves this beautiful naked lady then the lady says : ' oh my hero you saved my life ask me whatever you like ! ' horny arab replies : ' hold that camels head so i can fuck it . ' ps : im a foreign speaker pls go easy on me .
+Annotation from annotator: 2
+
+Example 29:
+Text: I remember when my mum would tuck me in... She really wanted a daughter.
+Annotation from annotator: 1
+
+Example 30:
+Text: """I'm Kylar, from Tyler, my real name is Ines But Skylar said to change it and I do what Skylar says!"""
+Annotation from annotator: 0
+
+Target Example:
+Text: I feel so bad for them [women working in a fabric store] because they don't have anyone to carry the heavy things.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

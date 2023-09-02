@@ -1,0 +1,6 @@
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Target Example:
+Text: Can't wait to see that Monday.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

@@ -1,0 +1,122 @@
+Example 1:
+Text: Third, what picture then should go into the Harrison Ford infobox?  Would this one (Image:Harrison Ford 1) do it?
+Annotation from annotator: 12
+
+Example 2:
+Text: Hi Debresser, what's up? Why are you doing what you are doing?
+Annotation from annotator: 4
+
+Example 3:
+Text: If it's alright with you, I'm next going to start from 1930 and work back towards where you are, since I'm particularly interested in the Lang era. Is that okay?
+Annotation from annotator: 24
+
+Example 4:
+Text: I was reading the article reverse overshot wheel, but I can't find anything about the "reverse" part. Can you expand this?
+Annotation from annotator: 12
+
+Example 5:
+Text: Hi, I am having problems with one of the references you added as it goes to the main page and not to one showing any of the figures on religion. Can you have a look at <url>?
+Annotation from annotator: 16
+
+Example 6:
+Text: Were you the person who originally put FoxTrot up for peer review?  If you are, can you help me find the original request for peer review, so someone can resubmit a request and have the article reviewed again?
+Annotation from annotator: 12
+
+Example 7:
+Text: I am a fairly new admin.  When is it appropriate to use such a block as you did with a user I'd blocked?
+Annotation from annotator: 14
+
+Example 8:
+Text: Care to join in the conversation? How do you find JVL to be a RS?
+Annotation from annotator: 14
+
+Example 9:
+Text: Thanks for the username change. Now, one last thingu2014since the account 'Dalahxe4st' already exists on Swedish Wikipedia and doesn't appear to have been taken over automatically, where should I go to take care of that?
+Annotation from annotator: 18
+
+Example 10:
+Text: What do you think? And how does one go about establishing this project group?
+Annotation from annotator: 16
+
+Example 11:
+Text: You and I got different totals for the NRHP sites in Middlesex County u2014 my number was 1300, gained by piling all the listings into a list and putting a # before each one, so the total number would display.  Did you use a different calculation device?
+Annotation from annotator: 12
+
+Example 12:
+Text: The image is only used on ONE page - the site of the film.  What is the problem here, and how does it violate wikipedia policy?
+Annotation from annotator: 4
+
+Example 13:
+Text: The YA article is a right trainwreck, and having had to do much of the exact same work on <url> and <url>, I'm not keen to do it again a third time on <url>, and then defend three separate articles from identical POV pushes. Thoughts?
+Annotation from annotator: 8
+
+Example 14:
+Text: Hi- The Magnificent Clean-keeper- I note that you recently removed a contribution I made to the <url> page, citing lack of "notability" as the reason. Iu2019m not saying you where wrong to do so (notability is an important criteria in the Wiki project), however, since the definition of "notability" is hard to pin down, could we discuss this particular instance, in greater detail, at some point?
+Annotation from annotator: 17
+
+Example 15:
+Text: I'll also add some categories to cover the collaboration nomination procedure and we should think about setting up a project <url>.  Can you think of anything else that we need to tag that could be better handled through the comicsproj template than a banner on the front page?
+Annotation from annotator: 12
+
+Example 16:
+Text: You had deleted the mozzarepa article I was working on since it was judged as an advert (something I didn't intend.) How can I edit and change the article so it is acceptable?
+Annotation from annotator: 16
+
+Example 17:
+Text: Mailing lists are so last century. What about a private wiki?
+Annotation from annotator: 8
+
+Example 18:
+Text: (after multipled edit conflicts)I checked your behaviour and your contributions myself at the time, as did numerous other admins who reviewed your edits and the block and it was subject of extensive discussion on and off-site so your suggestion that I should have checked with others is silly. You violated Wikipedia's policies and were blocked rightly for it; you've been given a second chance and instead of being productive you come here to moan about a comment I made more than six months ago, that I still stand by, and to pursue your now year-old vendetta against Nick?
+Annotation from annotator: 0
+
+Example 19:
+Text: Here's <url> and <url>. Think these cleanings were appropiately made or were a few spots incorrect?
+Annotation from annotator: 12
+
+Example 20:
+Text: Do you know if the Department of Water & Power is free of racism and discrimination? Do you know anyone in the company?
+Annotation from annotator: 12
+
+Example 21:
+Text: Nice photo!  Could you help answer a question (<url>) at the Reference Desk related to the picture?
+Annotation from annotator: 24
+
+Example 22:
+Text: I read the diff upside down or something... Glad someone is keeping an eye on me :) I'm mainly doing stuff over here <url> these days, what are you up to currently? Still concentrating on the Ui Imair?
+Annotation from annotator: 16
+
+Example 23:
+Text: Hi old friend! Would you mind unprotecting my user/talkpages please?
+Annotation from annotator: 20
+
+Example 24:
+Text: There may not be a lot of situations like this, but there will definitely be some. I was wondering if there is any kind of invisible comment that can be added to the article in these situations so that the report doesn't include it, or if you have any other thoughts about how it might be possible to handle this situation?
+Annotation from annotator: 16
+
+Example 25:
+Text: Hi Orlady, I wanted to seek your advice....Information on FIBAA is available in the German language on Wikipedia : http://de.wikipedia.org/wiki/Foundation_for_International_Business_Administration_Accreditation. Is there any chance to have it in English?
+Annotation from annotator: 16
+
+Example 26:
+Text: The topic is a good one I think, but the year of closure should be listed. What do you think about adding the year of closure & dropping the "in the 1970s and 1980s" in the title?
+Annotation from annotator: 16
+
+Example 27:
+Text: Hi, I see you were involved in creating the ship infobox. Would you be interested in creating an infobox for windmills so that I could use it on individual windmill articles?
+Annotation from annotator: 17
+
+Example 28:
+Text: Not sure how much the vote matters, though. Do you think this should be mentioned at the TPM talk page if the review results in a relisting?
+Annotation from annotator: 12
+
+Example 29:
+Text: Hoi TheDJ, ik denk dat jij <url> Michaelovic wel even de goede richting uit kan helpen. Kan jij even kijken?
+Annotation from annotator: 12
+
+Example 30:
+Text: How did you learn Interlingua?  Was it an online course like lernu, or what?
+Annotation from annotator: 12
+
+Text: I'm wondering why you've removed this category from <url>'s page? Is he no longer part of the council?
+Annotation from annotator:

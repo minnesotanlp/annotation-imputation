@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Hey, long time no seeing! How's stuff?
+Annotation from annotator: 14.0
+
+Example 2:
+Text: A quick question: I've noticed that people (including yourself) have been moving links to other wikis from the top of the article to the bottom. If this a good thing to do, then I can do likewise, but I wondered if there was a rationale / convention here?
+Annotation from annotator: 19.0
+
+Example 3:
+Text: That's a good idea. What about army and corps HQs though?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: Thanks for your reply. I've tried to incorporate the references into the article; how is it now?
+Annotation from annotator: 16.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: I believe in previous versions of the article, the title of that section was "Left-libertarianism in political philosophy".  If it were changed back to something like that and moved to the top, would that be satisfactory?
+Annotation from annotator: 12.0
+
+Example 2:
+Text: So argument that "''Note: many Moldovans declared themselves as Romanians or Russians.''" is wrong because NO Moldovians declared themselves as russian?
+Annotation from annotator: 12.0
+
+Example 3:
+Text: So, I'm a "deletion fanatic"? Why don't you refrain from uncivil remarks and focus on adding sources to your unsourced stubs - help the encyclopedia rather than pissing off people?
+Annotation from annotator: 3.0
+
+Example 4:
+Text: I've been "busy" (all day today in Death Valley admiring the spring bloom), and I would like to get at least partial buyin from HG if possible. Not a big hurry to rename, right?
+Annotation from annotator: 12.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Thanks for your note, Tom. As a matter of interest, how could you know who someone is based on the IP address?
+Annotation from annotator: 15.0
+
+Example 2:
+Text: I restored 3 non-piped blue links.  How does that look?
+Annotation from annotator: 20.0
+
+Example 3:
+Text: My bot finally got past the connection errors I've been getting and spit out the largest 4,000 articles in sorted order for this. Would you like to take a short break while I replace the first page with them and manually mark all of the already-checked ones as done?
+Annotation from annotator: 18.0
+
+Example 4:
+Text: Hi I noticed you speedied and article but not it's talk page? What's the use of leaving the talk page, discussion or no, if you're going to speedy the article?
+Annotation from annotator: 4.0
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: Your closing statement in <url> has been cited as a <url> for the above AfD.  Can you make a comment in this discussion?
+Annotation from annotator:

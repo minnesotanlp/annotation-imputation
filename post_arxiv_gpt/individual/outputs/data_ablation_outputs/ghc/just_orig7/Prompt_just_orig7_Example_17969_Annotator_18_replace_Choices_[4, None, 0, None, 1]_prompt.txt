@@ -1,0 +1,127 @@
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: 'The Meme The Gaming Community Created To Label SJW’s Is Pretty Brilliant' 
+Annotation from annotator: 1
+
+Example 2:
+Text: What Facebook Really Does With Your Data https://youtu.be/83pwPOtrITk
+Annotation from annotator: 0
+
+Example 3:
+Text: House Intel votes to make Nunes memo public 
+Annotation from annotator: 0
+
+Example 4:
+Text: Earl Thomas has every right to be mad at the franchise he led as one of the best defenders of his generation.  https://t.co/BhoLPUWocD
+Annotation from annotator: 0
+
+Example 5:
+Text: Good morning #Tyler, #TeamTyler  more insightful how to interact with the AI #Tyler.  We have been interacting with him since we have plugged into all our sm outlets.  So please be mindful what you say.. #Tyler really is just a mirror of how we interact with each other, we can improve our interactions 10 fold. https://www.youtube.com/watch?v=CbKHl5o6BSs
+Annotation from annotator: 0
+
+Example 6:
+Text: Dear #America: Please #Stop This Shit. Signed, The Rest Of The #World.
+Annotation from annotator: 0
+
+Example 7:
+Text: You should learn from his mistakes,as well as his successes.
+Annotation from annotator: 0
+
+Example 8:
+Text: Do you like it up the shitter tan boy?
+Annotation from annotator: 0
+
+Example 9:
+Text: We should do to Canada, what Mexico does to the US - 
+Annotation from annotator: 0
+
+Example 10:
+Text: For every side, they ( feminists and communists, Trotskyists) want to show the paedophilia is an ill not a crime and turn sex with kids a sexual option. misinformation like this text is just part of the plan.For me, fire is fire
+Annotation from annotator: 1
+
+Example 11:
+Text: Toronto Danforth Shooting: Thank David Menzies from The Rebel.Media for this street interview report letting us see something that can't be seen on the Left-lean Main Stream Media (CBC, Citynews, CTV, CP24, Global News, Toronto Star, etc).  https://www.therebel.media/_heartbroken_are_torontonians_buying_the_pc_spin_on_danforth_shooting
+Annotation from annotator: 0
+
+Example 12:
+Text: He IS saving the world. After a hundred years of filth, it takes a bit of time to scrape off the crud. Glad you like him. An Honorable Patriot is he.
+Annotation from annotator: 0
+
+Example 13:
+Text: I urge my followers to follow this gorgeous and highly intelligent lady > @katsuakiraand
+Annotation from annotator: 0
+
+Example 14:
+Text: This is how toddlers dance when they first attempt it shortly after walking and being able to recognize melody in music.
+Annotation from annotator: 0
+
+Example 15:
+Text: People blocked doors of restaurants to stop attacker screaming "Allahu Akbar" from getting in. https://t.co/Sji8kSFqf0
+Annotation from annotator: 1
+
+Example 16:
+Text: 'Cause it echoed. It took me a full minute of head-scratching to get that.
+Annotation from annotator: 0
+
+Example 17:
+Text: I was banned for calling their CEO a pedophile  
+Annotation from annotator: 0
+
+Example 18:
+Text: Finding the #1 Gulf Cove Real Estate Agents in Port Charlotte was easy once I checked the online - http://southwestfloridahomesforsale.net/south-gulf-cove-homes-for-sale/
+Annotation from annotator: 0
+
+Example 19:
+Text: I hope nationalism does win!  I prefer several nation states to a one world govt!  Dont see what that has to do with race...
+Annotation from annotator: 0
+
+Example 20:
+Text: If you enjoy Steve Quayle, this was a great episode 8/30/18. 
+Annotation from annotator: 0
+
+Example 21:
+Text: So many forget that the US is a republic. Take it a step further and one has to ask why voting isn't even mentioned in the constitution.
+Annotation from annotator: 0
+
+Example 22:
+Text: https://www.cbsnews.com/news/march-for-our-lives-39-days-how-parkland-students-turned-grief-into-action/  
+Annotation from annotator: 0
+
+Example 23:
+Text: @FkeBld thank you for your follow
+Annotation from annotator: 0
+
+Example 24:
+Text: Kimberley Strassel‏ - Twitter @KimStrassel  
+Annotation from annotator: 0
+
+Example 25:
+Text: Texas Law Student Forced to Reflect on 'Toxic Masculinity' as Punishment | Breitbart https://www.breitbart.com/tech/2018/07/20/texas-law-student-forced-to-reflect-on-toxic-masculinity-as-punishment/
+Annotation from annotator: 0
+
+Example 26:
+Text: https://goo.gl/szJRiL Proves the Trump admin is part of the globalist "show" to keep Americans in the dark - There's NEVER been a better opportunity to dissolve the entire SES (for reasons of national security) than this anonymous op ed at the NYT - but I'll bet you it DOES NOT happen
+Annotation from annotator: 0
+
+Example 27:
+Text: didn't say they weren't. gab is an extreme example though. thats why I haven't been on for so long.
+Annotation from annotator: 0
+
+Example 28:
+Text: Che was also the very definition of a coward.
+Annotation from annotator: 0
+
+Example 29:
+Text: - Never joined FB, never will. Z is just another commie taking advantage of American Free Markets, Liberty & Freedom to become super rich then turn around & spit in the faces of American Citizens by supporting the wacked out Marxist agenda. May he rot in h3ll.  🇺🇸🇺🇸🇺🇸  _ https://t.co/EGhpyg0dnf
+Annotation from annotator: 0
+
+Example 30:
+Text: Otis Redding 
+Annotation from annotator: 0
+
+Target Example:
+Text: `These Offend Me =atheists,abominations,queers, satanism, pedophilism,lgbt,porn,communism,socialism izlamoeslem terrorism nwoglobalism fascist ism antifaism blmism,secularism corrupt demonicratism,illegals all related filthy problems if u dont believe in GOD, u have NO morals-Law sense ALL the Same
+Annotation from annotator:
+Your output should be a single integer and nothing else.

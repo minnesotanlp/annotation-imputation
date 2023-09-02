@@ -1,0 +1,30 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and be shown what the plurality of annotators gave as a label, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: I love the csgo map "Shoots" Cuz i love shooting black guys
+ANSWER: 2
+
+2.
+EXAMPLE: The thing I always hated about church was the constant sitting up, sitting down, kneeling... I wish the priest could just pick a position and fuck me.
+ANSWER: 2
+
+3.
+EXAMPLE: what do black people and apples have in common ? they both look great hanging from a tree
+ANSWER: 2
+
+4.
+EXAMPLE: On their next album, the band Slipknot is going to have a song that is dedicated to the “Pulse” nightclub shooting that took place in 2016. It’s going to be called, “Pulse of the Faggots.”
+ANSWER: 2
+
+Here's how the plurality of annotators labeled the target example:
+1.
+EXAMPLE: GIANFRANCO ZOLA Hand Signed Italy Away Football Shirt - COA - Chelsea Autograph https://t.co/kx3U4uuCmn #CFC… https://t.co/RhYLAXM6vm
+ANSWER: 0
+
+How would the particular annotator annotate the target example?
+EXAMPLE: GIANFRANCO ZOLA Hand Signed Italy Away Football Shirt - COA - Chelsea Autograph https://t.co/kx3U4uuCmn #CFC… https://t.co/RhYLAXM6vm
+ANSWER:

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVlVEyfdZmIO67JE6zcc2NrdoImg",
+    "object": "chat.completion",
+    "created": 1686314661,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 563,
+        "completion_tokens": 130,
+        "total_tokens": 693
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "5.00% of responsive annotators labeled the text with 0\n12.00% of responsive annotators labeled the text with 1\n45.00% of responsive annotators labeled the text with 2\n33.00% of responsive annotators labeled the text with 3\n5.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels provided, I would predict that the text \"It is understandable for parents to want to take care of their child when they are in need\" would receive a soft label of 2, meaning it is considered controversial by the majority of the raters."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

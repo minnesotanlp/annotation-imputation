@@ -1,0 +1,1 @@
+Cannot determine the annotation that annotator C would give for this example as it is not provided in the given information.

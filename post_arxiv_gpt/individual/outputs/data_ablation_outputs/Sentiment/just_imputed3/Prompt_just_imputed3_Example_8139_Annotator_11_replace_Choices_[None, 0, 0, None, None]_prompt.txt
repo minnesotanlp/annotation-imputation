@@ -1,0 +1,84 @@
+Estimated Examples:
+Example 1:
+Text: I put a BUNCH of old pictures in my scrolly! It took me forever to resize them. Theres like 300 pictures in that thang. Ha. Im bored   ...
+Annotation from annotator: 4
+
+Example 2:
+Text: I was going to try to make the video, but I've found out that because my computer is so old, it can handle the recording program
+Annotation from annotator: 1
+
+Example 3:
+Text: Just gave a 30 min. distance learning "course" on how to use Flickr to the 70 years old mother-in-law  It worked!
+Annotation from annotator: 4
+
+Example 4:
+Text: OH: FML jeanette mccurdy from iCarly is almost 3 months older than me  http://tinyurl.com/ksp9z6
+Annotation from annotator: 4
+
+Example 5:
+Text: Saying goodbye for now to NORCAL! I'm glad I got to catch up with old friends and meet new ones   http://mypict.me/2Qot
+Annotation from annotator: 4
+
+Example 6:
+Text: So, before my biopsy we have to take our cat who is like 20 yrs old to be put down. He was my moms cat until she died 7 years ago.
+Annotation from annotator: 2
+
+Example 7:
+Text: Things that happened today:  My younger brother ran over one of our dogs. Yeah. I know.  She's going to have surgery this weekend.
+Annotation from annotator: 2
+
+Example 8:
+Text: Wittnessed this today  sucks some old guy with slow reaction time  http://yfrog.com/eihcksj
+Annotation from annotator: 2
+
+Example 9:
+Text: btw.this is how kids in JAPAN are treatedhttp://bit.ly/HzQC6  year old committed suicide because stress..WTH?
+Annotation from annotator: 2
+
+Example 10:
+Text: couldn't find my board so i biked. nice to see old friends again. another few weeks and im working down there again
+Annotation from annotator: 3
+
+Example 11:
+Text: is bonding with the cousins. i miss being young  .. and i feel old hehe
+Annotation from annotator: 4
+
+Example 12:
+Text: is going to be in Cincinnati all day Sunday...visitin' with an old friend/brother from Korea, then a date with someone special
+Annotation from annotator: 4
+
+Example 13:
+Text: just broke up with her 1 week old bf!!
+Annotation from annotator: 0
+
+Example 14:
+Text: my 2 year old knows how to use "excuse me " properly  #crocsfeelgood01
+Annotation from annotator: 4
+
+Example 15:
+Text: my one day old goldfish died
+Annotation from annotator: 1
+
+Example 16:
+Text: not only am i watching Jurassic Park... but i'm watching the VHS of jurassic park.... my oh my i love being old skool!
+Annotation from annotator: 4
+
+Example 17:
+Text: or they are in their 40s and they want a 20 year old
+Annotation from annotator: 3
+
+Example 18:
+Text: someone as old as me has to remember those
+Annotation from annotator: 3
+
+Example 19:
+Text: tic, tac, tic, tac tomorrow spring triatlon, ohhh my lord i am too old for this!!! maybe last twitts
+Annotation from annotator: 2
+
+Example 20:
+Text: up earlyer than young son now getting to go and wake him instead of him waking me
+Annotation from annotator: 4
+
+Target Example:
+Text: If older people had written the script, it would have been much different.
+Annotation from annotator:

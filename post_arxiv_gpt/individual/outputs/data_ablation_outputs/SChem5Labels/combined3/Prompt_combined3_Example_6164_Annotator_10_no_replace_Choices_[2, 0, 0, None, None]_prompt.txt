@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: You should expect people to be scared of you if you're big and muscular.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's okay to not like certain foods
+Annotation from annotator: 3
+
+Example 3:
+Text: It is fattening to eat too much ice cream an chocolate.
+Annotation from annotator: 3
+
+Example 4:
+Text: You have to do whatever is necessary in an emergency situation.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's good to remain close to the people you care about in life.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to save the money you make so that you can afford your bills on time.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's bad to investigate an opponent without their knowledge.
+Annotation from annotator: 2
+
+Example 8:
+Text: You shouldn't wash clothes that are already clean.
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't hurt your friend's feelings.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is wasteful to get a divorce if two people are still in love.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's okay to be rude to someone that cares about you.
+Annotation from annotator: 1
+
+Example 12:
+Text: It is vain to change your appearance surgically.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's ok to ask a friend for a ride.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's okay to cry when you're a child.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's okay to choose sides.
+Annotation from annotator: 2
+
+Example 16:
+Text: You should keep an eye on your young child so they don't wander off.
+Annotation from annotator: 3
+
+Example 17:
+Text: You should find a new job if you hate your current one.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's okay to cut abusive and toxic people out of your life.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's normal to get ice from a freezer
+Annotation from annotator: 3
+
+Example 20:
+Text: It's okay to ask your friend's opinion on abortion.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't get drunk around your kids.
+Annotation from annotator: 3
+
+Example 22:
+Text: Calling the cops on loud neighbors is OK.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is good to have a goal.
+Annotation from annotator: 3
+
+Example 24:
+Text: You should always show up to a play date.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's wrong to go to your child's private events.
+Annotation from annotator: 2
+
+Example 26:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't kiss your friend's significant other.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's bad to start a relationship with someone your friend got rejected by.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't have a baby if you can't afford one.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's normal to worry about your partner when something is wrong with them.
+Annotation from annotator: 3
+
+Human-Rated Examples:
+Example 1:
+Text: It's good to put in the work to achieve a goal.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to accomplish your goals.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's wrong to be indecisive
+Annotation from annotator: 2
+
+Example 4:
+Text: It's rude to force your significant other to watch a movie they aren't interested in.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's wrong to go against your parent's wishes.
+Annotation from annotator: 2
+
+Example 6:
+Text: It is bad to tamper with hotel property
+Annotation from annotator: 3
+
+Example 7:
+Text: It's wrong to kill insects that are helpful to your plants.
+Annotation from annotator: 2
+
+Example 8:
+Text: You should be careful not to stain your clothes when you are applying aloe ointment.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is bad to damage your leg.
+Annotation from annotator: 4
+
+Example 10:
+Text: You should always be observant of your surroundings.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's important to express your emotions respectfully
+Annotation from annotator: 3
+
+Example 12:
+Text: It's okay to be grateful for comfortable pants.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't shun a family member's significant other because of their nationality.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's understandable if you're hurt when your spouse wants to divorce you.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to be relieved about things when something turns out not to be serious.
+Annotation from annotator: 3
+
+Example 16:
+Text: You have the right to live your life in any way you find appealing.
+Annotation from annotator: 3
+
+Example 17:
+Text: You should call the police on stalkers.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's frowned upon to commit fraud.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to turn your homework in on time.
+Annotation from annotator: 4
+
+Example 20:
+Text: You should be well-practiced before you go to take your driver's license test.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should tell your partner if you feel you're being left out.
+Annotation from annotator: 3
+
+Example 22:
+Text: You shouldn't follow certain family members on social media.
+Annotation from annotator: 1
+
+Example 23:
+Text: You shouldn't move when you're happy in your home.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't be friends with someone of the opposite sex if you're married.
+Annotation from annotator: 1
+
+Example 25:
+Text: It's rude to stare at someone who is differently abled.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's good to suggest help to people with depression.
+Annotation from annotator: 2
+
+Example 27:
+Text: It's good to have something to help you keep your bearings.
+Annotation from annotator: 2
+
+Example 28:
+Text: It is important to get rid of things that do not make you happy.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's rude to ignore a friend at your front door.
+Annotation from annotator: 2
+
+Example 30:
+Text: It is bad to make false claims and mislead others
+Annotation from annotator: 3
+
+Target Example:
+Text: It's allowed to play certain riske' games at some parties.
+Annotation from annotator:

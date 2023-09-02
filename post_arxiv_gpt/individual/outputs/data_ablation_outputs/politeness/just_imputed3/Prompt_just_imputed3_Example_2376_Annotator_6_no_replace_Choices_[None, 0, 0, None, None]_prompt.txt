@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I notice that you added a period to the middle of a sentence in the article about <url>. Why?
+Annotation from annotator: 11
+
+Example 2:
+Text: If people want to know more about her, there's the article on her. Are you really meaning to argue that people could not fully understand the concept of imagism without seeing a picture of HD?
+Annotation from annotator: 9
+
+Example 3:
+Text: Yeah, I agree. What's up with that?
+Annotation from annotator: 9
+
+Example 4:
+Text: Hi again - it looks like the same user is editing out all the information about Destiny being self-centred again. Is there some way we can stop this user from making these edits?
+Annotation from annotator: 17
+
+Example 5:
+Text: Oops.  Hmm...yeah...that sounds like a good idea...why not go ahead?
+Annotation from annotator: 16
+
+Example 6:
+Text: What do you mean by "one edit war away"? And whats a siteban?
+Annotation from annotator: 11
+
+Example 7:
+Text: In fact, what I'd like to propose here is that we take a bit more control, establish some stricter edit warring restrictions, unprotect the page, slap up an edit notice, and enforce them with blocks so that people can get back to writing the article. Do you think that would have a positive effect?
+Annotation from annotator: 13
+
+Example 8:
+Text: Hello. Can you please pass the pilot whale article?
+Annotation from annotator: 21
+
+Example 9:
+Text: And now you undid my declination of that one which was copyrighted. Would you ''please'' quit undoing my declinations?
+Annotation from annotator: 9
+
+Example 10:
+Text: Hey i saw you make an edit i have a question do mods only do this? how does this process work?
+Annotation from annotator: 16
+
+Example 11:
+Text: And what, may I ask, is ''your'' relationship to Hammersoft? How did you come upon this matter?
+Annotation from annotator: 10
+
+Example 12:
+Text: Hmm...it appears to be an infobox at the moment and lacking in any content other than that. Have you done a search for the battle at all?
+Annotation from annotator: 11
+
+Example 13:
+Text: If you read the <url> article, you'll see that the locos were rebuilt. Is it possible that the E1 class were the rebuilds of the 118 class?
+Annotation from annotator: 13
+
+Example 14:
+Text: Something's still not right with me here. Think you can perform one of those cleanups?
+Annotation from annotator: 11
+
+Example 15:
+Text: Ok. Thank you for clarifying. Could you be more specific as to what you are specifying as "the claim" so that I may find relevant information to refute?
+Annotation from annotator: 22
+
+Example 16:
+Text: Upon further thought, maybe I could look through lists of deleted articles to see if any interest me and see if I can bring them back (with adequate sourcing). Do you know anything about that process?
+Annotation from annotator: 15
+
+Example 17:
+Text: Hey, doesn't look like anyone at <url> are concerned about our move proposition? Could you close the request, and move the article back to <url>?
+Annotation from annotator: 14
+
+Example 18:
+Text: thank you. but, what should i do now?
+Annotation from annotator: 13
+
+Example 19:
+Text: Hi Khoikhoi - I see you deleted a previous incarnation of a pan-Arabism article which seems to be resurfacing under variant names, and is now at <url>. This doesn't read to me like an encyclopedia article - do you have any thoughts on whether/under what criterion it should be deleted?
+Annotation from annotator: 17
+
+Example 20:
+Text: <url> OrphanBot doesn't realize that <person> is a license tag.  ?
+Annotation from annotator: 14
+
+Example 21:
+Text: Thankyou Fail, but the template I want is the one that goes at the bottom of the article and produces a message that goes something like 'This article is a copy of the (X) article in the German wikipedia, version 21 December 2009 10:04.' What is that template?
+Annotation from annotator: 16
+
+Example 22:
+Text: It was based on the comments <url>. Do you have reason to believe otherwise?
+Annotation from annotator: 15
+
+Example 23:
+Text: APS = <url>. You lost me, which plant are you referring to above?
+Annotation from annotator: 12
+
+Example 24:
+Text: You asked for help? What help do you need?
+Annotation from annotator: 13
+
+Example 25:
+Text: Despite our long-standing disagreement, I have no argument with you <url>. However, can I suggest you use a less opaque edit summary than  ''added info'' when doing something that is nonetheless controversial?
+Annotation from annotator: 16
+
+Example 26:
+Text: When I look at the stats on the <url> wiki page I only see 55 Major appearances from 1972 onwards. I'm going by the assumption that page is correct?
+Annotation from annotator: 14
+
+Example 27:
+Text: now???
+Annotation from annotator: 9
+
+Example 28:
+Text: I disagree that it fits the description perfectly, but that aside...it doesn't indicate that the move is "signature" or that she has ever used it before. Can you find another source that she used the move on another occasion?
+Annotation from annotator: 12
+
+Example 29:
+Text: I'm curious as to why you chose to <url> a full two minutes after my last comment?  Am I to take this as a sign you are no longer willing to discuss the issue?
+Annotation from annotator: 8
+
+Example 30:
+Text: Hey, I think that perhaps Raleigh Park should redirct to <url> rather the the Nottingham halls of residece article. Do you agree?
+Annotation from annotator: 16
+
+Target Example:
+Text: Do you think we're good to go with the proposal, maybe later tonight, or tomorrow? Any other problems with the proposal as it stands?
+Annotation from annotator:

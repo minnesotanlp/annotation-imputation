@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: heil sisters and brothers lit see if this makes it I do n't care about looks I 'm a happy puppy if you are WHITE PRIDE thin you are right. if you are skin or kkkk or A.N or what ever you are We are family in this war for are gods and race stand tall and be proud to be a ARYAN 88 Goldenboy 88
+Annotation from annotator: 2
+
+Example 2:
+Text: Clay's mom is annoying and Hannah's Dad is an asshole
+Annotation from annotator: 0
+
+Example 3:
+Text: Here is a synosis I just found on google : There is much more to this as I hope to show when my package arrives .
+Annotation from annotator: 0
+
+Example 4:
+Text: As if both our brothers have been excluded this week for being idiots &#128514;&#128514;@ellieglover_
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Whats difference between victims of 9/11 and peoples that are reading this shit? No one see that coming
+Annotation from annotator: 2
+
+Example 2:
+Text: Girl:: *says something about Gangnam Style and gets Psy's ethnicity incorrect* Me:: Psy is Korean. Girl:: So what? Chinese, Korean, Japanese - they're all the same! Me:: No, they're not. They are three different countries. Girl:: Whatever! I don't care; it doesn't matter. Said by a white girl in English class to me, a Chinese girl. Made me feel frustrated and angry.
+Annotation from annotator: 0
+
+Example 3:
+Text: made a very intricate and beautiful song and now it's time to finish this bottle of wine and make stupid shit to make the clurb go dumb 2
+Annotation from annotator: 0
+
+Example 4:
+Text: What's an Arabic's favorite bathroom accessory? a bath bomb
+Annotation from annotator: 2
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Chat updates: you can now delete DM’s, move messages to and from spam, and messages will only delete 24 hours after you’ve actually viewed them. 
+Annotation from annotator: 0
+
+Example 2:
+Text: "Women have been equal socially for quite awhile now" &lt;-- said with all of the authority of the truly uninformed
+Annotation from annotator: 0
+
+Example 3:
+Text: I think Fuller House should have been called Straight Flush where Jesse,Danny and Joey are now plumbers and they can't get a toilet unclogged and the frustration causes them to snap and terrorize the city. 
+Annotation from annotator: 0
+
+Example 4:
+Text: What a sad, pathetic has-been Robert De Niro has become. 
+Annotation from annotator: 0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: what is every black persons favorite song ? lynching by the k <elong>
+Annotation from annotator:

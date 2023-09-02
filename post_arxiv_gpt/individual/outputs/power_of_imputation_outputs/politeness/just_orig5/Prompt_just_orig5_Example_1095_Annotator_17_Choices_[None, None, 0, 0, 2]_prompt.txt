@@ -1,0 +1,7 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Predict the integer label of the following example:
+Target Example:
+Text: Quite welcome. Doesn't Huggle use rollback when available and applicable (last several edits were by the same user)?
+Annotation from annotator:
+The only valid output is a single integer.

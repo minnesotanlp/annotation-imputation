@@ -1,0 +1,245 @@
+Human-Rated Examples:
+Example 1:
+Text: I think I had food poisoning 2 days in a row. Yesterday after sushi, and today after eating chicken salad w/ chicken that was a bit old
+Annotation from annotator: 2
+
+Example 2:
+Text: @emilycopeland Yeah! I was doing an older version...now I have Extreme, so I just gotta get a yoga matt and a pull up bar then I'll start
+Annotation from annotator: 2
+
+Example 3:
+Text: listening old pakistani songs
+Annotation from annotator: 2
+
+Example 4:
+Text: off to spend my morning with 5 year olds...my favorite is the tiny one with the big brown eyes
+Annotation from annotator: 3
+
+Example 5:
+Text: @CountryGirlND by the way... happy birthday you old bat  love ya
+Annotation from annotator: 3
+
+Example 6:
+Text: @JGunds I really, really want to! But I already made plans to see some old friends tonight. I can't believe I'm going to miss out on 3eb
+Annotation from annotator: 3
+
+Example 7:
+Text: @themacgirl no place like it.  sing some 'my old ky home' and you will feel better
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6gdtl - FAM BAM  haha this pic is so old..
+Annotation from annotator: 2
+
+Example 9:
+Text: doing a little old othing. Going to bed fresh and clean ...my day starts late tomorrow
+Annotation from annotator: 3
+
+Example 10:
+Text: Grandpa + 88 years old + fall = broken leg. Not good.
+Annotation from annotator: 1
+
+Example 11:
+Text: No kids no time soon! Havin a 7 year old sista is ENOUGH!  I sooo love her tho!
+Annotation from annotator: 3
+
+Example 12:
+Text: @eggrollstan Thank you so much.  His fever went down and he was back to his old self, like nothing ever happened.
+Annotation from annotator: 3
+
+Example 13:
+Text: did you watch #lost's finale eps? wonder what's with Jack's dad on the island now  is that the older jacob? tell us moooore
+Annotation from annotator: 2
+
+Example 14:
+Text: Just checking out some 25 year old Pro Wrestling Illustrated magazines and realized how great Kerry Von Erich was from back in 1984.
+Annotation from annotator: 3
+
+Example 15:
+Text: http://twitpic.com/5ofu1 mie bakso laksana! the oldest and bestest mie cina sunda in all of tasik  u just cant stop eating here!!
+Annotation from annotator: 3
+
+Example 16:
+Text: is going shopping with an old friend!
+Annotation from annotator: 2
+
+Example 17:
+Text: @LuinLuLand you have sooo been hustled...gotta watch out for the 5 yr old's...they know there stuff alright
+Annotation from annotator: 2
+
+Example 18:
+Text: @renaedeliz What the heck?  I'm older then you and I still don't remember that...course no one remembers kid turbo
+Annotation from annotator: 2
+
+Example 19:
+Text: Really need to stop talkin to jugs and slip i'm obviously umm young for them...
+Annotation from annotator: 2
+
+Example 20:
+Text: miss good old St James and Green Park, especially when the daffs are out   Have a great show
+Annotation from annotator: 3
+
+Example 21:
+Text: We're going to start to shoot a pretty, young blonde now
+Annotation from annotator: 3
+
+Example 22:
+Text: does anyone have this girl nicky following them? like she has 3453 profiles i bet its a 42 yr old perv making profiles up ewww
+Annotation from annotator: 1
+
+Example 23:
+Text: @BeautyBlogger Wish my blog qualified.  Not 3 months old yet
+Annotation from annotator: 2
+
+Example 24:
+Text: not looking forward to tomorrow...how do you prepare an 11 yr old to attend a funeral of a dear friend
+Annotation from annotator: 2
+
+Example 25:
+Text: looking forward to having a good old spree in meadowhall with @AniNicholas
+Annotation from annotator: 3
+
+Example 26:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 27:
+Text: so excited to catch up with some old friends tonight!  haven't seen them in a while
+Annotation from annotator: 4
+
+Example 28:
+Text: im currenty editing pics and listening to old hannah montana songs
+Annotation from annotator: 2
+
+Example 29:
+Text: @tedmurphy Honey is good, especially in tea! My 2 year old would put it on EVERYTHING.Wonder if he likes the stickiness?
+Annotation from annotator: 3
+
+Example 30:
+Text: @hellosunshine05 thanks  no but seriously once we're older we have to go there!
+Annotation from annotator: 3
+
+Estimated Examples:
+Example 1:
+Text: just gave a bad attitude to the old dude that hits on me  THATS RIGHT BIOTCH
+Annotation from annotator: 0
+
+Example 2:
+Text: Growing young is the definition of life and they are as handsome now - with their decades of living on display - as they were in their twenties.
+Annotation from annotator: 4
+
+Example 3:
+Text: arguing with a four year old about the need to be immunized, poor love she is getting jabbed tomorrow
+Annotation from annotator: 2
+
+Example 4:
+Text: Twitted vacation party people.  I kinda miss the old days when I was in a bubble  see y'all soon.
+Annotation from annotator: 3
+
+Example 5:
+Text: nothing quite like hearing you're 15 month old cry when you walk out the door to go the work
+Annotation from annotator: 3
+
+Example 6:
+Text: @knotby9 my mom died when i was 3 months old,i never knew her
+Annotation from annotator: 0
+
+Example 7:
+Text: listens to Hilary Duff - Jericho. old song but still VERY GOOD!
+Annotation from annotator: 3
+
+Example 8:
+Text: Diet starts today. It is 7am and already craving for a good old cendol.
+Annotation from annotator: 3
+
+Example 9:
+Text: hollywood-jonas bothers ahhh the jb oldies..
+Annotation from annotator: 4
+
+Example 10:
+Text: It's raining, it's pouring, the old man is snoring! I love the sound of the rain
+Annotation from annotator: 2
+
+Example 11:
+Text: i want to get back to dancing...but im intimidated of other dancers...im not getting any younger
+Annotation from annotator: 4
+
+Example 12:
+Text: I usta love vincent donofrio. Now he's old n sad I think
+Annotation from annotator: 1
+
+Example 13:
+Text: @keith_johnson The link I posted takes you to footage of the old Art Linkletter show, which I remember quite well. I have his 1957 book
+Annotation from annotator: 3
+
+Example 14:
+Text: can't wait for punch out to arrive for his wii, propa old school tings! Man dem knock out ball-ead big bull ya-ear!!!
+Annotation from annotator: 3
+
+Example 15:
+Text: @saralovzdrew I'm 17..and his 18  haah..I normally go for guys 2/3 years older tho
+Annotation from annotator: 3
+
+Example 16:
+Text: RIP Danny LaRue... sad news indeed... all the old troupers seem to be falling away....
+Annotation from annotator: 0
+
+Example 17:
+Text: @Satans_Thong awww.... 33 is a cute age  not much older than me then x
+Annotation from annotator: 3
+
+Example 18:
+Text: @kayjay12 I figured you were young enough to be excited, thus young enough to be asked.
+Annotation from annotator: 3
+
+Example 19:
+Text: @chrismcdonough LOL! Our kitchen recipe stock is still contained in old-fashioned books, can't digitize their character.
+Annotation from annotator: 2
+
+Example 20:
+Text: Honest to goodness. Are there just no young people who go to the theater. I feel like this is the Sunday afternoon show at the Civic.
+Annotation from annotator: 3
+
+Example 21:
+Text: @CherubNkotb sorry my darn comp is messed up ..browser is too old and i can't see our new private home...  ill talk to everyone 2morrow
+Annotation from annotator: 1
+
+Example 22:
+Text: @bronte_saurus I saw a lot of that in France. What happens to the puppies when they r too old to pull coins?
+Annotation from annotator: 2
+
+Example 23:
+Text: *sniffs* my 1 year old brother, Jack, is in the ER right now...he fell and cut his forehead open on the table  http://twitpic.com/7qqtx
+Annotation from annotator: 0
+
+Example 24:
+Text: Scoop: poor little Dawne Wilson.  The 36 yr old sistah was arrested for stalking ya boy #TYLER PERRY! The chick was outside his studios
+Annotation from annotator: 0
+
+Example 25:
+Text: Having margaritas with an old roomie
+Annotation from annotator: 3
+
+Example 26:
+Text: Now off to Peters for ice cream. Not as good as the old days though.  #yyc
+Annotation from annotator: 4
+
+Example 27:
+Text: @btcoffee one summer when i was younger we had a duck couple that stayed in our front yard the whole time
+Annotation from annotator: 0
+
+Example 28:
+Text: A 26 year old man died of Swine flu after only one day of catching it, First death in Australia caused by the swine flu
+Annotation from annotator: 0
+
+Example 29:
+Text: I was home sick yesterday but I missed all of you  Hello followers new & old!
+Annotation from annotator: 3
+
+Example 30:
+Text: realizing that i am toooo old for the stuff i pulled..my muscles hurt like hell
+Annotation from annotator: 1
+
+Target Example:
+Text: OM freak'n G! Why have been up 4 several hours watch'n old 90's videos LoL i looove ole school R&B....good times good times
+Annotation from annotator:

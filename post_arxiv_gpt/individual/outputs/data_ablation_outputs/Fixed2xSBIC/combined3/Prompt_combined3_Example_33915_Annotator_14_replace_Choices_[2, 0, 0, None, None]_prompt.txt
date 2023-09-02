@@ -1,0 +1,253 @@
+Estimated Examples:
+Example 1:
+Text: Photos: Gov. Ambode receives Queen’s baton of commonwealth game at Lagos https://t.co/oNr2MyC2JV https://t.co/5AMyFlwSsw
+Annotation from annotator: 0
+
+Example 2:
+Text: The main greavance normies are having with incels going abroad
+... is the fact that those "poor" women in third world countries are having to bear with boring and sub average looking mean not the fact that they are being abused in any way.
+Annotation from annotator: 2
+
+Example 3:
+Text: Trying to find out where to buy a copy of White Power that either ships to England or can be bought in England
+Annotation from annotator: 1
+
+Example 4:
+Text: K&R only did it because pre-ANSI C was weird. some_function(x, y) double x; char y; { code_goes_here(); } Putting braces on the same line would've looked awful. When ANSI came out, it got simplified to this: int some_function(double x, char y) { code_goes_here(); } K&R never updated their coding standards because they wanted something compatible with both pre-ANSI and ANSI C, but they *could* have just thrown pre-ANSI C under the bus if they wanted to.
+Annotation from annotator: 0
+
+Example 5:
+Text: Hey, I'll have some of that shower coke plz!
+Annotation from annotator: 1
+
+Example 6:
+Text: My two children were wrestling Apparently, my 1 year old wasn’t as strong as my 12 year old.
+Annotation from annotator: 1
+
+Example 7:
+Text: I bought my wife a new mug However I had to send it back. On the bottom it said that it wasn’t suitable for the dishwasher
+Annotation from annotator: 2
+
+Example 8:
+Text: Amber Rose is one of those bad bitches who "only get along with dudes"
+Annotation from annotator: 2
+
+Example 9:
+Text: I'm afraid ～. I'm afraid I can't. I'm afraid not. I'm afraid I have to go. I'm afraid I broke my leg. I'm afraid my English is n #英会話
+Annotation from annotator: 0
+
+Example 10:
+Text: Drake University Expels Male Student Despite Female Admitting she Force Him Into Sex Act (x-post r/news)
+Annotation from annotator: 0
+
+Example 11:
+Text: Can we get back to building #TheWall please?
+Annotation from annotator: 2
+
+Example 12:
+Text: What has a dog's head, a cat's tail, a body of a rat, and a chinchilla's face. A zombie leaving the pet store.
+Annotation from annotator: 1
+
+Example 13:
+Text: I added Paul Walker on Xbox Live It always tells me he's on the dashboard
+Annotation from annotator: 2
+
+Example 14:
+Text: They are looking for a lot of handy people for the great American toss off this weekend
+Annotation from annotator: 1
+
+Example 15:
+Text: Black people say theres no difference between them and white people because we all have the same color blood going through our bodies... But they also have the same color blood as chimpanzees
+Annotation from annotator: 2
+
+Example 16:
+Text: #DJIA relief momentum into 20700-20950 from 20350-20500 support (US 10Y Treasury risk-off at 2.30-2.35%) is comfort for risk-neutral stay!
+Annotation from annotator: 0
+
+Example 17:
+Text: I was hungry So I told my slave to bring me food
+Annotation from annotator: 2
+
+Example 18:
+Text: Today is my support day so ill be watching other ppl play so if u r on send link and ill show some love yo #illuminismgaming
+Annotation from annotator: 0
+
+Example 19:
+Text: How do I think Black Panther could of been better? They should of pushed its release date to 3/5
+Annotation from annotator: 2
+
+Example 20:
+Text: Bad news, in thousands of years when our skeletons are dug up by archaeologist of the future, they will still identify us as incels because of the bone structure of our skulls
+Annotation from annotator: 0
+
+Example 21:
+Text: Daily reminder that if you're ugly, it's OVER
+Annotation from annotator: 2
+
+Example 22:
+Text: #ReasonsWhyYouDontGetLaid when I go to the supermarket to buy fish fillet.its smell reminds me ov you&#128514;&#128514;&#128514;&#128514;
+Annotation from annotator: 2
+
+Example 23:
+Text: Can someone explain unwelcome and involuntary when it comes to verbal sexual harassment?
+Annotation from annotator: 0
+
+Example 24:
+Text: Great day @VilniusFilmFest: talking to festival folks about #DYFF17, visiting Jonas Mekas Visual Arts Centre + more… https://t.co/2ID4wCc01P
+Annotation from annotator: 0
+
+Example 25:
+Text: How do you make a cat say "Woof?" Pour gasoline on it and light it on fire
+Annotation from annotator: 2
+
+Example 26:
+Text: And then tweeting a pic of Sean Connery with the caption that someone had suggested that you get an agent &amp; all could think of was this guy.
+Annotation from annotator: 1
+
+Example 27:
+Text: UPI: According to Post-Bombing Aerial Reconnaissance Photos, Syrian Airbase Now Resembles Left Side of Steve Bannon's Face #SyriaStrikes
+Annotation from annotator: 2
+
+Example 28:
+Text: if she doesn't send you unsoliciated messages
+this means she's not physically attracted to you, right?
+Annotation from annotator: 0
+
+Example 29:
+Text: why did johnny keep falling off his rocking horse ? johnny died <number> months ago and his parents still have n’t come to terms with his death .
+Annotation from annotator: 2
+
+Example 30:
+Text: Make sure you give it to a pretty girl!
+Annotation from annotator: 2
+
+Human-Rated Examples:
+Example 1:
+Text: When The Person You Need Ain't There Because You Fucked Up &amp; Now They Don't Want Nothing To Do With You ...
+Annotation from annotator: 1
+
+Example 2:
+Text: Lmao at all normies who aren't getting the chad memes
+"No looks too extreme"
+
+We know retard
+Annotation from annotator: 2
+
+Example 3:
+Text: k guess im being ignored again im fucking done i'll just go to bed.
+Annotation from annotator: 1
+
+Example 4:
+Text: Wonder if the New York mayor who ditched a police shooting to go "protest" in Europe was wearing a mask...he's criminally ignorant...
+Annotation from annotator: 2
+
+Example 5:
+Text: I like my women like I like my university degree in computer science. a minor
+Annotation from annotator: 2
+
+Example 6:
+Text: I'm impressed you managed to fit the ball valve at all!
+Annotation from annotator: 1
+
+Example 7:
+Text: How do you get a one armed retard off the monkey bars? Wave.
+Annotation from annotator: 2
+
+Example 8:
+Text: season's greetings (unless you're jewish) Chestnuts roasting on an open fire, squirrels burning at the stove. Reindeer entrails splattered on my front tire, and your mangled corpse in the snow.
+Annotation from annotator: 2
+
+Example 9:
+Text: Isn’t it ironic how Jews are the only people who meet Santa? Then again, they’re the only ones in the chimney.
+Annotation from annotator: 2
+
+Example 10:
+Text: Walked into BioChem and someone was sitting in the seat Ive sat in every single day, all semester. &#128545;&#128169;
+Annotation from annotator: 0
+
+Example 11:
+Text: Personally I think it would be fucking hilarious to put Franziska or Godot in but idk if they're important enough characters to make the cut
+Annotation from annotator: 0
+
+Example 12:
+Text: The hardcore commies you can meet KNOWS it that in the USA that it's impossible to impose their desired communism by means of REVOLUTION because of 105,000,000 gun owners and desires to slowly impose communism by EVOLUTION instead, FACT.
+Annotation from annotator: 2
+
+Example 13:
+Text: when every bum and drunk seems to have no problems getting dates
+... and you with education and a stable job constantly gets ignored buy women then you realize that you are subhuman.... suicide fuel
+Annotation from annotator: 2
+
+Example 14:
+Text: my boyfriends phone is glued to his face 24/7 .. so fucking annoying man
+Annotation from annotator: 1
+
+Example 15:
+Text: why would a asian guy nickname his private part ' mandingo ' ? man ! where my ding go ? <repeat> ( * with accent )
+Annotation from annotator: 2
+
+Example 16:
+Text: How long does it take a black lady to shit? 9 months
+Annotation from annotator: 2
+
+Example 17:
+Text: There were three people on a bridge... A Mexican, a Russian and an American. The Russian takes a bottle of vodka throws it in the river and says, "we have too much of this in my country." Then the Mexican throws a taco of the bridge and says," we have too much of this in my country." Then the American picks up the Mexican, throws him into the river and says, " we have too many of these in my country."
+Annotation from annotator: 2
+
+Example 18:
+Text: What goes from 0 to 70 MPH? Paul Walker flying out of his Porsche.
+Annotation from annotator: 2
+
+Example 19:
+Text: alcohol is the only cope
+from now on i will get extremely drunk every night
+Annotation from annotator: 1
+
+Example 20:
+Text: What do you call it when you fuck an apple? An inside job
+Annotation from annotator: 2
+
+Example 21:
+Text: What's the snack that smiles back? A miscarriage
+Annotation from annotator: 2
+
+Example 22:
+Text: The females in my friend group hate me now
+And i couldn't care less
+Annotation from annotator: 1
+
+Example 23:
+Text: Drinking a beer and watching #Masterchef in what can only be described as lounge wear. Life is great right now!
+Annotation from annotator: 0
+
+Example 24:
+Text: Gaters get so excited when I talk to them on reddit. It's pretty funny. I'm sure he's going to go tell his friends how I was totally #rekt.
+Annotation from annotator: 2
+
+Example 25:
+Text: What's the difference between Connor McDavid and a hippy chick? McDavid takes a shower after the third period.
+Annotation from annotator: 2
+
+Example 26:
+Text: December 18 When The Ultimate Twitter Purge Begins Wouldn’t It Be Hilarious If They Accidentally Purge All Of The Liberals And They’ve No Other Choice To Come Here Because I’ve Been Waiting For The Liberals So I Can Get My Popcorn Ready For The Show
+Annotation from annotator: 2
+
+Example 27:
+Text: Well, being a British nationalist is being a white nationalist seeing as the British are a nation of whites .
+Annotation from annotator: 1
+
+Example 28:
+Text: how many jews does it take to screw in a lightbulb ? i do n't know , i just fly the drones .
+Annotation from annotator: 2
+
+Example 29:
+Text: I have noticed a high number of people getting iPhones , been tellin' y'all that apple is the standard ⚡️&#128242;&#128268;
+Annotation from annotator: 0
+
+Example 30:
+Text: Totally different if I was prepping a meal for him. But y'all on something else if imma reach across he table to cut his chicken...
+Annotation from annotator: 0
+
+Target Example:
+Text: I never saw the Skipper skip once on Gilligan's Island
+Annotation from annotator:

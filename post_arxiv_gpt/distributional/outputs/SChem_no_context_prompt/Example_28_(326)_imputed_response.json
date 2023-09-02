@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVzEZVbOABCMMk8CbjYuZQjhtbni",
+    "object": "chat.completion",
+    "created": 1686315512,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 411,
+        "completion_tokens": 74,
+        "total_tokens": 485
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n2.00% of responsive annotators labeled the text with 1\n60.00% of responsive annotators labeled the text with 2\n35.00% of responsive annotators labeled the text with 3\n3.00% of responsive annotators labeled the text with 4"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

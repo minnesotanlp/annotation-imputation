@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVmbhvR0mRMJcfUk2S4YTd4Hhdb4",
+    "object": "chat.completion",
+    "created": 1686314729,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 555,
+        "completion_tokens": 160,
+        "total_tokens": 715
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n5.00% of responsive annotators labeled the text with 1\n45.00% of responsive annotators labeled the text with 2\n45.00% of responsive annotators labeled the text with 3\n5.00% of responsive annotators labeled the text with 4\n\nBased on the soft labels provided, it seems that the statement \"You should be accepting of having a half-sibling\" is somewhat controversial, with 45% of the raters labeling it as such. Another 45% labeled it as a common belief, while only 5% labeled it as either occasional or universal. Therefore, my prediction for the soft label of this text would be 2 (controversial)."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

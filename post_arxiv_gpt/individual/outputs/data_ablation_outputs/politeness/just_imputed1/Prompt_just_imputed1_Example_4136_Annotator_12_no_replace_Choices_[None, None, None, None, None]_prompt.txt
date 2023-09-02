@@ -1,0 +1,122 @@
+Example 1:
+Text: Come on Mohrflies, I donxb4t understand why you insist in these edits: <url>? Why "Yugoslav" when absolutely no one uses it?
+Annotation from annotator: 5
+
+Example 2:
+Text: Senta.jpg was garbled or empty or some such, so I deleted it. You might want to try re-uploading?
+Annotation from annotator: 12
+
+Example 3:
+Text: Thanks from me, too &mdash; cheers! I don't suppose you could put copyright and source information on those images, though?
+Annotation from annotator: 18
+
+Example 4:
+Text: Agree. Who the hell came up with that in the first place?
+Annotation from annotator: 6
+
+Example 5:
+Text: What do you mean "log in repeadedly? I just keep clickin' what button?
+Annotation from annotator: 10
+
+Example 6:
+Text: I thought we had already established consensus last month. What exactly is the deal with the parenthesis and columns?
+Annotation from annotator: 11
+
+Example 7:
+Text: I don;t like commons because when i try to link things in the description it never works because it links only to commons. what is that?
+Annotation from annotator: 11
+
+Example 8:
+Text: Thanks, looks like <url> needs some fixin'. By the way, are you honestly ok with me bothering you like this?
+Annotation from annotator: 19
+
+Example 9:
+Text: The review has been up there for something like six weeks, I notice. Think you'll be able to take care of those last couple of things?
+Annotation from annotator: 9
+
+Example 10:
+Text: Who is this Brit you keep talking about? A past vandal or something?
+Annotation from annotator: 11
+
+Example 11:
+Text: sir.. can i still write an article? do you have any facebook account?
+Annotation from annotator: 16
+
+Example 12:
+Text: Well, I bet you got that from stalking me. Are you making a template I can use?
+Annotation from annotator: 8
+
+Example 13:
+Text: Okay. Meanwhile, can you think of a good line for a <url> submission?
+Annotation from annotator: 14
+
+Example 14:
+Text: Hope you had a good trip. Are you able to take a further look now?
+Annotation from annotator: 16
+
+Example 15:
+Text: Well, don't everyone talk all at once now. :) Any suggestions for the article ?
+Annotation from annotator: 12
+
+Example 16:
+Text: Okay. When will it start?
+Annotation from annotator: 13
+
+Example 17:
+Text: Rklawton, I apologize for persisting, but criterion 8 of <url> says that a band must be the "most prominent of the LOCAL scene of a city" to be notable enough to justify a page, and Finish Ticket is demonstrably the most prominent band of the local San Francisco scene. Why is that not sufficient?
+Annotation from annotator: 14
+
+Example 18:
+Text: Okay, I thought it was a mistake, but I wasn't sure.  Do you normally eat dinner after 8 PM?
+Annotation from annotator: 13
+
+Example 19:
+Text: You haven't contributed in over 10 days now. You alright?
+Annotation from annotator: 14
+
+Example 20:
+Text: Ah, so next time I don't have to include "Places". Are there more specific categories I could use instead of "Places"?
+Annotation from annotator: 14
+
+Example 21:
+Text: So you reverted my edit, rstoring a badly written sentence that includes a point that is neither germane to the topic nor supported by a citation. Yeah, that really helped, didn't it?
+Annotation from annotator: 5
+
+Example 22:
+Text: Thanks for reverting <url> - that was actually me, unlogged in. OK if I re-revert?
+Annotation from annotator: 16
+
+Example 23:
+Text: Ok with you if I play white? I suck so I should go first....and, if you don't agree I will crush you like a mag.... whoa power rush..... Anyway ok with you?
+Annotation from annotator: 7
+
+Example 24:
+Text: Hi -i am editing the Juan Martin article with guitar technique information,and user addhoc is deleting all my writing. Please,what do i do about this?
+Annotation from annotator: 15
+
+Example 25:
+Text: I know, I looked it up and fixed the article, but it was annoying that you just changed one small thing making the page contradict itself. What's the use changing it if the reader will have no idea what's going on?
+Annotation from annotator: 9
+
+Example 26:
+Text: Interrobang has asked me if I would also help mentor you when he is not around. I said that I would gladly help out if it was ok with you?
+Annotation from annotator: 16
+
+Example 27:
+Text: I have done every thing you have asked and I have attempted to gain a better understanding of how to do this in the future. Please tell me exactly what I can do to prove my ownership?
+Annotation from annotator: 13
+
+Example 28:
+Text: I just put a table in for the novel villains (to put the novels and films on the same level), but it's kind of messed up (I know presscious little about tables on Wikipedia).  Could you please help me fix it?
+Annotation from annotator: 18
+
+Example 29:
+Text: Why is ''<url>'' a better name for this page than ''<url>'', which has now been made a redirect page?  Is it not standard to speak of "great circle distance"?
+Annotation from annotator: 13
+
+Example 30:
+Text: This is incorrect. Have you looked at the article any time after October 2008?
+Annotation from annotator: 6
+
+Text: I was about to participate in the Afd on Wooster Greeks.  You've reverted yourself and re-closed it?
+Annotation from annotator:

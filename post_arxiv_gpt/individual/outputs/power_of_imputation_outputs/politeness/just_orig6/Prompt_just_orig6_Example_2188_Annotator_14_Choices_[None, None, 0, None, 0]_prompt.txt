@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: If you are referring to the page blanking, that has been rectified.  What other concerns do have about the content?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: I was trying to be sarcastic, ok??
+Annotation from annotator: 8
+
+Example 2:
+Text: What were the four universities? Drexel, Duquesne, Maine-Orono and ?
+Annotation from annotator: 12
+
+Example 3:
+Text: Very strange, how come I can see all the other posts? How do I clear the cache - do you know?
+Annotation from annotator: 12
+
+Example 4:
+Text: I added mention of the river. The info for <url> says the picture was taken in <url>; is that city located on the river?
+Annotation from annotator: 12
+
+Example 5:
+Text: I see. So what should I do with this sockpuppet?
+Annotation from annotator: 12
+
+Example 6:
+Text: Evidently, I don't have enough consciousness, because I haven't the foggiest idea of what you're talking about. Could you tell me?
+Annotation from annotator: 8
+
+Example 7:
+Text: Congratulations, OGoncho! Isn't there a barnstar for things like that?
+Annotation from annotator: 16
+
+Example 8:
+Text: I see you've just placed a deletion request on your user page, but this page has no history and hasn't been edited previously.  Did you mean to place it on the article you created, <url>?
+Annotation from annotator: 16
+
+Example 9:
+Text: When you say you emailed Crystal, do you mean ''Crystal Evans, AKA Country Girl in Girl Authority?'' She was the one who wanted me to recieve the Barnstar?
+Annotation from annotator: 12
+
+Example 10:
+Text: I don't really get it. In your terminology, is there someone practicing Germanic paganism who is not a neopagan?
+Annotation from annotator: 12
+
+Example 11:
+Text: No, I have not read it, as it is of no interest to me or this encyclopedia. Are you claiming that the references make the blog post a reliable source, or why are we still discussing this?
+Annotation from annotator: 4
+
+Example 12:
+Text: I don't profess to be an expert on the <url>, but note that the Gaelic Wikipedia has ''xc0rcaibh'', redirected from ''Arcaibh''.  Are you certain it should be a short vowel?
+Annotation from annotator: 16
+
+Example 13:
+Text: That is the standard ARBMAC (Arbitration related to some Macedonian and other Balkan countries) warning.  Still interested in accepting the deal?
+Annotation from annotator: 12
+
+Example 14:
+Text: There is a recommendation on the talk page of the "<url>". What do you think of it?
+Annotation from annotator: 16
+
+Example 15:
+Text: Bingo!  Since you've seen the light, now will you stop trying to craft PR statements?
+Annotation from annotator: 8
+
+Example 16:
+Text: I see you reverted another image move back to below the accompanying text. Your summary was "add to discussion" - can you explain?
+Annotation from annotator: 16
+
+Example 17:
+Text: Hi, I have cleaned up this page and, in the AfD, identified many other sources and additional content. I  wonder if you would reconsider your delete !vote please (I will do the necessary expansion as and when there is a reasonable expectation of it being kept)?
+Annotation from annotator: 20
+
+Example 18:
+Text: I've tried expanding it a bit, and removed a (somewhat inaccurate) sentence that referred to the chemical structure of anthracyclines. Any better?
+Annotation from annotator: 16
+
+Example 19:
+Text: I don't recall any consensus on that unilateral change. Can you direct me to it, please?
+Annotation from annotator: 16
+
+Example 20:
+Text: On another subject, have you finished the books I suggested? Want more?
+Annotation from annotator: 16
+
+Example 21:
+Text: I am concern why this user never replies to messages left on her talk page. Does she talk?
+Annotation from annotator: 8
+
+Example 22:
+Text: Where should he be? As a parent of Isa-Beg?
+Annotation from annotator: 12
+
+Example 23:
+Text: I also love your new CA Interstate shields. Could I trouble you to replace the current one for <url> with a similar one?
+Annotation from annotator: 20
+
+Example 24:
+Text: Yeah, that poor old schlub prolly woulda been me, haha! What a game though, eh?
+Annotation from annotator: 12
+
+Example 25:
+Text: But if there is no evidence that it has been downgraded, shouldn't it be kept as a Cat. 2?
+Annotation from annotator: 12
+
+Example 26:
+Text: Hello. Can you help me create a map of Isabela which reflects the 3D map?
+Annotation from annotator: 16
+
+Example 27:
+Text: I still can't remember how I got into this.  I remember there was an argument on the GameCube page but then there was nothing for a week or two....It hasn't been that long has it?
+Annotation from annotator: 16
+
+Example 28:
+Text: Please take a look at Space Shuttle Discovery, for FPC. Will you reconsider?
+Annotation from annotator: 16
+
+Example 29:
+Text: Yes, I just saw that. DJ, if you wished to delete the still tagged pages then that was your judgement call but to delete pages which I had already declined a speedy on was rather bad form wouldn't you say?
+Annotation from annotator: 8
+
+Example 30:
+Text: Richiez, if you are a surgeon, there's a good chance that Intuitive Surgical would bring a robot to your home or office for free so that you could test drive it without further obligation.  What have you got to lose?
+Annotation from annotator: 12
+
+Target Example:
+Text: I was about to participate in the Afd on Wooster Greeks.  You've reverted yourself and re-closed it?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

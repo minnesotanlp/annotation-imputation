@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: #RemoveUnfairPOCSOlaw as promised Government must pay heed to the fake cases being filed against innocents. Stop POCSO Misuse!
+Annotation from annotator: 0.0
+
+Example 2:
+Text: "I feel for him every time we eat Mexican out here&#128514; it kills me every time I tell him ""let's move back n get 24th &amp; mission"""
+Annotation from annotator: 0.0
+
+Example 3:
+Text: I've always hated deaf jokes. I never heard a good one.
+Annotation from annotator: 1.0
+
+Example 4:
+Text: I'm about to see my best friend for the first time since like November even though we go to the same college and are 10mins from each other
+Annotation from annotator: 0.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: #RemoveUnfairPOCSOlaw as promised Government must pay heed to the fake cases being filed against innocents. Stop POCSO Misuse!
+Annotation from annotator: 0.0
+
+Example 2:
+Text: "I feel for him every time we eat Mexican out here&#128514; it kills me every time I tell him ""let's move back n get 24th &amp; mission"""
+Annotation from annotator: 0.0
+
+Example 3:
+Text: I've always hated deaf jokes. I never heard a good one.
+Annotation from annotator: 2.0
+
+Example 4:
+Text: I'm about to see my best friend for the first time since like November even though we go to the same college and are 10mins from each other
+Annotation from annotator: 0.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: #RemoveUnfairPOCSOlaw as promised Government must pay heed to the fake cases being filed against innocents. Stop POCSO Misuse!
+Annotation from annotator: 0.0
+
+Example 2:
+Text: "I feel for him every time we eat Mexican out here&#128514; it kills me every time I tell him ""let's move back n get 24th &amp; mission"""
+Annotation from annotator: 0.0
+
+Example 3:
+Text: I've always hated deaf jokes. I never heard a good one.
+Annotation from annotator: 2.0
+
+Example 4:
+Text: I'm about to see my best friend for the first time since like November even though we go to the same college and are 10mins from each other
+Annotation from annotator: 0.0
+
+How might annotator A label this example? Output the annotation that seems most likely.
+Text: i like my pizza the same way i like my jews . <repeat> thin and crispy .
+Annotation from annotator:

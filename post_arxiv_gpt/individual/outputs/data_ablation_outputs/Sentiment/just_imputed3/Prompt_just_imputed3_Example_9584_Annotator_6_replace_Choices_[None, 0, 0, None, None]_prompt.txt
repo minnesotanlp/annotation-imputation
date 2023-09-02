@@ -1,0 +1,84 @@
+Estimated Examples:
+Example 1:
+Text: Little old Mary (shes 78) was my #firstsale today, she bought a 30 of Keystone Light. Shes tried to set me up with her grand daughter
+Annotation from annotator: 2
+
+Example 2:
+Text: My honey is sick again!  I think he's getting old!
+Annotation from annotator: 2
+
+Example 3:
+Text: Over the weekend, I came across a perfectly dreadful essay about how awful it is to look young.
+Annotation from annotator: 2
+
+Example 4:
+Text: Risque tonight for Smut Night and I guess my birthday. I need to drown my old age in beer
+Annotation from annotator: 2
+
+Example 5:
+Text: Sold my 10 year old kinetic. Sad to see it go
+Annotation from annotator: 2
+
+Example 6:
+Text: Some old Metallica is niiiice.
+Annotation from annotator: 2
+
+Example 7:
+Text: This one works.  RIP  Classic .....In ode to my nine year old crush: http://bit.ly/fEWSL
+Annotation from annotator: 2
+
+Example 8:
+Text: Wake up with terrible back ache...I'm getting old..should drink high calcium milk more often
+Annotation from annotator: 1
+
+Example 9:
+Text: Watching Desperate Housewives then Brothers & Sisters.  Back to the old salt mines tomorrow....the lottery has passed me by yet again.
+Annotation from annotator: 2
+
+Example 10:
+Text: Watching old band vids and recordings
+Annotation from annotator: 2
+
+Example 11:
+Text: ahhh.. its so time 4 me to call it a night, this is how i know im getting old
+Annotation from annotator: 2
+
+Example 12:
+Text: blair's mum is scary. she doenst look old enough to be her mum. Rufus & Lily are so CUTE  haha everyone's cute today
+Annotation from annotator: 2
+
+Example 13:
+Text: i keep begging my mom to let me move to Nebraska...she said i can when im older
+Annotation from annotator: 2
+
+Example 14:
+Text: if you start repelling technology, does it mean you're getting old?
+Annotation from annotator: 2
+
+Example 15:
+Text: is really sad Farrah Fawcett died....I really want to go watch old Charlie's Angels episodes now...
+Annotation from annotator: 2
+
+Example 16:
+Text: just played basketball for the first time in over a year.. man, i feel old  #fb
+Annotation from annotator: 1
+
+Example 17:
+Text: ran 10 miles this morning and got lost again... might have lost my 4 year old iPod in the rain too.
+Annotation from annotator: 2
+
+Example 18:
+Text: very suggest! i want but no one people to i meet here  all my folks are young, huhuhu  comeback to o-ce-n
+Annotation from annotator: 2
+
+Example 19:
+Text: want to bring back the same old days in my life!
+Annotation from annotator: 3
+
+Example 20:
+Text: watched a bunch of old skating videos, it brought back so many memories! i miss the good old days
+Annotation from annotator: 2
+
+Target Example:
+Text: Omg I just had to scream into an oldmans face I had to check a bitch before I wrecked a bitch, for real just fought with a senior  ackward
+Annotation from annotator:

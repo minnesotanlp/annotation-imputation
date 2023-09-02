@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVmgUGjQmofUBp6OwzyJOKDY4BAQ",
+    "object": "chat.completion",
+    "created": 1686314734,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 555,
+        "completion_tokens": 92,
+        "total_tokens": 647
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n5.00% of responsive annotators labeled the text with 1\n45.00% of responsive annotators labeled the text with 2\n45.00% of responsive annotators labeled the text with 3\n5.00% of responsive annotators labeled the text with 4\n\nPrediction: The soft label for this text is \"controversial\" (2)."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

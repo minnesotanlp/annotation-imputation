@@ -1,0 +1,132 @@
+Example 1:
+Text: I wanted to thank you Mjodr for taking the time today to go check out a house there in the area for my family and I to move to .
+Annotation from annotator: 0
+
+Example 2:
+Text: My mom handed me a book of coupons for buying bras.
+
+I love my family, but I am leaving tomorrow :P
+Annotation from annotator: 0
+
+Example 3:
+Text: Have a free blindfold. @ptierney1992 I'm not sexist... But I don't wanna watch women talk to each other about sports.
+Annotation from annotator: 2
+
+Example 4:
+Text: Whats the difference between your meat and your wife? There's no diffrerence, I love beating both of them
+Annotation from annotator: 2
+
+Example 5:
+Text: But you look white! or "haha, you look Asian in this photo!"
+Annotation from annotator: 1
+
+Example 6:
+Text: The reason liberals become teachers and social workers is because other occupations are not as accepting towards people who live in the fantasy world of political correctness and non-factual thinking .
+Annotation from annotator: 2
+
+Example 7:
+Text: I like my women how I like my welfare programs Horribly overabused with no sign of hope.
+Annotation from annotator: 2
+
+Example 8:
+Text: DAILY FUCKING REMINDER: WOMEN WANT WHAT OTHER WOMEN WANT
+Annotation from annotator: 2
+
+Example 9:
+Text: TIL that a school of piranhas can rip off the flesh of a child in less than a minute. I lost my job at the aquarium.
+Annotation from annotator: 2
+
+Example 10:
+Text: The reason #shitholecountries is trending is finally someone said what we’ve all been thinking.
+Annotation from annotator: 2
+
+Example 11:
+Text: When I get out of boot camp from the Marines Im going to get the Eagle , Globe , and Anchor tattoo on my right Arm big too .
+Annotation from annotator: 0
+
+Example 12:
+Text: Lyf is fucked up n ppl dnt care, they are jus lukn out for themselves...
+Annotation from annotator: 0
+
+Example 13:
+Text: "Now I understood why ppl be saying ""y'all not built like me"" cause omg some ppl really not built like me..."
+Annotation from annotator: 1
+
+Example 14:
+Text: if its such a big deal that you need to talk about it , yes. you are a non-white. you might as well be fully mongol .
+Annotation from annotator: 2
+
+Example 15:
+Text: Tell her all you told to me , how this is where you wanna be and you can't see ya self living without me &#128524;&#129335;&#127997;‍♀️
+Annotation from annotator: 0
+
+Example 16:
+Text: Anorexia puts the die in diet Just thought the anorexia jokes where a bit thin on the ground.
+Annotation from annotator: 2
+
+Example 17:
+Text: @kaylin_fain Hey don't care all you want even after last night he's still getting a big pay check so hate all you want
+Annotation from annotator: 1
+
+Example 18:
+Text: The Men's Right Book Club: Down The Rabbit Hole Of Cultural Misandry - Week 001
+Annotation from annotator: 1
+
+Example 19:
+Text: Where are all the daddy long legs in the hood？ I don't know, I think they've gone to buy some groceries.
+Annotation from annotator: 2
+
+Example 20:
+Text: In fairness to Wenger, it's not like everyone has been saying Arsenal need a decent holding midfielder for about 5 years &#128064;
+Annotation from annotator: 1
+
+Example 21:
+Text: france is such a shitty country even the nice parts are rundown
+Annotation from annotator: 1
+
+Example 22:
+Text: What's the hardest part about having a newborn with a hydrocephalus? It will take some lube to masturbate your ass with his head.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's hard to get out of bed when you have to go do something you don't want to do.
+Annotation from annotator: 0
+
+Example 24:
+Text: NY terrorist attack 
+
+CNN stating terrorist was shouting "God is Great"
+
+Translation: Allahu Akbar
+
+
+Annotation from annotator: 2
+
+Example 25:
+Text: @JackPosobiec @realDonaldTrump Ok like they said he had 0% chance of becoming President. Guess what. He's our President.
+Annotation from annotator: 1
+
+Example 26:
+Text: "RT @NoahxNorth: (Haters): Please name a rapper from Austin who has ""Valid"" numbers like these... can't? &#129300;Okay, shut the fuck up and…"
+Annotation from annotator: 2
+
+Example 27:
+Text: I like her dress she is so lovely and gorgeous .
+Annotation from annotator: 0
+
+Example 28:
+Text: Before the madness with my single bitches. &#128527; http://t.co/FLDe7S4SLC
+Annotation from annotator: 2
+
+Example 29:
+Text: What's going on is you're sexist @OliverHunter2 This is not sexist, but I know about 1 funny girl, what's going on
+Annotation from annotator: 2
+
+Example 30:
+Text: What did hitler say to his soldiers? Shoot for the stars
+Annotation from annotator: 2
+
+Text: A woman sitting across from me was just giving me a dirty look, while breast feeding her baby on the bus...
+
+She was probably wondering what I was doing breast feeding her baby.
+Annotation from annotator:

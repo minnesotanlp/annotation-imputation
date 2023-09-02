@@ -1,0 +1,145 @@
+Human-rated Examples:
+Example 1:
+Text: The tag for deletion on <url> has been on far past the requisite five days. Would you be able to delete it?
+Annotation from annotator: 13
+
+Example 2:
+Text: You shouldn't have to put up with abuse on your talk page, I don't understand why they weren't blocked. Did you take it to ANI?
+Annotation from annotator: 16
+
+Example 3:
+Text: <url> has copyedited the article on my request, cleaning up much of the complicated sentence structure; I'm not sure if it's sufficient, however.  Perhaps you might be able to take another look at it?
+Annotation from annotator: 13
+
+Example 4:
+Text: The haven't first team appearances for gods sake! How can you say they deserve an article?
+Annotation from annotator: 5
+
+Example 5:
+Text: How exactly is a one-time martial arts tournament, all of whose participants are red-links, notable? Is Wikipedia to have separate articles for every martial arts tournament ever broadcast on television?
+Annotation from annotator: 10
+
+Example 6:
+Text: You just created that article - but maybe you haven't noticed there's already <url>, which covers the same character set, as the ISO followed the Thai standard. Maybe you should merge your additions there, and make TIS-620 a redirect?
+Annotation from annotator: 9
+
+Example 7:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 11
+
+Example 8:
+Text: Alistair, you have only undone the autoblock; you haven't unblocked the account yet. Could you do that, please?
+Annotation from annotator: 16
+
+Example 9:
+Text: I understand, it could be quite time consuming. Maybe we could do a collab for an article related to Thalia (once I'm finished with some work)?
+Annotation from annotator: 18
+
+Example 10:
+Text: <url> and <url> seem to be two articles on the same subject.  What's the point of having separate articles?
+Annotation from annotator: 7
+
+Example 11:
+Text: Yes I am. I am in 8V, you?
+Annotation from annotator: 13
+
+Example 12:
+Text: Also I am willing to resume the discussion between you me and Direktor about the Legacy section. Would you be able to let me know on my talk page whether you are willing to do that in the near future?
+Annotation from annotator: 17
+
+Example 13:
+Text: I only used approved templates.  If they are not considered polite, why have them?
+Annotation from annotator: 9
+
+Example 14:
+Text: Hi, what was the image you are having problems with? Was it <url>?
+Annotation from annotator: 15
+
+Example 15:
+Text: I agreed from my very first post on the first subject that it shouldn't be included yet you and the other user continued to misrepresent my position. Would you disagree with that?
+Annotation from annotator: 10
+
+Example 16:
+Text: Okay. How's what I wrote on his talk page look?
+Annotation from annotator: 12
+
+Example 17:
+Text: I think a bot could come along later and remove those double returns. Is there a way of coding a space into the template itself?
+Annotation from annotator: 16
+
+Example 18:
+Text: You won't even let the ink on your report dry and you're already at it again. Care to explain finally what about the DAB needs "cleaning"?
+Annotation from annotator: 5
+
+Example 19:
+Text: The CLI does not have page numbers for the main sections so you will have to look at 4.1.2.2.  As well, since the linguistic divisions of Iranian are not really disputed, can you give me a source that has these languages as Persian dialects?
+Annotation from annotator: 13
+
+Example 20:
+Text: Email from the Darkshado guy complaining about you adding him to the spamlist. I searched the site and couldn't find any of our articles replicated there; has he removed them, or what?
+Annotation from annotator: 12
+
+Example 21:
+Text: The links were removed but, what rule says it is best to "double space"? And what do you plan to rewrite exactly?
+Annotation from annotator: 11
+
+Example 22:
+Text: I hardly ever agree with Jimintheatl, but that block was bordering on absurd. Fast on the button much?
+Annotation from annotator: 6
+
+Example 23:
+Text: I'm trying to figure out what he did differently from any of the other editors continually arguing (for months) about the South Ossetia War. Sure, he argues passionately for his viewpoint, but hasn't everyone that was involved in that article done so, including myself?
+Annotation from annotator: 12
+
+Example 24:
+Text: I notice yall were trying to get some Canadian articles featured. How many Canadian articles are even at that status?
+Annotation from annotator: 10
+
+Example 25:
+Text: What a disturbing video. Maybe we should donate a few copies of <url> to CNN... And what's up with the 2 ad-breaks in 13 minutes?
+Annotation from annotator: 12
+
+Example 26:
+Text: Hello. I was just wondering, is it really fair to delete an unintentional duplication of a deleted category without a formal CFD submission?
+Annotation from annotator: 14
+
+Example 27:
+Text: I sort of liked the nav box for diabetes.  I am not sure how this could not be seen as the main topic area?
+Annotation from annotator: 16
+
+Example 28:
+Text: You're unblocked. Do you want to discuss what the article should be named?
+Annotation from annotator: 15
+
+Example 29:
+Text: Ridding the project from copyvio images, which could result in expensive legal battles and put the whole project at risk? You think that we should risk putting the work of thousands of editors to risk because of some image?
+Annotation from annotator: 7
+
+Example 30:
+Text: I'm not trying to be obtuse, but is what you're saying in essence that if we cannot tell whether an award is utterly trivial then that uncertainty becomes sufficient assertion of notability to not apply A7? So if an assumption needs to be made, or discretion employed, A7 doesn't apply because the assertion of notability has been made?
+Annotation from annotator: 12
+
+Estimated Examples:
+Example 1:
+Text: <url> is a validly notable topic which has been ruthlessly  suppressed at WP, probably because of egoism rather than religionist POV warriors but possibly both. Can you advise me on how to go about appealling deletions?
+Annotation from annotator: 12
+
+Example 2:
+Text: One question - how come the page is marked as "in dispute"?  The data that is currently posted isn't in dispute, correct?
+Annotation from annotator: 12
+
+Example 3:
+Text: I noticed that you did some work on this article, and would like to expand it to include his recommendation (in ''Can Life Prevail'') that the UN develop hit squads to target large urban population centers (with neutron bombs as I recall), and also the discussion on the 9/11 terrorists being "superior moral human beings" for their actions.  Understanding that this is a BLP, that NPOV is important, and that including secondary sources is nearly impossible as they are difficult (at best) to find, what is your feeling on this?
+Annotation from annotator: 20
+
+Example 4:
+Text: Take a look at the standardisation i've implemented for federal elections 1972-2004 inclusive on <url>... i'm happy with where it's at for now, but that bloody 1990 page sticks out like a sore thumb! How do you reckon I would go about forming a second concensus?
+Annotation from annotator: 12
+
+Example 5:
+Text: I think the story is worth recording, and I could add several more references.  I have to ask... are you related to Boyds, Smileys, or Souters?
+Annotation from annotator: 12
+
+Target Example:
+Text: clear about when the inverse exists.  Is there a formal theorem that would apply?
+Annotation from annotator:

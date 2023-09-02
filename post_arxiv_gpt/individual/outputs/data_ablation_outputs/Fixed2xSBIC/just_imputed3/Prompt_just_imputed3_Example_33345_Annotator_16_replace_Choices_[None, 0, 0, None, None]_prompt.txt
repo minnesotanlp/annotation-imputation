@@ -1,0 +1,125 @@
+Estimated Examples:
+Example 1:
+Text: 13 reasons why is fucking me up dude . It's crazy how people never take the time to think about the consequences of their actions.
+Annotation from annotator: 0
+
+Example 2:
+Text: Wells Fargo on Tuesday said it has fired four current or former senior managers amid the U.S. banking giant's internal investigation of a
+Annotation from annotator: 0
+
+Example 3:
+Text: you can win via killing your opponent in this match. this is gonna be.... something #JanelaSpringBreak
+Annotation from annotator: 0
+
+Example 4:
+Text: I'm Just Thinking About How Fucked Up im Finna Be This Weekend
+Annotation from annotator: 0
+
+Example 5:
+Text: the world has gotten way too sensitive lately , you ca n't even say " black paint " anymore . you have to say " jamal , paint the fence " .
+Annotation from annotator: 2
+
+Example 6:
+Text: The Emir is trying to fit in another visit to Ingerlund either late Aug or late Sept.
+Annotation from annotator: 0
+
+Example 7:
+Text: everyone I know that's in a relationship is so fucking petty
+Annotation from annotator: 0
+
+Example 8:
+Text: #LNG market will get even more competitive &amp; price points will likely go lower given robust global gas supplies. #Gastech #natgas
+Annotation from annotator: 0
+
+Example 9:
+Text: WHOA HOHO WHY IS THIS VERSION OF SPOTIFY DESKTOP SO FUCKING UNSTABLE
+Annotation from annotator: 0
+
+Example 10:
+Text: them: nighthound is not good me: [gestures towards the animal ears, cyber aesthetic, bodysuits, djeeta's cape] them: oh shit you're right
+Annotation from annotator: 0
+
+Example 11:
+Text: OH my fucking god clay I literally had to take off my earbud what's happening with his it's getting BAD
+Annotation from annotator: 0
+
+Example 12:
+Text: It's literally 3:45 am and I'm in my fucking feelings &#128531;
+Annotation from annotator: 0
+
+Example 13:
+Text: In the wrestling biz when it's good anything u throw out there draws- but when it's bad no matter how much good shit u put on it don't draw
+Annotation from annotator: 0
+
+Example 14:
+Text: Are you sure you're old enough to work here?
+Annotation from annotator: 0
+
+Example 15:
+Text: I don't get those people. Why can't they just wake up and decide they're a guy or a girl?
+Annotation from annotator: 1
+
+Example 16:
+Text: because in that moment if i had told them when i told the school someone sexually assulted me and they didnt do anything would they believe?
+Annotation from annotator: 1
+
+Example 17:
+Text: Call a foul when it isn't a fucking foul then you'll get a play by play. In that play by play, show me the foul. That's how it works.
+Annotation from annotator: 0
+
+Example 18:
+Text: shay is my fucking boiii and idk how that happened but u no
+Annotation from annotator: 0
+
+Example 19:
+Text: This thing people keep tweeting about seeing who visits your profile is getting super fucking annoying
+Annotation from annotator: 0
+
+Example 20:
+Text: i found a mike n ike in my skittles and im kinda mad about it
+Annotation from annotator: 0
+
+Example 21:
+Text: I can't sleep though I work so many crazy ass hours..my poor little circadian rhythm &#128553; thrown off like a mf
+Annotation from annotator: 0
+
+Example 22:
+Text: If you take my GABS seriously reread them because they are supposed to be ridiculous
+Annotation from annotator: 0
+
+Example 23:
+Text: I liked the majority of this video in the beginning but what was with the white guilt tripping part around an hour in of the video ?
+Annotation from annotator: 0
+
+Example 24:
+Text: Rns it ain't feel rite watching the bambaata scenes, the whole time I was looking 4 Poppy and B. Stinger #RealNiggaz
+Annotation from annotator: 0
+
+Example 25:
+Text: It just goes to show that kids have more common sense than many white adults ( sadly. )
+Annotation from annotator: 0
+
+Example 26:
+Text: Dude my thesis class is on transhumanism and I'm so fucking stoked.
+Annotation from annotator: 0
+
+Example 27:
+Text: Cocktails at dawn for the national come on 80/1 here we fucking go
+Annotation from annotator: 0
+
+Example 28:
+Text: But when the customers are gone and u can speak 2 ur coworkers again it good,,,,,,bc theyre the same i love them
+Annotation from annotator: 0
+
+Example 29:
+Text: It's pathetic that it took the shooting of a little girl in the head to get the US to pay attention to the MDGs it promised to the UN...
+Annotation from annotator: 1
+
+Example 30:
+Text: We could commit suicide today and no one would notice
+But if any normies and chads are 5 minutes late to their dates tonight, it will be immediately noticed.
+Annotation from annotator: 2
+
+Target Example:
+Text: MR POTTER OR WHATEVER HIS NAME IS, HE IS AN AWFUL FUCKING COUNSELOR
+Annotation from annotator:

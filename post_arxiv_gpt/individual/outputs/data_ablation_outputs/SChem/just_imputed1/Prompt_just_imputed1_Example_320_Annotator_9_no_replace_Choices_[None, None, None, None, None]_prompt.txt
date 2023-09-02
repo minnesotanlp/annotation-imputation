@@ -1,0 +1,122 @@
+Example 1:
+Text: People shouldn't lie about who they are.
+Annotation from annotator: 4
+
+Example 2:
+Text: Is wrong to be a pervert
+Annotation from annotator: 4
+
+Example 3:
+Text: You should feel remorse when you get someone fired.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's good to be aware of your limits.
+Annotation from annotator: 4
+
+Example 5:
+Text: If you eat someone's food, you should let them know.
+Annotation from annotator: 4
+
+Example 6:
+Text: You shouldn't discriminate against people because of their income level.
+Annotation from annotator: 4
+
+Example 7:
+Text: Before kicking someone out it is important to make sure your feelings will be permanent.
+Annotation from annotator: 4
+
+Example 8:
+Text: It's OK not to take life too seriously.
+Annotation from annotator: 3
+
+Example 9:
+Text: You should be able to give criticism to your friends.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation from annotator: 4
+
+Example 11:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's nice to worry about your friends.
+Annotation from annotator: 4
+
+Example 13:
+Text: Throwing unused cardboard in the garbage is wasteful.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's understandable to be uncomfortable with people that are different than you.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is good to be remorseful and admit when you've done wrong
+Annotation from annotator: 4
+
+Example 16:
+Text: It's okay to enjoy powdered milk.
+Annotation from annotator: 4
+
+Example 17:
+Text: It's understandable if you don't want your teacher to express their political leanings.
+Annotation from annotator: 4
+
+Example 18:
+Text: It is good to be yourself.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's bad to feel other people are inferior to you.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's okay to hurt somebody who's stealing from you
+Annotation from annotator: 3
+
+Example 21:
+Text: It's wrong to use another person for their resources.
+Annotation from annotator: 4
+
+Example 22:
+Text: It is okay to show emotions.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's okay to not feel guilty when you cheat.
+Annotation from annotator: 2
+
+Example 25:
+Text: You should always trust your nanny.
+Annotation from annotator: 3
+
+Example 26:
+Text: You should be understanding of your family's decisions when they're weak.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is common for there to be conflicts with your in-laws.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should treat a person with a disability the same as you would anyone else.
+Annotation from annotator: 4
+
+Example 29:
+Text: It's understandable if you can't keep your political leanings out of your religion lectures.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's good to want someone to do their best.
+Annotation from annotator: 4
+
+Text: You shouldn't take it too personally if someone leaves you out of their plans
+Annotation from annotator:

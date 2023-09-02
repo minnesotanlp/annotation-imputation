@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Estimated Examples:
+Example 1:
+Text: Hello, thank you for adding interesting content to <url> <url>.  Are you able to provide <url> that will help the content meet our "<url>" standard?
+Annotation from annotator: 24
+
+Example 2:
+Text: When i upload <url> I get <url> can you fix it? Also why is <url> showing the old logo?
+Annotation from annotator: 8
+
+Example 3:
+Text: In last few decencies many new theories occured about it, some prominent historians are involved from all ex-Yugoslav republics, with the same general idea - Slavic speakers were present in the Balkans much earlier, some claims say even from 1st century AD. What is said by "your" sources about it?
+Annotation from annotator: 20
+
+Example 4:
+Text: Hi I saw that you make maps and plans. Could you make me some that good plans, of station?
+Annotation from annotator: 8
+
+Example 5:
+Text: sir.. what is the exact time will it be deleted.. sir.. do you have any facebook account.?
+Annotation from annotator: 0
+
+Example 6:
+Text: I dont use AWB so im doing it manually. Is that a problem?
+Annotation from annotator: 24
+
+Example 7:
+Text: Do you have a link for that?  I assume you mean you're out <url>?
+Annotation from annotator: 8
+
+Example 8:
+Text: Thanks for your work in cleaning up <url> (which is now finished, but for a few hard cases which likely will require the writing of articles to conform to those links). Would you like to collaborate on another section of this list?
+Annotation from annotator: 8
+
+Example 9:
+Text: See my comment on the talk page. How did this ever get to DYK?
+Annotation from annotator: 16
+
+Example 10:
+Text: DONE. Do you think everything is now sorted so I can beep Brain Boulton?
+Annotation from annotator: 8
+
+Example 11:
+Text: What does "OP" mean? Does it mean "operator"?
+Annotation from annotator: 8
+
+Example 12:
+Text: I was wondering why, within your first few edits, you could participate in AfDs and RfCs, and welcome yourself.  Are you a quick learner, or had you been editing anonymously for a while?
+Annotation from annotator: 24
+
+Target Example:
+Text: I want to send you a private message, but you don't have an e-mail address registered with your Wikipedia account. How could I contact you?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

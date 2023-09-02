@@ -1,0 +1,84 @@
+Estimated Examples:
+Example 1:
+Text: @popyXluvsXmcfly Thanx me too but he's really old and the people who found him took him to the rspca cuz he wasn't well  x
+Annotation from annotator: 3
+
+Example 2:
+Text: @stephanie04 lol! I really left! But not from a lack of @RyanStar ;-) Im a mom foremost, and a 5 yr old can only take so much  Oh wel ...
+Annotation from annotator: 2
+
+Example 3:
+Text: @waynooooo I always hope they will die out but then i see the the old ones and it makes me sad
+Annotation from annotator: 2
+
+Example 4:
+Text: At the Wynn pool with Stephanie.  old friends FTW.
+Annotation from annotator: 3
+
+Example 5:
+Text: Awesome awesome time at my elementary school reunion! Good to see old faces
+Annotation from annotator: 4
+
+Example 6:
+Text: Enjoying some old music  my favorite!
+Annotation from annotator: 3
+
+Example 7:
+Text: I need a bathingsuit! @jessicashops do you have any suggestions? No good ones at target or old navy
+Annotation from annotator: 1
+
+Example 8:
+Text: Kinda need a new laptop. Birthday's coming up so am praying that someone has an old/spare one or a lot of money
+Annotation from annotator: 2
+
+Example 9:
+Text: Oh, I feel soooo old!  my daugther graduated from 10. grade today..
+Annotation from annotator: 3
+
+Example 10:
+Text: Our dog in capiz died. He was 14 years old.
+Annotation from annotator: 0
+
+Example 11:
+Text: Project of the weekend: Scanning all my old photos and finally getting rid of these boxes sitting around. Been putting it off for years.
+Annotation from annotator: 3
+
+Example 12:
+Text: Spending some time w my great granny. Things old ppl appreciate: new pill boxes. I got her a few and she's thrilled
+Annotation from annotator: 3
+
+Example 13:
+Text: Took my daughter to the ER today she might have a torn ligament  4 years old my poor baby girl!!
+Annotation from annotator: 1
+
+Example 14:
+Text: Wolfed down a burger with loads of sauteed onions for dinner. Am now very sleepy, and wanting to go to bed like an old person, but can't.
+Annotation from annotator: 1
+
+Example 15:
+Text: had fun with the family...especially wrestling in matalan with my younger brothers...wasnt pretty
+Annotation from annotator: 3
+
+Example 16:
+Text: i won a keytar on ebay  its a Yamaha SHS-10s and its really old and ugly but at least i can learn it now. wanna go pro!
+Annotation from annotator: 3
+
+Example 17:
+Text: playing old cdrom games that i played when i was little. having so much fun aha. i miss bein little
+Annotation from annotator: 3
+
+Example 18:
+Text: restored my old ipod! yay
+Annotation from annotator: 3
+
+Example 19:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 20:
+Text: wants a new face, because the old one will soon fall off. thanks
+Annotation from annotator: 1
+
+Target Example:
+Text: @susie130 yeah, I dont get it. It worked again with the last vid,but I cant change the old ones info
+Annotation from annotator:

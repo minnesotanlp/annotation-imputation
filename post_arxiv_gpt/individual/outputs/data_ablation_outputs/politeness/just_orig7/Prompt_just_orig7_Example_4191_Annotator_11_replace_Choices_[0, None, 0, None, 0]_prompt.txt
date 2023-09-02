@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Correct Examples:
+Example 1:
+Text: Still doing vandalism reverts by hand I see. Need any help?
+Annotation from annotator: 20
+
+Example 2:
+Text: Indeed, the New York Times tells us that Iain Hook "''was shot in the back by an Israeli soldier ''". Why did a member of the IDF shoot him?
+Annotation from annotator: 12
+
+Example 3:
+Text: I don't think so, Giano. Can we just once attempt to let this pass by without calling for the heads of people?
+Annotation from annotator: 9
+
+Example 4:
+Text: I would specifically appreciate an outside view at the thread <url>.  What do you feel is the appropriate action?
+Annotation from annotator: 20
+
+Example 5:
+Text: I agree that terms like Australian Formula 1 need an explanation but isn't that why we link the term to the Australian Formula 1 page? Do we need to disrupt the flow of the article to explain a term which is already explained on the linked page?
+Annotation from annotator: 16
+
+Example 6:
+Text: According to <url>, links are permissible as part of your signature but be sure to check the "'''Sign my name exactly as shown'''" box.  What happens when you load '''<nowiki><url><url> (<url>)</nowiki>''' into the signature window and check the box?
+Annotation from annotator: 16
+
+Example 7:
+Text: OK you're right- I guess IPs can't do it. I believe they're all fixed now, right?
+Annotation from annotator: 16
+
+Example 8:
+Text: Thanks for your additional categorizing. :) I guess I could just look at your contributions, but before catting, what "work" were you doing previously?
+Annotation from annotator: 4
+
+Example 9:
+Text: Great job. Will it be done by next week?
+Annotation from annotator: 16
+
+Example 10:
+Text: Are you talking about that I noticed that <url> wasn't in <url> even though <person> was changed to use <person> on 6 October 2010? And then did some script-assisted editing to remove <url> from a bunch of pages that had both the category and <person>?
+Annotation from annotator: 12
+
+Example 11:
+Text: I state what I see when I read it.  Are you and <url> the same editor?
+Annotation from annotator: 14
+
+Example 12:
+Text: I wondered, simply because I see you occasionally and had never seen him before, so at first I thought he was you.  I wonder if there's a User:Nyttned running around?
+Annotation from annotator: 12
+
+Example 13:
+Text: Was working, so no. You?
+Annotation from annotator: 13
+
+Example 14:
+Text: He's taken the notice down.  Doesn't this count as belaboring the point?
+Annotation from annotator: 12
+
+Example 15:
+Text: I asked some questions in the Criteria for Inclusion section on 20th Dec but no-one has yet responded. Can you take a look?
+Annotation from annotator: 20
+
+Example 16:
+Text: Oh, that's because I only copyedited a tiny section of the article. Should I still count that as a yes?
+Annotation from annotator: 20
+
+Example 17:
+Text: Point taken. Would you like to be a mod?
+Annotation from annotator: 16
+
+Example 18:
+Text: I am sorry, got confused on who created this article. :-/ Apologies?
+Annotation from annotator: 20
+
+Example 19:
+Text: Sounds good then.  In this case, would it be wise to simply remove the "influence" field since it simply overlaps with "subjects"?
+Annotation from annotator: 16
+
+Example 20:
+Text: It already look great. BTW, what are your thoughts about the previous post on the names of the other post office and rates lists?
+Annotation from annotator: 18
+
+Example 21:
+Text: Wikipedia has a strict rule about ''not'' simultaneously filing an article in both a parent category ''and'' a subcategory of the same parent. Could you please ''not'' add <url> to a category if it's already in <url>, <url> or a country-specific record labels category?
+Annotation from annotator: 13
+
+Example 22:
+Text: From the edit history to the template, it appears that your last edit has not been undone so hopefully this issue is resolved. You are both editors of between 1 and 2 years experience here, so perhaps a bit better communications would be a better approach in future?
+Annotation from annotator: 16
+
+Example 23:
+Text: I've conceded on the infobox issue, but there are still some other outstanding issues, which I've addressed on the article talk page. Perhaps you would like to comment there?
+Annotation from annotator: 16
+
+Example 24:
+Text: Okay, I asked for help at <url>, was directed to <url>. What do you want to do?
+Annotation from annotator: 16
+
+Example 25:
+Text: Hey. I'm proposing a <url> - would you be interested in coming along?
+Annotation from annotator: 20
+
+Example 26:
+Text: I have your CH2.js installed, but I forgot what it does.  What does it do?
+Annotation from annotator: 16
+
+Example 27:
+Text: I made a change to your user page. Is that the change you wanted?
+Annotation from annotator: 24
+
+Example 28:
+Text: What the hell? Bitter much?
+Annotation from annotator: 0
+
+Example 29:
+Text: I just reverted your addition of a fossil range template to <url>, because with only an arrow at the very right it didn't seem to add much useful information. Perhaps we could make a separate template to show only the Cenozoic or so, which would allow us to show more detail in these fossil ranges?
+Annotation from annotator: 16
+
+Example 30:
+Text: Did make me smile....a dreamtime legend of a tiger in WA of all places. Seems a long way to walk, even when there was a land bridge ?
+Annotation from annotator: 16
+
+Target Example:
+Text: Good day, sorry to bother you. Is the 2:00 am news brief called eyewitness news everynite, and if it is do they play move closer to your world?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

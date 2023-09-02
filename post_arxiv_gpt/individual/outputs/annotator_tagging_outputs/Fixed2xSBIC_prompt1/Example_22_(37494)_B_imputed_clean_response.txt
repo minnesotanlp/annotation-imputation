@@ -1,0 +1,1 @@
+Based on the previous examples, annotator B seems to label text as not offensive (0) more often than offensive (2). Therefore, the most likely annotation for this example by annotator B would be 0.0 (not offensive).

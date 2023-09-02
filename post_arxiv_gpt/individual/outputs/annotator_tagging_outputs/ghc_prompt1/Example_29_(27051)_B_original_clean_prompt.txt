@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: 'The Meme The Gaming Community Created To Label SJW’s Is Pretty Brilliant' 
+Annotation from annotator: 1
+
+Example 2:
+Text: What Facebook Really Does With Your Data https://youtu.be/83pwPOtrITk
+Annotation from annotator: 0
+
+Example 3:
+Text: House Intel votes to make Nunes memo public 
+Annotation from annotator: 0
+
+Example 4:
+Text: Hawaii volcano's toll nears 600 homes destroyed by lava; no end in sight https://fxn.ws/2M9H6Ej
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: After Booker slamming Pompeo on gays to turn around and vote against Grenell to be the US Ambassador to Germany, I guess the communist resistance figured they needed a woman to dump on Haspel.
+Annotation from annotator: 0
+
+Example 2:
+Text: Elon Musk Deletes Facebook Pages for SpaceX and Tesla. 
+Annotation from annotator: 0
+
+Example 3:
+Text: And no eye has seen or ear heard what is in-store for mankind... 
+Annotation from annotator: 0
+
+Example 4:
+Text: Hmm. Rosa Wattebäuschchen dürften zum Selbstschutz allerdings wohl wenig hilfreich sein. Und die Armlänge Abstand war ja auch ein vollumfänglicher Schuss ins Knie. 
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: There's nothing more comforting than knowing you can solve your own problems. First using whatever words are needed, and then using whatever force is needed when words fail.
+Annotation from annotator: 0
+
+Example 2:
+Text: Rudy Giuliani Sounds Off On Bruce Ohr Revelations – Wants Bruce Slapped With FELONY CHARGES: https://en-volve.com/2018/08/31/rudy-giuliani-sounds-off-on-ohr-revelations-wants-bruce-slapped-with-felony-charges/  
+Annotation from annotator: 0
+
+Example 3:
+Text: Do you mind coming over to my place and hitting me over the head with an baseball bat? I'm hoping when I wake up it will be better.
+Annotation from annotator: 0
+
+Example 4:
+Text: OY VEEEY! I say this is a hoax, in Spanish they write "PALESTINA", not "PALESTINIA" 
+Annotation from annotator: 0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: It goes all the way back to the land of Sumer. The true history they try to cover-up or just ignore. A lot of half truths through history texts blur our ancestrial past.
+Annotation from annotator:

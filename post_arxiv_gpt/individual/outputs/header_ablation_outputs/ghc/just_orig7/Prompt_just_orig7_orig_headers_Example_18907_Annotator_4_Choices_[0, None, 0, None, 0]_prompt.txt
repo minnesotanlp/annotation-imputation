@@ -1,0 +1,127 @@
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Estimated Examples:
+Example 1:
+Text: @a What's up with all the foreign language comments getting so many views? Something stinks here.
+Annotation from annotator: 0
+
+Example 2:
+Text: There are just two more days to get Stories in the Stars at the discounted price of around £10.00/$14.00. From Saturday, it goes up to full price. Here's a great review that may help you make up your mind.
+Annotation from annotator: 0
+
+Example 3:
+Text: PomoNews: (VIDEO) TWITTER CEO @JACK ADMITS LEFT-WING BIAS, BUT SAYS HE DOES NOT REGULATE IDEOLOGY. BUT UNAWARES HE DOES! https://buff.ly/2FO9uw0
+Annotation from annotator: 0
+
+Example 4:
+Text: The Left Still Doesn't Know Why It's Losing | The American Spectator https://spectator.org/the-left-still-doesnt-know-w...
+Annotation from annotator: 0
+
+Example 5:
+Text: Meme of the day?
+Annotation from annotator: 0
+
+Example 6:
+Text: Welcome new followers! Ask me anything about climbing and tag me in your climbing/outdoor photos and I will repost them. Enjoy this video of an older guy climbing very hard https://youtu.be/vBSUouWliPk
+Annotation from annotator: 0
+
+Example 7:
+Text: The Guardian had Bearing's video about Owen Jones and communism removed from YouTube. Find it here on @bitchute : #BritFam https://www.bitchute.com/video/ws2M2ywthgw/
+Annotation from annotator: 0
+
+Example 8:
+Text: 🌻 DEFEND 🌻 EUROPA 🌻  A nation consists of its blood & soil: An ethnically homogeneous people & the soil they cultivate, the domain that provides shelter, refuge & nourishment from the soil where their ancestors lie buried.
+Annotation from annotator: 0
+
+Example 9:
+Text: Proverbs 11:10
+Annotation from annotator: 0
+
+Example 10:
+Text: New video is being rendered at the moment. Got delayed due to some work-related BS. I'll post the link when it's ready. #TheRedExpress
+Annotation from annotator: 0
+
+Example 11:
+Text: No math, but a lot of train and error experience. Even more impressive!
+Annotation from annotator: 0
+
+Example 12:
+Text: Cardinal Wuerl must resign. https://youtu.be/8Dp0nO4CcME
+Annotation from annotator: 0
+
+Example 13:
+Text: AND..... At last. I will be spinning up engagement here, and on Instagram: instagram.com/darktriadman
+Annotation from annotator: 0
+
+Example 14:
+Text: New Q drop https://qanon.app
+Annotation from annotator: 0
+
+Example 15:
+Text: Another film to boycott. Sad indeed...
+Annotation from annotator: 0
+
+Example 16:
+Text: Democrats and Conservacucks are remembering John McCain.  If he died in 2007, it would be only Conservacucks.
+Annotation from annotator: 0
+
+Example 17:
+Text: I suggest we start with her or it or xir or something.
+Annotation from annotator: 0
+
+Example 18:
+Text: Hey Humble Bundle is giving away free copies of Warhammer: 40,000 Space Marine.I haven't played the game myself, but It looks cool. https://www.humblebundle.com/store/warhammer-40000...
+Annotation from annotator: 0
+
+Example 19:
+Text: Just saw an Oreo cookie commercial. Drool.
+Annotation from annotator: 0
+
+Example 20:
+Text: So, they're admitting they are here just to troll? Then they wonder why they can't escape the 3rd world.
+Annotation from annotator: 0
+
+Example 21:
+Text: Proof paintings by Jim Carrey are actually self-loathing, self-portraits. #Gab #GabFam #SpeakFreely #Chat #Americans
+Annotation from annotator: 0
+
+Example 22:
+Text: A bit of Camper Van Beethoven... https://www.youtube.com/watch?v=u-4-QWLAcjY
+Annotation from annotator: 0
+
+Example 23:
+Text: Truth isn't truth when a factual truth is used to support a lie. Example: Texas Senate candidate Beetle O'Rourke uses a factual truth; supporters donate directly into his campaign through a PAC website, to support the lie that he doesn't take money from PACs, with the unspoken inference that he doesn't take their support either. The PACs facilitated the donation, if not for them he would not have...
+Annotation from annotator: 0
+
+Example 24:
+Text: The sexual revolution brought us- the Pill- the disconnect between Sex & Responsibility- a rampant hookup and divorce culture- millions of aborted children- the single-mother home sponsored by the government- removal of the importance of the male role in the family- women that absolutely resent men- weakened, feminized men THIS. IS. NOT. PROGRESS.
+Annotation from annotator: 1
+
+Example 25:
+Text: Oh so now he's a spoiled *millennial* murderer, too??? https://neonnettle.com/news/4867-mollie-tibbetts-k...  BTW, the guy who owns the property where this scumbag was working is a die-hard Democrat/Hillary supporter. Go figure he'd employ ILLEGAL ALIENS to work for him. 😡
+Annotation from annotator: 1
+
+Example 26:
+Text: E Michael Jones on Vigano's letter: https://hooktube.com/watch?v=qnZXo6TZyZw  come for the logos stay for the hammer time
+Annotation from annotator: 0
+
+Example 27:
+Text: How long before one of these actors who are constantly threatening our President and his entire family pull a John Wilkes Booth (Actor) on him? Trump does too many public events where famous people are at. It's not out of the question that one of these mentally ill cocksuckers may take an opportunity to become infamous because they believe in their cause.
+Annotation from annotator: 1
+
+Example 28:
+Text: Not sure if you guys are being spammed with me going live notifications but if you are I apologize. I'm trying to get ready to stream tomorrow.
+Annotation from annotator: 0
+
+Example 29:
+Text: #MetalMonday https://youtu.be/L0zjCMMbnjo
+Annotation from annotator: 0
+
+Example 30:
+Text: Just...#Ouch
+Annotation from annotator: 0
+
+Target Example:
+Text: MAGA! Glad you are here.     @Smokinhart488
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

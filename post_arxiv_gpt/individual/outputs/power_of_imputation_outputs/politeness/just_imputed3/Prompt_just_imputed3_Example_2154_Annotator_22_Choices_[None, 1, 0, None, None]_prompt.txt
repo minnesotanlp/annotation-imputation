@@ -1,0 +1,124 @@
+Imputed Examples:
+Example 1:
+Text: I tried searching for that link in the section that I was editing and it wasn't there I didn't edit from the top but just from the section. Does the filter only look inside the section or is it based on the whole talk page?
+Annotation from annotator: 16
+
+Example 2:
+Text: Can you expand <url>? From what I gather the Dorje Ling nunnery is part of the monastery complex?
+Annotation from annotator: 15
+
+Example 3:
+Text: I've heard about the controversy. What's your take on it?
+Annotation from annotator: 15
+
+Example 4:
+Text: I restored 3 non-piped blue links.  How does that look?
+Annotation from annotator: 19
+
+Example 5:
+Text: Could you please explain <url> to me? I don't see how deleting a person's userpage is correct?
+Annotation from annotator: 14
+
+Example 6:
+Text: And  what did I do wrong???????????????????????
+Annotation from annotator: 8
+
+Example 7:
+Text: You told me to message you in here. Could you tell me how you do them?
+Annotation from annotator: 18
+
+Example 8:
+Text: Your <url> is a brilliant idea! Would you mind if I linked to it from my collection of "Useful things" on my user page?
+Annotation from annotator: 23
+
+Example 9:
+Text: Hey how are you? Now I can't find you online, where are you lol?
+Annotation from annotator: 21
+
+Example 10:
+Text: Sorry, I dont quite remember what we were talking about.  Can you tell me what you were/are confused about?
+Annotation from annotator: 20
+
+Example 11:
+Text: I've been meaning to add soundclips to the Suede and Stone Roses articles (3u20134 for each). I can get to it over the weekend; suggestions?
+Annotation from annotator: 18
+
+Example 12:
+Text: No, I didn't know that. Where does this "rule" come from?
+Annotation from annotator: 11
+
+Example 13:
+Text: What articles are you currently working on improving and/or writing? Anything?
+Annotation from annotator: 14
+
+Example 14:
+Text: How exactly is a one-time martial arts tournament, all of whose participants are red-links, notable? Is Wikipedia to have separate articles for every martial arts tournament ever broadcast on television?
+Annotation from annotator: 12
+
+Example 15:
+Text: Thanks, firstly, for the affirmation and work on <url>; it was yesterday's featured article! As a related article, I've been working on <url> - what do you think would be necessary to get it to FA?
+Annotation from annotator: 21
+
+Example 16:
+Text: Thanks for the response.  May I ask, are you a video gamer?
+Annotation from annotator: 21
+
+Example 17:
+Text: Since the "discussion" was not advertised at the affected pages, it did not involve the "community". Do you not see that?
+Annotation from annotator: 8
+
+Example 18:
+Text: Personally I think (much) longer gallery captions are probably the answer; these are probably easier than working each image into the text. Didn't that work at s***-p*******?
+Annotation from annotator: 16
+
+Example 19:
+Text: btw, do you think we should mention the effect right off the bat of the descripition(seeing as "effect" is listed right above it???
+Annotation from annotator: 16
+
+Example 20:
+Text: Hi Arcadian, regarding 'your' article on <url>, I think the classification as "hexose deoxy sugar" is clearly wrong, it would be rather something like "methyl ether of a branched heptose dideoxy sugar" but I'm not sure how chemists usually refer to such substances. Could you shed light on the issure?
+Annotation from annotator: 14
+
+Example 21:
+Text: Where did you get the tracklist for the album? Can you please drop me a messafe with the link?
+Annotation from annotator: 19
+
+Example 22:
+Text: <url> needs urdu script for the name of the subject (Bangla script has already been added). Can you help?
+Annotation from annotator: 14
+
+Example 23:
+Text: Who is authorized to perform sockpuppet checks? Is there an automated service for doing it?
+Annotation from annotator: 15
+
+Example 24:
+Text: I wasn't planning on it before I asked you about it. I figured, afterwards, why inquire if the template's really too long as it is?
+Annotation from annotator: 13
+
+Example 25:
+Text: Ok, I'd agree about <url> being better. Should I delete the other one (you could also tag it for speedy deletion as a mistake)?
+Annotation from annotator: 15
+
+Example 26:
+Text: Thanks for your reply. I've tried to incorporate the references into the article; how is it now?
+Annotation from annotator: 20
+
+Example 27:
+Text: I thought our short conversation last evening showed that cooperation might be possible. Was I wrong?
+Annotation from annotator: 16
+
+Example 28:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 16
+
+Example 29:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 12
+
+Example 30:
+Text: I am contemplating a larger article on this very interesting topic. Thoughts?
+Annotation from annotator: 21
+
+Target Example:
+Text: I looked at <url> and at <url>, which says in part '' Contentious material about living persons that is unsourced or poorly sourcedu2014whether the material is negative, positive, neutral, or just questionableu2014should be removed immediately and without waiting for discussion.<url>'' I guess the question is, what is contentious?
+Annotation from annotator:

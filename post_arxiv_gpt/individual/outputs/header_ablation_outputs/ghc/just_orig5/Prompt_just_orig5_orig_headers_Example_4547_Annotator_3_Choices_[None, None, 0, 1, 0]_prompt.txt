@@ -1,0 +1,7 @@
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Target Example:
+Text: Well... at least a “man” was still first. By the time all of this makes it to Globalist textbooks in the future it will be a female astronaut who went to the moon just to abort her baby there because she wanted to do it first... before using her size A bra to sling the spacecraft back.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

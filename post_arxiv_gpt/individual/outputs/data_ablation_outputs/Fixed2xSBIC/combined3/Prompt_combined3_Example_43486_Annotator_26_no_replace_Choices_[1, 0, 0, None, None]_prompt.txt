@@ -1,0 +1,252 @@
+Estimated Examples:
+Example 1:
+Text: What’s the difference between a feminist and a bomb vest? One actually does something when it’s triggered
+Annotation from annotator: 2
+
+Example 2:
+Text: 4,999 friends on my wall. 4,999 friends. Make a post, pass it around, tell the truth....4,998 friends on my wall. Fuck it all!!!
+Annotation from annotator: 0
+
+Example 3:
+Text: TRP gets it - Anybody else noticing fat/ugly chicks with handsome guys?
+Annotation from annotator: 2
+
+Example 4:
+Text: Lots of beta males out here thinking they're actually alpha males LOL😂
+Annotation from annotator: 1
+
+Example 5:
+Text: I will be a vegan and drink almond milk everyday... ... but first show me the tits on that almond from where you are squeezing out that shit!!
+Annotation from annotator: 0
+
+Example 6:
+Text: "Hey dad mom is cheating on you" " "How do u know son?"     
+"Her pussy taste like neighbors dick"
+Annotation from annotator: 1
+
+Example 7:
+Text: NO, you don?t have ?haters?. People just don?t like you. Get over yourself hoe.
+Annotation from annotator: 1
+
+Example 8:
+Text: Big government is like a box of chocolates … that you bought with money you earned … but you never know who gets to eat them.
+Annotation from annotator: 0
+
+Example 9:
+Text: The Aryan Body , Mind and Soul - Prodigies and Geniuses Johann Sebastian Bach ( March 31 , 1685 - July 28 , 1750 ) Johann Sebastian Bach was a German composer , organist , violist and violinist whose ecclesiastical and secular works for choir , orchestra and solo instruments drew together the strands of the Baroque period and brought it to its ultimate maturity .
+Annotation from annotator: 0
+
+Example 10:
+Text: Hope this isn’t used but... What is the similarity of my dreams and my father?
+
+Burnt to a crisp.
+Annotation from annotator: 1
+
+Example 11:
+Text: I took my puppy out to pee and she acted like she was too cold then she pissed on my floor&#128530;&#128514;
+Annotation from annotator: 0
+
+Example 12:
+Text: Yesterday this lady was telling me about how her husband killed himself. Which was odd, because she seemed nice to me.
+Annotation from annotator: 0
+
+Example 13:
+Text: " jesus loves you " is a wonderful thing to hear in church . <repeat> . <repeat> ut a horrible thing to hear in a mexican prison .
+Annotation from annotator: 1
+
+Example 14:
+Text: Why aren't there any Muslims in star trek It's the future
+Annotation from annotator: 2
+
+Example 15:
+Text: If u grown &amp; still get thirsty for Jordans knowin erbody else gon havem &amp; u still feel like u accomplished something that say alot about u
+Annotation from annotator: 1
+
+Example 16:
+Text: knock , knock knock , knock . who 's there ? dave . dave who ? * dave proceeds to breakdown into tears as his grandmother 's alzheimer has progressed to the point she can no longer remembers him *
+Annotation from annotator: 1
+
+Example 17:
+Text: And I got a Minah photocard-- But. Why. Do. I. Always. Minah. EVERYTIME. I want yura but get Minah, it must be a sign.
+Annotation from annotator: 0
+
+Example 18:
+Text: chemicals girls use chemicals to remove polish , and no one bats an eye . hitler uses chemicals to remove polish , and he 's a bad person ?
+Annotation from annotator: 2
+
+Example 19:
+Text: People won't fucking care if you tell them about your half-brained, toxic thoughts on a KOREAN BOY GROUP
+Annotation from annotator: 1
+
+Example 20:
+Text: French Traveller François Bernier talks about his time in India and how he was devasted seeing Indians practice Sati. Fair to say it was not the light and sound show he was hoping for as a tourist.
+Annotation from annotator: 1
+
+Example 21:
+Text: What did John Cena say to the blind kid? "You can't see me"
+Annotation from annotator: 2
+
+Example 22:
+Text: It's not racist if it's important to film.
+Annotation from annotator: 0
+
+Example 23:
+Text: what is every black persons favorite song ? lynching by the k <elong>
+Annotation from annotator: 2
+
+Example 24:
+Text: NO REPENTANCE
+NO 4GIVENESS OF SINS
+OR SALVATION
+GRACE IS GIVEN 2 THOSE
+WHO REPENT
+Annotation from annotator: 0
+
+Example 25:
+Text: After 3 private still no answers I paid 100€ extra fees (400€ in total) for 2 tickets to DepecheMode and I think tickets are FAKE ! #viagogo
+Annotation from annotator: 0
+
+Example 26:
+Text: Do you know why you can’t find a black faced smiley ? It’s because black people are not allowed to have emotions .
+Annotation from annotator: 1
+
+Example 27:
+Text: Your husband just called and said that you can buy whatever you want.
+Annotation from annotator: 0
+
+Example 28:
+Text: why is bill clinton my hero? he's f'ed more women that cosby without getting into prison
+Annotation from annotator: 2
+
+Example 29:
+Text: yo i shaved my legs so i could wear shorts today bUT ITS FUCKING COLD OUT YO WTF
+Annotation from annotator: 0
+
+Example 30:
+Text: It remains to be seen whether the close scrutiny of dating histories becomes standard procedure or gets thrown down the memory hole like the checking the immigration status of maids that brought us AG Janet Reno.
+Annotation from annotator: 0
+
+Human-rated Examples:
+Example 1:
+Text: However, coverage and ascent arrives, unconditional severe-thunderstorm and effective SRH maximized near and this activity...
+Annotation from annotator: 0
+
+Example 2:
+Text: What's the one thing that can make one pussy more pussy than another? An infection.
+Annotation from annotator: 0
+
+Example 3:
+Text: I had to hug the block. You bitches just wave at it
+Annotation from annotator: 0
+
+Example 4:
+Text: A priests asks the convicted murderer at the electric chair, "Do you have any last requests?” - "Yes," replies the murderer. "Can you please hold my hand?"
+Annotation from annotator: 0
+
+Example 5:
+Text: "Burns nt head out when people refer to Jamiroquai as ""he"" it's a fucking band, not just one person."
+Annotation from annotator: 0
+
+Example 6:
+Text: Hi @asliyoyo...... &#128587;&#128512; miss you my sunshine.... Awww.... Am #Back #Home #sweet #Home... Miss youuu... Such mein bohot jayada...!!! &#128536;&#128536;&#128536;
+Annotation from annotator: 0
+
+Example 7:
+Text: wellllllllll i think i can safely say that this psych exam may have fucked me a lil extra hard tonight
+Annotation from annotator: 0
+
+Example 8:
+Text: &#8220;@Iamjayla__: @WB_Pooh_3x Bol that called the girl a bitch&#8221;Oharrd coo I'm both of them tho &#128526;&#128076;&#128175;
+Annotation from annotator: 0
+
+Example 9:
+Text: As if both our brothers have been excluded this week for being idiots &#128514;&#128514;@ellieglover_
+Annotation from annotator: 0
+
+Example 10:
+Text: What's the difference between a bus filled with babies and a bus filled with bowling balls? You cannot empty a bus filled with bowling balls while using a pitchfork.
+Annotation from annotator: 2
+
+Example 11:
+Text: "99% of my conversations with @Naerchanqt begin with something along the lines of ""WHO FUCKED UP THIS TIME?"""
+Annotation from annotator: 0
+
+Example 12:
+Text: It's all set up for us to get promoted at Ipswich away. Can't fucking wait.
+Annotation from annotator: 0
+
+Example 13:
+Text: I went to therapists' office He raped me.
+Annotation from annotator: 2
+
+Example 14:
+Text: @ChrisLostBhoy Does one rot in hell? I thought it was to burn in hell. Rot in jail - burn in hell. No biggy.
+Annotation from annotator: 0
+
+Example 15:
+Text: Hey, just looking for some fellow brothers or sister to meet with , im starving for information and Possible Klans to join. would like to be able to meet with people around my age but also older and helpful
+Annotation from annotator: 0
+
+Example 16:
+Text: When anyone is ready we are now taking reservations on lots as we speak first come first served contact me for more info .
+Annotation from annotator: 0
+
+Example 17:
+Text: If you're upset about the pay gap, read The Art of the Deal. Pay gaps exist because most women suck at negotiating their wage. #EqualPayDay
+Annotation from annotator: 2
+
+Example 18:
+Text: RT @KillAllSimps: My girl told me she was on her period, I immediately power bombed her hoe ass
+Annotation from annotator: 0
+
+Example 19:
+Text: What do cellphones and kids have in common? if you've lost one and haven't found it a few days, chances are it's probably dead.
+Annotation from annotator: 2
+
+Example 20:
+Text: In a print journalism class, we were discussing diversity, affirmative action, advocacy groups, etc. White student A:: Yeah, up in San Fran they banned a White students' club. They were accused of being supremacists. White student B:: That's so messed up. Whites can't do anything in this country.
+Annotation from annotator: 0
+
+Example 21:
+Text: A man already accused of killing two women and suspected in the deaths of as many as 30 more was charged with raping and murdering five other victims .
+Annotation from annotator: 0
+
+Example 22:
+Text: Why are Jews not allowed to drive cars in Germany? They contain too much sulfur.
+Annotation from annotator: 2
+
+Example 23:
+Text: Local-Temp : 26.00 Local-Humidity: 53.90 Remote-Temp : 0.00 Remote-Humidity: 0.00 Time: 455667883 Counter: 0 Sensor: OK IAmArduino.
+Annotation from annotator: 0
+
+Example 24:
+Text: One important note people are failing to mention about the Florida massacre Another white person stealing the spotlight from black history month
+Annotation from annotator: 2
+
+Example 25:
+Text: My birthday is on 9/11.. So I never get to celebrate it because my family is too busy celebrating the 9/11 event
+Annotation from annotator: 0
+
+Example 26:
+Text: We thank Naman Kathal for registering as #B+ blood donor in #Bhopal North, #Madhya Pradesh #Friends2Support
+Annotation from annotator: 0
+
+Example 27:
+Text: Be sure to make note of the new address to buy things from The Knights !
+Annotation from annotator: 0
+
+Example 28:
+Text: THEY HAVE PRINTER NO COST OFF MONEY IT IS LIKE IF YOU PRINT MONEY AND ASK FROM NAIBOR GIVE ME UR CAR ..OTHER WAYS I STOP TO PAY YOUR DIESEL
+Annotation from annotator: 0
+
+Example 29:
+Text: Awesome win last night for the Colorado Rockies baseball team! I miss home sometimes just watching them play!
+Annotation from annotator: 0
+
+Example 30:
+Text: Get a fucking grip @Saints1890 playing like amateurs
+Annotation from annotator: 0
+
+Target Example:
+Text: Anyone who comments on this post is a big black nigger ape.
+Annotation from annotator:

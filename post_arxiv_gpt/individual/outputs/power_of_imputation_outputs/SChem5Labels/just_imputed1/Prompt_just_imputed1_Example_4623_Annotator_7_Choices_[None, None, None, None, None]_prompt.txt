@@ -1,0 +1,122 @@
+Example 1:
+Text: If you're scared, you should face it head on.
+Annotation from annotator: 2
+
+Example 2:
+Text: Parents should be aware of potential dangers to their children.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's understandable that people get irritated sometimes with jealousy from others.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's okay to not be attracted to people.
+Annotation from annotator: 3
+
+Example 5:
+Text: If you want to dye your hair, you should get it done professionally at a salon so it looks nice.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's okay to want to spend and much time as you can with a significant other.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't post pictures if you're tired online.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's important not to objectify other people.
+Annotation from annotator: 3
+
+Example 9:
+Text: People shouldn't assume it's okay to take something just because it's not nailed down.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's wrong to ignore family members
+Annotation from annotator: 3
+
+Example 11:
+Text: It's wrong to try to change your child's lifestyle.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's not okay to be in a romantic relationship with a teacher.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't date a bad partner.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is prolific to create several products.
+Annotation from annotator: 3
+
+Example 15:
+Text: You shouldn't expect your parent to always be there for you.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's normal for people to worry about their loved ones.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is wrong to gamble.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's okay to be confused when your friend leaves you.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's understandable to be upset over not being able to find a job.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't rush through tasks without being attentive to them.
+Annotation from annotator: 3
+
+Example 21:
+Text: It is good to spend time with someone you care about.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to give treats to your pets.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good to tell the world about a joyous event.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's acceptable to euthanize a sick animal.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's good to forgive others.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's understandable to be upset with a co-worker who is not pulling their weight at work.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's fun to do things with your friends.
+Annotation from annotator: 3
+
+Example 28:
+Text: If you're suicidal, you should get some therapy.
+Annotation from annotator: 3
+
+Example 29:
+Text: It is good to dress appropriately before leaving the house.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's okay to indulge and live a little at night.
+Annotation from annotator: 2
+
+Text: It's understandable to be disappointed when something you wanted badly doesn't turn out well.
+Annotation from annotator:

@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: She feelin a young niggah
+Annotation from annotator: 0
+
+Example 2:
+Text: She conducted séances at her boarding house, and soon her new tenant was also taken with the world of necromancy.
+Annotation from annotator: 0
+
+Example 3:
+Text: She is white but looks somewhat below average for a white Swedish girl , I think .
+Annotation from annotator: 0
+
+Example 4:
+Text: Why did the esports gamer paint his computer black? So his computer would run faster.
+Annotation from annotator: 2
+
+How annotator B has labeled some examples:
+Example 1:
+Text: They sleep on dirty floors in dirty houses with their dirty kids eating off dirty plates driving in dirty cars sitting at dirty tables with their dirty manners and dirty way of talking dirty way of living they wear dirty clothes have dirty smiles and are all-around dirty nasty people .
+Annotation from annotator: 2
+
+Example 2:
+Text: Evasive girl I flirted with online now apparently threatening to publicly shame me and destroy my career (x-post relationships)
+Annotation from annotator: 2
+
+Example 3:
+Text: Fat hoes on Twitter calling themselves Barbies, bitch you ain't no damn Barbie you a damn care bear.
+Annotation from annotator: 2
+
+Example 4:
+Text: Just about anything you could ever dream of can be found HERE Just about everyone agrees on illegal immigration !
+Annotation from annotator: 2
+
+How annotator C has labeled some examples:
+Example 1:
+Text: Reminder: A bully always hurts someone weaker than himself. He will never go after someone he isn't sure he can overwhelm physically.
+Annotation from annotator: 0
+
+Example 2:
+Text: if a person has shown theyre more educated on certain issues than in the past, which nj has, bringing up a past mistake just to hate and-
+Annotation from annotator: 0
+
+Example 3:
+Text: How did Rihanna know Chris Brown was cheating on her? She found another woman’s lipstick on his knuckles
+Annotation from annotator: 2
+
+Example 4:
+Text: Gun control is a 3-shot shot group you can cover with a quarter at 50 meters
+Annotation from annotator: 0
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: shortest numerical joke : what does <number> tand for ? fucking someone with down syndrome .
+Annotation from annotator:

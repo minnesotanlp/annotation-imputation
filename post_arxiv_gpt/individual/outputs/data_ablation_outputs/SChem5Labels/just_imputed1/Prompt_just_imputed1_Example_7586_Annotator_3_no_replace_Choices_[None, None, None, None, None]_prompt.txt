@@ -1,0 +1,122 @@
+Example 1:
+Text: It's not healthy to isolate yourself
+Annotation from annotator: 3
+
+Example 2:
+Text: It's frustrating when someone stops talking to you for no reason.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should go to bed when you are falling asleep on the couch.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is bad to abuse others.
+Annotation from annotator: 4
+
+Example 5:
+Text: You should find a first aid kit when you injure yourself.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to take charge of your health.
+Annotation from annotator: 3
+
+Example 7:
+Text: People should look out for their partners, not take advantage of them.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's not okay to blame someone for something they have no control over.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's wrong to assume things about people.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's expected that a doctor will prescribe medicine to speed up recovery.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's uncomfortable to breathe when there's a lot of dust in a home.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's good to reduce your carbon footprint.
+Annotation from annotator: 3
+
+Example 13:
+Text: If you're broke, you should get a job.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's understandable that people are upset by the death of a loved one.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's nice to help widows.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's good have a goal in life and pursue it.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is OK to be emotional.
+Annotation from annotator: 3
+
+Example 18:
+Text: You shouldn't expect your ex to remain friends with you.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's nice to date others.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's normal for your preferences in a romantic partner to change over time.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's good to take care of a garden and be outside.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is normal for other people to write your obituary
+Annotation from annotator: 3
+
+Example 23:
+Text: It's understandable to get annoyed at someone obnoxious.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's understandable for friends to offer dating advice.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to organize things.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's ok to be honest with friends.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is expected that you take care of your pets
+Annotation from annotator: 4
+
+Example 28:
+Text: It's rude to yell at a kid.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay not to enjoy getting high with your partner.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's discouraged to be in love with your own image.
+Annotation from annotator: 3
+
+Text: It's understandable to have difficulty getting over a crush.
+Annotation from annotator:

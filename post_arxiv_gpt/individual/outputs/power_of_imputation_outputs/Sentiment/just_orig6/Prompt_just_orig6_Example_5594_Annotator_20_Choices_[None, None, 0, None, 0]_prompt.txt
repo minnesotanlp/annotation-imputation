@@ -1,0 +1,6 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Target Example:
+Text: @uncivilized I just had to explain hyper colour to a 22 year old. I'm old
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: 65th case of SARS in Egypt - 25 year old  is the latest one
+Annotation from annotator: 2
+
+Example 2:
+Text: @ryankanno I think the Guile T-shirt and the Blanca boxers may have given him pause to think you younger than you really are.
+Annotation from annotator: 2
+
+Example 3:
+Text: Just became best friendswith a 7 year old. Haha. Shes a jb fan too.
+Annotation from annotator: 2
+
+Example 4:
+Text: Im watchin 'Balls of Fury' and i got a headache    Anywho, wussup wit tha twitterfam?? New and old folowers
+Annotation from annotator: 2
+
+Example 5:
+Text: goodmorning twitter! going to amanda's house today! its raining    uggh. back to the old weather.
+Annotation from annotator: 1
+
+Example 6:
+Text: @The_JONAS_Scope http://twitpic.com/6e1d0 - an oldie!! i LOVE joe's hair here.   i miss those times.
+Annotation from annotator: 2
+
+Example 7:
+Text: jammin to some old reggaeotn. good times
+Annotation from annotator: 2
+
+Example 8:
+Text: @roshnimo I loved the book, movie was alright. But yes, old-time Tokyo was awesome.
+Annotation from annotator: 2
+
+Example 9:
+Text: Trying to convince my 3 yr old to play hooky and go shopping/lunch... she says "naaahhh"
+Annotation from annotator: 2
+
+Example 10:
+Text: Also need my dads old phone
+Annotation from annotator: 2
+
+Example 11:
+Text: don't ask my why i have a new account...it's cuz twitter is LAME and my old one got deleted somehow.  wah wah wah
+Annotation from annotator: 1
+
+Example 12:
+Text: @vivaciousmodels I'm still in az  need to move soon but have to handle some bs that my old roommate screwed me on b4 I do so
+Annotation from annotator: 1
+
+Example 13:
+Text: @MarkRCameron yikes! just saw yr tweet! the old hook turn aye... thank god it wasn't too bad
+Annotation from annotator: 1
+
+Example 14:
+Text: Nothing will ever be cuter than having my 2 year old niece try and do the shred with me
+Annotation from annotator: 2
+
+Example 15:
+Text: @brentspiner its young kirk not picard...this from a former star trek
+Annotation from annotator: 2
+
+Example 16:
+Text: Hey! I got one of the girls into MTG!  Now I'll have someone else to play with. It's like when I had the older kids teach me Pok___mon.. ...
+Annotation from annotator: 2
+
+Example 17:
+Text: @Je_nicole: same old stuff for me. Wish the weekend were here
+Annotation from annotator: 2
+
+Example 18:
+Text: @MSWindows That really is one of the most played ever but... my heart is with the good old Nibbles in DOS' qbasic!
+Annotation from annotator: 2
+
+Example 19:
+Text: @Lara82 shit thats a lotta noms...but too old to vote  guess I could fake it if I really wanted to tho
+Annotation from annotator: 1
+
+Example 20:
+Text: @sophiaperennis when i say pop i meant grandfather  my dad is doing fine i'm not that old lol
+Annotation from annotator: 2
+
+Example 21:
+Text: @GloriaNelson blessing Hef the way one would bless their old grandfather. God bless his little heart
+Annotation from annotator: 2
+
+Example 22:
+Text: @Jenfidel Thanks I decided to just give up on my old HQ and go with this account. Scoundrels won
+Annotation from annotator: 1
+
+Example 23:
+Text: 6 year old's review of the movie UP http://bit.ly/wfqhR   Good Morning Everyone
+Annotation from annotator: 2
+
+Example 24:
+Text: Hi Twitters did you hear the 2yr old joey that was shot in the face with an arrow died
+Annotation from annotator: 1
+
+Example 25:
+Text: @scodal Why thank you! This is Bonzo... He's my buddy!  2 yr old 190lb Great Parinese(sp)... bark is fierce...but really a big pussycat!
+Annotation from annotator: 2
+
+Example 26:
+Text: FFS! I think the network port on my 360 is goosed, it's only 3days old!
+Annotation from annotator: 1
+
+Example 27:
+Text: @JonasBrothers new Rolling Stones cover is UGLIER than the old one  *tears*
+Annotation from annotator: 1
+
+Example 28:
+Text: Man i should've been asleep an hr ago but, like a 6 year old, "just didn't wanna". Now i have a compulsion to read that i must fulfill
+Annotation from annotator: 2
+
+Example 29:
+Text: @conversecat i love him to death, its just we still miss our old youth group
+Annotation from annotator: 2
+
+Example 30:
+Text: Allergies sucks sometimes. Theres a super adorable 9 month old beagle named Sydney hanging out with my roomie and his friend. Can't pet.
+Annotation from annotator: 2
+
+Target Example:
+Text: Father and sister got an iPhone and I'm still stuck with a 5 years old Nokia 6600... Need the new iPhone to stay credible
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

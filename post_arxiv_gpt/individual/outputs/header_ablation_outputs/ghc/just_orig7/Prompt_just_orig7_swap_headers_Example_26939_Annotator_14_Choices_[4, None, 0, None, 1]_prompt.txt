@@ -1,0 +1,127 @@
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Two Syrian Woman Murdered in the UK… 
+Annotation from annotator: 0
+
+Example 2:
+Text: Fuck that guy anyways, he was a part of the Muslim brotherhood. Saudis did us a favor for once. 
+Annotation from annotator: 1
+
+Example 3:
+Text: White genocide is real, and it's here in America. Hate crime. 
+Annotation from annotator: 1
+
+Example 4:
+Text: OMG we can't trust that nigger Kanye West my fellow comrad... Errrr I mean white conservative Christian soldiers! It's a trick! - EVERY SINGLE SHAREBLUE SHILL
+Annotation from annotator: 1
+
+Example 5:
+Text: Senate Intel Committee Delivers Interview Invite to Assange!!! https://www.youtube.com/watch?v=FXjyaVeFQ08&t=383s
+Annotation from annotator: 0
+
+Example 6:
+Text: Day 21.1 Yet Another @Georgewebb on @McCabe Mafia Character Brought In The @Russia Drama https://youtu.be/NJD9z34Ghz4
+Annotation from annotator: 0
+
+Example 7:
+Text: You know nothing of breeding animals for domestication if you think that behavioral traits can’t be selected for and enhanced over generations due to selective breeding.  Google search “breeding dogs for desirable traits”.
+Annotation from annotator: 0
+
+Example 8:
+Text: Oh my,so 17 dead kids are a hoax,Perhaps FBI should check out the person that posted this...
+Annotation from annotator: 0
+
+Example 9:
+Text: AMAZING Donald Trump Biography Video Played at the RNC 
+Annotation from annotator: 0
+
+Example 10:
+Text: Saw & thought of you.  Don't know if true but no surprise to me.   Worth some reflection?
+Annotation from annotator: 1
+
+Example 11:
+Text: Life - It's About the Journey 
+Annotation from annotator: 0
+
+Example 12:
+Text: What do you expect from people who are fighting for the "right" to murder their children? moral decency? 
+Annotation from annotator: 1
+
+Example 13:
+Text: NARRATOR VOICE: 
+Annotation from annotator: 0
+
+Example 14:
+Text: He demands to know the truth, so he can cover it up with lies.
+Annotation from annotator: 1
+
+Example 15:
+Text: The Democrat Party has ONE MISSION - to destroy the USA and if YOU press the "D"ummy lever - you are helping... https://twitter.com/charliekirk11/status/1049789354984361984
+Annotation from annotator: 1
+
+Example 16:
+Text: Same old, same old: "Oh, the money, the money..." 
+Annotation from annotator: 1
+
+Example 17:
+Text: I can't say I would disagree with this too much. 
+Annotation from annotator: 0
+
+Example 18:
+Text: John 17:16 King James Version (KJV)
+Annotation from annotator: 0
+
+Example 19:
+Text: I obviously DO know what idolatry is. 
+Annotation from annotator: 0
+
+Example 20:
+Text: That article was hard as Fuck to read. It is littered with grammatical errors.
+Annotation from annotator: 0
+
+Example 21:
+Text: Taking the word of Sen.Durbin is like saying Ricin is toothpaste. NOT healthy. 
+Annotation from annotator: 1
+
+Example 22:
+Text: you forgot excessive oral deification
+Annotation from annotator: 1
+
+Example 23:
+Text: Lemme guess:  If Ms. Rubin were on CNN, there'd be a descriptor underneath her talking-head as a "Republican Strategist?"
+Annotation from annotator: 1
+
+Example 24:
+Text: 12 D Chess anyone ?
+Annotation from annotator: 0
+
+Example 25:
+Text: i just got the word that a school shooting has happened yesterday morning in Maryland. may god bless the victims and may god damn thw leftist media for refusing to talk about it simply for the fact that a police officer prevented more victims. that police officer deserves recognition as a hero.
+Annotation from annotator: 0
+
+Example 26:
+Text: You have officially been jewed.
+Annotation from annotator: 1
+
+Example 27:
+Text: It's probably on my top 3 biggest complaints of Gab so far.  Site claiming and wanting a free speech platform.  Installs gamification of said free speech that'll favor whichever side is simply more popular / has higher user-base.
+Annotation from annotator: 0
+
+Example 28:
+Text: If Brett Kavanaugh covered up the murder of Vince Foster, then Trump is as bad as Hillary. Who knew? 
+Annotation from annotator: 1
+
+Example 29:
+Text: I'm identifying as 10 years younger and I dare anybody tell me otherwise. 
+Annotation from annotator: 0
+
+Example 30:
+Text: Not saying its likely in near term... just that its possible, and should not be ignored.  Just like earthquake in Memphis TN 
+Annotation from annotator: 0
+
+Target Example:
+Text: Can't wait to see that Monday.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

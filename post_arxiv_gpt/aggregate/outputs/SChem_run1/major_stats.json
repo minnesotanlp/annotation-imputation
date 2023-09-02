@@ -1,0 +1,818 @@
+{
+    "no_headers_swap_data_swap_no_replace_none_replaced": {
+        "[0, 0, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 0]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 0]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 0]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 0]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 0]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 0]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 0]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 0.0
+        },
+        "[1, 0, None, 0, 1]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 1]": {
+            "accuracy": 0.3333333333333333,
+            "weighted avg f1-score": 0.5,
+            "valid answer rate": 0.3333333333333333
+        },
+        "[1, 1, None, 0, 1]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 0, 1]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 0.3333333333333333
+        },
+        "[1, 2, None, 0, 1]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 1]": {
+            "accuracy": 0.3333333333333333,
+            "weighted avg f1-score": 0.5,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 1]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 1, 1]": {
+            "accuracy": 0.3333333333333333,
+            "weighted avg f1-score": 0.5,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 1]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 1]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 1]": {
+            "accuracy": 0.6666666666666666,
+            "weighted avg f1-score": 0.8000000000000002,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 1]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 1, 2]": {
+            "accuracy": 0.3333333333333333,
+            "weighted avg f1-score": 0.5,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        }
+    },
+    "no_headers_swap_no_data_swap_replaced_2nd_replaced": {
+        "[0, 0, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 0]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 0.0
+        },
+        "[1, 0, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 0.0
+        },
+        "[1, 1, None, 0, 1]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 0.0
+        },
+        "[1, 2, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 1]": {
+            "accuracy": 0.3333333333333333,
+            "weighted avg f1-score": 0.5,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 0.0
+        },
+        "[1, 1, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 1]": {
+            "accuracy": 0.6666666666666666,
+            "weighted avg f1-score": 0.8000000000000002,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 1, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 2]": {
+            "accuracy": 0.3333333333333333,
+            "weighted avg f1-score": 0.5,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        }
+    },
+    "no_headers_swap_no_data_swap_no_replace_none_replaced": {
+        "[0, 0, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 0, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 1, 0]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 0.0
+        },
+        "[1, 0, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 0.0
+        },
+        "[2, 0, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 1]": {
+            "accuracy": 0.3333333333333333,
+            "weighted avg f1-score": 0.5,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 0.0
+        },
+        "[1, 2, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 0, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 1]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 1, 1]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 0, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 0, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 0, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 0, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 1, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 1, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 1, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[0, 2, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        },
+        "[1, 2, None, 1, 2]": {
+            "accuracy": 1.0,
+            "weighted avg f1-score": 1.0,
+            "valid answer rate": 1.0
+        },
+        "[2, 2, None, 1, 2]": {
+            "accuracy": 0.0,
+            "weighted avg f1-score": 0.0,
+            "valid answer rate": 1.0
+        }
+    }
+}

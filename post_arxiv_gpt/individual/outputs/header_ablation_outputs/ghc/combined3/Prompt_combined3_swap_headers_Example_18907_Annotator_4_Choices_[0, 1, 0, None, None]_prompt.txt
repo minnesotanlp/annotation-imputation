@@ -1,0 +1,245 @@
+Imputed Examples:
+Example 1:
+Text: STAR SPANGLED BANNER on the 3- STRING SHOVEL GUITAR! | Justin Johnson https://www.youtube.com/watch?v=BaLEaPudJr0
+Annotation from annotator: 0
+
+Example 2:
+Text: 1000 pieces
+Annotation from annotator: 0
+
+Example 3:
+Text: Oh it gets worse then that... There's all sorts of things they can do (uploading img's ext, because gab has been screwy with that lately). https://imgur.com/a/ZOBrfP5 https://imgur.com/a/lOc9hwG  ..
+Annotation from annotator: 0
+
+Example 4:
+Text: A tricky little question from a standardized test. See if you can figure out the correct answer. (There is only one correct answer.)
+Annotation from annotator: 0
+
+Example 5:
+Text: It’s a police problem not a race problem
+Annotation from annotator: 0
+
+Example 6:
+Text: But muh International womens day !
+Annotation from annotator: 0
+
+Example 7:
+Text: The ultimate 'ends justifying the means' - but Putin seems to have some integrity. Doing that to israel would also harm his allies and their people in a big way. Unlike the jew and the zionist controlled US govt, I can't see him being that monstrous.  
+Annotation from annotator: 1
+
+Example 8:
+Text: The FBI is more complicit than incompetent, they identify, track and then turn these guys loose by turning a blind eye and doing nothing, they've absolutely been compromised to the highest levels and must be dismantled...
+Annotation from annotator: 0
+
+Example 9:
+Text: Is it Bc Government Run indoctrination centers (known as school) told you that?   LMAO 😂   Gullible children.
+Annotation from annotator: 0
+
+Example 10:
+Text: Dr ENÉAS DENUNCIA VENDA DA VALE DO RIO DOCE 
+Annotation from annotator: 0
+
+Example 11:
+Text: I wasn't talking about civilisation or technology, I was talking about culture. When did this conversation derail?
+Annotation from annotator: 0
+
+Example 12:
+Text: Close, but to offer them separation and their own country to prove their theories would be better and constructive.( It would also destroy "racism" by disabling it.)
+Annotation from annotator: 0
+
+Example 13:
+Text: If you're not familiar with Agenda 21, you should be. https://davidharrisjr.com/news-events/so-its-come-... #gab #agenda21 #news
+Annotation from annotator: 0
+
+Example 14:
+Text: With the increase of the human population in the Fertile Crescent from the beginning of the Neolithic (starting 12,000 years ago), selective hunting and culling of herds started replacing indiscriminate killing of wild animals. 
+Annotation from annotator: 0
+
+Example 15:
+Text: President Donald Trump gives URGENT Announcement on DACA and Mexico https://www.youtube.com/watch?v=P5oN19V36ms
+Annotation from annotator: 0
+
+Example 16:
+Text: No sooner than POTUS announces US withdrawal from Syria - than another "Gas Attack" occurs, again blamed on the Assad government. Who/What Group want to start a World War in Syria? Hint: They Hate @realDonaldTrump and everything he stands for.  #TheStorm #Treason
+Annotation from annotator: 1
+
+Example 17:
+Text: I don't need to find tickets nephew, I'm a season seat holder
+Annotation from annotator: 0
+
+Example 18:
+Text: I still think government should stay out. I don't think needing a license to marry is what a free country would have.  As for the incest issue, the government should maybe intervene when there is the possibility of inbreeding. However, punishment for such crimes is usually disproportionate to the actual offense.  Also, the polygamy thing you brought up is a non-starter. Laws that try to imprison people because "muh morality" should not exist. Period.
+Annotation from annotator: 0
+
+Example 19:
+Text: Yea well we are quickly approaching a perfect storm of suck where we will pay half of our money to be raped by a pack of feral 3rd world vermin.  Flipping the table is the sane option.
+Annotation from annotator: 1
+
+Example 20:
+Text: I despise the term #woke. It reeks of illiteracy, reducing the cognitive acceptance of existential truth to a grammatically incorrect use of a wrong verb tense. That said, welcome to using your brain for something other than keeping your skull from imploding.
+Annotation from annotator: 0
+
+Example 21:
+Text: Usurper obama/Soetoro allowed Valerie Jarret and David Axelrod to run their business to lobby the Olympics for Chicago - from the WH. Axelrod was to have the advertising contract. Jarrett was to have her construction company build the stadium for the Olympics - on property that she owned, that had housing projects built on it.
+Annotation from annotator: 0
+
+Example 22:
+Text: They Told Us... 
+Annotation from annotator: 0
+
+Example 23:
+Text: #WorldCup #England. England has only once held an opponent scoreless in this World Cup, will likely need another goal to win.
+Annotation from annotator: 0
+
+Example 24:
+Text: Someone with a Twatter account should post this on Home Depots account page
+Annotation from annotator: 0
+
+Example 25:
+Text: The sad thing is that all over the western world women are WILLINGLY giving away all the freedoms that were so hard fought for them by marrying into cultures that don’t see them as equal and by supporting men becoming women
+Annotation from annotator: 0
+
+Example 26:
+Text: BREAKING: 
+Annotation from annotator: 0
+
+Example 27:
+Text: European nations quietly or openly resisting Teufela Merkel's NWO EU's Islamist Caliphate rapefujihadi annihilist tsunami: https://www.zerohedge.com/news/2018-06-16/these-european-countries-are-refusing-accept-unchecked-influx-migrants of the West
+Annotation from annotator: 0
+
+Example 28:
+Text: I admit I was bummed today at first but reading todays Q post will make you feel better, and everyone’s take on what it means.  I do trust our POTUS to make the best decisions for us.  As someone said, it’s a spending bill. He can delay payments to the PP monsters and the sanctuary city monsters and have our COE build the wall!
+Annotation from annotator: 0
+
+Example 29:
+Text: LIBTARDED LIBERALS led by the JEWS who own this PROPAGANDA RAG and 96% + of ALL media in the western world (if not more by now!?) would say such TOTAL INSENSITIVE BS. And WHY is this happening? Because Jews HATE WHITES - gee and we thought most of them were "white"?!? Guess again!!! They're "white" when they say so & JEWS when they want to let you know THEY RULE!!!!
+Annotation from annotator: 1
+
+Example 30:
+Text: The socialist anc government has turned the powerhouse of the continent into a sh*thole & now wants to confiscate land like Zimbabwe did which after 30 years has realized they can't grow enough food for themselves in a country that once had world class yields. 
+Annotation from annotator: 0
+
+Correct Examples:
+Example 1:
+Text: @a What's up with all the foreign language comments getting so many views? Something stinks here.
+Annotation from annotator: 0
+
+Example 2:
+Text: There are just two more days to get Stories in the Stars at the discounted price of around £10.00/$14.00. From Saturday, it goes up to full price. Here's a great review that may help you make up your mind.
+Annotation from annotator: 0
+
+Example 3:
+Text: PomoNews: (VIDEO) TWITTER CEO @JACK ADMITS LEFT-WING BIAS, BUT SAYS HE DOES NOT REGULATE IDEOLOGY. BUT UNAWARES HE DOES! https://buff.ly/2FO9uw0
+Annotation from annotator: 0
+
+Example 4:
+Text: The Left Still Doesn't Know Why It's Losing | The American Spectator https://spectator.org/the-left-still-doesnt-know-w...
+Annotation from annotator: 0
+
+Example 5:
+Text: Meme of the day?
+Annotation from annotator: 0
+
+Example 6:
+Text: Welcome new followers! Ask me anything about climbing and tag me in your climbing/outdoor photos and I will repost them. Enjoy this video of an older guy climbing very hard https://youtu.be/vBSUouWliPk
+Annotation from annotator: 0
+
+Example 7:
+Text: The Guardian had Bearing's video about Owen Jones and communism removed from YouTube. Find it here on @bitchute : #BritFam https://www.bitchute.com/video/ws2M2ywthgw/
+Annotation from annotator: 0
+
+Example 8:
+Text: 🌻 DEFEND 🌻 EUROPA 🌻  A nation consists of its blood & soil: An ethnically homogeneous people & the soil they cultivate, the domain that provides shelter, refuge & nourishment from the soil where their ancestors lie buried.
+Annotation from annotator: 0
+
+Example 9:
+Text: Proverbs 11:10
+Annotation from annotator: 0
+
+Example 10:
+Text: New video is being rendered at the moment. Got delayed due to some work-related BS. I'll post the link when it's ready. #TheRedExpress
+Annotation from annotator: 0
+
+Example 11:
+Text: No math, but a lot of train and error experience. Even more impressive!
+Annotation from annotator: 0
+
+Example 12:
+Text: Cardinal Wuerl must resign. https://youtu.be/8Dp0nO4CcME
+Annotation from annotator: 0
+
+Example 13:
+Text: AND..... At last. I will be spinning up engagement here, and on Instagram: instagram.com/darktriadman
+Annotation from annotator: 0
+
+Example 14:
+Text: New Q drop https://qanon.app
+Annotation from annotator: 0
+
+Example 15:
+Text: Another film to boycott. Sad indeed...
+Annotation from annotator: 0
+
+Example 16:
+Text: Democrats and Conservacucks are remembering John McCain.  If he died in 2007, it would be only Conservacucks.
+Annotation from annotator: 0
+
+Example 17:
+Text: I suggest we start with her or it or xir or something.
+Annotation from annotator: 0
+
+Example 18:
+Text: Hey Humble Bundle is giving away free copies of Warhammer: 40,000 Space Marine.I haven't played the game myself, but It looks cool. https://www.humblebundle.com/store/warhammer-40000...
+Annotation from annotator: 0
+
+Example 19:
+Text: Just saw an Oreo cookie commercial. Drool.
+Annotation from annotator: 0
+
+Example 20:
+Text: So, they're admitting they are here just to troll? Then they wonder why they can't escape the 3rd world.
+Annotation from annotator: 0
+
+Example 21:
+Text: Proof paintings by Jim Carrey are actually self-loathing, self-portraits. #Gab #GabFam #SpeakFreely #Chat #Americans
+Annotation from annotator: 0
+
+Example 22:
+Text: A bit of Camper Van Beethoven... https://www.youtube.com/watch?v=u-4-QWLAcjY
+Annotation from annotator: 0
+
+Example 23:
+Text: Truth isn't truth when a factual truth is used to support a lie. Example: Texas Senate candidate Beetle O'Rourke uses a factual truth; supporters donate directly into his campaign through a PAC website, to support the lie that he doesn't take money from PACs, with the unspoken inference that he doesn't take their support either. The PACs facilitated the donation, if not for them he would not have...
+Annotation from annotator: 0
+
+Example 24:
+Text: The sexual revolution brought us- the Pill- the disconnect between Sex & Responsibility- a rampant hookup and divorce culture- millions of aborted children- the single-mother home sponsored by the government- removal of the importance of the male role in the family- women that absolutely resent men- weakened, feminized men THIS. IS. NOT. PROGRESS.
+Annotation from annotator: 1
+
+Example 25:
+Text: Oh so now he's a spoiled *millennial* murderer, too??? https://neonnettle.com/news/4867-mollie-tibbetts-k...  BTW, the guy who owns the property where this scumbag was working is a die-hard Democrat/Hillary supporter. Go figure he'd employ ILLEGAL ALIENS to work for him. 😡
+Annotation from annotator: 1
+
+Example 26:
+Text: E Michael Jones on Vigano's letter: https://hooktube.com/watch?v=qnZXo6TZyZw  come for the logos stay for the hammer time
+Annotation from annotator: 0
+
+Example 27:
+Text: How long before one of these actors who are constantly threatening our President and his entire family pull a John Wilkes Booth (Actor) on him? Trump does too many public events where famous people are at. It's not out of the question that one of these mentally ill cocksuckers may take an opportunity to become infamous because they believe in their cause.
+Annotation from annotator: 1
+
+Example 28:
+Text: Not sure if you guys are being spammed with me going live notifications but if you are I apologize. I'm trying to get ready to stream tomorrow.
+Annotation from annotator: 0
+
+Example 29:
+Text: #MetalMonday https://youtu.be/L0zjCMMbnjo
+Annotation from annotator: 0
+
+Example 30:
+Text: Just...#Ouch
+Annotation from annotator: 0
+
+Target Example:
+Text: MAGA! Glad you are here.     @Smokinhart488
+Annotation from annotator:

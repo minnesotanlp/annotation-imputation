@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Peaceful....
+Annotation from annotator: 0
+
+Example 2:
+Text: Talking today at lunch with co-workers,one black,one Hispanic and I'm white.We all have something in common,a diverse family.We all have black,white,Hispanic and I have Asian and Jordanian as well.We all agree that the battle we all face is the battle of Good vs Evil not Racism or anything else.Interact in the 3rd dimension and you'll see. 👍☺
+Annotation from annotator: 0
+
+Example 3:
+Text: We're running out of WHITES (in South Africa) The nr of people leaving is an understatement because another article in Business day had different numbers. However no mention was made of farm murders etc.  https://m.news24.com/SouthAfrica/News/were-running...
+Annotation from annotator: 0
+
+Example 4:
+Text: III%  if you don't know what the fuck you're talking about, ask Cop put on leave for tattoo linked to antigovernment group https://nypost.com/2018/08/31/cop-put-on-leave-for...
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: ’Toxic masculinity’ is a made up term used to denigrate men. Some men are toxic; masculinity is natural & healthy. Women murder millions of babies every year. Where are the ‘toxic femininity’ or ‘toxic hypergamy’ labels? I refuse to be drawn into a war of words. I speak truth.
+Annotation from annotator: 0
+
+Example 2:
+Text: Came across this recently. The way this pos treats this officer is disgusting. But if this degenerate needed help from the police, would he be as rude? https://twitter.com/westwood_hero/s tatus/1025486183588155394?s=21
+Annotation from annotator: 0
+
+Example 3:
+Text: Its one party system. The right is bragging about unemployment numbers when we know Ovomit bastardized the formula to figure unemployment numbers more than once. He was criticized for it but we still use the same formula then tout how good things are. WTF!!!!
+Annotation from annotator: 1
+
+Example 4:
+Text: Let’s talk about anything and everything except the elephant in the room - #Canada’s overwhelming #Immigration fiasco http://www.cbc.ca/news/canada/british-columbia/bel...
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: I don't know what 'Trish's Dishes' are.
+Annotation from annotator: 0
+
+Example 2:
+Text: Identity theft in the US is a problem existing almost entirely on account of illegal aliens. Several years ago I found the correlation between ID theft rate and foreign-born population percentage to correlate at a staggering .75 at the state level https://anepigone.blogspot.com/2008/06/more-immigr...
+Annotation from annotator: 0
+
+Example 3:
+Text: Today was a whirlwind. A bit crazy, but the good kind of crazy. I like days like today! 😌
+Annotation from annotator: 0
+
+Example 4:
+Text: THE GLOVES ARE OFF ! THANK YOU PRESIDENT TRUMP ! https://youtu.be/ZSHGf_3xL_8
+Annotation from annotator: 0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: Damn..  I'm old enough to remember 2001-2016 when Democrats hated John McCain.  Now they guys is one of their patron saints...
+Annotation from annotator:

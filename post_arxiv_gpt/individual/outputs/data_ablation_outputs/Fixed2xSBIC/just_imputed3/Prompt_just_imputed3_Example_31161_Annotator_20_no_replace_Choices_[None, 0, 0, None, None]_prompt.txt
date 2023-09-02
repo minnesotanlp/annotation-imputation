@@ -1,0 +1,128 @@
+Estimated Examples:
+Example 1:
+Text: RT @SAMMI_boyden: @savanigga oh....I know dude. I just went OFF ON HIS ASS I'm done with that faggot
+Annotation from annotator: 2
+
+Example 2:
+Text: I just noticed the atomic blackpill post got gilded twice lol
+Annotation from annotator: 0
+
+Example 3:
+Text: some fuckface dropped fucking atole in the god damn frijoles
+Annotation from annotator: 1
+
+Example 4:
+Text: tmw trump said both we pray &amp; god bless and I'm a lil shook. Really thought I wouldn't hear that in the White House ever again&#128513;&#128591;&#127997;&#128588;&#127997;
+Annotation from annotator: 0
+
+Example 5:
+Text: A fucking Hyundai just beat me in a race wtf is this a
+Annotation from annotator: 0
+
+Example 6:
+Text: Just a reminder that it is our Annual General Meeting tomorrow at the Townley hall (behind the URC) from 2pm-4pm, hope you can all make it!
+Annotation from annotator: 0
+
+Example 7:
+Text: Why can't dinosaurs clap? Because they're all fucking dead
+Annotation from annotator: 0
+
+Example 8:
+Text: Don't forget, you need to put your clocks back one hour this weekend... But if you are a Muslim then you need to put them forward about 1400 years.
+Annotation from annotator: 2
+
+Example 9:
+Text: Fuck North Carolina!!! DUKE Forever bitches!! #NationalChampionship
+Annotation from annotator: 1
+
+Example 10:
+Text: Liverpool XI vs. Everton: Mignolet; Clyne, Matip, Lovren, Milner; Lucas, Can, Wijnaldum; Mane, Firmino, Coutinho
+Annotation from annotator: 0
+
+Example 11:
+Text: In Search of the First Civilizations by Michael Wood .
+Annotation from annotator: 0
+
+Example 12:
+Text: "RT @SuppIication: Lack of sex will have u mad at stupid shit like, ""Why is this floor on the floor!?"""
+Annotation from annotator: 1
+
+Example 13:
+Text: kiwifarms is capping your discord
+I am monitoring their site as part of an investigation and I feel it is appropriate to let you know that kiwifarms is screencapping your discord.
+Annotation from annotator: 0
+
+Example 14:
+Text: I held a bingo game in Iraq. When I said,"B-52!". everyone left.
+Annotation from annotator: 0
+
+Example 15:
+Text: Whats the difference between 18yo chick and a dead baby? I dont get a boner when i see a 18yo chick
+Annotation from annotator: 2
+
+Example 16:
+Text: I like my women like I like my toasters  turned on and in the bath with me
+Annotation from annotator: 2
+
+Example 17:
+Text: In 1962, the U.S. Supreme Court handed down a decision interpreted as barring prayer in public schools.
+Annotation from annotator: 0
+
+Example 18:
+Text: What do you call a woman that can drive and has rights Imaginary
+Annotation from annotator: 2
+
+Example 19:
+Text: More SWAT zebra-20 chatter:
+
+"We have multiple firearms up here, from where they were shooting out of, but we just have one suspect down at this time."
+Annotation from annotator: 0
+
+Example 20:
+Text: omg. if @bsdtrhodes goes to #bsdcan, there's going to be trouble.... &lt;3
+Annotation from annotator: 0
+
+Example 21:
+Text: Most niggas send hate thru the bitches
+Annotation from annotator: 2
+
+Example 22:
+Text: What the fuck is this bitch nasally insufflating!!
+Annotation from annotator: 2
+
+Example 23:
+Text: "@ARIZZLEINDACUT: Females think dating a pussy is cute now? http://t.co/VxBJg26Gsz" how does doing this stuff make him a pussy?
+Annotation from annotator: 1
+
+Example 24:
+Text: Why did the radicalised Muslim go to the airport and blow himself up? He wanted to go everywhere.
+Annotation from annotator: 2
+
+Example 25:
+Text: Being pro free speech means Antifa want to kill you now.
+Annotation from annotator: 2
+
+Example 26:
+Text: What’s the difference between my penis and a kite? My penis is easy to get up in public areas full of children
+Annotation from annotator: 2
+
+Example 27:
+Text: I wish i could cope with drugs
+But i have no friends or anything who cam get me these high quality drugs
+Annotation from annotator: 0
+
+Example 28:
+Text: sounds like their government is doing a great job if they have been able to maintain this in the current situation
+Annotation from annotator: 0
+
+Example 29:
+Text: How do Muslim terrorist make bomb? Through their bomb manual, The Quran.
+Annotation from annotator: 2
+
+Example 30:
+Text: I will be attending the ass hair hall of fame dinner this August as I do every year
+Annotation from annotator: 1
+
+Target Example:
+Text: "RT @NotKamara: I would be mad if a ""friend"" put my business on the internet. Bitch I don't even put my business on the internet."
+Annotation from annotator:

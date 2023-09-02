@@ -1,0 +1,68 @@
+Description of the dataset:
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+How annotator A has labeled some examples:
+Example 1:
+Text: What do you call a Chinese woman with one leg? Irene
+Annotation from annotator: 2
+
+Example 2:
+Text: why was the baby born in mangled state because the ( mother 's ) eggs were scrambled .
+Annotation from annotator: 1
+
+Example 3:
+Text: Did you know that pigs can fly? No? Well the warthog is the national bird in Iraq, so you're wrong.
+Annotation from annotator: 1
+
+Example 4:
+Text: the us government plans to settle syrian refugees in alabama . <repeat> what kkkould possibly go wrong ?
+Annotation from annotator: 2
+
+How annotator B has labeled some examples:
+Example 1:
+Text: >be a conservative
+>don't think race plays into the human condition whatsoever even though all people belong to one race or another
+
+muh colorblind 
+Annotation from annotator: 2
+
+Example 2:
+Text: "@LaurenGallaway @nicmanz15 mistake sure you've got a pretty powerful blender...ours didn't work til we tried ""frozen drink"" setting lol"
+Annotation from annotator: 0
+
+Example 3:
+Text: #FollowFriday ✨
+
+@OccamsEpilady
+@FrozenFrog
+@Leamorabito
+@Mbarris01
+@CGMCPO
+@AquaRuby
+@Hippiemamagypsylove
+Annotation from annotator: 0
+
+Example 4:
+Text: I can not believe you think it’s ok for a woman to put her husband and family in financial strain you are not making any sense. Lol you are unbelievable. [...] That makes her a terrible person
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: why are black peoples ' eyes red after having sex ? pepper - spray
+Annotation from annotator: 2
+
+Example 2:
+Text: what do you call a key owned by a monk ? a nigger .
+Annotation from annotator: 2
+
+Example 3:
+Text: feelings of resentment have been ' riffling ' through the orlando gay community since omar mateen first set foot in the pulse nightclub .
+Annotation from annotator: 0
+
+Example 4:
+Text: there s a movie that depicts the world run by black people . <repeat> its call <lolface> rise of the planet of the apes
+Annotation from annotator: 2
+
+How might annotator C label this example? Output the annotation that seems most likely.
+Text: how many americans does it take to fill the grand canyon ? <number>
+Annotation from annotator:

@@ -1,0 +1,34 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 2 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: MUELLER will soon find himself behind bars as will ROSENSTEIN. TRAITORS FOR MUSLIM OBAMA AND KILLARY CLINTON.
+ANSWER: 1
+
+2.
+EXAMPLE: I rode 40 mph down country lanes full tilt with a cousin farmer leaned up against the rear tyre mud guard at 9  
+ANSWER: 0
+
+3.
+EXAMPLE: Hah! You must be down under I take it? Brilliant!
+ANSWER: 0
+
+4.
+EXAMPLE: @BristolCommonSense  German women are fighting against Cultural Marxism and  population replacement in Germany.  (Engl. Subtitles)  https://www.youtube.com/watch?v=HB8uhcOxofM&t=369s
+ANSWER: 0
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: Another reminder that Britain's establishment is fucking stupid beyond the point of saving; 
+ANSWER: 0
+
+2.
+EXAMPLE: Another reminder that Britain's establishment is fucking stupid beyond the point of saving; 
+ANSWER: 1
+
+How would the particular annotator annotate the target example?
+EXAMPLE: Another reminder that Britain's establishment is fucking stupid beyond the point of saving; 
+ANSWER:

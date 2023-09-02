@@ -1,0 +1,30 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 1 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: i got arrested for killing a black guy why ?
+ANSWER: 2
+
+2.
+EXAMPLE: it 's only <number> days to christmas . <repeat> i fucking hate christmas . whoever invented it , should be crucified .
+ANSWER: 2
+
+3.
+EXAMPLE: muslim music festival i recently went to a muslim music festival , and my friend completely ruined it for everybody . apparently a trap remix of " allahu akbar " was n't their idea of music .
+ANSWER: 1
+
+4.
+EXAMPLE: so mcdonald 's is having a special in honor of michael jackson 's death . a <number> year old piece of meat in - between two <number> year old buns .
+ANSWER: 2
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: jesus christ fed <number> people with <number> loaves of bread and <number> fish but . <repeat> . <repeat> dolf hitler made <number> million jews toast .
+ANSWER: 2
+
+How would the particular annotator annotate the target example?
+EXAMPLE: jesus christ fed <number> people with <number> loaves of bread and <number> fish but . <repeat> . <repeat> dolf hitler made <number> million jews toast .
+ANSWER:

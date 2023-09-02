@@ -1,0 +1,29 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and be shown the distributional label of how all annotators have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: What's the similarity between a bike and a black person? They only work when there's a chain involved
+ANSWER: 2
+
+2.
+EXAMPLE: She's finishing a vodka lemonade (I think). He's nursing a pint. She keeps adjusting her posture and he's not moving.
+ANSWER: 0
+
+3.
+EXAMPLE: If you tell me to get one of those weird hexa things i will never talk to you again.
+ANSWER: 2
+
+4.
+EXAMPLE: Going to school on Ash Wednesday is bad. NikolASH might Cruz shoot you.
+ANSWER: 2
+
+Here's how the distributional label of how all annotators have annotated the target example:
+84.49% of people responded with 0
+15.51% of people responded with 1
+
+How would the particular annotator annotate the target example?
+EXAMPLE: Director, after finding out I was born in India:: Wow! Your English is great, you can't even tell! Me:: Well, I moved here when I was five, so I actually started kindergarten with everyone else. Director:: But still... Made me feel angry, tired. Why does it still shock people that I can speak English well when I've been in the US for 20 years? Why does it surprise them that I "seem American" when they find out I wasn't born here?
+ANSWER:

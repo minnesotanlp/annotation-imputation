@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: Pets are expected to not be treated as food.
+Annotation from annotator: 3
+
+Example 2:
+Text: You shouldn't let others lead you on.
+Annotation from annotator: 4
+
+Example 3:
+Text: You shouldn't play pranks on people.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's okay to have an abortion.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's nice to worry about your friends.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't have your partner over when you have your friend over at your house.
+Annotation from annotator: 2
+
+Example 7:
+Text: People shouldn't want others to debase them, as it mars their souls.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to have income.
+Annotation from annotator: 4
+
+Example 9:
+Text: It's bad to hold a grudge against your parents.
+Annotation from annotator: 3
+
+Example 10:
+Text: You should feel remorse when you get someone fired.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's OK to be wrong.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's normal to block cell signals in certain environments.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's rude to make baseless accusations against another person.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should treat employees well
+Annotation from annotator: 3
+
+Example 15:
+Text: You should love your parents.
+Annotation from annotator: 3
+
+Example 16:
+Text: You should not emotionally abandon your partner.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's wrong to spy on people through social media.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's wrong to talk to your friends about sensitive topics.
+Annotation from annotator: 1
+
+Example 19:
+Text: It's wrong to sleep around.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's okay to not feel guilty when you cheat.
+Annotation from annotator: 2
+
+Example 21:
+Text: If you don't want to crash, you shouldn't drive recklessly.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's wrong to take pennies from a wishing fountain.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good for kids to have friends they can play with.
+Annotation from annotator: 4
+
+Example 24:
+Text: You should be able to give criticism to your friends.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to get back at a cheating partner.
+Annotation from annotator: 2
+
+Example 26:
+Text: You shouldn't walk around in the rain, you might get sick.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't have sex with people if you have herpes.
+Annotation from annotator: 4
+
+Example 28:
+Text: It is good to be patient.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's understandable to want a divorce when your spouse cheated on you.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's wrong to stalk people.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's okay to hurt somebody who's stealing from you
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

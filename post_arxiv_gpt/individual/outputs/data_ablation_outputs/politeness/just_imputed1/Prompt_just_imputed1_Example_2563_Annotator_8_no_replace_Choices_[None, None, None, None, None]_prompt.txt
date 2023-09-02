@@ -1,0 +1,122 @@
+Example 1:
+Text: <person> is dropping OR on various talk pages, including his own and his userpage - and linking his talk page to his blog. <url> or rather blogs <url> - not run into this sort of linking before, is there any guidance about it somewhere?
+Annotation from annotator: 14
+
+Example 2:
+Text: Shane I reverted the edit you made this moring <url> but on second thought I would like some advice.  Is it implied in stub that they do not have references or is it appropriate to mark stubs as requiring a reference?
+Annotation from annotator: 15
+
+Example 3:
+Text: sir.. can i still write an article? do you have any facebook account?
+Annotation from annotator: 15
+
+Example 4:
+Text: OK. In the future, can you kindly post a note on your userpage, talkpage, or somewhere else so I know that the bot isn't broken?
+Annotation from annotator: 12
+
+Example 5:
+Text: Hi - there are a few issues that I've pointed out at the nomination page. Also, why does your sign link to the talkpage of <url>?
+Annotation from annotator: 12
+
+Example 6:
+Text: It does not appear to have attracted any participants other than Gerda. Perhaps adding a <person> template would draw in more participants?
+Annotation from annotator: 15
+
+Example 7:
+Text: I have reverted your relocation of the images of this fragment - as I think it better if the images and transcripts can be seen side-by-side.  Do you agree?
+Annotation from annotator: 16
+
+Example 8:
+Text: I have moved the navbox and the noinclude of the <url> to <url> because it would be stupid seeing an article called Template:PDC Top 16 when it is showing the top 20 players. Your thoughs?
+Annotation from annotator: 13
+
+Example 9:
+Text: In short, based on the sparse information provided by outsiders, I would like to work constructively with you (and others) to whip the article into shape, as its presence seems warranted but the article is unlikely to garner necessary details from random contributors.  What shall I do next?
+Annotation from annotator: 18
+
+Example 10:
+Text: Go to <url> and create it like you would a page: just add a little text by putting in a little explanation at the top and adding categories u2014 see <url> for a basic category of this sort, although on a very different subject.  Let me ask, however: are you planning to categorise articles about schools and/or districts, or articles on the cities where they are based?
+Annotation from annotator: 14
+
+Example 11:
+Text: That's a couple levels of automation beyond my experience. But if you just got the idea today, then how can you know the false positive level is low enough for WP:AWB/Typos?
+Annotation from annotator: 10
+
+Example 12:
+Text: So argument that "''Note: many Moldovans declared themselves as Romanians or Russians.''" is wrong because NO Moldovians declared themselves as russian?
+Annotation from annotator: 13
+
+Example 13:
+Text: I was wondering why I couldn't edit the list of micronations article to correct the alphabetical order. was I blocked?
+Annotation from annotator: 14
+
+Example 14:
+Text: Hi, thanks for letting me know about my signature not being linked. I tried to save the settings in preferences - did it work?
+Annotation from annotator: 17
+
+Example 15:
+Text: How exactly is it unclear? The ships link to the same place, the prefix "HMS" comes before ''Eagle'' to show her name change... what's not there that should be?
+Annotation from annotator: 10
+
+Example 16:
+Text: The article already says where they come from in the ''birth location'' field. What's the point of repeating it, especially at the expense of other info?
+Annotation from annotator: 10
+
+Example 17:
+Text: Sure. A redirect how though?
+Annotation from annotator: 14
+
+Example 18:
+Text: You're a math teacher, right?  May I ask what grade level?
+Annotation from annotator: 13
+
+Example 19:
+Text: Just curious. Does the '''tab''' key move your cursor to the search box?
+Annotation from annotator: 17
+
+Example 20:
+Text: A quick question, I'd like your opinion on something. Do you think I should put <url> GAN on hold or fail it?
+Annotation from annotator: 15
+
+Example 21:
+Text: Could you please explain <url> to me? I don't see how deleting a person's userpage is correct?
+Annotation from annotator: 12
+
+Example 22:
+Text: I permit myself to bring your attention about the edits of <url> (16 november) who is removing the name <url> from all the articles of wikipedia. What can be done ?
+Annotation from annotator: 13
+
+Example 23:
+Text: What do you think? Is there a mistake somewhere?
+Annotation from annotator: 15
+
+Example 24:
+Text: I would like to first thank you for coding the afd helper app. Secondly, is it possible it could be changed to work with other XfDs?
+Annotation from annotator: 17
+
+Example 25:
+Text: Hey Nick, thanks for writing the book reviews! Would you like me to run one or both of them?
+Annotation from annotator: 21
+
+Example 26:
+Text: Can I ask why you deleted this AfD as "A3: Article has no meaningful, substantive content"?  It obviously did have meaningful content; was there any reason it couldn't simply be closed like any other AfD?
+Annotation from annotator: 10
+
+Example 27:
+Text: It looks like the current version of <url> has been reworked since when you built it in July 2005 and references have never been provided.  Do you have any references you can add to the article?
+Annotation from annotator: 16
+
+Example 28:
+Text: I dont use AWB so im doing it manually. Is that a problem?
+Annotation from annotator: 14
+
+Example 29:
+Text: You assume correctly; same principle would apply. :-) By the way, is there a trick to getting the (Talk) link in your signature automatically that I haven't learned yet?
+Annotation from annotator: 15
+
+Example 30:
+Text: Some pictures are not mine, but those that I have changed, their own. And you can submit a complaint the owners of those photos?
+Annotation from annotator: 13
+
+Text: Apologies again, though. If I tell a fart joke, will you forgive me?
+Annotation from annotator:

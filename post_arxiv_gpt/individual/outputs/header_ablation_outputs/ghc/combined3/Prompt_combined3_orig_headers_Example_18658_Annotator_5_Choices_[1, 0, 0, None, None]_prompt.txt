@@ -1,0 +1,245 @@
+Correct Examples:
+Example 1:
+Text: Colorado Defies Supreme Court Ruling, Punishing Christian Baker Jack Phillips Over Transgender Cake | CBN News 
+Annotation from annotator: 0
+
+Example 2:
+Text: This is your daily reminder that Cantwell used to be one of those "Am I Being detained!!!" Cop Block libertarian spergs, and the sole redeeming feature of those retards is their healthy distrust of the police and knowledge of entrapment tactics, Cantwell is not naive about being an informant unless he is literally to stupid to breathe, it is malicious
+Annotation from annotator: 0
+
+Example 3:
+Text: Government Contracts and employees benefit...job security.
+Annotation from annotator: 0
+
+Example 4:
+Text: presented without comment  these shits will push to turn texas blue
+Annotation from annotator: 0
+
+Example 5:
+Text: Hottest July day EVER - forecast for today #BritFam !
+Annotation from annotator: 0
+
+Example 6:
+Text: Yeah, he may be deep state, but he is more for us than them.
+Annotation from annotator: 0
+
+Example 7:
+Text: Ι don't like Corbyn, however I prefer him to Theresa May. He's anti-war and anti-zionist. Theresa May is a lackey of the Jews and a warmonger.
+Annotation from annotator: 0
+
+Example 8:
+Text: DEATH PENALTY ... sorry .. you commit the most heinous crimes on Earth... you deserve to be sent to HELL early!     The old man looks like a GHOUL as is!
+Annotation from annotator: 0
+
+Example 9:
+Text: It is such a coin toss as to how this should be achieved.
+Annotation from annotator: 0
+
+Example 10:
+Text: Here is pics of the 1972 Glastron GT-150 
+Annotation from annotator: 0
+
+Example 11:
+Text: If history is indication of what happens when they bust up this bunch. They will get richer but government will retain it's control.
+Annotation from annotator: 0
+
+Example 12:
+Text: I'm serious, I've seen this look before and actually seen the pastor cast it out and the person screamed and fell to her knees! It was creeoy!
+Annotation from annotator: 0
+
+Example 13:
+Text: Two US citizens hurt in Dutch 'terrorist' knife attack by 19-year-old Afghan with German residence permit https://www.yahoo.com/news/two-hurt-amsterdam-station-stabbing-attacker-shot-police-001756696.html?soc_src=hl-viewer&soc_trk=tw
+Annotation from annotator: 0
+
+Example 14:
+Text: They’re saying this is fake, but is that a cover story? D Seaman did say the perps would be given the opportunity to off themselves or be arrested🤔🤷🏻‍♀️ https://www.business2community.com/us-news/george-...
+Annotation from annotator: 0
+
+Example 15:
+Text: Do you want the Independent Democrats to return?
+Annotation from annotator: 0
+
+Example 16:
+Text: Drug Hybrids: LSD + Crack = ???????
+Annotation from annotator: 0
+
+Example 17:
+Text: Get better soon young #BritFam !   
+Annotation from annotator: 0
+
+Example 18:
+Text: Justin Walker calls out criminal bankers and talks about need for national credit, and the public ignorance that allows the scam (creating money out of nothing as debt) to continue. https://www.bitchute.com/video/QfyG3W4APYMq/
+Annotation from annotator: 0
+
+Example 19:
+Text: Emirates flight with dozens of sick passengers lands at JFK https://nypost.com/2018/09/05/emirates-flight-with-dozens-of-sick-passengers-lands-at-jfk/
+Annotation from annotator: 0
+
+Example 20:
+Text: OK, I've made a Post today picking on Donnie, so let me balance it with one in his favor....  Remember that Bernie Sanders Honeymooned in Moscow cuz he Loves his fellow Commies so much. But, we're to believe Trump is "too close" to the Ruskies?!?!
+Annotation from annotator: 1
+
+Example 21:
+Text: President Trump should Appoint “NOBODY” to be the UN Ambassador and explain that it’s becuz the UN is full of LOSERS 🇺🇸😎🇺🇸
+Annotation from annotator: 0
+
+Example 22:
+Text: 👍🏻 https://youtu.be/3ya8fxm89jk
+Annotation from annotator: 0
+
+Example 23:
+Text: one day in the future we will get to the bottom of this first of its kind in America banana republic coup attempt...... 
+Annotation from annotator: 0
+
+Example 24:
+Text: I like the concept of pouring your own poly lower. These guys have a great product. 
+Annotation from annotator: 0
+
+Example 25:
+Text: . @SpeakerRyan: "Blah, blah, blah, I'm a coward and will cave on immigration. SECONDLY, I want to talk about working American families."  Well, it just says it all, folks. They truly deserve a bludgeoning at the ballot box.
+Annotation from annotator: 0
+
+Example 26:
+Text: Trump slams Canadian PM as ‘dishonest and weak,’ White House Official Calls Trudeau a “F*cking Worm” 
+Annotation from annotator: 0
+
+Example 27:
+Text: If you supported @RealDonaldTrump than according to an FBI agent: “Trump supporters are all poor middle class, uneducated, lazy POS” 
+Annotation from annotator: 0
+
+Example 28:
+Text: TRUMP'S PUBLIC RECORD NEGOTIATION... 
+Annotation from annotator: 0
+
+Example 29:
+Text: Does pedo bashing require a baseball bat?
+Annotation from annotator: 0
+
+Example 30:
+Text: RT BlakeneyTeresa    I have told jokes and heard jokes  in my life . good and bad.  What you said was not that bad.  I'm sad your show got cancelled. Its complete Bs.  Love to you Roseanne !!!  https://twitter.com/BlakeneyTeresa/status/1006921079938428929
+Annotation from annotator: 0
+
+Imputed Examples:
+Example 1:
+Text: I don't know what 'Trish's Dishes' are.
+Annotation from annotator: 0
+
+Example 2:
+Text: Identity theft in the US is a problem existing almost entirely on account of illegal aliens. Several years ago I found the correlation between ID theft rate and foreign-born population percentage to correlate at a staggering .75 at the state level https://anepigone.blogspot.com/2008/06/more-immigr...
+Annotation from annotator: 0
+
+Example 3:
+Text: Watching Eng v Bel in a pub off Covent Garden with my son who was just awarded a 1st with honours today in Computer Science. #WorldCup2018
+Annotation from annotator: 0
+
+Example 4:
+Text: http://thechive.com/2018/09/01/probably-the-cooles...    from theChive.com
+Annotation from annotator: 0
+
+Example 5:
+Text: Sessions says that Crooked Hillary deserves “due process” http://www.foxnews.com/politics/2018/07/27/session...
+Annotation from annotator: 0
+
+Example 6:
+Text: check out this article and the link to the meme below. #Dylan https://www.deviantart.com/jiangweisen/journal/Bob...  https://www.deviantart.com/jiangweisen/art/THE-LAD...
+Annotation from annotator: 0
+
+Example 7:
+Text: Lines from The Right Stuff - Gen Chuck Yeager isn’t liking this either
+Annotation from annotator: 0
+
+Example 8:
+Text: Gab, where people that think out of the box gather to speak freely...... in group boxes.....
+Annotation from annotator: 0
+
+Example 9:
+Text: https://blogs.spectator.co.uk/2018/08/the-real-les...  This kind of pathological altruism is what the 'left' appears to be all about at the moment. It's vain, stupid, and is against the rule of law. #immigration #deportation #Islam #news
+Annotation from annotator: 1
+
+Example 10:
+Text: Wii Sports Kit 7 in 1 https://www.amazon.com/dp/B004UG3N4U?m=A3SG5VL3M26...
+Annotation from annotator: 0
+
+Example 11:
+Text: A hotfix for Mondrian - Plastic Reality EX4.1 has been released, fixing the 'Invalid Symbols' bug. Now if you try to save a level with invalid OS symbols in the title, you will get an 'Invalid Filename' error. Download the update at itch.io or GameJolt! http://bit.ly/mondrianitch  #indiegames #creatives #arthistory #makeamondrian
+Annotation from annotator: 0
+
+Example 12:
+Text: Catholics organizing massive November protest in Baltimore. http://thebishopsknew.com/ #DeusVult
+Annotation from annotator: 0
+
+Example 13:
+Text: I’ve often wondered what it would be like for Globalist groupies once they realized they’re living a lie, but now, I’m seeing that it is we patriotic Americans who have been living in a lie for decades... Our country, branches of gov, our MSM and our schools.. ALL are hijacked.
+Annotation from annotator: 0
+
+Example 14:
+Text: One of these is a parasite that will feed off of humanity and grow until we are all dead. ...the other one is a gut buster from the fictional movie 'Aliens'. I know it's hard to tell which is which though.  #alexandriaocasiocortez
+Annotation from annotator: 0
+
+Example 15:
+Text: I find it unbelievable that McSally won over Kelli Ward. what the hell is wrong with AZ. they want another John McCain?
+Annotation from annotator: 0
+
+Example 16:
+Text: Electoral behavior among Hispanics by whether they racially self-ID as white or non-white Despite being perfect candidate for putative open borders 'natural conservatives', McCain did worse among Hispanics than any other Republican this millennium https://anepigone.blogspot.com/2018/08/electoral-b...
+Annotation from annotator: 0
+
+Example 17:
+Text: @e @a (forgot the guy doing mobile code :/ ) just downloaded the android app to a tablet.   Kudos on the layout. Darkmode is bada$$ 😎
+Annotation from annotator: 0
+
+Example 18:
+Text: https://dailycaller.com/2018/08/27/source-fbi-cong...  This is gonna suck. #Comey #Trump #FBI
+Annotation from annotator: 0
+
+Example 19:
+Text: I'd like to hear some funky Dixieland... https://www.youtube.com/watch?v=KHjs6s6gbKc
+Annotation from annotator: 0
+
+Example 20:
+Text: How about this pos??
+Annotation from annotator: 0
+
+Example 21:
+Text: Cool enough in SoCal tonight I’m using my car heater in August - dang global warming again 😂
+Annotation from annotator: 0
+
+Example 22:
+Text: Selfie with a letterbox.   😏😁
+Annotation from annotator: 0
+
+Example 23:
+Text: #JohnMcCain #SenJohnMcCain #MediaBias #Media #News #Leftists #Liberals #Democrats
+Annotation from annotator: 0
+
+Example 24:
+Text: Yet another Gabber needing @support , or has this been taken care of?  @Millwood16 - ya' I know, I probably shouldn't tag you with problems, but sometimes it might help people to clarify their support problem.
+Annotation from annotator: 0
+
+Example 25:
+Text: Valid question:  This was credible enough to actually be covered by NBC news in 2013 - Why has there been silence since then?  Who/what extended the 'quashing' of inquiries beyond the State Dept and into the Media (in this case, NBC news)? https://www.reddit.com/r/greatawakening/comments/9...
+Annotation from annotator: 0
+
+Example 26:
+Text: There is no such thing as a 'sex worker'. You are a whore. A prostitute.  Preeeeeety much a cum dumpster.
+Annotation from annotator: 0
+
+Example 27:
+Text: Hope everyone's good... Trying to get back into suitable work and thus my energy is being concentrated into that at present. Also 'Bloodborne' is taking up a fair share of my time too.
+Annotation from annotator: 0
+
+Example 28:
+Text: Can you find me one instance of someone saying the newest church scandal is a deliberate attempt to undermine the pope's socialist agenda WHILE ALSO decrying the pedarist protectionism?  Hint: you can't, because pedastry is a pillar of the agenda.
+Annotation from annotator: 0
+
+Example 29:
+Text: ELYRIA — A former Oberlin College instructor and an activist for indigenous people was sentenced to prison for stealing more than $77,000 in federal grants designed to help Native Americans. http://www.chroniclet.com/cops-and-courts/2018/08/...
+Annotation from annotator: 0
+
+Example 30:
+Text: America would be far better off if Joe Kennedy Sr & Prescott Bush had both been sterile.  And if FDR had been run over by a milk wagon when he was about 3.
+Annotation from annotator: 0
+
+Target Example:
+Text: #brainwashing of the sheep!!!  https://twitchy.com/samj-3930/2018/08/28/whoopsie-...
+Annotation from annotator:

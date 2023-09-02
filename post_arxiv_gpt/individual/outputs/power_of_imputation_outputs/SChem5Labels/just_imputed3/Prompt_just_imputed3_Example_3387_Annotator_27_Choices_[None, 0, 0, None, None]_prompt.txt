@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's selfish to expect your husband to give you his entire estate.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's okay to leave your partner's house early if your parents say so.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should always follow the traffic rules.
+Annotation from annotator: 4
+
+Example 4:
+Text: It's okay to keep secrets.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's understandable not to want to go to an event where you don't feel welcome.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's okay to be concerned with your future and do thing you may not consider that great.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's bad to abuse substances, even ones which are beneficial.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's wrong to take unwarranted sick days.
+Annotation from annotator: 3
+
+Example 9:
+Text: You should apologize if you crash into people.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's rude to hit someone with your umbrella.
+Annotation from annotator: 4
+
+Example 11:
+Text: It's good to prioritize the issues that most need addressed.
+Annotation from annotator: 4
+
+Example 12:
+Text: You shouldn't be afraid of someone's opinion of you.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's wrong to tell lies.
+Annotation from annotator: 4
+
+Example 14:
+Text: You are allowed to be concerned about the health of family members.
+Annotation from annotator: 4
+
+Example 15:
+Text: It is good to support others in making healthy dietary choices
+Annotation from annotator: 4
+
+Example 16:
+Text: It's bad to be the cause of someone's death.
+Annotation from annotator: 4
+
+Example 17:
+Text: You shouldn't keep in contact with ex's.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's okay to like to live a life that is comfortable to you.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's bad to have things bothering you for a long time.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's hurtful to pretend to care about someone when you don't.
+Annotation from annotator: 4
+
+Example 21:
+Text: Family members should remain loyal and close to one another.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's good to be happy to see people.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's sadistic to cut off someone's skin and show it to them.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's bad to climb on top of the table.
+Annotation from annotator: 3
+
+Example 25:
+Text: You shouldn't carry fake weapons in public.
+Annotation from annotator: 4
+
+Example 26:
+Text: People shouldn't let small-minded people make them fearful to live their truth.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's acceptable to not believe in free will.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's not okay to constantly remind yourself of things.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't lie just to reject date offers.
+Annotation from annotator: 3
+
+Example 30:
+Text: You should always go over your vacation plans before acting on them.
+Annotation from annotator: 3
+
+Target Example:
+Text: It is normal to want to spend a lot of time with a significant other.
+Annotation from annotator:

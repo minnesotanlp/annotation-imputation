@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PVlTcfUpPUSHcfcoZUfyqQtrj0yH",
+    "object": "chat.completion",
+    "created": 1686314659,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 557,
+        "completion_tokens": 91,
+        "total_tokens": 648
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "0.00% of responsive annotators labeled the text with 0\n2.00% of responsive annotators labeled the text with 1\n45.00% of responsive annotators labeled the text with 2\n48.00% of responsive annotators labeled the text with 3\n5.00% of responsive annotators labeled the text with 4\n\nPrediction: The soft label for this text is 3 (occasional)."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

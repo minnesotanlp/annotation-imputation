@@ -1,0 +1,40 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a post is offensive or not. 2 means "Yes, this could be offensive", 1 means "Maybe, I'm not sure", and 0 means "No, this is harmless".
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 2 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: Penis Hehe wieners
+ANSWER: 0
+
+2.
+EXAMPLE: November 21, 2016 at 12:48pm ·
+Twitter
+·
+
+#SurvivalGuideToThanksgiving
+
+iksnay on the oliticspay
+ANSWER: 0
+
+3.
+EXAMPLE: Frum: Media Mistakes Are Caused By ‘Overzealous Effort’ to Be Fair to Trump
+ANSWER: 0
+
+4.
+EXAMPLE: The gab.ai homepage now has a link to download the android app outside of the play store!
+ANSWER: 0
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: One of leading causes of deaths is not trauma injuries but mothers and children dying due to lack of routine health services #EndYemenSiege
+ANSWER: 0
+
+2.
+EXAMPLE: One of leading causes of deaths is not trauma injuries but mothers and children dying due to lack of routine health services #EndYemenSiege
+ANSWER: 0
+
+How would the particular annotator annotate the target example?
+EXAMPLE: One of leading causes of deaths is not trauma injuries but mothers and children dying due to lack of routine health services #EndYemenSiege
+ANSWER:

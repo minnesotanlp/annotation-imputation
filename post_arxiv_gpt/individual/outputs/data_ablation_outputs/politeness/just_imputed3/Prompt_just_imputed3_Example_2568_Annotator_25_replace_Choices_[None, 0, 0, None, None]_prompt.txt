@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: "Malbrain, I can't understand you, in either your comments to the talk page..." is the criteria being used by user WHOSASKING to make reverts of my edits.  Since when does any one editor have to understand all the material of a subject known by the other editors?
+Annotation from annotator: 12
+
+Example 2:
+Text: I noticed a recent edit and upload of yours and have reverted your edit and started a discussion thread <url>. Would you be able to comment there?
+Annotation from annotator: 12
+
+Example 3:
+Text: Thanks for that - very nicely commented code (rare to see)! It seems to need a table to be set up - do you have the schema or sql for that handy?
+Annotation from annotator: 16
+
+Example 4:
+Text: You are able to read it here <url>. Wondering if this is worthy of sign post?
+Annotation from annotator: 12
+
+Example 5:
+Text: We have an ongoing problem with this article, it is stated that he is "Irish born British", where in reality he was Irish, even though the United Kingdom of Great Britain and Ireland existed back then, it is not a reason. Could you help resolve the issue one way or another?
+Annotation from annotator: 12
+
+Example 6:
+Text: As I've only ever tagged one page for speedy deletion before (and that was an obvious cut-and-paste copyvio), I just want to make sure I tagged it properly.  Was db-1 the right tag for <url>?
+Annotation from annotator: 16
+
+Example 7:
+Text: Hi, I was removed from the "request for approval" list at the vandalproof, and not put on either the "approved" or "denied" lists. Could you tell me why, please?
+Annotation from annotator: 16
+
+Example 8:
+Text: Hi Cmadler, I've written a new ALT hook at the <person> that I think addresses your concerns.  Could you sign off on the nomination?
+Annotation from annotator: 16
+
+Example 9:
+Text: Is it possible to revert more than one revision at a time? Or must you be an administrator to do that?
+Annotation from annotator: 12
+
+Example 10:
+Text: Sure. Aside from the Flea and Frusciante articles, which get the most traffic?
+Annotation from annotator: 12
+
+Example 11:
+Text: A question has come up whether <url> was Jewish (see <url>).  Do you have any references that might help?
+Annotation from annotator: 12
+
+Example 12:
+Text: Did you see the edit by Marrtel - <url> - to <url> ? Is that a reasonable change ?
+Annotation from annotator: 12
+
+Example 13:
+Text: Hi again!  Per your <url>, I'll leave questions here, which actually leads me to a question, hehe;  why would you want users to bring RfA discussion to your talk page rather than keeping it in a centralised viewable location on the RfA page where users are encouraged to submit questions for optional response by the candidate?
+Annotation from annotator: 16
+
+Example 14:
+Text: <url>. Or is it just me?
+Annotation from annotator: 12
+
+Example 15:
+Text: Would you be okay if I seconded your nomination? Or would you prefer me to add as a "support"?
+Annotation from annotator: 16
+
+Example 16:
+Text: You see, I expended quite some time on this, referenced it thoroughly, and thereby resolved a confusion between the medieval <url> and the text by Origen. I just don't understand how there can be a problem here?
+Annotation from annotator: 12
+
+Example 17:
+Text: Okay, I tagged <url> a hoax twice, but <url> has pointed out http://www.tylershoemakerracing.com/.  I can't remember exactly what the article said, but does it agree with the source?
+Annotation from annotator: 12
+
+Example 18:
+Text: This page is new, the result of a move - the page it moved from is now a redirect to <url>, but the history which goes with it is at the page I asked to be deleted. Can you delete the page, while copying the history over to the article?
+Annotation from annotator: 14
+
+Example 19:
+Text: In your vote against my candidacy you stated that you were a "weak oppose".  May I ask why?
+Annotation from annotator: 12
+
+Example 20:
+Text: Hi! Do you know where the info comes about <url> concerning <url> and the other town?
+Annotation from annotator: 16
+
+Example 21:
+Text: I'm not trying to be obtuse, but is what you're saying in essence that if we cannot tell whether an award is utterly trivial then that uncertainty becomes sufficient assertion of notability to not apply A7? So if an assumption needs to be made, or discretion employed, A7 doesn't apply because the assertion of notability has been made?
+Annotation from annotator: 12
+
+Example 22:
+Text: I found that you have participated in the last <url> concerning the use of flag icons, but I wonder why it appears that the talk reached to an end without a real guideline or consensus. Would you consider restarting a guideline proposal which indicates when these tiny flags should be used (or at least when they should not be)?
+Annotation from annotator: 12
+
+Example 23:
+Text: Due to your edits to this template, <url> is now required on all transclusions.  Are you running a bot to clean this up?
+Annotation from annotator: 12
+
+Example 24:
+Text: A challenge for you! What do you think about creating a template for convoys and a list of convoys?
+Annotation from annotator: 14
+
+Example 25:
+Text: Hi, do you have a nationality for ''Belpamela''? If so, would you add the relevant flag?
+Annotation from annotator: 16
+
+Example 26:
+Text: yes i'm the one who is ashish. are you also on ukmix?
+Annotation from annotator: 12
+
+Example 27:
+Text: I suppose I should not have used rollback. I was aware of the problem, but you had not solved it, had you?
+Annotation from annotator: 15
+
+Example 28:
+Text: I noticed your edits and the VfD discussion on the topic. Are you on facebook?
+Annotation from annotator: 12
+
+Example 29:
+Text: The policy is tricky - I guess it comes down to whether or not you think the account is going to be disruptive, and whether it is appropriate to guess that ahead of time.  On the other hand, looks like another overreaction to Kurt, in my opinion - what do you think?
+Annotation from annotator: 16
+
+Example 30:
+Text: Have you been able to find anything confirming that last result yet? Is it being challenged in court?
+Annotation from annotator: 12
+
+Target Example:
+Text: Greetings, I ran across your 2008 article <url>, and the footnotes are done manually vice the usual Wiki way.  Any chance you can go back and fix the footnotes?
+Annotation from annotator:

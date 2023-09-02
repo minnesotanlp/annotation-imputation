@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: You do realise this is complete rubbish - it's already been speedily deleted once if you check the logs. I can't see any advantage to having this crap floating around for 5 days - can you?
+Annotation from annotator: 12
+
+Example 2:
+Text: Certainly the work is out of copyright, and some of the neighboring volumes in the series are visible on archive.org (and I don't have trouble with other books on google generally).  I wonder if you know of any way, or could suggest any way, that I could get to see the downloaded pdf of Newcomb vol.6?
+Annotation from annotator: 16
+
+Example 3:
+Text: I went to WP:VAND and looked up sneaky vandalism. To qualify for the reward, does it only have to qualify as sneaky or does it have to be "extra" sneaky?
+Annotation from annotator: 16
+
+Example 4:
+Text: I think the story is worth recording, and I could add several more references.  I have to ask... are you related to Boyds, Smileys, or Souters?
+Annotation from annotator: 12
+
+Example 5:
+Text: Since your tube station articles don't actually contain any information, what is the point of them? Why not put them together and work them into an article that says something interesting?
+Annotation from annotator: 4
+
+Example 6:
+Text: The Hitchin-related hoax claims by <url> seem to have led to a rather precipitate response, considering that he has only been an editor for a few days.  Is there something going on here that isn't obvious?
+Annotation from annotator: 12
+
+Example 7:
+Text: clear about when the inverse exists.  Is there a formal theorem that would apply?
+Annotation from annotator: 16
+
+Example 8:
+Text: This is irritating. What browser are you using?
+Annotation from annotator: 12
+
+Example 9:
+Text: Why did you revert my edits on that page? You say it was unsourced but it was sourced, I put two references to two fair sources (not blogs nor politicaly bound), so why did you remove them?
+Annotation from annotator: 8
+
+Example 10:
+Text: Good work on the canal junctions! Where appropriate, do you think we should give the nearest pedestrian access point, from the road (as opposed to canal) network?
+Annotation from annotator: 24
+
+Example 11:
+Text: Should I move it myself, or would you like me to walk you thru it? Have you read <url>?
+Annotation from annotator: 16
+
+Example 12:
+Text: I noticed you've put in quite a few posts in the gun politics talk pages. I'm just wondering do you have an interest in firearms or just the politics behind them and their use?
+Annotation from annotator: 12
+
+Example 13:
+Text: Was this wholesale revert really necessary? <url>  Did the edit completely fail to improve the article in any way?
+Annotation from annotator: 8
+
+Example 14:
+Text: Hi Steve, I've added refs & cites to this article. Do you think it still needs a warning about lack of refs/citations?
+Annotation from annotator: 16
+
+Example 15:
+Text: Can I ask why you deleted this AfD as "A3: Article has no meaningful, substantive content"?  It obviously did have meaningful content; was there any reason it couldn't simply be closed like any other AfD?
+Annotation from annotator: 8
+
+Example 16:
+Text: See <url>. I assume you didn't mean <url> ?
+Annotation from annotator: 12
+
+Example 17:
+Text: Yes, you get all kinds of people coming to visit. Which seat are you in?
+Annotation from annotator: 12
+
+Example 18:
+Text: Thank you. Do you have any tips on the Kathy Dunderdale article to improve it?
+Annotation from annotator: 20
+
+Example 19:
+Text: I don't think removing that info is the correct fix. Just change the punctuation... OK if I do so?
+Annotation from annotator: 12
+
+Example 20:
+Text: Hi Zaps, thanks for adding a source to the timetable as a reference for the destinations served. But how do you know that Sharjah and Istanbul are operated as charter flights?
+Annotation from annotator: 8
+
+Example 21:
+Text: I very much disagree that the article that was deleted was advertising; I have never bought anything from his store as a matter of fact, but I do know that his is one of the most used online Judaica shops out there. What can I do to make the article acceptable?
+Annotation from annotator: 16
+
+Example 22:
+Text: One question - how come the page is marked as "in dispute"?  The data that is currently posted isn't in dispute, correct?
+Annotation from annotator: 12
+
+Example 23:
+Text: <url> is a validly notable topic which has been ruthlessly  suppressed at WP, probably because of egoism rather than religionist POV warriors but possibly both. Can you advise me on how to go about appealling deletions?
+Annotation from annotator: 4
+
+Example 24:
+Text: I was thinking about creating a page about Nintendo eShop. And since you are a well trusted user I am asking you if you think that would just be deleted because there isn't enough information?
+Annotation from annotator: 24
+
+Example 25:
+Text: I pretty much agree with <url>, except I would like to know why you modified the see also section to be a hatnote. Doesn't <url> have specific requirements for this?
+Annotation from annotator: 12
+
+Example 26:
+Text: Thanks for pointing out that "undiscussed moves" discussion, I hope something comes out of that - but it doesn't really look like it will.  I'm not sure what I'm looking for on the discussion page for <url> about this, what am I missing?
+Annotation from annotator: 16
+
+Example 27:
+Text: I must be missing something here.  Would you mind clarifying for me the nature of your extensive work on <url>?
+Annotation from annotator: 20
+
+Example 28:
+Text: I think I updated the pharmacology project banner to put C-class articles into the appropriate category (previously, it was putting them into the unassessed class. If you want to double-check, that would be great; I think it may take a little while for it to update the articles?
+Annotation from annotator: 16
+
+Example 29:
+Text: I moved '''Engine Arm Aqueduct''' to <url>, because there seemed to be much more content about the canal than the actual <url>. Does that seem reasonable, to you?
+Annotation from annotator: 16
+
+Example 30:
+Text: You removed the border issue coverage in <url>, and your explanation was that it's covered in another article. Where is it covered?
+Annotation from annotator: 8
+
+Human-rated Examples:
+Example 1:
+Text: Okay. But in that case, shouldn't the meanings "of" and "from" from some languages be removed from the article as well?
+Annotation from annotator: 12
+
+Example 2:
+Text: Also, If we replace the maps with an image of a monument, then we could eliminate the architecture part. It would also make the article look colourful.Opinions?
+Annotation from annotator: 16
+
+Example 3:
+Text: I think it is important to note that Spirit 03 was the last gunship to be brought down and that it has not been involved in a Class A mishap since that date. Should we include that?
+Annotation from annotator: 16
+
+Example 4:
+Text: You said you were promoting them, but, um... they aren't listed at <url>, they still say they're FPOCs on their talk pages, etc, etc. Should we consider them featured or not?
+Annotation from annotator: 8
+
+Example 5:
+Text: Finally, I checked with articles Plastid, Mitochondria and Mitochondrial genome, and see they all use the term 'genome', and that there is no suggestion that they have 'chromosomes'. So may we at least get rid of that usage on the Chromosome article?
+Annotation from annotator: 12
+
+Example 6:
+Text: Sure, but what's the deal with fair use and cropping?  I thought the Zatanna one got removed?
+Annotation from annotator: 12
+
+Example 7:
+Text: What are they? Where did that offensive photo come from?
+Annotation from annotator: 8
+
+Example 8:
+Text: You added to the Order of Victoria and Albert page that no awards were given out after the death of Queen Victoria.  According to the <url> she became the tSovereign of the Order in 1952.  Is this just because the order was never officially scrapped ?
+Annotation from annotator: 12
+
+Example 9:
+Text: Thanks for your assistance in the review of the Brian Keith review at the DYK! The user has cited the Internet Movie Database before?
+Annotation from annotator: 20
+
+Example 10:
+Text: I posted here rather than to Jon's page because I don't want to embarrass the students; I know Jon watchlists your page and I am sure other NRG editors do too.  Anyway, what do you think?
+Annotation from annotator: 12
+
+Example 11:
+Text: I wasn't aware my statement was supposed to cause worry.  Is there something I'm missing?
+Annotation from annotator: 12
+
+Example 12:
+Text: You make it very hard to believe that you're acting in good faith when you rewrite the <url> article to remove all references to "liberal," but keep the phrase "conservative Independence Institute."  I see POV-pushing when that happens.  If you're so concerned about adjectives, why not edit the articles about AEI or Heritage or Americans for Tax Reform?
+Annotation from annotator: 0
+
+Example 13:
+Text: - This IP has been doing the same to me. There seems to be a remarkable similarity with <url>, could this be a case of sockpuppeting?
+Annotation from annotator: 12
+
+Example 14:
+Text: Hi, thanks for letting me know about my signature not being linked. I tried to save the settings in preferences - did it work?
+Annotation from annotator: 12
+
+Example 15:
+Text: Ron - I'm interested in your edit comment here <url>. Your position is that RC is a sufficiently reliable source that anything it mentions is automatically notable?
+Annotation from annotator: 12
+
+Example 16:
+Text: The history section appears to be copied and pasted directly from somewhere. Is this a copyvio issue?
+Annotation from annotator: 12
+
+Example 17:
+Text: I am puzzled that you just deleted the file 'harry potter stamps'. This file seems to have existed for two years without deletion, so perhaps you could explain the grounds for speedy deletion?
+Annotation from annotator: 12
+
+Example 18:
+Text: What are the numbers <url>? Are they population figures?
+Annotation from annotator: 12
+
+Example 19:
+Text: Anyway, if you feel that strongly about it we should at least add a summary. Whats you think?
+Annotation from annotator: 16
+
+Example 20:
+Text: Hey,saw you had a page in the works in your sandbox. Are you planning to move it to mainspace soon?
+Annotation from annotator: 16
+
+Example 21:
+Text: Notwithstanding the caption, my understanding is that because of the time since the first publication of the photo, the copyright has expired and Iu2019m free scan the figure and upload the image to Wikipedia. Is this correct?
+Annotation from annotator: 16
+
+Example 22:
+Text: Can I use a manga image colored by myself? There won't be any problems with the lisense, right?
+Annotation from annotator: 16
+
+Example 23:
+Text: <url>. Can you tell me if this date is for the arcade or Wii version?
+Annotation from annotator: 16
+
+Example 24:
+Text: I noticed your warning on <url>, this guy has been vandalizing another old cartoon article as well, how can we put a stop to this? Is there a way to tag the IPs (there are 2) so a mod will stop them?
+Annotation from annotator: 12
+
+Example 25:
+Text: Among the measures you described, it sounds as if the next thing to try is option-command-start and rebuild the desktop. Does rebuilding the desktop mean I'd get a blank and have to restore all the icons?
+Annotation from annotator: 12
+
+Example 26:
+Text: Thanks for the heads up. He doesn't know any english?
+Annotation from annotator: 16
+
+Example 27:
+Text: He Colfer, just to let you know I changed the headings in name (I think we should avoid making diaries, but order based on activities), but kept (hopefully) the spirit of your changes in tact. How does it look to you?
+Annotation from annotator: 16
+
+Example 28:
+Text: ...for reverting '''Image:Wpixcw11-1.jpg''' back from the previous incorrect logo uploaded by <url>.  I had tried, but how did you do it?
+Annotation from annotator: 12
+
+Example 29:
+Text: Thanks for the tip.  How come I sometimes come across pages where the trailing 's' is left off (or am I confusing that with the 's situation)?
+Annotation from annotator: 16
+
+Example 30:
+Text: I notice that to the <url> and <url> pages edited '''''Gorka''''' '''Josxe9 Unda Velasco''' and changed it to simply ''Gorka''. Why?
+Annotation from annotator: 12
+
+Target Example:
+Text: <url>  Honestly, I'd like to know if you really are defending <url>.  Do you really believe that they were justified?
+Annotation from annotator:

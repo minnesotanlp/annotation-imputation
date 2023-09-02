@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: We use a few different databases but primary one is MySQL
+Annotation from annotator: 0.0
+
+Example 2:
+Text: After WMD and Blair, etc people just don't buy this crap any longer but the out of touch ELITES, think people do. Dangerous times, what will their kneejerk reaction be to their obvious loss of POWER?
+Annotation from annotator: 0.0
+
+Example 3:
+Text: Rod Rosenstein’s wife is Clinton attorney
+Annotation from annotator: 0.0
+
+Example 4:
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Annotation from annotator: 0.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: We use a few different databases but primary one is MySQL
+Annotation from annotator: 0.0
+
+Example 2:
+Text: After WMD and Blair, etc people just don't buy this crap any longer but the out of touch ELITES, think people do. Dangerous times, what will their kneejerk reaction be to their obvious loss of POWER?
+Annotation from annotator: 0.0
+
+Example 3:
+Text: Rod Rosenstein’s wife is Clinton attorney
+Annotation from annotator: 0.0
+
+Example 4:
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Annotation from annotator: 0.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: We use a few different databases but primary one is MySQL
+Annotation from annotator: 0.0
+
+Example 2:
+Text: After WMD and Blair, etc people just don't buy this crap any longer but the out of touch ELITES, think people do. Dangerous times, what will their kneejerk reaction be to their obvious loss of POWER?
+Annotation from annotator: 0.0
+
+Example 3:
+Text: Rod Rosenstein’s wife is Clinton attorney
+Annotation from annotator: 0.0
+
+Example 4:
+Text: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.
+Annotation from annotator: 0.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: I get it, you want Congress to call Facebook a monopoly and break it up.Unfortunately,here are two hard truths: 1) Politicians would rather use Facebook as a weapon than reduce its power.2) Politicians don't work for you. — Michael Krieger (@LibertyBlitz) August 6, 2018
+Annotation from annotator:

@@ -1,0 +1,125 @@
+Estimated Examples:
+Example 1:
+Text: HEY GUYS we're gonna host a Rick and Morty re-watch Skype Call. Message me to be added to the group! 2-3 episodes a night, 10PM EST
+Annotation from annotator: 0
+
+Example 2:
+Text: #katdior #sexybrunette charleroi #under nasty #unexpected #please blowjobs https://t.co/e3vtRmBdC1
+Annotation from annotator: 1
+
+Example 3:
+Text: YouTube - & #x202a ; Black Male Rapes 10 yr old Deaf Girl , Claims He Thought She was her Mother & #x202c ; & rlm ; YouTube - & #x202a ; Robbers shoot customer & #x202c ; & rlm ; YouTube - & #x202a ; String of robberies by Urban Youths continue in Lincoln , NE & #x202c ; & rlm ;
+Annotation from annotator: 2
+
+Example 4:
+Text: You look normal.
+Annotation from annotator: 2
+
+Example 5:
+Text: Is it where they grade you based on how cultural marxist you are or do they allow people their own views ?
+Annotation from annotator: 2
+
+Example 6:
+Text: How many Puerto Ricans does it take to change a light bulb? Guess we'll find out in 6 months
+Annotation from annotator: 2
+
+Example 7:
+Text: My dad told me my teeth are yellow
+The guy just keeps putting me down
+Annotation from annotator: 2
+
+Example 8:
+Text: I want a tattoo so fucking bad but I just can't figure out the placement smh
+Annotation from annotator: 0
+
+Example 9:
+Text: Makeup for Disneyland should be simple and effortless but i aint no where near simple and I know imma beat this face &amp; regret it
+Annotation from annotator: 0
+
+Example 10:
+Text: Talking about prom... Cam: have you ordered a croissant?&#129360; She's an idiot&#128517;&#128557; @camwowzaa
+Annotation from annotator: 2
+
+Example 11:
+Text: I like my women like I like my wine 7 years old and locked in my cellar
+Annotation from annotator: 2
+
+Example 12:
+Text: Why did the feminist cross the road? What was she doing outside the kitchen any way!
+Annotation from annotator: 2
+
+Example 13:
+Text: thats just stupid to say that , because you have probably heard maybe 10-20 artists and those are the * * * * * * s on TV and stuff. there are tons of white , non-wigerish rappers that dont `` scream '' about something
+Annotation from annotator: 2
+
+Example 14:
+Text: how do you make childbirth easier for black women ? lure the little nigger out with a kfc <allcaps> bucket
+Annotation from annotator: 2
+
+Example 15:
+Text: #KoreanRonaldo Son Heung Min is a fucking BALLER #Spurs #COYS
+Annotation from annotator: 2
+
+Example 16:
+Text: Which event triggers Liberal SJWs to a higher REEEEE degree?
+Annotation from annotator: 2
+
+Example 17:
+Text: so , a tall <allcaps> terrorist went to bomb a grande <allcaps> concert . <repeat> . <repeat> nd venti <allcaps> died !
+Annotation from annotator: 2
+
+Example 18:
+Text: Oh, those guys were just trying to holler at you!
+Annotation from annotator: 0
+
+Example 19:
+Text: "These are the same people who give no fucks for the ~consequences~ of their ""messing up"" and will take no responsibility over that. Fuck 'em"
+Annotation from annotator: 2
+
+Example 20:
+Text: As a brit my knowledge of american law is somewhat lacking but even i know that this holder groid has committed treason
+Annotation from annotator: 0
+
+Example 21:
+Text: Seasons change &amp; stay th same I know my rhythm I know my name Positive thinking- something to gain After you read this you'll be th same
+Annotation from annotator: 0
+
+Example 22:
+Text: why did the polish man cross the road ? because the cunt has got the fucking chicken 's job as well .
+Annotation from annotator: 2
+
+Example 23:
+Text: "@drraghnall Yes. It's not like the rest of the world wakes up every morning thinking, ""I wonder what's going on in the US today?"""
+Annotation from annotator: 2
+
+Example 24:
+Text: Earth's Dark Sector Defense is incredibly easy to get money. 13,000 credits for just 5 waves. Can be done in less than 5 minutes.
+Annotation from annotator: 0
+
+Example 25:
+Text: Well that cozy little fireside chat just got me all toasty inside :)
+Annotation from annotator: 0
+
+Example 26:
+Text: I'm torn between severely excited and severely depressed for the #BigLittleLies finale tonight. I don't want it to be done! &#128555;
+Annotation from annotator: 0
+
+Example 27:
+Text: I give the majority of my available shits about...
+Annotation from annotator: 0
+
+Example 28:
+Text: What do you call it when an atomic bomb is dropped on the hood? Niggasaki
+Annotation from annotator: 2
+
+Example 29:
+Text: Clan of retards...
+Annotation from annotator: 2
+
+Example 30:
+Text: What's the similarity between an M1 and Kung Fu Panda? They both go "ping" when pointing at fathers
+Annotation from annotator: 1
+
+Target Example:
+Text: Those countries are much better under a government of terror made by themselves and for themselves .
+Annotation from annotator:

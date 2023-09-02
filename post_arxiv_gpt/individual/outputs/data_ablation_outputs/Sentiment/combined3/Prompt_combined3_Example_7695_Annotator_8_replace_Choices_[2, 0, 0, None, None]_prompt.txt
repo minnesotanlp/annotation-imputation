@@ -1,0 +1,161 @@
+Estimated Examples:
+Example 1:
+Text: I feel so alone ! I miss my true and old friends
+Annotation from annotator: 0
+
+Example 2:
+Text: I kinda like the new keri hilson song. Wow im watchin 106 and park. Man this would be so much with AJ and Free  back to my old school </3
+Annotation from annotator: 4
+
+Example 3:
+Text: In Val d'Or, waiting for my wife and youngest's flight to leave. a long drive to Chisasibi for me.
+Annotation from annotator: 2
+
+Example 4:
+Text: Is at Jill's, helping babysit. An 8 year old told me my boobs were small  I'm strongly considering surgery hahh
+Annotation from annotator: 1
+
+Example 5:
+Text: It gets harder to believe about ourselves as we grow old.
+Annotation from annotator: 1
+
+Example 6:
+Text: Lunch, lunch, lunch. Man, I feel like an older coworker who eat at 11 everyday because they got up at 5 a.m..
+Annotation from annotator: 2
+
+Example 7:
+Text: My MBP is still in the shop, so I can't try out Chrome on my old G5.    http://is.gd/Pfqn
+Annotation from annotator: 1
+
+Example 8:
+Text: Neighbors 10 week old puppy wanted to fight my little sanchiepoo
+Annotation from annotator: 1
+
+Example 9:
+Text: See myself Falling Back into an old Bad Habit... He has some kind of Hold on Me!  My Heart is Screaming "Love" But my Head is Yelling "Run
+Annotation from annotator: 1
+
+Example 10:
+Text: Spent 30 min talking to an 85 year old man at the park... Told me about his late wife, and how lonely he is... Watched his lip quiver
+Annotation from annotator: 1
+
+Example 11:
+Text: The http://www.cockybox.com/ is older by a year. Cheers
+Annotation from annotator: 3
+
+Example 12:
+Text: Two more friends passed away w pulmonary hypertension. God, I can't stand it. My <3 = breaking. One was 20 years old.  http://bit.ly/3gHEM
+Annotation from annotator: 0
+
+Example 13:
+Text: Why does everything remind me of what I'm trying so hard not to think about? An old eye exam bill... Wow.
+Annotation from annotator: 1
+
+Example 14:
+Text: having an easy night and watching old eps of october road on dvd...bryan greenberg
+Annotation from annotator: 3
+
+Example 15:
+Text: is watching some of his old stuff on Youtube... ahhh the memories
+Annotation from annotator: 3
+
+Example 16:
+Text: really wishes she could not be stalked anymore. getting old!
+Annotation from annotator: 1
+
+Example 17:
+Text: really wishing it wasn't so damn hot in the library. I'm in the old bit and it's like a greenhouse in here
+Annotation from annotator: 1
+
+Example 18:
+Text: via ontd_political comes this graphic and shocking video of a 16 year old boy undergoing a 'gay exorcism' http://twurl.nl/tt2voz
+Annotation from annotator: 0
+
+Example 19:
+Text: we've had EHR for over 10 yrs. been an experience.  moving our MD practices to it now too. young docs advocate 4 it which helps.#hcmktg
+Annotation from annotator: 1
+
+Example 20:
+Text: you know ur dog is getting old when she sits down to eat...poor hilly please don't grow up
+Annotation from annotator: 1
+
+Human-Rated Examples:
+Example 1:
+Text: @CarnellUNYC LoL ooh yeahShe died tho that was hard4me. I had 2 older bros who body slammed, piledrived me, etc n she was my only outlet
+Annotation from annotator: 0
+
+Example 2:
+Text: @KayTweezy yea man, it just gets old. I need a break from all this snatch. I'm knee deep in it
+Annotation from annotator: 1
+
+Example 3:
+Text: @Mayin_ Today I remembered smelling popcorn, brain freeze and vapor rub... the olden days
+Annotation from annotator: 2
+
+Example 4:
+Text: @MicheleAnneJ Better than being a boring 22 year old
+Annotation from annotator: 3
+
+Example 5:
+Text: @PopCap_Aoife the second I opened the package, my two year old saw them and shouted "PRESENTS" and claimed them for his own
+Annotation from annotator: 3
+
+Example 6:
+Text: @ViveloHoy Yes! An oldie but a goodie.
+Annotation from annotator: 3
+
+Example 7:
+Text: @beautiful_alone  Latest pix @ home on camera. Here's an old 1 in meantime. Bella (lilac point) passed last yr  http://twitpic.com/7lzwf
+Annotation from annotator: 1
+
+Example 8:
+Text: @chrishanrahan excellent! There's hope for the younger generation yet
+Annotation from annotator: 2
+
+Example 9:
+Text: @jordanknight my 3 year old niece sings along to NKOTB's Dirty Dancing!
+Annotation from annotator: 2
+
+Example 10:
+Text: @kiddoojojo @Shannati Omgawsh i found so many old pictures of us in my photobucket, Blockparty,Clevelandst,longmall walk. omg memories
+Annotation from annotator: 3
+
+Example 11:
+Text: @nikkington it means that u r still young and don't need wisdom..
+Annotation from annotator: 2
+
+Example 12:
+Text: @sparkica MGM yell it is. Brings back some memories. Damn I'm old
+Annotation from annotator: 2
+
+Example 13:
+Text: @spitphyre arre seriously! They shud take his sperm nd clone him into 23 yr old single guys
+Annotation from annotator: 1
+
+Example 14:
+Text: Adobe #Photoshop makes your Grandma young  http://tinyurl.com/kv7ot5
+Annotation from annotator: 3
+
+Example 15:
+Text: Are you ever too old for jelly or banana custard? Fuck it. I'm making both
+Annotation from annotator: 2
+
+Example 16:
+Text: At Beta nightclub. Clearly i'm the oldest person here.
+Annotation from annotator: 2
+
+Example 17:
+Text: Basically my Notepad in my old KrazR had a lot of precious priceless spontaneous musings that I struggled so hard to remember & now lost.
+Annotation from annotator: 1
+
+Example 18:
+Text: Finally! A pic up! It's an oldie but a goodie.
+Annotation from annotator: 3
+
+Example 19:
+Text: Free food, helped clean a house, played CoH, made a couple drawings, talked with old friends, and cooled off in the shower.  Decent day.
+Annotation from annotator: 3
+
+Target Example:
+Text: I love windows vista! but i have to admit i miss my old computer ive had it for over 4 years
+Annotation from annotator:

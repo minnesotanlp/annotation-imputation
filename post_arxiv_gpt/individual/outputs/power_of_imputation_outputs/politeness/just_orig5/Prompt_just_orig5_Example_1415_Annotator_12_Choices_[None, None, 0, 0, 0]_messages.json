@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.\n\nPredict the integer label of the following example:\nTarget Example:\nText: I removed that second paragraph entirely, since the information is covered in the article.  Do you feel that the lead should be larger?\nAnnotation from annotator:\nYour output should be a single integer corresponding to the label."
+    }
+]

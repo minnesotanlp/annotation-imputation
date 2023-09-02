@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+How annotator A has labeled some examples:
+Example 1:
+Text: It's wrong to admire villains.
+Annotation from annotator: 2.0
+
+Example 2:
+Text: It's wrong to assume someone has a disability because they talk differently.
+Annotation from annotator: 3.0
+
+Example 3:
+Text: Friendships ought to be valued over material possessions.
+Annotation from annotator: 3.0
+
+Example 4:
+Text: People are expected to love their family.
+Annotation from annotator: 3.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: It's good to take your date out places.
+Annotation from annotator: 4.0
+
+Example 2:
+Text: It's okay to show your disgruntlement with what someone does.
+Annotation from annotator: 3.0
+
+Example 3:
+Text: Partners are expected to support each other.
+Annotation from annotator: 4.0
+
+Example 4:
+Text: Adults are expected to bathe daily.
+Annotation from annotator: 4.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 2.0
+
+Example 2:
+Text: You shouldn't expect people to do all their chores.
+Annotation from annotator: 0.0
+
+Example 3:
+Text: You should be able to give criticism to your friends.
+Annotation from annotator: 3.0
+
+Example 4:
+Text: Before kicking someone out it is important to make sure your feelings will be permanent.
+Annotation from annotator: 3.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator:

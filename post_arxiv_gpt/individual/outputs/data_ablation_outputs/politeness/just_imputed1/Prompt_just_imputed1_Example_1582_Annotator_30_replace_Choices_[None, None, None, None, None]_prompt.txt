@@ -1,0 +1,122 @@
+Example 1:
+Text: You are removing the film poster s images from the Kansas City Film Critics Circle Awards articles and the Academy awards.  Why?
+Annotation from annotator: 8
+
+Example 2:
+Text: You're back!  And, am I ready for what?
+Annotation from annotator: 8
+
+Example 3:
+Text: I asked you a question. Be educated and please respond: What does <url> has  to do with <url>?
+Annotation from annotator: 4
+
+Example 4:
+Text: Why would you doubt that. And for that matter why wouldn't you rewrite it yourself?
+Annotation from annotator: 4
+
+Example 5:
+Text: You haven't contributed in over 10 days now. You alright?
+Annotation from annotator: 12
+
+Example 6:
+Text: I'm confused by <url>. Why French?
+Annotation from annotator: 8
+
+Example 7:
+Text: The 1980s Watchmen roleplaying module "Taking Out the Trash" has a section cowritten by Alan Moore and Ray Winninger; according to this http://www.capnwacky.com/rj/watchmen/noncomic.html it contains additional background info on the characters and additional insight; do you have the modules? Could I cite the modules for this information?
+Annotation from annotator: 16
+
+Example 8:
+Text: So I think it's better research one by one and decide which one is common name (use). What is your opinion ?
+Annotation from annotator: 16
+
+Example 9:
+Text: I disagree with your edit of the 21st of November.  Would you object to me inserting a new version based around the word 'Notwithstanding'?
+Annotation from annotator: 20
+
+Example 10:
+Text: <url>. What do you think should be done?
+Annotation from annotator: 16
+
+Example 11:
+Text: Can you help patroling <url> page???
+Annotation from annotator: 16
+
+Example 12:
+Text: Lists like this are a bad idea to begin with, and this one in particular has been deleted via an AfD. Why not try categories instead?
+Annotation from annotator: 8
+
+Example 13:
+Text: Thank you for deleting the attack page I tagged.  Should <url> be blocked for creating it?
+Annotation from annotator: 16
+
+Example 14:
+Text: I restored the lead picture series I like. What do you think?
+Annotation from annotator: 16
+
+Example 15:
+Text: I am stuck with the formatting of <url>, especially the ref tags. How can I make the different chapters of my main source book show up correctly?
+Annotation from annotator: 12
+
+Example 16:
+Text: Hello! Um - are you looking for me to do something about that BRFA, or actually write a bot to perform that task?
+Annotation from annotator: 8
+
+Example 17:
+Text: Hi. How are you doing today, Haunted Angel?
+Annotation from annotator: 12
+
+Example 18:
+Text: Where did you get the tracklist for the album? Can you please drop me a messafe with the link?
+Annotation from annotator: 20
+
+Example 19:
+Text: I noticed that you have a lot of empty or blanked sandboxes that you used before moving articles to mainspace. Do you want these deleted or are you saving them for something?
+Annotation from annotator: 16
+
+Example 20:
+Text: I was just now leaving a note on Ruhrfisch's talk page, and noticed that you'd left a note there.  I wrote about the <url> the other day, the first time that I've ever created an NRHP article: would you be willing to check it, and to add to the infobox if there's something that can easily be added?
+Annotation from annotator: 20
+
+Example 21:
+Text: Hi old friend! Would you mind unprotecting my user/talkpages please?
+Annotation from annotator: 20
+
+Example 22:
+Text: I do not, nor have I ever used other accounts on Wikipedia. Didn't you ask me this before?
+Annotation from annotator: 8
+
+Example 23:
+Text: <url> has lots of problems, not the least of which is a misspelled title. Do you recommend it be nominated for WP:PROD, or is there a better path to take?
+Annotation from annotator: 16
+
+Example 24:
+Text: Hi, thanks for unprotecting the <url> article. Could you also unprotect <url> so a redirect can be created?
+Annotation from annotator: 20
+
+Example 25:
+Text: If you live in Oslo, you probably know this better than me, but I took a look at <url> at trafikanten.no and it seems that line 1 still operates to Bergkrystallen during the rush hour. Can you check this out and if necessary restore the line 1 links to the affected station articles?
+Annotation from annotator: 16
+
+Example 26:
+Text: I know there has been an issue with wrong Brazilian chart data being added lately. Is <url> adding the correct data, or could it be the same user with a dynamic IP address?
+Annotation from annotator: 16
+
+Example 27:
+Text: Please explain why you continue to <url> <url> <url> over the folk magic/Christian revivalist wording in the lede despite the clear consensus against you.  You have not gained any favorable comments for your position in the RFC (which in fact is about the treasure seeking sentence you want to add and not about rewording or removing the existing sentence), so on what basis do you claim preeminence for your preferred wording, or for removing the sentences completely?
+Annotation from annotator: 0
+
+Example 28:
+Text: Hi Jean, just to ask your opinion. Do you think <url> article is of a quality to maybe nominate it for GA yet?
+Annotation from annotator: 12
+
+Example 29:
+Text: Thanks! To be absolutely fair his earlier edits to Rumble Fighter seemed serious; maybe he left the pc untended?
+Annotation from annotator: 12
+
+Example 30:
+Text: Thanks; I was confused by the situation (indeed, I still am), so I had no idea what to do.  One more question: why did you protect Highspeed's talk?
+Annotation from annotator: 12
+
+Text: Hey, I found <url> and at around 1:10, I think I can see the Backstreet Boys holding platinum discs (or double platinum, I'm not sure) for Backstreet's Back and Millennium. Can you please verify and is it possible to use this as a source for adding South African certifications?
+Annotation from annotator:

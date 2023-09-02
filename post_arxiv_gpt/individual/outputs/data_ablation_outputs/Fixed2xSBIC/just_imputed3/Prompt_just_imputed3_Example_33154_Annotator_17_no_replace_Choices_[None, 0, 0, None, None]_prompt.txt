@@ -1,0 +1,152 @@
+Estimated Examples:
+Example 1:
+Text: St. John 's College Choir , Cambridge , England : Come , thou long expected Jesus : St John 's College Choir , Cambridge - YouTube St John 's College Choir Cambridge - Wise - Prepare ye the way - YouTube Jesus Christ , the Apple Tree Merry Christmas ( almost ) --last week in Advent !!!!!!
+Annotation from annotator: 0
+
+Example 2:
+Text: Think about this: if the Jews really only wanted to create a multicultural melting pot Utopia instead of white genocide, why do they constantly agitate every group in order to keep them stirred up against us?
+Annotation from annotator: 2
+
+Example 3:
+Text: Deep Thought Of The Day Whose Really The True Master Or Slave Are You The Master And The Dog Is The Slave Or Is The Dog The Master Or Are You A Slave To The Dog
+Annotation from annotator: 1
+
+Example 4:
+Text: They gave me the worst teammates in the fucking world
+Annotation from annotator: 1
+
+Example 5:
+Text: Oh, of course you will change your mind. All women do.
+Annotation from annotator: 2
+
+Example 6:
+Text: 211 Products of the Block. Nggas either block or hate while cock blocking, so many haters no room for me to get mad at myself about sh;t.
+Annotation from annotator: 2
+
+Example 7:
+Text: I know I might go on some strange ramblings on here some but you just have to overlook those anyways excited about today we are going to blow the roof off this house with some great music with that being said Hit Me With Your Best Shot
+Annotation from annotator: 0
+
+Example 8:
+Text: Ehh, there's a lot of mouths to feed ahead of him. Jordy, Cobb, Adams, Ty, Bennett. So he's like the 6th weapon. 
+Annotation from annotator: 0
+
+Example 9:
+Text: If my dog got sprayed by a skunk, will killing it make the smell go away? Because so far the smell is still here.
+Annotation from annotator: 2
+
+Example 10:
+Text: Maybe she'll have cleats on. @tbowditch12 Call me racist, call me sexist, but every time Olivia Chow talks in this debate, I wanna slap her.
+Annotation from annotator: 2
+
+Example 11:
+Text: I doubt Trump is stupid enough to bomb Assads regime without having concrete evidence that he was at fault for the chemical attack...
+Annotation from annotator: 1
+
+Example 12:
+Text: TIME TO RESTART - TO EXCAVATE SOME BLEEDING HEARTS
+I TAKE A STRONG POSITION
+
+DON'T HAVE ANY INHIBITIONS
+
+IF YOU WANT TO WATCH
+
+LET ME KNOW
+
+I GOT IT ALL ON VIDEOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+ILL SEE THE FEAR IN YOUR EYES WHEN I ATTACK
+
+I
+
+AMMMMMMMMMMMMMMMMMM
+
+
+BAAAAAAAAAAAAAAAAAAAAAAAAAAAACK
+
+
+AND I WILL SHOW THE IMPORTANT THINGS THAT YOU LACK
+
+iiiii III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+AM
+
+BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACK
+Annotation from annotator: 1
+
+Example 13:
+Text: What did the black father say to his newborn son? Peace out lil homie
+Annotation from annotator: 2
+
+Example 14:
+Text: What’s the difference between the grocery store and the hospital? Somebody actually wants the vegetables at the grocery store
+Annotation from annotator: 1
+
+Example 15:
+Text: That's vile , but I ca n't say it 's a big shock , their culture seems to glorify that sort of behaviour ...
+Annotation from annotator: 1
+
+Example 16:
+Text: an older female english teacher asks . <repeat> . <repeat> if i say ' i am pretty ' , i am speaking in which tense ? " little johnny raises his hand and says , " obviously in the past "
+Annotation from annotator: 2
+
+Example 17:
+Text: Women, do u think u look sexier if ur head is buried in ur phone?
+Annotation from annotator: 0
+
+Example 18:
+Text: @b0ssladyRe lmao you wish bitch
+Annotation from annotator: 2
+
+Example 19:
+Text: What is the point of a suicide hotline exactly?
+Annotation from annotator: 2
+
+Example 20:
+Text: i like my women like i like my cigars . cuban , shipped in bulk and <number> years old .
+Annotation from annotator: 2
+
+Example 21:
+Text: That is right he is an anti-white bigot who wants to live around no blacks but wants to force other people to live around blacks .
+Annotation from annotator: 2
+
+Example 22:
+Text: Student Now Entering Legal Battle With School After They Banned Him...For Spreading It On Campus https://t.co/nCFCdRpRNP
+Annotation from annotator: 0
+
+Example 23:
+Text: @Bosslogic Then teach me how to handle those haters who bitch and moan at my @AnnaKendrick47 Batgirl fan castings. https://t.co/c6WEo6Xa6G
+Annotation from annotator: 1
+
+Example 24:
+Text: Partly visible and partly invisible at all times , PLEs are based upon standard community organizing practices that even take into account the factor of opposition .
+Annotation from annotator: 0
+
+Example 25:
+Text: The worst thing about science education in America is when you forget your text book and have to use the King James version instead.
+Annotation from annotator: 1
+
+Example 26:
+Text: how many social justice warriors does it take to change a lightbulb ? lol they ca n't change anything
+Annotation from annotator: 0
+
+Example 27:
+Text: Teacher:: That's why I don't like hate crime laws. If the victim happens to be from a protected group, the crime is automatically a hate crime and the perpetrator gets a harsher sentence. Student:: Don't they have to prove that a certain group was being targeted though? Teacher:: ....... Said by a white, male teacher. Afterwards he showed the class video clips that made fun of how "PC" enforcement of hate crime laws is.
+Annotation from annotator: 0
+
+Example 28:
+Text: Best medication to reduce obsession with wanting a girlfriend/intimacy?
+Annotation from annotator: 1
+
+Example 29:
+Text: How many babies does it take to paint a house? Depends on how hard you throw them.
+Annotation from annotator: 2
+
+Example 30:
+Text: def leppard is the best music to drive to . <repeat> you can air - drum with one arm and drive with the other .
+Annotation from annotator: 1
+
+Target Example:
+Text: Random Serious Question
+What is the quickest way for me to earn $600?
+Annotation from annotator:

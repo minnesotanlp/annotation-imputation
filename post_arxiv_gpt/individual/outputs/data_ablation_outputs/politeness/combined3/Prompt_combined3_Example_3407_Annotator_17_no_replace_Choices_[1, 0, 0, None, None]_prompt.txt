@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: What should we write, then? Do we make note of the split-up around 1917 and omit the mention of 1931, or do we make note of the split-up around 1917 and mention that the marriage (may have) lasted until 1931?
+Annotation from annotator: 16
+
+Example 2:
+Text: Funny, you could not tell it was me... who else would it be??
+Annotation from annotator: 10
+
+Example 3:
+Text: You said: "I am just upset that you are harassing a person who seems to be trying to better himself and his relationship with fellow wikipedians."  First, I'm harrassing no-one, and it would be better if you didn't make such accusations.  Secondly, what evidence do you see that SS is trying to do anything of the kind?
+Annotation from annotator: 11
+
+Example 4:
+Text: Hi, I think that you do a fantastic job on DELSORT. However, I was just wondering if, when you add to Schools, whether you would be good enough to add them to the appropriate section, please?
+Annotation from annotator: 19
+
+Example 5:
+Text: Senta.jpg was garbled or empty or some such, so I deleted it. You might want to try re-uploading?
+Annotation from annotator: 12
+
+Example 6:
+Text: ..to Giggy's RfA. Did you mean to remove 2,066 bytes of replies?
+Annotation from annotator: 10
+
+Example 7:
+Text: You've violated <url> on <url>, with 2 reverts in half an hour. Would you like to revert yourself to avoid being blocked again?
+Annotation from annotator: 12
+
+Example 8:
+Text: Hope that you don't mind, I modified your comment in the Craig intro, using a nice new template that I found.  Check it out: what do you think?
+Annotation from annotator: 18
+
+Example 9:
+Text: I noticed you added the Arabic for <url>'s name. Do you know the <url>?
+Annotation from annotator: 14
+
+Example 10:
+Text: Also, all in all, I think Batman should be changed to <url>, not <url>, as the latter refers to those with superhuman powers or abilities, which he lacks. Thoughts?
+Annotation from annotator: 14
+
+Example 11:
+Text: With all due respect, that is going to take ages. How can one create a 'Bot' to do all this for me for <url>, <url>, <url>, <url> and <url>?
+Annotation from annotator: 18
+
+Example 12:
+Text: For one phonological citation I need an uppercase "I", as in "Italy", with _serifs_ to distinguish it from lowercase L.  You advised "The Classic skin uses a serifed font, if you can accept a personal solution."  I'm sorry, I don't catch your meaning.  Where do I find the Classic skin, what is a personal solution, and why wouldn't I accept it?
+Annotation from annotator: 11
+
+Example 13:
+Text: Thank you, Cremepuff222, for the kind words. :) How have you been?
+Annotation from annotator: 19
+
+Example 14:
+Text: Re: your comment at <url>,. I suppose you know there's a list at <url>?
+Annotation from annotator: 12
+
+Example 15:
+Text: In addition to xe1 xe2 xe3 xe0 xe7 xe9 xea xed xf3 xf4 xf5 xfa, I noticed that Portuguese uses - in the middle of words. When do you use -?
+Annotation from annotator: 13
+
+Example 16:
+Text: Yes, nearly every church category seems messed up, going either up or down. It seems a major task to do the whole lot - would it make sense simply to move the Catholics (say) out of the primate tree (by an edit) or is this bypassing the cfd process in some sneaky fashion?
+Annotation from annotator: 13
+
+Example 17:
+Text: Hi Skully, I've been keeping an eye on your edits over the past few weeks, and I think you should be a admin. Is it alright if I nominated you to be an admin?
+Annotation from annotator: 19
+
+Example 18:
+Text: Self-follow-up: Also, while sometimes the status quo should be maintained, by supporting it in this case, you're also supporting a "revert-first, ask questions later" approach to dealing with good faith edits. Is that really what you want?
+Annotation from annotator: 9
+
+Example 19:
+Text: You may need to enable your own setting to allow E-mail too; I'm not sure. If so, maybe you can turn it on temporarily, so that you can send me one e-mail?
+Annotation from annotator: 17
+
+Example 20:
+Text: Rxe9nyi leaves out the other gruesome details and adds the context of the fortress.  Do you know which details are in the most widespread and/or original version of this tale?
+Annotation from annotator: 14
+
+Example 21:
+Text: Hi there again, just reminding you that the review must be archived over at WP:Biography as well, not only marked as such in the article Talk page. Do you think Markus's last concern was addressed to his satisfaction?
+Annotation from annotator: 15
+
+Example 22:
+Text: MONGO, today you speedied this article as a non notable character.  Surely you know the non notable speedy criteria is for real people, not characters?
+Annotation from annotator: 11
+
+Example 23:
+Text: Wassat? LeaveVissToYou?
+Annotation from annotator: 9
+
+Example 24:
+Text: OK I've created the following test page: <url>. Tell me if you have a problem with it?
+Annotation from annotator: 16
+
+Example 25:
+Text: i took the photo, and if the kludgy licensing template would allow me to license i would. do you actually fix things or tag spam?
+Annotation from annotator: 12
+
+Example 26:
+Text: yeah that's what I mean. how do i get the .ogg file from Audacity into the actual article?
+Annotation from annotator: 15
+
+Example 27:
+Text: Okay, I think I finally might "get it" well enough to leave this side discussion and take it back to the QD talk page. Meet me there?
+Annotation from annotator: 14
+
+Example 28:
+Text: Reverted again, you need to create your own subpage at Template talk:Did you know/Article name. If you need some help, I could nominate it for you?
+Annotation from annotator: 15
+
+Example 29:
+Text: This came up for discussion on <url>. What is the last word on it?
+Annotation from annotator: 16
+
+Example 30:
+Text: Your bot runs awfully fast. How come there isn't "using AWB" in the edit summary?
+Annotation from annotator: 12
+
+Human-rated Examples:
+Example 1:
+Text: I really like the template you used at <url> but it dosen't seem to exist on the  WP:Vandalism page. Where can I grab it?
+Annotation from annotator: 16
+
+Example 2:
+Text: <url> is up for deletion. Can you find some sources in Belarusian?
+Annotation from annotator: 16
+
+Example 3:
+Text: It seems <url> has tagged the following baiting articles <url> <url> <url> and <url> with a delete tag out of spite.  It there a  way to remedy this type of poor behaviour ?
+Annotation from annotator: 8
+
+Example 4:
+Text: I have the picture (3D) model of a chemical compound made with Accelrys, but I don't have Photoshop. What can I do?
+Annotation from annotator: 16
+
+Example 5:
+Text: I've been going through <url> and replacing the FiveHorizons.com refs (per Quadzilla99's comments). However, refs 39 and 40 don't seem to appear anywhere else; could you perhaps replace them with more reliable sources if you get the chance?
+Annotation from annotator: 16
+
+Example 6:
+Text: I noticed here <url> you mentioned "horing".  Is that just a spelling typo for "honoring"?
+Annotation from annotator: 18
+
+Example 7:
+Text: BTW, as a complete aside, I have wondered for years why Enver Bey/Pasha is at <url>. What do you think?
+Annotation from annotator: 12
+
+Example 8:
+Text: This is a really sore subject, because most of parents of kids with learning difficulties dont agree with the term "retardation" - it is unscientific and also quite abusive. Could you please delete the category or rename it "learning disability organisations ?
+Annotation from annotator: 8
+
+Example 9:
+Text: Keeping a list of everything bad user:XXX did in your user space is neither constructive nor appropriate. Perhaps we should both focus on the many positive things to do rather than the very occasional misbehavior?
+Annotation from annotator: 7
+
+Example 10:
+Text: ...why not try something a bit more proactive? Now, obviously he's using proxies, but are there no rangeblocks that might make his job harder?
+Annotation from annotator: 16
+
+Example 11:
+Text: You see, I expended quite some time on this, referenced it thoroughly, and thereby resolved a confusion between the medieval <url> and the text by Origen. I just don't understand how there can be a problem here?
+Annotation from annotator: 15
+
+Example 12:
+Text: Holy cow! What happened?
+Annotation from annotator: 12
+
+Example 13:
+Text: Hi Darwi. Just to ask you as curiosity, how did that debate ended?
+Annotation from annotator: 16
+
+Example 14:
+Text: does not fit the criterium for quadratic convergence, as one would get &mu;=0; but it does not converge with a faster rate either. What do you think?
+Annotation from annotator: 20
+
+Example 15:
+Text: You and <url> are getting quite close to an edit war. Perhaps you should talk it out?
+Annotation from annotator: 4
+
+Example 16:
+Text: From looking at the talk page archive, I see you you were a voice of moderation at <url> some time ago.  Care to weigh in there again?
+Annotation from annotator: 16
+
+Example 17:
+Text: If you can remember, would you mind giving a bit more information about this photo e.g. where you took it?
+Annotation from annotator: 17
+
+Example 18:
+Text: Have you received the 1972 Encyclopedia of PNG you mentioned during the discussion about <url>? Was there a detailed entry for Dagora?
+Annotation from annotator: 12
+
+Example 19:
+Text: <url>. Or is it just me?
+Annotation from annotator: 12
+
+Example 20:
+Text: Hi Awadewit,  I hope I've started a discussion at <url>?  Would you like to weigh in there?
+Annotation from annotator: 16
+
+Example 21:
+Text: You deleted this, but somehow it still shows up on the parent category's page <url>.  Is this normal and/or can you fix this?
+Annotation from annotator: 16
+
+Example 22:
+Text: Greetings, I ran across your 2008 article <url>, and the footnotes are done manually vice the usual Wiki way.  Any chance you can go back and fix the footnotes?
+Annotation from annotator: 16
+
+Example 23:
+Text: On a more practical note: One either does or doesn't agree to take part in mediation. Which is it, please?
+Annotation from annotator: 8
+
+Example 24:
+Text: How do I sign up to volunteer for the Missing TV encyclopedia articles project? Do I just add my name to the list of "This project is maintained by...", or something else?
+Annotation from annotator: 16
+
+Example 25:
+Text: Hey ! There is a little problem on that image you uploaded from Lambiek : Caran d'Ache is supposed to be 2 years old in 1860, but his ''moustache'' and tallness let me think he is not so young... Do you know where to find the real date of the picture ?
+Annotation from annotator: 16
+
+Example 26:
+Text: I am stuck with the formatting of <url>, especially the ref tags. How can I make the different chapters of my main source book show up correctly?
+Annotation from annotator: 20
+
+Example 27:
+Text: Thanks. And, what about the <url> about "he drowned" not being reflexive in Spanish?
+Annotation from annotator: 20
+
+Example 28:
+Text: sir.. can i still write an article? do you have any facebook account?
+Annotation from annotator: 16
+
+Example 29:
+Text: Because I haven't seen it; I'm not even sure from the discussion whether it's on or off Wikipedia. Can you supply a link or a reference?
+Annotation from annotator: 15
+
+Example 30:
+Text: Hi, Wereon - I'm afraid I'm rather amateur at nominating articles for deletion. Where do I start?
+Annotation from annotator: 16
+
+Target Example:
+Text: Hi Taivo, I'm beginning to have my suspicions that Fellowscientist might be you-know-who from past debates. Am I being paranoid?
+Annotation from annotator:

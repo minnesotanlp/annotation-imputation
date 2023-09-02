@@ -1,0 +1,266 @@
+Estimated Examples:
+Example 1:
+Text: Ordered a copy the other day , cannot wait to settle down for a good read in front of the fire here .
+Annotation from annotator: 0
+
+Example 2:
+Text: Please quote me where I 've implied or have said that .
+Annotation from annotator: 0
+
+Example 3:
+Text: #theunagency's Oscar moment on the unusual stage @s_yesudas, MD inspiring entrepreneurs #purpose #never #fails… https://t.co/d86wVYkIV7
+Annotation from annotator: 0
+
+Example 4:
+Text: .@philippenis @DannyVelasco I made up nothing. A stoner said that and you are too ignorant of world events to know he's wrong. #sorryitsaboy
+Annotation from annotator: 0
+
+Example 5:
+Text: Please, feel welcome to learn more about the history of the Macedonian Patriotic Organization , its traditional Bulgarian character and the activities this organization provided for the community and its goals and purposes of today .
+Annotation from annotator: 0
+
+Example 6:
+Text: Here this bitch go ... Lol
+Annotation from annotator: 1
+
+Example 7:
+Text: the sub got so big i don't even recognize 90% of the people here
+ i feel left out tbh :(
+Annotation from annotator: 0
+
+Example 8:
+Text: My Coworker:: I'm about to buy her a one-way ticket back to Africa My Supervisor:: HA! I'll pitch in. They were talking about me via IM. Both men were white. Found this in the IM log in 2010.  When I submitted this finding to corporate, they were both fired, but the prevailing message is that even after 500 yrs in America, we still don't belong. I was 33, May 2010, Atlanta, GA, at work. Made me feel like even though I am a descendant of slaves, I still don't belong in America.
+Annotation from annotator: 1
+
+Example 9:
+Text: Your brother is such a girl!
+Annotation from annotator: 1
+
+Example 10:
+Text: PSA: If you're driving an RV stay the fuck in the slow lane!!!!
+Annotation from annotator: 1
+
+Example 11:
+Text: My grandma died from a stroke while reading I guess she couldn't put that book down.
+Annotation from annotator: 1
+
+Example 12:
+Text: GLORY To our British Activist & Nationalist ! Good To to See the Poles Help Out !!
+Annotation from annotator: 0
+
+Example 13:
+Text: Don't play both sides of the fence. Either you fucking with me or you not.
+Annotation from annotator: 0
+
+Example 14:
+Text: Whats the difference between a pile of dead babies and a Ferrari? I don't have a ferrari in my garage.
+Annotation from annotator: 2
+
+Example 15:
+Text: It is weird that someone from GamerGate would be opposed to a video *not specific to GamerGate* talking about harassment. So weird, right?
+Annotation from annotator: 0
+
+Example 16:
+Text: Insane Call your daughter "Insane" so when someone asks "Are you fucking insane?" you can reply "No, I'm fucking my dog"
+Annotation from annotator: 2
+
+Example 17:
+Text: a kindergarten teacher was going over animal sounds with her class . <repeat> she asks " ok , what does the ducky say " ? " quack ! " exclaims kevin . " good , now what does the kitty say " ? " meow ! " answers joe . " very good . and what does the piggy say ? " tyrone replies " freeze boy put yo hands up ! "
+Annotation from annotator: 2
+
+Example 18:
+Text: Here you go , 2 houses for 44,000 in a town that is 99 % white. located in a rural midwestern area .
+Annotation from annotator: 0
+
+Example 19:
+Text: Native Americans have to stop being so whiney. Geronimo wasn't describing Bin Laden, it's just a word. People have to stop being so sensitive and just get over it.
+Annotation from annotator: 2
+
+Example 20:
+Text: New: everyone can now create group chats of up to 50 people.
+Annotation from annotator: 0
+
+Example 21:
+Text: Suicide Fuel for Incels Age 24 and Older
+Most femoids have been sexually active for more than a decade than you have.
+Annotation from annotator: 1
+
+Example 22:
+Text: For he will command his angels concerning you to guard you in all your ways on their hands they will bear you up so that you will not Dash your foot against the stone you will Tread On The Lion and the adder the Young Lion and serpent you will Trampled Under Foot
+Annotation from annotator: 0
+
+Example 23:
+Text: What do you call an elevator full of white people? A box of crackers
+Annotation from annotator: 1
+
+Example 24:
+Text: the incident orlando left everyone crying besides the parents of the victims .
+Annotation from annotator: 1
+
+Example 25:
+Text: What's the easiest way to dirty up your headlights? going 50 through a school zone.
+Annotation from annotator: 1
+
+Example 26:
+Text: Ishqbaaz : Anika mistakes Shivaay for Maahi and threatens to kill him https://t.co/bkz41ISVc2 #TV_Show https://t.co/P8hfkisbGX
+Annotation from annotator: 0
+
+Example 27:
+Text: To all young souls that share the thelepatic feeling with me
+yes The fire rises  my brothers
+Annotation from annotator: 0
+
+Example 28:
+Text: I am so tired of living in a society that hates us
+We get paid less, go to jail more, and are generally discriminated against.
+Annotation from annotator: 0
+
+Example 29:
+Text: Some people really fucking anger me, having something so great...and then throw it done the drain.
+Annotation from annotator: 0
+
+Example 30:
+Text: /r/OkCupid "Men, let's talk about how much easier we have it than women when it comes to everything else"
+Annotation from annotator: 1
+
+Human-rated Examples:
+Example 1:
+Text: What’s the useless part of the body around the vagina? The woman.
+Annotation from annotator: 2
+
+Example 2:
+Text: This song drains my soul(for Chincels)
+”童话”，那首歌。听了非常难过。但有知道自己永远不可能有这种女友，很痛苦。
+
+Tong Hua that Chinese song, makes me sad and nostalgic everytime I hear it, but knowing inceldom will make me never have a gf, really stings, it hurts.
+Annotation from annotator: 0
+
+Example 3:
+Text: Worried about fruit trees and this crazy #VegasWind
+Annotation from annotator: 0
+
+Example 4:
+Text: THEY HAVE PRINTER NO COST OFF MONEY IT IS LIKE IF YOU PRINT MONEY AND ASK FROM NAIBOR GIVE ME UR CAR ..OTHER WAYS I STOP TO PAY YOUR DIESEL
+Annotation from annotator: 0
+
+Example 5:
+Text: I know shit about everybody , I just don't care enough to speak on it but I suggest you bitches watch it forreal .
+Annotation from annotator: 0
+
+Example 6:
+Text: Basic a** trainer keeps kicking me off turf @ the gym claiming he's teaching a class, but I've been here since 5am and I see not a soul.
+Annotation from annotator: 0
+
+Example 7:
+Text: Whats white and gets darker by the day? -Europe.
+Annotation from annotator: 0
+
+Example 8:
+Text: Week 2 After Veto Ceremony The Nominations To Be Evicted From The Big Brother House Where Alex, Ramses, And Cody #BB19 
+Annotation from annotator: 0
+
+Example 9:
+Text: &#8220;@CheyaGurr: @A_Mitchellll13 ur seriously a fag&#8221;don't hate
+Annotation from annotator: 2
+
+Example 10:
+Text: you gotta watch the ones that's close to you before the strangers and that's fucked up.
+Annotation from annotator: 0
+
+Example 11:
+Text: today has been a fucking cornucopia of emotion wew
+Annotation from annotator: 0
+
+Example 12:
+Text: i fucking hate explaining like who i am to people that dont know. like i just expect them to already know and they dont
+Annotation from annotator: 0
+
+Example 13:
+Text: All deses bitches know that you're my nigga.
+Annotation from annotator: 0
+
+Example 14:
+Text: Comparison of available options
+All women:1,000+ in real life, local options and countless online
+
+Chad: 1,000+ in real life, local options and countless online 
+
+Other men: literally no options 
+
+If a woman is single, it's because she's balking at her numerous available options.
+Annotation from annotator: 0
+
+Example 15:
+Text: I'm sorry but I have a fucking parking pass WHYYYY am I getting a parking ticket in bab.
+Annotation from annotator: 0
+
+Example 16:
+Text: 3 door, AWD...
+Annotation from annotator: 0
+
+Example 17:
+Text: Don't post no men on my page . Don't got time to be updating my pages every week because he on some nut shit &#129335;&#127995;‍♀️.
+Annotation from annotator: 0
+
+Example 18:
+Text: They never really miss you when you leave them , they miss you when they see that you have moved on , became happy , &amp; didn't look back.
+Annotation from annotator: 0
+
+Example 19:
+Text: Height=cope
+Only if you have severe manletism (under 5'7) that can be a reason to be incel face&gt;&gt;&gt;&gt;height
+Annotation from annotator: 0
+
+Example 20:
+Text: Found a Transponder Snail! Exclusive Profile: Those who follow their dreams! https://t.co/PUk0vcHVBd #TreCru https://t.co/f5xBR0Vmzj
+Annotation from annotator: 0
+
+Example 21:
+Text: Is that the remix? "@breezyfrmdablok: these hoes ain't lawyers! &#127908;&#128553; lmao my fave Chris Brown song"
+Annotation from annotator: 0
+
+Example 22:
+Text: This isn't work-related, but just an FYI since I know you are interested in 'women's issues.'
+Annotation from annotator: 0
+
+Example 23:
+Text: AMA on the "Wage Gap" doesn't go too well
+Annotation from annotator: 0
+
+Example 24:
+Text: Had to put off press photog until today. Now I'm back to frantically cleaning &amp; cursing myself for not having time for a haircut.
+Annotation from annotator: 0
+
+Example 25:
+Text: What to sing if your boss My dick is big and it keeps getting bigger that why i like raping this nigger
+Annotation from annotator: 2
+
+Example 26:
+Text: The best players going to Olympics is an investment in the game of Hockey. That's good for everyone including the NHL. #NHL #ForTheFans
+Annotation from annotator: 0
+
+Example 27:
+Text: Roses are red, Violets are blue.
+
+
+Don't scream during anal,
+
+
+Or I will kill you.
+Annotation from annotator: 0
+
+Example 28:
+Text: Screen Rant - Posts | Daredevil 's coming out of the shadows in... https://t.co/xw5JGs0g6m https://t.co/8ghO9bgDY3
+Annotation from annotator: 0
+
+Example 29:
+Text: Sorry about all the RTs, but this is a really serious issue. This guy is basically the tech anti-feminist that thinks he's an ally.
+Annotation from annotator: 0
+
+Example 30:
+Text: i'm so sad i can't smell pri's farts :( i bet they smell better than mine i hope we meet one day and toot away
+Annotation from annotator: 0
+
+Target Example:
+Text: my cousin thinks it's so funny that i really want to go to school for everything like multi-talented
+Annotation from annotator:

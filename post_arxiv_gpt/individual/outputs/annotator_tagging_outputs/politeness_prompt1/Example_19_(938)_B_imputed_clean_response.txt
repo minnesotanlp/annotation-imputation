@@ -1,0 +1,1 @@
+It is difficult to predict exactly how annotator B would label this example, but based on the given examples, it is likely that they would assign a score between 10 and 20, as the text is somewhat difficult to understand and may come across as impolite or confusing.

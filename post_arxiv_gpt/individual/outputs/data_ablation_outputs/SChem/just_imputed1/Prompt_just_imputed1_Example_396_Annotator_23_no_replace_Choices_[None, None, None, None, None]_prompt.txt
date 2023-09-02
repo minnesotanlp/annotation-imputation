@@ -1,0 +1,102 @@
+Example 1:
+Text: It's wrong to do drugs with your partner.
+Annotation from annotator: 3
+
+Example 2:
+Text: Relationships are expected to have clear communication.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't be hypocritical.
+Annotation from annotator: 3
+
+Example 4:
+Text: You shouldn't think ill of your family.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's understandable to not want to contribute work to a group project.
+Annotation from annotator: 1
+
+Example 6:
+Text: It's responsible to take part in rearing a younger sibling.
+Annotation from annotator: 3
+
+Example 7:
+Text: You can't expect someone to pay off their loans immediately.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's not okay to abuse things like drugs.
+Annotation from annotator: 3
+
+Example 9:
+Text: You should never do anything that may cause your children to despise you.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's wrong to talk to your friends about sensitive topics.
+Annotation from annotator: 1
+
+Example 11:
+Text: It is ok if you cancel last minute on people due to an illness.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's okay to say the n word if it's in a textbook.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's okay if you are tired at work if you want to ask to go home.
+Annotation from annotator: 2
+
+Example 14:
+Text: Families should be able to talk out their problems with each other.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 3
+
+Example 16:
+Text: You shouldn't expect your ex to not have sex after the relationship is over.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's important to let people know when they are acting in ways that upset you.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's bad to not trust your significant other.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's fine to ban anyone you want to from an online account.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is good for couples to communicate their problems and move on when there is tension after a fight.
+Annotation from annotator: 3
+
+Example 21:
+Text: You shouldn't get pissed off at your siblings.
+Annotation from annotator: 2
+
+Example 22:
+Text: It is mean to get involved in an affair with someone in a relationship.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't accept money from someone you don't want to date.
+Annotation from annotator: 2
+
+Example 24:
+Text: You should let your ex go.
+Annotation from annotator: 3
+
+Example 25:
+Text: Not everyone wants their images on social media, so you should respect it if they ask you not to share them.
+Annotation from annotator: 3
+
+Text: It's good to get a job after high school for a while to learn some responsibility.
+Annotation from annotator:

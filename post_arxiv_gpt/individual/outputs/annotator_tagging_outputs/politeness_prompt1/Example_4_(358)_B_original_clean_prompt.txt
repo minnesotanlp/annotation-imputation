@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: I notice that you added a period to the middle of a sentence in the article about <url>. Why?
+Annotation from annotator: 9.0
+
+Example 2:
+Text: Go to <url> and create it like you would a page: just add a little text by putting in a little explanation at the top and adding categories u2014 see <url> for a basic category of this sort, although on a very different subject.  Let me ask, however: are you planning to categorise articles about schools and/or districts, or articles on the cities where they are based?
+Annotation from annotator: 17.0
+
+Example 3:
+Text: That's OK &mdash; I just wondered if you had a new translation that used "on".  Where are you studying philosophy, by the way?
+Annotation from annotator: 16.0
+
+Example 4:
+Text: If the only page you've been visiting is Wikipedia, then it makes sense the viruses would come from here, but if you've been to other sites, they get thrown into the equation. Again, don't you have any anti-virus software?
+Annotation from annotator: 15.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: Hi Zaps, I've noticed that you edited the abovementioned article. Could you please provide your sources?
+Annotation from annotator: 20.0
+
+Example 2:
+Text: Now why would you do that when he specifically stated that he didn't want to discuss the matter for 48 hours and I specifically stated that people should come here? Did you not read his request?
+Annotation from annotator: 0.0
+
+Example 3:
+Text: I restored 3 non-piped blue links.  How does that look?
+Annotation from annotator: 20.0
+
+Example 4:
+Text: Many thanks for the review. So what was the truce term ''you'' used when little then?
+Annotation from annotator: 8.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: I saw you assess this with a B. What am I missing?
+Annotation from annotator: 7.0
+
+Example 2:
+Text: I thought that it seemed a bit removed from Imlay's own time and there was no real explanation of the significance of Imlay to Twain (if any) or of Imlay's reputation between her death and the end of the nineteenth century or in America. What do you think?
+Annotation from annotator: 17.0
+
+Example 3:
+Text: As another aside, they are mostly Germans.  What's up with that?
+Annotation from annotator: 3.0
+
+Example 4:
+Text: Hi, Michael David. Was there any consensus reached on this issue?
+Annotation from annotator: 16.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: I'm pretty sure there already is a filter (possibly more than one) for this. What page got moved?
+Annotation from annotator:

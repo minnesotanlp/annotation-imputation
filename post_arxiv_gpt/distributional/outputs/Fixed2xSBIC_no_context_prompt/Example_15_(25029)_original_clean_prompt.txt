@@ -1,0 +1,29 @@
+Example 14625
+Text: Now that person has been doxxed on 8chan. And despite this being the person who posted my &amp; others' home address, suddenly he sees a problem
+Soft labels:
+100.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+
+Example 12336
+Text: bar results are coming out tomorrow(ish) and i literally can't fucking breathe.
+Soft labels:
+66.67% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+33.33% of responsive annotators labeled the text with 2
+
+Example 22641
+Text: When I have a big challenge, I'm inspired by Ayrton Senna.... Then I die halfway.
+Soft labels:
+100.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+
+Example 29449
+Text: I'm about to see my best friend for the first time since like November even though we go to the same college and are 10mins from each other
+Soft labels:
+100.00% of responsive annotators labeled the text with 0
+0.00% of responsive annotators labeled the text with 1
+0.00% of responsive annotators labeled the text with 2
+Target Text: Ya'll take note. There ain't never tornadoes where colored folk live
+Soft labels:

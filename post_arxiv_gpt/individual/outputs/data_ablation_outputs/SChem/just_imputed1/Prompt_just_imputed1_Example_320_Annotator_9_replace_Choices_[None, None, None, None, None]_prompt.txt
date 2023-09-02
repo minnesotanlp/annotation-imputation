@@ -1,0 +1,122 @@
+Example 1:
+Text: It is good to have friends who are there for you.
+Annotation from annotator: 4
+
+Example 2:
+Text: It is understandable to call the police when you know someone is committing a crime.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's okay to be upset with a friend.
+Annotation from annotator: 4
+
+Example 4:
+Text: You shouldn't rat out other people.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's important to have trust in a romantic relationship in order to have a healthy relationship.
+Annotation from annotator: 4
+
+Example 6:
+Text: You should be focused on learning while at school.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's okay to feel ashamed about behavior you know is self-destructive.
+Annotation from annotator: 4
+
+Example 8:
+Text: It is wrong to take video games too seriously.
+Annotation from annotator: 4
+
+Example 9:
+Text: You can't expect people to always like a certain kind of music.
+Annotation from annotator: 4
+
+Example 10:
+Text: It is okay to only want to hang out with certain people.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to have a best friend.
+Annotation from annotator: 4
+
+Example 12:
+Text: It is normal for students to pass notes
+Annotation from annotator: 4
+
+Example 13:
+Text: You can't expect your team to always win their game.
+Annotation from annotator: 4
+
+Example 14:
+Text: If someone forbids you from doing something, you should respect them.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to give advice to your friends.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's good to show solidarity with family members in the face of adversity.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's wrong not to date someone just because of money.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to get back at a cheating partner.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's not okay to abuse things like drugs.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 4
+
+Example 21:
+Text: It is inconsiderate to expect a friend to give you money.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to want others to celebrate your joys with you.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's acceptable to shun someone who hates people in your group.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's okay if you are tired at work if you want to ask to go home.
+Annotation from annotator: 2
+
+Example 25:
+Text: You don't have to help out your parents if you don't feel like it.
+Annotation from annotator: 2
+
+Example 26:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 3
+
+Example 27:
+Text: People shouldn't betray the trust of those they're close to.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's good to find things to help you soften your grief.
+Annotation from annotator: 4
+
+Example 29:
+Text: You shouldn't clone dinosaurs because that would just cause a lot of problems.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's expected that you'll stay home from work when you are sick.
+Annotation from annotator: 4
+
+Text: You shouldn't take it too personally if someone leaves you out of their plans
+Annotation from annotator:

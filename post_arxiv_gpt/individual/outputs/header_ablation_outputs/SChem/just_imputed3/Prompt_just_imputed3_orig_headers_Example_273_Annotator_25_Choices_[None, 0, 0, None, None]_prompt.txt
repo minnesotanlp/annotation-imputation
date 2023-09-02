@@ -1,0 +1,124 @@
+Correct Examples:
+Example 1:
+Text: It's understandable if you can't keep your political leanings out of your religion lectures.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's good to wait for gifts from others.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's understandable to be uncomfortable with people that are different than you.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's bad to have an overly pessimistic world view.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should trust others to do things for you without getting nervous about it.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 4
+
+Example 8:
+Text: It is good to be remorseful and admit when you've done wrong
+Annotation from annotator: 4
+
+Example 9:
+Text: Partners are expected to want to spend a good amount of time with each other.
+Annotation from annotator: 4
+
+Example 10:
+Text: Not everyone wants their images on social media, so you should respect it if they ask you not to share them.
+Annotation from annotator: 4
+
+Example 11:
+Text: You shouldn't let people who claim to be fashion police criticize your clothes.
+Annotation from annotator: 3
+
+Example 12:
+Text: You shouldn't have to stay at a place you don't like.
+Annotation from annotator: 4
+
+Example 13:
+Text: It is good to be patient.
+Annotation from annotator: 4
+
+Example 14:
+Text: It is ok to live with a roommate of the opposite sex if you are just friends.
+Annotation from annotator: 3
+
+Example 15:
+Text: You shouldn't get upset at your partner.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's expected you get into a fight if you're being racist around people
+Annotation from annotator: 2
+
+Example 17:
+Text: You should be focused on learning while at school.
+Annotation from annotator: 4
+
+Example 18:
+Text: You can't expect your team to always win their game.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's degrading to seek affirmation from people.
+Annotation from annotator: 2
+
+Example 20:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 2
+
+Example 21:
+Text: You should expect to get caught when you lie to people.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's wrong to stalk people.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's understandable to want to get back at someone.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's hurtful for  a parent to enroll a child in classes without permission.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's frowned upon for people to continue a relationship with a former romantic interest when they've moved on to other relationships.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's okay if you are tired at work if you want to ask to go home.
+Annotation from annotator: 2
+
+Example 27:
+Text: There should be trust in a relationship.
+Annotation from annotator: 4
+
+Example 28:
+Text: City vehicles should not expect to park wherever they please.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's understandable to want friends and family around when getting a medical operation.
+Annotation from annotator: 4
+
+Example 30:
+Text: It's good to find things to help you soften your grief.
+Annotation from annotator: 4
+
+Target Example:
+Text: It is okay to not trust everyone.
+Annotation from annotator:

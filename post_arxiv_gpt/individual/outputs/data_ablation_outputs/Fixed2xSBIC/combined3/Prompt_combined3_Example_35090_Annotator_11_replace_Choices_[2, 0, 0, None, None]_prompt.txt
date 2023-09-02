@@ -1,0 +1,264 @@
+Estimated Examples:
+Example 1:
+Text: Jet lag made me wake up at 6:55 am today!! I would like to think this will last but I'm 100% sure I'll go back to my 2 am bedtime tonight.
+Annotation from annotator: 0
+
+Example 2:
+Text: I don't understand the point of being emo.. so stupid. Sick and tired of all this emo bullshit
+Annotation from annotator: 0
+
+Example 3:
+Text: HELL. Now they'll know I've been your sockpuppet all along. @TheQuinnspiracy
+Annotation from annotator: 0
+
+Example 4:
+Text: Looking for #blinds #shutters or #curtains Check out World of Blinds at 60 Seafield Road, #Inverness The North's most trusted name in windo…
+Annotation from annotator: 0
+
+Example 5:
+Text: My account showed wired activity after my last thread
+Sounds like the fbi to me,should i be worried?
+Annotation from annotator: 0
+
+Example 6:
+Text: I love black people What, can't be wholesome here automod?
+Annotation from annotator: 0
+
+Example 7:
+Text: I fucking HATE people that torch my time. $8 community is fucking CANCER!
+Annotation from annotator: 0
+
+Example 8:
+Text: FUCK. YEAH. LET'S DO THIS SHIT. #resist #resistmore #resistagain #FUCKINGRESIST https://t.co/4VVI2T3ZZ3
+Annotation from annotator: 0
+
+Example 9:
+Text: What do you call a failed surgery? An autopsy
+Annotation from annotator: 0
+
+Example 10:
+Text: Two seals walk into a club That's it, they got poached
+Annotation from annotator: 0
+
+Example 11:
+Text: Too bad about all the damn Cubans down there.
+Annotation from annotator: 0
+
+Example 12:
+Text: I heard Avicii has died... Wake me up when its all over.
+Annotation from annotator: 0
+
+Example 13:
+Text: I just assumed you were my nurse.
+Annotation from annotator: 0
+
+Example 14:
+Text: Congratulations, Illinois, on becoming the 15th state to reach marriage equality! #marriageequality #dabears
+Annotation from annotator: 0
+
+Example 15:
+Text: Beta Cuck Paul Ryan is just acting weird because he got a grain of sand in his vagina during his vacation and he's taking it out on his voting base
+Annotation from annotator: 0
+
+Example 16:
+Text: Every time I play a Patapon game and hear the "Ushishi Theme", I think of a beatboxing monkey. "YO YO YO GET UPPA!!!"
+Annotation from annotator: 0
+
+Example 17:
+Text: I don’t want to give psychos any ideas but if you use your imagination it doesn’t take a rocket scientist to come up with ways to commit mass murder without a gun
+#2A
+Annotation from annotator: 0
+
+Example 18:
+Text: #MUFC's V2 rocket style of football is fucking sickening! Shite!
+Annotation from annotator: 0
+
+Example 19:
+Text: .@usdnobody @graphicfire I was sure it was fake...until it went too long...no one works that hard on a Poe...just vapid childish PC trash.
+Annotation from annotator: 0
+
+Example 20:
+Text: How do you make a 4 year old cry twice? Wipe your bloody dick on their teddy bear
+Annotation from annotator: 1
+
+Example 21:
+Text: I think it's pretty telling that the 14-year-old boys on Twitter sound exactly like the grown men (and I use that term loosely).
+Annotation from annotator: 0
+
+Example 22:
+Text: What's the worst type of wish you can get. The type from a foundation.
+Annotation from annotator: 0
+
+Example 23:
+Text: Hey @NBAOfficial the refs in Toronto are fucking trash
+Annotation from annotator: 0
+
+Example 24:
+Text: Amazing trickshot! BREAKING NEWS: A woman standing on a basketball rink after getting V.I.P tickets from an overly-calculating player has had an instant miscarriage moments after hearing them say, "And finally, off that fat woman!"
+Annotation from annotator: 0
+
+Example 25:
+Text: Sex is like Algebra I’m really bad at it but Mr Reed keeps forcing me to do it.
+Annotation from annotator: 0
+
+Example 26:
+Text: My heart just went stone fucking cold — feeling apathetic
+Annotation from annotator: 0
+
+Example 27:
+Text: This world has too many heros, what we need is more heroines... Too bad demi levato took them all
+Annotation from annotator: 1
+
+Example 28:
+Text: Look, the only live action Disney remake I want is the Emperor’s New Groove and I want there to be no CGI
+Annotation from annotator: 0
+
+Example 29:
+Text: So my wife admitted to doing some "questionable" things with the cucumbers... ...no wonder they tasted like her sister.
+Annotation from annotator: 0
+
+Example 30:
+Text: While discussing a slightly crappy hostel a friend and I had just booked for our all-female college sports team... Guy friend:: oh my gosh you guys are going to get raped there, and then laughs. It made me feel like rape is something normalized and generally accepted in our society.  Also like it would be our faults if something so horrible happened because we decided to stay there.
+Annotation from annotator: 0
+
+Human-Rated Examples:
+Example 1:
+Text: people keep saying that life always fuck them..... Idk about that cuz whenever i look back it's always my uncle.
+Annotation from annotator: 0
+
+Example 2:
+Text: I know what I just said sounds prejudiced, but I'm really not.
+Annotation from annotator: 0
+
+Example 3:
+Text: who made sandwiches in the middle school cafeteria from <number> <number> jared fogle .
+Annotation from annotator: 0
+
+Example 4:
+Text: Free sex for incels
+People who are against government funded prostitution saying that it is a rape are like the ones who call free healthcare a slavery.
+Annotation from annotator: 1
+
+Example 5:
+Text: Reddit once again thinks being superior is all about looks and nothing to do with intelligence
+Annotation from annotator: 0
+
+Example 6:
+Text: Who is more progressive Rustic Yogi who wants English to be introduced from Nursery or foreign educated Akhilesh who want Eng only from 6th
+Annotation from annotator: 0
+
+Example 7:
+Text: Niggas always playing Madden that shit type boring &#128580;
+Annotation from annotator: 0
+
+Example 8:
+Text: and in humas yahoo hack account there were a bunch of top secret passwords>  i'm sure its all just an innocent misunderstanding -- sure she had to back up those pass words in a hidden yahoo account --with a open back door--
+Annotation from annotator: 0
+
+Example 9:
+Text: What's the difference between Stalin and Trump? Stalin knows how to build a wall.
+Annotation from annotator: 0
+
+Example 10:
+Text: once you go black , you 'll sit in the back
+Annotation from annotator: 2
+
+Example 11:
+Text: and unknown feeling just drove her insane, she started to behave differently because she didn't want to feel like that anymore. She is
+Annotation from annotator: 0
+
+Example 12:
+Text: Humpty Dumpty sat on a wall Because he didn't have a neck to hang himself from
+Annotation from annotator: 0
+
+Example 13:
+Text: Kenny done fucked around and got crazy with the visuals... well I'll be
+Annotation from annotator: 0
+
+Example 14:
+Text: I am no longer a 26 year old virgin :)
+I am now officially a 27 year old virgin.
+Annotation from annotator: 0
+
+Example 15:
+Text: What are two things black men and communism have in common? Neither of them work and eventually end up starving people
+Annotation from annotator: 2
+
+Example 16:
+Text: Typically mine are fairly low. They dropped especially when they realized I wasn't bothering to engage many blocked users.
+Annotation from annotator: 0
+
+Example 17:
+Text: Milking around the world Germany milks cows
+
+India milks goats
+
+Italy milks sheep
+
+And the US milks 9/11
+Annotation from annotator: 0
+
+Example 18:
+Text: “The discovery of what is true and the practice of that which is good are the two most important aims of philosophy.” 
+― Voltaire
+Annotation from annotator: 0
+
+Example 19:
+Text: Gender is a social construct. You're born with genitalia, the rest is up to you. Pink IS for Boys. Soccer IS for girls. #feminism
+Annotation from annotator: 0
+
+Example 20:
+Text: The black gene always comes out to be the dominant gene .
+Annotation from annotator: 0
+
+Example 21:
+Text: Team @aprillajune IS NOW ON GAB, follow her @aprillajune
+@georgeangus @oldschoolvet @Jorge2 @ravicrux @jimlosi @bogme @horrorqueen @the_impolitic 
+Annotation from annotator: 0
+
+Example 22:
+Text: What's the past tense of e​at? It's `I ha​te you autogay`
+Annotation from annotator: 0
+
+Example 23:
+Text: Half Italian on my father 's side , my mother 's white but was adopted so half of me is a mystery .
+Annotation from annotator: 0
+
+Example 24:
+Text: Normie of the Day
+Our normie of the day is /u/lemonbox63 who commented on askreddit bringing normies over here.
+Annotation from annotator: 0
+
+Example 25:
+Text: Joke: 200,000 Salvadorans must leave
+Woke: Those who let in the Salvadorans must leave
+Annotation from annotator: 0
+
+Example 26:
+Text: a reminder - RTs are not endorsements.
+Annotation from annotator: 0
+
+Example 27:
+Text: How many babies does it take to paint a wall? Depends how hard you can throw
+Annotation from annotator: 0
+
+Example 28:
+Text: links body must have been fucking obliterated 100 years ago theres no way you fight a hell beast and die in one piece
+Annotation from annotator: 0
+
+Example 29:
+Text: IT IS NOT A BLOCK BOT IT IS A TOOL TO SHARE BLOCK LISTS, THIS PARTICULAR ONE BEING GENERATED VIA THE API AND COMPARISONS FFS. @alexlifschitz
+Annotation from annotator: 0
+
+Example 30:
+Text: [Not a joke] I’m not sure if this is some stupid fucking prank or what, but I’d really like for this to not be the most retarded subreddit with the most idiotic mods on all of Reddit. 
+
+First we can’t swear in a sub where pretty much every post is racist, sexist, or about pedophilia or incest. Then we have no fuckin choice but to swear.
+
+Fix your fucking sub or I, and probably a lot more people, will just make our way to the door and step over the big pile of shit which is this sub rn.
+
+Annotation from annotator: 0
+
+Target Example:
+Text: #FollowAttack @MemorialRifleRange @Catspajamas @Aphasia @daph @littlebackstory @Laughing_Ginger @Cowboyshepherd @Bikers4Liberty @slabside45 @404 @LionsOmega @dandylionsummer
+Annotation from annotator:

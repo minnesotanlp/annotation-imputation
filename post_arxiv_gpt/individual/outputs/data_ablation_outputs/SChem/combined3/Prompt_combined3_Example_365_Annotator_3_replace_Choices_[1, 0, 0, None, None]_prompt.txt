@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It is distracting to pin everyone in an admin team on a discord server.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 4
+
+Example 3:
+Text: You shouldn't have to stay at a place you don't like.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is wrong to value a substance more than your significant other
+Annotation from annotator: 4
+
+Example 5:
+Text: It's wrong to think people who can't pay for healthcare don't deserve it because everyone deserves healthcare.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's wrong to talk to your friends about sensitive topics.
+Annotation from annotator: 2
+
+Example 7:
+Text: You shoulld not worry about others being jealous when posting things on facebook.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's not okay to have to rely on special tools when they aren't really needed.
+Annotation from annotator: 2
+
+Example 9:
+Text: It is good to fill out your own paperwork.
+Annotation from annotator: 4
+
+Example 10:
+Text: You don't need to accept apologies if you're not ready to move on
+Annotation from annotator: 3
+
+Example 11:
+Text: It's wrong to be sick of life.
+Annotation from annotator: 2
+
+Example 12:
+Text: If someone forbids you from doing something, you should respect them.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't stop suddenly when someone is right behind you.
+Annotation from annotator: 4
+
+Example 14:
+Text: Is wrong to be a pervert
+Annotation from annotator: 4
+
+Example 15:
+Text: It's bad to be divorced with children.
+Annotation from annotator: 1
+
+Example 16:
+Text: It's wrong to grow apart from your partner.
+Annotation from annotator: 2
+
+Example 17:
+Text: It is okay to know what you want from a partner.
+Annotation from annotator: 4
+
+Example 18:
+Text: People shouldn't assume something's not a big deal without hearing it through first.
+Annotation from annotator: 4
+
+Example 19:
+Text: You should always try to mediate your parent's arguments.
+Annotation from annotator: 0
+
+Example 20:
+Text: You should not get angry when your chronically ill relative needs help.
+Annotation from annotator: 4
+
+Example 21:
+Text: You shouldn't be with someone you don't love.
+Annotation from annotator: 4
+
+Example 22:
+Text: It is good to give your kids life advice.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's not okay to teach kids things they aren't ready for.
+Annotation from annotator: 3
+
+Example 24:
+Text: Families should try to work out problems with each other.
+Annotation from annotator: 4
+
+Example 25:
+Text: You should treat a person with a disability the same as you would anyone else.
+Annotation from annotator: 4
+
+Example 26:
+Text: Couple should work together to solve problems
+Annotation from annotator: 4
+
+Example 27:
+Text: It's wrong to want to hide who you really are.
+Annotation from annotator: 4
+
+Example 28:
+Text: It’s important to have hobbies.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay to not know how to drive.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's OK not to take life too seriously.
+Annotation from annotator: 3
+
+Human-rated Examples:
+Example 1:
+Text: You shouldn't play your music really loudly because it's rude and annoying.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to show solidarity with family members in the face of adversity.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's expected that families will not get along well with their in-laws.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's nice to represent change in your generation.
+Annotation from annotator: 4
+
+Example 5:
+Text: It is common for there to be conflicts with your in-laws.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's wrong for a parent to do things to make their children loose respect of them.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't rat out other people.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's not okay to refuse the food someone cooks for you.
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't date a bad partner.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's normal for married couples to have sexual relations.
+Annotation from annotator: 4
+
+Example 11:
+Text: You shouldn't be crazy about things.
+Annotation from annotator: 4
+
+Example 12:
+Text: It's expected you get into a fight if you're being racist around people
+Annotation from annotator: 2
+
+Example 13:
+Text: It's bad to make big purchases behind your significant other's back.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's okay to show your disgruntlement with what someone does.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 4
+
+Example 16:
+Text: You shouldn't judge a whole race of people by the actions of a few people.
+Annotation from annotator: 4
+
+Example 17:
+Text: Adults are expected to bathe daily.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's understandable to be uncomfortable with people that are different than you.
+Annotation from annotator: 1
+
+Example 19:
+Text: It's wrong to not understand sometimes peoples situation isn't the best.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's good to avoid disturbing animals in the wild.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's good to have something in your life that you love with every fiber of your being.
+Annotation from annotator: 4
+
+Example 22:
+Text: You don't owe a partner an explanation of past relationships.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good to get a job after high school for a while to learn some responsibility.
+Annotation from annotator: 2
+
+Example 24:
+Text: If you are uncomfortable with your partner feeding your kids, you should not let your partner watch your children.
+Annotation from annotator: 4
+
+Example 25:
+Text: Not everyone wants their images on social media, so you should respect it if they ask you not to share them.
+Annotation from annotator: 4
+
+Example 26:
+Text: You should care about your siblings.
+Annotation from annotator: 4
+
+Example 27:
+Text: It is wrong to take video games too seriously.
+Annotation from annotator: 4
+
+Example 28:
+Text: People should follow the rules.
+Annotation from annotator: 3
+
+Example 29:
+Text: You should be accepting of having a half-sibling
+Annotation from annotator: 3
+
+Example 30:
+Text: You should never do anything that may cause your children to despise you.
+Annotation from annotator: 4
+
+Target Example:
+Text: You should treat employees well
+Annotation from annotator:

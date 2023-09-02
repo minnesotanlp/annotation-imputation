@@ -1,0 +1,50 @@
+Here's a description of a dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+Given the previous dataset description, your goal is to predict how one of the annotators of the previous dataset would annotate an example from that dataset. You will be given 4 samples of how that particular annotator has responded to other examples and 6 sample of how others have annotated the target example, and will then complete the prediction for the target example as that annotator would.
+
+Here's the samples of how the particular annotator has responded to other examples:
+1.
+EXAMPLE: And yes, he's ticked me off a few times, but unless Me runs for president and wins (lol forever) I'm GOING to disagree with some of his decisions, due to his unfortunate handicap of NOT BEING ME.  For now, he's making my enemies mad and allies semihappy. AKA more than ANY politician has done for me in my life!  8/10 would ABSOLUTELY vote for again.  #PresidentTrump
+ANSWER: 0
+
+2.
+EXAMPLE: God Bless America and #NeverForget   I was there so I never will 🇺🇸🇺🇸🇺🇸
+ANSWER: 0
+
+3.
+EXAMPLE: Sorry I haven't engaged here recently #GabFam. Medical problems persist. I was hit by another bout of diverticulitis, followed by a kidney stone. It was the most intense pain I've ever felt. I got myself to the ER and almost passed out while I was signing in. Have you ever had a kidney stone? How did you deal with it?
+ANSWER: 0
+
+4.
+EXAMPLE: Seems only fair that lefties who enjoy harassing ICE agents at home get equal treatment.
+ANSWER: 1
+
+Here's the samples of how others have annotated the target example:
+1.
+EXAMPLE: Awesome! Everyday heros take the time out of their own schedules to make others lives better. kudos
+ANSWER: 0
+
+2.
+EXAMPLE: Awesome! Everyday heros take the time out of their own schedules to make others lives better. kudos
+ANSWER: 0
+
+3.
+EXAMPLE: Awesome! Everyday heros take the time out of their own schedules to make others lives better. kudos
+ANSWER: 0
+
+4.
+EXAMPLE: Awesome! Everyday heros take the time out of their own schedules to make others lives better. kudos
+ANSWER: 0
+
+5.
+EXAMPLE: Awesome! Everyday heros take the time out of their own schedules to make others lives better. kudos
+ANSWER: 0
+
+6.
+EXAMPLE: Awesome! Everyday heros take the time out of their own schedules to make others lives better. kudos
+ANSWER: 0
+
+How would the particular annotator annotate the target example?
+EXAMPLE: Awesome! Everyday heros take the time out of their own schedules to make others lives better. kudos
+ANSWER:

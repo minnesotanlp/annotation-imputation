@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's good to be famous for things.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's okay to be frustrated when your roommate leaves all the chores to you.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's okay to want to spend and much time as you can with a significant other.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's okay to be pissed at someone you see stealing money.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is ok to ask for help if you need help parking.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should not expect others to pay for someone else's mistake.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is wrong to make someone leave their own party.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to be compassionate with yourself.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's wrong to take something you don't want
+Annotation from annotator: 3
+
+Example 10:
+Text: You shouldn't ask your family to donate money
+Annotation from annotator: 2
+
+Example 11:
+Text: You should always go outside to play when you have time.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's understandable to be upset a beloved pet is missing.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't rape people.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's loathsome to marry someone for their money.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's encouraged you go to the police if you're being harassed
+Annotation from annotator: 3
+
+Example 16:
+Text: If you don't care about something, you should be honest about it.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's not okay to put to much meaning in something simple.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's understandable to want people to pay their fare share  of things.
+Annotation from annotator: 3
+
+Example 19:
+Text: Friends are expected to be loyal.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's understandable to want to monitor employees behavior.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's encouraged you RSVP when you get an invitation somewhere
+Annotation from annotator: 2
+
+Example 22:
+Text: It's wrong to love someone that will never love you back.
+Annotation from annotator: 2
+
+Example 23:
+Text: It is good to have a strong relationship with your grandparents.
+Annotation from annotator: 3
+
+Example 24:
+Text: It is okay to not want to go to a party.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's good to find a job that one enjoys.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is good to honor the sacrifices of others.
+Annotation from annotator: 3
+
+Example 27:
+Text: You're discouraged from hating others.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's bad to purposely ruin someone's life.
+Annotation from annotator: 3
+
+Example 29:
+Text: You should attend memorial services for loved ones.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's wrong to sell people.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should keep trying new things until you find what you want to do.
+Annotation from annotator:

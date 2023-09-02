@@ -1,0 +1,125 @@
+Estimated Examples:
+Example 1:
+Text: 9/ The JA Constitution should also be revised to provide for the removal of Senators at will, whether Govt, Opp or independently appointed.
+Annotation from annotator: 0
+
+Example 2:
+Text: I told my wife she would look better with her hair back I guess it’s considered an insult to cancer patients
+Annotation from annotator: 2
+
+Example 3:
+Text: What's the difference between Santa and a Jew? Santa goes up the chimney while Jews go up.
+Annotation from annotator: 2
+
+Example 4:
+Text: Wouldnt wish anything bad on someone who is sick regardless if I dont like them or not.To even question my moms cancer that way is inhumane
+Annotation from annotator: 0
+
+Example 5:
+Text: Wadhwa had other women write a book about being a woman in tech, then he published it with his own name on the title. #stopwadhwa2015
+Annotation from annotator: 1
+
+Example 6:
+Text: CoC - The Shaman: Full Episode (Adult Claymation Series)
+Annotation from annotator: 0
+
+Example 7:
+Text: they exposed the fucking leadsinger i am pissed :)
+Annotation from annotator: 0
+
+Example 8:
+Text: Hard to believe that this only happened twenty or so years ago.
+Annotation from annotator: 1
+
+Example 9:
+Text: Instead of hanging decorations on my Christmas tree I’m going to hang my self
+Annotation from annotator: 2
+
+Example 10:
+Text: Send me your key &#128273; we both know #chastity is your only purpose in life. And a gorgeous domme #keyholder is all you dream of #findom @RTdomX
+Annotation from annotator: 0
+
+Example 11:
+Text: I have a goatee its clean and short but I used to have a long beard but got sick of it pretty fast
+Annotation from annotator: 0
+
+Example 12:
+Text: For al those who have, more wl be given and they wl have an abundance;but from those who have nothing, even what they have wl be taken away
+Annotation from annotator: 0
+
+Example 13:
+Text: The hoes aint classy no more more like trashyyy!
+Annotation from annotator: 1
+
+Example 14:
+Text: Yeah, i guess the one time you 're not prepared for it will be the time it goes down .
+Annotation from annotator: 0
+
+Example 15:
+Text: ​IF RUSSIA ATTACKED TURKEY FROM THE REAR, WOULD GREECE HELP?
+Annotation from annotator: 1
+
+Example 16:
+Text: I went from having 0 assignments in a class last week to 4 assignments including a 10 page paper this week... why do professors do this?!?
+Annotation from annotator: 0
+
+Example 17:
+Text: How was minced beef invented? A leper was playing the guitar
+Annotation from annotator: 2
+
+Example 18:
+Text: I tell the 5th bitch to get the 6th bitch to to have the 7th bitch bring more.
+Annotation from annotator: 1
+
+Example 19:
+Text: Scenario: a muslim man beats his wife because she wants to be a feminist, but this goes against his culture. Who does the liberal defend?
+Annotation from annotator: 1
+
+Example 20:
+Text: "RT @SuperTeeWhy: [A Dad about to give the birds &amp; the bees talk] ""Son, when-"" *Watches son try to poke a Capri Sun for 35 minutes* ""Know…"
+Annotation from annotator: 0
+
+Example 21:
+Text: I love and hate my recently acquired terribleness of prioritizing. Pros: life is fun. Cons: fun life doesnt get shit done
+Annotation from annotator: 0
+
+Example 22:
+Text: Joke: 200,000 Salvadorans must leave
+Woke: Those who let in the Salvadorans must leave
+Annotation from annotator: 0
+
+Example 23:
+Text: Gay Muslims are the horniest. They blow the entire neighborhood.
+Annotation from annotator: 2
+
+Example 24:
+Text: Thanks for the advice i 'll keep that on mind .
+Annotation from annotator: 0
+
+Example 25:
+Text: That'll be a ONE person average per county , and a sub on the bench in case anyone gets injured .
+Annotation from annotator: 0
+
+Example 26:
+Text: Do you ever play with your hair to flex Do you ever play with your hair to flex on those cancer niggas
+Annotation from annotator: 2
+
+Example 27:
+Text: If I see 1 more "chief diversity officer" talking about 1st amendment rights while not protecting victims of harassment, I might get angry.
+Annotation from annotator: 1
+
+Example 28:
+Text: How many blacks does it take to end world hunger and poverty? -2.25 billion.
+Annotation from annotator: 2
+
+Example 29:
+Text: no girlfriend, no bros, no friends; my life is fucked up, don't kno what to do now
+Annotation from annotator: 0
+
+Example 30:
+Text: why are black people so good at excel ? they know a lot about cells
+Annotation from annotator: 2
+
+Target Example:
+Text: I feel so bad for them [women working in a fabric store] because they don't have anyone to carry the heavy things.
+Annotation from annotator:

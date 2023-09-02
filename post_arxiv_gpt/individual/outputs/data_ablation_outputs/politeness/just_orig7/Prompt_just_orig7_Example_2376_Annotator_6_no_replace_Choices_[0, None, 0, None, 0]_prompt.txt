@@ -1,0 +1,127 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Correct Examples:
+Example 1:
+Text: I tried to create a similar map for Canada but couldn't get a usable output from the site you used for the Australia map. Could you create a Canadian one?
+Annotation from annotator: 15
+
+Example 2:
+Text: So you see KV, just in case you missed the point, you are in the naughty chair in the naughty corner because of your own baloney, baloney that you bring yourself.  Now, didn't you like that story?
+Annotation from annotator: 1
+
+Example 3:
+Text: Woohoo--279 hits! Hey Scientist, is that an all-time low?
+Annotation from annotator: 9
+
+Example 4:
+Text: Right, I was demonstrating that one could merge <person> with <person>, that option would not appear on players that were not Dual players.  Did anything actually break?
+Annotation from annotator: 10
+
+Example 5:
+Text: I'm gonna go ahead and do it. Thoughts before I proceed?
+Annotation from annotator: 15
+
+Example 6:
+Text: Steineresque! Shall I have a go, or will you?
+Annotation from annotator: 17
+
+Example 7:
+Text: Bureaucrats require a higher level of trust than administrators. Are you actually familiar with what these tasks entail?
+Annotation from annotator: 7
+
+Example 8:
+Text: This is helpful for automatized transfer scripts. By the way, did I get the location tag right on <url> :-) ?
+Annotation from annotator: 19
+
+Example 9:
+Text: Wow! How did you find this?
+Annotation from annotator: 18
+
+Example 10:
+Text: Thanks from me, too &mdash; cheers! I don't suppose you could put copyright and source information on those images, though?
+Annotation from annotator: 20
+
+Example 11:
+Text: Hi. What was wrong with the Autamata page?
+Annotation from annotator: 14
+
+Example 12:
+Text: Great job. Will it be done by next week?
+Annotation from annotator: 20
+
+Example 13:
+Text: Could you clarify this? You're claiming that Betacommand knew before drama exploded onwiki that you were Pickbothmanlol, but did not share that with the community?
+Annotation from annotator: 12
+
+Example 14:
+Text: That's reason to expand the treatment to other painters, not to blank this one.  And you didn't think that there would be more articles on van Gogh paintings?
+Annotation from annotator: 8
+
+Example 15:
+Text: Girne. Sen?
+Annotation from annotator: 12
+
+Example 16:
+Text: Is the new draft at <url> OK with you? Do you have any comments or suggestions?
+Annotation from annotator: 17
+
+Example 17:
+Text: I would like to nominate you for adminship.  Would you accept now?
+Annotation from annotator: 16
+
+Example 18:
+Text: Will you accept that by renominating the article last night you were essentially discarding Delldot's and my previous review, as well as sidestepping Leevanjackson as the primary contributor to that article? If not, why?
+Annotation from annotator: 15
+
+Example 19:
+Text: You're still missing the point. How do the two sites meet <url>?
+Annotation from annotator: 5
+
+Example 20:
+Text: Awesome! What was I doing wrong in the Italian films?
+Annotation from annotator: 17
+
+Example 21:
+Text: No problem. Have you heard anything new about HRE?
+Annotation from annotator: 18
+
+Example 22:
+Text: its - it's - its - Sheesh !  Thanks for fixing :-)  Scary, huh?
+Annotation from annotator: 16
+
+Example 23:
+Text: What about the whole "Heroes as personal feifdom" trip? Or are you ok with that?
+Annotation from annotator: 15
+
+Example 24:
+Text: I look forward to your genre plan. What do you have in mind?
+Annotation from annotator: 18
+
+Example 25:
+Text: That is the standard ARBMAC (Arbitration related to some Macedonian and other Balkan countries) warning.  Still interested in accepting the deal?
+Annotation from annotator: 12
+
+Example 26:
+Text: Your obfuscation of the real issue is disengenuous; I'm rapidly losing respect for you. Is it not Wikipedia's mission to scornfully snub vandalism, which is done instantly, agressively, mercilessly?
+Annotation from annotator: 2
+
+Example 27:
+Text: I don't know, but that doesn't make any sense to me.  What do you think?
+Annotation from annotator: 17
+
+Example 28:
+Text: I think we're going to just have to agree to disagree on whether it is a sub genre or fusion then! Can we at least agree to leave the three genres on Dookie as they are?
+Annotation from annotator: 15
+
+Example 29:
+Text: I see you reverted another image move back to below the accompanying text. Your summary was "add to discussion" - can you explain?
+Annotation from annotator: 14
+
+Example 30:
+Text: Interesting -- strong support promised without any reference to <url>, <url> and <url>?   Not good form, eh?
+Annotation from annotator: 17
+
+Target Example:
+Text: Do you think we're good to go with the proposal, maybe later tonight, or tomorrow? Any other problems with the proposal as it stands?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

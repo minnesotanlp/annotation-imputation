@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7QB98H4ECbPy2L1FNLjhnBIyO5kW0",
+    "object": "chat.completion",
+    "created": 1686473730,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 642,
+        "completion_tokens": 49,
+        "total_tokens": 691
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Based on the previous examples, annotator B seems to label text as not offensive (0) more often than offensive (2). Therefore, the most likely annotation for this example by annotator B would be 0.0 (not offensive)."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

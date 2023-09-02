@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's wrong to think people who can't pay for healthcare don't deserve it because everyone deserves healthcare.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's wrong to do drugs with your partner.
+Annotation from annotator: 3
+
+Example 3:
+Text: Relationships are expected to have clear communication.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's good to show solidarity with family members in the face of adversity.
+Annotation from annotator: 3
+
+Example 5:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's okay to say the n word if it's in a textbook.
+Annotation from annotator: 2
+
+Example 7:
+Text: You should trust others to do things for you without getting nervous about it.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's wise to never let yourself get embarrassed by your significant other.
+Annotation from annotator: 3
+
+Example 9:
+Text: Throwing unused cardboard in the garbage is wasteful.
+Annotation from annotator: 2
+
+Example 10:
+Text: Businesses should treat customers with courtesy if they expect them to return.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's important to respect the culture of other people.
+Annotation from annotator: 3
+
+Example 12:
+Text: You shouldn't walk around in the rain, you might get sick.
+Annotation from annotator: 2
+
+Example 13:
+Text: You shouldn't be bitter and salty about petty things.
+Annotation from annotator: 2
+
+Example 14:
+Text: It's good for a mom to care about their children.
+Annotation from annotator: 4
+
+Example 15:
+Text: You shouldn't scare your coworkers.
+Annotation from annotator: 3
+
+Example 16:
+Text: You should thank someone when they invite tou to thier wedding.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is wrong to value a substance more than your significant other
+Annotation from annotator: 3
+
+Example 18:
+Text: It is important for both partners to use birth control items.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's rude for people to give you a fake name because they can't learn your real one.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is okay to show emotions.
+Annotation from annotator: 2
+
+Example 21:
+Text: People shouldn't assume it's okay to take something just because it's not nailed down.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's not okay to expect more than a person can give.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't play pranks on people.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's OK to be wrong.
+Annotation from annotator: 2
+
+Example 25:
+Text: You should be able to give criticism to your friends.
+Annotation from annotator: 2
+
+Example 26:
+Text: You don't have to let other people beat you in a competition.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's bad to smoke.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's important to have trust in a romantic relationship in order to have a healthy relationship.
+Annotation from annotator: 3
+
+Example 29:
+Text: You have to do whatever is necessary in an emergency situation.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's responsible to take part in rearing a younger sibling.
+Annotation from annotator: 3
+
+Target Example:
+Text: If you don't want to crash, you shouldn't drive recklessly.
+Annotation from annotator:

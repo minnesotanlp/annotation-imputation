@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I once ate a watermelon out of a black mans ass
+Annotation from annotator: 0
+
+Example 2:
+Text: Is he too stupid to see what a hypocrite he is? 
+Annotation from annotator: 0
+
+Example 3:
+Text: Pat Buchanan: Why the Authoritarian Right Is Rising 
+Annotation from annotator: 0
+
+Example 4:
+Text: We need some 'real' Republicans in office.   President Trump can't solve the problem of high health insurance costs with these traitors blocking his efforts.  Everyone needs to VOTE REPUBLICAN in the upcoming primaries.
+Annotation from annotator: 0
+
+Example 5:
+Text: Man i wish they rebooted Casper lol
+Annotation from annotator: 0
+
+Example 6:
+Text: I like using Gab and the fight against the globalists but I'll be unfollowing and muting racists with posts of a questionable nature.
+Annotation from annotator: 0
+
+Example 7:
+Text: Relax and say what you like here, everyone else does :-)
+Annotation from annotator: 0
+
+Example 8:
+Text: Some of my co-workers are going to DC tomorrow to protest. I can't reason with them and they are so sad. They think the world is coming to an end and it's so bad.  I try not to talk to them about this, you can't change them. It's kinda funny to see them this way.
+Annotation from annotator: 0
+
+Example 9:
+Text: Cut off your nose to spite your face?  No thanks.  Liberty, once lost, will be gone forever.
+Annotation from annotator: 0
+
+Example 10:
+Text: "With all roads closed for security reasons how did DUMP TRUCK get there? TRAIN ENGINE RAMMED BY TRUCK IN APPARENT DERAILMENT ATTEMPT"   Jerome Corsi
+Annotation from annotator: 0
+
+Example 11:
+Text: I just had my first ever Jack in the Box hamburger and I can honestly say I would be perfectly fine if I never had one again. 😐
+Annotation from annotator: 0
+
+Example 12:
+Text: RED ALERT we're down to the wire!  White House petition expires in 10 hours!  Pardon Julian Assange - SHARE SHARE SHARE this with all social channels.  https://sites.google.com/view/10hrspardonjulianassange
+Annotation from annotator: 0
+
+Example 13:
+Text: Does anyone have the full content of the Pax/Jokeocracy Twitter flameout where he bashed all the journalists? The archive of Weev's Storify post requires a button click which doesn't work in the archive.
+Annotation from annotator: 0
+
+Example 14:
+Text: You know I have other photos right? I'm saving them for a special occasion, dipshit.
+Annotation from annotator: 0
+
+Example 15:
+Text: "Political correctness", Islam's most powerful weapon...
+Annotation from annotator: 0
+
+Example 16:
+Text: Critical Thinking! Another lost art!
+Annotation from annotator: 0
+
+Example 17:
+Text: Definitely the most fun. Looking forward to his UK visit.
+Annotation from annotator: 0
+
+Example 18:
+Text: I just want nice weather and no dead trees in NJ.
+Annotation from annotator: 0
+
+Example 19:
+Text: Meet Holt The Dolt attacked Infowars
+Annotation from annotator: 0
+
+Example 20:
+Text: LOL, I vaguely remember the "aussie incident" : }....  ( memory ain't the best these days).... would be good to re upload the old stuff for the younger crew!  Some classic stuff I thought was lost forever!
+Annotation from annotator: 0
+
+Example 21:
+Text: Liberal Calls In & Forced To Stand His Ground - ALEX JONES INFOWARS https://youtu.be/G-g3hfjRxSc
+Annotation from annotator: 0
+
+Example 22:
+Text: Sadly...true. I think (((progressive))) momentum hasn't turned, but has stalled though. Have faith. (Can't say hope anymore, Obama ruined it for me)
+Annotation from annotator: 0
+
+Example 23:
+Text: Anyone can marry anyone, what gays want is to have that recognized by Church and State, and no one owes them that. 
+Annotation from annotator: 0
+
+Example 24:
+Text: Gab has a Tor network (Onion Browser) address does it not? 
+Annotation from annotator: 0
+
+Example 25:
+Text: Stop imposing your ignorant Christian morality on other people, bigot.
+Annotation from annotator: 1
+
+Example 26:
+Text: There is absolutely nothing wrong with sport hunting. These hunters and the tags they pay for are what supports wild life conservation efforts. Tags are sold for animals that benefit the herd when removed, hunters aren't just shooting any random one they see.  Shitlib whining on the internet isn't out there saving any animals.
+Annotation from annotator: 0
+
+Example 27:
+Text: Deep State Unmasked: State Department on Hidden Cam 
+Annotation from annotator: 0
+
+Example 28:
+Text: Do your small part to disrupt the objectives of liberals.  https://www.infowars.com/video-come-and-take-it-gi...
+Annotation from annotator: 0
+
+Example 29:
+Text: New Mexico jihadist case getting weirder. Child abuse charges dropped because of a 'screw up'. Judge says there was “a complete failure to follow proper procedures in prosecuting the case” by the DA. https://www.infowars.com/child-abuse-charges-dropp...
+Annotation from annotator: 0
+
+Example 30:
+Text: And...and...ALL of the EU Libtards  think  that Trump is The Dictatorship...well now...it seems you all are living under a Communistic Government .
+Annotation from annotator: 0
+
+Target Example:
+Text: Oy vey, that dating profile was just made by anti semites, goy
+Annotation from annotator:

@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: It's comforting to go to a first time experience with a friend.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's expected that you obey traffic laws while driving a car.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's okay to take your time mourning.
+Annotation from annotator: 3
+
+Example 4:
+Text: You should thank someone when they give you a gift.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's expected you set boundaries when people start crossing a line
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to catch your own food.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's wrong to cheat on one's partner.
+Annotation from annotator: 3
+
+Example 8:
+Text: You should always try to listen to your parents.
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't spend so much time on the phone.
+Annotation from annotator: 2
+
+Example 10:
+Text: It can be difficult to control what you do subconsciously.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to exercise so you can lose weight.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's rude to imply that food served to you is not tasty.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should take action immediately when you get a call for help.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's understandable to find a new career challenging.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's understandable to face financial uncertainty.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's good to want a clear conscience.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's wrong to want something horrible to happen.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's allowed to try to find puppies a good home.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's good to be pleased about work you have done.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's not okay to set yourself up where their could be an argument with friends.
+Annotation from annotator: 2
+
+Example 21:
+Text: You shouldn't leave your future up to fate.
+Annotation from annotator: 2
+
+Example 22:
+Text: It is expected that you put time and effort into your work.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's understandable to want to have a good time at an event.
+Annotation from annotator: 3
+
+Example 24:
+Text: It is bad to poop in the bathtub or shower
+Annotation from annotator: 3
+
+Example 25:
+Text: It's rude to go over to someone's house without being invited
+Annotation from annotator: 3
+
+Example 26:
+Text: It's wrong to tell others what to do.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't leave a senior with dementia by themselves because they could hurt themselves.
+Annotation from annotator: 3
+
+Example 28:
+Text: It is okay to be busy.
+Annotation from annotator: 2
+
+Example 29:
+Text: You should be upset when someone chews you out.
+Annotation from annotator: 3
+
+Example 30:
+Text: It is wrong to doubt your relationship.
+Annotation from annotator: 2
+
+Human-Rated Examples:
+Example 1:
+Text: It's good to put in the work to achieve a goal.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to accomplish your goals.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's wrong to be indecisive
+Annotation from annotator: 2
+
+Example 4:
+Text: It's rude to force your significant other to watch a movie they aren't interested in.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's wrong to go against your parent's wishes.
+Annotation from annotator: 2
+
+Example 6:
+Text: It is bad to tamper with hotel property
+Annotation from annotator: 3
+
+Example 7:
+Text: It's wrong to kill insects that are helpful to your plants.
+Annotation from annotator: 2
+
+Example 8:
+Text: You should be careful not to stain your clothes when you are applying aloe ointment.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is bad to damage your leg.
+Annotation from annotator: 4
+
+Example 10:
+Text: You should always be observant of your surroundings.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's important to express your emotions respectfully
+Annotation from annotator: 3
+
+Example 12:
+Text: It's okay to be grateful for comfortable pants.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't shun a family member's significant other because of their nationality.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's understandable if you're hurt when your spouse wants to divorce you.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to be relieved about things when something turns out not to be serious.
+Annotation from annotator: 3
+
+Example 16:
+Text: You have the right to live your life in any way you find appealing.
+Annotation from annotator: 3
+
+Example 17:
+Text: You should call the police on stalkers.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's frowned upon to commit fraud.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to turn your homework in on time.
+Annotation from annotator: 4
+
+Example 20:
+Text: You should be well-practiced before you go to take your driver's license test.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should tell your partner if you feel you're being left out.
+Annotation from annotator: 3
+
+Example 22:
+Text: You shouldn't follow certain family members on social media.
+Annotation from annotator: 1
+
+Example 23:
+Text: You shouldn't move when you're happy in your home.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't be friends with someone of the opposite sex if you're married.
+Annotation from annotator: 1
+
+Example 25:
+Text: It's rude to stare at someone who is differently abled.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's good to suggest help to people with depression.
+Annotation from annotator: 2
+
+Example 27:
+Text: It's good to have something to help you keep your bearings.
+Annotation from annotator: 2
+
+Example 28:
+Text: It is important to get rid of things that do not make you happy.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's rude to ignore a friend at your front door.
+Annotation from annotator: 2
+
+Example 30:
+Text: It is bad to make false claims and mislead others
+Annotation from annotator: 3
+
+Target Example:
+Text: It's allowed to play certain riske' games at some parties.
+Annotation from annotator:

@@ -1,0 +1,260 @@
+Estimated Examples:
+Example 1:
+Text: HEY GUYS we're gonna host a Rick and Morty re-watch Skype Call. Message me to be added to the group! 2-3 episodes a night, 10PM EST
+Annotation from annotator: 0
+
+Example 2:
+Text: #katdior #sexybrunette charleroi #under nasty #unexpected #please blowjobs https://t.co/e3vtRmBdC1
+Annotation from annotator: 1
+
+Example 3:
+Text: YouTube - & #x202a ; Black Male Rapes 10 yr old Deaf Girl , Claims He Thought She was her Mother & #x202c ; & rlm ; YouTube - & #x202a ; Robbers shoot customer & #x202c ; & rlm ; YouTube - & #x202a ; String of robberies by Urban Youths continue in Lincoln , NE & #x202c ; & rlm ;
+Annotation from annotator: 2
+
+Example 4:
+Text: You look normal.
+Annotation from annotator: 2
+
+Example 5:
+Text: Is it where they grade you based on how cultural marxist you are or do they allow people their own views ?
+Annotation from annotator: 2
+
+Example 6:
+Text: How many Puerto Ricans does it take to change a light bulb? Guess we'll find out in 6 months
+Annotation from annotator: 2
+
+Example 7:
+Text: My dad told me my teeth are yellow
+The guy just keeps putting me down
+Annotation from annotator: 2
+
+Example 8:
+Text: I want a tattoo so fucking bad but I just can't figure out the placement smh
+Annotation from annotator: 0
+
+Example 9:
+Text: Makeup for Disneyland should be simple and effortless but i aint no where near simple and I know imma beat this face &amp; regret it
+Annotation from annotator: 0
+
+Example 10:
+Text: Talking about prom... Cam: have you ordered a croissant?&#129360; She's an idiot&#128517;&#128557; @camwowzaa
+Annotation from annotator: 2
+
+Example 11:
+Text: I like my women like I like my wine 7 years old and locked in my cellar
+Annotation from annotator: 2
+
+Example 12:
+Text: Why did the feminist cross the road? What was she doing outside the kitchen any way!
+Annotation from annotator: 2
+
+Example 13:
+Text: thats just stupid to say that , because you have probably heard maybe 10-20 artists and those are the * * * * * * s on TV and stuff. there are tons of white , non-wigerish rappers that dont `` scream '' about something
+Annotation from annotator: 2
+
+Example 14:
+Text: how do you make childbirth easier for black women ? lure the little nigger out with a kfc <allcaps> bucket
+Annotation from annotator: 2
+
+Example 15:
+Text: #KoreanRonaldo Son Heung Min is a fucking BALLER #Spurs #COYS
+Annotation from annotator: 2
+
+Example 16:
+Text: Which event triggers Liberal SJWs to a higher REEEEE degree?
+Annotation from annotator: 2
+
+Example 17:
+Text: so , a tall <allcaps> terrorist went to bomb a grande <allcaps> concert . <repeat> . <repeat> nd venti <allcaps> died !
+Annotation from annotator: 2
+
+Example 18:
+Text: Oh, those guys were just trying to holler at you!
+Annotation from annotator: 0
+
+Example 19:
+Text: "These are the same people who give no fucks for the ~consequences~ of their ""messing up"" and will take no responsibility over that. Fuck 'em"
+Annotation from annotator: 2
+
+Example 20:
+Text: As a brit my knowledge of american law is somewhat lacking but even i know that this holder groid has committed treason
+Annotation from annotator: 0
+
+Example 21:
+Text: Seasons change &amp; stay th same I know my rhythm I know my name Positive thinking- something to gain After you read this you'll be th same
+Annotation from annotator: 0
+
+Example 22:
+Text: why did the polish man cross the road ? because the cunt has got the fucking chicken 's job as well .
+Annotation from annotator: 2
+
+Example 23:
+Text: "@drraghnall Yes. It's not like the rest of the world wakes up every morning thinking, ""I wonder what's going on in the US today?"""
+Annotation from annotator: 2
+
+Example 24:
+Text: Earth's Dark Sector Defense is incredibly easy to get money. 13,000 credits for just 5 waves. Can be done in less than 5 minutes.
+Annotation from annotator: 0
+
+Example 25:
+Text: Well that cozy little fireside chat just got me all toasty inside :)
+Annotation from annotator: 0
+
+Example 26:
+Text: I'm torn between severely excited and severely depressed for the #BigLittleLies finale tonight. I don't want it to be done! &#128555;
+Annotation from annotator: 0
+
+Example 27:
+Text: I give the majority of my available shits about...
+Annotation from annotator: 0
+
+Example 28:
+Text: What do you call it when an atomic bomb is dropped on the hood? Niggasaki
+Annotation from annotator: 2
+
+Example 29:
+Text: Clan of retards...
+Annotation from annotator: 2
+
+Example 30:
+Text: What's the similarity between an M1 and Kung Fu Panda? They both go "ping" when pointing at fathers
+Annotation from annotator: 1
+
+Human-Rated Examples:
+Example 1:
+Text: If I could describe my sex life with spongebob quotes; "ARE YOU READY KIDS?"
+Annotation from annotator: 2
+
+Example 2:
+Text: My dick, your bitch on it.
+Annotation from annotator: 2
+
+Example 3:
+Text: An overdose of enthusiasm is particularly troublesome for you ... More for Taurus https://t.co/ZEUy0GZXD5
+Annotation from annotator: 0
+
+Example 4:
+Text: """I'm going to kill them all. Every fucking one of them"" -Eren #AoTQuotes"
+Annotation from annotator: 2
+
+Example 5:
+Text: Dear republicucks: yes we've noticed how quick you were to throw judge Moore under the bus we also know it's not a coincidence you and the left oppose the same people
+Annotation from annotator: 2
+
+Example 6:
+Text: tyler didn't graduate or have a GED when we got together not he's got it and talking about going to college. i'm a v proud fiancé &#128519;
+Annotation from annotator: 0
+
+Example 7:
+Text: Boneless wings are chicken nuggets and ur a pussy if u eat them
+Annotation from annotator: 2
+
+Example 8:
+Text: Stormers bark loudly
+And their torches are tiki 
+Not very scary
+Annotation from annotator: 0
+
+Example 9:
+Text: -DJ- TRUMP: 
+
+CNN’s Sanjay Gupta roasted for stating Trump has heart disease after White House doctor gives clean bill of health %s.
+Annotation from annotator: 2
+
+Example 10:
+Text: Please excuse my bitch ass phone it's been a hoe lately
+Annotation from annotator: 2
+
+Example 11:
+Text: someone call peta <allcaps> quick ! i heard of cases of wild animals running rampant in european cities on nye <allcaps>
+Annotation from annotator: 0
+
+Example 12:
+Text: Friend:: Well what if we have a disabled kid? What happens then? Her fiance:: Well, then we drown them at birth. Problem solved. As reported on my friend's blog. Made me feel like as a disabled person, able-bodied people think my life has no value.
+Annotation from annotator: 2
+
+Example 13:
+Text: Kristaps Porzingis should be #Knicks' new go-to guy — if healthy | @Al_Iannazzone https://t.co/gyWeG25XUq https://t.co/7n5qwdIg2G
+Annotation from annotator: 0
+
+Example 14:
+Text: Seeing so many basic bitches rn
+Annotation from annotator: 2
+
+Example 15:
+Text: I like my women like i like my homework Easy to do when others are around
+Annotation from annotator: 2
+
+Example 16:
+Text: > be me
+> attend random church
+> starts fine
+> woman guest speaker
+> 40 minutes of Marxist garbage
+> Muh indigenous ppls, social justice, climate justice
+White guilt, sins of ancestors
+> wait to see what friends says
+> all 3 non political normies with me say they were off put by her
+
+ there's hope
+Annotation from annotator: 2
+
+Example 17:
+Text: I just tried Jewish food and it was fucking gross! I'm STILL trying to wash the taste of ash out of my mouth and now I have some killer gas.
+Annotation from annotator: 2
+
+Example 18:
+Text: Handing over the pen to God to write your story is the best thing that will ever happen to you lemme tell ya
+Annotation from annotator: 0
+
+Example 19:
+Text: The picture in my sig is a Mennonite farm in Creston .. just a couple miles from where I am typing this .
+Annotation from annotator: 0
+
+Example 20:
+Text: What do jews and santa have in common? Both leave through the chimney.
+Annotation from annotator: 2
+
+Example 21:
+Text: What do you call killing gay people? Natural Selection.
+Annotation from annotator: 2
+
+Example 22:
+Text: I got. A lot. Of hoes.... All up on my dick
+Annotation from annotator: 2
+
+Example 23:
+Text: A man is driving through the US border The customs officer asks him "Are these your kids?" the man replies "Yes, but not the ones in the trunk!"
+Annotation from annotator: 2
+
+Example 24:
+Text: Remember , if time should come when you have to make a choice between what is right and what is easy.
+Annotation from annotator: 0
+
+Example 25:
+Text: 1 loyal girl &gt; 1OO hoes
+Annotation from annotator: 2
+
+Example 26:
+Text: the fire in london is tragic . <repeat> i reckon we could of got at least <number> more muslims in there .
+Annotation from annotator: 2
+
+Example 27:
+Text: What do Lactose Intolerant people and Jews have in common? They both have the tendency of getting gassed.
+Annotation from annotator: 2
+
+Example 28:
+Text: Are there any sources that state that it was Trotsky who reiceived the money and was responsible for destruction of Black Hundreds , as opposed to Lenin or another Bolshevik leader ?
+Annotation from annotator: 1
+
+Example 29:
+Text: What's the worst thing to tell a Saudi Arabian interrogator? We need to speed this up, chop-chop.
+Annotation from annotator: 2
+
+Example 30:
+Text: "@JudicialWatch A bunch of crap. These so called ""Powwows"" should be held at Border Patrol HQ. same for all government agencies."
+Annotation from annotator: 2
+
+Target Example:
+Text: Those countries are much better under a government of terror made by themselves and for themselves .
+Annotation from annotator:

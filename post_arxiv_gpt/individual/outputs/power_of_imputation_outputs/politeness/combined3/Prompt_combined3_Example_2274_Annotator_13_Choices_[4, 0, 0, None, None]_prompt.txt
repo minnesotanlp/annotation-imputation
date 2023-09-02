@@ -1,0 +1,173 @@
+Estimated Examples:
+Example 1:
+Text: Grappler-I'm not sure if this article is OK now or not. What do you think?
+Annotation from annotator: 15
+
+Example 2:
+Text: That's reason to expand the treatment to other painters, not to blank this one.  And you didn't think that there would be more articles on van Gogh paintings?
+Annotation from annotator: 6
+
+Example 3:
+Text: Hey Dan, I see you around but we haven't talked in a bit. What are you up to these days?
+Annotation from annotator: 17
+
+Example 4:
+Text: Hi, you recently speedily deleted this image and in your explanation stated that I, the uploader, was informed of this. I was not - please could you tell me why not?
+Annotation from annotator: 17
+
+Example 5:
+Text: Could you please explain <url> to me? I don't see how deleting a person's userpage is correct?
+Annotation from annotator: 12
+
+Example 6:
+Text: And  what did I do wrong???????????????????????
+Annotation from annotator: 6
+
+Example 7:
+Text: Yes, this is the English Wikipedia so we use the English version of the infobox. And can there once be a time when you don't find your way to my talk a complain?
+Annotation from annotator: 10
+
+Example 8:
+Text: Hmm...I was not aware that a year had to pass for ''anyone'' to request an appeal for Everyking. Prior to today, when did they ever say this?
+Annotation from annotator: 11
+
+Example 9:
+Text: I understand your point about MJ being very close and having competent editors, but do you not think those of us who understand the source problems, etc. that the Reagan page is having should try and explain them to those editors (that is, try to educate them)?
+Annotation from annotator: 9
+
+Example 10:
+Text: You deleted this, but somehow it still shows up on the parent category's page <url>.  Is this normal and/or can you fix this?
+Annotation from annotator: 13
+
+Example 11:
+Text: I've been meaning to add soundclips to the Suede and Stone Roses articles (3u20134 for each). I can get to it over the weekend; suggestions?
+Annotation from annotator: 16
+
+Example 12:
+Text: I see you created a nonsense article yesterday because you were bored. If I unblock you will you disrupt more?
+Annotation from annotator: 8
+
+Example 13:
+Text: Just letting you know (since you have mentioned AFDing <url>) that weu2019ve gone to some effort to establish notability with <url>, and have added three reliable, notable, third-party sources to the article.  Do you feel these sources establish <url> as being notable (<url> and all that)?
+Annotation from annotator: 14
+
+Example 14:
+Text: Hi, I see you voted "support" but in the neutral section. Would you like to move that to the support section?
+Annotation from annotator: 17
+
+Example 15:
+Text: Thanks, firstly, for the affirmation and work on <url>; it was yesterday's featured article! As a related article, I've been working on <url> - what do you think would be necessary to get it to FA?
+Annotation from annotator: 19
+
+Example 16:
+Text: The file above does not meet the <url> so as to be copyrighted or eligible for fair use, as I had stated so on <url> when I first moved it there. What issues should be resolved?
+Annotation from annotator: 11
+
+Example 17:
+Text: It turns out that the Zelda Collection you referred to in <url> didn't include aLttP, reportedly because the GBA remake was still being sold at that time, so that disc included NES and N64 emulation but left out SNES. Do you have another example?
+Annotation from annotator: 13
+
+Example 18:
+Text: True, tho in reality I should have just blocked the sock tpar from the beginning.  Don't we usually do that to force them to request unblocking on the main account?
+Annotation from annotator: 12
+
+Example 19:
+Text: btw, do you think we should mention the effect right off the bat of the descripition(seeing as "effect" is listed right above it???
+Annotation from annotator: 13
+
+Example 20:
+Text: Here's the FFD page: <url>. How do you know that the photograph was made pursuant to a law or ordinance or in connection with the transaction of official business?
+Annotation from annotator: 14
+
+Example 21:
+Text: Where did you get the tracklist for the album? Can you please drop me a messafe with the link?
+Annotation from annotator: 17
+
+Example 22:
+Text: Ok, I accept your claims, although I prefer the official names. Do you have MSN Messenger?
+Annotation from annotator: 14
+
+Example 23:
+Text: Hello. Since you have contributed to <url> in the past, could you spare a minute to discuss the fate of <url>?
+Annotation from annotator: 18
+
+Example 24:
+Text: I understand ''your'' position, however I disagree with it, even regarding the spirit. <ins>Mostly because I don't see linking something as modification of the quote, therefore it's a moot point, even when coupled with bracketed additions.</ins> Perhaps we should see<ins>k</ins> comments from additional editors?
+Annotation from annotator: 5
+
+Example 25:
+Text: Ok, I'd agree about <url> being better. Should I delete the other one (you could also tag it for speedy deletion as a mistake)?
+Annotation from annotator: 13
+
+Example 26:
+Text: So you're interested in both Amiga computers and BDSM! Are you an atheist too?
+Annotation from annotator: 7
+
+Example 27:
+Text: Why delete the page <url> with no explanation, as an act of deliberate vandalism?  Why did you do it?
+Annotation from annotator: 4
+
+Example 28:
+Text: I am not sure what are rules about GA in en.wiki but for me <url> is really outdated and it shouldn`t have GA sign. What you think?
+Annotation from annotator: 14
+
+Example 29:
+Text: Never mind, got it. Is the stereochemistry known?
+Annotation from annotator: 10
+
+Example 30:
+Text: What is your take on <url>?  And is there a guideline or policy stated somewhere that covers this?
+Annotation from annotator: 14
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: I am for some reason disappointed that it took me a few seconds longer to pick up the Bon Jovi reference than it did the Tom Petty one. Does that mean the terrorists have already won?
+Annotation from annotator: 10
+
+Example 2:
+Text: Truly Kafkaesque.  Did GoRight try to have it taken down?
+Annotation from annotator: 10
+
+Example 3:
+Text: Instead of deletion, I'm considering simply redirecting Ponystars to <url>. Any objections?
+Annotation from annotator: 18
+
+Example 4:
+Text: I haven't been lately as I've been pretty busy in real life. Is there something you'd like me to check out?
+Annotation from annotator: 16
+
+Example 5:
+Text: Hi friend, I've noticed you've made some good edits over at the article. Are you a big fan of McGinley's work?
+Annotation from annotator: 18
+
+Example 6:
+Text: Also perhaps we should set up a subpage for these discussions, so we'll have the thread completely on one page?  What do you think?
+Annotation from annotator: 15
+
+Example 7:
+Text: I have no idea. Maybe it just needs a few days to update or something?
+Annotation from annotator: 17
+
+Example 8:
+Text: The old article was deleted. Have you had a chance to read the discussion and rationale for this decision?
+Annotation from annotator: 13
+
+Example 9:
+Text: Jtdirl: Seek primary source mentioning 1845 lightweight tiara made for Gregory XVI. Do you have it?
+Annotation from annotator: 12
+
+Example 10:
+Text: Actually, a further question. Would he be known then as the '''Lord Lowther''' by virtue of the barony, for that three-year period, and not as '''Viscount Lowther'''?
+Annotation from annotator: 8
+
+Example 11:
+Text: I added an outside review to the article's Discussion page.  Should this be put on the main article?
+Annotation from annotator: 13
+
+Example 12:
+Text: could you email me when you get a chance? not having any luck this end, must be spam filters blocking?
+Annotation from annotator: 18
+
+Target Example:
+Text: How can a permablocked user edit? And who would set up a sockpuppet months in advance?
+Annotation from annotator:

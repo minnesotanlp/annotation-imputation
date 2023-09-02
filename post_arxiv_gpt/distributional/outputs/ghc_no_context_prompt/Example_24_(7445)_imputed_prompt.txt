@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "Example 14940\nText: We use a few different databases but primary one is MySQL\nSoft labels:\n100.00% of responsive annotators labeled the text with 0\n0.00% of responsive annotators labeled the text with 1\n\nExample 13246\nText: After WMD and Blair, etc people just don't buy this crap any longer but the out of touch ELITES, think people do. Dangerous times, what will their kneejerk reaction be to their obvious loss of POWER?\nSoft labels:\n100.00% of responsive annotators labeled the text with 0\n0.00% of responsive annotators labeled the text with 1\n\nExample 5420\nText: Rod Rosenstein\u2019s wife is Clinton attorney\nSoft labels:\n100.00% of responsive annotators labeled the text with 0\n0.00% of responsive annotators labeled the text with 1\n\nExample 21457\nText: Have ya'll been looking at Mike's pro se court filings in Sines v. Kessler? Priceless.\nSoft labels:\n72.22% of responsive annotators labeled the text with 0\n27.78% of responsive annotators labeled the text with 1\nTarget Text: So #Tesla just met its production goal without even a factory in which to work.    Wow, that's in-tents.\nSoft labels:"
+    }
+]

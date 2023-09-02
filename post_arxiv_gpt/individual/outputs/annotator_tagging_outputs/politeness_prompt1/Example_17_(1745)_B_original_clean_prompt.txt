@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: Regarding your SM questions, I honestly don't think a great deal of thought was put into the anime adaptation. As for Viluy, I see a theme with the Witches 5's names and I don't see a reason that Viluy should deviate; maybe the stone is named for the deity?
+Annotation from annotator: 16.0
+
+Example 2:
+Text: Hi I am still not clear if you have a commons account or not.  If you do can you say what the name is?
+Annotation from annotator: 13.0
+
+Example 3:
+Text: If the <url> was invented in 1983, how was it featured in a 1959 film? I've never seen the movie, but are you sure it wasn't some other carousel-type thing?
+Annotation from annotator: 13.0
+
+Example 4:
+Text: Ok then. DO you want to set up another Peer Review for <url>?
+Annotation from annotator: 16.0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: I see on your user page you are claiming credit for creating '''The Cops''' article however wasn't it initally created by another user <url> on 26 January 2007 ??
+Annotation from annotator: 16.0
+
+Example 2:
+Text: My contribution tried to show the impression to others I'am only trying to improve spelling. What's the difference between personel and persona?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: ''SO!?!?'', what has it got to do with you?
+Annotation from annotator: 4.0
+
+Example 4:
+Text: Okay, I thought it was a mistake, but I wasn't sure.  Do you normally eat dinner after 8 PM?
+Annotation from annotator: 16.0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: i made a mistake on adding a colon on <url> and it can't be reverted. Could you help?
+Annotation from annotator: 20.0
+
+Example 2:
+Text: I have just noticed that today a Wikipedia administrator added a POV tag in the u201cPsychohistoryu201d article, which you have contributed to edit. Perhaps someone should do a little work to balance the article and remove the tag?
+Annotation from annotator: 16.0
+
+Example 3:
+Text: I know you moved the section about the  theme park because someone complained it did not belong in 'fandom', but i'm not convinced that was correct. exactly what sort of people go to such a place if not fans?
+Annotation from annotator: 12.0
+
+Example 4:
+Text: "Redirecting is blanking" would be more accurate. Or maybe "redirecting is redirecting"?
+Annotation from annotator: 12.0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: Enjoyed the <url>s: the pdf is a fantastic external link! Who the hell was/is Bruce Patterson?
+Annotation from annotator:

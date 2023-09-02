@@ -1,0 +1,121 @@
+{
+    "just_orig7_swap_headers": {
+        "[0, None, 0, None, 0]": {
+            "accuracy": 0.16666666666666666,
+            "weighted avg f1-score": 0.25873015873015875,
+            "valid answer rate": 0.23333333333333334
+        },
+        "[4, None, 0, None, 1]": {
+            "accuracy": 0.3,
+            "weighted avg f1-score": 0.40457142857142864,
+            "valid answer rate": 0.5666666666666667
+        }
+    },
+    "just_orig7_orig_headers": {
+        "[0, None, 0, None, 0]": {
+            "accuracy": 0.23333333333333334,
+            "weighted avg f1-score": 0.3464646464646465,
+            "valid answer rate": 0.26666666666666666
+        }
+    },
+    "just_orig6_swap_headers": {
+        "[None, None, 0, None, 0]": {
+            "accuracy": 0.5666666666666667,
+            "weighted avg f1-score": 0.5191279308926368,
+            "valid answer rate": 0.9666666666666667
+        }
+    },
+    "just_orig6_orig_headers": {
+        "[None, None, 0, None, 0]": {
+            "accuracy": 0.5333333333333333,
+            "weighted avg f1-score": 0.492987012987013,
+            "valid answer rate": 0.9666666666666667
+        }
+    },
+    "just_orig5_swap_headers": {
+        "[None, None, 0, 1, 0]": {
+            "accuracy": 0.43333333333333335,
+            "weighted avg f1-score": 0.3948717948717949,
+            "valid answer rate": 0.8333333333333334
+        },
+        "[None, None, 0, 1, 1]": {
+            "accuracy": 0.4666666666666667,
+            "weighted avg f1-score": 0.4038095238095238,
+            "valid answer rate": 1.0
+        }
+    },
+    "just_orig5_orig_headers": {
+        "[None, None, 0, 1, 0]": {
+            "accuracy": 0.43333333333333335,
+            "weighted avg f1-score": 0.3904761904761905,
+            "valid answer rate": 0.8666666666666667
+        },
+        "[None, None, 0, 1, 1]": {
+            "accuracy": 0.4666666666666667,
+            "weighted avg f1-score": 0.4038095238095238,
+            "valid answer rate": 1.0
+        }
+    },
+    "combined3_swap_headers": {
+        "[1, 0, 0, None, None]": {
+            "accuracy": 0.5666666666666667,
+            "weighted avg f1-score": 0.5650980392156862,
+            "valid answer rate": 0.9666666666666667
+        },
+        "[2, 0, 0, None, None]": {
+            "accuracy": 0.5666666666666667,
+            "weighted avg f1-score": 0.5996415770609319,
+            "valid answer rate": 0.9
+        },
+        "[0, 1, 0, None, None]": {
+            "accuracy": 0.6,
+            "weighted avg f1-score": 0.5997001499250375,
+            "valid answer rate": 0.9
+        }
+    },
+    "combined3_orig_headers": {
+        "[1, 0, 0, None, None]": {
+            "accuracy": 0.6,
+            "weighted avg f1-score": 0.5987675070028011,
+            "valid answer rate": 0.9666666666666667
+        },
+        "[0, 1, 0, None, None]": {
+            "accuracy": 0.5666666666666667,
+            "weighted avg f1-score": 0.5562072336265885,
+            "valid answer rate": 0.9666666666666667
+        },
+        "[0, 2, 0, None, None]": {
+            "accuracy": 0.7,
+            "weighted avg f1-score": 0.6974025974025974,
+            "valid answer rate": 1.0
+        }
+    },
+    "just_imputed1_swap_headers": {
+        "[None, None, None, None, None]": {
+            "accuracy": 0.5666666666666667,
+            "weighted avg f1-score": 0.5555555555555555,
+            "valid answer rate": 1.0
+        }
+    },
+    "just_imputed1_orig_headers": {
+        "[None, None, None, None, None]": {
+            "accuracy": 0.5666666666666667,
+            "weighted avg f1-score": 0.5555555555555555,
+            "valid answer rate": 1.0
+        }
+    },
+    "just_imputed3_swap_headers": {
+        "[None, 0, 0, None, None]": {
+            "accuracy": 0.6666666666666666,
+            "weighted avg f1-score": 0.6464607464607464,
+            "valid answer rate": 1.0
+        }
+    },
+    "just_imputed3_orig_headers": {
+        "[None, 0, 0, None, None]": {
+            "accuracy": 0.7333333333333333,
+            "weighted avg f1-score": 0.7475490196078433,
+            "valid answer rate": 0.9666666666666667
+        }
+    }
+}

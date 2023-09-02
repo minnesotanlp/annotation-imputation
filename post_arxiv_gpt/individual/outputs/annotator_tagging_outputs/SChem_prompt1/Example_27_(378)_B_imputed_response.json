@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7PZeU0QYfJhxEa2XrhxM6ZGiyhPGY",
+    "object": "chat.completion",
+    "created": 1686329602,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 503,
+        "completion_tokens": 26,
+        "total_tokens": 529
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "It is likely that annotator B would label this example as 3.0, meaning it is a controversial rule of thumb."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

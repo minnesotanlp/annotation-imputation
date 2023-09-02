@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Will you accept that by renominating the article last night you were essentially discarding Delldot's and my previous review, as well as sidestepping Leevanjackson as the primary contributor to that article? If not, why?
+Annotation from annotator: 14
+
+Example 2:
+Text: Your request just slows down users, without changing what they see. Are you sure that is what you want?
+Annotation from annotator: 12
+
+Example 3:
+Text: I'm pretty sure I didn't violate 3RR unless there's another revert I'm missing.  Does replacing the "/" in <tt>&lt;ref name=missingref /></tt> when replacing a deleted reference count as a revert?
+Annotation from annotator: 13
+
+Example 4:
+Text: Ron - I'm interested in your edit comment here <url>. Your position is that RC is a sufficiently reliable source that anything it mentions is automatically notable?
+Annotation from annotator: 14
+
+Example 5:
+Text: <url>. Or is it just me?
+Annotation from annotator: 10
+
+Example 6:
+Text: Hi, I was wondering why it is that <url> only has two articles in it -- and whether it should be kept. Has it ever been more fully populated?
+Annotation from annotator: 14
+
+Example 7:
+Text: If you're talking about the Recycling Troll, I've never blocked him. Why do you think I have?
+Annotation from annotator: 9
+
+Example 8:
+Text: The block seems to no longer be necessary or productive. If I were to bring a motion to get them unblocked, would you support it?
+Annotation from annotator: 14
+
+Example 9:
+Text: Especially considering that it took you ''a lot'' more time to vandalize the page than the two seconds it took us to fix it. What's the point?
+Annotation from annotator: 7
+
+Example 10:
+Text: Thanks; I was confused by the situation (indeed, I still am), so I had no idea what to do.  One more question: why did you protect Highspeed's talk?
+Annotation from annotator: 12
+
+Example 11:
+Text: Finally your good self ? Alternatively have you considered offering yourself to informally review his further editing (I note he has previously specifically rejected formal mentoring on Dutch Wikipedia), but as an admin who has (at least in part) been more supportive of Guido in past discussions, perhaps he would be willing to accept such a role from yourself ?
+Annotation from annotator: 13
+
+Example 12:
+Text: OK, I will do that. But probably we should first set the gallery up on commons - do you know anything about editing/creating there?
+Annotation from annotator: 13
+
+Example 13:
+Text: Looking through the discussion page history, the addition was made by <url> who is still active on wikipedia. Why not try a message on <url>?
+Annotation from annotator: 14
+
+Example 14:
+Text: Thanks for your assistance in the review of the Brian Keith review at the DYK! The user has cited the Internet Movie Database before?
+Annotation from annotator: 16
+
+Example 15:
+Text: These are getting tagged as orphans and stubs. Are they SIAs, do you think?
+Annotation from annotator: 12
+
+Example 16:
+Text: Staeckerbot has notified me five times so far about the same images - see <url> page history. Perhaps it's because the images in question are edit protected?
+Annotation from annotator: 11
+
+Example 17:
+Text: Thats ok, as long as you verify the copyright as by sending an e-mail, or noting the license on the AEK webpage. That wont be a problem, will it?
+Annotation from annotator: 15
+
+Example 18:
+Text: If you can remember, would you mind giving a bit more information about this photo e.g. where you took it?
+Annotation from annotator: 15
+
+Example 19:
+Text: re: <url> edit. Then let me ask you, what exactly was offensive about them?
+Annotation from annotator: 10
+
+Example 20:
+Text: I don't really see that as a problem. If it's a fringe position why not simply state it as such?
+Annotation from annotator: 9
+
+Example 21:
+Text: You added the name Ken Taylor to the <url> page but there is no such person listed on the DOD website as having received that award. Who were you refering to?
+Annotation from annotator: 11
+
+Example 22:
+Text: <url> is one of the three fundamental Wikipedia content policies; why is it a "shame" you have to follow it? What did you mean by "people like you"?
+Annotation from annotator: 10
+
+Example 23:
+Text: I'm sorry, but there is no discussion on the talk page that indicates that there was a debate about renaming, so the keep vote stands, I'm afraid.  There were nine votes to keep, and only one to merge, so I don't understand how a single vote trumps nine others?
+Annotation from annotator: 13
+
+Example 24:
+Text: I've been trying to convince this user that his only problem is his username, but he doesn't seem to fully believe it.  Would you mind popping over and giving a word or two of encouragement?
+Annotation from annotator: 15
+
+Example 25:
+Text: I am a fairly new admin.  When is it appropriate to use such a block as you did with a user I'd blocked?
+Annotation from annotator: 12
+
+Example 26:
+Text: Thanks; what should I do next time to make it easier, quicker?  Just let you know?
+Annotation from annotator: 16
+
+Example 27:
+Text: Reading your help desk comment, I'm totally confused now. Was it 2005 or 2006?
+Annotation from annotator: 9
+
+Example 28:
+Text: It seems you have been investigating this administrator and have brought up several incidents in your evidence based on that. If possible, could you please link to the feedback that Dreadstar has received as an administrator during/after each of those incidents (and if there was no feedback to any of those incidents, could you please let me know in reply to this)?
+Annotation from annotator: 16
+
+Example 29:
+Text: You told me that you couldn't access the page in question, although I had recently changed the link to its new location. Maybe you just didn't bother to check it out?
+Annotation from annotator: 8
+
+Example 30:
+Text: Re your e-mail, there is info there which is not on my talk page. May I add it to my talk page, or would you prefer it stayed off?
+Annotation from annotator: 14
+
+Human-rated Examples:
+Example 1:
+Text: Hi, I noticed on <url> you mentioned its Alexa traffic rank.  How do you find out the Alexa traffic rank of something?
+Annotation from annotator: 12
+
+Example 2:
+Text: Can you take a look at the article <url> and the conversation going on at <url> (that should probably be moved to the article talk page).  Your thoughts on the most recent commentary?
+Annotation from annotator: 12
+
+Example 3:
+Text: Hi there, I always thought <url> was originally AE&CI, not AE&I.  Do you have a reference for AE&I?
+Annotation from annotator: 12
+
+Example 4:
+Text: <url> reminded me of a report I want to file about Asad. May I?
+Annotation from annotator: 16
+
+Example 5:
+Text: ... is discouraged, but should redirects be created for situations like <url>? Inclusively, I believe you once told me that something like <url> should be changed per the guideline?
+Annotation from annotator: 12
+
+Example 6:
+Text: Hey Mvjs, I was wondering if you could prove me somewhat sane. Has the tab at the top of the page changed from 'discussion' to 'talk'?
+Annotation from annotator: 12
+
+Example 7:
+Text: Hi, would you have any objection to renaming the sub-categories of <url> to look more like the articles which describe them - i.e. <url> -> <url> and so on?
+Annotation from annotator: 16
+
+Example 8:
+Text: Similarly with references. The text is drawn from the books listed; do you feel any particular statement needs verifying?
+Annotation from annotator: 12
+
+Example 9:
+Text: I clearly provided a source that is valid, and yet a couple of hours is a big deal? Is it your way, or the highway?
+Annotation from annotator: 12
+
+Example 10:
+Text: I was just looking again at the April Fool's pranks from this year and came upon <url> to a page you deleted per "housecleaning".  Can we undelete and move it somewhere (the latter only if necessary), tagging with <url> in the process?
+Annotation from annotator: 12
+
+Example 11:
+Text: How do I sign up to volunteer for the Missing TV encyclopedia articles project? Do I just add my name to the list of "This project is maintained by...", or something else?
+Annotation from annotator: 12
+
+Example 12:
+Text: ARSBot seems to not be working? Can it be turned back on?
+Annotation from annotator: 12
+
+Example 13:
+Text: Hi, what does this mean - if I am to be a named party in the case I at least need ot understand what it is about, please explain - ""Feuding and BLPs" a case to examine meta behavioral issues and reconcile the applicable principles??? - what do you perceive this is related to?
+Annotation from annotator: 12
+
+Example 14:
+Text: Just move <url> to <url>. And shouldn't the clean-up parameter be added to <url> also to make it work?
+Annotation from annotator: 12
+
+Example 15:
+Text: If it's a military box, how do you put the v-d-e in the corner? Or are those box types exempt?
+Annotation from annotator: 12
+
+Example 16:
+Text: The block you created on April 18th has expired and a new rash of vandalism has broken out.  Would you mind blocking this school for even longer than 1 month?
+Annotation from annotator: 12
+
+Example 17:
+Text: Noetica: help! Can you give an opinion <url>?
+Annotation from annotator: 12
+
+Example 18:
+Text: I have an e-mail set up in wikipedia, but I normally keep it disabled. Are you online right now?
+Annotation from annotator: 12
+
+Example 19:
+Text: The icon is appearing before the number and after . Can you have a look ?
+Annotation from annotator: 12
+
+Example 20:
+Text: I am alright, though I am no <url> or Sandy. Which article is this regarding, Milner?
+Annotation from annotator: 12
+
+Example 21:
+Text: Tim, it strikes me that DNA is getting more than average vandalism for daytime; I suspect it's schoolbreak week somewhere.  I'm not able to help much as it takes so long for the page to load; do you think it's time to ask for a semi-protection break?
+Annotation from annotator: 8
+
+Example 22:
+Text: Either <url> is really misinterpreting the guidelines or I missed out on something. Care to shed light here?
+Annotation from annotator: 12
+
+Example 23:
+Text: I'll be touch and go for a few days, but hopefully I will have a stable connection again. In the mean time, I think there are a few things I need to get caught up on, yes?
+Annotation from annotator: 12
+
+Example 24:
+Text: Can you help with this user: http://en.wikipedia.org/wiki/Special:Contributions/Wallak I suspect that it is sockpuppet of banned user Bonaparte and he vandalizing various articles related to Romanians and Vlachs. Can we do something about it?
+Annotation from annotator: 12
+
+Example 25:
+Text: Do you mind telling me why you haven't reverted my rewriting of the first sentence, and changes to the introduction? Perhaps you would prefer to delete the two new biographies that I have just started to cover the red links?
+Annotation from annotator: 12
+
+Example 26:
+Text: Thank you ''very much'' for partaking in my effort to have a listing of stable article revisions. How do you suggest we get this project off the ground?
+Annotation from annotator: 16
+
+Example 27:
+Text: I don't understand how you find it appropriate to talk about your illegal drug use on your user page.  Also, how do you have the right to ban other people's usernames with a name like "'''BONG'''warrior"?
+Annotation from annotator: 4
+
+Example 28:
+Text: I am reluctant to mention this, but having your paragraph in bold on <url> seems to me to be a bit self-promotional and unfair to the other members. Is there any chance that I might be able to persuade you to voluntarily unbold it?
+Annotation from annotator: 16
+
+Example 29:
+Text: If you're interested, I could provide you with Subversion (which is superior to CVS) for VandalProof. Interested?
+Annotation from annotator: 12
+
+Example 30:
+Text: Nice work so far on your rewrite of "The One After the Superbowl". Are you planning on including info about the Diet Coke fiasco?
+Annotation from annotator: 20
+
+Target Example:
+Text: Hello -- I see you changed a couple of entries relating to "PALATINE, the Subject Centre for Dance, Drama and Music of the UK Higher Education Academy".  I don't know (or even care) why that organisation chooses to refer to itself by capitalising the word, but (and I ask for information here) is there a policy that precludes us from respecting that choice?
+Annotation from annotator:

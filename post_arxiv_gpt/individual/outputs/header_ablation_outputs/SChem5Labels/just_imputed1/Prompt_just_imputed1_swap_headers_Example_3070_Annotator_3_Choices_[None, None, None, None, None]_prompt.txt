@@ -1,0 +1,122 @@
+Example 1:
+Text: It is expected that conspiracy theorists might have spouses that believe in the same things.
+Annotation from annotator: 2
+
+Example 2:
+Text: You shouldn't judge people on their looks
+Annotation from annotator: 3
+
+Example 3:
+Text: It's wrong to steal furniture from a store or a house.
+Annotation from annotator: 3
+
+Example 4:
+Text: You should get professional help if you have a dysfunctional family.
+Annotation from annotator: 2
+
+Example 5:
+Text: You shouldn't put up with a rude roommate that tells you what to do.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to care about your health.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is ok to refuse if you don't want to.
+Annotation from annotator: 3
+
+Example 8:
+Text: It is okay to want time to yourself
+Annotation from annotator: 3
+
+Example 9:
+Text: As a parent you're expected to be there to support your child.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's great to recognize your shortcomings.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should get your chores done as soon as possible so that you aren't putting them off till the last minute
+Annotation from annotator: 3
+
+Example 12:
+Text: It's expected that you follow a dress code when you're in a wedding.
+Annotation from annotator: 3
+
+Example 13:
+Text: You must call the police if you learn of an adult having a sexual relationship with a minor.
+Annotation from annotator: 3
+
+Example 14:
+Text: You should try to get along with people even if you don't like them.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to ask why people are in a hurry so you know what is wrong.
+Annotation from annotator: 2
+
+Example 16:
+Text: You should take your child to a therapist when they have night terrors.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's nice to want a family.
+Annotation from annotator: 3
+
+Example 18:
+Text: It's good to be attracted to someone physically.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's unwise to share a storage unit with others.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's good to change things if they aren't working for you.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's evil to kill people and distribute their belongings.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's wrong to want to be a 50's housewife because women back then were oppressed.
+Annotation from annotator: 2
+
+Example 23:
+Text: You shouldn't make jokes about your mom.
+Annotation from annotator: 3
+
+Example 24:
+Text: You should fine someone if they break the law.
+Annotation from annotator: 2
+
+Example 25:
+Text: It is nice to do things with your granddaughter.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's acceptable to not want to share all your reasons for the opinions you have.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't behave inappropriately with underage people.
+Annotation from annotator: 3
+
+Example 28:
+Text: It is good to reuse and repurpose items.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's wrong to give your child's partner the third degree.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't let yourself be taken advantage of.
+Annotation from annotator: 3
+
+Text: You shouldn't destroy someone else's property.
+Annotation from annotator:

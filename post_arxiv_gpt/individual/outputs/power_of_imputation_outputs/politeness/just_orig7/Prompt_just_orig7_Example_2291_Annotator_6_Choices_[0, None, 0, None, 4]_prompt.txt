@@ -1,0 +1,47 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Correct Examples:
+Example 1:
+Text: I was checking out the article on the Unitarian Society in Fall River that you contributed to, and there's a lot that was wrong.  I want to reconcile what you know with what I know so we can get this article right... a little help here?
+Annotation from annotator: 8
+
+Example 2:
+Text: Acad, at <url> the article suddenly starts talking about ''Pomone'' without any context - is this a typo?  You're a major contributor - can you clarify?
+Annotation from annotator: 8
+
+Example 3:
+Text: Could you please block me indefinitely. If you can't then what do I need to do to get blocked indefinitely?
+Annotation from annotator: 16
+
+Example 4:
+Text: This is irritating. What browser are you using?
+Annotation from annotator: 4
+
+Example 5:
+Text: As his son (the mayor) was also an MP, this doesn't seem an ideal disambiguation, though I'm not sure what would be better here!  Perhaps we need to resort to using dates?
+Annotation from annotator: 8
+
+Example 6:
+Text: The Hitchin-related hoax claims by <url> seem to have led to a rather precipitate response, considering that he has only been an editor for a few days.  Is there something going on here that isn't obvious?
+Annotation from annotator: 4
+
+Example 7:
+Text: Thanks for continuing to look over the article.  Do you know or do you know anyone that knows anything about the <url> or the <url>?
+Annotation from annotator: 24
+
+Example 8:
+Text: Thank you for your kind comment.   Do you have a suggestion where the portals should be placed in the article?
+Annotation from annotator: 24
+
+Example 9:
+Text: Hello, csloat. What is your response to my suggestion <url>?
+Annotation from annotator: 20
+
+Example 10:
+Text: Thanks for reverting <url> - that was actually me, unlogged in. OK if I re-revert?
+Annotation from annotator: 20
+
+Target Example:
+Text: Hello. Who are you, and when are we to have met or communicated in the past?
+Annotation from annotator:
+If you output anything other than a single integer (and absolutely nothing else, including explanatory text), your output will invalidate the dataset.

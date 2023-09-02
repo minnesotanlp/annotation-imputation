@@ -1,0 +1,122 @@
+Example 1:
+Text: It's normal for children to outlive their parents
+Annotation from annotator: 3
+
+Example 2:
+Text: It's not okay to keep someone from doing the things they enjoy.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's sad to not be able to wear what you want.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is ok to be mad if someone did something rude.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's irresponsible to prioritize drinking or drugs over the wellbeing of your children.
+Annotation from annotator: 3
+
+Example 6:
+Text: People should strive to remove annoyances from their life.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's normal to have an opinion.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to work at a fast food restaurant in your teens.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's good to do things for others.
+Annotation from annotator: 3
+
+Example 10:
+Text: It is good to keep track of things in the school to make sure nothing goes missing.
+Annotation from annotator: 3
+
+Example 11:
+Text: It is good to be included in a group.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's not polite to brag about beating somebody in a game
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't overestimate things.
+Annotation from annotator: 2
+
+Example 14:
+Text: You shouldn't reveal someone's secrets.
+Annotation from annotator: 3
+
+Example 15:
+Text: Touching someone you do not know is unacceptable.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's normal to buy things when you like them.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's allowed to take some time to become savvy with money.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is understandable to be upset if someone is treating an important matter trivially.
+Annotation from annotator: 3
+
+Example 19:
+Text: You shouldn't get pissed off at your siblings.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's okay to feel sad when you can't afford a new pair of glasses for your child.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's rude to turn a light on while others are trying to sleep.
+Annotation from annotator: 3
+
+Example 22:
+Text: You shouldn't confess your darkest secrets online for strangers to see.
+Annotation from annotator: 2
+
+Example 23:
+Text: You shouldn't tell your roommate what to do in their house.
+Annotation from annotator: 2
+
+Example 24:
+Text: It's expected you be patient while waiting in a line
+Annotation from annotator: 3
+
+Example 25:
+Text: It is thoughtful to honor those who served in the armed forces.
+Annotation from annotator: 3
+
+Example 26:
+Text: If you have a hard time telling people that you're content, you should get some help.
+Annotation from annotator: 3
+
+Example 27:
+Text: You should break up with someone if you think you will cheat on them.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's bad to make big purchases behind your significant other's back.
+Annotation from annotator: 3
+
+Example 29:
+Text: You shouldn't hold it against someone when they're uncool one day.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's expected that you dislike your mother in law.
+Annotation from annotator: 2
+
+Text: It's good to pursue your dreams.
+Annotation from annotator:

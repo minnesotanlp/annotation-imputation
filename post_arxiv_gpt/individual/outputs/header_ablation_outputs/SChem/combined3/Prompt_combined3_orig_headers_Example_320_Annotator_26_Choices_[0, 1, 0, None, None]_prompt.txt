@@ -1,0 +1,245 @@
+Human-rated Examples:
+Example 1:
+Text: It's good to avoid disturbing animals in the wild.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is dangerous for a doctor to misdiagnose a patient.
+Annotation from annotator: 4
+
+Example 3:
+Text: You should expect people to be scared of you if you're big and muscular.
+Annotation from annotator: 2
+
+Example 4:
+Text: You shouldn't get upset at your partner.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's okay to carry your pet in public as a status symbol
+Annotation from annotator: 2
+
+Example 6:
+Text: It is good to be proud of your children.
+Annotation from annotator: 4
+
+Example 7:
+Text: You don't owe a partner an explanation of past relationships.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's wrong to assume someone has a disability because they talk differently.
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't hate people just because they're women.
+Annotation from annotator: 4
+
+Example 10:
+Text: You should only call the cops for emergencies.
+Annotation from annotator: 3
+
+Example 11:
+Text: Being lazy about keeping the house clean is bad behavior.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's expected that family members support each other's milestone events.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 2
+
+Example 14:
+Text: It's OK not to take life too seriously.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's wrong to value things over people.
+Annotation from annotator: 3
+
+Example 17:
+Text: You should tell your partner you don't want to be with them anymore.
+Annotation from annotator: 3
+
+Example 18:
+Text: You can't expect everyone to like you.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is ok if you cancel last minute on people due to an illness.
+Annotation from annotator: 4
+
+Example 20:
+Text: It's hurtful for  a parent to enroll a child in classes without permission.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's understandable that sometimes people have reasons not to trust someone.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's wrong to want to hide who you really are.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is normal to quit a job that is too difficult.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't accept money from someone you don't want to date.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's wise to do monthly payments if you can't pay back a loan right away.
+Annotation from annotator: 4
+
+Example 26:
+Text: You shouldn't have to stay at a place you don't like.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to have friends you can joke around with.
+Annotation from annotator: 4
+
+Example 28:
+Text: People are expected to love their family.
+Annotation from annotator: 4
+
+Example 29:
+Text: You should be happy when someone wants to invest in your company.
+Annotation from annotator: 3
+
+Example 30:
+Text: If you eat someone's food, you should let them know.
+Annotation from annotator: 4
+
+Estimated Examples:
+Example 1:
+Text: It's wrong to want to kill yourself.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's bad to be divorced with children.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's not okay to be to happy with a material object.
+Annotation from annotator: 1
+
+Example 4:
+Text: It's wrong for a person to cheat on their significant other.
+Annotation from annotator: 4
+
+Example 5:
+Text: It is dangerous for a grandparent to risk a fall.
+Annotation from annotator: 4
+
+Example 6:
+Text: You should treat a person with a disability the same as you would anyone else.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's bad to hate babies.
+Annotation from annotator: 3
+
+Example 8:
+Text: You shouldn't worry your family.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's good to work at home.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's good to be in control of your sexuality.
+Annotation from annotator: 3
+
+Example 11:
+Text: People shouldn't assume it's okay to take something just because it's not nailed down.
+Annotation from annotator: 4
+
+Example 12:
+Text: You shouldn't be so scared about getting married.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't scare your coworkers.
+Annotation from annotator: 4
+
+Example 14:
+Text: It's good for a mom to care about their children.
+Annotation from annotator: 4
+
+Example 15:
+Text: It is understandable for parents to want to take care of their child when they are in need.
+Annotation from annotator: 4
+
+Example 16:
+Text: It's not okay to have to rely on special tools when they aren't really needed.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's degrading to seek affirmation from people.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's good to want to keep your children safe in life.
+Annotation from annotator: 4
+
+Example 19:
+Text: It's expected that friends will play jokes on each other.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't put up an antenna if it's snowing outside.
+Annotation from annotator: 3
+
+Example 21:
+Text: It is ok to live with a roommate of the opposite sex if you are just friends.
+Annotation from annotator: 4
+
+Example 22:
+Text: It's not okay to set yourself up where their could be an argument with friends.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is bad to have arguments.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good to want someone to do their best.
+Annotation from annotator: 3
+
+Example 25:
+Text: You should always help out your customers when they have a problem.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's expected that girlfriends will want to look out for their boyfriends.
+Annotation from annotator: 4
+
+Example 27:
+Text: It's bad to feel other people are inferior to you.
+Annotation from annotator: 3
+
+Example 28:
+Text: You shouldn't be up and about if you're sick.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's wrong to hate fitness people.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's expected that parents should discipline their kids.
+Annotation from annotator: 3
+
+Target Example:
+Text: You shouldn't take it too personally if someone leaves you out of their plans
+Annotation from annotator:

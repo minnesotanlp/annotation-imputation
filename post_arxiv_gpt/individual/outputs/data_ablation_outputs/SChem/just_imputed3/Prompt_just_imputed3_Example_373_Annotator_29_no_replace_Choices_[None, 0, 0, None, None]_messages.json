@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "Estimated Examples:\nExample 1:\nText: It's bad to make big purchases behind your significant other's back.\nAnnotation from annotator: 3\n\nExample 2:\nText: People are expected to want to be close to their family.\nAnnotation from annotator: 3\n\nTarget Example:\nText: You should treat a person with a disability the same as you would anyone else.\nAnnotation from annotator:"
+    }
+]

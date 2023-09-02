@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <style>
+      /* Add the CSS content from style.css here */
+      body {
+          font-family: Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 2em; /* Adjust the size as desired */
+      }
+
+      h2 {
+        font-size: 1.5em; /* Adjust the size as desired */
+      }
+
+      h3 {
+        font-size: 1.2em; /* Adjust the size as desired */
+      }
+
+      p {
+        font-size: 1.2em; /* Adjust the size as desired */
+      }
+
+      .entry {
+          margin-bottom: 30px;
+      }
+
+      .distribution {
+          text-align: center;
+      }
+
+      .bar {
+          display: flex;
+          height: 20px;
+          margin: 10px 0;
+      }
+
+      .color-section {
+          height: 100%;
+      }
+
+      button {
+          display: block;
+          margin: 0 auto 30px auto;
+      }
+
+      
+    </style>
+    <title>{{ dataset_name }} KL Divergence Examples</title>
+    <script id="downloadScript">
+      function download(filename, text) {
+        var element = document.createElement('a');
+        element.setAttribute('href', 'data:text/html;charset=utf-8,' + encodeURIComponent(text));
+        element.setAttribute('download', filename);
+        element.style.display = 'none';
+        document.body.appendChild(element);
+        element.click();
+        document.body.removeChild(element);
+      }
+
+      function removeDownloadScript(html) {
+        var parser = new DOMParser();
+        var doc = parser.parseFromString(html, 'text/html');
+        var script = doc.getElementById('downloadScript');
+        script.remove();
+        return doc.documentElement.outerHTML;
+      }
+
+      window.addEventListener('load', function() {
+        var download_name = '{{ dataset_name }}_kl_divergence_examples.html';
+        download(download_name, removeDownloadScript(document.documentElement.outerHTML));
+      });
+    </script>
+  </head>
+  <body>
+    <h1> {{ dataset_name }} Dataset Imputation Comparison </h1>
+    <div class="container">
+      The page will automatically download itself once it has loaded from the live site. (The downloaded version will not download itself again.)
+      {% for example in examples %}
+        <div class="entry">
+          <h3>Example {{ example.index }}</h3>
+          <p>{{ example.text }}</p>
+          <div class="distribution">
+            <!-- Bold whichever one is lower -->
+            <p> KL: {% if example.kernel_kl < example.ncf_kl %}<b>{{ example.kernel_kl }} (Kernel)</b>{% else %}{{ example.kernel_kl }} (Kernel){% endif %} vs {% if example.ncf_kl < example.kernel_kl %}<b>{{ example.ncf_kl }} (NCF)</b>{% else %}{{ example.ncf_kl }} (NCF){% endif %}</p>
+            <p>Original Distribution: {{ example.orig_distribution }}</p>
+            <div class="bar">
+              {% for value, color in zip(example.orig_distribution, example.colors) %}
+                <div class="color-section" style="width: {{ value * 100 }}%; background-color: {{ color }};"></div>
+              {% endfor %}
+            </div>
+            <p>Kernel Distribution: {{ example.imputed_kernel_distribution }}</p>
+            <div class="bar">
+              {% for value, color in zip(example.imputed_kernel_distribution, example.colors) %}
+                <div class="color-section" style="width: {{ value * 100 }}%; background-color: {{ color }};"></div>
+              {% endfor %}
+            </div>
+            <p>NCF Distribution: {{ example.imputed_ncf_distribution }}</p>
+            <div class="bar">
+              {% for value, color in zip(example.imputed_ncf_distribution, example.colors) %}
+                <div class="color-section" style="width: {{ value * 100 }}%; background-color: {{ color }};"></div>
+              {% endfor %}
+            </div>
+            <br/>
+            <p>Original Annotations: {{ example.orig_annotations }}</p>
+            <div class="bar">
+              {% for color in example.orig_colors %}
+                <div class="color-section" style="width: {{ 100 / (example.orig_colors | length) }}%; background-color: {{ color }};"></div>
+              {% endfor %}
+            </div>
+            <p>Kernel-Imputed Annotations: {{ example.imputed_kernel_annotations }}</p>
+            <div class="bar">
+              {% for color in example.imputed_kernel_colors %}
+                <div class="color-section" style="width: {{ 100 / (example.imputed_kernel_colors | length) }}%; background-color: {{ color }};"></div>
+              {% endfor %}
+            </div>
+            <p>NCF-Imputed Annotations: {{ example.imputed_ncf_annotations }}</p>
+            <div class="bar">
+              {% for color in example.imputed_ncf_colors %}
+                <div class="color-section" style="width: {{ 100 / (example.imputed_ncf_colors | length) }}%; background-color: {{ color }};"></div>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </body>
+</html>

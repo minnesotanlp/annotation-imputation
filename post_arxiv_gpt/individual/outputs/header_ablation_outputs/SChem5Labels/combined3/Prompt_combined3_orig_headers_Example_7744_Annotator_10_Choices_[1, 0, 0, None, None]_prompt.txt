@@ -1,0 +1,245 @@
+Correct Examples:
+Example 1:
+Text: It's okay to be attracted to younger women.
+Annotation from annotator: 3
+
+Example 2:
+Text: You shouldn't cut people out of your life because of your stupid decision.
+Annotation from annotator: 3
+
+Example 3:
+Text: You shouldn't expect people to accept your gifts.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's pleasurable to kiss someone you desire.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's ok to say no if a friend asks for money.
+Annotation from annotator: 3
+
+Example 6:
+Text: It is understandable to isolate yourself when you are depressed.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's unfair to make siblings do all the work of caring for each other.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's okay to park wherever there's room
+Annotation from annotator: 3
+
+Example 9:
+Text: You shouldn't rack up large amounts of student loan debt.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's understandable if you don't like to talk about weird things from middle school.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's responsible to understand that for some, the cost of independence is too high.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's expected that you may not always like your job.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't say rude things about certain political parties.
+Annotation from annotator: 2
+
+Example 14:
+Text: It is good to check your grammar.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is common to have mutual friends with your ex.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's good to make confessions.
+Annotation from annotator: 2
+
+Example 17:
+Text: You are allowed to be concerned about the health of family members.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's kind to send someone an email that brightens up their day.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to alert people ahead of time so they can get there soon enough to help.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's okay to dislike babies.
+Annotation from annotator: 2
+
+Example 21:
+Text: You should always ask before going out somewhere if you're a kid.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's okay to want to spend holidays with the people who are important to you.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's okay to start your life over again if you have to.
+Annotation from annotator: 3
+
+Example 24:
+Text: It shouldn't take you a year to learn your multiplication tables since that is pretty easy stuff to earn.
+Annotation from annotator: 2
+
+Example 25:
+Text: You should call the police if someone is stalking you.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is rude to try to get other people in trouble
+Annotation from annotator: 3
+
+Example 27:
+Text: It is good to take responsibility when you have done something wrong
+Annotation from annotator: 3
+
+Example 28:
+Text: It's rude to be ashamed of people that love you.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's okay to remove yourself from situations which cause you stress.
+Annotation from annotator: 3
+
+Example 30:
+Text: It is good to plan in advance for a fun night out.
+Annotation from annotator: 3
+
+Imputed Examples:
+Example 1:
+Text: It's good to be aware of you quirks.
+Annotation from annotator: 3
+
+Example 2:
+Text: Parents should involve children in their problems
+Annotation from annotator: 2
+
+Example 3:
+Text: It is hard to work when there are unpleasant distractions.
+Annotation from annotator: 3
+
+Example 4:
+Text: You should respect the space of others if you a new member to a group.
+Annotation from annotator: 3
+
+Example 5:
+Text: You shouldn't put up with a rude roommate that tells you what to do.
+Annotation from annotator: 3
+
+Example 6:
+Text: It is bad to argue with others.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's okay if you feel sad that your child won't teach your grandchildren your language when you speak something different.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's important to have good hygiene when you want to be close to someone.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's not okay to not deal with your emotional problems.
+Annotation from annotator: 2
+
+Example 10:
+Text: It is okay to be offended by jokes.
+Annotation from annotator: 3
+
+Example 11:
+Text: It is weird to go out with your ex's best friend.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's good have a goal in life and pursue it.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is rude to not plan important life events
+Annotation from annotator: 3
+
+Example 14:
+Text: It's not okay to not take care of your responsibilities in life.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to keep check on one's home.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's crucial to accept others for who they are.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's sad to have regrets.
+Annotation from annotator: 3
+
+Example 18:
+Text: You shouldn't have sex with people if you have herpes.
+Annotation from annotator: 4
+
+Example 19:
+Text: It is good to have self confidence.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's excellent to participate in your local democracy.
+Annotation from annotator: 3
+
+Example 21:
+Text: It is okay to outgrow a friendship.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's wrong not to let someone show off that they are pregnant.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's okay to have differing views on sex in a marriage as long as you work through your issues.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's okay to have odd sexual fetishes.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's rude to ask people intrusive questions.
+Annotation from annotator: 3
+
+Example 26:
+Text: People should keep their word.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to be concerned about your home.
+Annotation from annotator: 4
+
+Example 28:
+Text: If you see police in the area, expect there to be an emergency.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's acceptable to choose to eat vegetarian.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's understandable if you're scared for your life when someone holds up your skin.
+Annotation from annotator: 4
+
+Target Example:
+Text: You should run to first base after hitting the ball at bat.
+Annotation from annotator:

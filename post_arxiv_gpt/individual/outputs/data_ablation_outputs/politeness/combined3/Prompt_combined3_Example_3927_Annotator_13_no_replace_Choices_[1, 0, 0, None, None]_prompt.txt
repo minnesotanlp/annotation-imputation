@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: That's OK &mdash; I just wondered if you had a new translation that used "on".  Where are you studying philosophy, by the way?
+Annotation from annotator: 15
+
+Example 2:
+Text: Hi the table you removed was added after a discussion <url>, so please give us a reason why you removed it??
+Annotation from annotator: 14
+
+Example 3:
+Text: Yeah, chances are it is. How long do you reckon it will be before he edits a Sydney related article?
+Annotation from annotator: 14
+
+Example 4:
+Text: I don't recall any consensus on that unilateral change. Can you direct me to it, please?
+Annotation from annotator: 15
+
+Example 5:
+Text: OK, maybe I only started noticing it after that incident. Do you have diffs for your earlier opinions?
+Annotation from annotator: 13
+
+Example 6:
+Text: Wait, Rob got blocked again? Why?
+Annotation from annotator: 13
+
+Example 7:
+Text: As I've only ever tagged one page for speedy deletion before (and that was an obvious cut-and-paste copyvio), I just want to make sure I tagged it properly.  Was db-1 the right tag for <url>?
+Annotation from annotator: 17
+
+Example 8:
+Text: It would be better to have this discussion on the TKD talk page. Why don't you re-post it there?
+Annotation from annotator: 13
+
+Example 9:
+Text: You lost me J. I did the edits because I remember you telling me that repeating things that are already in the wiki-link is unneeded and/or redundant. Do you not recall that instance?
+Annotation from annotator: 11
+
+Example 10:
+Text: You have given your point by point rebuttals to my reasons several times. How can you say I haven't provided my reasoning?
+Annotation from annotator: 10
+
+Example 11:
+Text: Owing to your status as an active wikipedian, I'm not yet reverting your edit to this article.  But what sense is it to move his birth location from the birthdate position in line one, to the top of (a newly formed) paragraph 2 which then (continues from the former paragraph 1 subject) takes off on a subject entirely unrelated to his birth?
+Annotation from annotator: 10
+
+Example 12:
+Text: Although Singapore does not use Traditional Chinese, I still think we should at least add Traditional Chinese titles for shows not made by Mediacorp, and bought from overseas (mainly Hong Kong) TV stations. What do you think?
+Annotation from annotator: 16
+
+Example 13:
+Text: Hi, You stated the editor is inactive, yet the editor is stalking me through MY CONTRIBUTIONS and reverting my entries and the editor left a message on the top of my TALK page, so why would you not block them ?  You didn't even give them a warning ?
+Annotation from annotator: 7
+
+Example 14:
+Text: It appears that that article was deleted because not enough info was found on the person. Doesn't the new article have enough info?
+Annotation from annotator: 12
+
+Example 15:
+Text: Some pictures are not mine, but those that I have changed, their own. And you can submit a complaint the owners of those photos?
+Annotation from annotator: 13
+
+Example 16:
+Text: Gee, thanks. But shouldn't it be a barnstar for '''''bad''''' humor, or maybe for the humor "phlegm"?
+Annotation from annotator: 11
+
+Example 17:
+Text: I'll have a look (probably just for copyediting duties) once Zag has finished the larger changes. Keep me posted?
+Annotation from annotator: 12
+
+Example 18:
+Text: You told me that you couldn't access the page in question, although I had recently changed the link to its new location. Maybe you just didn't bother to check it out?
+Annotation from annotator: 8
+
+Example 19:
+Text: I am happy to rewrite it but please explain to me how it is any different from the Warrior Lacrosse and STX pages? They don't have any links except to their own websites?
+Annotation from annotator: 19
+
+Example 20:
+Text: Howcheng, <url>u2014Great pic, but needs size, and the readers are caught between small at 550px or huge at full res. I wonder whether 600px would be possible, with a link to the interactive wideview function at the end of the blurb?
+Annotation from annotator: 14
+
+Example 21:
+Text: <url>  Honestly, I'd like to know if you really are defending <url>.  Do you really believe that they were justified?
+Annotation from annotator: 9
+
+Example 22:
+Text: So, let me make sure I understand this. You think that, if we remove an image as it does not meet the NFCC, you would then be able to upload the same image, only this time, it would meet the NFCC?
+Annotation from annotator: 9
+
+Example 23:
+Text: ---- Though I thought I would note that you have now exceeded <big>'''500'''</big> edits while on "wikibreak" and that is over less than 10 days, May I ask what kind of break is that???
+Annotation from annotator: 10
+
+Example 24:
+Text: Fair enough on the general murder victims. But Kriss Donald was British, was he not?
+Annotation from annotator: 11
+
+Example 25:
+Text: One to go. Shouldn't "now welcome" be "not welcome"?
+Annotation from annotator: 11
+
+Example 26:
+Text: Evidently, I don't have enough consciousness, because I haven't the foggiest idea of what you're talking about. Could you tell me?
+Annotation from annotator: 10
+
+Example 27:
+Text: I noticed that you have a lot of empty or blanked sandboxes that you used before moving articles to mainspace. Do you want these deleted or are you saving them for something?
+Annotation from annotator: 13
+
+Example 28:
+Text: u2013 Use that dash my friend. How are you geting on?
+Annotation from annotator: 15
+
+Example 29:
+Text: I noticed that (although it's striked through now), you considered opposing <url>'s adminship bid on the grounds that they suffer from auditory hallucinations. For future consideration, may I point you <url>?
+Annotation from annotator: 14
+
+Example 30:
+Text: I tried updating it to WP:DAB style but I got reverted. Can you use your magic there and explain to the user why we should follow MOS:DP and such?
+Annotation from annotator: 18
+
+Human-rated Examples:
+Example 1:
+Text: Hey, long time no seeing! How's stuff?
+Annotation from annotator: 14
+
+Example 2:
+Text: A quick question: I've noticed that people (including yourself) have been moving links to other wikis from the top of the article to the bottom. If this a good thing to do, then I can do likewise, but I wondered if there was a rationale / convention here?
+Annotation from annotator: 19
+
+Example 3:
+Text: That's a good idea. What about army and corps HQs though?
+Annotation from annotator: 16
+
+Example 4:
+Text: Thanks for your reply. I've tried to incorporate the references into the article; how is it now?
+Annotation from annotator: 16
+
+Example 5:
+Text: Tell me, after your uni starts again, will you not be as present again? And when does it get over?
+Annotation from annotator: 8
+
+Example 6:
+Text: Hullo. How goes it?
+Annotation from annotator: 16
+
+Example 7:
+Text: no, not funny, unless you are a mentally challenged person. Why don't you find a better hobby where you don't post lies and offend the people of Tibet?
+Annotation from annotator: 1
+
+Example 8:
+Text: The standard would be <person> (as we discussed at some length at the proposals page), to avoid the clumsy double plural.  Any objection if I change it back?
+Annotation from annotator: 20
+
+Example 9:
+Text: Huh? Is that a web address or a wikilink?
+Annotation from annotator: 8
+
+Example 10:
+Text: Yes, I'd seen your note, but it looks as though all five of those edits were made by users other than Terra. Do you have any reason to suspect they are his sockpuppets?
+Annotation from annotator: 15
+
+Example 11:
+Text: I am very confused right now. Please make it clearer to me how I vandalized?
+Annotation from annotator: 14
+
+Example 12:
+Text: Well, look again! Does ''<url>'' look like a dictionary-definition page to you?
+Annotation from annotator: 2
+
+Example 13:
+Text: Hi, I meant to do this a long time ago, but I guess I forgot.  You are the "Sandpiper" on the HP wiki right?
+Annotation from annotator: 16
+
+Example 14:
+Text: Mind <url>. Since when one edit after protection expiry is disruptive editing or editwarring?
+Annotation from annotator: 8
+
+Example 15:
+Text: Sure thing. Did you see my note higher up on the page?
+Annotation from annotator: 12
+
+Example 16:
+Text: By the way. Can you edit your own talk page when it is protected?
+Annotation from annotator: 13
+
+Example 17:
+Text: lol thanks. so, australia, huh?
+Annotation from annotator: 16
+
+Example 18:
+Text: ???You wat?
+Annotation from annotator: 2
+
+Example 19:
+Text: You recently attached a <nowiki><person></nowiki> tag to an article about an Azeri poet. May I ask why?
+Annotation from annotator: 20
+
+Example 20:
+Text: That's really nice! Did you decide against seeing vervandelt as dependent on "sich"?
+Annotation from annotator: 9
+
+Example 21:
+Text: Moonriddengirl, is there a specific reason to why they want to use the crop? Is it because there's attribution on it?
+Annotation from annotator: 15
+
+Example 22:
+Text: I'd be more than happy to :) It may take a while as I've got other stuff on, but as long as you're in no immediate hurry all should be well. Do you have any preferences/requirements for the end result?
+Annotation from annotator: 20
+
+Example 23:
+Text: Do you think we're good to go with the proposal, maybe later tonight, or tomorrow? Any other problems with the proposal as it stands?
+Annotation from annotator: 19
+
+Example 24:
+Text: What are your intentions after two months?  Will you continue your previous deletions?
+Annotation from annotator: 16
+
+Example 25:
+Text: Strikehold previously did a <url>.  What do you think about adding it to the template?
+Annotation from annotator: 20
+
+Example 26:
+Text: So, I'm a "deletion fanatic"? Why don't you refrain from uncivil remarks and focus on adding sources to your unsourced stubs - help the encyclopedia rather than pissing off people?
+Annotation from annotator: 4
+
+Example 27:
+Text: And wasting our time as well. I can only repeat: why don't you do constructive work by adding contents about your beloved Makedonia?
+Annotation from annotator: 8
+
+Example 28:
+Text: '''Wiki-star''': Hm? Is there a reason for your sorrow my good man?
+Annotation from annotator: 16
+
+Example 29:
+Text: Why did you "nowiki" the unblock template?  Is it just here for show, or do you want it to be considered?
+Annotation from annotator: 16
+
+Example 30:
+Text: What are your views on <url>? And how can you provide a source for a signature?
+Annotation from annotator: 17
+
+Target Example:
+Text: Interesting.  Would you mind asking at which Sae Gae seminar on what date it was taken?
+Annotation from annotator:

@@ -1,0 +1,133 @@
+Human-rated Examples:
+Example 1:
+Text: It's rude stomp around.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's wrong to assume things about people.
+Annotation from annotator: 2
+
+Example 3:
+Text: You should wear diapers if you are incontinent.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's rude to stereotype others because of their national origin.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's good to make promises to yourself.
+Annotation from annotator: 2
+
+Example 6:
+Text: It's good to find a person who you are romantically interested in.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's ok to feel excited about voting for the first time.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's good for one to find a special person to spend the rest of their life with.
+Annotation from annotator: 2
+
+Example 9:
+Text: If you have a wound, you should get it cleaned up so it doesn't get infected.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to celebrate someone's birthday.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's wrong to not help someone out when they really need you.
+Annotation from annotator: 2
+
+Example 12:
+Text: You shouldn't judge others on their appearance.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's wrong to be obsessed with an ex.
+Annotation from annotator: 2
+
+Example 14:
+Text: It is expected that people like the animals they care for.
+Annotation from annotator: 2
+
+Example 15:
+Text: You shouldn't keep your relationships a secret.
+Annotation from annotator: 2
+
+Example 16:
+Text: You shouldn't give pets as gifts because they are a big responsibility.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's good to visit the dentist regularly.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's good to visit with your sister-in-law.
+Annotation from annotator: 2
+
+Example 19:
+Text: You should speak politely to someone you love.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's okay to be worried when someone bandages an injury with cloth.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's understandable if you're annoyed when your friend climbs on you to be at the top of a pyramid.
+Annotation from annotator: 2
+
+Example 22:
+Text: It is rude to touch other people without permission.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's okay to be angry when someone quits a game before it is over.
+Annotation from annotator: 2
+
+Example 24:
+Text: You shouldn't blame people for your problems.
+Annotation from annotator: 2
+
+Example 25:
+Text: You're discouraged from gossiping about your family members.
+Annotation from annotator: 2
+
+Example 26:
+Text: You shouldn't expect your ex to remain friends with you.
+Annotation from annotator: 2
+
+Example 27:
+Text: You shouldn't embarrass your kids.
+Annotation from annotator: 2
+
+Example 28:
+Text: It's not okay to make something out to be something that it's not.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's understandable to be uncomfortable with people that are different than you.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's important to be true to yourself.
+Annotation from annotator: 2
+
+Estimated Examples:
+Example 1:
+Text: It's fine to be excited about an upcoming date.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to help out parents.
+Annotation from annotator: 4
+
+Target Example:
+Text: It's good to spend time with people outdoors.
+Annotation from annotator:

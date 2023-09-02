@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: ... And she actually is I mean seriously how weir is that, If I'm gonna date Robert Pattinson my bf will be older than my mum  lol
+Annotation from annotator: 2
+
+Example 2:
+Text: @smooore Auntie this is my new twitter because my old one will not let me change my picture
+Annotation from annotator: 2
+
+Example 3:
+Text: My little 2 year old daughter is sick  I hope she gets to feeling better!
+Annotation from annotator: 3
+
+Example 4:
+Text: Just used young Jedi for the first time in a conversation. Mission completed. tweetdeck is down  http://bit.ly/JkMm9
+Annotation from annotator: 2
+
+Example 5:
+Text: but for now we are young, let us lay in the sun and count every beautiful thing that we see
+Annotation from annotator: 3
+
+Example 6:
+Text: @moonfrye being cool... BUT I always seem to lose :-T PS. your oldest looks like Punky   adorable!
+Annotation from annotator: 2
+
+Example 7:
+Text: miss my old martial arts team
+Annotation from annotator: 2
+
+Example 8:
+Text: @pinksealight If the people involved are fine with it then its good. No probs. Age doesnt matter to me but I do prefer older men!
+Annotation from annotator: 3
+
+Example 9:
+Text: RIP GM  Thank god my truck is so old that all the parts are made 3rd party and will be around forever.
+Annotation from annotator: 2
+
+Example 10:
+Text: Does anyone else have issues w/ MacBook Pro power cords? I love Apple but this power cord is falling apart and is only a few months old.
+Annotation from annotator: 2
+
+Example 11:
+Text: anyone have a clue what front brakes cost on an older cavalier? Mine started to scream just as I got home.
+Annotation from annotator: 2
+
+Example 12:
+Text: At home, bored, it's raining again.The Good old British summer
+Annotation from annotator: 2
+
+Example 13:
+Text: @kpwerker re: raconteurs' old enough, *love* that song; radio DJ in Ireland gave it heaps of airplay. It's a good morning song
+Annotation from annotator: 2
+
+Example 14:
+Text: Oh Jesus so many freaks at slough with cameras taking pictures of old buses. @vuitton_ just left me, loner now
+Annotation from annotator: 2
+
+Example 15:
+Text: @mrposeyy I'm 19 and to old to be a fan of demi's  i get made fun of for it
+Annotation from annotator: 1
+
+Example 16:
+Text: Iphone V3 will have all the features/functions that Apple fanboys declared unwanted and irrelevant, cant wait to dig some old posts out
+Annotation from annotator: 2
+
+Example 17:
+Text: @BeautyBlogger Wish my blog qualified.  Not 3 months old yet
+Annotation from annotator: 2
+
+Example 18:
+Text: @Vlangham I've been stopped and warned before. First ticket. If revenues were better and I were younger, it might have been a warning.
+Annotation from annotator: 2
+
+Example 19:
+Text: @SylviaDiscount Same old same old...starts with C ends with T.....but didn't say a word about my phone today..weak prick...I WIN
+Annotation from annotator: 2
+
+Example 20:
+Text: @swtserenity looks very detailed.  a good one for those new to NYC.  Or even lets old hats find new places
+Annotation from annotator: 3
+
+Example 21:
+Text: @Baber_S hehe I know. I think it'll be this and my other foot and then that's my lot. I'm getting too old for this.
+Annotation from annotator: 2
+
+Example 22:
+Text: @JackBSmoke Yes, looks really oldskool
+Annotation from annotator: 2
+
+Example 23:
+Text: #dontyouhate being the youngest in your family, and getting all the hand-me-downs?
+Annotation from annotator: 2
+
+Example 24:
+Text: Is listening to old hip hop songs ha
+Annotation from annotator: 2
+
+Example 25:
+Text: @suavexxx lol i dont gangbang  old habit. long story. im in the seattle area. u heard of tacoma?
+Annotation from annotator: 2
+
+Example 26:
+Text: I feel like an old glove today.   I need a long bout of sleep, I think.
+Annotation from annotator: 2
+
+Example 27:
+Text: @Mello_84 My current crush: Bradley James from Merlin. And he is but a year older than me.
+Annotation from annotator: 2
+
+Example 28:
+Text: My old cat which I gave to my mother-in-law got hit by a car today
+Annotation from annotator: 2
+
+Example 29:
+Text: @natobasso Ain't that the same old story everywhere...
+Annotation from annotator: 2
+
+Example 30:
+Text: Browsing for vibrators with a chirpy group of older women offers some eye-opening reminders about aging, sex and camaraderie.
+Annotation from annotator: 2
+
+Target Example:
+Text: I got contact today. It took fixed my night vision and depth perception problem. But, now I need reading glasses. Ugh! Getting old sucks
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

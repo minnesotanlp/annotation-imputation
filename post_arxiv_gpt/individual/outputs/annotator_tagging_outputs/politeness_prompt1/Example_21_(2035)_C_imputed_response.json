@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Pa1nlbnxyQVPhqYNexYK0UL6Re3r",
+    "object": "chat.completion",
+    "created": 1686331047,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 761,
+        "completion_tokens": 35,
+        "total_tokens": 796
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to predict exactly how annotator C would label this example, but based on their previous annotations, it is likely to be around 12-16.0."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: You shouldn't date a sugarbaby.
+Annotation from annotator: 2
+
+Example 2:
+Text: It's wrong not to be there for your kids.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should be willing to talk to people about your art if you post it publicly.
+Annotation from annotator: 2
+
+Example 4:
+Text: It's good to teach children that their boundaries should be respected.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's okay to be sad when someone breaks up with you based on your past relationships.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's morally wrong to disrespect another person.
+Annotation from annotator: 3
+
+Example 7:
+Text: It is normal not to realize someone's in love with you
+Annotation from annotator: 1
+
+Example 8:
+Text: It's courteous for you to reply back to people who messaged you online
+Annotation from annotator: 3
+
+Example 9:
+Text: It is ok to put your candy in your pocket.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to meet the challenges of your career.
+Annotation from annotator: 3
+
+Example 11:
+Text: You should get over the past if it's tearing a family apart.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is bad to lie to others.
+Annotation from annotator: 3
+
+Example 13:
+Text: People should seek treatment for substance dependence.
+Annotation from annotator: 2
+
+Example 14:
+Text: It is important to get an education.
+Annotation from annotator: 3
+
+Example 15:
+Text: You shouldn't do things that make you uncomfortable.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's good want to help a troubled family member.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is wrong to be excited about harming others.
+Annotation from annotator: 3
+
+Example 18:
+Text: When cats fight, it can cause injuries.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's not okay to get enjoyment from playing tricks on others.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's bad to do things that upset your parents.
+Annotation from annotator: 3
+
+Example 21:
+Text: It is rude to stare at people.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good to improve the things you like in life.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is nostalgic to recall places from your childhood.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't pry into your child's personal business.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's okay to like to spend time alone.
+Annotation from annotator: 3
+
+Example 26:
+Text: You should apologize if you push someone into a pool.
+Annotation from annotator: 2
+
+Example 27:
+Text: It's good to get out of your comfort zone and try something new.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's okay to be worried about a job interview.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's not okay to stray from a relationship.
+Annotation from annotator: 1
+
+Example 30:
+Text: You should confer with your partner before telling others about big events.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should see a doctor if you have bad burns.
+Annotation from annotator:

@@ -1,0 +1,83 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: @CarnellUNYC LoL ooh yeahShe died tho that was hard4me. I had 2 older bros who body slammed, piledrived me, etc n she was my only outlet
+Annotation from annotator: 0
+
+Example 2:
+Text: @KayTweezy yea man, it just gets old. I need a break from all this snatch. I'm knee deep in it
+Annotation from annotator: 1
+
+Example 3:
+Text: @Mayin_ Today I remembered smelling popcorn, brain freeze and vapor rub... the olden days
+Annotation from annotator: 2
+
+Example 4:
+Text: @MicheleAnneJ Better than being a boring 22 year old
+Annotation from annotator: 3
+
+Example 5:
+Text: @PopCap_Aoife the second I opened the package, my two year old saw them and shouted "PRESENTS" and claimed them for his own
+Annotation from annotator: 3
+
+Example 6:
+Text: @ViveloHoy Yes! An oldie but a goodie.
+Annotation from annotator: 3
+
+Example 7:
+Text: @beautiful_alone  Latest pix @ home on camera. Here's an old 1 in meantime. Bella (lilac point) passed last yr  http://twitpic.com/7lzwf
+Annotation from annotator: 1
+
+Example 8:
+Text: @chrishanrahan excellent! There's hope for the younger generation yet
+Annotation from annotator: 2
+
+Example 9:
+Text: @jordanknight my 3 year old niece sings along to NKOTB's Dirty Dancing!
+Annotation from annotator: 2
+
+Example 10:
+Text: @kiddoojojo @Shannati Omgawsh i found so many old pictures of us in my photobucket, Blockparty,Clevelandst,longmall walk. omg memories
+Annotation from annotator: 3
+
+Example 11:
+Text: @nikkington it means that u r still young and don't need wisdom..
+Annotation from annotator: 2
+
+Example 12:
+Text: @sparkica MGM yell it is. Brings back some memories. Damn I'm old
+Annotation from annotator: 2
+
+Example 13:
+Text: @spitphyre arre seriously! They shud take his sperm nd clone him into 23 yr old single guys
+Annotation from annotator: 1
+
+Example 14:
+Text: Adobe #Photoshop makes your Grandma young  http://tinyurl.com/kv7ot5
+Annotation from annotator: 3
+
+Example 15:
+Text: Are you ever too old for jelly or banana custard? Fuck it. I'm making both
+Annotation from annotator: 2
+
+Example 16:
+Text: At Beta nightclub. Clearly i'm the oldest person here.
+Annotation from annotator: 2
+
+Example 17:
+Text: Basically my Notepad in my old KrazR had a lot of precious priceless spontaneous musings that I struggled so hard to remember & now lost.
+Annotation from annotator: 1
+
+Example 18:
+Text: Finally! A pic up! It's an oldie but a goodie.
+Annotation from annotator: 3
+
+Example 19:
+Text: Free food, helped clean a house, played CoH, made a couple drawings, talked with old friends, and cooled off in the shower.  Decent day.
+Annotation from annotator: 3
+
+Target Example:
+Text: I love windows vista! but i have to admit i miss my old computer ive had it for over 4 years
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

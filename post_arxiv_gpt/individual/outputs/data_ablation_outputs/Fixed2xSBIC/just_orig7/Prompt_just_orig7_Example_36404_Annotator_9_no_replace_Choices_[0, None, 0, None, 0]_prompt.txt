@@ -1,0 +1,141 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Correct Examples:
+Example 1:
+Text: If I could describe my sex life with spongebob quotes; "ARE YOU READY KIDS?"
+Annotation from annotator: 2
+
+Example 2:
+Text: My dick, your bitch on it.
+Annotation from annotator: 2
+
+Example 3:
+Text: An overdose of enthusiasm is particularly troublesome for you ... More for Taurus https://t.co/ZEUy0GZXD5
+Annotation from annotator: 0
+
+Example 4:
+Text: """I'm going to kill them all. Every fucking one of them"" -Eren #AoTQuotes"
+Annotation from annotator: 2
+
+Example 5:
+Text: Dear republicucks: yes we've noticed how quick you were to throw judge Moore under the bus we also know it's not a coincidence you and the left oppose the same people
+Annotation from annotator: 2
+
+Example 6:
+Text: tyler didn't graduate or have a GED when we got together not he's got it and talking about going to college. i'm a v proud fiancé &#128519;
+Annotation from annotator: 0
+
+Example 7:
+Text: Boneless wings are chicken nuggets and ur a pussy if u eat them
+Annotation from annotator: 2
+
+Example 8:
+Text: Stormers bark loudly
+And their torches are tiki 
+Not very scary
+Annotation from annotator: 0
+
+Example 9:
+Text: -DJ- TRUMP: 
+
+CNN’s Sanjay Gupta roasted for stating Trump has heart disease after White House doctor gives clean bill of health %s.
+Annotation from annotator: 2
+
+Example 10:
+Text: Please excuse my bitch ass phone it's been a hoe lately
+Annotation from annotator: 2
+
+Example 11:
+Text: someone call peta <allcaps> quick ! i heard of cases of wild animals running rampant in european cities on nye <allcaps>
+Annotation from annotator: 0
+
+Example 12:
+Text: Friend:: Well what if we have a disabled kid? What happens then? Her fiance:: Well, then we drown them at birth. Problem solved. As reported on my friend's blog. Made me feel like as a disabled person, able-bodied people think my life has no value.
+Annotation from annotator: 2
+
+Example 13:
+Text: Kristaps Porzingis should be #Knicks' new go-to guy — if healthy | @Al_Iannazzone https://t.co/gyWeG25XUq https://t.co/7n5qwdIg2G
+Annotation from annotator: 0
+
+Example 14:
+Text: Seeing so many basic bitches rn
+Annotation from annotator: 2
+
+Example 15:
+Text: I like my women like i like my homework Easy to do when others are around
+Annotation from annotator: 2
+
+Example 16:
+Text: > be me
+> attend random church
+> starts fine
+> woman guest speaker
+> 40 minutes of Marxist garbage
+> Muh indigenous ppls, social justice, climate justice
+White guilt, sins of ancestors
+> wait to see what friends says
+> all 3 non political normies with me say they were off put by her
+
+ there's hope
+Annotation from annotator: 2
+
+Example 17:
+Text: I just tried Jewish food and it was fucking gross! I'm STILL trying to wash the taste of ash out of my mouth and now I have some killer gas.
+Annotation from annotator: 2
+
+Example 18:
+Text: Handing over the pen to God to write your story is the best thing that will ever happen to you lemme tell ya
+Annotation from annotator: 0
+
+Example 19:
+Text: The picture in my sig is a Mennonite farm in Creston .. just a couple miles from where I am typing this .
+Annotation from annotator: 0
+
+Example 20:
+Text: What do jews and santa have in common? Both leave through the chimney.
+Annotation from annotator: 2
+
+Example 21:
+Text: What do you call killing gay people? Natural Selection.
+Annotation from annotator: 2
+
+Example 22:
+Text: I got. A lot. Of hoes.... All up on my dick
+Annotation from annotator: 2
+
+Example 23:
+Text: A man is driving through the US border The customs officer asks him "Are these your kids?" the man replies "Yes, but not the ones in the trunk!"
+Annotation from annotator: 2
+
+Example 24:
+Text: Remember , if time should come when you have to make a choice between what is right and what is easy.
+Annotation from annotator: 0
+
+Example 25:
+Text: 1 loyal girl &gt; 1OO hoes
+Annotation from annotator: 2
+
+Example 26:
+Text: the fire in london is tragic . <repeat> i reckon we could of got at least <number> more muslims in there .
+Annotation from annotator: 2
+
+Example 27:
+Text: What do Lactose Intolerant people and Jews have in common? They both have the tendency of getting gassed.
+Annotation from annotator: 2
+
+Example 28:
+Text: Are there any sources that state that it was Trotsky who reiceived the money and was responsible for destruction of Black Hundreds , as opposed to Lenin or another Bolshevik leader ?
+Annotation from annotator: 1
+
+Example 29:
+Text: What's the worst thing to tell a Saudi Arabian interrogator? We need to speed this up, chop-chop.
+Annotation from annotator: 2
+
+Example 30:
+Text: "@JudicialWatch A bunch of crap. These so called ""Powwows"" should be held at Border Patrol HQ. same for all government agencies."
+Annotation from annotator: 2
+
+Target Example:
+Text: Those countries are much better under a government of terror made by themselves and for themselves .
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

@@ -1,0 +1,82 @@
+Example 1:
+Text: I really want a car/learn to drive but I can't afford the insurance  anyone know the cheapest/cheap car to insure for an 18 yr old?
+Annotation from annotator: 2
+
+Example 2:
+Text: I'm on the proses or rewatching the old kimura takuya dorama..love generation here I come
+Annotation from annotator: 2
+
+Example 3:
+Text: Just had an impomptu visit with my grandma and 2 nephews. Chase told me, "it's ok to fart."  The wisdom of a 4 year old
+Annotation from annotator: 2
+
+Example 4:
+Text: Love all of those subjects, with the exception of maths, but I'll be okay. Don't worry about dear old me  x Night tweers (peers!! Get it?)
+Annotation from annotator: 2
+
+Example 5:
+Text: O wow i just found an old binder with my old friends signature on it  now im sad.
+Annotation from annotator: 2
+
+Example 6:
+Text: OK, I need ideas for a fathers day gift for my dad.  I had bought him a bunch of old jazz records but they got left in my old car
+Annotation from annotator: 2
+
+Example 7:
+Text: Spy an assistant trying to sell an old granny on 800 a month a current account plus.They have no shame the co op
+Annotation from annotator: 2
+
+Example 8:
+Text: The waiters called me "air" at every verbal exchange. Christ I feel old
+Annotation from annotator: 2
+
+Example 9:
+Text: There is this younger black couple in here, I think they are so cute. In this area you rarely see something like this, they make me smile
+Annotation from annotator: 2
+
+Example 10:
+Text: This economic collapse has been disastrous for too many old people.
+Annotation from annotator: 2
+
+Example 11:
+Text: Todays a new day. & a exciting day at that, I am a new young woman.out w/ the old & in w/ the new.
+Annotation from annotator: 2
+
+Example 12:
+Text: Why can't I get any whitening products to work lately!  Grr.. my teeth look like they belong to a 90 year old
+Annotation from annotator: 2
+
+Example 13:
+Text: Work tomorrow  I'm thinking abt cleaning out my closet tomorrow___out w the old! I wonder if @kyddange wants to help?
+Annotation from annotator: 2
+
+Example 14:
+Text: http://twitpic.com/6q4o2 my friend ryan dates 18yr olds...so this bday present seemed proper for him.
+Annotation from annotator: 2
+
+Example 15:
+Text: i dont want to go to work at have  20 year olds be mean to me for seven hours
+Annotation from annotator: 2
+
+Example 16:
+Text: i love 'we are the young', mcfly should play it on concerts
+Annotation from annotator: 2
+
+Example 17:
+Text: its my bday!!! I'm gettin older!
+Annotation from annotator: 2
+
+Example 18:
+Text: just re-arranged my desktop and read a really old msn convo with curtis wowww. like WOOW. i have changed to much. time has soured me
+Annotation from annotator: 2
+
+Example 19:
+Text: playing with my little one. Almost a year old  Went too fast
+Annotation from annotator: 2
+
+Example 20:
+Text: ridiculous as fuck. i went to Tokyo Discount and got a boat load of goodies!!  ahahaha. and tons of pictures. and talking about being old.
+Annotation from annotator: 1
+
+Text: Just IMDB'd Moonwalker; had no idea a young @MoTancharoen was a dancer in the movie   Awesome sauce!
+Annotation from annotator:

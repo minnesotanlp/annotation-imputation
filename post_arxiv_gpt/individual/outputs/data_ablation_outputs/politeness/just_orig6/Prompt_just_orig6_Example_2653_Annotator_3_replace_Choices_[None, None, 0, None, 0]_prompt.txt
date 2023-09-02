@@ -1,0 +1,6 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Target Example:
+Text: I've removed my remark. But if somebody puts words in another's mouth, and that second person states that is not what he meant, and the first person responds that no, that ''is'' what the second person meant, well, wouldn't you say that's a little weird?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

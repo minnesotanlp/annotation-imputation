@@ -1,0 +1,9 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Human-rated Examples:
+
+
+Target Example:
+Text: most woman say once you go black you never go back . <repeat> good ! i do n't want any of them filthy bitches giving me aids
+Annotation from annotator:
+Your output should be a single integer and nothing else.

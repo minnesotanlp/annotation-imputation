@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: You shouldn't play your music really loudly because it's rude and annoying.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good to help yourself get over your depression.
+Annotation from annotator: 3
+
+Example 3:
+Text: You should be understanding of your family's decisions when they're weak.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is dangerous for a doctor to misdiagnose a patient.
+Annotation from annotator: 4
+
+Example 5:
+Text: It's good to have income.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's good to teach children that their boundaries should be respected.
+Annotation from annotator: 4
+
+Example 7:
+Text: It's good to socialize with others at school.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's understandable to want to get back at someone.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's okay to be suspicious when your friend is keeping secrets.
+Annotation from annotator: 3
+
+Example 10:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's wrong to think you're responsible for somebody else's life
+Annotation from annotator: 3
+
+Example 12:
+Text: It's good to want someone to do their best.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is bad to drink too much.
+Annotation from annotator: 3
+
+Example 14:
+Text: You shouldn't get pissed off at your siblings.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's wrong to be into something that is annoying.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's nice to represent change in your generation.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's considered juvenile to hate people without a good reason.
+Annotation from annotator: 3
+
+Example 18:
+Text: You should shave your body hair if you're on a swim team or involved in other sports so you look nicer.
+Annotation from annotator: 2
+
+Example 19:
+Text: You shouldn't care who your friends hook up with.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's responsible to take part in rearing a younger sibling.
+Annotation from annotator: 4
+
+Example 21:
+Text: It's discouraged to be in love with your own image.
+Annotation from annotator: 1
+
+Example 22:
+Text: It's rude to support one person more than another.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's okay to be upset if someone you report to at work lets you take the blame for something you didn't do.
+Annotation from annotator: 4
+
+Example 24:
+Text: It's bad to make big purchases behind your significant other's back.
+Annotation from annotator: 3
+
+Example 25:
+Text: You shouldn't play pranks on your classmates.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's good to work at home.
+Annotation from annotator: 3
+
+Example 27:
+Text: You shouldn't be with someone you don't love.
+Annotation from annotator: 3
+
+Example 28:
+Text: You shouldn't take it too personally if someone leaves you out of their plans
+Annotation from annotator: 3
+
+Example 29:
+Text: It is good to be patient.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't be crazy about things.
+Annotation from annotator: 2
+
+Target Example:
+Text: You should be focused on learning while at school.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

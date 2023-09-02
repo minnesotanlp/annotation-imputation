@@ -1,0 +1,39 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Human-Rated Examples:
+Example 1:
+Text: The film noir edits are continuing. Given the sockpuppetry, is WP:AIV appropriate without further warnings?
+Annotation from annotator: 12
+
+Example 2:
+Text: Among the measures you described, it sounds as if the next thing to try is option-command-start and rebuild the desktop. Does rebuilding the desktop mean I'd get a blank and have to restore all the icons?
+Annotation from annotator: 12
+
+Example 3:
+Text: Thank you. Do you have any tips on the Kathy Dunderdale article to improve it?
+Annotation from annotator: 16
+
+Example 4:
+Text: There's an interesting discussion here: <url>. Care to explain?
+Annotation from annotator: 6
+
+Example 5:
+Text: I must be missing something here.  Would you mind clarifying for me the nature of your extensive work on <url>?
+Annotation from annotator: 5
+
+Example 6:
+Text: The history section appears to be copied and pasted directly from somewhere. Is this a copyvio issue?
+Annotation from annotator: 12
+
+Example 7:
+Text: You said a user can't be blocked until their last warning. Who has the authority to give a last warning?
+Annotation from annotator: 7
+
+Example 8:
+Text: Thanks for the tip.  How come I sometimes come across pages where the trailing 's' is left off (or am I confusing that with the 's situation)?
+Annotation from annotator: 11
+
+Target Example:
+Text: I noticed that you have a little note at the top saying your status. How do you do that?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

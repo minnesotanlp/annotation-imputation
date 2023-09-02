@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: You should love your parents.
+Annotation from annotator: 3
+
+Example 2:
+Text: You should always respect your partner's choices.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's bad to hate your family.
+Annotation from annotator: 3
+
+Example 4:
+Text: People shouldn't want others to debase them, as it mars their souls.
+Annotation from annotator: 3
+
+Example 5:
+Text: It’s important to have hobbies.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's fine to establish rules for how long your rommates can have company stay.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's considered juvenile to hate people without a good reason.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's good to get back at a cheating partner.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's bad to use sex to get what you want.
+Annotation from annotator: 3
+
+Example 10:
+Text: You should not pursue a relationship with someone much younger than you.
+Annotation from annotator: 3
+
+Example 11:
+Text: You shouldn't expect people to work if they don't want to.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's okay to show your disgruntlement with what someone does.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's wrong for partners to lie to each other.
+Annotation from annotator: 4
+
+Example 14:
+Text: It is good to give your kids life advice.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's not okay to expect more than a person can give.
+Annotation from annotator: 3
+
+Example 16:
+Text: It is good to be remorseful and admit when you've done wrong
+Annotation from annotator: 4
+
+Example 17:
+Text: Relationships are expected to have clear communication.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's good to want to have the admiration of your peers.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's understandable that you don't want to be burden by other people's moments in their lives.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's bad to feel other people are inferior to you.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's noble to be true to yourself.
+Annotation from annotator: 3
+
+Example 22:
+Text: It is good to be yourself.
+Annotation from annotator: 4
+
+Example 23:
+Text: It's wrong for a parent to do things to make their children loose respect of them.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's OK not to take life too seriously.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is understandable for parents to want to take care of their child when they are in need.
+Annotation from annotator: 4
+
+Example 26:
+Text: You should always help out your customers when they have a problem.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is good for couples to communicate their problems and move on when there is tension after a fight.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should always give your kids financial advice.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's wrong to do drugs with your partner.
+Annotation from annotator: 3
+
+Example 30:
+Text: It is wrong to insult your boyfriend and then expect him to want to be around you.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's expected that friends will play jokes on each other.
+Annotation from annotator:

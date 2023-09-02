@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: @AKGovSarahPalin I hope you will bring awareness to other disabilities, my oldest son has severe Dyspraxia and struggles daily
+Annotation from annotator: 1
+
+Example 2:
+Text: @nicolerichie dont u have an old phone to use today? and tomorrow u will buy a new blackberry!
+Annotation from annotator: 3
+
+Example 3:
+Text: The older worker loses their health and dental benefits, they lose out on contributing to their pension fund and social security (so their social security paycheck will be less at retirement).
+Annotation from annotator: 2
+
+Example 4:
+Text: People hated me ever since I was younger.
+Annotation from annotator: 2
+
+Example 5:
+Text: is taking my fragile old body to bed for rest. Old fart needs his sleep. Just kiddying  night my twitters loveeeeeeee youuuuuuuu
+Annotation from annotator: 3
+
+Example 6:
+Text: @i2w @ray_ardes @Jembogawa How was the Eurovision experience? Cheese a-plenty? I bet it wasn't the same without old 'OriginalTog
+Annotation from annotator: 2
+
+Example 7:
+Text: when happen this ? i waant the old ash BAACK !
+Annotation from annotator: 2
+
+Example 8:
+Text: @knitkat hey, don't beat me up - behind the wizard's curtain is a gentle old man
+Annotation from annotator: 1
+
+Example 9:
+Text: Yeah princesses are prettier and younger. Queens are old and fat.  have fun!  :b
+Annotation from annotator: 2
+
+Example 10:
+Text: @wordnerdy Aw, but you're there!  And I miss my old yard  http://twitpic.com/6pgkp
+Annotation from annotator: 2
+
+Example 11:
+Text: got woken up by an energetic four year old :/ now has to stay awake so I can babysit.. yay  *I miss youu*
+Annotation from annotator: 1
+
+Example 12:
+Text: @tellyyy man whatever your just mad cuz you drive like an old lady lol but i love you baby
+Annotation from annotator: 1
+
+Example 13:
+Text: @catmikk oh, that's just me getting old
+Annotation from annotator: 1
+
+Example 14:
+Text: Using webapps on the Palm Pre...like the old ghetto iPhone days. Have to do until more apps come out
+Annotation from annotator: 2
+
+Example 15:
+Text: @jmellc I feel alot better today. I still got cold in me but at least my body isn't aching like yesterday. My youngest is sick now
+Annotation from annotator: 2
+
+Example 16:
+Text: I'm 18 years old !!! So what's next  not happy and drunk. Need sun love  like family love
+Annotation from annotator: 3
+
+Example 17:
+Text: @Kimble09 I know! He's all old now. I think I like him b/c he's different. I wish I was born in the 80s!
+Annotation from annotator: 3
+
+Example 18:
+Text: @apfelsine oh I love the old stuff! Brings back memories  (been a fan since Pray). Don't wanna see too many vids though..
+Annotation from annotator: 3
+
+Example 19:
+Text: @affy how's your date young man?
+Annotation from annotator: 2
+
+Example 20:
+Text: @spmwinkel Didn't realize you were that young! Advanced Happy Birthday Stefan. MTFBWY... Always!
+Annotation from annotator: 1
+
+Example 21:
+Text: @JKeith1982 Lol no this was at our old house. We WISH we got confidential faxes at News24
+Annotation from annotator: 2
+
+Example 22:
+Text: @Lyssarrgh hmmm, rinse youngahsss, seems kinda dead without temps
+Annotation from annotator: 2
+
+Example 23:
+Text: "The roof, the roof, the roof is on fire!" Takn it old school. What is your favorite old school song or rap?
+Annotation from annotator: 2
+
+Example 24:
+Text: Jack Kemp died... just reminds me of '96 election & how I threw a tantrum when Dole/Kemp won our school's mock election. I was 6 yrs old
+Annotation from annotator: 2
+
+Example 25:
+Text: @shotdown Haha, yeah, bitter old man that he is!
+Annotation from annotator: 1
+
+Example 26:
+Text: How can you tell a 3 year old no after he says 'Can you play catch with me?' b/c his baby sister has to be fed...
+Annotation from annotator: 2
+
+Example 27:
+Text: @_marinalove thats sad  she was young too, terrible either way but you would think being so young she'd be strong enough to fight it off..
+Annotation from annotator: 1
+
+Example 28:
+Text: Today in germany: elections of the eurpean parlament and some local politicans. --But Im too young!!
+Annotation from annotator: 1
+
+Example 29:
+Text: @kathysena I can't remember the first time I saw it, but it wasn't in 1968. I was 3.  Much better seeing it as a much older person.
+Annotation from annotator: 2
+
+Example 30:
+Text: @vikasol The cousin I was watchin is 5months old.  This weekend is my nephews 1st birthday,... so we are havin his party!
+Annotation from annotator: 2
+
+Target Example:
+Text: I think my 5 week old is already spoiled. She won't sleep more then 15mins unless I'm holding her
+Annotation from annotator:
+Your output should be a single integer and nothing else.

@@ -1,0 +1,131 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: Hey There I just moved here to Saskatoon and was hoping to hook up with some WN in the city here .
+Annotation from annotator: 2
+
+Example 2:
+Text: im trying to buy this fucking camera and it's out of stock everywhere
+Annotation from annotator: 0
+
+Example 3:
+Text: Has the FBI been sent out to the scene, if so, it’s more than we think⁉️
+Annotation from annotator: 0
+
+Example 4:
+Text: why did they plant trees in harlem ? for free public transit .
+Annotation from annotator: 2
+
+Example 5:
+Text: there was some fucking tea spilled at work today i thought two girls were gonna fight
+Annotation from annotator: 0
+
+Example 6:
+Text: "RT @Sargon_of_Akkad: @ABCRoosevelt @addamschloe I don't hate him. I'm tired of idiots wasting my time with what they think are ""gotcha"" mom…"
+Annotation from annotator: 2
+
+Example 7:
+Text: Haven't even went to class yet &amp; everybody is pissing me the fuck off !!!!!!
+Annotation from annotator: 2
+
+Example 8:
+Text: Going to be posting some music videos on here so let’s get ready to Rock!
+Annotation from annotator: 0
+
+Example 9:
+Text: #junkstatus is bad. The worse threat to all lives is the enduring political uncertainty in ANC. Like a sinking Titanic, lots will go with it
+Annotation from annotator: 0
+
+Example 10:
+Text: If your dad is black, why don't you have the hair? Or the nose?
+Annotation from annotator: 2
+
+Example 11:
+Text: I wouldn't mind being incel if I could be neet
+But society forces me to be a slave and only gives me enough to survive and nothing beyond that.
+Annotation from annotator: 2
+
+Example 12:
+Text: Cybernetics should be given to all those who wish to evolve humanity.My visions for humanity are evolutionary.
+Annotation from annotator: 0
+
+Example 13:
+Text: Anyone throwing shade on Barry Manilow today, I just have two words for you. FUUUUUCK. YOOOOOOOOOOOOOOU.
+Annotation from annotator: 2
+
+Example 14:
+Text: I'm content with my life at this point. Therefore if you want to leave, then fine go on. I'll be just fine with or without you. &#128522;
+Annotation from annotator: 0
+
+Example 15:
+Text: RT @docrocktex26: All these fuckers who thought email and a nebulous speech to Goldman Sachs were disqualifying look real FUCKING petty and…
+Annotation from annotator: 2
+
+Example 16:
+Text: what do you call antique farm equipment ? old black people
+Annotation from annotator: 2
+
+Example 17:
+Text: Nigga on the radio just said it's a tornado 9 miles from Swainsboro got me fucked up
+Annotation from annotator: 2
+
+Example 18:
+Text: Showerthought: The word "creep" is essentially "slut" for men.
+Annotation from annotator: 2
+
+Example 19:
+Text: #addwalrustoruinanything Still hate Bob Bob's a walrus face douche bag
+Annotation from annotator: 2
+
+Example 20:
+Text: This is a great resource , but they have practically no pro-White books in their library .
+Annotation from annotator: 1
+
+Example 21:
+Text: When I was about her age I had a a close Swedish female friend whose Swedish family and friends I also met , all of them looked far better than this contestant .
+Annotation from annotator: 0
+
+Example 22:
+Text: In life you will meet two kinds of people. Ones who build you up, and ones who tear you down. But in the end, you will thank them both.
+Annotation from annotator: 0
+
+Example 23:
+Text: I want to thank you for responding to my thread .
+Annotation from annotator: 0
+
+Example 24:
+Text: So how do you explain America 's being behind almost every industrialized nation in the world when it comes to education ?
+Annotation from annotator: 0
+
+Example 25:
+Text: @AngelooNoLackin when don't you , you fucking slut
+Annotation from annotator: 2
+
+Example 26:
+Text: Hello people in #Paris, #London, #NYC and elsewhere! Watch Eloise (2017) here: https://t.co/2Vqc0S08uZ https://t.co/kE1B2ZWKB8
+Annotation from annotator: 0
+
+Example 27:
+Text: dont get me wrong I was feeling the bern but since that didnt happen i was nearly PRAYING daily for hrc and I'll never stop being mad
+Annotation from annotator: 0
+
+Example 28:
+Text: My grandma:: [My name] needs to lose weight! That's why she's never had a date. My mom:: Or maybe she goes on dates with girls and doesn't want to tell you about it. My grandma:: Haha! That's a good one. Made me feel fat-shamed, prude-shamed and queer-shamed all at once. Like my body and my love life are open to discussion and my sexuality is a joke.
+Annotation from annotator: 0
+
+Example 29:
+Text: Im gonna break every mirror in my house
+Ill never see my face again
+Annotation from annotator: 0
+
+Example 30:
+Text: Sadly that is what happens when you dumb down a society and make everything sexual.Not even innocent animals are out of the question for these sickos .
+Annotation from annotator: 2
+
+Target Example:
+Text: A woman sitting across from me was just giving me a dirty look, while breast feeding her baby on the bus...
+
+She was probably wondering what I was doing breast feeding her baby.
+Annotation from annotator:
+Your output should be a single integer and nothing else.

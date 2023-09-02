@@ -1,0 +1,7 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Predict the integer label of the following example:
+Target Example:
+Text: How can a permablocked user edit? And who would set up a sockpuppet months in advance?
+Annotation from annotator:
+Your output should be a single integer and nothing else.

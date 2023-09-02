@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Human-rated Examples: (there may not be any)
+Example 1:
+Text: <url> is fooling around with the Rubinstein and Horowitz articles again.  Is there a way to get him banned?
+Annotation from annotator: 8
+
+Example 2:
+Text: See my comments on the article's talk page, which is on my watchlist by the way. Be bold?
+Annotation from annotator: 12
+
+Example 3:
+Text: Re your remarks on the talk page of 9/11: '''I do not troll'''. Comprende?
+Annotation from annotator: 4
+
+Example 4:
+Text: So it seems we both already know the problems with the current logo and the SVG one. What can I do to help you?
+Annotation from annotator: 8
+
+Example 5:
+Text: Do You have the list of other flag bearers from other countries? And do you have a video link of the parade of nations?
+Annotation from annotator: 24
+
+Example 6:
+Text: I am waiting for some belly rubs, and my little fangs are sticking out! Can you believe it, in real life I'm exactly that cute?
+Annotation from annotator: 12
+
+Example 7:
+Text: OK, I'll bite. How is ''Matt "Dirty" Sanchez'' to be construed as anything other than a personal attack?
+Annotation from annotator: 8
+
+Example 8:
+Text: I don't follow.  Can you address the above with regard to why it ''shouldn't'' be speedily deleted, as a recreation of deleted material, and as a content fork?
+Annotation from annotator: 8
+
+Example 9:
+Text: If you were falsely accused of vandalism, the best thing to do is to talk to the user who accused you, and explain why your edit was not vandalism. Which user accused you vandalism?
+Annotation from annotator: 20
+
+Example 10:
+Text: Hello. Can you please pass the pilot whale article?
+Annotation from annotator: 24
+
+Example 11:
+Text: Hi. The font-size for the links in this template may be on the small side, but it seems to be floating okay -- or do I need to check more places where it's used?
+Annotation from annotator: 22
+
+Example 12:
+Text: And  what did I do wrong???????????????????????
+Annotation from annotator: 0
+
+Target Example:
+Text: I don't think I've used it in Wikipedia.  So, if I haven't, why did you bring it up?
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

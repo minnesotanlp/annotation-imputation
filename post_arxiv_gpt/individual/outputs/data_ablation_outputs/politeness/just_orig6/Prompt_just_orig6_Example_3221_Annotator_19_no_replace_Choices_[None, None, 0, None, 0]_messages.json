@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.\n\nTarget Example:\nText: Huaiwei,  there is this guy HkCaGu who insist that we shouldnt put Tianjin as one of Xiamen Airline's destination from Singapore just because it passes by Xiamen(MF's HUB) however, this is a direct flight from singapore to tianjin via xiamen. what are your views?\nAnnotation from annotator:\nYour output should be a single integer corresponding to the label."
+    }
+]

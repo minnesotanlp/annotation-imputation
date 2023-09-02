@@ -1,0 +1,263 @@
+Estimated Examples:
+Example 1:
+Text: What happened to the Jew who got into an argument with Adolf Hitler? She got roasted.
+Annotation from annotator: 2
+
+Example 2:
+Text: the germans set a new world record for stuffing people into a bw beetle two germans in the fromt seat and <number> jews in the ashtray .
+Annotation from annotator: 2
+
+Example 3:
+Text: Reminder: A kid getting hit in the nuts by heavy playground equipment is considered funny.
+Annotation from annotator: 1
+
+Example 4:
+Text: Alcohol is a GREAT cope
+Holy shit I feel alive finally
+
+Fuck being sober and thinking about my shitty life
+Annotation from annotator: 0
+
+Example 5:
+Text: Gotta love the fictional characters normans make up
+The 5'4" balding indian with a potbelly who's balls deep in pussy because of his "game".....or the 6 foot handsome white guy who can't get girls because he's "too shy"
+Annotation from annotator: 2
+
+Example 6:
+Text: What do you imagine thegamblER is doing right now?
+Annotation from annotator: 0
+
+Example 7:
+Text: I hope, i can manage to attend Merkels funeral
+Annotation from annotator: 2
+
+Example 8:
+Text: Just out there looking for my future wife Actually I am just hoping to find some white ladies from canada. give me a shout via e-mail strmfrnt@telusplanet.net or icq @ 27961835
+Annotation from annotator: 1
+
+Example 9:
+Text: So what's the big deal? My youtube is still working.
+Annotation from annotator: 0
+
+Example 10:
+Text: Fuck them hoes you got that award already.
+Annotation from annotator: 2
+
+Example 11:
+Text: Model bitches in the gym working on they fitness but it dont mean nothing cuz they still gon buy some titties!
+Annotation from annotator: 2
+
+Example 12:
+Text: What is white, black, and red all over? A disabled zebra in 1940's Germany.
+Annotation from annotator: 2
+
+Example 13:
+Text: @sramirez07943 you're failing at that and you don't know where I live faggot
+Annotation from annotator: 2
+
+Example 14:
+Text: I was having sex with my Roblox girlfriend... And I heard my dad moan my gamertag...
+Annotation from annotator: 2
+
+Example 15:
+Text: Wanna play the rape game? Her: NO! Somebody help!
+
+Me: That's the spirit!
+Annotation from annotator: 2
+
+Example 16:
+Text: Attention zookeepers: we're being brigaded
+It's &gt;1200; lock it up please
+Annotation from annotator: 2
+
+Example 17:
+Text: Had to delete that sprinkle of Jesus app and stop paying to attention to the signs. Ain't gonna let that shit define me or gimme mixed feels
+Annotation from annotator: 0
+
+Example 18:
+Text: What is the name of the son of an actor with down syndrome? Robert Downey Jr.
+Annotation from annotator: 2
+
+Example 19:
+Text: "@l_stone Mine literally would've said: ""Clara Buckley, grade 10. Professional MTV watcher. Never cleans her room."""
+Annotation from annotator: 0
+
+Example 20:
+Text: small victory, convinced a buddy to ditch cable
+that's a $100/month he's saving now
+$1200 a year
+
+
+Annotation from annotator: 0
+
+Example 21:
+Text: Roses are red,grass is green Open up your legs and I will fill it with cream
+Annotation from annotator: 2
+
+Example 22:
+Text: You girls got no job, no college set up to have a better future, then get mad when a nigga leave you cause all you got is pussy
+Annotation from annotator: 2
+
+Example 23:
+Text: Have you ever considered that if blues singers stayed in bed until the afternoon, they wouldn't be so fucking depressed.
+
+Annotation from annotator: 2
+
+Example 24:
+Text: Like stealing vodka off a crippled person and stumbling everywhere simultaneously refusing to admit their fucked
+Annotation from annotator: 2
+
+Example 25:
+Text: What do you say when you see a black guy being arrested again? Black at it again!
+Annotation from annotator: 2
+
+Example 26:
+Text: Reddit finds sexual abuse of a drunk, nonconsenting guy outstanding and the abuser is a hilarious person (but the abuser must reward with sex)
+Annotation from annotator: 2
+
+Example 27:
+Text: one is one too many , i bet all the white girls and wiggers go crazy for the young coon , whichever school you are in , wigggers outnumber metalheads or `` normal '' whites
+Annotation from annotator: 2
+
+Example 28:
+Text: I'm sick of you hoes for real I got somebody that looks up to me so I ain't bout no pussy shit.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's much easier to follow the stereotype of White people that their thought controllers fill their minds with .
+Annotation from annotator: 2
+
+Example 30:
+Text: Reminder: when females say they prefer short men, they mean they prefer 6'2" Chads to 6'5" Chads
+Annotation from annotator: 2
+
+Human-Rated Examples:
+Example 1:
+Text: Girl goads boy into killing himself, found guilty, still no shortage of excuses
+Annotation from annotator: 2
+
+Example 2:
+Text: Really hoping @RealKurtAngle as Raw GM is just a practice for him running for president. #Angleforpresident #President
+Annotation from annotator: 0
+
+Example 3:
+Text: Bring another bitch for a real nigga.
+Annotation from annotator: 2
+
+Example 4:
+Text: Incel music thread
+Post your favourite tracks that feature themes related to inceldom like loneliness and despair.
+Annotation from annotator: 0
+
+Example 5:
+Text: What's the worst thing about being a chinese jew? You have to join your dog in the oven
+Annotation from annotator: 2
+
+Example 6:
+Text: Suicide Fuel for Incels Age 24 and Older
+Most femoids have been sexually active for more than a decade than you have.
+Annotation from annotator: 2
+
+Example 7:
+Text: They say they dont want to take our guns .
+Annotation from annotator: 1
+
+Example 8:
+Text: The stupid fucking hoops we are all jumping through. We deserve to die, as a species.
+Annotation from annotator: 2
+
+Example 9:
+Text: What do you call a white guy surrounded by a thousand black guys? A warden
+Annotation from annotator: 2
+
+Example 10:
+Text: Bro I'm bored then a hoe rt
+Annotation from annotator: 1
+
+Example 11:
+Text: There is absolutely nothing wrong with teens having sex
+as long as they are married
+Annotation from annotator: 2
+
+Example 12:
+Text: Comment if you think blacks should be subject to genocide
+Annotation from annotator: 2
+
+Example 13:
+Text: &#8220;@GlitteredInPink: @West305 you like 5'8, you needs to&#8221;....1. You a hoe. 2. i'm 5'10(breaking11) 3.suck my dick.
+Annotation from annotator: 2
+
+Example 14:
+Text: I heard today that the niggers were freed from their owners. Then my slave woke me up. What a nightmare!
+Annotation from annotator: 2
+
+Example 15:
+Text: Niggas watch who you fucking just to hate on your bitches.
+Annotation from annotator: 2
+
+Example 16:
+Text: what cleared my skin
+doxycycline, lots of zinc and carrot juice
+Annotation from annotator: 0
+
+Example 17:
+Text: Why do they always compare Trump to an orangutang? He's not even black!
+Annotation from annotator: 2
+
+Example 18:
+Text: What's black, steals TVs and does drugs? No idea, but it's probably standing in line at KFC.
+Annotation from annotator: 2
+
+Example 19:
+Text: Instead of joining sports teams, hoes be joining Twerk Teams.
+Annotation from annotator: 2
+
+Example 20:
+Text: If the genders of this experiment were reversed nobody would doubt its veracity and it would probably be the top post on TwoX proving why men are more shallow
+God, I hate this site.
+Annotation from annotator: 2
+
+Example 21:
+Text: Why aren't movies with black people free? Because movies aren't.
+Annotation from annotator: 2
+
+Example 22:
+Text: An Indian guy has been arrested for hitting his girlfriend. He has been hitting her on the forehead every night at 6 o'clock on the dot.
+Annotation from annotator: 2
+
+Example 23:
+Text: Words cannot express how much I hate the female gender
+I hope they all die
+Annotation from annotator: 2
+
+Example 24:
+Text: Unrelated but is there any good anime I can get into?
+Annotation from annotator: 0
+
+Example 25:
+Text: believe it or not...these FoG trousers are actually pretty comfortable from the essentials collection
+Annotation from annotator: 0
+
+Example 26:
+Text: "@angrynate @DJOBowen @DoonansNDragons @Jmclean42 @ok_marks You forgot his nickname is ""Mad Bum""... NOW you can't get more badass"
+Annotation from annotator: 0
+
+Example 27:
+Text: Having sex with socks isn't that bad But I prefer people anyway.
+Annotation from annotator: 0
+
+Example 28:
+Text: What do Nike and KKK have in common? They make the Nigga run faster
+Annotation from annotator: 2
+
+Example 29:
+Text: But I do have to say this in order for WWE to Still Thrive in The Free Market they seriously need to rebrand revamp and rejuvenate the product
+Annotation from annotator: 0
+
+Example 30:
+Text: Me and karima are checking out this cute boy at this gaming cafe omg. I suddenly love men!!! *deletes all tweets about how I hate men*
+Annotation from annotator: 2
+
+Target Example:
+Text: "Just saw a trailer for #ghostinashell and they said ""you've never seen anything like it"".. BITCH YOU DONT KNOW WHAT DA FUCK IVE SEEN!!"
+Annotation from annotator:

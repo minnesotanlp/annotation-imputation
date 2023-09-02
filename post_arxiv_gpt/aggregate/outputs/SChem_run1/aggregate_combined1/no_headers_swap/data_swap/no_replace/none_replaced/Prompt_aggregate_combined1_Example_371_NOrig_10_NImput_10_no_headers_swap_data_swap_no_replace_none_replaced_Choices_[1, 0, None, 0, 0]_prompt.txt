@@ -1,0 +1,82 @@
+Majority-voted annotations:
+Example 1:
+Text: Your grandparent would be sad if you broke off contact with them.
+Annotation: 3
+
+Example 2:
+Text: It's wrong to want to hide who you really are.
+Annotation: 3
+
+Example 3:
+Text: You shouldn't video tape someone without their permission.
+Annotation: 3
+
+Example 4:
+Text: It's irresponsible to have a lot of dust in your home.
+Annotation: 3
+
+Example 5:
+Text: You shouldn't be so scared about getting married.
+Annotation: 2
+
+Example 6:
+Text: It's ok to tell someone you aren't interested in talking when you're busy at work.
+Annotation: 3
+
+Example 7:
+Text: You should not pursue a relationship with someone much younger than you.
+Annotation: 3
+
+Example 8:
+Text: You should be focused on learning while at school.
+Annotation: 3
+
+Example 9:
+Text: Families should try to work out problems with each other.
+Annotation: 3
+
+Example 10:
+Text: It's rude to support one person more than another.
+Annotation: 3
+Example 1:
+Text: It's hurtful for  a parent to enroll a child in classes without permission.
+Annotation: 2
+
+Example 2:
+Text: People are expected to love their family.
+Annotation: 3
+
+Example 3:
+Text: It's good to find proof of cheating you perceive to be happening.
+Annotation: 3
+
+Example 4:
+Text: You should be accepting of having a half-sibling
+Annotation: 3
+
+Example 5:
+Text: It is dangerous for a grandparent to risk a fall.
+Annotation: 3
+
+Example 6:
+Text: You should treat a person with a disability the same as you would anyone else.
+Annotation: 3
+
+Example 7:
+Text: It is understandable for parents to want to take care of their child when they are in need.
+Annotation: 4
+
+Example 8:
+Text: You shouldn't play your music really loudly because it's rude and annoying.
+Annotation: 3
+
+Example 9:
+Text: It's expected that the husband pay child support.
+Annotation: 3
+
+Example 10:
+Text: It's rude for people to give you a fake name because they can't learn your real one.
+Annotation: 3
+Predict the integer label of the following example:
+Text: It's okay to show your disgruntlement with what someone does.
+Annotation:

@@ -1,0 +1,1 @@
+It is difficult to predict how annotator C might label this example, as their previous annotations do not provide a clear pattern. However, based on the wording of the statement, it is possible that annotator C may label it as a 3.0 (common), as many people may agree that it is good to have something they love deeply in their life.

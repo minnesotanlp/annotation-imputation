@@ -1,0 +1,55 @@
+In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.
+
+Human-Rated Examples:
+Example 1:
+Text: If you keep your eyes focused on the moving toe you can usually catch each instance when you change the rotation direction, I think? Does that tell you anything?
+Annotation from annotator: 16
+
+Example 2:
+Text: ... but when you do things like <url>, I start distancing myself. What made you come to that decision if you did differently on the <url> and <url>?
+Annotation from annotator: 8
+
+Example 3:
+Text: Why the removal of the citation dealing with coriolis?  Was the proof not within the citation, or was the citation not considered primary?
+Annotation from annotator: 16
+
+Example 4:
+Text: Noetica: help! Can you give an opinion <url>?
+Annotation from annotator: 8
+
+Example 5:
+Text: <person> is apparently caught up in that rangeblock. Can you help him out?
+Annotation from annotator: 20
+
+Example 6:
+Text: Why did you just do that? I am being serious - what business was it of yours exactly?
+Annotation from annotator: 4
+
+Example 7:
+Text: right but in this case, the certain artist goes by a different name now, so people would most likely type in ''"diddy"'' instead of the other old one. like if somebody changes their name or alias, and people wont know where theyre listed in?
+Annotation from annotator: 12
+
+Example 8:
+Text: The <url> states that ''Endymion'' was an <person>, and the only one of five actually built. Does Conway mention this?
+Annotation from annotator: 24
+
+Example 9:
+Text: Later the same can be done for the other sports. What do you say?
+Annotation from annotator: 20
+
+Example 10:
+Text: I don't understand how you find it appropriate to talk about your illegal drug use on your user page.  Also, how do you have the right to ban other people's usernames with a name like "'''BONG'''warrior"?
+Annotation from annotator: 4
+
+Example 11:
+Text: Thanks for change to Hugh de Grandmesnil - I am (It is) very short of refs for that article. Could you suggest one for your addition?
+Annotation from annotator: 16
+
+Example 12:
+Text: What is the context that you think is lacking? any suggestions  on what to add?
+Annotation from annotator: 24
+
+Target Example:
+Text: At <url>, your 'outside comment' contains the statement "You don't go deleting things with a consensus, and then blast those who have the nerve to reprimand you. "  This seems self-contradictory: did you mean to type 'without'?
+Annotation from annotator:
+The only valid output is a single integer.

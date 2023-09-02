@@ -1,0 +1,7 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Now you will make your prediction (if you are unsure, just give your best estimate.) Your output should be an integer label:
+Target Example:
+Text: Just passed a saab older than hers on the thruway. Vt plates
+Annotation from annotator:
+Your output should be a single integer and nothing else.

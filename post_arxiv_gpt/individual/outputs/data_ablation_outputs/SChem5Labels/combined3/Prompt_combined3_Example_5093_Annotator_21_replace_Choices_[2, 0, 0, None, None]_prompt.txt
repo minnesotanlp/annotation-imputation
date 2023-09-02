@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: Being abusive  to your children is always wrong.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's rude to assume you'll be appreciated on Mother's Day when you don't have children.
+Annotation from annotator: 3
+
+Example 3:
+Text: It is good to invite friends and family to your wedding.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's normal to feel grateful towards the people that help you.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's okay to lose romantic feelings for someone over time.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's understandable for people to crave human contact.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's wrong to take pennies from a wishing fountain.
+Annotation from annotator: 3
+
+Example 8:
+Text: You should be hurt if someone does not invite you to their wedding because you are gay.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's understandable that feelings are complicated and sometimes things happen that are difficult to get over.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's polite to knock before you enter someone's home.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's fun to take your parents to a sports game.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's understandable to marry someone for their money.
+Annotation from annotator: 2
+
+Example 13:
+Text: You shouldn't sneak out of the house behind your parents' back
+Annotation from annotator: 2
+
+Example 14:
+Text: It's wrong to torture living creatures.
+Annotation from annotator: 4
+
+Example 15:
+Text: You should help others.
+Annotation from annotator: 3
+
+Example 16:
+Text: You shouldn't overestimate the gas tank so you don't run out of gas.
+Annotation from annotator: 3
+
+Example 17:
+Text: It is normal not to realize someone's in love with you
+Annotation from annotator: 2
+
+Example 18:
+Text: It's wrong to fantasize about married people.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is sloppy for a doctor to make a hurried diagnosis.
+Annotation from annotator: 4
+
+Example 20:
+Text: You should always do what your partner requests.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's rude to leave your shoes laying around.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's understandable if you're bored when you go to the zoo.
+Annotation from annotator: 2
+
+Example 23:
+Text: It's good to forgive others.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good to go to therapy if you are struggling to overcome your grief.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is smart to avoid eating before going out so that you have a big appetite.
+Annotation from annotator: 3
+
+Example 26:
+Text: You shouldn't hurt a girl's feelings if they like you.
+Annotation from annotator: 2
+
+Example 27:
+Text: You should tell your partner you don't want to be with them anymore.
+Annotation from annotator: 2
+
+Example 28:
+Text: It's wrong to take or distribute photos of dead bodies.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's good to get your child a pet.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's irresponsible to let your own insecurities come through in your interactions with others.
+Annotation from annotator: 3
+
+Human-Rated Examples:
+Example 1:
+Text: You should always think before you speak.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is good to accept your family members for who they are
+Annotation from annotator: 3
+
+Example 3:
+Text: It's bad to spend too much time playing video games.
+Annotation from annotator: 2
+
+Example 4:
+Text: You shouldn't blame your child's ex partner for things.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's understandable to still be sexually attracted to an ex-partner.
+Annotation from annotator: 3
+
+Example 6:
+Text: You shouldn't max out your credit cards.
+Annotation from annotator: 2
+
+Example 7:
+Text: If you keep having dreams about your ex, you should get some therapy.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's wrong to have an open relationship.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is expected that not everyone will be a good fit for a job.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's ok to have a glass of wine with dinner.
+Annotation from annotator: 2
+
+Example 11:
+Text: It's normal for children to outlive their parents
+Annotation from annotator: 4
+
+Example 12:
+Text: People should be honest.
+Annotation from annotator: 3
+
+Example 13:
+Text: It is good to follow the law.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is normal to be eager to repeat a fun experience.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is good to show affection towards your partner.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's good to date again when you're a widow or widower.
+Annotation from annotator: 2
+
+Example 17:
+Text: It's understandable if you're concerned about a classmate when their glasses have been broken for months.
+Annotation from annotator: 3
+
+Example 18:
+Text: You should avoid doing things that are disgusting.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's good to get your steak well done so you know it's cooked through.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's good to know who you are and what you're about in life.
+Annotation from annotator: 3
+
+Example 21:
+Text: It is okay not to settle.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's expected that parents should discipline their kids.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's bad to ignore a foreign city to just watch TV in the hotel.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good to be aware of the issues that you need to address with someone.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's great to acknowledge, and help, if your spouse is emotionally struggling.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is tacky to decorate with fake fruit.
+Annotation from annotator: 2
+
+Example 27:
+Text: You should think about good memories when you are sad to move away.
+Annotation from annotator: 3
+
+Example 28:
+Text: You shouldn't gossip with your coworkers.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's understandable to need a ride from the airport.
+Annotation from annotator: 4
+
+Example 30:
+Text: It is risky for the elderly to play rough.
+Annotation from annotator: 4
+
+Target Example:
+Text: It's expected that suicidal people will seek treatment from a medical professional.
+Annotation from annotator:

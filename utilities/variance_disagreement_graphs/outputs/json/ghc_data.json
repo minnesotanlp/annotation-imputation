@@ -1,0 +1,14 @@
+{
+    "Average Variance": {
+        "Original": 0.05733839602512511,
+        "Imputed": 0.05314986649747535,
+        "Imputed - Original": -0.0041885295276497606,
+        "Imputed - Original (Rounded)": -0.004
+    },
+    "Average Disagreement Rate": {
+        "Original": 0.0861926278877246,
+        "Imputed": 0.08028567165503252,
+        "Imputed - Original": -0.005906956232692079,
+        "Imputed - Original (Rounded)": -0.006
+    }
+}

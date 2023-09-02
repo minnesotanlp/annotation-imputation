@@ -1,0 +1,1 @@
+It is not possible to determine how annotator B might label this example as there is no information provided about their labeling behavior for similar examples.

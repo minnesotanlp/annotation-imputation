@@ -1,0 +1,127 @@
+In this dataset, people are asked to rate the sentiment of text. The possible ratings are as follows: Very negative (-2), somewhat negative (-1), neutral (0), somewhat positive (1), very positive (2).
+
+Correct Examples:
+Example 1:
+Text: 4 boys were accused of raping a 13 yr old in their gym locker room
+Annotation from annotator: 1
+
+Example 2:
+Text: @taxi777 my old gf said I'm lazy, good for nothin everyday of the week
+Annotation from annotator: 0
+
+Example 3:
+Text: One year rings out, as the other comes in, older, hopefully wiser; truly the best years are now
+Annotation from annotator: 3
+
+Example 4:
+Text: Omg i just found out that one of our regular customers died.  she was so nice and friendly, and only 50 years old..
+Annotation from annotator: 1
+
+Example 5:
+Text: busy working on a new kit... and a couple interviews done...Yea! The weekend! Pray for my Uncle, still young and had a massive stroke!!
+Annotation from annotator: 2
+
+Example 6:
+Text: @dagmaroon HAHA! well, im glad you had fun  .. omg, im listening to a song of Jason Perrys old band.. hes really good :o
+Annotation from annotator: 3
+
+Example 7:
+Text: thinks it's funny that the old way of reading the newspaper in the morning has been replaced by digg, twitter and Facebook
+Annotation from annotator: 2
+
+Example 8:
+Text: @subtleserpent Mine's more embarrassing i.e. even more than the old one. LOLOL 23 eh? Couldn't be his mum...I could
+Annotation from annotator: 1
+
+Example 9:
+Text: The older adults' brain scans showed activity in the same area.
+Annotation from annotator: 2
+
+Example 10:
+Text: I looooove old people ! They're kinda sweet
+Annotation from annotator: 3
+
+Example 11:
+Text: Tried to install old webcam, now have wonky monitor settings.  Rawrgh.
+Annotation from annotator: 1
+
+Example 12:
+Text: Burnt myself on my old friend the mini spring roll.
+Annotation from annotator: 2
+
+Example 13:
+Text: @TittySalad wtf i rather be named yo gabba gabba that shit is str8 wack.  im goin back 2 my old name SWEET DICK WILLIE (pause)
+Annotation from annotator: 1
+
+Example 14:
+Text: Saw an old familiar face a little bit ago. I got quite the laugh when they realized who I was.
+Annotation from annotator: 2
+
+Example 15:
+Text: @jamesdavid3 uncle marty!!! A wine tasting then...?! You are coming to church with me young man
+Annotation from annotator: 2
+
+Example 16:
+Text: Me and my older brother must babysit 4 kids for about 6 hours while my sister and parents go to town
+Annotation from annotator: 2
+
+Example 17:
+Text: @AlisonNeale So there is hope for me? Woke up this morning feeling worse and 12 yr old daughter now has it too
+Annotation from annotator: 1
+
+Example 18:
+Text: @MissShonah  I am ready for bed early tonight.Have a good sailing story to read.About the old Tea Clippers.lol
+Annotation from annotator: 3
+
+Example 19:
+Text: @Francesca_Lorna cos she's old and poorly  very sad!
+Annotation from annotator: 1
+
+Example 20:
+Text: Apparently my laptop is now equal to a $400 Compaq. That hurts. I know it's two years old but ouch.  Have to wait to get new lappy now.
+Annotation from annotator: 1
+
+Example 21:
+Text: @AliaLiao haha that sucks.. i miss my old one!
+Annotation from annotator: 2
+
+Example 22:
+Text: @AmeriKeith yikes.... My 14 yr old is pretty clear too.  4 of the 6 older kids are clear too... 2 are completely lost.
+Annotation from annotator: 2
+
+Example 23:
+Text: & i cant believe i.got my ass whopped last night by my 5yr old cusin playing ds mario racing kart. smh she had a good time beating me!
+Annotation from annotator: 2
+
+Example 24:
+Text: My 11 year old rusty Pontiac needs a entire new break system. $1700.00   So I sold it to the mechanic for $200.00. Now life with one car!
+Annotation from annotator: 3
+
+Example 25:
+Text: @xXMCR_LadyXx I'm at my old school alone  swings
+Annotation from annotator: 3
+
+Example 26:
+Text: Jamz with Spicer! Kinda like old times haha. So stoked, finally having bass really ties everything together
+Annotation from annotator: 3
+
+Example 27:
+Text: @EmilyMarieox i can tonight being a good old ranty night  boo! okay babba, will link you in my next tweet xx
+Annotation from annotator: 2
+
+Example 28:
+Text: Republican anti-gay propaganda is getting old  - http://bit.ly/AwhTm
+Annotation from annotator: 1
+
+Example 29:
+Text: @jima6636 Yeah, "mod me biotch" (Never gets old) BTW, wish I could of been there for your 60th B-Day
+Annotation from annotator: 2
+
+Example 30:
+Text: I got called old by a boy today  well, more of wearing an old hat. Im not buying another beanie cause my fringe is too short!  blah!
+Annotation from annotator: 1
+
+Target Example:
+Text: Just found out a boy from my daughter's friends died last wednesday - he was only 19 years old   So sad, so very sad...
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.

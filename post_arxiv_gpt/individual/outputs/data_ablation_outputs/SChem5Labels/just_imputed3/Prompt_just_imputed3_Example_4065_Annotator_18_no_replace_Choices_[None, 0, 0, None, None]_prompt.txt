@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: It's bad to be pessimistic.
+Annotation from annotator: 3
+
+Example 2:
+Text: People should slow down when enjoying a hobby.
+Annotation from annotator: 2
+
+Example 3:
+Text: It's important to let your partner know about your needs.
+Annotation from annotator: 3
+
+Example 4:
+Text: Families are expected to work out their issues with each other by openly communicating.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's expected that people will want to celebrate on their birthday.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's mean to choose sides.
+Annotation from annotator: 2
+
+Example 7:
+Text: If you feel like you're sick, you should see a doctor.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's understandable that sometimes there are reasons people don't want to visit relatives.
+Annotation from annotator: 3
+
+Example 10:
+Text: You should apply for jobs when you don't have one.
+Annotation from annotator: 3
+
+Example 11:
+Text: Sometimes people need a dose of their own medicine.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's wrong to take control of something that isn't yours to handle.
+Annotation from annotator: 3
+
+Example 13:
+Text: You shouldn't ditch your friend for other people.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's understandable to repeatedly do something you enjoy.
+Annotation from annotator: 3
+
+Example 15:
+Text: It's good to tell someone they look like someone who is famous.
+Annotation from annotator: 2
+
+Example 16:
+Text: It's normal for children to outlive their parents
+Annotation from annotator: 3
+
+Example 17:
+Text: It's not normal to dislike everybody
+Annotation from annotator: 3
+
+Example 18:
+Text: It's fun to take people out places.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's bad to let intimacy die down in your relationship.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's fun to go out places with your kids.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's expected for writing tasks to take longer if your handwriting is bad.
+Annotation from annotator: 2
+
+Example 22:
+Text: It is good to show your partner that you are always thinking about them.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's good have a goal in life and pursue it.
+Annotation from annotator: 3
+
+Example 24:
+Text: It is rude to criticize what others do with their body.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's good to be confident about your appearance.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's understandable to be frustrated with the people around you who don't seem competent.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is good to spend time with friends.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's frustrating when you care for someone but they don't care for you back.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's polite to share.
+Annotation from annotator: 3
+
+Example 30:
+Text: It's good to follow people on social media.
+Annotation from annotator: 2
+
+Target Example:
+Text: You shouldn't be in love with your friends.
+Annotation from annotator:

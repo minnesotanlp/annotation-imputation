@@ -1,0 +1,245 @@
+Human-rated Examples:
+Example 1:
+Text: You should be more respectful of other people.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's irresponsible stop taking your medication
+Annotation from annotator: 3
+
+Example 3:
+Text: It's good to be there for your kids.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's fine if you're uncomfortable when an older man has a crush on you.
+Annotation from annotator: 3
+
+Example 5:
+Text: It is expected that your respond when someone addresses you
+Annotation from annotator: 3
+
+Example 6:
+Text: It's okay to indulge your sexual fantasies with other consenting adults.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's bad to be passive aggressive in a relationship.
+Annotation from annotator: 3
+
+Example 8:
+Text: You should never steal from your family.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's wrong to get upset at your partner over a party.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's good to see a doctor if you are depressed.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to want to honor your vows with your spouse.
+Annotation from annotator: 3
+
+Example 12:
+Text: It is clever to find ways to get things for free from a restaurant.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's smart to save money by fixing one's own house.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's normal for children to outlive their parents
+Annotation from annotator: 3
+
+Example 15:
+Text: It's okay to not be attracted to people.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's bad to purposely ruin someone's life.
+Annotation from annotator: 3
+
+Example 17:
+Text: If you can't get over your partner's sexual history, it's okay to end the relationship.
+Annotation from annotator: 3
+
+Example 18:
+Text: You shouldn't get pissed off at your siblings.
+Annotation from annotator: 2
+
+Example 19:
+Text: It's morally wrong to be disloyal to your partner.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's fine to join whatever religion you prefer.
+Annotation from annotator: 2
+
+Example 21:
+Text: You should ask questions directly.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's expected that people will pay more for things that make them ahppy.
+Annotation from annotator: 2
+
+Example 23:
+Text: You shouldn't reveal someone's secrets.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's understandable to be worried about being cheated on.
+Annotation from annotator: 2
+
+Example 25:
+Text: People shouldn't feel embarrassed to be the oldest person in a class.
+Annotation from annotator: 3
+
+Example 26:
+Text: It's normal for people to forget things even if they happened very recently.
+Annotation from annotator: 2
+
+Example 27:
+Text: You should keep supporting someone when they are trying to figure out what they want to do.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's unexpected that there will be a mistake with your paycheck.
+Annotation from annotator: 3
+
+Example 29:
+Text: It is wrong to do drugs.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's understandable if you dismiss your child's nightmares.
+Annotation from annotator: 2
+
+Estimated Examples:
+Example 1:
+Text: You shouldn't put a friend's ex before them.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's expected that you honor your work commitments.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's understandable if you're scared when you get lost.
+Annotation from annotator: 3
+
+Example 4:
+Text: It is good to not say anything rather than saying something rude.
+Annotation from annotator: 3
+
+Example 5:
+Text: You shouldn't be rude to someone in matters involving personal appearance/hygiene
+Annotation from annotator: 3
+
+Example 6:
+Text: It's important to let your partner know about your needs.
+Annotation from annotator: 3
+
+Example 7:
+Text: You shouldn't have a matching tattoo with someone you had an affair with if you're in a relationship.
+Annotation from annotator: 4
+
+Example 8:
+Text: You should learn to respect your parents in law.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's wrong to threaten your friends.
+Annotation from annotator: 4
+
+Example 10:
+Text: It's expected you catch feelings when seeing someone attractive
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to have your own garden.
+Annotation from annotator: 1
+
+Example 12:
+Text: Schools should close if the weather is bad.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's understandable if you knock on someone's door instead of entering.
+Annotation from annotator: 3
+
+Example 14:
+Text: It's good to take a stance for feminism.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's not okay to go overboard trying to impress someone.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's fun to belong to a secret society.
+Annotation from annotator: 2
+
+Example 17:
+Text: It is not okay to treat someone badly.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is expected that people will be concerned if a loved one has cancer.
+Annotation from annotator: 3
+
+Example 19:
+Text: You should make absolutely sure of your decision before using your authority over people.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't exclude your friends.
+Annotation from annotator: 3
+
+Example 21:
+Text: It's wrong to force people out of your home.
+Annotation from annotator: 3
+
+Example 22:
+Text: You shouldn't tell someone you have feelings for them when they are dating someone else.
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't let your pets onto your table.
+Annotation from annotator: 2
+
+Example 24:
+Text: Having hair in your eyes can affect our vision.
+Annotation from annotator: 3
+
+Example 25:
+Text: It is the duty of the best man to help the groom get ready.
+Annotation from annotator: 3
+
+Example 26:
+Text: It is irresponsible to quit a job.
+Annotation from annotator: 2
+
+Example 27:
+Text: You shouldn't have an affair if you're married.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's bad to buy lottery tickets too often.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's fine to feel angry when you have been disrespected by people.
+Annotation from annotator: 3
+
+Example 30:
+Text: You should chip in with household chores when you live with someone.
+Annotation from annotator: 3
+
+Target Example:
+Text: You shouldn't be interested in your ex's friends.
+Annotation from annotator:

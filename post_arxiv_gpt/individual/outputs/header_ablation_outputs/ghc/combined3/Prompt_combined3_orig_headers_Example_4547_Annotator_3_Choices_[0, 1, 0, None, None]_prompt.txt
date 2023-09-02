@@ -1,0 +1,245 @@
+Human-rated Examples:
+Example 1:
+Text: Your the kind of guy... kinda like me.. you could spend an entire day , maybe two,... back to back... sifting through Pew research articles.. both archived as well as recently released.. and I can totally get behind someone with that kind of commitment to the truth..
+Annotation from annotator: 0
+
+Example 2:
+Text: They are out there wondering how to kill Kanye.
+Annotation from annotator: 0
+
+Example 3:
+Text: Relax, you two are safe....
+Annotation from annotator: 0
+
+Example 4:
+Text: Victim gets the last laugh winning case to punish porn posting pig of exboyfriend. 
+Annotation from annotator: 0
+
+Example 5:
+Text: Declassified FISA will bring down the Obama White House  Sara Carter: President Trump⁩ Should declassify the documents requested by Congress - Americans deserve to know what the DOJ and FBI are not disclosing  https://thehill.com/HillTV/rising/408850-mr-president-tear-down-the-wall-hiding-those-fisa-abuses   #FISA #DeclassifyFISA #News #Politics #GabFam #USA #WeThePeople #WWG1WGA
+Annotation from annotator: 0
+
+Example 6:
+Text: I do like this one
+Annotation from annotator: 0
+
+Example 7:
+Text: You gotta love an honest liberal. They are their own worst enemy.
+Annotation from annotator: 0
+
+Example 8:
+Text: TREASON TREE 
+Annotation from annotator: 0
+
+Example 9:
+Text: Health care is on track to post its best quarter in five years. @toddgordontrade breaks down one name in the space he says is set to keep surging: 
+Annotation from annotator: 0
+
+Example 10:
+Text: Do liberals/progressives even have an argument? They are really good at painting labels on you, but I almost never see a credible argument that might even have a shred of reality that might make me reconsider my positions. How are they allowed to run the show?
+Annotation from annotator: 0
+
+Example 11:
+Text: Hey bitch, take that gun you love so much and stuff it up your drippy STD-pussy and pull the trigger.
+Annotation from annotator: 0
+
+Example 12:
+Text: Another creature created by the Bio-Tech lab, WOODY THE WOOD PULP BOY, seeks another of his kind, a mate, and he is on his way to rescue FLASHY THE PAPERDOLL in CIR 45 Season On, CLICK TO WATCH: https://pewtube.com/user/RichVernadeau/zUUZ4Wh?autoplay=off
+Annotation from annotator: 0
+
+Example 13:
+Text: Muslims Sami people might explain a lot. 
+Annotation from annotator: 0
+
+Example 14:
+Text: Look at it from the bright side: if they really embrace this — which would be utter suicide — we would have a much easier time completely purging them from society. It's basically a free genocide card. No one would ever blame us.
+Annotation from annotator: 0
+
+Example 15:
+Text: This works..... so far :/  Rough to change the past mistakes but for the best in the long run. https://deeprootsathome.com/kids-bored-entitled/
+Annotation from annotator: 0
+
+Example 16:
+Text: Chris Farley has a message.........
+Annotation from annotator: 0
+
+Example 17:
+Text: The House implements a Cockblocker policy. 
+Annotation from annotator: 0
+
+Example 18:
+Text: Not seeing the problem here.
+Annotation from annotator: 0
+
+Example 19:
+Text: Thank you for your follow also.  #TrumpTrain2020 
+Annotation from annotator: 0
+
+Example 20:
+Text: Konsentrate on yor REAL problm, muzlmz. Jewz arnt slotrin & rapin Brits
+Annotation from annotator: 0
+
+Example 21:
+Text: Basically....we don't know why, but uh, maybe something to do with age.  
+Annotation from annotator: 0
+
+Example 22:
+Text: That's because the Mulons have to go.
+Annotation from annotator: 0
+
+Example 23:
+Text: Call me crazy, but since when do “white supremacists” post signage to try to protect others from harm, unless maybe they aren’t white supremacists? http://www.khou.com/news/politics/white-supremacist-group-hangs-danger-sign-over-approach-to-san-francisco/512495006
+Annotation from annotator: 0
+
+Example 24:
+Text: I very much like the idea for removal of the mosques but the North invaded the South...   http://www.paulcraigroberts.org/2017/08/21/lincoln-myth-ideological-cornerstone-america-empire/
+Annotation from annotator: 0
+
+Example 25:
+Text: They should change the name to GoFuckMe...
+Annotation from annotator: 0
+
+Example 26:
+Text:  “I would prefer an intelligent hell to a stupid paradise.”  ― Blaise Pascal 
+Annotation from annotator: 0
+
+Example 27:
+Text: Cosplay = softcore porn
+Annotation from annotator: 0
+
+Example 28:
+Text: These things are always sad. Typically a congenital heart defect. It could be determined via echocardiography but short of a bunch of cardiologists and ultrasound techs volunteering their time/resources, these will continue. I am not advocating eliminating football or any sport just the hopeless tragedy of these stories .
+Annotation from annotator: 0
+
+Example 29:
+Text: I hope more states will follow Alabama.
+Annotation from annotator: 0
+
+Example 30:
+Text: He healed the family of the demon right after he said that. He was testing her faith. 
+Annotation from annotator: 0
+
+Estimated Examples:
+Example 1:
+Text: ’Toxic masculinity’ is a made up term used to denigrate men. Some men are toxic; masculinity is natural & healthy. Women murder millions of babies every year. Where are the ‘toxic femininity’ or ‘toxic hypergamy’ labels? I refuse to be drawn into a war of words. I speak truth.
+Annotation from annotator: 0
+
+Example 2:
+Text: https://www.youtube.com/watch?v=kUzZd2H7QXQ  The Root 'The 8 Kinds of Black Donald Trump Supporters' #TheRootArticles
+Annotation from annotator: 0
+
+Example 3:
+Text: Its one party system. The right is bragging about unemployment numbers when we know Ovomit bastardized the formula to figure unemployment numbers more than once. He was criticized for it but we still use the same formula then tout how good things are. WTF!!!!
+Annotation from annotator: 1
+
+Example 4:
+Text: Let’s talk about anything and everything except the elephant in the room - #Canada’s overwhelming #Immigration fiasco http://www.cbc.ca/news/canada/british-columbia/bel...
+Annotation from annotator: 0
+
+Example 5:
+Text: Worked at this school for one year. I have nothing nice to say about these colleagues, except he smiled and laughed like the fat Nigerian he is.https://thefederalist.com/2018/08/07/emails-reveal...
+Annotation from annotator: 1
+
+Example 6:
+Text: This is so much b*******. She's corrupt and deeply unpopular, so she's pulling a Hillary Clinton!
+Annotation from annotator: 1
+
+Example 7:
+Text: We shouldn't have to arm ourselves and have guard with ARs stationed at every public place in order to defend ourselves from violent retards. The liberalization of mental health care in the 70s is directly responsible for mass shooting incidents we see today.
+Annotation from annotator: 0
+
+Example 8:
+Text: Antifa Protesting George Soros for non payment. Soros where's our money...... https://twitter.com/Jamierodr10/status/10356866243...
+Annotation from annotator: 0
+
+Example 9:
+Text: Oops, got suspended on twitter for suggesting adults sexually attracted to babies should get offed
+Annotation from annotator: 0
+
+Example 10:
+Text: Vox Day explains the thinking behind their new Alt-Hero comic series 'Who is Q?' GREAT #RedPill handout to the right audiences. https://www.bitchute.com/video/K7rD3OxzWNHj/  Written by the same guy who invented the Batman villain Bane. And there's movie interest already!
+Annotation from annotator: 0
+
+Example 11:
+Text: Federal judges silencing Cody Wilson only mocks the 1st Amendment and validates that we already live in a police state. Wait 'til the libs discover that many sites on the net are (and have been for years) sharing useful and relevant plans, files, and information on legally making your own firearms.  Here's just one: http://www.printedfirearm.com/
+Annotation from annotator: 0
+
+Example 12:
+Text: DOJ finally after real foreign meddling: https://www.inquisitr.com/5042380/19-foreign-natio... GSS suggests 5% of non-citizens illegally vote in US presidential elections https://anepigone.blogspot.com/2017/06/general-soc...
+Annotation from annotator: 0
+
+Example 13:
+Text: RT realDonaldTrump      I have asked Secretary of State @SecPompeo to closely study the South Africa land and farm seizures and expropriations and the large scale killing of farmers. “South African Government is now seizing land from white farmers.” @TuckerCarlson @FoxNews
+Annotation from annotator: 0
+
+Example 14:
+Text: Look at this compilation of tweets Nick Monroe made exhibiting the anti-white racism of Buzzfeed staff members. Again, this is commonplace on the Left. https://twitter.com/i/moments/1033547403620757504
+Annotation from annotator: 1
+
+Example 15:
+Text: This Halloween. Scare the stupid out of the Communist and Socialist.
+Annotation from annotator: 1
+
+Example 16:
+Text: Whatever happened to gab's case against google? Why can gab be pushed around by #Microsoft for absolutely legal content? @a @e @u
+Annotation from annotator: 0
+
+Example 17:
+Text: For those who believe in a capitalist, stateless, voluntaryist, conservative society. Please join the Anarcho-Conservatives group. https://gab.ai/groups/21ecefb9-ecb3-445c-8957-f4f4...
+Annotation from annotator: 0
+
+Example 18:
+Text: Top Psychiatrist: Today’s Left Are Mentally Ill https://yournewswire.com/psychiatrist-left-mentall... via @yournewswire    we already knew this, but it's nice to have it officially confirmed.
+Annotation from annotator: 0
+
+Example 19:
+Text: No matter what was said at the summit, the fake news CIA MSM headlines were already written a day before it began.  They were going to cry TRUMP-RUSSIA COLLUSION & TREASON no matter what was said.  That's because the MSM truly is the enemy of the people. #Trump #MAGA https://www.bbc.com/news/world-europe-44842732
+Annotation from annotator: 0
+
+Example 20:
+Text: They say it's bad to speak ill of the dead. So as far as McCain goes, I'll say the truth: warmonger. He'd wake up every night, shouting BOMB THEM! Never met a country that wouldn't look better with bombs falling on it. Lockheed paid tribute to him!
+Annotation from annotator: 0
+
+Example 21:
+Text: 'I have a strict no touching kids policy but you already kmow how I feel about his dad'    No, fuck you, you were all gung ho to let this get swept under the rug by Hillary Clinton. You deserve to be right there on the firing line with these cunts.
+Annotation from annotator: 1
+
+Example 22:
+Text: @BlueVino there was a shooting at a Madden '19 gaming tournment in Florida on Sunday! I pulled a few favors to get the footage of the shooting from Twitch. THOUSANDS of people watched that stream during the shooting.  https://www.youtube.com/watch?v=AWvI1E5ERlk
+Annotation from annotator: 0
+
+Example 23:
+Text: https://www.youtube.com/watch?v=iYHpJj-ZJOU#t=6m30...  'To be free to speak, even to tell the truth. means you have to be free to be stupid and ignorant and malevolent and bitter!' -Dr. Jordan Peterson #SpeakFreely to think freely ... #Censorship is cancer -- really, it's death to any society founded on #Liberty!
+Annotation from annotator: 0
+
+Example 24:
+Text: Screw them. They deserve it. SesameStreet turned into a leftwing, progressive, propaganda machine as soon as Jim Henson died. The same Disney did after Walt died and the Hollywood Jews took over.
+Annotation from annotator: 1
+
+Example 25:
+Text: The world is a better & safer place now that McCain is enjoying his eternity in Hades.   Now if Satan could just call Ruth Bader Ginsberg home...
+Annotation from annotator: 0
+
+Example 26:
+Text: Mass imigration is only happening in to white majority countries. Diversity and inclusion training only happens to white ppl. In just 20 yrs whites will have no majority countries ruled by people who could care less about diversity. Prepare for your and your children's persecution.
+Annotation from annotator: 0
+
+Example 27:
+Text: The U.S. should end all foreign aid.
+Annotation from annotator: 0
+
+Example 28:
+Text: #USA #FED is raising #interest #rates w/ the #Trump #Trade sanctions on countries joining #China 'One Road, one belt' multinational economic initiative; #Germany #Turkey #China #Russia #Iran #Pakistan. This will greatly hurt #EU #Economic zone; benefiting #USA #Economy by 2020. China's Debt/Credit ratio is too weak. https://tinyurl.com/yba47ucy
+Annotation from annotator: 0
+
+Example 29:
+Text: All fellow minded people should write to McCains 'We are family' regarding their Halal & Kosher certified products Their address (does not require stamp) Post letter to:- Customer Relations McCain Foods (GB) Ltd FREEPOST NEA 11518 Scarborough North Yorkshire YO11 3BR Who controls the food controls the people Halal (dome symbol) on picture & Kosher is SKA
+Annotation from annotator: 0
+
+Example 30:
+Text: Technically possible that South Africa is a systemic risk for West and the East.  1. Export health risk (40% of deaths attributed to AIDS) 2. Security risk (Desire to attack whites and American soldiers in Venezuela specifically) 3. Highly transacted currency and logistic impediment. @alternative_right @ANV @seamrog @arquatrix @KMGVictoria
+Annotation from annotator: 0
+
+Target Example:
+Text: Well... at least a “man” was still first. By the time all of this makes it to Globalist textbooks in the future it will be a female astronaut who went to the moon just to abort her baby there because she wanted to do it first... before using her size A bra to sling the spacecraft back.
+Annotation from annotator:

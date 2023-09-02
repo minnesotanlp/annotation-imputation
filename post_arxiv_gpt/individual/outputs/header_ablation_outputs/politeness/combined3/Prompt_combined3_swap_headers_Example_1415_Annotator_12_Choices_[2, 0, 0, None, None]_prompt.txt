@@ -1,0 +1,173 @@
+Estimated Examples:
+Example 1:
+Text: Grappler-I'm not sure if this article is OK now or not. What do you think?
+Annotation from annotator: 15
+
+Example 2:
+Text: That's reason to expand the treatment to other painters, not to blank this one.  And you didn't think that there would be more articles on van Gogh paintings?
+Annotation from annotator: 7
+
+Example 3:
+Text: On another note, I'm going to assume that you were the one who also added ridership data for various LIRR stations, am I correct? If so, could you kindly point me towards your source?
+Annotation from annotator: 14
+
+Example 4:
+Text: Hi, you recently speedily deleted this image and in your explanation stated that I, the uploader, was informed of this. I was not - please could you tell me why not?
+Annotation from annotator: 18
+
+Example 5:
+Text: Hi, although I agree with you, please check the following <url> in process. Why can't the darn thing work, in the first place?
+Annotation from annotator: 9
+
+Example 6:
+Text: I was wondering where you got your information for the dice statistics you recently added/changed in <url>.  Can you add a source to those tables?
+Annotation from annotator: 17
+
+Example 7:
+Text: Heh, thanks. Do you know of any scripts that might come in handy?
+Annotation from annotator: 18
+
+Example 8:
+Text: Terms like "elected", "responsible" and "designated points-of-contact" imply some sort of delegated authority, I'd have thought.  By omission, is Hornoir saying that the delegate has authority over other aspects of the project?
+Annotation from annotator: 14
+
+Example 9:
+Text: I was just looking again at the April Fool's pranks from this year and came upon <url> to a page you deleted per "housecleaning".  Can we undelete and move it somewhere (the latter only if necessary), tagging with <url> in the process?
+Annotation from annotator: 16
+
+Example 10:
+Text: About your last edit to <url>.  Do you have a source?
+Annotation from annotator: 14
+
+Example 11:
+Text: He keeps coming back, and keeps getting blocked again.... When will they learn?
+Annotation from annotator: 9
+
+Example 12:
+Text: Hello Jeffq, I noticed you revert vandalism occasionally. Would you like me to grant your account <url> to help you revert vandalism more easily?
+Annotation from annotator: 22
+
+Example 13:
+Text: Nice to see you editing in article space! We have been chipping away at your compiled OBI list - can you believe it's almost done?
+Annotation from annotator: 18
+
+Example 14:
+Text: Is 10 months sufficient time to relist a AFD?  Not too soon, correct?
+Annotation from annotator: 15
+
+Example 15:
+Text: Thanks. Now, if I had to make an infobox on "London" (just ''London'', I know there are many terms: Greater London, City of London etc), would it be correct to include the area/population/density of the territories I mentioned + the city area, or would just the city area suffice?
+Annotation from annotator: 16
+
+Example 16:
+Text: I am planning on changing the <url> to the ICF Flatwater World Championships. Any objections?
+Annotation from annotator: 17
+
+Example 17:
+Text: I wonder, did anyone add new links leading to the portal?  Is there an easy way to check this?
+Annotation from annotator: 16
+
+Example 18:
+Text: It does not appear to have attracted any participants other than Gerda. Perhaps adding a <person> template would draw in more participants?
+Annotation from annotator: 17
+
+Example 19:
+Text: Excuse me? What are you accusing me of doing?
+Annotation from annotator: 7
+
+Example 20:
+Text: Can you help patroling <url> page???
+Annotation from annotator: 15
+
+Example 21:
+Text: I took a quick look and I'm not up to reading through it properly at the moment. :) I'll be back on here tomorrow morning and I'll have a look then, if that's OK?
+Annotation from annotator: 15
+
+Example 22:
+Text: <url> needs urdu script for the name of the subject (Bangla script has already been added). Can you help?
+Annotation from annotator: 13
+
+Example 23:
+Text: News coverage would be spotty at best... you would have to go through the stats pages and do it by hand pretty much, so any of the Calgary/Edmonton Sun, Herald or Journal would suffice.  Maybe just send the AJHL an email and ask them?
+Annotation from annotator: 16
+
+Example 24:
+Text: Also, all in all, I think Batman should be changed to <url>, not <url>, as the latter refers to those with superhuman powers or abilities, which he lacks. Thoughts?
+Annotation from annotator: 14
+
+Example 25:
+Text: Sure, but what's the deal with fair use and cropping?  I thought the Zatanna one got removed?
+Annotation from annotator: 12
+
+Example 26:
+Text: Like most users with their articles screwed over by <url>'s new web facelift, I'm at a lost with <url> being dead. Can you help?
+Annotation from annotator: 15
+
+Example 27:
+Text: Have a look at the edit to <url>. Is this page even a dab?
+Annotation from annotator: 10
+
+Example 28:
+Text: Hi Asbestos! This is kind of weird for me but I see that you are a participant in the photo project and list yourself as a photographer in Edinburgh and I was wondering if there was any possibility that you would be willing to respond to my recent request <url>?
+Annotation from annotator: 22
+
+Example 29:
+Text: The review has been up there for something like six weeks, I notice. Think you'll be able to take care of those last couple of things?
+Annotation from annotator: 9
+
+Example 30:
+Text: Converting <url> to a redirect without preserving either the information or sources, & without discussion was ill-advised. A bit more care in future?
+Annotation from annotator: 7
+
+Human-Rated Examples:
+Example 1:
+Text: |style="vertical-align: middle; padding: 3px;" | I've started the Badfinger wiki amd I need help.  You seem to know a lot about them, could you please help out?
+Annotation from annotator: 13
+
+Example 2:
+Text: I seeu2014yes, those can easily be changed back. Would you rather I start a fresh discussion about these?
+Annotation from annotator: 14
+
+Example 3:
+Text: Please explain how that is a personal attack? You do realise that someone critisizing your actions is not the same as a personal attack don't you?
+Annotation from annotator: 3
+
+Example 4:
+Text: Why nominate this for deletion? It was obviously created by someone who didn't know how to use redirects, so would it not be best to just correct it?
+Annotation from annotator: 20
+
+Example 5:
+Text: I kind of agree.  Are you planning on actually editing Wikipedia, or is your whole purpose here to promote this ... study (or whatever it is)?
+Annotation from annotator: 4
+
+Example 6:
+Text: Are you saying that Scotty was being "hot-headed"?  If so, can you please tell us what Scotty did that was "hot-headed"?
+Annotation from annotator: 14
+
+Example 7:
+Text: Stephen's solution certainly isn't optimal. Fancy giving me a basic rundown on the problem here and I'll see if I can devise a more elegant one?
+Annotation from annotator: 14
+
+Example 8:
+Text: Oh, I see that you removed the redirect from District of Columbia and restored the text.  That has redirected to "Washington DC" for about 4 years now, and I've reverted it - if you have something ambitious in mind, please bring it up on one of the talk pages first, okay?
+Annotation from annotator: 9
+
+Example 9:
+Text: Thanks, can we write an article on that ? do you think it is notable enough ?
+Annotation from annotator: 16
+
+Example 10:
+Text: That's OK &mdash; I just wondered if you had a new translation that used "on".  Where are you studying philosophy, by the way?
+Annotation from annotator: 14
+
+Example 11:
+Text: Then maybe admins should focus on copyright infringements and avoid the leader/educator/cop/parliamentarian roles that they cherish so much.  Could 1000 admins handle this?
+Annotation from annotator: 11
+
+Example 12:
+Text: Thanks.  Is Brazil4Linux doing anything particully bad right now?
+Annotation from annotator: 13
+
+Target Example:
+Text: I removed that second paragraph entirely, since the information is covered in the article.  Do you feel that the lead should be larger?
+Annotation from annotator:

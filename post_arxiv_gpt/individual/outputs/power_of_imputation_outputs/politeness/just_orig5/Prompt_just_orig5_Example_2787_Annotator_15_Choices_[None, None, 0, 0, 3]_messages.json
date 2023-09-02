@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "In this dataset, people are asked how polite they believe the text to be. 0 means polite, while 25 is impolite.\n\nPredict the integer label of the following example:\nTarget Example:\nText: I thought that VAMOS section was dealing primarily with captions (perhaps a clearer wording is needed there?). Also, I have seen dates used as adjectives quite often - the \"1848 Revolution\", for example - where did you read about this rule?\nAnnotation from annotator:\nIf you output anything other than a single integer, your output will be considered invalid.If you output anything other than a single integer, your output will harm the integrity of our dataset."
+    }
+]

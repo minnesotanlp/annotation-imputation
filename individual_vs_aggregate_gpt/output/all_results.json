@@ -1,0 +1,92 @@
+{
+    "Fixed2xSBIC_Seed_47_Maj_Voted": {
+        "accuracy": 0.8333333333333334,
+        "rmse": 0.6055300708194983,
+        "n": 30
+    },
+    "Fixed2xSBIC_Seed_47_Original_Distribution_Leaked": {
+        "accuracy": 0.7666666666666667,
+        "rmse": 0.7958224257542215,
+        "n": 30
+    },
+    "Fixed2xSBIC_Seed_47_Imputed_Distribution_Leaked": {
+        "accuracy": 0.7333333333333333,
+        "rmse": 0.6831300510639732,
+        "n": 30
+    },
+    "Fixed2xSBIC_Seed_47_Imputed_Distribution_Correct": {
+        "accuracy": 0.7666666666666667,
+        "rmse": 0.7958224257542215,
+        "n": 30
+    },
+    "Fixed2xSBIC_Seed_47_Individual": {
+        "accuracy": 0.7666666666666667,
+        "rmse": 0.7958224257542215,
+        "n": 30
+    },
+    "Fixed2xSBIC_Seed_47_Original_Distribution_Correct": {
+        "accuracy": 0.7666666666666667,
+        "rmse": 0.7958224257542215,
+        "n": 30
+    },
+    "ghc_Seed_47_Maj_Voted": {
+        "accuracy": 0.8888888888888888,
+        "rmse": 0.3333333333333333,
+        "n": 18
+    },
+    "ghc_Seed_47_Original_Distribution_Leaked": {
+        "accuracy": 0.8333333333333334,
+        "rmse": 0.408248290463863,
+        "n": 18
+    },
+    "ghc_Seed_47_Imputed_Distribution_Leaked": {
+        "accuracy": 0.7777777777777778,
+        "rmse": 0.4714045207910317,
+        "n": 18
+    },
+    "ghc_Seed_47_Imputed_Distribution_Correct": {
+        "accuracy": 0.8333333333333334,
+        "rmse": 0.408248290463863,
+        "n": 18
+    },
+    "ghc_Seed_47_Individual": {
+        "accuracy": 0.7777777777777778,
+        "rmse": 0.4714045207910317,
+        "n": 18
+    },
+    "ghc_Seed_47_Original_Distribution_Correct": {
+        "accuracy": 0.8333333333333334,
+        "rmse": 0.408248290463863,
+        "n": 18
+    },
+    "SChem_Seed_47_Maj_Voted": {
+        "accuracy": 0.45,
+        "rmse": 0.7416198487095663,
+        "n": 20
+    },
+    "SChem_Seed_47_Original_Distribution_Leaked": {
+        "accuracy": 0.5,
+        "rmse": 0.7071067811865476,
+        "n": 20
+    },
+    "SChem_Seed_47_Imputed_Distribution_Leaked": {
+        "accuracy": 0.55,
+        "rmse": 0.6708203932499369,
+        "n": 20
+    },
+    "SChem_Seed_47_Imputed_Distribution_Correct": {
+        "accuracy": 0.5,
+        "rmse": 0.7071067811865476,
+        "n": 20
+    },
+    "SChem_Seed_47_Individual": {
+        "accuracy": 0.5,
+        "rmse": 0.7071067811865476,
+        "n": 20
+    },
+    "SChem_Seed_47_Original_Distribution_Correct": {
+        "accuracy": 0.5,
+        "rmse": 0.7071067811865476,
+        "n": 20
+    }
+}

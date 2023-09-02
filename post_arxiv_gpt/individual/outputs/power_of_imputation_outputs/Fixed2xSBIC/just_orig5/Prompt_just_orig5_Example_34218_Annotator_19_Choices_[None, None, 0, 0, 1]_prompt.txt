@@ -1,0 +1,7 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Predict the integer label of the following example:
+Target Example:
+Text: feelings of resentment have been ' riffling ' through the orlando gay community since omar mateen first set foot in the pulse nightclub .
+Annotation from annotator:
+Your output should be a single integer and nothing else.

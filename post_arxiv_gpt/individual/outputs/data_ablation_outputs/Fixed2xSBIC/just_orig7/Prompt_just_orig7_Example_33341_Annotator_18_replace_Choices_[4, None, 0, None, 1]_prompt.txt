@@ -1,0 +1,144 @@
+In this dataset, annotators are asked whether text is offensive. There are three possible labels: not offensive (0), maybe (1), offensive (2)
+
+Examples from the dataset (there may not be any):Examples from the dataset (there may not be any)
+Example 1:
+Text: What’s the useless part of the body around the vagina? The woman.
+Annotation from annotator: 2
+
+Example 2:
+Text: This song drains my soul(for Chincels)
+”童话”，那首歌。听了非常难过。但有知道自己永远不可能有这种女友，很痛苦。
+
+Tong Hua that Chinese song, makes me sad and nostalgic everytime I hear it, but knowing inceldom will make me never have a gf, really stings, it hurts.
+Annotation from annotator: 0
+
+Example 3:
+Text: Worried about fruit trees and this crazy #VegasWind
+Annotation from annotator: 0
+
+Example 4:
+Text: THEY HAVE PRINTER NO COST OFF MONEY IT IS LIKE IF YOU PRINT MONEY AND ASK FROM NAIBOR GIVE ME UR CAR ..OTHER WAYS I STOP TO PAY YOUR DIESEL
+Annotation from annotator: 0
+
+Example 5:
+Text: I know shit about everybody , I just don't care enough to speak on it but I suggest you bitches watch it forreal .
+Annotation from annotator: 0
+
+Example 6:
+Text: Basic a** trainer keeps kicking me off turf @ the gym claiming he's teaching a class, but I've been here since 5am and I see not a soul.
+Annotation from annotator: 0
+
+Example 7:
+Text: Whats white and gets darker by the day? -Europe.
+Annotation from annotator: 0
+
+Example 8:
+Text: Week 2 After Veto Ceremony The Nominations To Be Evicted From The Big Brother House Where Alex, Ramses, And Cody #BB19 
+Annotation from annotator: 0
+
+Example 9:
+Text: &#8220;@CheyaGurr: @A_Mitchellll13 ur seriously a fag&#8221;don't hate
+Annotation from annotator: 2
+
+Example 10:
+Text: you gotta watch the ones that's close to you before the strangers and that's fucked up.
+Annotation from annotator: 0
+
+Example 11:
+Text: today has been a fucking cornucopia of emotion wew
+Annotation from annotator: 0
+
+Example 12:
+Text: i fucking hate explaining like who i am to people that dont know. like i just expect them to already know and they dont
+Annotation from annotator: 0
+
+Example 13:
+Text: All deses bitches know that you're my nigga.
+Annotation from annotator: 0
+
+Example 14:
+Text: Comparison of available options
+All women:1,000+ in real life, local options and countless online
+
+Chad: 1,000+ in real life, local options and countless online 
+
+Other men: literally no options 
+
+If a woman is single, it's because she's balking at her numerous available options.
+Annotation from annotator: 0
+
+Example 15:
+Text: I'm sorry but I have a fucking parking pass WHYYYY am I getting a parking ticket in bab.
+Annotation from annotator: 0
+
+Example 16:
+Text: 3 door, AWD...
+Annotation from annotator: 0
+
+Example 17:
+Text: Don't post no men on my page . Don't got time to be updating my pages every week because he on some nut shit &#129335;&#127995;‍♀️.
+Annotation from annotator: 0
+
+Example 18:
+Text: They never really miss you when you leave them , they miss you when they see that you have moved on , became happy , &amp; didn't look back.
+Annotation from annotator: 0
+
+Example 19:
+Text: Height=cope
+Only if you have severe manletism (under 5'7) that can be a reason to be incel face&gt;&gt;&gt;&gt;height
+Annotation from annotator: 0
+
+Example 20:
+Text: Found a Transponder Snail! Exclusive Profile: Those who follow their dreams! https://t.co/PUk0vcHVBd #TreCru https://t.co/f5xBR0Vmzj
+Annotation from annotator: 0
+
+Example 21:
+Text: Is that the remix? "@breezyfrmdablok: these hoes ain't lawyers! &#127908;&#128553; lmao my fave Chris Brown song"
+Annotation from annotator: 0
+
+Example 22:
+Text: This isn't work-related, but just an FYI since I know you are interested in 'women's issues.'
+Annotation from annotator: 0
+
+Example 23:
+Text: AMA on the "Wage Gap" doesn't go too well
+Annotation from annotator: 0
+
+Example 24:
+Text: Had to put off press photog until today. Now I'm back to frantically cleaning &amp; cursing myself for not having time for a haircut.
+Annotation from annotator: 0
+
+Example 25:
+Text: What to sing if your boss My dick is big and it keeps getting bigger that why i like raping this nigger
+Annotation from annotator: 2
+
+Example 26:
+Text: The best players going to Olympics is an investment in the game of Hockey. That's good for everyone including the NHL. #NHL #ForTheFans
+Annotation from annotator: 0
+
+Example 27:
+Text: Roses are red, Violets are blue.
+
+
+Don't scream during anal,
+
+
+Or I will kill you.
+Annotation from annotator: 0
+
+Example 28:
+Text: Screen Rant - Posts | Daredevil 's coming out of the shadows in... https://t.co/xw5JGs0g6m https://t.co/8ghO9bgDY3
+Annotation from annotator: 0
+
+Example 29:
+Text: Sorry about all the RTs, but this is a really serious issue. This guy is basically the tech anti-feminist that thinks he's an ally.
+Annotation from annotator: 0
+
+Example 30:
+Text: i'm so sad i can't smell pri's farts :( i bet they smell better than mine i hope we meet one day and toot away
+Annotation from annotator: 0
+
+Target Example:
+Text: my cousin thinks it's so funny that i really want to go to school for everything like multi-talented
+Annotation from annotator:
+Your output should be a single integer and nothing else.

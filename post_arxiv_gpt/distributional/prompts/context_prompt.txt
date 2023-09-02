@@ -1,0 +1,10 @@
+Here is a description of a dataset:
+{dataset_description}
+
+Your goal is to predict the soft label given by the raters on a particular text.
+
+Here are a few examples of texts and their soft label:
+{soft_label_examples}
+
+Now, you will make your prediction (if you are unsure, just give your best estimate):
+{prediction_text}

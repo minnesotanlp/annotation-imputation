@@ -1,0 +1,245 @@
+Estimated Examples:
+Example 1:
+Text: You shouldn't hit rock bottom.
+Annotation from annotator: 3
+
+Example 2:
+Text: It is okay to be uncomfortable with technology.
+Annotation from annotator: 3
+
+Example 3:
+Text: Fidelity is expected in a relationship.
+Annotation from annotator: 3
+
+Example 4:
+Text: You should feel comfortable sleeping in bed.
+Annotation from annotator: 3
+
+Example 5:
+Text: You shouldn't race if you're tired.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's understandable to expect others to treat your things with respect.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to take your younger relative out to eat.
+Annotation from annotator: 3
+
+Example 8:
+Text: It's fine to be curious about whether you can get attention.
+Annotation from annotator: 3
+
+Example 9:
+Text: It's acceptable to have a complicated relationship with food.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's okay for family to pick sides during a messy divorce
+Annotation from annotator: 2
+
+Example 11:
+Text: It is reasonable to want to hold onto loving memories after losing someone.
+Annotation from annotator: 3
+
+Example 12:
+Text: It's understandable that sometimes people find that there are differences in a relationship that they cannot reconcile.
+Annotation from annotator: 3
+
+Example 13:
+Text: You should tell your partner you don't want to be with them anymore.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is prolific to create several products.
+Annotation from annotator: 3
+
+Example 15:
+Text: It is okay to be confident.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's okay to be sad when you get your old account banned.
+Annotation from annotator: 3
+
+Example 17:
+Text: You should always have a map app downloaded on your phone.
+Annotation from annotator: 2
+
+Example 18:
+Text: It's okay to be worried when your friend takes longer than they said they would.
+Annotation from annotator: 3
+
+Example 19:
+Text: It's expected that bike shops will repair bicycles.
+Annotation from annotator: 3
+
+Example 20:
+Text: It is normal to worry if your mom has cancer.
+Annotation from annotator: 3
+
+Example 21:
+Text: You should open the door when someone knocks on it.
+Annotation from annotator: 2
+
+Example 22:
+Text: These days it's normal to make purchases over the internet.
+Annotation from annotator: 3
+
+Example 23:
+Text: You should confer with your partner before telling others about big events.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's bad to withhold medication from people who need it.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's acceptable to control your own shop.
+Annotation from annotator: 3
+
+Example 26:
+Text: If you know your best friend is shy it is reasonable for them to be scared to give a speech at your wedding.
+Annotation from annotator: 3
+
+Example 27:
+Text: It's good to remind people that they are lucky.
+Annotation from annotator: 2
+
+Example 28:
+Text: It's okay if you are upset when your coach won't let you play a game.
+Annotation from annotator: 3
+
+Example 29:
+Text: It's comforting to go to a first time experience with a friend.
+Annotation from annotator: 3
+
+Example 30:
+Text: You are supposed to love your pet dog.
+Annotation from annotator: 3
+
+Human-rated Examples:
+Example 1:
+Text: It's expected to save a pet that is in danger.
+Annotation from annotator: 4
+
+Example 2:
+Text: It's hurtful to never return to someone's home.
+Annotation from annotator: 3
+
+Example 3:
+Text: Stealing is considered a taboo.
+Annotation from annotator: 4
+
+Example 4:
+Text: You shouldn't abandon your pets.
+Annotation from annotator: 4
+
+Example 5:
+Text: You shouldn't expect customers to do you favors.
+Annotation from annotator: 3
+
+Example 6:
+Text: You should communicate with your partner about your expectations when you're dating.
+Annotation from annotator: 3
+
+Example 7:
+Text: You should want your baby to look like both you and the other parent.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's okay to be goofy around your friends.
+Annotation from annotator: 4
+
+Example 9:
+Text: You should talk to your boss before you make decisions at work.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's good to be clear when you need space from loved ones.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to tell your ex your true feelings.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's bad to crave attention.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's bad to look to old.
+Annotation from annotator: 2
+
+Example 14:
+Text: It's fine to like a show.
+Annotation from annotator: 4
+
+Example 15:
+Text: It's fine to make your own choice about what path you want to take.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's understandable when past trauma informs your future actions.
+Annotation from annotator: 2
+
+Example 17:
+Text: You shouldn't let your partner tell you what to do.
+Annotation from annotator: 3
+
+Example 18:
+Text: It is wrong to betray your family
+Annotation from annotator: 3
+
+Example 19:
+Text: You're expected to work in order to earn money.
+Annotation from annotator: 3
+
+Example 20:
+Text: It's wrong to tell a woman what to do.
+Annotation from annotator: 2
+
+Example 21:
+Text: It is irresponsible to quit a job.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's understandable to be angry about injustice.
+Annotation from annotator: 3
+
+Example 23:
+Text: It is wrong to abandon a friend.
+Annotation from annotator: 3
+
+Example 24:
+Text: You are expected to tell someone if a family member is dying.
+Annotation from annotator: 3
+
+Example 25:
+Text: People are expected to act out of character when grieving a death
+Annotation from annotator: 2
+
+Example 26:
+Text: It's good to exercise so you can lose weight.
+Annotation from annotator: 3
+
+Example 27:
+Text: It is rude to cut in line.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's good to question an officer in court to help your case.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's wrong not to share with your partner.
+Annotation from annotator: 3
+
+Example 30:
+Text: You shouldn't intentionally ruin the joy of others.
+Annotation from annotator: 3
+
+Target Example:
+Text: You should care more about your parent's feelings.
+Annotation from annotator:

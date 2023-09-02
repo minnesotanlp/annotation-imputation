@@ -1,0 +1,82 @@
+Example 1:
+Text: Flipped my 7 month old mattress to relocate the visible-even-under-sheets concave that had formed... under my butt
+Annotation from annotator: 3
+
+Example 2:
+Text: Givin my cuzzin my old size 5 jeans  *sigh*
+Annotation from annotator: 3
+
+Example 3:
+Text: Great morning. 2 yr old put his hand on a burner I'd just turned off. Circular burns all over his palm. I feel sick about it.
+Annotation from annotator: 2
+
+Example 4:
+Text: Have a blessed time of worship today! We're having a graduation party after church for a young man who has graduated from high school.
+Annotation from annotator: 4
+
+Example 5:
+Text: I don't wannnnna go to work tomorrow.   Anyone know any filthy-rich old men looking for someone to take care of?? Lol
+Annotation from annotator: 2
+
+Example 6:
+Text: I just listened to "Very Proud of Ya" by AFI and I must say I miss the old AFI
+Annotation from annotator: 2
+
+Example 7:
+Text: I miss my old Japanese Drama/boy band loving days. I'm slowly getting back into the stream. Ahhh Arashi is my Asian Backstreet Boys
+Annotation from annotator: 3
+
+Example 8:
+Text: I was just informed my son is too old to be my 'baby boy'
+Annotation from annotator: 1
+
+Example 9:
+Text: Tweeting from my new home... I now live in @kelliesimpson's old room... So not woot for me
+Annotation from annotator: 3
+
+Example 10:
+Text: Waning - Green Day <3 Love the oldies.
+Annotation from annotator: 3
+
+Example 11:
+Text: What's happened to my picture? Can't seem to upload new one and old one has disappeared
+Annotation from annotator: 1
+
+Example 12:
+Text: YEAR 3000 .. I know it's old but it's my fave @jonasbrothers song
+Annotation from annotator: 2
+
+Example 13:
+Text: back from collecting youngest son, time for #cuppa then back out at 4pm to get oldest from athletics, then hubby taking them snowboarding
+Annotation from annotator: 3
+
+Example 14:
+Text: had a good night t-total again, looking forward to my birthday bbq today i am now officially 27yrs old
+Annotation from annotator: 4
+
+Example 15:
+Text: has had a rough time, bel had chickenpox and poor honey my 9yr old bunny had to be put down. really really sad right now
+Annotation from annotator: 2
+
+Example 16:
+Text: i gotsa 4 1/2 yr old bf lol. My Science Teachers son said me & my friend Arial were his g/f's lol. thats ADORABLE lol.
+Annotation from annotator: 3
+
+Example 17:
+Text: i miss those days. the old hannah montana songs we used to sing to together, making up stupid songs at 2 in the morning. where'd they go?
+Annotation from annotator: 2
+
+Example 18:
+Text: morning everybody, its raining again  oh and starwars the old republic looks amazing, go to youtube and watch the interviews with bioware
+Annotation from annotator: 3
+
+Example 19:
+Text: oh good, as I'm moving my things to the new machine I'm sent back to the old one for the morning.
+Annotation from annotator: 3
+
+Example 20:
+Text: uploading old diva twit pix. getting sad. reminding me that college is over and done.
+Annotation from annotator: 2
+
+Text: Going to bed before midnight so often lately makes me feel too old.
+Annotation from annotator:

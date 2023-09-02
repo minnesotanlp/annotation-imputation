@@ -1,0 +1,50 @@
+{
+    "just_orig7_swap_headers": {
+        "best accuracy": 0.2,
+        "best weighted avg f1-score": 0.3071212121212121
+    },
+    "just_orig7_orig_headers": {
+        "best accuracy": 0.03333333333333333,
+        "best weighted avg f1-score": 0.059259259259259255
+    },
+    "just_orig6_swap_headers": {
+        "best accuracy": 0.0,
+        "best weighted avg f1-score": 0.0
+    },
+    "just_orig6_orig_headers": {
+        "best accuracy": 0.0,
+        "best weighted avg f1-score": 0.0
+    },
+    "just_orig5_swap_headers": {
+        "best accuracy": 0.0,
+        "best weighted avg f1-score": 0.0
+    },
+    "just_orig5_orig_headers": {
+        "best accuracy": 0.0,
+        "best weighted avg f1-score": 0.0
+    },
+    "combined3_swap_headers": {
+        "best accuracy": 0.6,
+        "best weighted avg f1-score": 0.6382539682539683
+    },
+    "combined3_orig_headers": {
+        "best accuracy": 0.5666666666666667,
+        "best weighted avg f1-score": 0.5851587301587301
+    },
+    "just_imputed1_swap_headers": {
+        "best accuracy": 0.6,
+        "best weighted avg f1-score": 0.6000000000000001
+    },
+    "just_imputed1_orig_headers": {
+        "best accuracy": 0.6,
+        "best weighted avg f1-score": 0.6000000000000001
+    },
+    "just_imputed3_swap_headers": {
+        "best accuracy": 0.6,
+        "best weighted avg f1-score": 0.6038647342995169
+    },
+    "just_imputed3_orig_headers": {
+        "best accuracy": 0.5333333333333333,
+        "best weighted avg f1-score": 0.5333333333333333
+    }
+}

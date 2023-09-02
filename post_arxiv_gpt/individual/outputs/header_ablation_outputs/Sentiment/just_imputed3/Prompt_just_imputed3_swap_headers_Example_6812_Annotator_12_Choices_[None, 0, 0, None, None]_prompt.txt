@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: I think I'm young enough to decide what I can eat!
+Annotation from annotator: 4
+
+Example 2:
+Text: @emmhsmfan the dad seems good with kids, but not a lot of access. Ours is only 25 days old
+Annotation from annotator: 3
+
+Example 3:
+Text: dunno why I'm up and still bored. So yeah I just felt like updating my layout on MySpace & songs. haha. It's pretty lame but old-school!
+Annotation from annotator: 2
+
+Example 4:
+Text: off to lunch with an old friend
+Annotation from annotator: 4
+
+Example 5:
+Text: @CourtKP they arrived last weekend...but maybe not with all their stuff, I do think they have a youngn
+Annotation from annotator: 4
+
+Example 6:
+Text: @JMIKE3 U no that little prob with ur twitter that happen @ that old pep resteraunt! mayb this will help u fix it
+Annotation from annotator: 4
+
+Example 7:
+Text: @thephatkat I know im old  u dont have to rub it in hee hee
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6ix23 - It's a old picture but i like it
+Annotation from annotator: 4
+
+Example 9:
+Text: doing old crappy naxxramas
+Annotation from annotator: 3
+
+Example 10:
+Text: Great morning. 2 yr old put his hand on a burner I'd just turned off. Circular burns all over his palm. I feel sick about it.
+Annotation from annotator: 2
+
+Example 11:
+Text: No one knows the Monday morning I'm having.  And my 85 yr old boyfriend/fav patient was discharged... Boo!
+Annotation from annotator: 2
+
+Example 12:
+Text: @elenasharpn ironically - an 80 year old man probably has the mental age of a teenager...
+Annotation from annotator: 4
+
+Example 13:
+Text: g'day guys!. its a cyber stab in the back   .got a few old twitter friends very obviously blanking me.
+Annotation from annotator: 3
+
+Example 14:
+Text: Just dismantled my old bed, sad to see it go..new one arrives tomorrow though
+Annotation from annotator: 3
+
+Example 15:
+Text: http://twitpic.com/61f8v - #rejectprop8 ahhhh young love
+Annotation from annotator: 3
+
+Example 16:
+Text: about to lose candyland to a 3 year old  hopefully I finish before @clifsoulo he's weak too! LOL
+Annotation from annotator: 3
+
+Example 17:
+Text: @Luvschweetheart Work and laundry here today so no need for sun.  And the youngest goes to the sitters so solitude awaits me.
+Annotation from annotator: 4
+
+Example 18:
+Text: @retrofreak94 no i didntt but that show is just not as good as their older stuff.. /: but theyre still adorable / hilariouss
+Annotation from annotator: 3
+
+Example 19:
+Text: Really wishes i wasnt so tired. All i wanna do is sleep but i work 5 more hours and then have to babysit a maniac 2 year old boy
+Annotation from annotator: 2
+
+Example 20:
+Text: miley's concert is in december i wanna go!  is anyone else secretly a 12 year old girl and wanna come with me? @lil_miss_sneha?  c'mooon
+Annotation from annotator: 3
+
+Example 21:
+Text: Weather amazing here. Going to break for some iced tea & company of an old Springer Spaniel.
+Annotation from annotator: 4
+
+Example 22:
+Text: done with dinner... love catching up with T.  Just sent a text to an old friend and it is no longer their number... Sadness.
+Annotation from annotator: 3
+
+Example 23:
+Text: @BeauGiles since when do you care?  you should look up an old CH10 show called 'Breakers' for the male version
+Annotation from annotator: 2
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of a 75 year old!
+Annotation from annotator: 2
+
+Example 25:
+Text: looking forward to celebrating my dads 65th with family tonight (wow, am I old enough to have a 65 yr old dad lol) and Star Trek 2morrow
+Annotation from annotator: 4
+
+Example 26:
+Text: trying to make my youngest sleeping
+Annotation from annotator: 3
+
+Example 27:
+Text: so dose anyone remember that Ketchup song by Las Ketchup that song is so old but its cool twitter me if u remember it
+Annotation from annotator: 3
+
+Example 28:
+Text: im falling in love with eddy from pearl jam <3 but he's too old for me   www.myspace.com/Zoe_Suicide
+Annotation from annotator: 3
+
+Example 29:
+Text: @teruist Also, aggravating to know they can make oldschool vkei in PARODY but we struggle to try
+Annotation from annotator: 3
+
+Example 30:
+Text: @herathcrush: its a girl. They have 4 girls now  The 2 oldest are teens and the 3rd is 7 yrs old.
+Annotation from annotator: 4
+
+Target Example:
+Text: Garbage - shredded old docs after cleaning  http://twitpic.com/5omoy
+Annotation from annotator:

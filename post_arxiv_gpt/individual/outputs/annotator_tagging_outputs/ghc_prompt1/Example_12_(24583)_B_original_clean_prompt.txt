@@ -1,0 +1,57 @@
+Description of the dataset:
+In this dataset, people are asked whether they believe a tweet contains hatespeech or not. 0 means no hatespeech, and 1 means that there is hatespeech.
+
+How annotator A has labeled some examples:
+Example 1:
+Text: 'The Meme The Gaming Community Created To Label SJW’s Is Pretty Brilliant' 
+Annotation from annotator: 1
+
+Example 2:
+Text: What Facebook Really Does With Your Data https://youtu.be/83pwPOtrITk
+Annotation from annotator: 0
+
+Example 3:
+Text: House Intel votes to make Nunes memo public 
+Annotation from annotator: 0
+
+Example 4:
+Text: Earl Thomas has every right to be mad at the franchise he led as one of the best defenders of his generation.  https://t.co/BhoLPUWocD
+Annotation from annotator: 0
+
+How annotator B has labeled some examples:
+Example 1:
+Text: European Resistance News 
+Annotation from annotator: 0
+
+Example 2:
+Text: Things are blooming and booming! 😊 Thank you
+Annotation from annotator: 0
+
+Example 3:
+Text: Patriots here in the land of the free, should set aside a day, like Aug 21st.... 
+Annotation from annotator: 0
+
+Example 4:
+Text: https://www.InternetBusinessSolutions.com - This site had the information I was looking for. #ibs #internet_business_solutions
+Annotation from annotator: 0
+
+How annotator C has labeled some examples:
+Example 1:
+Text: YEP mccain IS EVIL TRAITOR TRASH
+Annotation from annotator: 0
+
+Example 2:
+Text: may be we just need a few more  illegals hanging around to deter these invades from coming.
+Annotation from annotator: 0
+
+Example 3:
+Text: $100 says that one of these trucks will be hacked into and used in a terrorist attack in a few years.
+Annotation from annotator: 0
+
+Example 4:
+Text: Failure to show empathy - Up to 6 months in jail or an unlimited fine. 
+Annotation from annotator: 0
+
+How might annotator B label this example? Output the annotation that seems most likely.
+Text: Sharia May is to set up a new unit to deal with fake news . Stupid woman , if she wants to stop fake news , just shut down the BBC .
+Annotation from annotator:

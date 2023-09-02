@@ -1,0 +1,122 @@
+Example 1:
+Text: You should be understanding of your family's decisions when they're weak.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's good for a mom to care about their children.
+Annotation from annotator: 3
+
+Example 3:
+Text: It's wrong to uproot your family and move to a place where you have no connections and don't know anyone.
+Annotation from annotator: 2
+
+Example 4:
+Text: You shouldn't expect other people to be nasty recreational drug users like yourself.
+Annotation from annotator: 3
+
+Example 5:
+Text: It's bad to have an overly pessimistic world view.
+Annotation from annotator: 2
+
+Example 6:
+Text: You should not get angry when your chronically ill relative needs help.
+Annotation from annotator: 3
+
+Example 7:
+Text: It's good to find things to help you soften your grief.
+Annotation from annotator: 3
+
+Example 8:
+Text: Expect to go to jail if you break the law.
+Annotation from annotator: 2
+
+Example 9:
+Text: It's good for kids to have friends they can play with.
+Annotation from annotator: 3
+
+Example 10:
+Text: It's rude to only want to listen to specific details.
+Annotation from annotator: 3
+
+Example 11:
+Text: It's good to help yourself get over your depression.
+Annotation from annotator: 3
+
+Example 12:
+Text: You shouldn't try to get sympathy from people just because you're in the hospital.
+Annotation from annotator: 3
+
+Example 13:
+Text: It's good to want others to celebrate your joys with you.
+Annotation from annotator: 3
+
+Example 14:
+Text: You can't expect everyone to like you.
+Annotation from annotator: 3
+
+Example 15:
+Text: Your boyfriend has the right to wear whatever underwear he chooses.
+Annotation from annotator: 2
+
+Example 16:
+Text: If you are uncomfortable with your partner feeding your kids, you should not let your partner watch your children.
+Annotation from annotator: 3
+
+Example 17:
+Text: It's okay to be annoyed when someone begs you for something.
+Annotation from annotator: 2
+
+Example 18:
+Text: You shouldn't judge a whole race of people by the actions of a few people.
+Annotation from annotator: 3
+
+Example 19:
+Text: It is okay to not share something that you did a lonf time ago.
+Annotation from annotator: 3
+
+Example 20:
+Text: You shouldn't expect people to work if they don't want to.
+Annotation from annotator: 2
+
+Example 21:
+Text: It is dangerous for a doctor to misdiagnose a patient.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's expected you get into a fight if you're being racist around people
+Annotation from annotator: 3
+
+Example 23:
+Text: You shouldn't expect your ex to not have sex after the relationship is over.
+Annotation from annotator: 3
+
+Example 24:
+Text: It's good to be aware of your limits.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's bad to be only attracted to fictional characters.
+Annotation from annotator: 3
+
+Example 26:
+Text: You shouldn't expect people to do all their chores.
+Annotation from annotator: 2
+
+Example 27:
+Text: It's noble to be true to yourself.
+Annotation from annotator: 3
+
+Example 28:
+Text: It's wise to never let yourself get embarrassed by your significant other.
+Annotation from annotator: 2
+
+Example 29:
+Text: It's okay to be offended when your partner doesn't want you cooking for their kids.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's not okay to expect more than a person can give.
+Annotation from annotator: 3
+
+Text: It's wrong to take pennies from a wishing fountain.
+Annotation from annotator:

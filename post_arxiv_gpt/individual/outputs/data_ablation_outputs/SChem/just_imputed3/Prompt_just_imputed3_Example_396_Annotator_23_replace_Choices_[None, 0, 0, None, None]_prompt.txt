@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: If you are uncomfortable with your partner feeding your kids, you should not let your partner watch your children.
+Annotation from annotator: 3
+
+Example 2:
+Text: Businesses should treat customers with courtesy if they expect them to return.
+Annotation from annotator: 4
+
+Example 3:
+Text: It's good to recognize the problems with being attracted to someone much younger than you.
+Annotation from annotator: 2
+
+Example 4:
+Text: It is inconsiderate to expect a friend to give you money.
+Annotation from annotator: 2
+
+Example 5:
+Text: It is good to have rules.
+Annotation from annotator: 3
+
+Example 6:
+Text: It's degrading to seek affirmation from people.
+Annotation from annotator: 2
+
+Example 7:
+Text: You should always question someone's character when they say something inappropriate.
+Annotation from annotator: 2
+
+Example 8:
+Text: You should only call the cops for emergencies.
+Annotation from annotator: 3
+
+Example 9:
+Text: It is responsible to look out for the children of the community.
+Annotation from annotator: 3
+
+Example 10:
+Text: You're discouraged from hating others.
+Annotation from annotator: 4
+
+Example 11:
+Text: You shouldn't expect other people to be nasty recreational drug users like yourself.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's bad to smoke.
+Annotation from annotator: 2
+
+Example 13:
+Text: It's not okay to think someone is lying to you when it's important.
+Annotation from annotator: 3
+
+Example 14:
+Text: You shouldn't play pranks on your classmates.
+Annotation from annotator: 2
+
+Example 15:
+Text: It's good to have income.
+Annotation from annotator: 4
+
+Example 16:
+Text: Is wrong to be a pervert
+Annotation from annotator: 3
+
+Example 17:
+Text: It's not okay to expect more than a person can give.
+Annotation from annotator: 4
+
+Example 18:
+Text: It's good to have friends you can joke around with.
+Annotation from annotator: 3
+
+Example 19:
+Text: You shouldn't expect people to do all their chores.
+Annotation from annotator: 1
+
+Example 20:
+Text: People shouldn't lie about who they are.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's good to want others to celebrate your joys with you.
+Annotation from annotator: 3
+
+Example 22:
+Text: It's good for kids to have friends they can play with.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's not okay to have to rely on special tools when they aren't really needed.
+Annotation from annotator: 2
+
+Example 24:
+Text: It's rude to support one person more than another.
+Annotation from annotator: 3
+
+Example 25:
+Text: It's wrong to want to kill yourself.
+Annotation from annotator: 2
+
+Example 26:
+Text: You should love your parents.
+Annotation from annotator: 4
+
+Example 27:
+Text: Parents are expected to help their children out when they're asked.
+Annotation from annotator: 4
+
+Example 28:
+Text: It's wrong to use another person for their resources.
+Annotation from annotator: 2
+
+Example 29:
+Text: It is good to be patient.
+Annotation from annotator: 3
+
+Example 30:
+Text: It is normal to quit a job that is too difficult.
+Annotation from annotator: 2
+
+Target Example:
+Text: It's good to get a job after high school for a while to learn some responsibility.
+Annotation from annotator:

@@ -1,0 +1,245 @@
+Human-rated Examples:
+Example 1:
+Text: I think i am in love all over again...w/ the Backstreet Boys and *Nsync...i love watching/listening to their old music!
+Annotation from annotator: 3
+
+Example 2:
+Text: @emilycopeland Yeah! I was doing an older version...now I have Extreme, so I just gotta get a yoga matt and a pull up bar then I'll start
+Annotation from annotator: 2
+
+Example 3:
+Text: ear ache.....random! & it hurts like a bitch   SOSOSOSO bored seriously im fifteen years old and it summer; thats fucked up!
+Annotation from annotator: 2
+
+Example 4:
+Text: off to work  i miss being younger
+Annotation from annotator: 2
+
+Example 5:
+Text: @Coralalala good old primark ;D but its only 8 hours
+Annotation from annotator: 2
+
+Example 6:
+Text: @JEFFHARDYBRAND legend Jeff! What you reckon to Kat (ECW), old UK mate from York! Olden days
+Annotation from annotator: 2
+
+Example 7:
+Text: @theotherlily  I hope client    Orrr maybe he's an old buddy of Shawn's dad..that need help?
+Annotation from annotator: 2
+
+Example 8:
+Text: http://twitpic.com/6plus - i got dave a new bonsai... his old one died last year  so this is steve jr. (dave named his bonsai steve... ...
+Annotation from annotator: 1
+
+Example 9:
+Text: don't forget the alcohol, oooh baby, oooh baby! Poor old Milez...
+Annotation from annotator: 2
+
+Example 10:
+Text: Great morning!! So happy my daughter is graduating from kindergarden! Dag I just had her 5 years ago......I'm old
+Annotation from annotator: 2
+
+Example 11:
+Text: No! I have an old menu and they already didn't have the wine I wanted to try
+Annotation from annotator: 2
+
+Example 12:
+Text: @eggrollstan Thank you so much.  His fever went down and he was back to his old self, like nothing ever happened.
+Annotation from annotator: 2
+
+Example 13:
+Text: gahh....tiredish...stayed up too late last night .-. oh well...leaving to go out to eat soon  got a new tv so i get the old one
+Annotation from annotator: 2
+
+Example 14:
+Text: Just finished AP interview with a young man turning 12 Tues.  He passed.  Waiting for next appt. to show just not sure when he'll come.
+Annotation from annotator: 2
+
+Example 15:
+Text: http://twitpic.com/680to - I also layed in her older sister's room & pet their cat, Baxter.
+Annotation from annotator: 2
+
+Example 16:
+Text: according to this http://bit.ly/b6mPa  I will be 10000 days old in 8 days. time to celectrate  #fb
+Annotation from annotator: 2
+
+Example 17:
+Text: @LuciusPastime I'm going to sound really old-fashioned here, but I still use my dad's old Silver Arrow. Kind of an antique, if you may.
+Annotation from annotator: 2
+
+Example 18:
+Text: @residentartist The younger one liked her celery anyway.
+Annotation from annotator: 2
+
+Example 19:
+Text: Recommended @panacea81 to @MrTweet 'A really nice & generous young woman whose made the art of makeup easier   ' http://cli.gs/baz2UX
+Annotation from annotator: 2
+
+Example 20:
+Text: miss my old days when i'm in 2nd grade
+Annotation from annotator: 2
+
+Example 21:
+Text: Wedding last nightt was crazy fun! I think my little brother has a hangover :-0 (yes, he's 13) NO bueno! Good seeing old friends & fam
+Annotation from annotator: 2
+
+Example 22:
+Text: downloading good old music
+Annotation from annotator: 3
+
+Example 23:
+Text: @Bearsuitband Saw that yesterday; it's my old Uni and I can't make it  Have a good gig!
+Annotation from annotator: 2
+
+Example 24:
+Text: my knees and elbow hurt, i have the bones of an 75 year old!
+Annotation from annotator: 1
+
+Example 25:
+Text: looking forward to having a good old spree in meadowhall with @AniNicholas
+Annotation from annotator: 2
+
+Example 26:
+Text: trying to rest after a 1 hour drive turned into a 2 hour and 15min drive thanks to my crying 7 month old
+Annotation from annotator: 1
+
+Example 27:
+Text: so far so good new lappy top is working ... old boy PC is no more RIP
+Annotation from annotator: 2
+
+Example 28:
+Text: im hun-ger-eee  ramen gets old after a few dozen packs consumed in a matter of months...;
+Annotation from annotator: 2
+
+Example 29:
+Text: @tellyyy man whatever your just mad cuz you drive like an old lady lol but i love you baby
+Annotation from annotator: 1
+
+Example 30:
+Text: @hellotriciaaaa lol. he's OURS! yay! same old.same old? is that a good thing? did ya do anything fun?
+Annotation from annotator: 2
+
+Estimated Examples:
+Example 1:
+Text: @JGunds I really, really want to! But I already made plans to see some old friends tonight. I can't believe I'm going to miss out on 3eb
+Annotation from annotator: 2
+
+Example 2:
+Text: @pauldoussay  It varies. Eldest back already, younger two not 'til weds, but as film '09 is done til Autumn, husband caring while I work
+Annotation from annotator: 3
+
+Example 3:
+Text: Lost my phone  Lifeline has vanished! So I activated and am using old Palm Treo for now. Pheww... am still connected to the mobile world!
+Annotation from annotator: 2
+
+Example 4:
+Text: Just used some old school OFF... now I feel like camping
+Annotation from annotator: 3
+
+Example 5:
+Text: awwww a 26 year old australian man has died of swine flu
+Annotation from annotator: 1
+
+Example 6:
+Text: @khead I'll tell ya, grocery store. It was better when you blasted the oldies. Sugar Ray does not make me.. http://tr.im/jd0y
+Annotation from annotator: 1
+
+Example 7:
+Text: nother day .. mo work, mo stress, mo older - sigh
+Annotation from annotator: 3
+
+Example 8:
+Text: @nambor, I guess they fed me the old cow!
+Annotation from annotator: 1
+
+Example 9:
+Text: Oreo, my dog died last night. She got hit in the road. She was only 1 year old.
+Annotation from annotator: 1
+
+Example 10:
+Text: Boy, I sure do hate stop and go traffic. I want my old shift back
+Annotation from annotator: 3
+
+Example 11:
+Text: Showering. Coffee and Grant Park with an old, old friend. Thennnnn.. yeah
+Annotation from annotator: 3
+
+Example 12:
+Text: As a little kid I loved that movie & now as a teenager I love it even moree  I miss the hood old days
+Annotation from annotator: 3
+
+Example 13:
+Text: @jimkerr09 That was a really lovely tribute to your young friend....i'm sorry for your loss.  He sounded like a great lad!
+Annotation from annotator: 2
+
+Example 14:
+Text: My oldest got the highest grade on his math final! It was a 65  How does that teacher still have a job???
+Annotation from annotator: 2
+
+Example 15:
+Text: @meggytron  Yes!!  two days old!!!
+Annotation from annotator: 4
+
+Example 16:
+Text: I enjoy talking with very old people.
+Annotation from annotator: 1
+
+Example 17:
+Text: @REALmrsjoejonas lol  i haven't had it since like.....uh....7th grade hahahaha i feel so old!
+Annotation from annotator: 1
+
+Example 18:
+Text: @gentleadornment Praying also, deffinitely too young
+Annotation from annotator: 2
+
+Example 19:
+Text: @colesprouse1 hope you reply this,how old are you now ???
+Annotation from annotator: 1
+
+Example 20:
+Text: @shrimponbarbie lmfao & your eating the dinner of a 12 year old
+Annotation from annotator: 1
+
+Example 21:
+Text: @MissChinkz  well 1st femz then i discovrd AGz & thought hmm sexy then as i got older im more 4 femz..dated more femz than AG..& yw np
+Annotation from annotator: 1
+
+Example 22:
+Text: @Rockjaw:How are you playing the old stuff? My vista laptop doesn't wanna play anything from DOS days.Tried to run dark forces and no joy
+Annotation from annotator: 2
+
+Example 23:
+Text: @DannyBrown OL. My old dog is a good soul: http://twitpic.com/1gsa4  Great talking with you.
+Annotation from annotator: 2
+
+Example 24:
+Text: I refound my old sucidegirls radio podcasts from a year past and it is making me laugh so hard. I missed missy and lizzy
+Annotation from annotator: 2
+
+Example 25:
+Text: @projct It's my wife's old laptop. CD drive is dead, won't boot from usb. Part-man, Wubi, LVPM, GRUB, and a lot of console hacking
+Annotation from annotator: 1
+
+Example 26:
+Text: F.Y.I- OTD= Out The Door And that last comment was refering to old naked pictures and home videos of your ex girlfriends  INJOY!!!
+Annotation from annotator: 1
+
+Example 27:
+Text: @Teckhamster mostly no - although St Elmo's fire is a great old classic & I did really like Bee movie
+Annotation from annotator: 3
+
+Example 28:
+Text: MmmMmMmmMm. today was kay ^^. <3<3. spend a few hours with my old friend , phong
+Annotation from annotator: 3
+
+Example 29:
+Text: @mylifeisdope My 17 month old VIZIO TV lost it's picture. WTF?  Gonna cost more to fix it than a new one. WTF?
+Annotation from annotator: 2
+
+Example 30:
+Text: Attn all bb users ! Download the new updated fb app, its actually so much better than the old version
+Annotation from annotator: 2
+
+Target Example:
+Text: Feeling old & decrepit after a hard ride on the pony this arvo
+Annotation from annotator:

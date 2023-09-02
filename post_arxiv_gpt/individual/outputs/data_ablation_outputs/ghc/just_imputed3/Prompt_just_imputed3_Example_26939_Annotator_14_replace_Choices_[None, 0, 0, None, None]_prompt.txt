@@ -1,0 +1,124 @@
+Estimated Examples:
+Example 1:
+Text: @BRosenburg thank you for the follow back!
+Annotation from annotator: 0
+
+Example 2:
+Text: :) All to change the way our country thinks. HR 4310 2013 national defense act, section 1078 is the law that Barry Sotoero put into action.. makes propaganda (hoaxes) legal.
+Annotation from annotator: 1
+
+Example 3:
+Text: I pray about 6 times a day for sight for all who will see. There's nothing better to share.
+Annotation from annotator: 0
+
+Example 4:
+Text: #canada Cant do THAT anymore..  #Alberta #BritishColumbia  #west #edmonton mall pool, #Edmonton child snatching while bike riding with brother, 12 girls sexually assaulted in their dorm rooms all in one night in University #Quebec #Immigrants #refugees #Syrians
+Annotation from annotator: 1
+
+Example 5:
+Text: This violent, leftist POS had better be investigated for threats against POTUS. 
+Annotation from annotator: 1
+
+Example 6:
+Text: bitch, i thought you died a decade ago
+Annotation from annotator: 0
+
+Example 7:
+Text: Sure am... and also a blast from the past 
+Annotation from annotator: 0
+
+Example 8:
+Text: STILL WAITING for you Rex to prove your word-vomiting. 
+Annotation from annotator: 1
+
+Example 9:
+Text: An example for us all. #BritFam
+Annotation from annotator: 0
+
+Example 10:
+Text: Skype now fails to deliver many of my messages, have reports of messages to me not going through that I learn about via alternate channels as well. 
+Annotation from annotator: 1
+
+Example 11:
+Text: #WWE #Wrestlemania  
+Annotation from annotator: 0
+
+Example 12:
+Text: Let me show you why it's a bad Idea to trust new translations completely.Here's a passage from the King James.   But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus.
+Annotation from annotator: 0
+
+Example 13:
+Text: [QUESTION] I'm a mac user... External SSD Help? 
+Annotation from annotator: 0
+
+Example 14:
+Text: Iran: Regime Affiliated Institutions Create Problem for Producers 
+Annotation from annotator: 1
+
+Example 15:
+Text: hate? = truth about Jews??? if they only told the truth about themselves there would be no need for others to speak it...those who deny it are guilty of the blood of those killed as a result of the maliciousness of Jews....read Jesus..he knew his Jew like Henry Ford & was killed for it..
+Annotation from annotator: 1
+
+Example 16:
+Text: Why kind of rube uses a facemask?  
+Annotation from annotator: 0
+
+Example 17:
+Text: FBI Misses Another Mass Shooter, Middle East Heating Up, Banks Melting Down Again
+Annotation from annotator: 0
+
+Example 18:
+Text: Where are you on the political spectrum, Patrick?  Are you left, right, middle, liberal, conservative....?
+Annotation from annotator: 0
+
+Example 19:
+Text: Everyone has their own view points of history, albiet, many of them are warped or plain wrong(my view), but one thing I don't want on my feed is about Jews causing 9-11, and that there was no Holocaust.  
+Annotation from annotator: 1
+
+Example 20:
+Text: 2A - Gun Rights  
+Annotation from annotator: 1
+
+Example 21:
+Text: Is it any wonder we are being invaded by barbarians? It will take an uprising of men of a certain age because the young are hopeless and pussies
+Annotation from annotator: 1
+
+Example 22:
+Text: Between the smog and the smell of feces lining their streets, I don't think these people would know what fresh air is, much less our federal voting laws... 
+Annotation from annotator: 1
+
+Example 23:
+Text: Shytnutz, how are ya you piece of muslim shit? How's that camel piss working out for ya? You really should increase the amounts you consume on a daily basis and then inform us of the medicinal value. You like trolling women and talking internet cowboy shit to them huh? Lol.....you pathetic piece of shit. Troll me muthafucker. I LOVE GARBAGE.
+Annotation from annotator: 1
+
+Example 24:
+Text: #NJ #Mass #Shooting Doesn't Fit Narrative, Garners Little Attention. It's just American lives so they aren't as important as #illegal immigrants...right?   #News #Politics #MAGA #Trump #America #Democrats #Immigration 
+Annotation from annotator: 1
+
+Example 25:
+Text: Let them in not Muslims lick the left wants!
+Annotation from annotator: 1
+
+Example 26:
+Text: randomly administered mental health checks and drug tests for ANYONE paid with tax dollars. local , state, and federal...MAGA BABY!
+Annotation from annotator: 0
+
+Example 27:
+Text: I fought plenty of people but not any in awhile. You should always stand up for yourself.
+Annotation from annotator: 0
+
+Example 28:
+Text: Must not have been too secret if they're naming names in an article 🙄
+Annotation from annotator: 1
+
+Example 29:
+Text: Asian women are f...ugly.  Only old men and idiots marry Asian women.
+Annotation from annotator: 1
+
+Example 30:
+Text: I've seen that 'thing' before mate, and every time I see it I just soooo want to slap the living snot out of it.
+Annotation from annotator: 1
+
+Target Example:
+Text: Can't wait to see that Monday.
+Annotation from annotator:

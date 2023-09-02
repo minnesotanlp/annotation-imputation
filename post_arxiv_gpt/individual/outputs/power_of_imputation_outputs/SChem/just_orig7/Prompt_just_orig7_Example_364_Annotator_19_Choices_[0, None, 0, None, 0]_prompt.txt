@@ -1,0 +1,127 @@
+In this dataset, people are given rules of thumb, such as "You should be accepting of other people's bodies." People then rate the rule of thumb as to how much of the world population they think would agree with that rule of thumb. 4 means "universal". 3 means "common". 2 means "controversial". 1 means "occasional". 0 means "almost no one".
+
+Correct Examples:
+Example 1:
+Text: You shouldn't have sex with people if you have herpes.
+Annotation from annotator: 3
+
+Example 2:
+Text: It's important to respect the culture of other people.
+Annotation from annotator: 2
+
+Example 3:
+Text: You shouldn't judge a whole race of people by the actions of a few people.
+Annotation from annotator: 3
+
+Example 4:
+Text: It's wrong for people that care about each other to argue.
+Annotation from annotator: 2
+
+Example 5:
+Text: It's not okay to stray from a relationship.
+Annotation from annotator: 2
+
+Example 6:
+Text: It's good to teach children that their boundaries should be respected.
+Annotation from annotator: 2
+
+Example 7:
+Text: It's ok to make your own reproductive choices.
+Annotation from annotator: 2
+
+Example 8:
+Text: It's good to go out and have fun with your kids.
+Annotation from annotator: 3
+
+Example 9:
+Text: You should not pursue a relationship with someone much younger than you.
+Annotation from annotator: 2
+
+Example 10:
+Text: It's not okay to be to happy with a material object.
+Annotation from annotator: 1
+
+Example 11:
+Text: It's wrong to grow apart from your partner.
+Annotation from annotator: 2
+
+Example 12:
+Text: It's not okay to rely on technology for health.
+Annotation from annotator: 1
+
+Example 13:
+Text: You shouldn't post inappropriate pictures online.
+Annotation from annotator: 3
+
+Example 14:
+Text: It is normal for students to pass notes
+Annotation from annotator: 2
+
+Example 15:
+Text: It's bad to hold a grudge against your parents.
+Annotation from annotator: 3
+
+Example 16:
+Text: It's good to find things to help you soften your grief.
+Annotation from annotator: 3
+
+Example 17:
+Text: It’s encouraged that parents make time for their kids outside of work and school
+Annotation from annotator: 3
+
+Example 18:
+Text: It's normal to want to clear up space.
+Annotation from annotator: 3
+
+Example 19:
+Text: You shouldn't be up and about if you're sick.
+Annotation from annotator: 2
+
+Example 20:
+Text: It's nice to represent change in your generation.
+Annotation from annotator: 2
+
+Example 21:
+Text: It's good to want to have the admiration of your peers.
+Annotation from annotator: 2
+
+Example 22:
+Text: It's rude to mislead people about your health.
+Annotation from annotator: 3
+
+Example 23:
+Text: It's bad to hate babies.
+Annotation from annotator: 3
+
+Example 24:
+Text: You shouldn't be so scared about getting married.
+Annotation from annotator: 2
+
+Example 25:
+Text: It's bad to have an overly pessimistic world view.
+Annotation from annotator: 2
+
+Example 26:
+Text: People shouldn't assume it's okay to take something just because it's not nailed down.
+Annotation from annotator: 3
+
+Example 27:
+Text: If you don't want to crash, you shouldn't drive recklessly.
+Annotation from annotator: 3
+
+Example 28:
+Text: You should feel remorse when you get someone fired.
+Annotation from annotator: 2
+
+Example 29:
+Text: If someone forbids you from doing something, you should respect them.
+Annotation from annotator: 2
+
+Example 30:
+Text: It's inappropriate for a parent to help a teenage boy shower.
+Annotation from annotator: 3
+
+Target Example:
+Text: It's good to socialize with others at school.
+Annotation from annotator:
+Your output should be a single integer corresponding to the label.
