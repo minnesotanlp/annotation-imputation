@@ -9,8 +9,10 @@ import matplotlib.pyplot as plt
 def main(annotations_file, name):
     # Read in the annotations file
     annotations = np.load(annotations_file, allow_pickle=True)
-    # replace all the -1s with 10
+    # replace all the -1s (missing annotations) with 10
     annotations[annotations == -1] = 10
+    # transpose the annotations so that each row is an annotator
+    annotations = annotations.T
     pca = PCA(2) 
     df = pca.fit_transform(annotations)
     kmeans = KMeans(n_clusters= 1)

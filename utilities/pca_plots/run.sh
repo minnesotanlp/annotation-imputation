@@ -9,6 +9,6 @@ else
     exit 1
 fi
 
-$python_command pca_plots.py \
+$python_command main.py \
     --annotations_file ../../datasets/cleaned/SChem_annotations.npy \
     --name "PCA Plot - Original SChem"
