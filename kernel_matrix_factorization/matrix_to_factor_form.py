@@ -1,6 +1,6 @@
 '''
 Given a df in matrix form, return a df in factor form.
-See dataset_types.md for info on the different forms.
+See dataset_formats.py for info on the different forms.
 '''
 
 from dataset_columns import SENTENCE_ID_COL, SENTENCE_COL, USER_ID_COL, LABEL_COL
