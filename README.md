@@ -89,6 +89,8 @@ The requirements for the code can be handled by using the Docker image located a
             * Merges duplicate examples. If there are conflicting labels, either raises an error, or can choose a label at random (which is what we did for our datasets)
         * `utilities/double_dataset.py` (used in `utilities/double_SBIC.bat`)
             * Some datasets (such as SBIC) use 0.5 increments for labels. This script doubles all the values in a dataset so that labels are all integer labels
+         * `utilities/not_too_sparse.py`
+            * Makes sure there aren't any rows or columns with no data whatsoever
     * `utilities/compute_disagreement/compute_disagreement.py`
         * Computes disagreement in a dataset; used in `split_based_on_disagreement/main.py`
     * `utilities/prediction_fold_split.py`
